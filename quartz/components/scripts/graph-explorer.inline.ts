@@ -1,7 +1,6 @@
 import {
   SimulationLinkDatum,
   SimulationNodeDatum,
-  drag,
   forceCenter,
   forceCollide,
   forceLink,
@@ -38,7 +37,7 @@ type FilterState = {
   types: string[]
   minClaims: number
   minQuotes: number
-  source: string
+  sources: string[]
   from: number | null
   to: number | null
   depth: number
@@ -73,14 +72,18 @@ const defaultState: FilterState = {
   types: [],
   minClaims: 3,
   minQuotes: 1,
-  source: "",
+  sources: [],
   from: null,
   to: null,
   depth: -1,
   maxNodes: 250,
   showPlaces: false,
   showTopics: false,
-  panel: "details",
+  panel: "hidden",
+}
+
+function mobileGraphProfile(): boolean {
+  return window.matchMedia("(max-width: 760px), (pointer: coarse)").matches
 }
 
 const typeColors: Record<string, string> = {
@@ -113,8 +116,15 @@ function parseOptionalNumber(value: string | null): number | null {
 function readState(): FilterState {
   const params = new URLSearchParams(window.location.search)
   const panel = params.get("panel")
+  const mobile = mobileGraphProfile()
+  const explicitFocus = params.get("focus")
+  const defaultDepth = explicitFocus ? (mobile ? 1 : 2) : defaultState.depth
+  const sources = (params.get("sources") ?? params.get("source") ?? "")
+    .split(",")
+    .map((value) => value.trim())
+    .filter(Boolean)
   return {
-    focus: (params.get("focus") ? simplifySlug(params.get("focus") as FullSlug) : "") as
+    focus: (explicitFocus ? simplifySlug(explicitFocus as FullSlug) : "") as
       | SimpleSlug
       | "",
     q: params.get("q") ?? "",
@@ -125,14 +135,14 @@ function readState(): FilterState {
       .filter(Boolean),
     minClaims: parseNumber(params.get("minClaims"), defaultState.minClaims),
     minQuotes: parseNumber(params.get("minQuotes"), defaultState.minQuotes),
-    source: params.get("source") ?? "",
+    sources: [...new Set(sources)],
     from: parseOptionalNumber(params.get("from")),
     to: parseOptionalNumber(params.get("to")),
-    depth: parseNumber(params.get("depth"), defaultState.depth),
-    maxNodes: parseNumber(params.get("maxNodes"), defaultState.maxNodes),
+    depth: parseNumber(params.get("depth"), defaultDepth),
+    maxNodes: parseNumber(params.get("maxNodes"), mobile ? 110 : defaultState.maxNodes),
     showPlaces: params.get("showPlaces") === "1",
     showTopics: params.get("showTopics") === "1",
-    panel: panel === "page" || panel === "hidden" ? panel : "details",
+    panel: panel === "details" || panel === "page" || panel === "hidden" ? panel : defaultState.panel,
   }
 }
 
@@ -144,7 +154,7 @@ function writeState(state: FilterState) {
   if (state.types.length > 0) params.set("types", state.types.join(","))
   if (state.minClaims !== defaultState.minClaims) params.set("minClaims", String(state.minClaims))
   if (state.minQuotes !== defaultState.minQuotes) params.set("minQuotes", String(state.minQuotes))
-  if (state.source) params.set("source", state.source)
+  if (state.sources.length > 0) params.set("sources", state.sources.join(","))
   if (state.from !== null) params.set("from", String(state.from))
   if (state.to !== null) params.set("to", String(state.to))
   if (state.depth !== defaultState.depth) params.set("depth", String(state.depth))
@@ -205,14 +215,14 @@ async function loadCitationSources(): Promise<CitationSourceRegistryEntry[]> {
   return cachedCitationSources
 }
 
-function sourceMatches(node: GraphExplorerIndexDetails, selectedSource: string): boolean {
-  if (!selectedSource) return true
+function sourceMatches(node: GraphExplorerIndexDetails, selectedSources: string[]): boolean {
+  if (selectedSources.length === 0) return true
   const sourceIds = node.citationSourceIds ?? []
-  if (sourceIds.includes(selectedSource)) return true
+  if (selectedSources.some((source) => sourceIds.includes(source))) return true
 
-  const needle = normalizedText(selectedSource)
+  const needles = selectedSources.map((source) => normalizedText(source)).filter(Boolean)
   const sources = normalizedText([...(node.citationSourceIds ?? []), ...(node.citationSourceTitles ?? [])].join(" "))
-  return sources.includes(needle)
+  return needles.some((needle) => sources.includes(needle))
 }
 
 function graphExplorerIndexUrls(): string[] {
@@ -342,7 +352,7 @@ function passesFilters(node: GraphExplorerIndexDetails, state: FilterState, igno
   if (!ignoreVolume && node.claimCount < state.minClaims && node.quoteCount < state.minQuotes) {
     return false
   }
-  if (!sourceMatches(node, state.source)) return false
+  if (!sourceMatches(node, state.sources)) return false
   if (!dateOverlaps(node, state.from, state.to)) return false
   if (state.q) {
     const needle = normalizedText(state.q)
@@ -357,7 +367,7 @@ function passesFilters(node: GraphExplorerIndexDetails, state: FilterState, igno
 function passesFocusTraversalFilters(node: GraphExplorerIndexDetails, state: FilterState): boolean {
   if (!graphAllowed(node, state)) return false
   if (!dateOverlaps(node, state.from, state.to)) return false
-  if (!sourceMatches(node, state.source)) return false
+  if (!sourceMatches(node, state.sources)) return false
   return true
 }
 
@@ -609,14 +619,10 @@ function setFormState(root: HTMLElement, state: FilterState) {
   ;(form.elements.namedItem("preset") as HTMLSelectElement).value = state.preset
   ;(form.elements.namedItem("minClaims") as HTMLInputElement).value = String(state.minClaims)
   ;(form.elements.namedItem("minQuotes") as HTMLInputElement).value = String(state.minQuotes)
-  const sourceSelect = form.elements.namedItem("source") as HTMLSelectElement
-  if (state.source && ![...sourceSelect.options].some((option) => option.value === state.source)) {
-    sourceSelect.append(new Option(`Senas filtras: ${state.source}`, state.source))
-  }
-  sourceSelect.value = state.source
   ;(form.elements.namedItem("from") as HTMLInputElement).value = state.from === null ? "" : String(state.from)
   ;(form.elements.namedItem("to") as HTMLInputElement).value = state.to === null ? "" : String(state.to)
-  ;(form.elements.namedItem("depth") as HTMLSelectElement).value = String(state.depth)
+  const activeDepth = form.querySelector<HTMLInputElement>(`input[name="depth"][value="${state.depth}"]`)
+  if (activeDepth) activeDepth.checked = true
   ;(form.elements.namedItem("maxNodes") as HTMLInputElement).value = String(state.maxNodes)
   ;(form.elements.namedItem("showPlaces") as HTMLInputElement).checked = state.showPlaces
   ;(form.elements.namedItem("showTopics") as HTMLInputElement).checked = state.showTopics
@@ -629,16 +635,16 @@ function setFormState(root: HTMLElement, state: FilterState) {
 function readFormState(root: HTMLElement, previous: FilterState): FilterState {
   const form = root.querySelector("[data-graph-filters]") as HTMLFormElement
   const types = form.elements.namedItem("types") as HTMLSelectElement
+  const activeDepth = form.querySelector<HTMLInputElement>("input[name='depth']:checked")
   return {
     ...previous,
     q: (form.elements.namedItem("q") as HTMLInputElement).value.trim(),
     preset: (form.elements.namedItem("preset") as HTMLSelectElement).value,
     minClaims: Math.max(0, parseNumber((form.elements.namedItem("minClaims") as HTMLInputElement).value, 0)),
     minQuotes: Math.max(0, parseNumber((form.elements.namedItem("minQuotes") as HTMLInputElement).value, 0)),
-    source: (form.elements.namedItem("source") as HTMLSelectElement).value.trim(),
     from: parseOptionalNumber((form.elements.namedItem("from") as HTMLInputElement).value),
     to: parseOptionalNumber((form.elements.namedItem("to") as HTMLInputElement).value),
-    depth: parseNumber((form.elements.namedItem("depth") as HTMLSelectElement).value, -1),
+    depth: parseNumber(activeDepth?.value ?? null, -1),
     maxNodes: Math.max(25, parseNumber((form.elements.namedItem("maxNodes") as HTMLInputElement).value, 250)),
     showPlaces: (form.elements.namedItem("showPlaces") as HTMLInputElement).checked,
     showTopics: (form.elements.namedItem("showTopics") as HTMLInputElement).checked,
@@ -654,26 +660,70 @@ function sourceOptionLabel(source: CitationSourceRegistryEntry): string {
     : source.title
 }
 
-async function populateSourceSelect(root: HTMLElement, state: FilterState) {
-  const selectElement = root.querySelector<HTMLSelectElement>("[data-source-select]")
-  if (!selectElement) return
-  const sources = await loadCitationSources()
-  const selected = state.source
-  selectElement.replaceChildren(new Option("Visos knygos", ""))
-  for (const source of sources) {
-    selectElement.append(new Option(sourceOptionLabel(source), source.id))
-  }
-  if (selected && !sources.some((source) => source.id === selected)) {
-    selectElement.append(new Option(`Senas filtras: ${selected}`, selected))
-  }
-  selectElement.value = selected
+function escapeHtml(value: string): string {
+  return value
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;")
 }
 
-function syncAdvancedFiltersForViewport(root: HTMLElement) {
-  const advanced = root.querySelector<HTMLDetailsElement>(".graph-explorer-advanced")
-  if (!advanced) return
-  const shouldCollapse = window.matchMedia("(max-width: 760px)").matches
-  advanced.open = !shouldCollapse
+function sourceSummaryLabel(state: FilterState, sources: CitationSourceRegistryEntry[]): string {
+  if (state.sources.length === 0) return "Visos knygos"
+  if (state.sources.length === 1) {
+    const source = sources.find((entry) => entry.id === state.sources[0])
+    return source ? source.title : "1 knyga"
+  }
+  return `${state.sources.length} knygos`
+}
+
+function syncSourceControls(
+  root: HTMLElement,
+  state: FilterState,
+  onSourcesChange: (sources: string[]) => void,
+) {
+  const sources = cachedCitationSources ?? []
+  const list = root.querySelector<HTMLElement>("[data-source-list]")
+  const summary = root.querySelector<HTMLElement>("[data-source-summary]")
+  const search = root.querySelector<HTMLInputElement>("[data-source-search]")
+  if (summary) {
+    summary.textContent = sourceSummaryLabel(state, sources)
+  }
+  if (!list) return
+  if (!cachedCitationSources) {
+    list.innerHTML = `<p class="graph-explorer-empty">Kraunamos knygos...</p>`
+    return
+  }
+  const selected = new Set(state.sources)
+  const query = normalizedText(search?.value ?? "")
+  const filtered = sources.filter((source) => normalizedText(source.title).includes(query))
+  if (filtered.length === 0) {
+    list.innerHTML = `<p class="graph-explorer-empty">Nerasta knygų.</p>`
+    return
+  }
+  list.innerHTML = filtered
+    .map((source) => {
+      const checked = selected.has(source.id) ? `checked` : ""
+      return `
+        <label class="graph-explorer-source-option">
+          <input type="checkbox" value="${escapeHtml(source.id)}" ${checked} data-source-checkbox />
+          <span>${escapeHtml(sourceOptionLabel(source))}</span>
+        </label>
+      `
+    })
+    .join("")
+  list.querySelectorAll<HTMLInputElement>("[data-source-checkbox]").forEach((checkbox) => {
+    checkbox.addEventListener("change", () => {
+      const next = new Set(state.sources)
+      if (checkbox.checked) {
+        next.add(checkbox.value)
+      } else {
+        next.delete(checkbox.value)
+      }
+      onSourcesChange([...next])
+    })
+  })
 }
 
 function renderNodePanel(
@@ -747,6 +797,51 @@ function linkNode(linkEnd: RuntimeNode | string | number): RuntimeNode {
   return linkEnd as RuntimeNode
 }
 
+type CanvasTransform = {
+  x: number
+  y: number
+  k: number
+}
+
+function linkEndpoints(link: RuntimeLink): [RuntimeNode, RuntimeNode] {
+  return [linkNode(link.source), linkNode(link.target)]
+}
+
+function nodeScreenPosition(node: RuntimeNode, transform: CanvasTransform): { x: number; y: number } {
+  return {
+    x: (node.x ?? 0) * transform.k + transform.x,
+    y: (node.y ?? 0) * transform.k + transform.y,
+  }
+}
+
+function distanceToSegment(
+  pointX: number,
+  pointY: number,
+  startX: number,
+  startY: number,
+  endX: number,
+  endY: number,
+): number {
+  const dx = endX - startX
+  const dy = endY - startY
+  if (dx === 0 && dy === 0) return Math.hypot(pointX - startX, pointY - startY)
+  const t = Math.max(0, Math.min(1, ((pointX - startX) * dx + (pointY - startY) * dy) / (dx * dx + dy * dy)))
+  return Math.hypot(pointX - (startX + t * dx), pointY - (startY + t * dy))
+}
+
+function labelCandidates(nodes: RuntimeNode[], focus: SimpleSlug | "", mobile: boolean): RuntimeNode[] {
+  const cap = mobile ? 20 : 70
+  return nodes
+    .filter((node) => node.id === focus || node.globalDegree > 3 || node.score > 12)
+    .sort((a, b) => {
+      if (a.id === focus) return -1
+      if (b.id === focus) return 1
+      const diff = b.score + b.globalDegree * 0.8 - (a.score + a.globalDegree * 0.8)
+      return diff === 0 ? a.title.localeCompare(b.title, "lt") : diff
+    })
+    .slice(0, cap)
+}
+
 function renderEdgePanel(
   panel: HTMLElement,
   link: RuntimeLink,
@@ -798,11 +893,20 @@ function renderGraph(
   canvas.innerHTML = ""
   const width = Math.max(canvas.clientWidth, 320)
   const height = Math.max(canvas.clientHeight, 320)
-  const svg = select(canvas)
-    .append("svg")
-    .attr("viewBox", `${-width / 2} ${-height / 2} ${width} ${height}`)
-    .attr("role", "img")
-    .attr("aria-label", "Objektų ryšių žemėlapis")
+  const mobile = mobileGraphProfile()
+  const pixelRatio = Math.min(window.devicePixelRatio || 1, mobile ? 1.5 : 2)
+  const canvasElement = document.createElement("canvas")
+  canvasElement.className = "graph-explorer-renderer"
+  canvasElement.width = Math.floor(width * pixelRatio)
+  canvasElement.height = Math.floor(height * pixelRatio)
+  canvasElement.style.width = `${width}px`
+  canvasElement.style.height = `${height}px`
+  canvasElement.setAttribute("role", "img")
+  canvasElement.setAttribute("aria-label", "Objektų ryšių žemėlapis")
+  canvas.append(canvasElement)
+  const ctx = canvasElement.getContext("2d")
+  if (!ctx) return
+
   const showPanelButton = document.createElement("button")
   showPanelButton.className = "graph-explorer-show-panel"
   showPanelButton.type = "button"
@@ -811,98 +915,180 @@ function renderGraph(
   showPanelButton.addEventListener("click", () => setPanelMode("details"))
   canvas.append(showPanelButton)
 
-  const stage = svg.append("g")
-  const linkLayer = stage.append("g").attr("class", "graph-explorer-links")
-  const nodeLayer = stage.append("g").attr("class", "graph-explorer-nodes")
-  const labelLayer = stage.append("g").attr("class", "graph-explorer-labels")
-  const zoomBehavior = zoom<SVGSVGElement, unknown>()
-    .scaleExtent([0.2, 5])
-    .on("zoom", ({ transform }) => {
-      stage.attr("transform", transform.toString())
-      labelLayer.attr("font-size", 13 / transform.k)
-    })
-
-  svg.call(zoomBehavior)
-
+  let transform: CanvasTransform = { x: width / 2, y: height / 2, k: 1 }
+  let selectedLink: RuntimeLink | null = null
+  let hoverNode: RuntimeNode | null = null
+  let draggingNode: RuntimeNode | null = null
   const focusNode = graph.focus ? graph.nodes.find((node) => node.id === graph.focus) : undefined
-  const links = linkLayer
-    .selectAll("line")
-    .data(graph.links)
-    .join("line")
-    .attr("class", "graph-explorer-link")
-    .style("stroke", (link) => (link.details.relationKind === "public_relation" ? "#b8a686" : "#8f7658"))
-    .attr("stroke-width", (link) => Math.min(5, 0.6 + Math.log1p(link.details.evidenceCount) * 1.4))
-    .attr("stroke-opacity", (link) => Math.max(0.32, Math.min(0.88, link.details.confidence)))
-    .on("click", (event, link) => {
-      event.stopPropagation()
-      if (state.panel === "hidden") {
-        setPanelMode("details")
-      }
-      renderEdgePanel(panel, link, { ...state, panel: "details" }, setPanelMode)
-    })
+  const labels = labelCandidates(graph.nodes, graph.focus, mobile)
 
-  const nodes = nodeLayer
-    .selectAll("circle")
-    .data(graph.nodes)
-    .join("circle")
-    .attr("class", (node) => `graph-explorer-node${node.id === graph.focus ? " is-selected" : ""}`)
-    .attr("r", (node) => radius(node, graph.focus))
-    .attr("fill", (node) => typeColors[nodeType(node)] ?? "#9b7b49")
-    .attr("stroke", (node) => (node.id === graph.focus ? "var(--secondary)" : "var(--light)"))
-    .attr("stroke-width", (node) => (node.id === graph.focus ? 3 : 1))
-    .attr("tabindex", 0)
-    .attr("role", "button")
-    .attr("aria-label", (node) => node.title)
-    .on("click", (event, node) => {
-      event.stopPropagation()
-      activateFocus(node.id)
-    })
-    .call(
-      drag<SVGCircleElement, RuntimeNode>()
-        .on("start", (event, node) => {
-          if (!event.active) simulation.alphaTarget(0.25).restart()
-          node.fx = node.x
-          node.fy = node.y
-        })
-        .on("drag", (event, node) => {
-          node.fx = event.x
-          node.fy = event.y
-        })
-        .on("end", (event, node) => {
-          if (!event.active) simulation.alphaTarget(0)
-          node.fx = null
-          node.fy = null
-        }) as any,
+  const draw = () => {
+    ctx.save()
+    ctx.scale(pixelRatio, pixelRatio)
+    ctx.clearRect(0, 0, width, height)
+    ctx.fillStyle = getComputedStyle(canvasElement).getPropertyValue("--light") || "#f8f2e8"
+    ctx.fillRect(0, 0, width, height)
+
+    for (const link of graph.links) {
+      const [source, target] = linkEndpoints(link)
+      const s = nodeScreenPosition(source, transform)
+      const t = nodeScreenPosition(target, transform)
+      const evidenceWeight = Math.min(4.5, 0.55 + Math.log1p(link.details.evidenceCount) * 1.2)
+      ctx.beginPath()
+      ctx.moveTo(s.x, s.y)
+      ctx.lineTo(t.x, t.y)
+      ctx.strokeStyle =
+        link === selectedLink
+          ? "#923120"
+          : link.details.relationKind === "public_relation"
+            ? "rgba(150, 130, 94, 0.52)"
+            : "rgba(111, 88, 58, 0.68)"
+      ctx.globalAlpha = Math.max(0.28, Math.min(0.86, link.details.confidence))
+      ctx.lineWidth = evidenceWeight
+      ctx.stroke()
+    }
+    ctx.globalAlpha = 1
+
+    for (const node of graph.nodes) {
+      const pos = nodeScreenPosition(node, transform)
+      const r = radius(node, graph.focus) * Math.max(0.72, Math.min(1.25, Math.sqrt(transform.k)))
+      ctx.beginPath()
+      ctx.arc(pos.x, pos.y, r, 0, Math.PI * 2)
+      ctx.fillStyle = typeColors[nodeType(node)] ?? "#9b7b49"
+      ctx.fill()
+      ctx.strokeStyle =
+        node.id === graph.focus
+          ? "#923120"
+          : node === hoverNode
+            ? "rgba(146, 49, 32, 0.9)"
+            : "rgba(255, 250, 241, 0.9)"
+      ctx.lineWidth = node.id === graph.focus ? 4 : node === hoverNode ? 2.4 : 1.2
+      ctx.stroke()
+    }
+
+    const visibleLabels =
+      transform.k < 0.58 && focusNode
+        ? labels.filter((node) => node.id === focusNode.id || node.globalDegree > 10)
+        : labels
+    for (const node of visibleLabels) {
+      const pos = nodeScreenPosition(node, transform)
+      const baseSize = node.id === graph.focus ? 14 : 12
+      const size = Math.max(10, Math.min(16, baseSize / Math.sqrt(Math.max(0.82, transform.k))))
+      const r = radius(node, graph.focus) * Math.max(0.72, Math.min(1.25, Math.sqrt(transform.k)))
+      ctx.font = `${node.id === graph.focus ? 700 : 500} ${size}px var(--bodyFont, serif)`
+      ctx.textAlign = "center"
+      ctx.textBaseline = "bottom"
+      ctx.lineWidth = 4
+      ctx.strokeStyle = "rgba(248, 242, 232, 0.88)"
+      ctx.fillStyle = "#33241a"
+      ctx.strokeText(node.title, pos.x, pos.y - r - 4)
+      ctx.fillText(node.title, pos.x, pos.y - r - 4)
+    }
+    ctx.restore()
+  }
+
+  const hitNode = (event: PointerEvent | MouseEvent): RuntimeNode | null => {
+    const rect = canvasElement.getBoundingClientRect()
+    const x = event.clientX - rect.left
+    const y = event.clientY - rect.top
+    return (
+      [...graph.nodes]
+        .reverse()
+        .find((node) => {
+          const pos = nodeScreenPosition(node, transform)
+          const hitRadius = Math.max(12, radius(node, graph.focus) * Math.sqrt(transform.k) + 6)
+          return Math.hypot(pos.x - x, pos.y - y) <= hitRadius
+        }) ?? null
     )
+  }
 
-  const labels = labelLayer
-    .selectAll("text")
-    .data(graph.nodes.filter((node) => node === focusNode || node.degree > 1 || node.score > 8))
-    .join("text")
-    .attr("class", "graph-explorer-label")
-    .text((node) => node.title)
-    .attr("text-anchor", "middle")
-    .attr("dy", (node) => -radius(node, graph.focus) - 5)
+  const hitLink = (event: PointerEvent | MouseEvent): RuntimeLink | null => {
+    const rect = canvasElement.getBoundingClientRect()
+    const x = event.clientX - rect.left
+    const y = event.clientY - rect.top
+    let best: { link: RuntimeLink; distance: number } | null = null
+    for (const link of graph.links) {
+      const [source, target] = linkEndpoints(link)
+      const s = nodeScreenPosition(source, transform)
+      const t = nodeScreenPosition(target, transform)
+      const distance = distanceToSegment(x, y, s.x, s.y, t.x, t.y)
+      if (distance <= 7 && (!best || distance < best.distance)) {
+        best = { link, distance }
+      }
+    }
+    return best?.link ?? null
+  }
+
+  const zoomBehavior = zoom<HTMLCanvasElement, unknown>()
+    .scaleExtent([0.2, 5])
+    .on("zoom", (event) => {
+      transform = {
+        x: event.transform.x,
+        y: event.transform.y,
+        k: event.transform.k,
+      }
+      draw()
+    })
+
+  select(canvasElement).call(zoomBehavior as any)
+  canvasElement.addEventListener("pointermove", (event) => {
+    if (draggingNode) {
+      const rect = canvasElement.getBoundingClientRect()
+      draggingNode.fx = (event.clientX - rect.left - transform.x) / transform.k
+      draggingNode.fy = (event.clientY - rect.top - transform.y) / transform.k
+      draggingNode.x = draggingNode.fx
+      draggingNode.y = draggingNode.fy
+      draw()
+      return
+    }
+    const nextHover = hitNode(event)
+    if (nextHover !== hoverNode) {
+      hoverNode = nextHover
+      canvasElement.style.cursor = hoverNode ? "pointer" : hitLink(event) ? "pointer" : "grab"
+      draw()
+    }
+  })
+  canvasElement.addEventListener("pointerdown", (event) => {
+    const node = hitNode(event)
+    if (!node) return
+    event.preventDefault()
+    draggingNode = node
+    node.fx = node.x
+    node.fy = node.y
+    canvasElement.setPointerCapture(event.pointerId)
+  })
+  canvasElement.addEventListener("pointerup", (event) => {
+    const dragged = draggingNode
+    if (draggingNode) {
+      draggingNode.fx = null
+      draggingNode.fy = null
+      draggingNode = null
+      canvasElement.releasePointerCapture(event.pointerId)
+    }
+    const node = hitNode(event)
+    if (node && node === dragged) {
+      activateFocus(node.id)
+      return
+    }
+    const link = hitLink(event)
+    if (link) {
+      selectedLink = link
+      if (state.panel === "hidden") setPanelMode("details")
+      renderEdgePanel(panel, link, { ...state, panel: "details" }, setPanelMode)
+      draw()
+    }
+  })
 
   const simulation = forceSimulation<RuntimeNode>(graph.nodes)
-    .force("charge", forceManyBody<RuntimeNode>().strength((node) => -120 - node.score * 2))
-    .force("center", forceCenter(0, 0).strength(0.16))
+    .force("charge", forceManyBody<RuntimeNode>().strength((node) => -90 - Math.min(60, node.score * 1.6)))
+    .force("center", forceCenter(0, 0).strength(0.18))
     .force(
       "link",
       forceLink<RuntimeNode, RuntimeLink>(graph.links)
         .id((node) => node.id)
-        .distance((link) => 58 + Math.max(0, 5 - link.details.evidenceCount) * 8),
+        .distance((link) => 54 + Math.max(0, 5 - link.details.evidenceCount) * 7),
     )
-    .force("collide", forceCollide<RuntimeNode>((node) => radius(node, graph.focus) + 10).iterations(2))
-    .on("tick", () => {
-      links
-        .attr("x1", (link) => linkNode(link.source).x ?? 0)
-        .attr("y1", (link) => linkNode(link.source).y ?? 0)
-        .attr("x2", (link) => linkNode(link.target).x ?? 0)
-        .attr("y2", (link) => linkNode(link.target).y ?? 0)
-      nodes.attr("cx", (node) => node.x ?? 0).attr("cy", (node) => node.y ?? 0)
-      labels.attr("x", (node) => node.x ?? 0).attr("y", (node) => node.y ?? 0)
-    })
+    .force("collide", forceCollide<RuntimeNode>((node) => radius(node, graph.focus) + 9).iterations(mobile ? 1 : 2))
 
   const fitGraphToCanvas = () => {
     if (graph.nodes.length === 0) return
@@ -921,21 +1107,15 @@ function renderGraph(
     )
     const centerX = (minX + maxX) / 2
     const centerY = (minY + maxY) / 2
-    svg
+    select(canvasElement)
       .transition()
-      .duration(450)
-      .call(zoomBehavior.transform, zoomIdentity.translate(-centerX * scale, -centerY * scale).scale(scale))
+      .duration(mobile ? 180 : 360)
+      .call(zoomBehavior.transform as any, zoomIdentity.translate(width / 2 - centerX * scale, height / 2 - centerY * scale).scale(scale))
   }
 
   simulation.stop()
-  simulation.tick(120)
-  links
-    .attr("x1", (link) => linkNode(link.source).x ?? 0)
-    .attr("y1", (link) => linkNode(link.source).y ?? 0)
-    .attr("x2", (link) => linkNode(link.target).x ?? 0)
-    .attr("y2", (link) => linkNode(link.target).y ?? 0)
-  nodes.attr("cx", (node) => node.x ?? 0).attr("cy", (node) => node.y ?? 0)
-  labels.attr("x", (node) => node.x ?? 0).attr("y", (node) => node.y ?? 0)
+  simulation.tick(mobile ? 45 : 90)
+  draw()
   fitGraphToCanvas()
 
   if (focusNode && state.panel !== "hidden") {
@@ -972,11 +1152,16 @@ async function setupGraphExplorer(root: HTMLElement) {
   )
 
   let state = readState()
-  syncAdvancedFiltersForViewport(root)
-  await populateSourceSelect(root, state)
   setFormState(root, state)
 
   let pendingRenderFrame = 0
+  const setSources = (sources: string[]) => {
+    state = { ...state, sources: [...new Set(sources.filter(Boolean))] }
+    writeState(state)
+    syncSourceControls(root, state, setSources)
+    rerender()
+  }
+
   const rerender = () => {
     pendingRenderFrame = 0
     root.dataset.panel = state.panel
@@ -1001,14 +1186,13 @@ async function setupGraphExplorer(root: HTMLElement) {
     state = {
       ...state,
       focus: slug,
-      depth: 1,
+      depth: mobileGraphProfile() ? 1 : 2,
       q: "",
-      preset: "important",
-      types: [],
       panel: state.panel === "hidden" ? "details" : state.panel,
     }
     writeState(state)
     setFormState(root, state)
+    syncSourceControls(root, state, setSources)
     rerender()
   }
 
@@ -1019,6 +1203,7 @@ async function setupGraphExplorer(root: HTMLElement) {
     }
     writeState(state)
     setFormState(root, state)
+    syncSourceControls(root, state, setSources)
     rerender()
   }
 
@@ -1042,13 +1227,61 @@ async function setupGraphExplorer(root: HTMLElement) {
     state = { ...defaultState }
     writeState(state)
     setFormState(root, state)
+    syncSourceControls(root, state, setSources)
     rerender()
   })
-  window.addEventListener("resize", () => syncAdvancedFiltersForViewport(root), { passive: true })
   root.querySelector<HTMLButtonElement>("[data-panel-show]")?.addEventListener("click", () => {
     setPanelMode("details")
   })
+  root.querySelector<HTMLButtonElement>("[data-panel-toggle]")?.addEventListener("click", () => {
+    setPanelMode(state.panel === "hidden" ? "details" : "hidden")
+  })
+  root.querySelector<HTMLInputElement>("[data-source-search]")?.addEventListener("input", () => {
+    syncSourceControls(root, state, setSources)
+  })
+  root.querySelector<HTMLButtonElement>("[data-source-select-all]")?.addEventListener("click", () => {
+    setSources([])
+  })
+  root.querySelector<HTMLButtonElement>("[data-source-clear]")?.addEventListener("click", () => {
+    setSources([])
+  })
 
+  const closePopovers = () => {
+    root.querySelectorAll<HTMLElement>("[data-popover-panel]").forEach((panel) => {
+      panel.hidden = true
+    })
+    root.querySelectorAll<HTMLButtonElement>("[data-popover-toggle]").forEach((button) => {
+      button.setAttribute("aria-expanded", "false")
+    })
+  }
+  root.querySelectorAll<HTMLButtonElement>("[data-popover-toggle]").forEach((button) => {
+    button.addEventListener("click", (event) => {
+      event.preventDefault()
+      event.stopPropagation()
+      const targetName = button.dataset.popoverToggle
+      const target = targetName
+        ? root.querySelector<HTMLElement>(`[data-popover-panel="${targetName}"]`)
+        : null
+      const shouldOpen = Boolean(target?.hidden)
+      closePopovers()
+      if (target && shouldOpen) {
+        target.hidden = false
+        button.setAttribute("aria-expanded", "true")
+      }
+    })
+  })
+  root.querySelectorAll<HTMLButtonElement>("[data-popover-close]").forEach((button) => {
+    button.addEventListener("click", closePopovers)
+  })
+  document.addEventListener("click", (event) => {
+    const target = event.target
+    if (target instanceof Node && !form.contains(target)) {
+      closePopovers()
+    }
+  })
+
+  await loadCitationSources()
+  syncSourceControls(root, state, setSources)
   rerender()
 }
 

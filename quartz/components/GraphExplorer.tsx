@@ -7,104 +7,197 @@ export default (() => {
   const GraphExplorer: QuartzComponent = () => {
     return (
       <main class="graph-explorer" data-graph-explorer>
-        <form class="graph-explorer-toolbar" data-graph-filters>
+        <form class="graph-explorer-topbar" data-graph-filters>
           <a class="graph-explorer-brand" href="/">
             Lietuvos istorijos žinių bazė
           </a>
-          <div class="graph-explorer-primary-filters">
-            <label class="graph-explorer-search">
-              <span>Paieška</span>
-              <input type="search" name="q" placeholder="Ieškoti objekto" autocomplete="off" />
+          <label class="graph-explorer-search">
+            <span class="sr-only">Paieška</span>
+            <input type="search" name="q" placeholder="Ieškoti objekto" autocomplete="off" />
+          </label>
+          <label class="graph-explorer-preset">
+            <span class="sr-only">Presetas</span>
+            <select name="preset" aria-label="Žemėlapio presetai">
+              <option value="important">Svarbiausi objektai</option>
+              <option value="vytautas">Vytautas</option>
+              <option value="ldk">LDK</option>
+              <option value="xx">XX amžius</option>
+              <option value="people-events">Asmenys + įvykiai</option>
+              <option value="events">Tik įvykiai</option>
+              <option value="topics">Temos</option>
+            </select>
+          </label>
+
+          <fieldset class="graph-explorer-depth-control" aria-label="Ryšių gylis">
+            <legend>Gylis</legend>
+            <label>
+              <input type="radio" name="depth" value="1" />
+              <span>1</span>
             </label>
             <label>
-              <span>Presetas</span>
-              <select name="preset">
-                <option value="important">Svarbiausi objektai</option>
-                <option value="vytautas">Vytautas</option>
-                <option value="ldk">LDK</option>
-                <option value="xx">XX amžius</option>
-                <option value="people-events">Tik asmenys + įvykiai</option>
-                <option value="events">Tik įvykiai</option>
-                <option value="topics">Temos</option>
-              </select>
+              <input type="radio" name="depth" value="2" />
+              <span>2</span>
             </label>
-            <label class="graph-explorer-source">
-              <span>Knyga</span>
-              <select name="source" data-source-select>
-                <option value="">Visos knygos</option>
-              </select>
+            <label>
+              <input type="radio" name="depth" value="3" />
+              <span>3</span>
             </label>
+            <label>
+              <input type="radio" name="depth" value="-1" />
+              <span>Visas</span>
+            </label>
+          </fieldset>
+
+          <label class="graph-explorer-chip-toggle">
+            <input type="checkbox" name="showPlaces" />
+            <span>Vietos</span>
+          </label>
+          <label class="graph-explorer-chip-toggle">
+            <input type="checkbox" name="showTopics" />
+            <span>Temos</span>
+          </label>
+
+          <div class="graph-explorer-actions-bar" role="toolbar" aria-label="Žemėlapio veiksmai">
+            <button
+              class="graph-explorer-tool-button graph-explorer-books-button"
+              type="button"
+              data-popover-toggle="books"
+              aria-expanded="false"
+              aria-label="Pasirinkti knygas"
+              title="Knygos"
+            >
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
+                <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" />
+              </svg>
+              <span data-source-summary>Visos knygos</span>
+            </button>
+            <button
+              class="graph-explorer-tool-button"
+              type="button"
+              data-popover-toggle="filters"
+              aria-expanded="false"
+              aria-label="Atidaryti filtrus"
+              title="Filtrai"
+            >
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M4 21v-7" />
+                <path d="M4 10V3" />
+                <path d="M12 21v-9" />
+                <path d="M12 8V3" />
+                <path d="M20 21v-5" />
+                <path d="M20 12V3" />
+                <path d="M2 14h4" />
+                <path d="M10 8h4" />
+                <path d="M18 16h4" />
+              </svg>
+            </button>
+            <button
+              class="graph-explorer-tool-button"
+              type="button"
+              data-panel-toggle
+              aria-label="Rodyti arba slėpti detalių panelį"
+              title="Detalės"
+            >
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M4 4h7v16H4z" />
+                <path d="M15 5h5" />
+                <path d="M15 12h5" />
+                <path d="M15 19h5" />
+              </svg>
+            </button>
+            <button
+              class="graph-explorer-tool-button"
+              type="button"
+              data-graph-reset
+              aria-label="Atstatyti filtrus"
+              title="Atstatyti"
+            >
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M3 12a9 9 0 1 0 3-6.7" />
+                <path d="M3 4v6h6" />
+              </svg>
+            </button>
           </div>
-          <details class="graph-explorer-advanced" open>
-            <summary>Papildomi filtrai</summary>
-            <div class="graph-explorer-advanced-grid">
-              <label>
-                <span>Tipai</span>
-                <select name="types" multiple>
-                  <option value="asmuo">Asmenys</option>
-                  <option value="autorius">Autoriai</option>
-                  <option value="ivykis">Įvykiai</option>
-                  <option value="grupe">Grupės</option>
-                  <option value="daiktas">Daiktai</option>
-                  <option value="paprotys">Papročiai</option>
-                  <option value="posakis">Posakiai</option>
-                  <option value="zodyno_irasas">Žodynas</option>
-                  <option value="vieta">Vietos</option>
-                </select>
-              </label>
-              <label>
-                <span>Min. teiginių</span>
-                <input type="number" name="minClaims" min="0" max="200" step="1" />
-              </label>
-              <label>
-                <span>Min. citatų</span>
-                <input type="number" name="minQuotes" min="0" max="200" step="1" />
-              </label>
-              <label>
-                <span>Gylis</span>
-                <select name="depth">
-                  <option value="1">1</option>
-                  <option value="2">2</option>
-                  <option value="3">3</option>
-                  <option value="-1">Visas filtras</option>
-                </select>
-              </label>
-              <label>
-                <span>Max</span>
-                <input type="number" name="maxNodes" min="25" max="1500" step="25" />
-              </label>
-              <label>
-                <span>Nuo</span>
-                <input type="number" name="from" placeholder="metai" />
-              </label>
-              <label>
-                <span>Iki</span>
-                <input type="number" name="to" placeholder="metai" />
-              </label>
-              <label class="graph-explorer-toggle">
-                <input type="checkbox" name="showPlaces" />
-                <span>Vietos</span>
-              </label>
-              <label class="graph-explorer-toggle">
-                <input type="checkbox" name="showTopics" />
-                <span>Temos</span>
-              </label>
-              <button type="button" data-graph-reset>Reset</button>
-            </div>
-          </details>
+
+          <div class="graph-explorer-popovers">
+            <section class="graph-explorer-popover graph-explorer-books-popover" data-popover-panel="books" hidden>
+              <div class="graph-explorer-popover-header">
+                <strong>Knygos</strong>
+                <button type="button" data-popover-close aria-label="Uždaryti knygų pasirinkimą">×</button>
+              </div>
+              <input
+                class="graph-explorer-source-search"
+                type="search"
+                placeholder="Filtruoti knygas..."
+                autocomplete="off"
+                data-source-search
+              />
+              <div class="graph-explorer-source-actions">
+                <button type="button" data-source-select-all>Visos knygos</button>
+                <button type="button" data-source-clear>Nuimti</button>
+              </div>
+              <div class="graph-explorer-source-list" data-source-list>
+                <p class="graph-explorer-empty">Kraunamos knygos...</p>
+              </div>
+            </section>
+
+            <section class="graph-explorer-popover graph-explorer-filter-popover" data-popover-panel="filters" hidden>
+              <div class="graph-explorer-popover-header">
+                <strong>Filtrai</strong>
+                <button type="button" data-popover-close aria-label="Uždaryti filtrus">×</button>
+              </div>
+              <div class="graph-explorer-filter-grid">
+                <label>
+                  <span>Tipai</span>
+                  <select name="types" multiple>
+                    <option value="asmuo">Asmenys</option>
+                    <option value="autorius">Autoriai</option>
+                    <option value="ivykis">Įvykiai</option>
+                    <option value="grupe">Grupės</option>
+                    <option value="daiktas">Daiktai</option>
+                    <option value="paprotys">Papročiai</option>
+                    <option value="posakis">Posakiai</option>
+                    <option value="zodyno_irasas">Žodynas</option>
+                    <option value="vieta">Vietos</option>
+                  </select>
+                </label>
+                <label>
+                  <span>Min. teiginių</span>
+                  <input type="number" name="minClaims" min="0" max="200" step="1" />
+                </label>
+                <label>
+                  <span>Min. citatų</span>
+                  <input type="number" name="minQuotes" min="0" max="200" step="1" />
+                </label>
+                <label>
+                  <span>Max</span>
+                  <input type="number" name="maxNodes" min="25" max="1500" step="25" />
+                </label>
+                <label>
+                  <span>Nuo</span>
+                  <input type="number" name="from" placeholder="metai" />
+                </label>
+                <label>
+                  <span>Iki</span>
+                  <input type="number" name="to" placeholder="metai" />
+                </label>
+              </div>
+            </section>
+          </div>
         </form>
         <section class="graph-explorer-stage">
+          <aside class="graph-explorer-panel" data-graph-panel>
+            <div class="graph-explorer-panel-empty">
+              Pasirink objektą arba ryšį.
+            </div>
+          </aside>
           <div class="graph-explorer-canvas" data-graph-canvas>
             <div class="graph-explorer-status">Kraunamas žemėlapis...</div>
             <button class="graph-explorer-show-panel" type="button" data-panel-show>
               Rodyti panelį
             </button>
           </div>
-          <aside class="graph-explorer-panel" data-graph-panel>
-            <div class="graph-explorer-panel-empty">
-              Pasirink objektą arba ryšį.
-            </div>
-          </aside>
         </section>
       </main>
     )
