@@ -16,6 +16,7 @@ interface Item {
 
 type SearchOptionsState = {
   minClaimCount: number
+  showPersonParentheticals?: boolean
   sourceSelectionMode: "all" | "custom"
   selectedSourceIds: string[]
 }
@@ -161,6 +162,10 @@ function readSearchOptionsState(): SearchOptionsState {
       minClaimCount: Number.isFinite(parsed.minClaimCount)
         ? Math.max(0, Number(parsed.minClaimCount))
         : DEFAULT_SEARCH_OPTIONS_STATE.minClaimCount,
+      showPersonParentheticals:
+        typeof parsed.showPersonParentheticals === "boolean"
+          ? parsed.showPersonParentheticals
+          : undefined,
       sourceSelectionMode: parsed.sourceSelectionMode === "custom" ? "custom" : "all",
       selectedSourceIds,
     }
@@ -422,15 +427,18 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
   const basename = (slug: FullSlug) => String(slug).split("/").pop() ?? String(slug)
 
   const resultContainsQuery = (term: string, id: number) => {
-    const queryTokens = normalizeSearchText(term.trim())
-      .split(/\s+/)
-      .filter(Boolean)
+    const queryTokens = normalizeSearchText(term.trim()).split(/\s+/).filter(Boolean)
     if (queryTokens.length === 0) return true
 
     const slug = idDataMap[id]
     const page = searchData?.[slug]
     const haystack = normalizeSearchText(
-      [page?.title ?? "", page?.content ?? "", ...(page?.tags ?? []), String(slug).replaceAll("/", " ")]
+      [
+        page?.title ?? "",
+        page?.content ?? "",
+        ...(page?.tags ?? []),
+        String(slug).replaceAll("/", " "),
+      ]
         .join(" ")
         .replaceAll("-", " "),
     )
@@ -515,10 +523,14 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
   }
 
   function writeSearchOptionsState(options: SearchOptionsState) {
-    localStorage.setItem(OPTIONS_STORAGE_KEY, JSON.stringify(options))
-    const event: CustomEventMap["quartz-options-change"] = new CustomEvent("quartz-options-change", {
-      detail: {},
-    })
+    const current = readSearchOptionsState()
+    localStorage.setItem(OPTIONS_STORAGE_KEY, JSON.stringify({ ...current, ...options }))
+    const event: CustomEventMap["quartz-options-change"] = new CustomEvent(
+      "quartz-options-change",
+      {
+        detail: {},
+      },
+    )
     document.dispatchEvent(event)
   }
 
@@ -672,7 +684,11 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
       .sort((a, b) => rankResult(currentSearchTerm, b) - rankResult(currentSearchTerm, a))
       .slice(0, numSearchResults)
       .map((id) => formatForDisplay(currentSearchTerm, id))
-    await displayResults(finalResults, Math.max(0, candidateIds.length - visibleIds.length), options)
+    await displayResults(
+      finalResults,
+      Math.max(0, candidateIds.length - visibleIds.length),
+      options,
+    )
   }
 
   document.addEventListener("keydown", shortcutHandler)

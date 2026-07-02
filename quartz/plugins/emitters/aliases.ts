@@ -1,4 +1,4 @@
-import { FullSlug, isRelativeURL, resolveRelative } from "../../util/path"
+import { FullSlug, isRelativeURL, joinSegments, resolveRelative } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"
@@ -52,6 +52,9 @@ function redirectPage(fromSlug: FullSlug, toSlug: FullSlug, ctx: BuildCtx) {
     return null
   }
   const redirUrl = resolveRelative(fromSlug, toSlug)
+  const canonicalUrl = ctx.cfg.configuration.baseUrl
+    ? joinSegments(`https://${ctx.cfg.configuration.baseUrl}`, toSlug)
+    : redirUrl
   return write({
     ctx,
     content: `
@@ -59,7 +62,7 @@ function redirectPage(fromSlug: FullSlug, toSlug: FullSlug, ctx: BuildCtx) {
       <html lang="lt">
       <head>
       <title>${toSlug}</title>
-      <link rel="canonical" href="${redirUrl}">
+      <link rel="canonical" href="${canonicalUrl}">
       <meta charset="utf-8">
       <meta http-equiv="refresh" content="0; url=${redirUrl}">
       </head>

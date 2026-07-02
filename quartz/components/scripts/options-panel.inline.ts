@@ -8,6 +8,7 @@ type CitationSourceRegistryEntry = {
 
 type OptionsState = {
   minClaimCount: number
+  showPersonParentheticals: boolean
   sourceSelectionMode: "all" | "custom"
   selectedSourceIds: string[]
 }
@@ -29,6 +30,7 @@ type CitationSourceGlobal = typeof globalThis & {
 const OPTIONS_STORAGE_KEY = "ltkb-options-v4"
 const DEFAULT_STATE: OptionsState = {
   minClaimCount: 5,
+  showPersonParentheticals: true,
   sourceSelectionMode: "all",
   selectedSourceIds: [],
 }
@@ -37,6 +39,8 @@ const optionsWindow = window as OptionsWindow
 const citationSourceGlobal = globalThis as CitationSourceGlobal
 let state = readState()
 let cachedSources: CitationSourceRegistryEntry[] = []
+let personParentheticalObserver: MutationObserver | null = null
+let personParentheticalObserverScheduled = false
 
 function normalizeSources(sources: CitationSourceRegistryEntry[]): CitationSourceRegistryEntry[] {
   return sources
@@ -183,6 +187,10 @@ function readState(): OptionsState {
     const selectedSourceIds = Array.isArray(parsed.selectedSourceIds)
       ? parsed.selectedSourceIds.filter((value): value is string => typeof value === "string")
       : []
+    const showPersonParentheticals =
+      typeof parsed.showPersonParentheticals === "boolean"
+        ? parsed.showPersonParentheticals
+        : DEFAULT_STATE.showPersonParentheticals
     // Migrate older saved states: if there was an explicit selection saved before
     // sourceSelectionMode existed, preserve that custom subset instead of forcing "all".
     const sourceSelectionMode =
@@ -193,7 +201,7 @@ function readState(): OptionsState {
           : selectedSourceIds.length > 0
             ? "custom"
             : "all"
-    return { minClaimCount, sourceSelectionMode, selectedSourceIds }
+    return { minClaimCount, showPersonParentheticals, sourceSelectionMode, selectedSourceIds }
   } catch {
     return { ...DEFAULT_STATE }
   }
@@ -206,6 +214,7 @@ function persistState() {
 function normalizeState() {
   state = {
     minClaimCount: Math.max(0, Number(state.minClaimCount) || 0),
+    showPersonParentheticals: state.showPersonParentheticals !== false,
     sourceSelectionMode: state.sourceSelectionMode === "custom" ? "custom" : "all",
     selectedSourceIds: [...new Set(state.selectedSourceIds.filter(Boolean))],
   }
@@ -238,6 +247,101 @@ function matchesSourceSelection(itemSourceIds: string[]): boolean {
   }
   const selected = selectedSourceSet()
   return itemSourceIds.some((id) => selected.has(id))
+}
+
+function targetLooksLikePersonSlug(value: string | undefined | null): boolean {
+  if (!value) {
+    return false
+  }
+  try {
+    const decoded = decodeURIComponent(value)
+    return decoded.includes("objektai/asmenys/")
+  } catch {
+    return value.includes("objektai/asmenys/")
+  }
+}
+
+function isPersonTitleElement(element: HTMLElement): boolean {
+  if (element.classList.contains("article-title")) {
+    return targetLooksLikePersonSlug(document.body.dataset.slug)
+  }
+  const anchor =
+    element instanceof HTMLAnchorElement ? element : element.closest<HTMLAnchorElement>("a")
+  if (anchor) {
+    return (
+      targetLooksLikePersonSlug(anchor.dataset.slug) ||
+      targetLooksLikePersonSlug(anchor.dataset.for) ||
+      targetLooksLikePersonSlug(anchor.id) ||
+      targetLooksLikePersonSlug(anchor.getAttribute("href"))
+    )
+  }
+  const resultCard = element.closest<HTMLElement>(".result-card")
+  return targetLooksLikePersonSlug(resultCard?.id)
+}
+
+function wrapTrailingPersonParenthetical(element: HTMLElement) {
+  if (element.dataset.personParentheticalWrapped === "true") {
+    return
+  }
+  if (!isPersonTitleElement(element)) {
+    return
+  }
+  if (element.querySelector(".person-title-parenthetical")) {
+    element.dataset.personParentheticalWrapped = "true"
+    return
+  }
+  const trailingText = [...element.childNodes]
+    .reverse()
+    .find(
+      (node): node is Text => node.nodeType === Node.TEXT_NODE && Boolean(node.textContent?.trim()),
+    )
+  if (!trailingText || !trailingText.textContent) {
+    return
+  }
+  const match = trailingText.textContent.match(/(\s+\([^()]+\))$/)
+  if (!match || match.index === undefined) {
+    return
+  }
+  const suffix = match[1]
+  const prefix = trailingText.textContent.slice(0, match.index)
+  const suffixSpan = document.createElement("span")
+  suffixSpan.className = "person-title-parenthetical"
+  suffixSpan.textContent = suffix
+  trailingText.replaceWith(document.createTextNode(prefix), suffixSpan)
+  element.dataset.personParentheticalWrapped = "true"
+}
+
+function applyPersonParentheticalDisplay() {
+  document.documentElement.classList.toggle(
+    "hide-person-parentheticals",
+    !state.showPersonParentheticals,
+  )
+  document
+    .querySelectorAll<HTMLElement>(".article-title, a.internal, .result-card .card-title")
+    .forEach((element) => wrapTrailingPersonParenthetical(element))
+}
+
+function schedulePersonParentheticalDisplay() {
+  if (personParentheticalObserverScheduled) {
+    return
+  }
+  personParentheticalObserverScheduled = true
+  window.setTimeout(() => {
+    personParentheticalObserverScheduled = false
+    applyPersonParentheticalDisplay()
+  }, 0)
+}
+
+function initPersonParentheticalObserver() {
+  if (personParentheticalObserver || !document.body) {
+    return
+  }
+  personParentheticalObserver = new MutationObserver(() => schedulePersonParentheticalDisplay())
+  personParentheticalObserver.observe(document.body, { childList: true, subtree: true })
+  optionsWindow.addCleanup?.(() => {
+    personParentheticalObserver?.disconnect()
+    personParentheticalObserver = null
+  })
 }
 
 function optionFiltersActive(): boolean {
@@ -306,9 +410,7 @@ function applyListFilters() {
     const filterable = entry.dataset.citationFilterable === "true"
     const claimCount = Number(entry.dataset.claimCount ?? "0")
     const sourceIds = parseSourceIds(entry.dataset.citationSources)
-    const optionsOk = filterable
-      ? optionsMatchItem({ filterable, claimCount, sourceIds })
-      : true
+    const optionsOk = filterable ? optionsMatchItem({ filterable, claimCount, sourceIds }) : true
     entry.dataset.optionsMatch = optionsOk ? "true" : "false"
     entry.hidden = !(periodOk && optionsOk)
   })
@@ -471,6 +573,7 @@ function applyCitationFilters() {
 function applyFilters() {
   normalizeState()
   persistState()
+  applyPersonParentheticalDisplay()
   applyListFilters()
   applyExplorerFilters()
   applyCitationFilters()
@@ -488,6 +591,9 @@ function syncPanelState() {
   roots.forEach((root) => {
     const range = root.querySelector<HTMLInputElement>("[data-options-quote-range]")
     const number = root.querySelector<HTMLInputElement>("[data-options-quote-number]")
+    const personParentheticals = root.querySelector<HTMLInputElement>(
+      "[data-options-person-parentheticals]",
+    )
     const selectedSummary = root.querySelector<HTMLElement>("[data-options-selected-summary]")
     if (range) {
       range.max = `${maxValue}`
@@ -495,6 +601,9 @@ function syncPanelState() {
     }
     if (number) {
       number.value = `${state.minClaimCount}`
+    }
+    if (personParentheticals) {
+      personParentheticals.checked = state.showPersonParentheticals
     }
     if (selectedSummary) {
       const selectedCount =
@@ -600,6 +709,9 @@ function initPanel(root: HTMLElement) {
   const reset = root.querySelector<HTMLElement>("[data-options-reset]")
   const range = root.querySelector<HTMLInputElement>("[data-options-quote-range]")
   const number = root.querySelector<HTMLInputElement>("[data-options-quote-number]")
+  const personParentheticals = root.querySelector<HTMLInputElement>(
+    "[data-options-person-parentheticals]",
+  )
   const search = root.querySelector<HTMLInputElement>("[data-options-source-search]")
 
   const onToggle = () => {
@@ -623,6 +735,10 @@ function initPanel(root: HTMLElement) {
     state.minClaimCount = Math.max(0, Number(number?.value ?? "0") || 0)
     applyFilters()
   }
+  const onPersonParentheticalsChange = () => {
+    state.showPersonParentheticals = personParentheticals?.checked !== false
+    applyFilters()
+  }
   const onSearchInput = () => renderSourceList(root, cachedSources)
   const onDocumentClick = (event: MouseEvent) => {
     const target = event.target
@@ -641,6 +757,7 @@ function initPanel(root: HTMLElement) {
   range?.addEventListener("change", onRangeInput)
   number?.addEventListener("input", onNumberInput)
   number?.addEventListener("change", onNumberInput)
+  personParentheticals?.addEventListener("change", onPersonParentheticalsChange)
   search?.addEventListener("input", onSearchInput)
   document.addEventListener("click", onDocumentClick)
 
@@ -651,6 +768,9 @@ function initPanel(root: HTMLElement) {
   optionsWindow.addCleanup?.(() => range?.removeEventListener("change", onRangeInput))
   optionsWindow.addCleanup?.(() => number?.removeEventListener("input", onNumberInput))
   optionsWindow.addCleanup?.(() => number?.removeEventListener("change", onNumberInput))
+  optionsWindow.addCleanup?.(() =>
+    personParentheticals?.removeEventListener("change", onPersonParentheticalsChange),
+  )
   optionsWindow.addCleanup?.(() => search?.removeEventListener("input", onSearchInput))
   optionsWindow.addCleanup?.(() => document.removeEventListener("click", onDocumentClick))
   optionsWindow.addCleanup?.(() => {
@@ -662,6 +782,7 @@ function initPanel(root: HTMLElement) {
 }
 
 function initOptionsPanels() {
+  initPersonParentheticalObserver()
   document.querySelectorAll<HTMLElement>("[data-options-root]").forEach((root) => initPanel(root))
   syncPanelState()
   applyFilters()

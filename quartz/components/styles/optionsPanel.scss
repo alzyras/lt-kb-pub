@@ -73,7 +73,8 @@
 .options-panel-header,
 .options-panel-actions,
 .options-panel-range-row,
-.options-panel-source-row {
+.options-panel-source-row,
+.options-panel-check-row {
   display: flex;
   align-items: center;
 }
@@ -100,6 +101,19 @@
 
 .options-panel-range-row input[type="range"] {
   flex: 1 1 auto;
+}
+
+.options-panel-check-row {
+  gap: 0.5rem;
+  cursor: pointer;
+  font-size: 0.92rem;
+  line-height: 1.35;
+}
+
+.options-panel-check-row input[type="checkbox"] {
+  margin: 0;
+  transform: none;
+  flex-shrink: 0;
 }
 
 .options-panel-number,

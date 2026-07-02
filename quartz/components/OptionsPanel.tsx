@@ -71,6 +71,17 @@ const OptionsPanel: QuartzComponent = ({ displayClass }: QuartzComponentProps) =
           </div>
         </div>
         <div class="options-panel-section">
+          <label class="options-panel-check-row" for="ltkb-show-person-parentheticals">
+            <input
+              id="ltkb-show-person-parentheticals"
+              type="checkbox"
+              checked
+              data-options-person-parentheticals=""
+            />
+            <span>Rodyti asmenų paaiškinimus skliaustuose</span>
+          </label>
+        </div>
+        <div class="options-panel-section">
           <label class="options-panel-label" for="ltkb-source-search">
             Knygos su citatomis
           </label>

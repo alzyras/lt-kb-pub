@@ -7,3 +7,7 @@
 .page article.popover-hint > h1:first-child {
   display: none;
 }
+
+html.hide-person-parentheticals .person-title-parenthetical {
+  display: none;
+}
