@@ -145,4 +145,4 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     - t-003
 
 ## Ryšiai
-- Graikai pastate [[objektai/daiktai/Aukurai]]
+- Graikai pastatė [[objektai/daiktai/Aukurai]]

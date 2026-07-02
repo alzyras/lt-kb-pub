@@ -1684,84 +1684,23 @@ periodo_grupes:
     - t-050
 
 ## Ryšiai
-- [[objektai/grupes/Didžiojo Naugardo bojarinai]] sudare_sutarti_su Švitrigaila
-- Švitrigaila valde [[objektai/vietos/Voluinė]]
-- Švitrigaila valde_miesta [[objektai/vietos/Vitebskas]]
-- Švitrigaila keliavo_i [[objektai/vietos/Marienburgas]]
-- Švitrigaila keliavo_i [[objektai/vietos/Polockas]]
-- Švitrigaila sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Chariničius]] sudare_sutarti_su Švitrigaila
-- [[objektai/asmenys/Ivanas Jermoliničius]] sudare_sutarti_su Švitrigaila
-- [[objektai/grupes/Livonijos ordinas]] buvo_sajungininkas_su Švitrigaila
-- [[objektai/grupes/Livonijos ordinas]] reme Švitrigaila
-- Švitrigaila mire [[objektai/vietos/Luckas]]
-- Švitrigaila uzeme [[objektai/vietos/Ašmena]]
-- Švitrigaila valde_teritorija [[objektai/vietos/Polockas]]
-- Švitrigaila valde_teritorija [[objektai/vietos/Vitebskas]]
-- Švitrigaila keliavo_i [[objektai/vietos/Ukraina]]
-- Švitrigaila keliavo_i [[objektai/vietos/Vilnius]]
-- Švitrigaila uzeme [[objektai/vietos/Vitebskas]]
-- Švitrigaila valde_teritorija [[objektai/vietos/Smolenskas]]
-- Švitrigaila keliavo_i [[objektai/vietos/Vengrija]]
-- Švitrigaila valde_teritorija [[objektai/vietos/Kijevas]]
-- Švitrigaila surenge_zygi_i [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Aleksas Jefremovičius]] sudare_sutarti_su Švitrigaila
-- [[objektai/asmenys/Joachimas (Pskovo vietininkas)]] sudare_sutarti_su Švitrigaila
-- [[objektai/asmenys/Mykolas]] kariavo_pries Švitrigaila
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] kariavo_pries Švitrigaila
-- Švitrigaila buvo_palaidotas [[objektai/vietos/Vilnius]]
-- Švitrigaila dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-- Švitrigaila keliavo_i [[objektai/vietos/Kijevas]]
-- Švitrigaila keliavo_i [[objektai/vietos/Lukomlis]]
-- Švitrigaila puole [[objektai/vietos/Vitebskas]]
-- Švitrigaila valde_teritorija [[objektai/vietos/Podolija]]
-- Švitrigaila valde_teritorija [[objektai/vietos/Černigovas]]
-- [[objektai/grupes/Kryžiuočių ordinas]] buvo_sajungininkas_su Švitrigaila
-- Švitrigaila buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Švitrigaila buvo_sunus [[objektai/asmenys/Julijona]]
-- Švitrigaila dalyvavo_musyje [[objektai/ivykiai/Karas tarp Švitrigailos ir Žygimanto Kęstutaičio]]
-- Švitrigaila valde [[objektai/vietos/Kijevas]]
-- [[objektai/asmenys/Žygimantas]] kariavo_pries Švitrigaila
-- [[objektai/asmenys/Žygimantas]] puole Švitrigaila
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Švitrigaila
-- Švitrigaila buvo_sajungininkas_su [[objektai/grupes/Livonijos ordinas]]
-- Švitrigaila puole [[objektai/vietos/Drohičinas]]
-- Švitrigaila sudare_sutarti_su [[objektai/grupes/Didžiojo Naugardo respublika]]
-- Švitrigaila surenge_zygi_i [[objektai/vietos/Ukmergė]]
-- Švitrigaila valde_teritorija [[objektai/vietos/Naugardas Sieverskas]]
-- Švitrigaila keliavo_i [[objektai/vietos/Krokuva]]
-- [[objektai/grupes/Lenkai]] kariavo_pries Švitrigaila
-- [[objektai/grupes/Lietuviai]] kariavo_pries Švitrigaila
-- Švitrigaila gyveno [[objektai/vietos/Ašmena]]
-- Švitrigaila valde [[objektai/vietos/Polockas]]
-- [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]] puole Švitrigaila
-- Švitrigaila buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Švitrigaila keliavo_i [[objektai/vietos/Pašilė]]
-- Švitrigaila puole [[objektai/vietos/Panemunė]]
-- Švitrigaila reme [[objektai/asmenys/Jadvyga]]
-- Švitrigaila sudare_sutarti_su [[objektai/grupes/Livonijos ordinas]]
-- Švitrigaila keliavo_i [[objektai/vietos/Skirsnemunė]]
-- [[objektai/grupes/Moldovos kunigaikščiai]] reme Švitrigaila
-- Švitrigaila buvo_priesas [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Švitrigaila gyveno [[objektai/vietos/Vitebskas]]
-- Švitrigaila keliavo_i [[objektai/vietos/Gelvonai]]
-- Švitrigaila keliavo_i [[objektai/vietos/Šalčininkai]]
-- Švitrigaila reme [[objektai/grupes/Bajorai]]
-- Švitrigaila siunte_i [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Žygimantas]] buvo_priesas Švitrigaila
-- Švitrigaila siunte_i [[objektai/vietos/Kistrinas]]
-- [[objektai/grupes/Smolensko pulkai]] kariavo_pries Švitrigaila
-- Švitrigaila valde [[objektai/vietos/Gomelis]]
-- Švitrigaila puole [[objektai/asmenys/Gerasimas]]
-- Švitrigaila valde [[objektai/vietos/Kamenecas]]
-- [[objektai/grupes/Žygimanto šalininkai]] buvo_priesas Švitrigaila
-- [[objektai/grupes/Kryžiuočių ordinas]] reme Švitrigaila
-- Švitrigaila puole [[objektai/vietos/Gardinas]]
-- Švitrigaila puole [[objektai/vietos/Lenkija]]
-- Švitrigaila puole [[objektai/vietos/Vilnius]]
-- Švitrigaila keliavo_i [[objektai/vietos/Vitebskas]]
-- [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė)]] reme Švitrigaila
-- Švitrigaila prekiavo_su [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/asmenys/Žygimantas]] buvo_sajungininkas_su Švitrigaila
-- [[objektai/asmenys/Jurgis Lengvenaitis]] buvo_sajungininkas_su Švitrigaila
-- Švitrigaila surenge_zygi_i [[objektai/vietos/Vilnius]]
+- Tėvai: [[objektai/asmenys/Julijona]]
+- Priešai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]], [[objektai/grupes/Žygimanto šalininkai]]
+- Sąjungininkai: [[objektai/asmenys/Jurgis Lengvenaitis]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Žygimantas]]
+- Puolė Švitrigailą: [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]]
+- Kariavo prieš: [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mykolas]], [[objektai/asmenys/Mykolas (Žygimanto sūnus)]], [[objektai/grupes/Smolensko pulkai]], [[objektai/asmenys/Žygimantas]]
+- Sudarė sutartį su: [[objektai/asmenys/Aleksas Jefremovičius]], [[objektai/asmenys/Chariničius]], [[objektai/grupes/Didžiojo Naugardo bojarinai]], [[objektai/asmenys/Ivanas Jermoliničius]], [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
+- Rėmė Švitrigailą: [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/grupes/Moldovos kunigaikščiai]]
+- Švitrigaila valdė [[objektai/vietos/Černigovas]], [[objektai/vietos/Gomelis]], [[objektai/vietos/Kamenecas]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Naugardas Sieverskas]], [[objektai/vietos/Podolija]], [[objektai/vietos/Polockas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Voluinė]]
+- Švitrigaila keliavo į [[objektai/vietos/Gelvonai]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Lukomlis]], [[objektai/vietos/Marienburgas]], [[objektai/vietos/Pašilė]], [[objektai/vietos/Polockas]], [[objektai/vietos/Skirsnemunė]], [[objektai/vietos/Šalčininkai]], [[objektai/vietos/Ukraina]], [[objektai/vietos/Vengrija]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
+- Švitrigaila mirė [[objektai/vietos/Luckas]]
+- Švitrigaila buvo palaidotas [[objektai/vietos/Vilnius]]
+- Švitrigaila puolė [[objektai/vietos/Drohičinas]], [[objektai/vietos/Gardinas]], [[objektai/asmenys/Gerasimas]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Panemunė]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
+- Švitrigaila užėmė [[objektai/vietos/Ašmena]], [[objektai/vietos/Vitebskas]]
+- Švitrigaila siuntė į [[objektai/vietos/Kistrinas]], [[objektai/vietos/Lietuva]]
+- Švitrigaila surengė žygį į [[objektai/vietos/Lietuva]], [[objektai/vietos/Ukmergė]], [[objektai/vietos/Vilnius]]
+- Švitrigaila dalyvavo mūšyje [[objektai/ivykiai/Karas tarp Švitrigailos ir Žygimanto Kęstutaičio]], [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- Švitrigaila sudarė sutartį su [[objektai/grupes/Didžiojo Naugardo respublika]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]]
+- Švitrigaila prekiavo su [[objektai/grupes/Didžiojo Naugardo respublika]]
+- Švitrigaila gyveno [[objektai/vietos/Ašmena]], [[objektai/vietos/Vitebskas]]
+- Švitrigaila rėmė [[objektai/grupes/Bajorai]], [[objektai/asmenys/Jadvyga]]

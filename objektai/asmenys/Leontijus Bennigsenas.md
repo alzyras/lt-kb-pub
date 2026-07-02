@@ -46,5 +46,5 @@ Leontijus Benningsenas. Leontijus Bennigsenas trimis kavalerijos pulkais, remiam
     - t-001
 
 ## Ryšiai
-- Leontijus Bennigsenas puole [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Kazokai]] reme Leontijus Bennigsenas
+- Rėmė Leontijus Bennigseną: [[objektai/grupes/Kazokai]]
+- Leontijus Bennigsenas puolė [[objektai/grupes/Lietuviai]]

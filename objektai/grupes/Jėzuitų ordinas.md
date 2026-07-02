@@ -694,7 +694,5 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
     - t-030
 
 ## Ryšiai
-- Jėzuitų ordinas keliavo_i [[objektai/vietos/Lietuva]]
-- Jėzuitų ordinas keliavo_i [[objektai/vietos/Vilnius]]
-- Jėzuitų ordinas keliavo_i [[objektai/vietos/Braunsbergas]]
+- Jėzuitų ordinas keliavo į [[objektai/vietos/Braunsbergas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
 - Jėzuitų ordinas gyveno [[objektai/vietos/Vilnius]]

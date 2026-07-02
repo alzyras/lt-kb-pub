@@ -76,4 +76,4 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
     - t-001
 
 ## Ryšiai
-- Vilniaus Perkūno šventykla priklause [[objektai/vietos/Vilnius]]
+- Vilniaus Perkūno šventykla priklausė [[objektai/vietos/Vilnius]]

@@ -104,8 +104,8 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
     - t-002
 
 ## Ryšiai
-- Langobardai sudare_sutarti_su [[objektai/grupes/Romėnai]]
-- Langobardai puole [[objektai/vietos/Italija]]
-- Langobardai uzkariavo [[objektai/vietos/Italija]]
-- [[objektai/grupes/Gepidai]] buvo_sajungininkas_su Langobardai
-- Langobardai keliavo_i [[objektai/vietos/Italija]]
+- Sąjungininkai: [[objektai/grupes/Gepidai]]
+- Langobardai keliavo į [[objektai/vietos/Italija]]
+- Langobardai puolė [[objektai/vietos/Italija]]
+- Langobardai sudarė sutartį su [[objektai/grupes/Romėnai]]
+- Langobardai užkariavo [[objektai/vietos/Italija]]

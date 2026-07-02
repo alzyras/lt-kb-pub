@@ -68,4 +68,4 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
     - t-002
 
 ## Ryšiai
-- Heraklijus kariavo_pries [[objektai/asmenys/Chosrovas]]
+- Heraklijus kariavo prieš [[objektai/asmenys/Chosrovas]]

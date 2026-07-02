@@ -54,4 +54,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Ritterswerderis
+- Puolė Ritterswerderį: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

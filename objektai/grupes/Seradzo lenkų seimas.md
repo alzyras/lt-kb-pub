@@ -51,4 +51,4 @@ Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją 
     - t-001
 
 ## Ryšiai
-- Seradzo lenkų seimas (seimas) priklause [[objektai/grupes/Lenkai]]
+- Seradzo lenkų seimas (seimas) priklausė [[objektai/grupes/Lenkai]]

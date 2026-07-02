@@ -477,8 +477,6 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     - t-015
 
 ## Ryšiai
-- [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]] buvo_palaidotas Paryžius
-- [[objektai/asmenys/A. Voldemaras]] keliavo_i Paryžius
-- [[objektai/asmenys/Augustinas Voldemaras]] keliavo_i Paryžius
-- [[objektai/asmenys/Augustas Zaleskis]] keliavo_i Paryžius
-- [[objektai/daiktai/Žemėlapis „Lituania Propria“]] priklause Paryžius
+- Buvo kelionės vieta: [[objektai/asmenys/A. Voldemaras]], [[objektai/asmenys/Augustas Zaleskis]], [[objektai/asmenys/Augustinas Voldemaras]]
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]]
+- Turėjo priklausinį: [[objektai/daiktai/Žemėlapis „Lituania Propria“]]

@@ -281,9 +281,8 @@ Manvydas buvo LDK didikas, šaltiniuose siejamas su Vilniumi, Trakais ir politin
     - t-007
 
 ## Ryšiai
-- [[objektai/vietos/Manvydo rūmai]] priklause Manvydas
-- Manvydas buvo_sajungininkas_su [[objektai/asmenys/Astikas]]
-- [[objektai/asmenys/Astikas]] sudare_sutarti_su Manvydas
-- Manvydas buvo_sunus [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- [[objektai/daiktai/Manvydo rūmai ir Aukštutinės pilies mūrai]] priklause Manvydas
+- Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Sąjungininkai: [[objektai/asmenys/Astikas]]
+- Sudarė sutartį su: [[objektai/asmenys/Astikas]]
+- Turėjo priklausinį: [[objektai/vietos/Manvydo rūmai]], [[objektai/daiktai/Manvydo rūmai ir Aukštutinės pilies mūrai]]
 - Manvydas gyveno [[objektai/vietos/Vilnius]]

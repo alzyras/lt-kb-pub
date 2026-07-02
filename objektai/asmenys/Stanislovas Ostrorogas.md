@@ -43,4 +43,4 @@ Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kai
     - t-001
 
 ## Ryšiai
-- Stanislovas Ostrorogas keliavo_i [[objektai/vietos/Vilnius]]
+- Stanislovas Ostrorogas keliavo į [[objektai/vietos/Vilnius]]

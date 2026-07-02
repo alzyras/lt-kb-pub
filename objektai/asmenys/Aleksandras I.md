@@ -124,5 +124,5 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
     - t-005
 
 ## Ryšiai
-- Aleksandras I buvo_sajungininkas_su [[objektai/asmenys/Adomas Jurgis Čartoriskis]]
-- Aleksandras I buvo_valdovas [[objektai/vietos/Lietuva]]
+- Sąjungininkai: [[objektai/asmenys/Adomas Jurgis Čartoriskis]]
+- Aleksandras I buvo valdovas [[objektai/vietos/Lietuva]]

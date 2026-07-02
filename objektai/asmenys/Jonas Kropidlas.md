@@ -52,4 +52,4 @@ Jonas Kropidlas, Kujavijos vyskupas, parėmė Vytauto santuokos sumanymą ir par
     - t-001
 
 ## Ryšiai
-- Jonas Kropidlas (vyskupas) keliavo_i [[objektai/vietos/Lietuva]]
+- Jonas Kropidlas (vyskupas) keliavo į [[objektai/vietos/Lietuva]]

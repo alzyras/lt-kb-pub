@@ -47,4 +47,4 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Bodhidana]] mire Tibetas
+- Mirties vieta: [[objektai/asmenys/Bodhidana]]

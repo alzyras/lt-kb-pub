@@ -47,4 +47,4 @@ Virgoličiaus pajėgos turėjo užimti Lietuvą.
     - t-001
 
 ## Ryšiai
-- P. Virgoličius uzeme [[objektai/vietos/Lietuva]]
+- P. Virgoličius užėmė [[objektai/vietos/Lietuva]]

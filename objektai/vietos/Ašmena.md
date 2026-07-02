@@ -556,20 +556,11 @@ Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi 
     - t-020
 
 ## Ryšiai
-- [[objektai/asmenys/Švitrigaila]] uzeme Ašmena
-- [[objektai/asmenys/Žygimantas]] keliavo_i Ašmena
-- [[objektai/asmenys/Žygimantas]] puole Ašmena
-- Ašmena priklause [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
-- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] valde Ašmena
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Ašmena
-- [[objektai/asmenys/Žygimantas]] surenge_zygi_i Ašmena
-- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Ašmena
-- [[objektai/grupes/Totoriai]] gyveno Ašmena
-- [[objektai/asmenys/Švitrigaila]] gyveno Ašmena
-- [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]] surenge_zygi_i Ašmena
-- [[objektai/asmenys/Petrašu Montgirdaitis]] surenge_zygi_i Ašmena
-- [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]] puole Ašmena
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] keliavo_i Ašmena
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Ašmena
-- [[objektai/asmenys/Mangaila iš Ašmenos]] gyveno Ašmena
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Ašmena
+- Buvo valdoma: [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]]
+- Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Ašmeną: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]], [[objektai/asmenys/Žygimantas]]
+- Užėmė Ašmeną: [[objektai/asmenys/Švitrigaila]]
+- Buvo žygio kryptis: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Petrašu Montgirdaitis]], [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]], [[objektai/asmenys/Žygimantas]]
+- Gyvenamoji vieta: [[objektai/asmenys/Mangaila iš Ašmenos]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]]
+- Ašmena priklausė [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

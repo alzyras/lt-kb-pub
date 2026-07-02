@@ -52,4 +52,4 @@ Krokuvos vaivada Jaranda iš Brudzevo buvo įtrauktas į senato pasiuntinybę, i
     - t-001
 
 ## Ryšiai
-- Jaranda iš Brudzevo (vyskupas) keliavo_i [[objektai/vietos/Lietuva]]
+- Jaranda iš Brudzevo (vyskupas) keliavo į [[objektai/vietos/Lietuva]]

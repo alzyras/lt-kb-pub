@@ -48,4 +48,4 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Karijotaičiai]] pastate Smotryč
+- Buvo pastatyta: [[objektai/grupes/Karijotaičiai]]

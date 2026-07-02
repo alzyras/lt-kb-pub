@@ -92,4 +92,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Andrius Algirdaitis]] dalyvavo_musyje Kulikovo mūšis (1380 m. rugsėjo 8 d.)
+- Turėjo dalyvį: [[objektai/asmenys/Andrius Algirdaitis]]

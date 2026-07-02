@@ -132,8 +132,8 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
     - t-004
 
 ## Ryšiai
-- Dimitras Kaributas buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Dimitras Kaributas kariavo_pries [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Dimitras Kaributas puole [[objektai/vietos/Lietuva]]
-- Dimitras Kaributas siunte_i [[objektai/vietos/Severskas]]
-- Dimitras Kaributas buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Dimitras Kaributas puolė [[objektai/vietos/Lietuva]]
+- Dimitras Kaributas siuntė į [[objektai/vietos/Severskas]]
+- Dimitras Kaributas kariavo prieš [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

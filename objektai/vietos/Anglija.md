@@ -330,7 +330,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]] siunte_i Anglija
-- [[objektai/asmenys/Henrikas IV]] buvo_valdovas Anglija
-- [[objektai/grupes/Lietuviai]] gyveno Anglija
-- Anglija priklause [[objektai/vietos/Vakarų Europa]]
+- Turėjo valdovą: [[objektai/asmenys/Henrikas IV]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]
+- Anglija priklausė [[objektai/vietos/Vakarų Europa]]

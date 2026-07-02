@@ -164,9 +164,7 @@ amziai:
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzeme Brianskas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] puole Brianskas
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] uzeme Brianskas
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] valde_miesta Brianskas
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] siunte_i Brianskas
-- [[objektai/grupes/Rusai]] uzeme Brianskas
+- Buvo valdoma: [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- Puolė Brianską: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Užėmė Brianską: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/grupes/Rusai]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

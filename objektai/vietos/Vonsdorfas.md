@@ -77,6 +77,5 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Sembai]] puole Vonsdorfas
-- [[objektai/asmenys/Tirskas]] puole Vonsdorfas
-- [[objektai/vietos/Auktalitas]] priklause Vonsdorfas
+- Puolė Vonsdorfą: [[objektai/grupes/Sembai]], [[objektai/asmenys/Tirskas]]
+- Turėjo priklausinį: [[objektai/vietos/Auktalitas]]

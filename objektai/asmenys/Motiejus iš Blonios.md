@@ -71,4 +71,4 @@ Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvo
     - t-001
 
 ## Ryšiai
-- Motiejus iš Blonios keliavo_i [[objektai/vietos/Krokuva]]
+- Motiejus iš Blonios keliavo į [[objektai/vietos/Krokuva]]

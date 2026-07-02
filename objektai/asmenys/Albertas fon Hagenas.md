@@ -45,5 +45,5 @@ Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį b
     - t-001
 
 ## Ryšiai
-- Albertas fon Hagenas puole [[objektai/vietos/Gardinas]]
-- Albertas fon Hagenas uzeme [[objektai/vietos/Gardinas]]
+- Albertas fon Hagenas puolė [[objektai/vietos/Gardinas]]
+- Albertas fon Hagenas užėmė [[objektai/vietos/Gardinas]]

@@ -56,4 +56,4 @@ Dusburgietis teigia, kad apie Brandenburgo markgrafo atvykimą Tais metais, tai 
     - t-001
 
 ## Ryšiai
-- Jonas (Brandenburgo markgrafas) keliavo_i [[objektai/vietos/Prūsija]]
+- Jonas (Brandenburgo markgrafas) keliavo į [[objektai/vietos/Prūsija]]

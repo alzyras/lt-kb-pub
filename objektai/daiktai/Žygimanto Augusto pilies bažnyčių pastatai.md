@@ -122,4 +122,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] pastate Žygimanto Augusto pilies bažnyčių pastatai
+- Buvo pastatyta: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

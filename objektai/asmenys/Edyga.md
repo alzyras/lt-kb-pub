@@ -131,7 +131,5 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Totorių pajėgos]] priklause Edyga
-- Edyga puole [[objektai/vietos/Kijevas]]
-- Edyga puole [[objektai/vietos/Podolė]]
-- Edyga puole [[objektai/vietos/Luckas]]
+- Turėjo priklausinį: [[objektai/grupes/Totorių pajėgos]]
+- Edyga puolė [[objektai/vietos/Kijevas]], [[objektai/vietos/Luckas]], [[objektai/vietos/Podolė]]

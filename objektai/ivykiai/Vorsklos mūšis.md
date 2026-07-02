@@ -180,5 +180,5 @@ Nenurodyta
     - t-006
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Vorsklos mūšis (mūšis)
-- [[objektai/grupes/Totoriai]] puole Vorsklos mūšis (mūšis)
+- Puolė Vorsklos mūšį (mūšis): [[objektai/grupes/Totoriai]]
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]]

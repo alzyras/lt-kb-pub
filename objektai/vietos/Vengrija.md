@@ -609,12 +609,9 @@ Vengrija Lietuvos istorijos šaltiniuose minima kaip Vidurio Europos karalystė,
     - t-016
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] puole Vengrija
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Vengrija
-- [[objektai/grupes/Jogailaičių dinastija]] valde Vengrija
-- [[objektai/grupes/Totoriai]] surenge_zygi_i Vengrija
-- [[objektai/asmenys/Švitrigaila]] keliavo_i Vengrija
-- [[objektai/asmenys/Motiejus Huniadis]] buvo_valdovas Vengrija
-- [[objektai/asmenys/Zigmantas Liuksemburgietis]] buvo_valdovas Vengrija
-- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] valde Vengrija
-- Vengrija prekiavo_su [[objektai/vietos/Vilnius]]
+- Turėjo valdovą: [[objektai/asmenys/Motiejus Huniadis]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- Buvo valdoma: [[objektai/grupes/Jogailaičių dinastija]], [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Vengriją: [[objektai/grupes/Totoriai]]
+- Buvo žygio kryptis: [[objektai/grupes/Totoriai]]
+- Vengrija prekiavo su [[objektai/vietos/Vilnius]]

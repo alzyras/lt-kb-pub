@@ -72,4 +72,4 @@ Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisė
     - t-001
 
 ## Ryšiai
-- Europos kryžininkai surenge_zygi_i [[objektai/vietos/Lietuva]]
+- Europos kryžininkai surengė žygį į [[objektai/vietos/Lietuva]]

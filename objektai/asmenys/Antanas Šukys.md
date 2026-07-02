@@ -96,4 +96,4 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
     - t-002
 
 ## Ryšiai
-- Antanas Šukys kariavo_pries [[objektai/grupes/Lenkai]]
+- Antanas Šukys kariavo prieš [[objektai/grupes/Lenkai]]

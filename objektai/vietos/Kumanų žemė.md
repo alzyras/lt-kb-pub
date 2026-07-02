@@ -50,4 +50,4 @@ Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, i�
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] gyveno Kumanų žemė
+- Gyvenamoji vieta: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

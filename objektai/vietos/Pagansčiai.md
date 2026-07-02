@@ -79,4 +79,4 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
     - t-002
 
 ## Ryšiai
-- Pagansčiai priklause [[objektai/vietos/Zirgūna]]
+- Pagansčiai priklausė [[objektai/vietos/Zirgūna]]

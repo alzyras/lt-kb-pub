@@ -110,5 +110,5 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Žyniai]] gyveno Upsala
-- [[objektai/daiktai/Dievų stabai]] priklause Upsala
+- Gyvenamoji vieta: [[objektai/grupes/Žyniai]]
+- Turėjo priklausinį: [[objektai/daiktai/Dievų stabai]]

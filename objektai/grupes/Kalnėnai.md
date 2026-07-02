@@ -142,6 +142,6 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Ratai ant dviejų tekinių]] priklause Kalnėnai
-- [[objektai/grupes/Krikščionys]] puole Kalnėnai
-- [[objektai/grupes/Krikščionys]] kariavo_pries Kalnėnai
+- Puolė Kalnėnai: [[objektai/grupes/Krikščionys]]
+- Kariavo prieš: [[objektai/grupes/Krikščionys]]
+- Turėjo priklausinį: [[objektai/daiktai/Ratai ant dviejų tekinių]]

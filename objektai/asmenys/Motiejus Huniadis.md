@@ -78,5 +78,5 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
     - t-002
 
 ## Ryšiai
-- Motiejus Huniadis buvo_priesas [[objektai/grupes/Jogailaičiai]]
-- Motiejus Huniadis buvo_valdovas [[objektai/vietos/Vengrija]]
+- Priešai: [[objektai/grupes/Jogailaičiai]]
+- Motiejus Huniadis buvo valdovas [[objektai/vietos/Vengrija]]

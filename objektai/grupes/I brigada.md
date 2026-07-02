@@ -56,4 +56,4 @@ Lietuvių pajėgos Veikiančioji Lietuvos kariuomenė buvo pertvarkyta į dvi br
     - t-001
 
 ## Ryšiai
-- I brigada puole [[objektai/vietos/Naujasodė]]
+- I brigada puolė [[objektai/vietos/Naujasodė]]

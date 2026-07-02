@@ -66,4 +66,4 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
     - t-001
 
 ## Ryšiai
-- Silvestras Levontjevičius keliavo_i [[objektai/vietos/Vilnius]]
+- Silvestras Levontjevičius keliavo į [[objektai/vietos/Vilnius]]

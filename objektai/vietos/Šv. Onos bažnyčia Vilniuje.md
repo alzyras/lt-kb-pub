@@ -203,4 +203,4 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] pastate Šv. Onos bažnyčia Vilniuje
+- Buvo pastatyta: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

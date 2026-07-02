@@ -71,4 +71,4 @@ periodo_grupes: []
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Pelka]] paskyre Vitas
+- Paskyrė Vitą: [[objektai/asmenys/Pelka]]

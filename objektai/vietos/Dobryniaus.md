@@ -50,4 +50,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] keliavo_i Dobryniaus
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

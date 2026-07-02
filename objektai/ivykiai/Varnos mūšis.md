@@ -70,4 +70,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vladislovas]] dalyvavo_musyje Varnos mūšis (mūšis, XV a.)
+- Turėjo dalyvį: [[objektai/asmenys/Vladislovas]]

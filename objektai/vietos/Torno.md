@@ -152,4 +152,4 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Ulrichas von Jungingenas]] keliavo_i Torno
+- Buvo kelionės vieta: [[objektai/asmenys/Ulrichas von Jungingenas]]

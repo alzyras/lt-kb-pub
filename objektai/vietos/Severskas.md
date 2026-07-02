@@ -310,18 +310,11 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] keliavo_i Severskas
-- [[objektai/asmenys/Kaributas]] valde Severskas
-- [[objektai/asmenys/Kazimieras Jogailaitis]] keliavo_i Severskas
-- [[objektai/asmenys/Mykolas]] puole Severskas
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] puole Severskas
-- Severskas priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Skirmantas]] uzeme Severskas
-- [[objektai/asmenys/Šich Achmetas]] puole Severskas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzkariavo Severskas
-- [[objektai/asmenys/Jakovas Zachariničius]] surenge_zygi_i Severskas
-- [[objektai/asmenys/Šich Achmetas]] surenge_zygi_i Severskas
-- [[objektai/asmenys/Andrejus Možaiskis]] surenge_zygi_i Severskas
-- [[objektai/asmenys/Andriejus Šemiačičius]] surenge_zygi_i Severskas
-- [[objektai/asmenys/Dimitras Kaributas]] siunte_i Severskas
-- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] keliavo_i Severskas
+- Buvo valdoma: [[objektai/asmenys/Kaributas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- Puolė Severską: [[objektai/asmenys/Mykolas]], [[objektai/asmenys/Mykolas (Žygimanto sūnus)]], [[objektai/asmenys/Šich Achmetas]]
+- Užėmė Severską: [[objektai/asmenys/Skirmantas]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Dimitras Kaributas]]
+- Buvo žygio kryptis: [[objektai/asmenys/Andrejus Možaiskis]], [[objektai/asmenys/Andriejus Šemiačičius]], [[objektai/asmenys/Jakovas Zachariničius]], [[objektai/asmenys/Šich Achmetas]]
+- Buvo užkariauta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Severskas priklausė [[objektai/vietos/Lietuva]]

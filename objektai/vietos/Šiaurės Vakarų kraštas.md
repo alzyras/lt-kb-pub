@@ -96,4 +96,4 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
     - t-001
 
 ## Ryšiai
-- Šiaurės Vakarų kraštas priklause [[objektai/vietos/Rusija]]
+- Šiaurės Vakarų kraštas priklausė [[objektai/vietos/Rusija]]

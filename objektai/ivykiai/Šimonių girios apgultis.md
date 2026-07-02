@@ -106,5 +106,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/NKVD]] dalyvavo_musyje Šimonių girios apgultis
-- [[objektai/grupes/Algimanto apygarda]] dalyvavo_musyje Šimonių girios apgultis
+- Turėjo dalyvį: [[objektai/grupes/Algimanto apygarda]], [[objektai/grupes/NKVD]]

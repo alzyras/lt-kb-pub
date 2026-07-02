@@ -106,4 +106,4 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] keliavo_i Dniestras
+- Buvo kelionės vieta: [[objektai/grupes/Totoriai]]

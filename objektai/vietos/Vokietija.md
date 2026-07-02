@@ -1534,17 +1534,11 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     - t-042
 
 ## Ryšiai
-- [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]] gime Vokietija
-- [[objektai/vietos/Lietuva]] prekiavo_su Vokietija
-- [[objektai/asmenys/Poponas iš Osternos]] keliavo_i Vokietija
-- [[objektai/vietos/Šeinfeldas]] priklause Vokietija
-- [[objektai/vietos/Lietuva]] priklause Vokietija
-- [[objektai/vietos/Liublinas]] priklause Vokietija
-- [[objektai/asmenys/Karolis Tryrietis]] gyveno Vokietija
-- [[objektai/grupes/Lietuviai]] keliavo_i Vokietija
-- [[objektai/vietos/Klaipėda]] priklause Vokietija
-- [[objektai/vietos/Liublino vaivadija]] priklause Vokietija
-- [[objektai/vietos/Ruhro sritis]] priklause Vokietija
-- Vokietija priklause [[objektai/vietos/Rytprūsiai]]
-- Vokietija prekiavo_su [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Henrikas I Paukštininkas]] valde Vokietija
+- Buvo valdoma: [[objektai/asmenys/Henrikas I Paukštininkas]]
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Poponas iš Osternos]]
+- Gimimo vieta: [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]
+- Prekiavo su: [[objektai/vietos/Lietuva]]
+- Gyvenamoji vieta: [[objektai/asmenys/Karolis Tryrietis]]
+- Turėjo priklausinį: [[objektai/vietos/Klaipėda]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Liublinas]], [[objektai/vietos/Liublino vaivadija]], [[objektai/vietos/Ruhro sritis]], [[objektai/vietos/Šeinfeldas]]
+- Vokietija prekiavo su [[objektai/vietos/Vilnius]]
+- Vokietija priklausė [[objektai/vietos/Rytprūsiai]]

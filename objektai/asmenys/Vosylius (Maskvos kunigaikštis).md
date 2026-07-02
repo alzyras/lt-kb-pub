@@ -60,4 +60,4 @@ Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškė
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vosylius]] buvo_sunus Vosylius (Maskvos kunigaikštis)
+- Sūnūs: [[objektai/asmenys/Vosylius]]

@@ -57,4 +57,4 @@ periodo_grupes: []
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Namas]] priklause Merkelis Geiša Eljaševičius
+- Turėjo priklausinį: [[objektai/daiktai/Namas]]

@@ -111,5 +111,5 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Vilniaus pirkliai]] buvo_priesas Stanislovas Sabina
-- Stanislovas Sabina valde_miesta [[objektai/vietos/Vilnius]]
+- Priešai: [[objektai/grupes/Vilniaus pirkliai]]
+- Stanislovas Sabina valdė [[objektai/vietos/Vilnius]]

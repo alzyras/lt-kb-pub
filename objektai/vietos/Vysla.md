@@ -824,9 +824,7 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
     - t-027
 
 ## Ryšiai
-- [[objektai/grupes/Vidivarii]] gyveno Vysla
-- [[objektai/vietos/Nogatas]] priklause Vysla
-- [[objektai/grupes/Baltai]] gyveno Vysla
-- [[objektai/grupes/Žemaičiai]] keliavo_i Vysla
-- [[objektai/asmenys/Sventopelkas]] keliavo_i Vysla
-- Vysla priklause [[objektai/vietos/Lenkija]]
+- Buvo kelionės vieta: [[objektai/asmenys/Sventopelkas]], [[objektai/grupes/Žemaičiai]]
+- Gyvenamoji vieta: [[objektai/grupes/Baltai]], [[objektai/grupes/Vidivarii]]
+- Turėjo priklausinį: [[objektai/vietos/Nogatas]]
+- Vysla priklausė [[objektai/vietos/Lenkija]]

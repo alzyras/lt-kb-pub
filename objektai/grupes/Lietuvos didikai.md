@@ -236,5 +236,5 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-007
 
 ## Ryšiai
-- Lietuvos didikai keliavo_i [[objektai/vietos/Lenkija]]
-- Lietuvos didikai buvo_priesas [[objektai/grupes/Katalikų Bažnyčia]]
+- Priešai: [[objektai/grupes/Katalikų Bažnyčia]]
+- Lietuvos didikai keliavo į [[objektai/vietos/Lenkija]]

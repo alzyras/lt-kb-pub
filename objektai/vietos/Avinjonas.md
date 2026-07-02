@@ -110,7 +110,5 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]] mire Avinjonas
-- [[objektai/asmenys/Karolis Tryrietis]] keliavo_i Avinjonas
-- [[objektai/asmenys/Baltramiejus (vyskupas)]] keliavo_i Avinjonas
-- [[objektai/asmenys/Bernardas (abatas)]] keliavo_i Avinjonas
+- Buvo kelionės vieta: [[objektai/asmenys/Baltramiejus (vyskupas)]], [[objektai/asmenys/Bernardas (abatas)]], [[objektai/asmenys/Karolis Tryrietis]]
+- Mirties vieta: [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]]

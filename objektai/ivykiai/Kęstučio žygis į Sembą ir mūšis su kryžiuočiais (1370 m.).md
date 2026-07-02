@@ -102,6 +102,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] dalyvavo_musyje Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] dalyvavo_musyje Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)
+- Turėjo dalyvį: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]]

@@ -385,14 +385,8 @@ Skomantas buvo sūduvių vadas, šaltiniuose siejamas su XIII a. karo veiksmais 
     - t-013
 
 ## Ryšiai
-- Skomantas puole [[objektai/vietos/Gardinas]]
-- Skomantas uzeme [[objektai/vietos/Gardinas]]
-- Skomantas puole [[objektai/vietos/Kulmas]]
-- Skomantas surenge_zygi_i [[objektai/vietos/Kulmas]]
-- Skomantas puole [[objektai/vietos/Kujavija]]
-- Skomantas puole [[objektai/vietos/Liubava]]
-- Skomantas puole [[objektai/vietos/Kulmo žemė]]
-- Skomantas puole [[objektai/vietos/Torunė]]
+- Skomantas keliavo į [[objektai/vietos/Gardinas]], [[objektai/vietos/Prūsų žemė]]
+- Skomantas puolė [[objektai/vietos/Gardinas]], [[objektai/vietos/Kujavija]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Kulmo žemė]], [[objektai/vietos/Liubava]], [[objektai/vietos/Torunė]]
+- Skomantas užėmė [[objektai/vietos/Gardinas]]
+- Skomantas surengė žygį į [[objektai/vietos/Kulmas]]
 - Skomantas gyveno [[objektai/vietos/Kresmena]]
-- Skomantas keliavo_i [[objektai/vietos/Gardinas]]
-- Skomantas keliavo_i [[objektai/vietos/Prūsų žemė]]

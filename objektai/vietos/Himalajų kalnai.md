@@ -45,4 +45,4 @@ Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kult
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Indai]] gyveno Himalajų kalnai
+- Gyvenamoji vieta: [[objektai/grupes/Indai]]

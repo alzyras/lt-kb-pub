@@ -52,5 +52,5 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Georgenburgas]] priklause Karšuvos sritis
-- Karšuvos sritis priklause [[objektai/vietos/Karšuva]]
+- Turėjo priklausinį: [[objektai/vietos/Georgenburgas]]
+- Karšuvos sritis priklausė [[objektai/vietos/Karšuva]]

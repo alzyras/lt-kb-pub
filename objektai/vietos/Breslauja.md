@@ -170,7 +170,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] valde_teritorija Breslauja
-- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] valde Breslauja
-- Breslauja priklause [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
-- [[objektai/asmenys/Kernius]] surenge_zygi_i Breslauja
+- Buvo valdoma: [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Kernius]]
+- Breslauja priklausė [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

@@ -384,11 +384,8 @@ Aleksandras Balinskis buvo iš Krokuvos atvykęs alchemikas ir gydytojas, kviest
     - t-003
 
 ## Ryšiai
-- Aleksandras Balinskis keliavo_i [[objektai/vietos/Krokuva]]
-- Aleksandras Balinskis valde [[objektai/vietos/Jašiūnai]]
-- Aleksandras Balinskis keliavo_i [[objektai/vietos/Vilnius]]
-- Aleksandras Balinskis gyveno [[objektai/vietos/Vitebskas]]
-- Aleksandras Balinskis gyveno [[objektai/vietos/Jašiūnai]]
-- Aleksandras Balinskis keliavo_i [[objektai/vietos/Lietuva]]
-- Aleksandras Balinskis buvo_palaidotas [[objektai/vietos/Jašiūnai]]
-- Aleksandras Balinskis mire [[objektai/vietos/Vilnius]]
+- Aleksandras Balinskis valdė [[objektai/vietos/Jašiūnai]]
+- Aleksandras Balinskis keliavo į [[objektai/vietos/Krokuva]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
+- Aleksandras Balinskis mirė [[objektai/vietos/Vilnius]]
+- Aleksandras Balinskis buvo palaidotas [[objektai/vietos/Jašiūnai]]
+- Aleksandras Balinskis gyveno [[objektai/vietos/Jašiūnai]], [[objektai/vietos/Vitebskas]]

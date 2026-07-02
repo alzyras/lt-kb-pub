@@ -354,12 +354,10 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - t-005
 
 ## Ryšiai
-- Anglai buvo_priesas [[objektai/grupes/Škotai]]
-- Anglai puole [[objektai/grupes/Prancūzai]]
-- Anglai keliavo_i [[objektai/vietos/Prūsija]]
-- Anglai reme [[objektai/grupes/Vokiečiai]]
-- Anglai buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Anglai puole [[objektai/vietos/Vilnius]]
-- Anglai prekiavo_su [[objektai/vietos/Lietuva]]
+- Priešai: [[objektai/grupes/Škotai]], [[objektai/asmenys/Vilhelmas Douglas]]
+- Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Anglai keliavo į [[objektai/vietos/Prūsija]]
+- Anglai puolė [[objektai/grupes/Prancūzai]], [[objektai/vietos/Vilnius]]
+- Anglai prekiavo su [[objektai/vietos/Lietuva]]
 - Anglai gyveno [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Vilhelmas Douglas]] buvo_priesas Anglai
+- Anglai rėmė [[objektai/grupes/Vokiečiai]]

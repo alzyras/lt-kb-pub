@@ -284,4 +284,4 @@ Integracija į Europos Sąjungą buvo vienas svarbiausių atsikūrusios Lietuvos
     - t-010
 
 ## Ryšiai
-- [[objektai/vietos/Lietuva]] priklause Europos Sąjunga
+- Turėjo priklausinį: [[objektai/vietos/Lietuva]]

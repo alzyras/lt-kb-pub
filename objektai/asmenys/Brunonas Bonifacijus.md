@@ -107,4 +107,4 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
     - t-001
 
 ## Ryšiai
-- Brunonas Bonifacijus keliavo_i [[objektai/vietos/Lietuva]]
+- Brunonas Bonifacijus keliavo į [[objektai/vietos/Lietuva]]

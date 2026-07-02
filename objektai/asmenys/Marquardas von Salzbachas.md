@@ -93,4 +93,4 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
     - t-003
 
 ## Ryšiai
-- Marquardas von Salzbachas reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Marquardas von Salzbachas rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

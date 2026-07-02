@@ -88,4 +88,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Vernerio karo laivo žygis prieš Junigedą (1313 m.)
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]]

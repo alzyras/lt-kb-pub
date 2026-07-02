@@ -50,5 +50,4 @@ Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų ž
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Konradas (Fridricho II sūnus)]] puole Apulija
-- [[objektai/asmenys/Konradas]] puole Apulija
+- Puolė Apuliją: [[objektai/asmenys/Konradas]], [[objektai/asmenys/Konradas (Fridricho II sūnus)]]

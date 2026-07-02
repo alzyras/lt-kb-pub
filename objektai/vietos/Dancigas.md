@@ -170,6 +170,4 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Žemaičiai]] prekiavo_su Dancigas
-- [[objektai/vietos/Lietuva]] prekiavo_su Dancigas
-- [[objektai/vietos/Karaliaučius]] prekiavo_su Dancigas
+- Prekiavo su: [[objektai/vietos/Karaliaučius]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Žemaičiai]]

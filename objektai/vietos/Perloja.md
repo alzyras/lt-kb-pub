@@ -101,4 +101,4 @@ amziai:
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Marcinkonių batalionas]] puole Perloja
+- Puolė Perloją: [[objektai/grupes/Marcinkonių batalionas]]

@@ -58,4 +58,4 @@ Kare su švedais Naugardui padėjo Pskovas, kur buvo lietuvių vietininkas Jurgi
     - t-001
 
 ## Ryšiai
-- Jurgis Vytautaitis valde_miesta [[objektai/vietos/Pskovas]]
+- Jurgis Vytautaitis valdė [[objektai/vietos/Pskovas]]

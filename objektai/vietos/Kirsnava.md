@@ -50,4 +50,4 @@ Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Fridrichas, vadinamas Hole]] puole Kirsnava
+- Puolė Kirsnavą: [[objektai/asmenys/Fridrichas, vadinamas Hole]]

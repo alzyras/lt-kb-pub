@@ -138,7 +138,6 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] puole Nalšėnai
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] surenge_zygi_i Nalšėnai
-- [[objektai/grupes/Pskoviečiai]] puole Nalšėnai
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] buvo_valdovas Nalšėnai
+- Turėjo valdovą: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
+- Puolė Nalšėnai: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/grupes/Pskoviečiai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]

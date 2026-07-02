@@ -74,4 +74,4 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Rusai]] puole P. Vivulskis
+- Puolė P. Vivulskį: [[objektai/grupes/Rusai]]

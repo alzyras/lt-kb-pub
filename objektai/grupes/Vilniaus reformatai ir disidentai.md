@@ -110,4 +110,4 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Andrius Volanas]] reme Vilniaus reformatai ir disidentai
+- Rėmė Vilniaus reformatai ir disidentai: [[objektai/asmenys/Andrius Volanas]]

@@ -67,4 +67,4 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
     - t-002
 
 ## Ryšiai
-- Turčinas keliavo_i [[objektai/vietos/Leipcigas]]
+- Turčinas keliavo į [[objektai/vietos/Leipcigas]]

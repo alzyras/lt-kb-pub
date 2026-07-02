@@ -338,5 +338,5 @@ Kazimieras Didysis buvo Lenkijos sosto įpėdinis, 1325 m. sutuoktas su Gedimino
     - t-014
 
 ## Ryšiai
-- Kazimieras Didysis vede [[objektai/asmenys/Aldona Gediminaitė]]
-- Kazimieras Didysis uzeme [[objektai/vietos/Podolė]]
+- Sutuoktiniai: [[objektai/asmenys/Aldona Gediminaitė]]
+- Kazimieras Didysis užėmė [[objektai/vietos/Podolė]]

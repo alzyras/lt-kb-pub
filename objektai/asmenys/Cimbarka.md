@@ -62,4 +62,4 @@ Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau t
     - t-001
 
 ## Ryšiai
-- Cimbarka buvo_zmona [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
+- Vyrai: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]

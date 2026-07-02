@@ -327,17 +327,10 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
     - t-006
 
 ## Ryšiai
-- Krikščionys puole [[objektai/grupes/Galindai]]
-- Krikščionys gyveno [[objektai/vietos/Tripolis]]
-- Krikščionys gyveno [[objektai/vietos/Jeruzalė]]
-- Krikščionys kariavo_pries [[objektai/grupes/Saracėnai]]
-- [[objektai/grupes/Galindai]] kariavo_pries Krikščionys
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] kariavo_pries Krikščionys
-- Krikščionys dalyvavo_musyje [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės]]
-- Krikščionys dalyvavo_musyje [[objektai/ivykiai/Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas]]
-- [[objektai/asmenys/Sventopelkas]] kariavo_pries Krikščionys
-- [[objektai/grupes/Gotai]] priklause Krikščionys
-- Krikščionys reme [[objektai/grupes/Lietuviai]]
-- Krikščionys dalyvavo_musyje [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]
-- Krikščionys puole [[objektai/grupes/Kalnėnai]]
-- Krikščionys kariavo_pries [[objektai/grupes/Kalnėnai]]
+- Kariavo prieš: [[objektai/grupes/Galindai]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Sventopelkas]]
+- Turėjo priklausinį: [[objektai/grupes/Gotai]]
+- Krikščionys puolė [[objektai/grupes/Galindai]], [[objektai/grupes/Kalnėnai]]
+- Krikščionys kariavo prieš [[objektai/grupes/Kalnėnai]], [[objektai/grupes/Saracėnai]]
+- Krikščionys dalyvavo mūšyje [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]], [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės]], [[objektai/ivykiai/Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas]]
+- Krikščionys gyveno [[objektai/vietos/Jeruzalė]], [[objektai/vietos/Tripolis]]
+- Krikščionys rėmė [[objektai/grupes/Lietuviai]]

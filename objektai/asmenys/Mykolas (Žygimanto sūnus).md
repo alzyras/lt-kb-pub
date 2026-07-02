@@ -300,10 +300,9 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
     - t-009
 
 ## Ryšiai
-- Mykolas (Žygimanto sūnus) buvo_sunus [[objektai/asmenys/Žygimantas]]
-- Mykolas (Žygimanto sūnus) kariavo_pries [[objektai/asmenys/Švitrigaila]]
-- Mykolas (Žygimanto sūnus) keliavo_i [[objektai/vietos/Mazovija]]
-- Mykolas (Žygimanto sūnus) puole [[objektai/vietos/Severskas]]
-- [[objektai/grupes/Žemaičiai]] reme Mykolas (Žygimanto sūnus)
-- Mykolas (Žygimanto sūnus) valde_miesta [[objektai/vietos/Brianskas]]
-- Mykolas (Žygimanto sūnus) valde_miesta [[objektai/vietos/Belskas]]
+- Tėvai: [[objektai/asmenys/Žygimantas]]
+- Rėmė Mykolą (Žygimanto sūnus): [[objektai/grupes/Žemaičiai]]
+- Mykolas (Žygimanto sūnus) valdė [[objektai/vietos/Belskas]], [[objektai/vietos/Brianskas]]
+- Mykolas (Žygimanto sūnus) keliavo į [[objektai/vietos/Mazovija]]
+- Mykolas (Žygimanto sūnus) puolė [[objektai/vietos/Severskas]]
+- Mykolas (Žygimanto sūnus) kariavo prieš [[objektai/asmenys/Švitrigaila]]

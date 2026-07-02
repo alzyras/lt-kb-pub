@@ -197,5 +197,5 @@ amziai:
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]] apgule Medvėgalis
-- [[objektai/grupes/Žemaičiai]] gyne Medvėgalis
+- Apgulė Medvėgalį: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
+- Gynė Medvėgalį: [[objektai/grupes/Žemaičiai]]

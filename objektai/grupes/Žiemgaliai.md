@@ -436,12 +436,11 @@ amziai:
     - t-022
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] reme Žiemgaliai
-- Žiemgaliai uzeme [[objektai/vietos/Tervetė]]
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] reme Žiemgaliai
-- Žiemgaliai puole [[objektai/grupes/Kalavijuočių ordinas]]
-- Žiemgaliai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Ginklai]] priklause Žiemgaliai
-- Žiemgaliai valde [[objektai/vietos/Tervetė]]
-- Žiemgaliai buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
-- Žiemgaliai priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Priešai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Rėmė Žiemgaliai: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
+- Turėjo priklausinį: [[objektai/daiktai/Ginklai]]
+- Žiemgaliai valdė [[objektai/vietos/Tervetė]]
+- Žiemgaliai puolė [[objektai/grupes/Kalavijuočių ordinas]]
+- Žiemgaliai užėmė [[objektai/vietos/Tervetė]]
+- Žiemgaliai kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]
+- Žiemgaliai priklausė [[objektai/grupes/Kryžiuočių ordinas]]

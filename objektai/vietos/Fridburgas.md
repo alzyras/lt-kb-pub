@@ -57,4 +57,4 @@ XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pasist
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Fridburgas
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

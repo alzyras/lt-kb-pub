@@ -87,7 +87,7 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
     - t-001
 
 ## Ryšiai
-- Flandrai kariavo_pries [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Prancūzai]] kariavo_pries Flandrai
-- Flandrai puole [[objektai/grupes/Prancūzai]]
-- Flandrai dalyvavo_musyje [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis]]
+- Kariavo prieš: [[objektai/grupes/Prancūzai]]
+- Flandrai puolė [[objektai/grupes/Prancūzai]]
+- Flandrai kariavo prieš [[objektai/grupes/Prancūzai]]
+- Flandrai dalyvavo mūšyje [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis]]

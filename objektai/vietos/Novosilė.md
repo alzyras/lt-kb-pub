@@ -51,5 +51,4 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
     - t-002
 
 ## Ryšiai
-- Novosilė priklause [[objektai/vietos/Černigovas]]
-- Novosilė priklause [[objektai/vietos/Lietuva]]
+- Novosilė priklausė [[objektai/vietos/Černigovas]], [[objektai/vietos/Lietuva]]

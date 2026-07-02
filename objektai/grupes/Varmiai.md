@@ -398,9 +398,9 @@ Varmiai buvo Varmės gyventojai, šaltiniuose minimi tarp prūsų žemių žmoni
     - t-012
 
 ## Ryšiai
-- Varmiai paskyre [[objektai/asmenys/Glapas]]
-- [[objektai/asmenys/Pobravas]] buvo_sajungininkas_su Varmiai
-- Varmiai apgule [[objektai/vietos/Baiga]]
-- Varmiai keliavo_i [[objektai/vietos/Baiga]]
-- Varmiai uzeme [[objektai/vietos/Brandenburgo pilis]]
-- Varmiai priklause [[objektai/grupes/Teutonai]]
+- Sąjungininkai: [[objektai/asmenys/Pobravas]]
+- Varmiai keliavo į [[objektai/vietos/Baiga]]
+- Varmiai apgulė [[objektai/vietos/Baiga]]
+- Varmiai užėmė [[objektai/vietos/Brandenburgo pilis]]
+- Varmiai paskyrė [[objektai/asmenys/Glapas]]
+- Varmiai priklausė [[objektai/grupes/Teutonai]]

@@ -129,4 +129,4 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
     - t-002
 
 ## Ryšiai
-- Agota (kunigaikščio žmona, XIII a.) reme [[objektai/grupes/Teutonai]]
+- Agota (kunigaikščio žmona, XIII a.) rėmė [[objektai/grupes/Teutonai]]

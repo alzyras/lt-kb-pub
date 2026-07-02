@@ -1212,11 +1212,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - t-060
 
 ## Ryšiai
-- [[objektai/asmenys/Ignas Onacevičius]] keliavo_i Karaliaučius
-- Karaliaučius priklause [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Lietuva]] prekiavo_su Karaliaučius
-- [[objektai/grupes/Vokiečiai]] keliavo_i Karaliaučius
-- [[objektai/vietos/Vilnius]] prekiavo_su Karaliaučius
-- Karaliaučius priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Glapas]] mire Karaliaučius
-- Karaliaučius prekiavo_su [[objektai/vietos/Dancigas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Ignas Onacevičius]], [[objektai/grupes/Vokiečiai]]
+- Mirties vieta: [[objektai/asmenys/Glapas]]
+- Prekiavo su: [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
+- Karaliaučius prekiavo su [[objektai/vietos/Dancigas]]
+- Karaliaučius priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lietuva]]

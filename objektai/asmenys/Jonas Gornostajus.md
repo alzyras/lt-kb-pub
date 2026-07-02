@@ -103,4 +103,4 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
     - t-003
 
 ## Ryšiai
-- Jonas Gornostajus keliavo_i [[objektai/vietos/Maskva]]
+- Jonas Gornostajus keliavo į [[objektai/vietos/Maskva]]

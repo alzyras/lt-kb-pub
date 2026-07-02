@@ -273,9 +273,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Krymas
-- [[objektai/asmenys/Gilbert de Lannoy]] keliavo_i Krymas
-- [[objektai/asmenys/Kutlubugas]] valde Krymas
-- [[objektai/asmenys/Devletberdi]] valde Krymas
-- [[objektai/grupes/Totoriai]] gyveno Krymas
-- [[objektai/grupes/Kafos gyventojai]] keliavo_i Krymas
+- Buvo valdoma: [[objektai/asmenys/Devletberdi]], [[objektai/asmenys/Kutlubugas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Gilbert de Lannoy]], [[objektai/grupes/Kafos gyventojai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gyvenamoji vieta: [[objektai/grupes/Totoriai]]

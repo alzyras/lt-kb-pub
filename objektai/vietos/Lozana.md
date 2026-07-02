@@ -97,4 +97,4 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] keliavo_i Lozana
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

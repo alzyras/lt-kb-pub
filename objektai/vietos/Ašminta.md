@@ -49,4 +49,4 @@ Staliorių, Rugienių X AŠMINTOS SUSISPROGDINIMAS 1947 m. liepos 17 d. Prienų 
     - t-001
 
 ## Ryšiai
-- Ašminta priklause [[objektai/vietos/Prienai]]
+- Ašminta priklausė [[objektai/vietos/Prienai]]

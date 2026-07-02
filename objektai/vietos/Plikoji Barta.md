@@ -67,5 +67,4 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-002
 
 ## Ryšiai
-- Plikoji Barta priklause [[objektai/vietos/Barta]]
-- Plikoji Barta priklause [[objektai/vietos/Prūsija]]
+- Plikoji Barta priklausė [[objektai/vietos/Barta]], [[objektai/vietos/Prūsija]]

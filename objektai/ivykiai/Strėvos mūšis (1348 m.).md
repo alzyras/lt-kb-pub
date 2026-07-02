@@ -154,6 +154,4 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     - t-004
 
 ## Ryšiai
-- [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo) dalyvavo_musyje Strėvos mūšis (1348 m.)
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Strėvos mūšis (1348 m.)
-- [[objektai/grupes/Rusai]] dalyvavo_musyje Strėvos mūšis (1348 m.)
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Rusai]], [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)

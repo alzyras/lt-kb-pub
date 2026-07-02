@@ -57,5 +57,5 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
     - t-001
 
 ## Ryšiai
-- Gerhardas iš Reino puole [[objektai/asmenys/Pobravas]]
-- Gerhardas iš Reino kariavo_pries [[objektai/asmenys/Pobravas]]
+- Gerhardas iš Reino puolė [[objektai/asmenys/Pobravas]]
+- Gerhardas iš Reino kariavo prieš [[objektai/asmenys/Pobravas]]

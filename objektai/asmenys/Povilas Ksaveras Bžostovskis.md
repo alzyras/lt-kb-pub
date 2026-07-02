@@ -86,4 +86,4 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
     - t-002
 
 ## Ryšiai
-- Povilas Ksaveras Bžostovskis pastate [[objektai/vietos/Paulava]]
+- Povilas Ksaveras Bžostovskis pastatė [[objektai/vietos/Paulava]]

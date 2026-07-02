@@ -69,4 +69,4 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Glapas]] mire Glapo kalva
+- Mirties vieta: [[objektai/asmenys/Glapas]]

@@ -59,4 +59,4 @@ Kojelavičius Liboną vadina laivyno legatu ir Pompėjaus partijos šalininku.
     - t-001
 
 ## Ryšiai
-- Libonas keliavo_i [[objektai/vietos/Lietuva]]
+- Libonas keliavo į [[objektai/vietos/Lietuva]]

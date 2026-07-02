@@ -522,10 +522,9 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
     - t-016
 
 ## Ryšiai
-- Mykolas Glinskis puole [[objektai/grupes/Totoriai]]
-- Mykolas Glinskis keliavo_i [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Vasilijus]] paskyre Mykolas Glinskis
-- Mykolas Glinskis dalyvavo_musyje [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
-- Mykolas Glinskis kariavo_pries [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Bajorai]] reme Mykolas Glinskis
-- Mykolas Glinskis keliavo_i [[objektai/vietos/Kleckas]]
+- Paskyrė Mykolas Glinskį: [[objektai/asmenys/Vasilijus]]
+- Rėmė Mykolas Glinskį: [[objektai/grupes/Bajorai]]
+- Mykolas Glinskis keliavo į [[objektai/vietos/Kleckas]], [[objektai/vietos/Vilnius]]
+- Mykolas Glinskis puolė [[objektai/grupes/Totoriai]]
+- Mykolas Glinskis kariavo prieš [[objektai/grupes/Totoriai]]
+- Mykolas Glinskis dalyvavo mūšyje [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]

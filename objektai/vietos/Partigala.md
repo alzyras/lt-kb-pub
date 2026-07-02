@@ -104,5 +104,5 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Gubučiai]] pastate Partigala
-- [[objektai/grupes/Teutonai]] uzeme Partigala
+- Buvo pastatyta: [[objektai/grupes/Gubučiai]]
+- Užėmė Partigalą: [[objektai/grupes/Teutonai]]

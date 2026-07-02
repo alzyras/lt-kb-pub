@@ -171,7 +171,5 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
     - t-003
 
 ## Ryšiai
-- Barboros rūmai Vilniuje priklause [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/asmenys/Barbora Radvilaitė]] gyveno Barboros rūmai Vilniuje
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] gyveno Barboros rūmai Vilniuje
-- Barboros rūmai Vilniuje priklause [[objektai/vietos/Vilija]]
+- Gyvenamoji vieta: [[objektai/asmenys/Barbora Radvilaitė]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- Barboros rūmai Vilniuje priklausė [[objektai/asmenys/Barbora Radvilaitė]], [[objektai/vietos/Vilija]]

@@ -650,4 +650,4 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
     - t-024
 
 ## Ryšiai
-- [[objektai/daiktai/Stulpai]] priklause Gediminaičių dinastija
+- Turėjo priklausinį: [[objektai/daiktai/Stulpai]]

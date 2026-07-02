@@ -186,4 +186,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- Varpai priklause [[objektai/grupes/Romėnai]]
+- Varpai priklausė [[objektai/grupes/Romėnai]]

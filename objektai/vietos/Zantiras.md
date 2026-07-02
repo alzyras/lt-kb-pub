@@ -40,5 +40,5 @@ Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksči
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] valde Zantiras
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Zantiras
+- Buvo valdoma: [[objektai/grupes/Kryžiuočių ordinas]]
+- Užėmė Zantirą: [[objektai/grupes/Kryžiuočių ordinas]]

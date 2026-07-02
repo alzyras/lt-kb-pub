@@ -756,7 +756,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     - t-026
 
 ## Ryšiai
-- [[objektai/asmenys/Dmitrijus Ivanovičius]] puole Tverė
-- [[objektai/asmenys/Michailas Aleksandrovičius]] buvo_valdovas Tverė
-- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]] valde Tverė
-- [[objektai/vietos/Vilnius]] prekiavo_su Tverė
+- Turėjo valdovą: [[objektai/asmenys/Michailas Aleksandrovičius]]
+- Buvo valdoma: [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
+- Puolė Tverę: [[objektai/asmenys/Dmitrijus Ivanovičius]]
+- Prekiavo su: [[objektai/vietos/Vilnius]]

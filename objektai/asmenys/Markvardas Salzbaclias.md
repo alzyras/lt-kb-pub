@@ -70,4 +70,4 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
     - t-002
 
 ## Ryšiai
-- Markvardas Salzbaclias buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

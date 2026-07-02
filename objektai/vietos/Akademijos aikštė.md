@@ -102,4 +102,4 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
     - t-002
 
 ## Ryšiai
-- [[objektai/vietos/Akademijos visuotinių iškilmių salė]] priklause Akademijos aikštė
+- Turėjo priklausinį: [[objektai/vietos/Akademijos visuotinių iškilmių salė]]

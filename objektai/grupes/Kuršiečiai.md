@@ -73,4 +73,4 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
     - t-002
 
 ## Ryšiai
-- Kuršiečiai keliavo_i [[objektai/vietos/Dauguva]]
+- Kuršiečiai keliavo į [[objektai/vietos/Dauguva]]

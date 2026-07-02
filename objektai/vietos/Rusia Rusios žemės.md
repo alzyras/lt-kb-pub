@@ -139,4 +139,4 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] surenge_zygi_i Rusia Rusios žemės
+- Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

@@ -70,5 +70,5 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
     - t-002
 
 ## Ryšiai
-- Putvė priklause [[objektai/vietos/Karšuva]]
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Putvė
+- Užėmė Putvę: [[objektai/grupes/Kryžiuočių ordinas]]
+- Putvė priklausė [[objektai/vietos/Karšuva]]

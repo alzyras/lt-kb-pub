@@ -42,4 +42,4 @@ sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Žydai]] keliavo_i Pietų Afrikos Sąjunga
+- Buvo kelionės vieta: [[objektai/grupes/Žydai]]

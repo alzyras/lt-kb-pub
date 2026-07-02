@@ -142,6 +142,6 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]] mire Kelnas
-- [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]] buvo_palaidotas Kelnas
-- [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]] gyveno Kelnas
+- Mirties vieta: [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]
+- Gyvenamoji vieta: [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]

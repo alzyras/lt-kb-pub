@@ -107,6 +107,5 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
     - t-001
 
 ## Ryšiai
-- Unitai priklause [[objektai/grupes/Rusų stačiatikių bažnyčia]]
-- Unitai gyveno [[objektai/vietos/Galicija]]
-- Unitai gyveno [[objektai/vietos/Lietuva]]
+- Unitai gyveno [[objektai/vietos/Galicija]], [[objektai/vietos/Lietuva]]
+- Unitai priklausė [[objektai/grupes/Rusų stačiatikių bažnyčia]]

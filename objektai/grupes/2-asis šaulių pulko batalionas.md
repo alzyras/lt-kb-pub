@@ -49,4 +49,4 @@ Matusevičiaus Trakų sukilėlių daliniai, palaikomi 2-ojo šaulių pulko batal
     - t-001
 
 ## Ryšiai
-- 2-asis šaulių pulko batalionas kariavo_pries [[objektai/grupes/Rusai]]
+- 2-asis šaulių pulko batalionas kariavo prieš [[objektai/grupes/Rusai]]

@@ -83,5 +83,5 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
     - t-002
 
 ## Ryšiai
-- Benediktas Makras siunte_i [[objektai/vietos/Lietuva]]
-- Benediktas Makras keliavo_i [[objektai/vietos/Kaunas]]
+- Benediktas Makras keliavo į [[objektai/vietos/Kaunas]]
+- Benediktas Makras siuntė į [[objektai/vietos/Lietuva]]

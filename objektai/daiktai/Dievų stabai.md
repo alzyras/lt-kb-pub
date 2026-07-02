@@ -186,5 +186,5 @@ Nenurodyta
 - tekste stabas minimas tik greta aukuro, be atskiro aprašymo ar formos detalės.
 
 ## Ryšiai
-- Dievų stabai priklause [[objektai/vietos/Upsala]]
-- [[objektai/asmenys/Aurelijus Antoninas]] pastate Dievų stabai
+- Buvo pastatyta: [[objektai/asmenys/Aurelijus Antoninas]]
+- Dievų stabai priklausė [[objektai/vietos/Upsala]]

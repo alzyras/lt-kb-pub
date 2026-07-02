@@ -62,4 +62,4 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
     - t-002
 
 ## Ryšiai
-- Vileniškis gyne [[objektai/grupes/Lenkai]]
+- Vileniškis gynė [[objektai/grupes/Lenkai]]

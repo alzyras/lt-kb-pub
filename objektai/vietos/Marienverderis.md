@@ -130,9 +130,5 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Marienverderis
-- [[objektai/asmenys/Hermanas (Ordino magistras)]] pastate Marienverderis
-- [[objektai/asmenys/Sventopelkas]] pastate Marienverderis
-- [[objektai/asmenys/Odoničius]] pastate Marienverderis
-- [[objektai/asmenys/Samboras]] pastate Marienverderis
-- Marienverderis priklause [[objektai/vietos/Pamedė]]
+- Buvo pastatyta: [[objektai/asmenys/Hermanas (Ordino magistras)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Odoničius]], [[objektai/asmenys/Samboras]], [[objektai/asmenys/Sventopelkas]]
+- Marienverderis priklausė [[objektai/vietos/Pamedė]]

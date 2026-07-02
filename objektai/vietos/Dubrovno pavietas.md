@@ -55,4 +55,4 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
     - t-001
 
 ## Ryšiai
-- Dubrovno pavietas priklause [[objektai/asmenys/Vaidila]]
+- Dubrovno pavietas priklausė [[objektai/asmenys/Vaidila]]

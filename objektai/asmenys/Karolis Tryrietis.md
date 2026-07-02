@@ -85,6 +85,6 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
     - t-002
 
 ## Ryšiai
-- Karolis Tryrietis keliavo_i [[objektai/vietos/Avinjonas]]
+- Karolis Tryrietis keliavo į [[objektai/vietos/Avinjonas]]
+- Karolis Tryrietis gynė [[objektai/grupes/Kryžiuočių ordinas]]
 - Karolis Tryrietis gyveno [[objektai/vietos/Vokietija]]
-- Karolis Tryrietis gyne [[objektai/grupes/Kryžiuočių ordinas]]

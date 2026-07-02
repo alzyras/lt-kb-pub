@@ -80,4 +80,4 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
     - t-002
 
 ## Ryšiai
-- Katinavos apylinkės priklause [[objektai/vietos/Nadruva]]
+- Katinavos apylinkės priklausė [[objektai/vietos/Nadruva]]

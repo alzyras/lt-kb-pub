@@ -64,4 +64,4 @@ periodo_grupes: []
     - t-001
 
 ## Ryšiai
-- Pelka paskyre [[objektai/asmenys/Vitas]]
+- Pelka paskyrė [[objektai/asmenys/Vitas]]

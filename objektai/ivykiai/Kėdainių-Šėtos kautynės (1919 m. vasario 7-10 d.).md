@@ -235,6 +235,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)
-- [[objektai/asmenys/J. Mikoliūnas]] dalyvavo_musyje Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)
-- [[objektai/asmenys/K. Dragunevičius]] dalyvavo_musyje Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)
+- Turėjo dalyvį: [[objektai/asmenys/J. Mikoliūnas]], [[objektai/asmenys/K. Dragunevičius]], [[objektai/grupes/Lietuviai]]

@@ -880,12 +880,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-008
 
 ## Ryšiai
-- [[objektai/asmenys/Zigmantas III]] buvo_valdovas Abiejų Tautų Respublika
-- [[objektai/vietos/Lenkija]] priklause Abiejų Tautų Respublika
-- [[objektai/vietos/Lietuva]] priklause Abiejų Tautų Respublika
-- [[objektai/asmenys/Gabrielius Bekešas]] reme Abiejų Tautų Respublika
-- [[objektai/daiktai/Husaro krūtinšarvis ir antpetis]] priklause Abiejų Tautų Respublika
-- Abiejų Tautų Respublika prekiavo_su [[objektai/vietos/Amsterdamas]]
-- [[objektai/daiktai/Karacenos šarvų komplektas]] priklause Abiejų Tautų Respublika
-- Abiejų Tautų Respublika priklause [[objektai/vietos/Lenkija]]
-- Abiejų Tautų Respublika priklause [[objektai/vietos/Lietuva]]
+- Turėjo valdovą: [[objektai/asmenys/Zigmantas III]]
+- Rėmė Abiejų Tautų Respubliką: [[objektai/asmenys/Gabrielius Bekešas]]
+- Turėjo priklausinį: [[objektai/daiktai/Husaro krūtinšarvis ir antpetis]], [[objektai/daiktai/Karacenos šarvų komplektas]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]
+- Abiejų Tautų Respublika prekiavo su [[objektai/vietos/Amsterdamas]]
+- Abiejų Tautų Respublika priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

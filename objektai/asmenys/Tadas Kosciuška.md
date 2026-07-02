@@ -148,4 +148,4 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     - t-003
 
 ## Ryšiai
-- Tadas Kosciuška paskyre [[objektai/asmenys/Mykolas Velhorskis]]
+- Tadas Kosciuška paskyrė [[objektai/asmenys/Mykolas Velhorskis]]

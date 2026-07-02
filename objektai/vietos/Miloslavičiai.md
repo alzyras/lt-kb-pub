@@ -73,4 +73,4 @@ Skirgaila nujojęs į Miloslavičius ten susirgo.
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Skirgaila]] keliavo_i Miloslavičiai
+- Buvo kelionės vieta: [[objektai/asmenys/Skirgaila]]

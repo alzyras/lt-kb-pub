@@ -85,4 +85,4 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     - t-001
 
 ## Ryšiai
-- Vygandas buvo_brolis [[objektai/asmenys/Skirgaila]]
+- Broliai: [[objektai/asmenys/Skirgaila]]

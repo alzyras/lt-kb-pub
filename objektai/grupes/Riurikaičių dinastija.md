@@ -122,4 +122,4 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - t-004
 
 ## Ryšiai
-- Riurikaičių dinastija valde [[objektai/vietos/Rusija]]
+- Riurikaičių dinastija valdė [[objektai/vietos/Rusija]]

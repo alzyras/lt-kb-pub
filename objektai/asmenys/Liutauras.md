@@ -64,8 +64,8 @@ Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė L
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] buvo_sunus Liutauras
-- Liutauras buvo_sunus [[objektai/asmenys/Dormunimundas]]
-- Liutauras pastate [[objektai/vietos/Ariogala]]
-- Liutauras valde [[objektai/vietos/Polockas]]
-- [[objektai/grupes/Lietuvos ponai]] paskyre Liutauras
+- Sūnūs: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Tėvai: [[objektai/asmenys/Dormunimundas]]
+- Paskyrė Liutaurą: [[objektai/grupes/Lietuvos ponai]]
+- Liutauras valdė [[objektai/vietos/Polockas]]
+- Liutauras pastatė [[objektai/vietos/Ariogala]]

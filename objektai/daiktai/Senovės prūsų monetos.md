@@ -89,4 +89,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- Senovės prūsų monetos priklause [[objektai/grupes/Prūsai]]
+- Senovės prūsų monetos priklausė [[objektai/grupes/Prūsai]]

@@ -49,4 +49,4 @@ Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie ga
     - t-001
 
 ## Ryšiai
-- Rūdninkų vartai ir Rūdninkų gatvė Vilniuje priklause [[objektai/vietos/Vilnius]]
+- Rūdninkų vartai ir Rūdninkų gatvė Vilniuje priklausė [[objektai/vietos/Vilnius]]

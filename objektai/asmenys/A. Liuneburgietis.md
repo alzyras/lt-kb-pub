@@ -39,4 +39,4 @@ Liuneburgietis.
     - t-001
 
 ## Ryšiai
-- A. Liuneburgietis dalyvavo_musyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- A. Liuneburgietis dalyvavo mūšyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]

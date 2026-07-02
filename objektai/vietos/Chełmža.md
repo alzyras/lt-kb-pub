@@ -159,5 +159,5 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Liudvikas iš Šipeno]] buvo_palaidotas Chełmža
-- [[objektai/asmenys/Ninerikas]] keliavo_i Chełmža
+- Buvo kelionės vieta: [[objektai/asmenys/Ninerikas]]
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Liudvikas iš Šipeno]]

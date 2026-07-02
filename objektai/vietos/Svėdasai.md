@@ -64,5 +64,5 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/P. Genys]] uzeme Svėdasai
-- [[objektai/asmenys/Zigmantas Sierakauskas]] keliavo_i Svėdasai
+- Buvo kelionės vieta: [[objektai/asmenys/Zigmantas Sierakauskas]]
+- Užėmė Svėdasai: [[objektai/asmenys/P. Genys]]

@@ -55,4 +55,4 @@ Bogdanas Maskevičius su kitais sužeistais pulkų vadais prasiskynė kelią per
     - t-001
 
 ## Ryšiai
-- Bogdanas Maskevičius dalyvavo_musyje [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]
+- Bogdanas Maskevičius dalyvavo mūšyje [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]

@@ -154,6 +154,4 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Kazokai]] dalyvavo_musyje Lojevo mūšis (1649 m. liepos 31 d.)
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Lojevo mūšis (1649 m. liepos 31 d.)
-- [[objektai/asmenys/Radvila]] dalyvavo_musyje Lojevo mūšis (1649 m. liepos 31 d.)
+- Turėjo dalyvį: [[objektai/grupes/Kazokai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Radvila]]

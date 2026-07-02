@@ -56,4 +56,4 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Radvilos]] keliavo_i Starica
+- Buvo kelionės vieta: [[objektai/grupes/Radvilos]]

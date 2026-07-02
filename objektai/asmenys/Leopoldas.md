@@ -59,4 +59,4 @@ Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, k
     - t-001
 
 ## Ryšiai
-- Leopoldas reme [[objektai/grupes/Kryžiuočių ordinas]]
+- Leopoldas rėmė [[objektai/grupes/Kryžiuočių ordinas]]

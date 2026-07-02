@@ -82,7 +82,5 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] surenge_zygi_i Palestina
-- [[objektai/grupes/Armėnai]] surenge_zygi_i Palestina
-- [[objektai/grupes/Gruzinai]] surenge_zygi_i Palestina
-- [[objektai/grupes/Žydai]] keliavo_i Palestina
+- Buvo kelionės vieta: [[objektai/grupes/Žydai]]
+- Buvo žygio kryptis: [[objektai/grupes/Armėnai]], [[objektai/grupes/Gruzinai]], [[objektai/grupes/Totoriai]]

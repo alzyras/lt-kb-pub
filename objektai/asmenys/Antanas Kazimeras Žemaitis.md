@@ -44,4 +44,4 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
     - t-001
 
 ## Ryšiai
-- Antanas Kazimeras Žemaitis gime [[objektai/vietos/Londonas]]
+- Antanas Kazimeras Žemaitis gimė [[objektai/vietos/Londonas]]

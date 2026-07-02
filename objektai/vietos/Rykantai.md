@@ -47,4 +47,4 @@ Kairiajame Neries krante prie Semeliškių — Rykantų įsitvirtinusi 3-ioji I.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/3-ioji divizija]] gyne Rykantai
+- Gynė Rykantai: [[objektai/grupes/3-ioji divizija]]

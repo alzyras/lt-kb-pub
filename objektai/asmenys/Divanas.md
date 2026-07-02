@@ -202,13 +202,9 @@ Divanas, pravarde Klokinis, buvo bartų vadas per prūsų pasipriešinimą Ordin
     - t-007
 
 ## Ryšiai
-- Divanas apgule [[objektai/vietos/Senenzė]]
-- [[objektai/asmenys/Arnoldas Krofas]] puole Divanas
-- [[objektai/grupes/Bartai]] paskyre Divanas
-- Divanas puole [[objektai/vietos/Kulmas]]
-- Divanas surenge_zygi_i [[objektai/vietos/Kulmas]]
-- Divanas puole [[objektai/vietos/Kristburgas]]
-- Divanas puole [[objektai/vietos/Marienburgas]]
-- Divanas buvo_sajungininkas_su [[objektai/asmenys/Linkas]]
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Divanas
-- [[objektai/asmenys/Linkas]] buvo_sajungininkas_su Divanas
+- Sąjungininkai: [[objektai/asmenys/Linkas]]
+- Puolė Divaną: [[objektai/asmenys/Arnoldas Krofas]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Paskyrė Divaną: [[objektai/grupes/Bartai]]
+- Divanas puolė [[objektai/vietos/Kristburgas]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Marienburgas]]
+- Divanas apgulė [[objektai/vietos/Senenzė]]
+- Divanas surengė žygį į [[objektai/vietos/Kulmas]]

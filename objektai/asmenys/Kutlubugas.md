@@ -45,4 +45,4 @@ Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dal
     - t-001
 
 ## Ryšiai
-- Kutlubugas valde [[objektai/vietos/Krymas]]
+- Kutlubugas valdė [[objektai/vietos/Krymas]]

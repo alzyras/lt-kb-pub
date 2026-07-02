@@ -45,4 +45,4 @@ Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeiga
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Huronai]] gyveno Šiaurės Amerika Kanada
+- Gyvenamoji vieta: [[objektai/grupes/Huronai]]

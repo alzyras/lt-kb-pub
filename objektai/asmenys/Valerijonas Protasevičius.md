@@ -519,4 +519,4 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     - t-007
 
 ## Ryšiai
-- Valerijonas Protasevičius (vyskupas) buvo_priesas [[objektai/grupes/Protestantai]]
+- Priešai: [[objektai/grupes/Protestantai]]

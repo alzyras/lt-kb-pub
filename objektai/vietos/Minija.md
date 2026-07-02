@@ -67,6 +67,5 @@ tags:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Skalviai]] gyveno Minija
-- [[objektai/grupes/Lamatiečiai]] gyveno Minija
-- Minija priklause [[objektai/vietos/Lietuva]]
+- Gyvenamoji vieta: [[objektai/grupes/Lamatiečiai]], [[objektai/grupes/Skalviai]]
+- Minija priklausė [[objektai/vietos/Lietuva]]

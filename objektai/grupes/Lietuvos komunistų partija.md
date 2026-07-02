@@ -430,4 +430,4 @@ Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai ne
     - t-014
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] priklause Lietuvos komunistų partija
+- Turėjo priklausinį: [[objektai/grupes/Lietuviai]]

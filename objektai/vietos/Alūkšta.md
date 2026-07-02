@@ -69,4 +69,4 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
     - t-001
 
 ## Ryšiai
-- Alūkšta priklause [[objektai/vietos/Kuršas]]
+- Alūkšta priklausė [[objektai/vietos/Kuršas]]

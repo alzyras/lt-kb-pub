@@ -64,9 +64,8 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Cartoryskas]] priklause Konstantinas (Karijotaitis)
-- [[objektai/vietos/Černigovas]] priklause Konstantinas (Karijotaitis)
-- Konstantinas (Karijotaitis) kariavo_pries [[objektai/grupes/Maskvėnai]]
-- Konstantinas (Karijotaitis) puole [[objektai/grupes/Maskvėnai]]
-- [[objektai/grupes/Maskvėnai]] buvo_priesas Konstantinas (Karijotaitis)
-- [[objektai/grupes/Maskvėnai]] kariavo_pries Konstantinas (Karijotaitis)
+- Priešai: [[objektai/grupes/Maskvėnai]]
+- Kariavo prieš: [[objektai/grupes/Maskvėnai]]
+- Turėjo priklausinį: [[objektai/vietos/Cartoryskas]], [[objektai/vietos/Černigovas]]
+- Konstantinas (Karijotaitis) puolė [[objektai/grupes/Maskvėnai]]
+- Konstantinas (Karijotaitis) kariavo prieš [[objektai/grupes/Maskvėnai]]

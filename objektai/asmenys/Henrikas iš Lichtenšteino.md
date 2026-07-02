@@ -144,6 +144,5 @@ Henrikas iš Lichtenšteino minimas 1246 m. Prūsijos ir Pomeranijos karo veiksm
     - t-004
 
 ## Ryšiai
-- Henrikas iš Lichtenšteino keliavo_i [[objektai/vietos/Kulmas]]
-- Henrikas iš Lichtenšteino keliavo_i [[objektai/vietos/Prūsija]]
-- Henrikas iš Lichtenšteino surenge_zygi_i [[objektai/vietos/Pomeranija]]
+- Henrikas iš Lichtenšteino keliavo į [[objektai/vietos/Kulmas]], [[objektai/vietos/Prūsija]]
+- Henrikas iš Lichtenšteino surengė žygį į [[objektai/vietos/Pomeranija]]

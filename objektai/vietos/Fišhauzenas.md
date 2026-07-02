@@ -112,5 +112,5 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Sembai]] puole Fišhauzenas
-- Fišhauzenas priklause [[objektai/vietos/Semba]]
+- Puolė Fišhauzeną: [[objektai/grupes/Sembai]]
+- Fišhauzenas priklausė [[objektai/vietos/Semba]]

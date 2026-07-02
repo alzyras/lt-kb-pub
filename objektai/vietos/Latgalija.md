@@ -60,4 +60,4 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Latviai]] gyveno Latgalija
+- Gyvenamoji vieta: [[objektai/grupes/Latviai]]

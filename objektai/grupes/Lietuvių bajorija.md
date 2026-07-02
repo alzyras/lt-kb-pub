@@ -135,4 +135,4 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
     - t-004
 
 ## Ryšiai
-- [[objektai/daiktai/Herbai]] priklause Lietuvių bajorija
+- Turėjo priklausinį: [[objektai/daiktai/Herbai]]

@@ -694,14 +694,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
     - t-028
 
 ## Ryšiai
-- Ukmergė priklause [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
-- [[objektai/grupes/8-asis pėstininkų pulkas]] keliavo_i Ukmergė
-- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] valde Ukmergė
-- [[objektai/asmenys/Švitrigaila]] surenge_zygi_i Ukmergė
-- [[objektai/asmenys/V. Nazimovas]] siunte_i Ukmergė
-- [[objektai/asmenys/Zivinbudas]] valde Ukmergė
-- [[objektai/grupes/13-asis ulonų pulkas]] surenge_zygi_i Ukmergė
-- [[objektai/asmenys/Boleslovas Švitrigaila]] surenge_zygi_i Ukmergė
-- [[objektai/grupes/Ukmergės rinktinė]] keliavo_i Ukmergė
-- [[objektai/asmenys/Kinsgaila]] valde Ukmergė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Ukmergė
+- Buvo valdoma: [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]], [[objektai/asmenys/Kinsgaila]], [[objektai/asmenys/Zivinbudas]]
+- Buvo kelionės vieta: [[objektai/grupes/8-asis pėstininkų pulkas]], [[objektai/grupes/Ukmergės rinktinė]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo siuntimo vieta: [[objektai/asmenys/V. Nazimovas]]
+- Buvo žygio kryptis: [[objektai/grupes/13-asis ulonų pulkas]], [[objektai/asmenys/Boleslovas Švitrigaila]], [[objektai/asmenys/Švitrigaila]]
+- Ukmergė priklausė [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

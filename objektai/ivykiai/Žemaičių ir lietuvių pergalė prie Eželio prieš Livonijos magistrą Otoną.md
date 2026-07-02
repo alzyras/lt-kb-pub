@@ -57,5 +57,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną
-- [[objektai/grupes/Žemaičiai]] dalyvavo_musyje Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Žemaičiai]]

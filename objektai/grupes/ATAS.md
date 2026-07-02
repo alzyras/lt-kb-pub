@@ -110,5 +110,4 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
     - t-001
 
 ## Ryšiai
-- ATAS gyne [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
-- ATAS gyne [[objektai/asmenys/Vytautas Landsbergis]]
+- ATAS gynė [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]], [[objektai/asmenys/Vytautas Landsbergis]]

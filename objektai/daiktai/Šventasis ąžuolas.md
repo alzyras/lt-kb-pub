@@ -70,5 +70,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Šventasis ąžuolas priklause [[objektai/vietos/Heiligenbeilis]]
-- Šventasis ąžuolas priklause [[objektai/vietos/Romuva]]
+- Šventasis ąžuolas priklausė [[objektai/vietos/Heiligenbeilis]], [[objektai/vietos/Romuva]]

@@ -68,5 +68,5 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
     - t-001
 
 ## Ryšiai
-- Dmitrijus kariavo_pries [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Dmitrijus kariavo prieš [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Dmitrijus gyveno [[objektai/vietos/Kremlius]]

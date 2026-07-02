@@ -48,4 +48,4 @@ Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, �
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Namas]] priklause Povilas Piestavičius
+- Turėjo priklausinį: [[objektai/daiktai/Namas]]

@@ -90,4 +90,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Steponas]] puole Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)
+- Puolė Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.): [[objektai/asmenys/Steponas]]

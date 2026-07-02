@@ -54,4 +54,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Vinrichas fon Kniprodė surenge_zygi_i [[objektai/vietos/Kaunas]]
+- Vinrichas fon Kniprodė surengė žygį į [[objektai/vietos/Kaunas]]

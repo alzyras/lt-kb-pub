@@ -194,14 +194,6 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Henrikas iš Plockės]] surenge_zygi_i Medininkai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Medininkai
-- [[objektai/grupes/Notangai]] surenge_zygi_i Medininkai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Medininkai
-- [[objektai/grupes/Vokietijos maldininkai]] surenge_zygi_i Medininkai
-- [[objektai/asmenys/Henrikas iš Plockės]] puole Medininkai
-- [[objektai/asmenys/Hugonas (Sembos fogtas)]] surenge_zygi_i Medininkai
-- [[objektai/asmenys/Henrikas fon Plockė]] puole Medininkai
-- [[objektai/asmenys/Henrikas iš Plockės]] mire Medininkai
-- [[objektai/asmenys/Henrikas Rutėnas]] mire Medininkai
-- [[objektai/grupes/Sembai]] surenge_zygi_i Medininkai
+- Mirties vieta: [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/asmenys/Henrikas Rutėnas]]
+- Puolė Medininkai: [[objektai/asmenys/Henrikas fon Plockė]], [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Buvo žygio kryptis: [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/asmenys/Hugonas (Sembos fogtas)]], [[objektai/grupes/Notangai]], [[objektai/grupes/Sembai]], [[objektai/grupes/Vokietijos maldininkai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

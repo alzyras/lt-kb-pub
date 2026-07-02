@@ -332,11 +332,9 @@ Nadruviai buvo Nadruvoje gyvenusi vakarinių baltų grupė, kalbos požiūriu pr
     - t-004
 
 ## Ryšiai
-- Nadruviai apgule [[objektai/vietos/Bysleida]]
-- Nadruviai puole [[objektai/vietos/Bysleida]]
-- Nadruviai puole [[objektai/vietos/Semba]]
-- Nadruviai pastate [[objektai/vietos/Vėluva]]
-- [[objektai/vietos/Kampsvykiai]] priklause Nadruviai
-- Nadruviai priklause [[objektai/grupes/Baltai]]
-- Nadruviai priklause [[objektai/grupes/Lietuviai]]
-- Nadruviai kariavo_pries [[objektai/grupes/Sembai]]
+- Turėjo priklausinį: [[objektai/vietos/Kampsvykiai]]
+- Nadruviai pastatė [[objektai/vietos/Vėluva]]
+- Nadruviai puolė [[objektai/vietos/Bysleida]], [[objektai/vietos/Semba]]
+- Nadruviai apgulė [[objektai/vietos/Bysleida]]
+- Nadruviai kariavo prieš [[objektai/grupes/Sembai]]
+- Nadruviai priklausė [[objektai/grupes/Baltai]], [[objektai/grupes/Lietuviai]]

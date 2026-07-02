@@ -73,4 +73,4 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Jaunalietuviai]] buvo_priesas Senalietuviai
+- Priešai: [[objektai/grupes/Jaunalietuviai]]

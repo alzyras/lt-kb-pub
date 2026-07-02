@@ -138,4 +138,4 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/A. Žemaitis]] keliavo_i Jieznas
+- Buvo kelionės vieta: [[objektai/asmenys/A. Žemaitis]]

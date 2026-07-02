@@ -42,4 +42,4 @@ Nors ir smarkiai kryžiuočiai buvo perse­ kiojami, vis dėlto jie nuėjo ligi 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Papartėnai
+- Buvo kelionės vieta: [[objektai/grupes/Kryžiuočių ordinas]]

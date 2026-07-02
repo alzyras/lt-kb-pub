@@ -988,27 +988,11 @@ tags:
     - t-025
 
 ## Ryšiai
-- Žydai gyveno [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/SD Einsatzgruppen]] puole Žydai
-- [[objektai/grupes/Tilžės gestapo būrys]] puole Žydai
-- Žydai gyveno [[objektai/vietos/Trakai]]
-- Žydai keliavo_i [[objektai/vietos/Pietų Afrikos Sąjunga]]
-- [[objektai/grupes/Lietuviai]] gyne Žydai
-- [[objektai/grupes/Andrejaus Vlasovo armija]] kariavo_pries Žydai
-- [[objektai/grupes/Lietuvių policijos savisaugos batalionai]] puole Žydai
-- Žydai gyveno [[objektai/vietos/Kauno getas]]
-- Žydai gyveno [[objektai/vietos/Rusija]]
-- Žydai keliavo_i [[objektai/vietos/Lietuva]]
-- Žydai gyveno [[objektai/vietos/Lenkija]]
-- Žydai gyveno [[objektai/vietos/Šiaulių getas]]
-- Žydai prekiavo_su [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Išsaugotos Toros]] priklause Žydai
-- [[objektai/grupes/Ypatingasis SD būrys Vilniuje]] puole Žydai
-- [[objektai/grupes/Heinricho Hamano skrajojantis būrys]] puole Žydai
-- Žydai keliavo_i [[objektai/vietos/Palestina]]
-- Žydai gyveno [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Pilypas Frizijus]] reme Žydai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Žydai
-- Žydai gyveno [[objektai/vietos/Luckas]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] gyne Žydai
-- Žydai gyveno [[objektai/vietos/Kaimas]]
+- Puolė Žydai: [[objektai/grupes/Heinricho Hamano skrajojantis būrys]], [[objektai/grupes/Lietuvių policijos savisaugos batalionai]], [[objektai/grupes/SD Einsatzgruppen]], [[objektai/grupes/Tilžės gestapo būrys]], [[objektai/grupes/Ypatingasis SD būrys Vilniuje]]
+- Gynė Žydai: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]], [[objektai/grupes/Lietuviai]]
+- Kariavo prieš: [[objektai/grupes/Andrejaus Vlasovo armija]]
+- Rėmė Žydai: [[objektai/asmenys/Pilypas Frizijus]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Turėjo priklausinį: [[objektai/daiktai/Išsaugotos Toros]]
+- Žydai keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Palestina]], [[objektai/vietos/Pietų Afrikos Sąjunga]]
+- Žydai prekiavo su [[objektai/grupes/Lietuviai]]
+- Žydai gyveno [[objektai/vietos/Kaimas]], [[objektai/vietos/Kauno getas]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Luckas]], [[objektai/vietos/Rusija]], [[objektai/vietos/Šiaulių getas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]

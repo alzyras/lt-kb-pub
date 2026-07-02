@@ -139,14 +139,10 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - t-003
 
 ## Ryšiai
-- Skirmantas buvo_sunus [[objektai/asmenys/Liubartas]]
-- Skirmantas buvo_sunus [[objektai/asmenys/Pisimantas]]
-- Skirmantas uzeme [[objektai/vietos/Mozyrius]]
-- Skirmantas uzeme [[objektai/vietos/Karačevas]]
-- Skirmantas uzeme [[objektai/vietos/Starodubas]]
-- Skirmantas valde_miesta [[objektai/vietos/Naugardukas]]
-- [[objektai/asmenys/Kukovaitis]] reme Skirmantas
-- Skirmantas uzeme [[objektai/vietos/Severskas]]
-- [[objektai/asmenys/Mstislavas Romanovičius]] kariavo_pries Skirmantas
-- Skirmantas kariavo_pries [[objektai/grupes/Rusai]]
-- Skirmantas dalyvavo_musyje [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo]]
+- Tėvai: [[objektai/asmenys/Liubartas]], [[objektai/asmenys/Pisimantas]]
+- Kariavo prieš: [[objektai/asmenys/Mstislavas Romanovičius]]
+- Rėmė Skirmantą: [[objektai/asmenys/Kukovaitis]]
+- Skirmantas valdė [[objektai/vietos/Naugardukas]]
+- Skirmantas užėmė [[objektai/vietos/Karačevas]], [[objektai/vietos/Mozyrius]], [[objektai/vietos/Severskas]], [[objektai/vietos/Starodubas]]
+- Skirmantas kariavo prieš [[objektai/grupes/Rusai]]
+- Skirmantas dalyvavo mūšyje [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo]]

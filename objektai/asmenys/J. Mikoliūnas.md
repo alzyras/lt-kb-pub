@@ -80,5 +80,5 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
     - t-002
 
 ## Ryšiai
-- J. Mikoliūnas gyne [[objektai/vietos/Kėdainiai]]
-- J. Mikoliūnas dalyvavo_musyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
+- J. Mikoliūnas gynė [[objektai/vietos/Kėdainiai]]
+- J. Mikoliūnas dalyvavo mūšyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]

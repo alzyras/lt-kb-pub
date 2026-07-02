@@ -52,4 +52,4 @@ Bresto vaivada Jonas iš Lichino buvo įtrauktas į pasiuntinybę, kuri turėjo 
     - t-001
 
 ## Ryšiai
-- Jonas iš Lichino (vyskupas) keliavo_i [[objektai/vietos/Lietuva]]
+- Jonas iš Lichino (vyskupas) keliavo į [[objektai/vietos/Lietuva]]

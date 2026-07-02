@@ -56,4 +56,4 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
     - t-001
 
 ## Ryšiai
-- Rebodas iš Izenburgo mire [[objektai/vietos/Sizditė]]
+- Rebodas iš Izenburgo mirė [[objektai/vietos/Sizditė]]

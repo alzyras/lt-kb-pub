@@ -66,4 +66,4 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Steponas]] gyveno Putna
+- Gyvenamoji vieta: [[objektai/asmenys/Steponas]]

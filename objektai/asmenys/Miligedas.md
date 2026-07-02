@@ -64,4 +64,4 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
     - t-002
 
 ## Ryšiai
-- Miligedas keliavo_i [[objektai/vietos/Bartenšteinas]]
+- Miligedas keliavo į [[objektai/vietos/Bartenšteinas]]

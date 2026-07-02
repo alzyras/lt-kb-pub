@@ -49,4 +49,4 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
     - t-001
 
 ## Ryšiai
-- Jonas (Breslavo vyskupas) keliavo_i [[objektai/vietos/Konstancija]]
+- Jonas (Breslavo vyskupas) keliavo į [[objektai/vietos/Konstancija]]

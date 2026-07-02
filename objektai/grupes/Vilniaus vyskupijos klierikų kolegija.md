@@ -269,4 +269,4 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]] reme Vilniaus vyskupijos klierikų kolegija
+- Rėmė Vilniaus vyskupijos klierikų kolegiją: [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]

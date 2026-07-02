@@ -120,4 +120,4 @@ Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pa
     - t-003
 
 ## Ryšiai
-- [[objektai/vietos/Vilnius]] prekiavo_su Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas)
+- Prekiavo su: [[objektai/vietos/Vilnius]]

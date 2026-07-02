@@ -109,7 +109,5 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Vokiečių pirkliai]] prekiavo_su Lybiai
-- Lybiai gyveno [[objektai/vietos/Dauguva]]
-- Lybiai gyveno [[objektai/vietos/Kuršas]]
-- Lybiai gyveno [[objektai/vietos/Latvija]]
+- Prekiavo su: [[objektai/grupes/Vokiečių pirkliai]]
+- Lybiai gyveno [[objektai/vietos/Dauguva]], [[objektai/vietos/Kuršas]], [[objektai/vietos/Latvija]]

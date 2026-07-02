@@ -64,4 +64,4 @@ Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Pronskas
+- Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

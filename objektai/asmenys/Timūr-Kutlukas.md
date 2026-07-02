@@ -159,7 +159,5 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Tochtamišas]] buvo_priesas Timūr-Kutlukas
-- Timūr-Kutlukas buvo_priesas [[objektai/asmenys/Tochtamišas]]
-- [[objektai/grupes/Totorių pajėgos]] priklause Timūr-Kutlukas
-- Timūr-Kutlukas buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Priešai: [[objektai/asmenys/Tochtamišas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Turėjo priklausinį: [[objektai/grupes/Totorių pajėgos]]

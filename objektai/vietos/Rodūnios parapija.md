@@ -41,4 +41,4 @@ Narbutas Rodūnios parapiją mini kaip Lydos krašto vietą, kur netoli vienas k
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Leliušiai]] priklause Rodūnios parapija
+- Turėjo priklausinį: [[objektai/vietos/Leliušiai]]

@@ -70,4 +70,4 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
     - t-001
 
 ## Ryšiai
-- Mikalojus Radvila II pastate [[objektai/vietos/Bernardinų bažnyčia Vilniuje]]
+- Mikalojus Radvila II pastatė [[objektai/vietos/Bernardinų bažnyčia Vilniuje]]

@@ -83,7 +83,6 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/J. Čaplikas]] keliavo_i Augustavas
-- [[objektai/asmenys/A. Jakaitis]] keliavo_i Augustavas
-- [[objektai/asmenys/K. Ramanauskas]] surenge_zygi_i Augustavas
-- [[objektai/grupes/2-oji divizija]] gyne Augustavas
+- Buvo kelionės vieta: [[objektai/asmenys/A. Jakaitis]], [[objektai/asmenys/J. Čaplikas]]
+- Gynė Augustavą: [[objektai/grupes/2-oji divizija]]
+- Buvo žygio kryptis: [[objektai/asmenys/K. Ramanauskas]]

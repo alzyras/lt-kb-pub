@@ -80,5 +80,5 @@ Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėj
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Palemonas]] buvo_valdovas Pajūris
-- [[objektai/grupes/Signotai]] gyveno Pajūris
+- Turėjo valdovą: [[objektai/asmenys/Palemonas]]
+- Gyvenamoji vieta: [[objektai/grupes/Signotai]]

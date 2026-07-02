@@ -100,5 +100,5 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas Kuklieris]] mire Vidugiriai
-- [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]] keliavo_i Vidugiriai
+- Buvo kelionės vieta: [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
+- Mirties vieta: [[objektai/asmenys/Jonas Kuklieris]]

@@ -125,5 +125,5 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Vokiečių pirkliai]] prekiavo_su Aisčiai
+- Prekiavo su: [[objektai/grupes/Vokiečių pirkliai]]
 - Aisčiai gyveno [[objektai/vietos/Baltija]]

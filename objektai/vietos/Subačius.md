@@ -92,4 +92,4 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Panevėžio rinktinė]] uzeme Subačius
+- Užėmė Subačių: [[objektai/grupes/Panevėžio rinktinė]]

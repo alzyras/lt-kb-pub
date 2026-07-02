@@ -76,4 +76,4 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Kulmas]] priklause Mozūrai
+- Turėjo priklausinį: [[objektai/vietos/Kulmas]]

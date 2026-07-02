@@ -123,7 +123,5 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
     - t-003
 
 ## Ryšiai
-- Trobius buvo_brolis [[objektai/asmenys/Giliginas]]
-- Trobius valde [[objektai/vietos/Žemaitija]]
-- Trobius valde_teritorija [[objektai/vietos/Žemaitija]]
-- Trobius valde [[objektai/vietos/Lietuva]]
+- Broliai: [[objektai/asmenys/Giliginas]]
+- Trobius valdė [[objektai/vietos/Lietuva]], [[objektai/vietos/Žemaitija]]

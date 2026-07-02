@@ -47,4 +47,4 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
     - t-001
 
 ## Ryšiai
-- Inocentas VII siunte_i [[objektai/vietos/Malburgas]]
+- Inocentas VII siuntė į [[objektai/vietos/Malburgas]]

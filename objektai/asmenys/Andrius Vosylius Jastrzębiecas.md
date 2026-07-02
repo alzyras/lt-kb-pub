@@ -79,4 +79,4 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
     - t-002
 
 ## Ryšiai
-- Andrius Vosylius Jastrzębiecas keliavo_i [[objektai/vietos/Vilnius]]
+- Andrius Vosylius Jastrzębiecas keliavo į [[objektai/vietos/Vilnius]]

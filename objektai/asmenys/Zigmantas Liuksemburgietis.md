@@ -263,11 +263,10 @@ Zigmantas Liuksemburgietis vaizduojamas kaip svarbus Vytauto, Jogailos, Lenkijos
     - t-010
 
 ## Ryšiai
-- Zigmantas Liuksemburgietis buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Zigmantas Liuksemburgietis buvo_valdovas [[objektai/vietos/Vengrija]]
-- Zigmantas Liuksemburgietis kariavo_pries [[objektai/grupes/Čekai]]
-- Zigmantas Liuksemburgietis buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Zigmantas Liuksemburgietis valde [[objektai/vietos/Kujavija]]
-- Zigmantas Liuksemburgietis keliavo_i [[objektai/vietos/Luckas]]
-- Zigmantas Liuksemburgietis keliavo_i [[objektai/vietos/Kėzmarkas]]
-- Zigmantas Liuksemburgietis reme [[objektai/grupes/Kryžiuočių ordinas]]
+- Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Zigmantas Liuksemburgietis buvo valdovas [[objektai/vietos/Vengrija]]
+- Zigmantas Liuksemburgietis valdė [[objektai/vietos/Kujavija]]
+- Zigmantas Liuksemburgietis keliavo į [[objektai/vietos/Kėzmarkas]], [[objektai/vietos/Luckas]]
+- Zigmantas Liuksemburgietis kariavo prieš [[objektai/grupes/Čekai]]
+- Zigmantas Liuksemburgietis rėmė [[objektai/grupes/Kryžiuočių ordinas]]

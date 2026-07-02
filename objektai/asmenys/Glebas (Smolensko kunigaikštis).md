@@ -61,4 +61,4 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     - t-001
 
 ## Ryšiai
-- Glebas (Smolensko kunigaikštis) puole [[objektai/vietos/Lietuva]]
+- Glebas (Smolensko kunigaikštis) puolė [[objektai/vietos/Lietuva]]

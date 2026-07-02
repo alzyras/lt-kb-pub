@@ -465,20 +465,13 @@ Kuršiai buvo vakarinių baltų bendruomenė, minima tarp atskiras kalbas turėj
     - t-016
 
 ## Ryšiai
-- Kuršiai kariavo_pries [[objektai/grupes/Skandinavai]]
-- Kuršiai priklause [[objektai/grupes/Švedai]]
-- Kuršiai surenge_zygi_i [[objektai/vietos/Švedija]]
-- [[objektai/vietos/Ceklio sritis]] priklause Kuršiai
-- Kuršiai puole [[objektai/vietos/Livonija]]
-- Kuršiai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Ceklis]] priklause Kuršiai
-- Kuršiai dalyvavo_musyje [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- [[objektai/daiktai/Ginklai]] priklause Kuršiai
-- Kuršiai priklause [[objektai/grupes/Baltai]]
-- Kuršiai puole [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- Kuršiai reme [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Švedai]] uzkariavo Kuršiai
-- [[objektai/grupes/Kalavijuočių ordinas]] uzkariavo Kuršiai
+- Sąjungininkai: [[objektai/grupes/Žemaičiai]]
+- Buvo užkariauta: [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/grupes/Švedai]]
+- Turėjo priklausinį: [[objektai/vietos/Ceklio sritis]], [[objektai/vietos/Ceklis]], [[objektai/daiktai/Ginklai]]
+- Kuršiai puolė [[objektai/ivykiai/Durbės mūšis (1260 m.)]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Livonija]]
+- Kuršiai surengė žygį į [[objektai/vietos/Švedija]]
+- Kuršiai kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Skandinavai]]
+- Kuršiai dalyvavo mūšyje [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
 - Kuršiai gyveno [[objektai/vietos/Klaipėda]]
-- [[objektai/grupes/Žemaičiai]] buvo_sajungininkas_su Kuršiai
-- Kuršiai puole [[objektai/grupes/Lietuviai]]
+- Kuršiai priklausė [[objektai/grupes/Baltai]], [[objektai/grupes/Švedai]]
+- Kuršiai rėmė [[objektai/grupes/Lietuviai]]

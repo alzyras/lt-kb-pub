@@ -92,4 +92,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Niešava priklause [[objektai/vietos/Lenkija]]
+- Niešava priklausė [[objektai/vietos/Lenkija]]

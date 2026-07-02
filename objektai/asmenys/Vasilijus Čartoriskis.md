@@ -46,5 +46,5 @@ Antra: Pinsko kunigaikš­ tis nebuvo joks Narimantas, bet Va­ silijus Čertori
     - t-001
 
 ## Ryšiai
-- Vasilijus Čartoriskis buvo_sunus [[objektai/asmenys/Karigaila]]
-- Vasilijus Čartoriskis buvo_valdovas [[objektai/vietos/Pinskas]]
+- Tėvai: [[objektai/asmenys/Karigaila]]
+- Vasilijus Čartoriskis buvo valdovas [[objektai/vietos/Pinskas]]

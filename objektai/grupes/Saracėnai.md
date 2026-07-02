@@ -149,13 +149,10 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Almimolinas]] buvo_valdovas Saracėnai
-- Saracėnai uzkariavo [[objektai/vietos/Ispanija]]
-- Saracėnai uzeme [[objektai/vietos/Maljorka]]
-- Saracėnai uzeme [[objektai/vietos/Menorka]]
-- [[objektai/grupes/Krikščionys]] kariavo_pries Saracėnai
-- Saracėnai valde [[objektai/vietos/Maljorka]]
-- Saracėnai valde [[objektai/vietos/Menorka]]
-- [[objektai/grupes/Totoriai]] puole Saracėnai
-- Saracėnai puole [[objektai/vietos/Italija]]
-- [[objektai/grupes/Armėnai]] kariavo_pries Saracėnai
+- Turėjo valdovą: [[objektai/asmenys/Almimolinas]]
+- Puolė Saracėnai: [[objektai/grupes/Totoriai]]
+- Kariavo prieš: [[objektai/grupes/Armėnai]], [[objektai/grupes/Krikščionys]]
+- Saracėnai valdė [[objektai/vietos/Maljorka]], [[objektai/vietos/Menorka]]
+- Saracėnai puolė [[objektai/vietos/Italija]]
+- Saracėnai užėmė [[objektai/vietos/Maljorka]], [[objektai/vietos/Menorka]]
+- Saracėnai užkariavo [[objektai/vietos/Ispanija]]

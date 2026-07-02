@@ -562,16 +562,13 @@ tags:
     - t-018
 
 ## Ryšiai
-- [[objektai/asmenys/Mykolas]] buvo_sunus Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)
-- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Trakai]]
-- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) mire [[objektai/vietos/Trakai]]
-- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Livonija]]
-- [[objektai/asmenys/Jonas]] puole Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)
-- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) dalyvavo_musyje [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje]]
-- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) uzeme [[objektai/vietos/Gardinas]]
-- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) buvo_palaidotas [[objektai/vietos/Vilnius]]
-- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) pastate [[objektai/vietos/Pabaiskas]]
-- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) valde_miesta [[objektai/vietos/Trakai]]
-- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) valde_miesta [[objektai/vietos/Vilnius]]
-- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Severskas]]
+- Sūnūs: [[objektai/asmenys/Mykolas]]
+- Puolė Žygimantas Kęstutaitį (Lietuvos didysis kunigaikštis, XIV–XV a.): [[objektai/asmenys/Jonas]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) buvo valdovas [[objektai/vietos/Lietuva]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) valdė [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo į [[objektai/vietos/Livonija]], [[objektai/vietos/Severskas]], [[objektai/vietos/Trakai]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) mirė [[objektai/vietos/Trakai]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) buvo palaidotas [[objektai/vietos/Vilnius]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) pastatė [[objektai/vietos/Pabaiskas]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) užėmė [[objektai/vietos/Gardinas]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) dalyvavo mūšyje [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje]]

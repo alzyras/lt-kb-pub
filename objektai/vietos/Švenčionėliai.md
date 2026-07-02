@@ -71,5 +71,5 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] uzeme Švenčionėliai
-- [[objektai/grupes/Lenkai]] puole Švenčionėliai
+- Puolė Švenčionėliai: [[objektai/grupes/Lenkai]]
+- Užėmė Švenčionėliai: [[objektai/grupes/Lenkai]]

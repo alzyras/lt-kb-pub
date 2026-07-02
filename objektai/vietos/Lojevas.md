@@ -144,7 +144,7 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/J. Radvila]] surenge_zygi_i Lojevas
-- [[objektai/asmenys/V. Gosievskis]] uzeme Lojevas
-- [[objektai/grupes/Kazokai]] keliavo_i Lojevas
-- Lojevas priklause [[objektai/vietos/Dnepras]]
+- Buvo kelionės vieta: [[objektai/grupes/Kazokai]]
+- Užėmė Lojevą: [[objektai/asmenys/V. Gosievskis]]
+- Buvo žygio kryptis: [[objektai/asmenys/J. Radvila]]
+- Lojevas priklausė [[objektai/vietos/Dnepras]]

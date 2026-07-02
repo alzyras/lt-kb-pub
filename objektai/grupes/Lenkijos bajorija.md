@@ -56,4 +56,4 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos bajorija]] buvo_sajungininkas_su Lenkijos bajorija
+- Sąjungininkai: [[objektai/grupes/Lietuvos bajorija]]

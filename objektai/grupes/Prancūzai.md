@@ -327,21 +327,14 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - t-005
 
 ## Ryšiai
-- Prancūzai uzeme [[objektai/vietos/Konstantinopolis]]
-- Prancūzai uzeme [[objektai/vietos/Ruhro sritis]]
-- [[objektai/grupes/Flandrai]] kariavo_pries Prancūzai
-- Prancūzai kariavo_pries [[objektai/grupes/Flandrai]]
-- Prancūzai keliavo_i [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Klaipėda]] priklause Prancūzai
-- [[objektai/grupes/Anglai]] puole Prancūzai
-- Prancūzai kariavo_pries [[objektai/grupes/Lenkai]]
-- Prancūzai kariavo_pries [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Templininkų ordinas]] priklause Prancūzai
-- Prancūzai siunte_i [[objektai/vietos/Ruro kraštas|Ruro kraštas (kraštas)]]
-- Prancūzai valde [[objektai/vietos/Klaipėdos kraštas]]
-- Prancūzai reme [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Flandrai]] puole Prancūzai
-- Prancūzai keliavo_i [[objektai/vietos/Praha]]
-- Prancūzai valde_miesta [[objektai/vietos/Klaipėda]]
-- Prancūzai dalyvavo_musyje [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis]]
-- Prancūzai puole [[objektai/grupes/Vilniaus prastuomenė]]
+- Puolė Prancūzai: [[objektai/grupes/Anglai]], [[objektai/grupes/Flandrai]]
+- Kariavo prieš: [[objektai/grupes/Flandrai]]
+- Turėjo priklausinį: [[objektai/vietos/Klaipėda]], [[objektai/grupes/Templininkų ordinas]]
+- Prancūzai valdė [[objektai/vietos/Klaipėda]], [[objektai/vietos/Klaipėdos kraštas]]
+- Prancūzai keliavo į [[objektai/vietos/Praha]], [[objektai/vietos/Prūsija]]
+- Prancūzai puolė [[objektai/grupes/Vilniaus prastuomenė]]
+- Prancūzai užėmė [[objektai/vietos/Konstantinopolis]], [[objektai/vietos/Ruhro sritis]]
+- Prancūzai siuntė į [[objektai/vietos/Ruro kraštas|Ruro kraštas (kraštas)]]
+- Prancūzai kariavo prieš [[objektai/grupes/Flandrai]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]]
+- Prancūzai dalyvavo mūšyje [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis]]
+- Prancūzai rėmė [[objektai/grupes/Vokiečiai]]

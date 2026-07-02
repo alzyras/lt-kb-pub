@@ -129,5 +129,5 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Sembai]] gyveno Rytprūsiai
-- [[objektai/vietos/Vokietija]] priklause Rytprūsiai
+- Gyvenamoji vieta: [[objektai/grupes/Sembai]]
+- Turėjo priklausinį: [[objektai/vietos/Vokietija]]

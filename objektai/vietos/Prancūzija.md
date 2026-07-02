@@ -597,7 +597,6 @@ Prancūzija Lietuvos istorijos žinių bazėje minima kaip Vakarų Europos valst
     - t-017
 
 ## Ryšiai
-- [[objektai/asmenys/Albrechtas (Romos karalius)]] valde Prancūzija
-- [[objektai/vietos/Grenoblis]] priklause Prancūzija
-- [[objektai/asmenys/Petras Atsiskyrėlis]] gyveno Prancūzija
-- [[objektai/grupes/Tamplierių ordinas]] gyveno Prancūzija
+- Buvo valdoma: [[objektai/asmenys/Albrechtas (Romos karalius)]]
+- Gyvenamoji vieta: [[objektai/asmenys/Petras Atsiskyrėlis]], [[objektai/grupes/Tamplierių ordinas]]
+- Turėjo priklausinį: [[objektai/vietos/Grenoblis]]

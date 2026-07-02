@@ -71,4 +71,4 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
     - t-001
 
 ## Ryšiai
-- Jascha Heifetz gime [[objektai/vietos/Vilnius]]
+- Jascha Heifetz gimė [[objektai/vietos/Vilnius]]

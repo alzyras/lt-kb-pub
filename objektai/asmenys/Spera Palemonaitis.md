@@ -43,4 +43,4 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
     - t-001
 
 ## Ryšiai
-- Spera Palemonaitis buvo_sunus [[objektai/asmenys/Palemonas]]
+- Tėvai: [[objektai/asmenys/Palemonas]]

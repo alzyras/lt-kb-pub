@@ -87,4 +87,4 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
     - t-002
 
 ## Ryšiai
-- Fiodoras Ostrogiškis puole [[objektai/vietos/Podolė]]
+- Fiodoras Ostrogiškis puolė [[objektai/vietos/Podolė]]

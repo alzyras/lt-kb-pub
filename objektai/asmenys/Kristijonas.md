@@ -378,9 +378,6 @@ Pateiktuose šaltiniuose Kristijono vardas siejamas su XIII a. krikščioniškom
     - t-012
 
 ## Ryšiai
-- [[objektai/vietos/Lubavos žemė]] priklause Kristijonas (vyskupas, XIII a.)
-- Kristijonas (vyskupas, XIII a.) gyveno [[objektai/vietos/Santyras]]
-- Kristijonas (vyskupas, XIII a.) gyveno [[objektai/vietos/Prūsija]]
-- Kristijonas (vyskupas, XIII a.) valde [[objektai/vietos/Lanzanija]]
-- Kristijonas (vyskupas, XIII a.) valde [[objektai/vietos/Lubava]]
-- [[objektai/grupes/Dobrinės ordinas]] priklause Kristijonas (vyskupas, XIII a.)
+- Turėjo priklausinį: [[objektai/grupes/Dobrinės ordinas]], [[objektai/vietos/Lubavos žemė]]
+- Kristijonas (vyskupas, XIII a.) valdė [[objektai/vietos/Lanzanija]], [[objektai/vietos/Lubava]]
+- Kristijonas (vyskupas, XIII a.) gyveno [[objektai/vietos/Prūsija]], [[objektai/vietos/Santyras]]

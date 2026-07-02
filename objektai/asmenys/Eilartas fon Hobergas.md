@@ -70,4 +70,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Eilartas fon Hobergas valde_miesta [[objektai/vietos/Talinas]]
+- Eilartas fon Hobergas valdė [[objektai/vietos/Talinas]]

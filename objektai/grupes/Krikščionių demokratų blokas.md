@@ -154,4 +154,4 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     - t-006
 
 ## Ryšiai
-- Krikščionių demokratų blokas buvo_sajungininkas_su [[objektai/grupes/Katalikų veikimo centras]]
+- Sąjungininkai: [[objektai/grupes/Katalikų veikimo centras]]

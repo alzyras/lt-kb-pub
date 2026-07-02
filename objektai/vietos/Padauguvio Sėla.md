@@ -43,4 +43,4 @@ Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] uzeme Padauguvio Sėla
+- Užėmė Padauguvio Sėlą: [[objektai/grupes/Lietuviai]]

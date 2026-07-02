@@ -59,4 +59,4 @@ Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė švedų įgul
     - t-001
 
 ## Ryšiai
-- Biržų pilis (pilis) priklause [[objektai/grupes/Švedai]]
+- Biržų pilis (pilis) priklausė [[objektai/grupes/Švedai]]

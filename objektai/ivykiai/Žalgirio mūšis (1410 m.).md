@@ -182,7 +182,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje Žalgirio mūšis (1410 m.)
-- [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Žalgirio mūšis (1410 m.)
-- [[objektai/grupes/Lenkai]] dalyvavo_musyje Žalgirio mūšis (1410 m.)
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Žalgirio mūšis (1410 m.)
+- Turėjo dalyvį: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]]

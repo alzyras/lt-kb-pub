@@ -73,4 +73,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Pramonės ir prekybos rūmai Kaune priklause [[objektai/vietos/Kaunas]]
+- Pramonės ir prekybos rūmai Kaune priklausė [[objektai/vietos/Kaunas]]

@@ -82,5 +82,4 @@ Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiau
     - t-001
 
 ## Ryšiai
-- Tverės ir Riazanės kunigaikščiai keliavo_i [[objektai/vietos/Trakai]]
-- Tverės ir Riazanės kunigaikščiai keliavo_i [[objektai/vietos/Vilnius]]
+- Tverės ir Riazanės kunigaikščiai keliavo į [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]

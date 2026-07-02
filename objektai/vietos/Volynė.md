@@ -391,11 +391,7 @@ Volynė Lietuvos istorijos kontekste minima kaip svarbi Rusios žemė, su kuria 
     - t-009
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzkariavo Volynė
-- Volynė priklause [[objektai/grupes/Auksinė Orda]]
-- Volynė priklause [[objektai/vietos/Lenkija]]
-- [[objektai/asmenys/Aleksandras Narimantaitis]] valde Volynė
-- Volynė priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] uzkariavo Volynė
-- [[objektai/grupes/Lenkai]] valde Volynė
-- [[objektai/grupes/Lenkai]] uzeme Volynė
+- Buvo valdoma: [[objektai/asmenys/Aleksandras Narimantaitis]], [[objektai/grupes/Lenkai]]
+- Užėmė Volynę: [[objektai/grupes/Lenkai]]
+- Buvo užkariauta: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Volynė priklausė [[objektai/grupes/Auksinė Orda]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

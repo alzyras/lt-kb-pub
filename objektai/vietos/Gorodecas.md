@@ -85,6 +85,6 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Polockiečiai]] surenge_zygi_i Gorodecas
-- [[objektai/grupes/Polockiečiai]] keliavo_i Gorodecas
-- Gorodecas priklause [[objektai/grupes/Slavai]]
+- Buvo kelionės vieta: [[objektai/grupes/Polockiečiai]]
+- Buvo žygio kryptis: [[objektai/grupes/Polockiečiai]]
+- Gorodecas priklausė [[objektai/grupes/Slavai]]

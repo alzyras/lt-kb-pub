@@ -107,4 +107,4 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
     - t-001
 
 ## Ryšiai
-- Vingrių šaltiniai priklause [[objektai/vietos/Vilnius]]
+- Vingrių šaltiniai priklausė [[objektai/vietos/Vilnius]]

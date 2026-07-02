@@ -118,5 +118,5 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-002
 
 ## Ryšiai
-- Olyka priklause [[objektai/vietos/Voluinė]]
-- [[objektai/asmenys/Mikalojus Radvila]] buvo_valdovas Olyka
+- Turėjo valdovą: [[objektai/asmenys/Mikalojus Radvila]]
+- Olyka priklausė [[objektai/vietos/Voluinė]]

@@ -383,9 +383,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
     - t-004
 
 ## Ryšiai
-- Stačiatikiai gyveno [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] reme Stačiatikiai
-- Stačiatikiai keliavo_i [[objektai/vietos/Konstanca]]
-- Stačiatikiai gyveno [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] reme Stačiatikiai
-- Stačiatikiai gyveno [[objektai/vietos/Lenkija]]
+- Rėmė Stačiatikiai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Stačiatikiai keliavo į [[objektai/vietos/Konstanca]]
+- Stačiatikiai gyveno [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

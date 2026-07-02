@@ -333,8 +333,6 @@ Melnikas buvo Palenkės vieta, minima krikščioniškų Trakų kunigaikštijos �
     - t-009
 
 ## Ryšiai
-- [[objektai/asmenys/Jurgis Nosuta]] valde_miesta Melnikas
-- Melnikas priklause [[objektai/vietos/Palenkė]]
-- [[objektai/asmenys/Nikodemas Janavičius iš Čechanovičių]] valde_miesta Melnikas
-- Melnikas priklause [[objektai/vietos/Mazovija]]
-- [[objektai/daiktai/Pilys]] priklause Melnikas
+- Buvo valdoma: [[objektai/asmenys/Jurgis Nosuta]], [[objektai/asmenys/Nikodemas Janavičius iš Čechanovičių]]
+- Turėjo priklausinį: [[objektai/daiktai/Pilys]]
+- Melnikas priklausė [[objektai/vietos/Mazovija]], [[objektai/vietos/Palenkė]]

@@ -85,4 +85,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- Perkūno stabai priklause [[objektai/vietos/Romovė]]
+- Perkūno stabai priklausė [[objektai/vietos/Romovė]]

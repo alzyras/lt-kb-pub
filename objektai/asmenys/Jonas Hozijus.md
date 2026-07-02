@@ -206,4 +206,4 @@ Jonas Hozijus buvo Vilniaus pilininkas, minimas XVI a. Vilniaus miesto ir Švč.
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Žygimantas Senasis]] paskyre Jonas Hozijus
+- Paskyrė Jonas Hozijų: [[objektai/asmenys/Žygimantas Senasis]]

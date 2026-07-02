@@ -57,4 +57,4 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
     - t-001
 
 ## Ryšiai
-- Vladislovas Varnietis reme [[objektai/asmenys/Žygimantas]]
+- Vladislovas Varnietis rėmė [[objektai/asmenys/Žygimantas]]

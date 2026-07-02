@@ -56,4 +56,4 @@ Algirdas prie Maskvos pasirodė ant Pasveikinimo kalvos.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] keliavo_i Pasveikinimo kalva
+- Buvo kelionės vieta: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

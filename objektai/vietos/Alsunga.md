@@ -50,4 +50,4 @@ Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos
     - t-001
 
 ## Ryšiai
-- Alsunga priklause [[objektai/vietos/Kuršas]]
+- Alsunga priklausė [[objektai/vietos/Kuršas]]

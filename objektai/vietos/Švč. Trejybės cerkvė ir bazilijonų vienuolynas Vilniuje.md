@@ -44,4 +44,4 @@ Trejybės cerkvę ir prie jos įkur­ dino Šv.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Konstantinas Ostrogiškis]] pastate Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje
+- Buvo pastatyta: [[objektai/asmenys/Konstantinas Ostrogiškis]]

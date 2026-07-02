@@ -92,5 +92,4 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     - t-002
 
 ## Ryšiai
-- Lietuvos Respublika kariavo_pries [[objektai/grupes/Bermontininkai]]
-- Lietuvos Respublika kariavo_pries [[objektai/grupes/Lenkai]]
+- Lietuvos Respublika kariavo prieš [[objektai/grupes/Bermontininkai]], [[objektai/grupes/Lenkai]]

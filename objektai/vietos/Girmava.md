@@ -86,6 +86,6 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     - t-003
 
 ## Ryšiai
-- Girmava priklause [[objektai/grupes/Sembai]]
-- [[objektai/asmenys/Henrikas Stange]] keliavo_i Girmava
-- [[objektai/vietos/Lochštetė]] priklause Girmava
+- Buvo kelionės vieta: [[objektai/asmenys/Henrikas Stange]]
+- Turėjo priklausinį: [[objektai/vietos/Lochštetė]]
+- Girmava priklausė [[objektai/grupes/Sembai]]

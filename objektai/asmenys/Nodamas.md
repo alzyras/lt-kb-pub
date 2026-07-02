@@ -115,6 +115,6 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
     - t-003
 
 ## Ryšiai
-- Nodamas puole [[objektai/grupes/Kryžiuočių ordinas]]
-- Nodamas kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Nodamas uzeme [[objektai/ivykiai/Karine klasta paimamas kryžiuočių laivas]]
+- Nodamas puolė [[objektai/grupes/Kryžiuočių ordinas]]
+- Nodamas užėmė [[objektai/ivykiai/Karine klasta paimamas kryžiuočių laivas]]
+- Nodamas kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]

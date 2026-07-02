@@ -171,6 +171,6 @@ tags:
     - t-005
 
 ## Ryšiai
-- Lietuvos totoriai kariavo_pries [[objektai/grupes/Švedai]]
+- Lietuvos totoriai puolė [[objektai/grupes/Švedai]]
+- Lietuvos totoriai kariavo prieš [[objektai/grupes/Švedai]]
 - Lietuvos totoriai gyveno [[objektai/vietos/Lietuva]]
-- Lietuvos totoriai puole [[objektai/grupes/Švedai]]

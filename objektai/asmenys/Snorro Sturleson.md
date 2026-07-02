@@ -93,6 +93,4 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
     - t-001
 
 ## Ryšiai
-- Snorro Sturleson keliavo_i [[objektai/vietos/Europa]]
-- Snorro Sturleson keliavo_i [[objektai/vietos/Trakai]]
-- Snorro Sturleson keliavo_i [[objektai/vietos/Vilnius]]
+- Snorro Sturleson keliavo į [[objektai/vietos/Europa]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]

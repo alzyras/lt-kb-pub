@@ -161,5 +161,5 @@ amziai:
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Totorių pajėgos]] uzeme Borisovas
-- [[objektai/asmenys/Aleksandras]] keliavo_i Borisovas
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras]]
+- Užėmė Borisovą: [[objektai/grupes/Totorių pajėgos]]

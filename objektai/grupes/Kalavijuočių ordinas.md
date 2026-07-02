@@ -737,18 +737,11 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
     - t-026
 
 ## Ryšiai
-- Kalavijuočių ordinas priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- Kalavijuočių ordinas puole [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]] sudare_sutarti_su Kalavijuočių ordinas
-- Kalavijuočių ordinas puole [[objektai/vietos/Šiauliai]]
-- [[objektai/grupes/Lietuviai]] kariavo_pries Kalavijuočių ordinas
-- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Kalavijuočių ordinas
-- [[objektai/grupes/Žiemgaliai]] puole Kalavijuočių ordinas
-- Kalavijuočių ordinas gyveno [[objektai/vietos/Latvija]]
-- Kalavijuočių ordinas sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Kalavijuočių ordinas gyveno [[objektai/vietos/Dauguva]]
-- Kalavijuočių ordinas uzkariavo [[objektai/grupes/Baltai]]
-- Kalavijuočių ordinas uzkariavo [[objektai/grupes/Estai]]
-- Kalavijuočių ordinas uzkariavo [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Žemaičiai]] kariavo_pries Kalavijuočių ordinas
-- Kalavijuočių ordinas gyveno [[objektai/vietos/Livonija]]
+- Puolė Kalavijuočių ordiną: [[objektai/grupes/Žiemgaliai]]
+- Kariavo prieš: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Žemaičiai]]
+- Sudarė sutartį su: [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]]
+- Kalavijuočių ordinas puolė [[objektai/vietos/Lietuva]], [[objektai/vietos/Šiauliai]]
+- Kalavijuočių ordinas sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]
+- Kalavijuočių ordinas gyveno [[objektai/vietos/Dauguva]], [[objektai/vietos/Latvija]], [[objektai/vietos/Livonija]]
+- Kalavijuočių ordinas priklausė [[objektai/grupes/Kryžiuočių ordinas]]
+- Kalavijuočių ordinas užkariavo [[objektai/grupes/Baltai]], [[objektai/grupes/Estai]], [[objektai/grupes/Kuršiai]]

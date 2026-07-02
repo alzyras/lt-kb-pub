@@ -251,11 +251,7 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-009
 
 ## Ryšiai
-- Krymo totoriai puole [[objektai/vietos/Rusija]]
-- Krymo totoriai keliavo_i [[objektai/vietos/Vilniaus vaivadija]]
-- Krymo totoriai puole [[objektai/vietos/Podolė]]
-- Krymo totoriai puole [[objektai/vietos/Naugardukas]]
-- Krymo totoriai puole [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Lietuviai]] gyne Krymo totoriai
-- Krymo totoriai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
-- Krymo totoriai puole [[objektai/grupes/Lietuviai]]
+- Sąjungininkai: [[objektai/grupes/Lietuviai]]
+- Gynė Krymo totoriai: [[objektai/grupes/Lietuviai]]
+- Krymo totoriai keliavo į [[objektai/vietos/Vilniaus vaivadija]]
+- Krymo totoriai puolė [[objektai/grupes/Lietuviai]], [[objektai/vietos/Naugardukas]], [[objektai/vietos/Podolė]], [[objektai/vietos/Rusija]], [[objektai/vietos/Vilnius]]

@@ -893,47 +893,15 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
     - t-015
 
 ## Ryšiai
-- [[objektai/asmenys/Skomantas (lietuvių vadas)]] puole Kulmas
-- [[objektai/asmenys/Skomantas]] puole Kulmas
-- [[objektai/asmenys/Skomantas]] surenge_zygi_i Kulmas
-- [[objektai/asmenys/Sventopelkas]] puole Kulmas
-- [[objektai/asmenys/Treniota]] surenge_zygi_i Kulmas
-- [[objektai/asmenys/Bertoldas iš Nordhauzeno]] gyveno Kulmas
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] pastate Kulmas
-- [[objektai/grupes/Sūduviai]] puole Kulmas
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] puole Kulmas
-- [[objektai/asmenys/Hermanas (Ordino magistras)]] pastate Kulmas
-- Kulmas priklause [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Divanas]] puole Kulmas
-- [[objektai/asmenys/Divanas]] surenge_zygi_i Kulmas
-- Kulmas priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]] surenge_zygi_i Kulmas
-- [[objektai/asmenys/Linkas]] puole Kulmas
-- [[objektai/asmenys/Linkas]] surenge_zygi_i Kulmas
-- [[objektai/grupes/Prūsai]] valde_teritorija Kulmas
-- [[objektai/grupes/Sūduviai]] surenge_zygi_i Kulmas
-- [[objektai/grupes/Vengrai]] puole Kulmas
-- [[objektai/asmenys/Vladislovas Lokietka]] puole Kulmas
-- [[objektai/asmenys/Herkus Mantas]] puole Kulmas
-- [[objektai/grupes/Lietuviai]] puole Kulmas
-- [[objektai/grupes/Sūduvos prūsai]] puole Kulmas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] apgule Kulmas
-- Kulmas priklause [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Sventopelkas]] surenge_zygi_i Kulmas
-- [[objektai/asmenys/Ditrichas iš Bernheimo]] keliavo_i Kulmas
-- [[objektai/asmenys/Henrikas iš Lichtenšteino]] keliavo_i Kulmas
-- [[objektai/asmenys/Herkus Mantas]] surenge_zygi_i Kulmas
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] siunte_i Kulmas
-- Kulmas priklause [[objektai/vietos/Mozūrai]]
-- Kulmas priklause [[objektai/vietos/Prūsija]]
-- [[objektai/grupes/Rusai]] puole Kulmas
-- [[objektai/vietos/Vartenbergas]] priklause Kulmas
-- [[objektai/asmenys/Vladislovas Lokietka]] surenge_zygi_i Kulmas
-- [[objektai/grupes/Lenkai]] gyveno Kulmas
-- [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]] gyne Kulmas
-- [[objektai/asmenys/Šventoji Barbora]] keliavo_i Kulmas
-- [[objektai/asmenys/Hermanas ton Senenbergas]] gyne Kulmas
-- [[objektai/grupes/Lietuvos kariuomenė]] puole Kulmas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] puole Kulmas
-- [[objektai/asmenys/Sventopelkas]] uzkariavo Kulmas
-- [[objektai/daiktai/Pilys]] priklause Kulmas
+- Buvo valdoma: [[objektai/grupes/Prūsai]]
+- Buvo kelionės vieta: [[objektai/asmenys/Ditrichas iš Bernheimo]], [[objektai/asmenys/Henrikas iš Lichtenšteino]], [[objektai/asmenys/Šventoji Barbora]]
+- Buvo pastatyta: [[objektai/asmenys/Hermanas (Ordino magistras)]], [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- Puolė Kulmą: [[objektai/asmenys/Divanas]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Herkus Mantas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Linkas]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Skomantas]], [[objektai/asmenys/Skomantas (lietuvių vadas)]], [[objektai/grupes/Sūduviai]], [[objektai/grupes/Sūduvos prūsai]], [[objektai/asmenys/Sventopelkas]], [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]], [[objektai/grupes/Vengrai]], [[objektai/asmenys/Vladislovas Lokietka]]
+- Apgulė Kulmą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gynė Kulmą: [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]], [[objektai/asmenys/Hermanas ton Senenbergas]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Divanas]], [[objektai/asmenys/Herkus Mantas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Linkas]], [[objektai/asmenys/Skomantas]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Sventopelkas]], [[objektai/asmenys/Treniota]], [[objektai/asmenys/Vladislovas Lokietka]]
+- Buvo užkariauta: [[objektai/asmenys/Sventopelkas]]
+- Gyvenamoji vieta: [[objektai/asmenys/Bertoldas iš Nordhauzeno]], [[objektai/grupes/Lenkai]]
+- Turėjo priklausinį: [[objektai/daiktai/Pilys]], [[objektai/vietos/Vartenbergas]]
+- Kulmas priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/vietos/Mozūrai]], [[objektai/vietos/Prūsija]], [[objektai/grupes/Teutonai]]

@@ -181,5 +181,5 @@ Ditrichas iš Bernheimo buvo Teutonų ordino brolis ir maršalas, Hermano iš Za
     - t-007
 
 ## Ryšiai
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] paskyre Ditrichas iš Bernheimo
-- Ditrichas iš Bernheimo keliavo_i [[objektai/vietos/Kulmas]]
+- Paskyrė Ditrichas iš Bernheimo: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- Ditrichas iš Bernheimo keliavo į [[objektai/vietos/Kulmas]]

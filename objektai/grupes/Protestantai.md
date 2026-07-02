@@ -107,5 +107,4 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Katalikų Bažnyčia]] buvo_priesas Protestantai
-- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]] buvo_priesas Protestantai
+- Priešai: [[objektai/grupes/Katalikų Bažnyčia]], [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]

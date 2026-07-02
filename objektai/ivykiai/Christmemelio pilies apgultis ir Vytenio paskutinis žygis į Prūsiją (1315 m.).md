@@ -93,4 +93,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)
+- Puolė Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.): [[objektai/grupes/Kryžiuočių ordinas]]

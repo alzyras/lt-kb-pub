@@ -89,7 +89,7 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
     - t-001
 
 ## Ryšiai
-- Petras Šuiskis keliavo_i [[objektai/vietos/Druckas]]
-- Petras Šuiskis dalyvavo_musyje [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
-- Petras Šuiskis kariavo_pries [[objektai/grupes/Lietuviai]]
-- Petras Šuiskis surenge_zygi_i [[objektai/vietos/Lietuva]]
+- Petras Šuiskis keliavo į [[objektai/vietos/Druckas]]
+- Petras Šuiskis surengė žygį į [[objektai/vietos/Lietuva]]
+- Petras Šuiskis kariavo prieš [[objektai/grupes/Lietuviai]]
+- Petras Šuiskis dalyvavo mūšyje [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]

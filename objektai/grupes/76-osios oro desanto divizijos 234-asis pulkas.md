@@ -54,5 +54,5 @@ Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko
     - t-001
 
 ## Ryšiai
-- 76-osios oro desanto divizijos 234-asis pulkas siunte_i [[objektai/vietos/Vilnius]]
-- 76-osios oro desanto divizijos 234-asis pulkas keliavo_i [[objektai/vietos/Vilnius]]
+- 76-osios oro desanto divizijos 234-asis pulkas keliavo į [[objektai/vietos/Vilnius]]
+- 76-osios oro desanto divizijos 234-asis pulkas siuntė į [[objektai/vietos/Vilnius]]

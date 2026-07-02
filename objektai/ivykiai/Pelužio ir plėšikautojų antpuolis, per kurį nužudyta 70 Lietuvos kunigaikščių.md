@@ -110,4 +110,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Pelužis]] puole Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių
+- Puolė Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių: [[objektai/asmenys/Pelužis]]

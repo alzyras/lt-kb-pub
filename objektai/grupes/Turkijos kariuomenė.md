@@ -61,5 +61,5 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Turkijos kariuomenė puole [[objektai/vietos/Sučiava]]
-- Turkijos kariuomenė keliavo_i [[objektai/vietos/Chotinas]]
+- Turkijos kariuomenė keliavo į [[objektai/vietos/Chotinas]]
+- Turkijos kariuomenė puolė [[objektai/vietos/Sučiava]]

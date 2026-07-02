@@ -107,4 +107,4 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
     - t-001
 
 ## Ryšiai
-- Leibgvardijos lietuviškasis pėstininkų pulkas keliavo_i [[objektai/vietos/Vilnius]]
+- Leibgvardijos lietuviškasis pėstininkų pulkas keliavo į [[objektai/vietos/Vilnius]]

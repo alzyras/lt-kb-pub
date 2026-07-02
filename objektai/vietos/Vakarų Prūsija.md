@@ -75,4 +75,4 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
     - t-001
 
 ## Ryšiai
-- Vakarų Prūsija priklause [[objektai/vietos/Lenkija]]
+- Vakarų Prūsija priklausė [[objektai/vietos/Lenkija]]

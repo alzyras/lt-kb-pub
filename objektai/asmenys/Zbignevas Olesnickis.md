@@ -121,5 +121,4 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - t-003
 
 ## Ryšiai
-- Zbignevas Olesnickis (vyskupas) keliavo_i [[objektai/vietos/Vilnius]]
-- Zbignevas Olesnickis (vyskupas) keliavo_i [[objektai/vietos/Lietuva]]
+- Zbignevas Olesnickis (vyskupas) keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

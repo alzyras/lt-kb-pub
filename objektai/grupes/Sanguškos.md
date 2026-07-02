@@ -54,4 +54,4 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
     - t-001
 
 ## Ryšiai
-- Sanguškos valde_teritorija [[objektai/vietos/Kovelis]]
+- Sanguškos valdė [[objektai/vietos/Kovelis]]

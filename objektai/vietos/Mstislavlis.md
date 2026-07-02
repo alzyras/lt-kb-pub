@@ -229,14 +229,10 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Sviatoslavas]] mire Mstislavlis
-- [[objektai/asmenys/Sviatoslavas]] uzeme Mstislavlis
-- [[objektai/asmenys/A. N. Trubeckojus]] uzeme Mstislavlis
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] uzeme Mstislavlis
-- [[objektai/asmenys/Karigaila]] buvo_valdovas Mstislavlis
-- [[objektai/grupes/Lietuvos kariuomenė]] keliavo_i Mstislavlis
-- [[objektai/asmenys/Sviatoslavas]] valde Mstislavlis
-- Mstislavlis priklause [[objektai/vietos/Smolenskas]]
-- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]] keliavo_i Mstislavlis
-- [[objektai/grupes/Gediminaičiai]] valde_teritorija Mstislavlis
-- [[objektai/grupes/Bajorai]] surenge_zygi_i Mstislavlis
+- Turėjo valdovą: [[objektai/asmenys/Karigaila]]
+- Buvo valdoma: [[objektai/grupes/Gediminaičiai]], [[objektai/asmenys/Sviatoslavas]]
+- Buvo kelionės vieta: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]
+- Mirties vieta: [[objektai/asmenys/Sviatoslavas]]
+- Užėmė Mstislavlį: [[objektai/asmenys/A. N. Trubeckojus]], [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Sviatoslavas]]
+- Buvo žygio kryptis: [[objektai/grupes/Bajorai]]
+- Mstislavlis priklausė [[objektai/vietos/Smolenskas]]

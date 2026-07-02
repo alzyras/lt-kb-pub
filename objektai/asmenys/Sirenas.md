@@ -70,5 +70,5 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
     - t-002
 
 ## Ryšiai
-- Sirenas gyne [[objektai/vietos/Kristburgas]]
+- Sirenas gynė [[objektai/vietos/Kristburgas]]
 - Sirenas gyveno [[objektai/vietos/Kristburgas]]

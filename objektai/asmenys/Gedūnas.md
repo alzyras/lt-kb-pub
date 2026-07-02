@@ -128,4 +128,4 @@ Gedūnas Dusburgiečio pasakojime minimas kaip senas vyras iš Kandeimu vadinamo
     - t-004
 
 ## Ryšiai
-- Gedūnas buvo_brolis [[objektai/asmenys/Ringėlas]]
+- Broliai: [[objektai/asmenys/Ringėlas]]

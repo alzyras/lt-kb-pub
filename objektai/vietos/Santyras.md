@@ -215,6 +215,6 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Sventopelkas]] pastate Santyras
-- [[objektai/asmenys/Sventopelkas]] keliavo_i Santyras
-- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas, XIII a.)]] gyveno Santyras
+- Buvo kelionės vieta: [[objektai/asmenys/Sventopelkas]]
+- Buvo pastatyta: [[objektai/asmenys/Sventopelkas]]
+- Gyvenamoji vieta: [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas, XIII a.)]]

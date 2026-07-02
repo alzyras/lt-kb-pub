@@ -108,4 +108,4 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
     - t-002
 
 ## Ryšiai
-- Povilas Lukšys mire [[objektai/vietos/Taučiūnai]]
+- Povilas Lukšys mirė [[objektai/vietos/Taučiūnai]]

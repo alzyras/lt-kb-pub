@@ -368,9 +368,7 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
     - t-011
 
 ## Ryšiai
-- [[objektai/asmenys/Spytkas iš Melsztyno]] mire Vorskla
-- [[objektai/asmenys/Andrius Algirdaitis]] mire Vorskla
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Vorskla
-- [[objektai/asmenys/Hlebas]] mire Vorskla
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Vorskla
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyveno Vorskla
+- Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Mirties vieta: [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Hlebas]], [[objektai/asmenys/Spytkas iš Melsztyno]]
+- Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gyvenamoji vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

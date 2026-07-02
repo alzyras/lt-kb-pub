@@ -68,4 +68,4 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Zemskinis susirinkimas]] paskyre Michailas Fiodorovičius Romanovas
+- Paskyrė Michailas Fiodorovičius Romanovą: [[objektai/grupes/Zemskinis susirinkimas]]

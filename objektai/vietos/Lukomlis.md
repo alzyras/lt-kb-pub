@@ -83,5 +83,5 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Andrius Polockietis]] uzeme Lukomlis
-- [[objektai/asmenys/Švitrigaila]] keliavo_i Lukomlis
+- Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]
+- Užėmė Lukomlį: [[objektai/asmenys/Andrius Polockietis]]

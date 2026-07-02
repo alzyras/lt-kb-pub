@@ -121,4 +121,4 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
     - t-001
 
 ## Ryšiai
-- Mažoji Podolė priklause [[objektai/grupes/Auksinė Orda]]
+- Mažoji Podolė priklausė [[objektai/grupes/Auksinė Orda]]

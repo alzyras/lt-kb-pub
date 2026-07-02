@@ -49,4 +49,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Vilniaus miesto vartai priklause [[objektai/vietos/Vilnius]]
+- Vilniaus miesto vartai priklausė [[objektai/vietos/Vilnius]]

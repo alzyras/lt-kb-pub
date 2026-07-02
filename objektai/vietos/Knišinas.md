@@ -119,5 +119,5 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] mire Knišinas
-- [[objektai/asmenys/Steponas Batoras]] keliavo_i Knišinas
+- Buvo kelionės vieta: [[objektai/asmenys/Steponas Batoras]]
+- Mirties vieta: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

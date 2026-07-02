@@ -53,4 +53,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Rusai]] uzeme Alūksnė
+- Užėmė Alūksnę: [[objektai/grupes/Rusai]]

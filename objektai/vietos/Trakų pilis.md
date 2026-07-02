@@ -216,6 +216,6 @@ Trakų pilis.
     - t-008
 
 ## Ryšiai
-- [[objektai/asmenys/Skirgaila]] gyveno Trakų pilis (pilis)
-- [[objektai/daiktai/Kryžius]] priklause Trakų pilis (pilis)
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Trakų pilis (pilis)
+- Užėmė Trakų pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]
+- Gyvenamoji vieta: [[objektai/asmenys/Skirgaila]]
+- Turėjo priklausinį: [[objektai/daiktai/Kryžius]]

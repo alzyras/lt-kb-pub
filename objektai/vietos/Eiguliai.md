@@ -59,4 +59,4 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Eiguliai
+- Užėmė Eiguliai: [[objektai/grupes/Kryžiuočių ordinas]]

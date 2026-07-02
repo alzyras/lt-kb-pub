@@ -69,4 +69,4 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Soroka
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Jogailaitis]]

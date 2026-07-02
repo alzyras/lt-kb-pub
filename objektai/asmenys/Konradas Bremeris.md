@@ -51,6 +51,6 @@ Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpind
     - t-001
 
 ## Ryšiai
-- Konradas Bremeris keliavo_i [[objektai/vietos/Elbingas]]
-- Konradas Bremeris puole [[objektai/asmenys/Sventopelkas]]
-- [[objektai/asmenys/Sventopelkas]] buvo_priesas Konradas Bremeris
+- Priešai: [[objektai/asmenys/Sventopelkas]]
+- Konradas Bremeris keliavo į [[objektai/vietos/Elbingas]]
+- Konradas Bremeris puolė [[objektai/asmenys/Sventopelkas]]

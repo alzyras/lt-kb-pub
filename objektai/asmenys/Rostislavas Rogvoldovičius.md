@@ -50,4 +50,4 @@ PIRMAS SKYRIUS ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž.
     - t-001
 
 ## Ryšiai
-- Rostislavas Rogvoldovičius keliavo_i [[objektai/vietos/Polockas]]
+- Rostislavas Rogvoldovičius keliavo į [[objektai/vietos/Polockas]]

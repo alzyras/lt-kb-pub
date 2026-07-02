@@ -62,4 +62,4 @@ Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] gyne Šilginėliai
+- Gynė Šilginėliai: [[objektai/grupes/Lietuviai]]

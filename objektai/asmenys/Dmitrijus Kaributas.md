@@ -62,6 +62,6 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     - t-001
 
 ## Ryšiai
-- Dmitrijus Kaributas buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]] reme Dmitrijus Kaributas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Dmitrijus Kaributas
+- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Puolė Dmitrijus Kaributą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Rėmė Dmitrijus Kaributą: [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]]

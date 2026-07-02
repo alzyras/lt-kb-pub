@@ -1380,10 +1380,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - t-009
 
 ## Ryšiai
-- [[objektai/asmenys/Snorro Sturleson]] keliavo_i Europa
-- [[objektai/grupes/Budinai]] keliavo_i Europa
-- [[objektai/vietos/Lietuva]] priklause Europa
-- [[objektai/grupes/Lietuviai]] gyveno Europa
-- [[objektai/grupes/Samojedai]] gyveno Europa
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] siunte_i Europa
-- [[objektai/grupes/Kryžiuočių ordinas]] prekiavo_su Europa
+- Buvo kelionės vieta: [[objektai/grupes/Budinai]], [[objektai/asmenys/Snorro Sturleson]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Prekiavo su: [[objektai/grupes/Kryžiuočių ordinas]]
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Samojedai]]
+- Turėjo priklausinį: [[objektai/vietos/Lietuva]]

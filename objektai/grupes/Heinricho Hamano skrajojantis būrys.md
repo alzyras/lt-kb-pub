@@ -48,4 +48,4 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - t-001
 
 ## Ryšiai
-- Heinricho Hamano skrajojantis būrys puole [[objektai/grupes/Žydai]]
+- Heinricho Hamano skrajojantis būrys puolė [[objektai/grupes/Žydai]]

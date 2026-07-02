@@ -70,4 +70,4 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]] buvo_sajungininkas_su Vladimiras Andrejevičius
+- Sąjungininkai: [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]]

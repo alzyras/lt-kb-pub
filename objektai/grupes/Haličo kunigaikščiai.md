@@ -74,5 +74,5 @@ Politinė ir karinė kunigaikščių grupė.
     - t-003
 
 ## Ryšiai
-- Haličo kunigaikščiai puole [[objektai/vietos/Lietuva]]
-- Haličo kunigaikščiai buvo_sajungininkas_su [[objektai/grupes/Mongolai]]
+- Sąjungininkai: [[objektai/grupes/Mongolai]]
+- Haličo kunigaikščiai puolė [[objektai/vietos/Lietuva]]

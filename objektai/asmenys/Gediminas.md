@@ -3557,110 +3557,33 @@ Gediminas pristatomas kaip XIV a. Lietuvos valdovas, derinęs karinius veiksmus,
     - t-099
 
 ## Ryšiai
-- [[objektai/asmenys/Teodoras]] buvo_brolis Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- [[objektai/asmenys/Aldona Gediminaitė]] buvo_dukte Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_brolis [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) gyveno [[objektai/vietos/Vilnius]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzeme [[objektai/vietos/Kijevas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzkariavo [[objektai/vietos/Kijevas]]
-- [[objektai/asmenys/Marija (Gedimino duktė)]] buvo_dukte Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_sunus Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzeme [[objektai/vietos/Brianskas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) apgule [[objektai/vietos/Vladimiras]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastate [[objektai/vietos/Vilniaus Aukštutinė pilis]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzeme [[objektai/vietos/Perejeslavlis]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) valde [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Marija]] buvo_dukte Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- [[objektai/asmenys/Aldona Ona]] buvo_dukte Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) gyveno [[objektai/vietos/Ariogala]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastate [[objektai/vietos/Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis)]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) sudare_sutarti_su [[objektai/asmenys/Lokietka]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzeme [[objektai/vietos/Luckas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_sajungininkas_su [[objektai/asmenys/Vladislovas Lokietka]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_valdovas [[objektai/grupes/Lietuviai]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_valdovas [[objektai/grupes/Rusai]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastate [[objektai/daiktai/Gedimino pastatytos pranciškonų ir dominikonų bažnyčios]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastate [[objektai/vietos/Vilnius]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Mazovija]]
-- [[objektai/grupes/Rygiečiai]] buvo_sajungininkas_su Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) keliavo_i [[objektai/vietos/Lietuva]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastate [[objektai/vietos/Aukštutinė pilis]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) surenge_zygi_i [[objektai/vietos/Kijevas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) surenge_zygi_i [[objektai/vietos/Mazovija]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzkariavo [[objektai/vietos/Vitebskas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzkariavo [[objektai/vietos/Volynė]]
-- [[objektai/asmenys/Jaunė (Jievna)]] buvo_zmona Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Semba]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] buvo_sunus Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_sajungininkas_su [[objektai/grupes/Rygiečiai]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) keliavo_i [[objektai/vietos/Severskas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) mire [[objektai/vietos/Bajerburgas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) mire [[objektai/vietos/Bajerburgo pilis]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Brandenburgo žemė]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Dobrynė]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/grupes/Rusai]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) reme [[objektai/grupes/Dominikonų ordinas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) reme [[objektai/asmenys/Vladislovas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) surenge_zygi_i [[objektai/vietos/Dobrynė]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzeme [[objektai/vietos/Drohičinas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzeme [[objektai/vietos/Kijevo žemės]]
-- [[objektai/grupes/Lietuvos ponai]] paskyre Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- [[objektai/asmenys/Liubartas]] buvo_sunus Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- [[objektai/asmenys/Vladislovas Lokietka]] buvo_sajungininkas_su Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) apgule [[objektai/vietos/Bajerburgas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) kariavo_pries [[objektai/grupes/Livonijos riteriai]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) kariavo_pries [[objektai/grupes/Rusai]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) kariavo_pries [[objektai/grupes/Totoriai]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) mire [[objektai/vietos/Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė)]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) reme [[objektai/asmenys/Vladislovas Lokietka]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzeme [[objektai/vietos/Voluinė]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzkariavo [[objektai/vietos/Severskas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) dalyvavo_musyje [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) kariavo_pries [[objektai/grupes/Krikščionys]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastate [[objektai/vietos/Naugardukas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Bajerburgas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_sajungininkas_su [[objektai/grupes/Lenkai]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) reme [[objektai/grupes/Pranciškonų ordinas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) valde_miesta [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Naugardas]] priklause Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) surenge_zygi_i [[objektai/vietos/Bajerburgas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) valde [[objektai/vietos/Kijevas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) keliavo_i [[objektai/vietos/Bajerburgas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) prekiavo_su [[objektai/vietos/Livonija]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) reme [[objektai/grupes/Stačiatikiai]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) siunte_i [[objektai/vietos/Europa]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) valde_miesta [[objektai/vietos/Vyšgorodas]]
-- [[objektai/grupes/Kryžiuočių ordinas]] buvo_priesas Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Rezeknės regionas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) siunte_i [[objektai/vietos/Mazovija]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) gyne [[objektai/vietos/Veliuona]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) kariavo_pries [[objektai/grupes/Auksinė Orda]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) keliavo_i [[objektai/vietos/Luckas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) mire [[objektai/vietos/Veliuona]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastate [[objektai/vietos/Trakai]]
-- [[objektai/daiktai/Gedimino antspaudas]] priklause Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- [[objektai/asmenys/Manvydas]] buvo_sunus Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- [[objektai/grupes/Naugardukiečiai]] reme Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- [[objektai/grupes/Polockiečiai]] reme Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- [[objektai/asmenys/Tomas Aldenburgas]] puole Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- [[objektai/vietos/Vilnius]] priklause Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) gyne [[objektai/grupes/Lietuviai]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) keliavo_i [[objektai/vietos/Vilnius]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Mozūrijos žemė]]
-- [[objektai/asmenys/Ditrichas iš Altenburgo]] puole Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_brolis [[objektai/asmenys/Gvaželutis]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) paskyre [[objektai/asmenys/Krunevičius]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) valde [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Vitebskas]] priklause Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Kulmas]]
-- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]] puole Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_palaidotas [[objektai/vietos/Veliuona]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) siunte_i [[objektai/vietos/Lietuva]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) siunte_i [[objektai/vietos/Livonija]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_palaidotas [[objektai/vietos/Gedimino kalnas]]
-- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) surenge_zygi_i [[objektai/vietos/Ovručas]]
-- [[objektai/grupes/Teutonai]] buvo_priesas Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- Žmonos: [[objektai/asmenys/Jaunė (Jievna)]]
+- Sūnūs: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Liubartas]], [[objektai/asmenys/Manvydas]]
+- Dukterys: [[objektai/asmenys/Aldona Gediminaitė]], [[objektai/asmenys/Aldona Ona]], [[objektai/asmenys/Marija]], [[objektai/asmenys/Marija (Gedimino duktė)]]
+- Broliai: [[objektai/asmenys/Gvaželutis]], [[objektai/asmenys/Teodoras]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Priešai: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Teutonai]]
+- Sąjungininkai: [[objektai/grupes/Lenkai]], [[objektai/grupes/Rygiečiai]], [[objektai/asmenys/Vladislovas Lokietka]]
+- Puolė Gediminą (Lietuvos didysis kunigaikštis, XIV a.): [[objektai/asmenys/Ditrichas iš Altenburgo]], [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]], [[objektai/asmenys/Tomas Aldenburgas]]
+- Paskyrė Gediminą (Lietuvos didysis kunigaikštis, XIV a.): [[objektai/grupes/Lietuvos ponai]]
+- Rėmė Gediminą (Lietuvos didysis kunigaikštis, XIV a.): [[objektai/grupes/Naugardukiečiai]], [[objektai/grupes/Polockiečiai]]
+- Turėjo priklausinį: [[objektai/daiktai/Gedimino antspaudas]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo valdovas [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Rusai]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) valdė [[objektai/vietos/Kijevas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vyšgorodas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) keliavo į [[objektai/vietos/Bajerburgas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Luckas]], [[objektai/vietos/Severskas]], [[objektai/vietos/Vilnius]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) mirė [[objektai/vietos/Bajerburgas]], [[objektai/vietos/Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė)]], [[objektai/vietos/Bajerburgo pilis]], [[objektai/vietos/Veliuona]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo palaidotas [[objektai/vietos/Gedimino kalnas]], [[objektai/vietos/Veliuona]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastatė [[objektai/vietos/Aukštutinė pilis]], [[objektai/daiktai/Gedimino pastatytos pranciškonų ir dominikonų bažnyčios]], [[objektai/vietos/Naugardukas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilniaus Aukštutinė pilis]], [[objektai/vietos/Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis)]], [[objektai/vietos/Vilnius]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puolė [[objektai/vietos/Bajerburgas]], [[objektai/vietos/Brandenburgo žemė]], [[objektai/vietos/Dobrynė]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Mozūrijos žemė]], [[objektai/vietos/Rezeknės regionas]], [[objektai/grupes/Rusai]], [[objektai/vietos/Semba]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) apgulė [[objektai/vietos/Bajerburgas]], [[objektai/vietos/Vladimiras]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) užėmė [[objektai/vietos/Brianskas]], [[objektai/vietos/Drohičinas]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Kijevo žemės]], [[objektai/vietos/Luckas]], [[objektai/vietos/Perejeslavlis]], [[objektai/vietos/Voluinė]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) gynė [[objektai/grupes/Lietuviai]], [[objektai/vietos/Veliuona]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) siuntė į [[objektai/vietos/Europa]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Livonija]], [[objektai/vietos/Mazovija]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) surengė žygį į [[objektai/vietos/Bajerburgas]], [[objektai/vietos/Dobrynė]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Ovručas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) kariavo prieš [[objektai/grupes/Auksinė Orda]], [[objektai/grupes/Krikščionys]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos riteriai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Totoriai]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) dalyvavo mūšyje [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Lokietka]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) prekiavo su [[objektai/vietos/Livonija]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) gyveno [[objektai/vietos/Ariogala]], [[objektai/vietos/Vilnius]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) paskyrė [[objektai/asmenys/Krunevičius]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) rėmė [[objektai/grupes/Dominikonų ordinas]], [[objektai/grupes/Pranciškonų ordinas]], [[objektai/grupes/Stačiatikiai]], [[objektai/asmenys/Vladislovas]], [[objektai/asmenys/Vladislovas Lokietka]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) užkariavo [[objektai/vietos/Kijevas]], [[objektai/vietos/Severskas]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Volynė]]

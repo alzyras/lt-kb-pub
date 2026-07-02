@@ -136,4 +136,4 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     - t-002
 
 ## Ryšiai
-- Martynas Paleckis pastate [[objektai/vietos/Paleckio stiklo liejykla prie Vilijos]]
+- Martynas Paleckis pastatė [[objektai/vietos/Paleckio stiklo liejykla prie Vilijos]]

@@ -42,4 +42,4 @@ Vadinamoji Ceklio sritis, kuri priskiriama Kuršiams, siekė ir dešinįjį Vent
     - t-001
 
 ## Ryšiai
-- Ceklio sritis priklause [[objektai/grupes/Kuršiai]]
+- Ceklio sritis priklausė [[objektai/grupes/Kuršiai]]

@@ -80,4 +80,4 @@ Aiškus vartojimo laikas nenurodytas.
 Nenurodyta
 
 ## Ryšiai
-- [[objektai/asmenys/Teodoras Narbutas]] dalyvavo_musyje Mūšis prie Abo miesto (mūšis, XIX a.)
+- Turėjo dalyvį: [[objektai/asmenys/Teodoras Narbutas]]

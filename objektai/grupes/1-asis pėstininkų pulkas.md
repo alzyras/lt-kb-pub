@@ -99,4 +99,4 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     - t-003
 
 ## Ryšiai
-- 1-asis pėstininkų pulkas uzeme [[objektai/vietos/Turmantas]]
+- 1-asis pėstininkų pulkas užėmė [[objektai/vietos/Turmantas]]

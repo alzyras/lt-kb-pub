@@ -48,5 +48,5 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Judas Makabėjus]] kariavo_pries Alchimas
-- [[objektai/asmenys/Bachidas]] buvo_sajungininkas_su Alchimas
+- Sąjungininkai: [[objektai/asmenys/Bachidas]]
+- Kariavo prieš: [[objektai/asmenys/Judas Makabėjus]]

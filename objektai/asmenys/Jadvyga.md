@@ -247,10 +247,7 @@ Jadvyga, Liudviko Anjou duktė, 1384 m. spalio 15 d. Krokuvoje buvo vainikuota L
     - t-006
 
 ## Ryšiai
-- Jadvyga keliavo_i [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] vede Jadvyga
-- Jadvyga keliavo_i [[objektai/vietos/Lvovas]]
-- [[objektai/asmenys/Švitrigaila]] reme Jadvyga
-- Jadvyga keliavo_i [[objektai/vietos/Krokuva]]
-- [[objektai/vietos/Lietuva]] priklause Jadvyga
-- [[objektai/vietos/Rusija]] priklause Jadvyga
+- Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Rėmė Jadvygą: [[objektai/asmenys/Švitrigaila]]
+- Turėjo priklausinį: [[objektai/vietos/Lietuva]], [[objektai/vietos/Rusija]]
+- Jadvyga keliavo į [[objektai/vietos/Krokuva]], [[objektai/vietos/Lvovas]], [[objektai/vietos/Vilnius]]

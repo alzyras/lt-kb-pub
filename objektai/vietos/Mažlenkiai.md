@@ -92,4 +92,4 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     - t-002
 
 ## Ryšiai
-- Mažlenkiai priklause [[objektai/vietos/Lenkija]]
+- Mažlenkiai priklausė [[objektai/vietos/Lenkija]]

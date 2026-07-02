@@ -1652,44 +1652,15 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
     - t-063
 
 ## Ryšiai
-- [[objektai/asmenys/Skirgaila]] uzeme Polockas
-- [[objektai/asmenys/Skirgaila]] keliavo_i Polockas
-- [[objektai/asmenys/Treniota]] siunte_i Polockas
-- [[objektai/asmenys/Švitrigaila]] keliavo_i Polockas
-- [[objektai/grupes/Pskoviečiai]] puole Polockas
-- [[objektai/asmenys/Skirgaila]] apgule Polockas
-- [[objektai/asmenys/Skirgaila]] valde_miesta Polockas
-- [[objektai/asmenys/Švitrigaila]] valde_teritorija Polockas
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] valde_teritorija Polockas
-- [[objektai/asmenys/Ivanas Rūstusis]] apgule Polockas
-- Polockas priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Skirgaila]] buvo_valdovas Polockas
-- [[objektai/asmenys/Tautvilas]] gyveno Polockas
-- [[objektai/asmenys/Augustas]] siunte_i Polockas
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Polockas
-- [[objektai/asmenys/Mechmet Girėjus]] puole Polockas
-- [[objektai/grupes/Rusai]] gyveno Polockas
-- Polockas priklause [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Ginvilas]] valde_miesta Polockas
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] valde_miesta Polockas
-- Polockas priklause [[objektai/vietos/Baltoji Rusia]]
-- [[objektai/vietos/Ryga]] prekiavo_su Polockas
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] valde Polockas
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] valde_miesta Polockas
-- [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Polockas
-- [[objektai/grupes/Lietuvos ponai]] siunte_i Polockas
-- Polockas priklause [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusijos kariuomenė]] surenge_zygi_i Polockas
-- [[objektai/asmenys/Švitrigaila]] valde Polockas
-- [[objektai/asmenys/Florijonas Zebžidovskis]] surenge_zygi_i Polockas
-- [[objektai/asmenys/Liutauras]] valde Polockas
-- Polockas prekiavo_su [[objektai/vietos/Dauguva]]
-- [[objektai/grupes/Totoriai]] surenge_zygi_i Polockas
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] keliavo_i Polockas
-- Polockas priklause [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Rostislavas Rogvoldovičius]] keliavo_i Polockas
-- [[objektai/asmenys/Andrius Algirdaitis]] valde_miesta Polockas
-- [[objektai/grupes/Totoriai]] puole Polockas
-- Polockas prekiavo_su [[objektai/vietos/Kaunas]]
-- [[objektai/asmenys/Gabrielius Bekešas]] puole Polockas
-- [[objektai/grupes/Lietuviai]] valde_teritorija Polockas
+- Turėjo valdovą: [[objektai/asmenys/Skirgaila]]
+- Buvo valdoma: [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/asmenys/Ginvilas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Liutauras]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]], [[objektai/asmenys/Rostislavas Rogvoldovičius]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]]
+- Puolė Polocką: [[objektai/asmenys/Gabrielius Bekešas]], [[objektai/asmenys/Mechmet Girėjus]], [[objektai/grupes/Pskoviečiai]], [[objektai/grupes/Totoriai]]
+- Apgulė Polocką: [[objektai/asmenys/Ivanas Rūstusis]], [[objektai/asmenys/Skirgaila]]
+- Užėmė Polocką: [[objektai/asmenys/Skirgaila]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Augustas]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Lietuvos ponai]], [[objektai/asmenys/Treniota]]
+- Buvo žygio kryptis: [[objektai/asmenys/Florijonas Zebžidovskis]], [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Totoriai]]
+- Prekiavo su: [[objektai/vietos/Ryga]]
+- Gyvenamoji vieta: [[objektai/grupes/Rusai]], [[objektai/asmenys/Tautvilas]]
+- Polockas prekiavo su [[objektai/vietos/Dauguva]], [[objektai/vietos/Kaunas]]
+- Polockas priklausė [[objektai/vietos/Baltoji Rusia]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Skirgaila]]

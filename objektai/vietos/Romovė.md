@@ -200,10 +200,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - t-005
 
 ## Ryšiai
-- Romovė priklause [[objektai/vietos/Sambija]]
-- Romovė priklause [[objektai/vietos/Prūsija]]
-- [[objektai/asmenys/Krivis]] gyveno Romovė
-- [[objektai/grupes/Žyniai]] gyveno Romovė
-- [[objektai/vietos/Romovės šventykla]] priklause Romovė
-- [[objektai/daiktai/Aukuras]] priklause Romovė
-- [[objektai/daiktai/Perkūno stabai]] priklause Romovė
+- Gyvenamoji vieta: [[objektai/asmenys/Krivis]], [[objektai/grupes/Žyniai]]
+- Turėjo priklausinį: [[objektai/daiktai/Aukuras]], [[objektai/daiktai/Perkūno stabai]], [[objektai/vietos/Romovės šventykla]]
+- Romovė priklausė [[objektai/vietos/Prūsija]], [[objektai/vietos/Sambija]]

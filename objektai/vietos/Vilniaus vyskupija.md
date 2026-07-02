@@ -167,4 +167,4 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - t-002
 
 ## Ryšiai
-- Vilniaus vyskupija priklause [[objektai/vietos/Gniezno]]
+- Vilniaus vyskupija priklausė [[objektai/vietos/Gniezno]]

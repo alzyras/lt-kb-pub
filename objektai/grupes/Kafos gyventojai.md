@@ -48,5 +48,5 @@ Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sum
     - t-001
 
 ## Ryšiai
+- Kafos gyventojai keliavo į [[objektai/vietos/Krymas]]
 - Kafos gyventojai gyveno [[objektai/vietos/Teodosija (Kafa)]]
-- Kafos gyventojai keliavo_i [[objektai/vietos/Krymas]]

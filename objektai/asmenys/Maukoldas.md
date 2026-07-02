@@ -67,4 +67,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] buvo_sunus Maukoldas
+- Sūnūs: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

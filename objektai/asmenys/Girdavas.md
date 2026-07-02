@@ -56,4 +56,4 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Girdavai]] priklause Girdavas
+- Turėjo priklausinį: [[objektai/vietos/Girdavai]]

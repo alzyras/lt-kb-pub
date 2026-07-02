@@ -64,4 +64,4 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
     - t-001
 
 ## Ryšiai
-- Girdila keliavo_i [[objektai/vietos/Aukaimis]]
+- Girdila keliavo į [[objektai/vietos/Aukaimis]]

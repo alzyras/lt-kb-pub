@@ -79,4 +79,4 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Cimbarka]] buvo_zmona Ernestas (Livonijos žemės magistras)
+- Žmonos: [[objektai/asmenys/Cimbarka]]

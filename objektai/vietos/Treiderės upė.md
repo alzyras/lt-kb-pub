@@ -86,5 +86,4 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Brunonas]] puole Treiderės upė
-- [[objektai/grupes/Teutonai]] puole Treiderės upė
+- Puolė Treiderės upę: [[objektai/asmenys/Brunonas]], [[objektai/grupes/Teutonai]]

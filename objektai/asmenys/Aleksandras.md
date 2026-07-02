@@ -294,20 +294,12 @@ periodo_grupes: []
     - t-005
 
 ## Ryšiai
-- Aleksandras keliavo_i [[objektai/vietos/Krokuva]]
-- Aleksandras paskyre [[objektai/asmenys/Kiška]]
-- Aleksandras keliavo_i [[objektai/vietos/Vilnius]]
-- Aleksandras paskyre [[objektai/asmenys/Jonas Černinas]]
-- [[objektai/asmenys/Mendli Girėjus]] buvo_priesas Aleksandras
-- Aleksandras paskyre [[objektai/asmenys/Stanislovas Kiška]]
-- Aleksandras siunte_i [[objektai/vietos/Smolenskas]]
-- Aleksandras vede [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- Aleksandras reme [[objektai/grupes/Dominikonų ordinas]]
+- Sutuoktiniai: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- Priešai: [[objektai/asmenys/Mendli Girėjus]]
+- Paskyrė Aleksandrą: [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- Aleksandras keliavo į [[objektai/vietos/Borisovas]], [[objektai/vietos/Brasta]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Minskas]], [[objektai/vietos/Nemėžis]], [[objektai/vietos/Vilnius]]
+- Aleksandras pastatė [[objektai/vietos/Braclavas]]
+- Aleksandras siuntė į [[objektai/vietos/Smolenskas]]
 - Aleksandras gyveno [[objektai/vietos/Minskas]]
-- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]] paskyre Aleksandras
-- Aleksandras pastate [[objektai/vietos/Braclavas]]
-- Aleksandras keliavo_i [[objektai/vietos/Borisovas]]
-- Aleksandras keliavo_i [[objektai/vietos/Brasta]]
-- Aleksandras keliavo_i [[objektai/vietos/Minskas]]
-- Aleksandras paskyre [[objektai/asmenys/Zaberezinskis]]
-- Aleksandras keliavo_i [[objektai/vietos/Nemėžis]]
+- Aleksandras paskyrė [[objektai/asmenys/Jonas Černinas]], [[objektai/asmenys/Kiška]], [[objektai/asmenys/Stanislovas Kiška]], [[objektai/asmenys/Zaberezinskis]]
+- Aleksandras rėmė [[objektai/grupes/Dominikonų ordinas]]

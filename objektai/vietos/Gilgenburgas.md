@@ -79,6 +79,6 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Gilgenburgas
-- [[objektai/grupes/Lietuviai]] uzeme Gilgenburgas
-- [[objektai/grupes/Lietuviai]] keliavo_i Gilgenburgas
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
+- Puolė Gilgenburgą: [[objektai/grupes/Lietuviai]]
+- Užėmė Gilgenburgą: [[objektai/grupes/Lietuviai]]

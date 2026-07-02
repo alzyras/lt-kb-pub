@@ -362,17 +362,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - t-010
 
 ## Ryšiai
-- [[objektai/asmenys/Karolis Didysis]] surenge_zygi_i Italija
-- [[objektai/grupes/Gepidai]] puole Italija
-- [[objektai/asmenys/Petras Atsiskyrėlis]] keliavo_i Italija
-- [[objektai/asmenys/Bona]] keliavo_i Italija
-- [[objektai/grupes/Langobardai]] puole Italija
-- [[objektai/grupes/Langobardai]] uzkariavo Italija
-- [[objektai/grupes/Saracėnai]] puole Italija
-- [[objektai/grupes/Vengrai]] puole Italija
-- [[objektai/asmenys/Enėjas]] keliavo_i Italija
-- [[objektai/asmenys/Deziderijus]] puole Italija
-- [[objektai/grupes/Gepidai]] keliavo_i Italija
-- [[objektai/grupes/Langobardai]] keliavo_i Italija
-- [[objektai/asmenys/Vilius]] keliavo_i Italija
-- [[objektai/asmenys/Otonas Didysis]] valde Italija
+- Buvo valdoma: [[objektai/asmenys/Otonas Didysis]]
+- Buvo kelionės vieta: [[objektai/asmenys/Bona]], [[objektai/asmenys/Enėjas]], [[objektai/grupes/Gepidai]], [[objektai/grupes/Langobardai]], [[objektai/asmenys/Petras Atsiskyrėlis]], [[objektai/asmenys/Vilius]]
+- Puolė Italiją: [[objektai/asmenys/Deziderijus]], [[objektai/grupes/Gepidai]], [[objektai/grupes/Langobardai]], [[objektai/grupes/Saracėnai]], [[objektai/grupes/Vengrai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Karolis Didysis]]
+- Buvo užkariauta: [[objektai/grupes/Langobardai]]

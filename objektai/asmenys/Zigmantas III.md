@@ -83,5 +83,5 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
     - t-002
 
 ## Ryšiai
-- Zigmantas III buvo_valdovas [[objektai/grupes/Abiejų Tautų Respublika]]
+- Zigmantas III buvo valdovas [[objektai/grupes/Abiejų Tautų Respublika]]
 - Zigmantas III gyveno [[objektai/vietos/Rūdninkai]]

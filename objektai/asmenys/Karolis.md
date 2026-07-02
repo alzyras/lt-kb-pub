@@ -55,4 +55,4 @@ Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatori
     - t-001
 
 ## Ryšiai
-- Karolis puole [[objektai/vietos/Junigeda]]
+- Karolis puolė [[objektai/vietos/Junigeda]]

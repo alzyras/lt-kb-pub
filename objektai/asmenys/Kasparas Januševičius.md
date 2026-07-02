@@ -56,4 +56,4 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
     - t-001
 
 ## Ryšiai
-- Kasparas Januševičius buvo_brolis [[objektai/asmenys/Motiejus]]
+- Broliai: [[objektai/asmenys/Motiejus]]

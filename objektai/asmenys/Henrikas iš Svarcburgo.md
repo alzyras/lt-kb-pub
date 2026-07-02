@@ -69,4 +69,4 @@ Dusburgietis teigia, kad įvyko šitaip todėl, kad pats Kristus, kuris ir plaka
     - t-001
 
 ## Ryšiai
-- Henrikas iš Svarcburgo surenge_zygi_i [[objektai/vietos/Prūsija]]
+- Henrikas iš Svarcburgo surengė žygį į [[objektai/vietos/Prūsija]]

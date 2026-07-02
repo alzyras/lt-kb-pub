@@ -46,4 +46,4 @@ Karijotaičiai Podolėje pastatė Smotričo, Bakotos, Kameneco pilis, užage —
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Karijotaičiai]] pastate Bakotos pilis (pilis)
+- Buvo pastatyta: [[objektai/grupes/Karijotaičiai]]

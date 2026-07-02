@@ -73,4 +73,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Varmės kapitula]] paskyre Fabijonas (Varmės vyskupas)
+- Paskyrė Fabijoną (Varmės vyskupas): [[objektai/grupes/Varmės kapitula]]

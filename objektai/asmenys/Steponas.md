@@ -116,12 +116,10 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
     - t-001
 
 ## Ryšiai
-- Steponas keliavo_i [[objektai/vietos/Kolomyja]]
-- Steponas buvo_valdovas [[objektai/vietos/Moldavija]]
+- Steponas buvo valdovas [[objektai/vietos/Moldavija]]
+- Steponas valdė [[objektai/vietos/Moldavija]]
+- Steponas keliavo į [[objektai/vietos/Kolomyja]]
+- Steponas puolė [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]
+- Steponas gynė [[objektai/vietos/Sučiava]]
+- Steponas surengė žygį į [[objektai/vietos/Kamenecas]], [[objektai/vietos/Lvovas]], [[objektai/vietos/Tamovas]]
 - Steponas gyveno [[objektai/vietos/Putna]]
-- Steponas puole [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]
-- Steponas surenge_zygi_i [[objektai/vietos/Tamovas]]
-- Steponas gyne [[objektai/vietos/Sučiava]]
-- Steponas surenge_zygi_i [[objektai/vietos/Kamenecas]]
-- Steponas surenge_zygi_i [[objektai/vietos/Lvovas]]
-- Steponas valde [[objektai/vietos/Moldavija]]

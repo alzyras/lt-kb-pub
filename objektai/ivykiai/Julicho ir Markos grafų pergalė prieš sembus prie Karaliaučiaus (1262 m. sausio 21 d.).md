@@ -144,4 +144,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Sembai]] dalyvavo_musyje Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)
+- Turėjo dalyvį: [[objektai/grupes/Sembai]]

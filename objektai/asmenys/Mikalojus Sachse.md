@@ -48,4 +48,4 @@ Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui i
     - t-001
 
 ## Ryšiai
-- Mikalojus Sachse keliavo_i [[objektai/vietos/Silezija]]
+- Mikalojus Sachse keliavo į [[objektai/vietos/Silezija]]

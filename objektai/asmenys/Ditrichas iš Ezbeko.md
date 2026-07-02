@@ -82,9 +82,8 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
     - t-002
 
 ## Ryšiai
-- Ditrichas iš Ezbeko gyne [[objektai/vietos/Ragainė]]
-- Ditrichas iš Ezbeko siunte_i [[objektai/vietos/Ragainė]]
-- Ditrichas iš Ezbeko keliavo_i [[objektai/vietos/Pieštvė]]
-- Ditrichas iš Ezbeko surenge_zygi_i [[objektai/vietos/Gardinas]]
-- Ditrichas iš Ezbeko keliavo_i [[objektai/vietos/Nemunas]]
-- [[objektai/grupes/Lietuviai]] puole Ditrichas iš Ezbeko
+- Puolė Ditrichas iš Ezbeko: [[objektai/grupes/Lietuviai]]
+- Ditrichas iš Ezbeko keliavo į [[objektai/vietos/Nemunas]], [[objektai/vietos/Pieštvė]]
+- Ditrichas iš Ezbeko gynė [[objektai/vietos/Ragainė]]
+- Ditrichas iš Ezbeko siuntė į [[objektai/vietos/Ragainė]]
+- Ditrichas iš Ezbeko surengė žygį į [[objektai/vietos/Gardinas]]

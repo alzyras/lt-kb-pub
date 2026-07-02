@@ -428,9 +428,8 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
     - t-018
 
 ## Ryšiai
-- Jadvyga Jogailienė keliavo_i [[objektai/vietos/Krokuva]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] vede Jadvyga Jogailienė
-- Jadvyga Jogailienė buvo_dukte [[objektai/asmenys/Liudvikas]]
-- Jadvyga Jogailienė keliavo_i [[objektai/vietos/Vilnius]]
-- Jadvyga Jogailienė reme [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Lietuva]] priklause Jadvyga Jogailienė
+- Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Tėvai: [[objektai/asmenys/Liudvikas]]
+- Turėjo priklausinį: [[objektai/vietos/Lietuva]]
+- Jadvyga Jogailienė keliavo į [[objektai/vietos/Krokuva]], [[objektai/vietos/Vilnius]]
+- Jadvyga Jogailienė rėmė [[objektai/grupes/Lietuviai]]

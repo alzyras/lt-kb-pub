@@ -74,5 +74,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje Medininkų žemės mūšis (1320 m. liepos 27 d.)
-- [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Medininkų žemės mūšis (1320 m. liepos 27 d.)
+- Turėjo dalyvį: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuvos kariuomenė]]

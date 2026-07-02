@@ -48,4 +48,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Ukmergės apylinkė
+- Buvo kelionės vieta: [[objektai/grupes/Kryžiuočių ordinas]]

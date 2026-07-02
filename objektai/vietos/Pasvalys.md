@@ -104,4 +104,4 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Zigmantas Augustas]] keliavo_i Pasvalys
+- Buvo kelionės vieta: [[objektai/asmenys/Zigmantas Augustas]]

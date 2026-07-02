@@ -109,5 +109,5 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] gyveno Nemėžis
-- [[objektai/asmenys/Aleksandras]] keliavo_i Nemėžis
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras]]
+- Gyvenamoji vieta: [[objektai/grupes/Totoriai]]

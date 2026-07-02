@@ -147,6 +147,5 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
     - t-003
 
 ## Ryšiai
-- Henrikas Botelis dalyvavo_musyje [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- Henrikas Botelis mire [[objektai/vietos/Kuršas]]
-- Henrikas Botelis mire [[objektai/vietos/Durbė]]
+- Henrikas Botelis mirė [[objektai/vietos/Durbė]], [[objektai/vietos/Kuršas]]
+- Henrikas Botelis dalyvavo mūšyje [[objektai/ivykiai/Durbės mūšis (1260 m.)]]

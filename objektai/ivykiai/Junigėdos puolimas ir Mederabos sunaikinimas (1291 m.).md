@@ -68,4 +68,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)
+- Puolė Junigėdos puolimas ir Mederabos sunaikinimą (1291 m.): [[objektai/grupes/Kryžiuočių ordinas]]

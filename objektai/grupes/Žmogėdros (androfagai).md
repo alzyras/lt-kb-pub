@@ -42,4 +42,4 @@ Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vak
     - t-001
 
 ## Ryšiai
-- Žmogėdros (androfagai) puole [[objektai/vietos/Lietuva]]
+- Žmogėdros (androfagai) puolė [[objektai/vietos/Lietuva]]

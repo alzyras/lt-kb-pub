@@ -79,5 +79,5 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
     - t-001
 
 ## Ryšiai
-- Diunamiundė priklause [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Teutonai]] uzeme Diunamiundė
+- Užėmė Diunamiundę: [[objektai/grupes/Teutonai]]
+- Diunamiundė priklausė [[objektai/grupes/Teutonai]]

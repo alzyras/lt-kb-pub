@@ -87,5 +87,5 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
     - t-001
 
 ## Ryšiai
-- Ivanas puole [[objektai/vietos/Livonija]]
-- Ivanas gyne [[objektai/grupes/Rusai]]
+- Ivanas puolė [[objektai/vietos/Livonija]]
+- Ivanas gynė [[objektai/grupes/Rusai]]

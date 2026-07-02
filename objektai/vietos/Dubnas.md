@@ -76,4 +76,4 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Radvilos]] puole Dubnas
+- Puolė Dubną: [[objektai/grupes/Radvilos]]

@@ -47,4 +47,4 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
     - t-001
 
 ## Ryšiai
-- Andriejus (Polocko kunigaikštis) surenge_zygi_i [[objektai/vietos/Lietuva]]
+- Andriejus (Polocko kunigaikštis) surengė žygį į [[objektai/vietos/Lietuva]]

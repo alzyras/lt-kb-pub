@@ -52,4 +52,4 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - t-001
 
 ## Ryšiai
-- Liublino vaivadija priklause [[objektai/vietos/Vokietija]]
+- Liublino vaivadija priklausė [[objektai/vietos/Vokietija]]

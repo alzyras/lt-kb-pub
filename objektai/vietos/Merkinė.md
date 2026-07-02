@@ -427,9 +427,8 @@ Merkinė šioje žinių bazėje atsiskleidžia kaip svarbus Lietuvos istorijos t
     - t-015
 
 ## Ryšiai
-- [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]] puole Merkinė
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Merkinė
-- [[objektai/asmenys/Jonas iš Zabrežjės]] valde Merkinė
-- [[objektai/grupes/Merkinės batalionas]] priklause Merkinė
-- [[objektai/grupes/Rusai]] siunte_i Merkinė
-- [[objektai/asmenys/Vladislovas Jogaila]] keliavo_i Merkinė
+- Buvo valdoma: [[objektai/asmenys/Jonas iš Zabrežjės]]
+- Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vladislovas Jogaila]]
+- Puolė Merkinę: [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]
+- Buvo siuntimo vieta: [[objektai/grupes/Rusai]]
+- Turėjo priklausinį: [[objektai/grupes/Merkinės batalionas]]

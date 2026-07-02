@@ -191,6 +191,5 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Skirmantas]] uzeme Starodubas
-- [[objektai/asmenys/Mykolas]] uzeme Starodubas
-- [[objektai/grupes/Kazokai]] surenge_zygi_i Starodubas
+- Užėmė Starodubą: [[objektai/asmenys/Mykolas]], [[objektai/asmenys/Skirmantas]]
+- Buvo žygio kryptis: [[objektai/grupes/Kazokai]]

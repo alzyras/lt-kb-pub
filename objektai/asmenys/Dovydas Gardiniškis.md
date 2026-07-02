@@ -51,5 +51,4 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
     - t-001
 
 ## Ryšiai
-- Dovydas Gardiniškis gyne [[objektai/vietos/Gardinas]]
-- Dovydas Gardiniškis gyne [[objektai/vietos/Pskovas]]
+- Dovydas Gardiniškis gynė [[objektai/vietos/Gardinas]], [[objektai/vietos/Pskovas]]

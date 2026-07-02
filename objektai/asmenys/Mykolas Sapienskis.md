@@ -58,4 +58,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Mykolas Sapienskis keliavo_i [[objektai/vietos/Konstancija]]
+- Mykolas Sapienskis keliavo į [[objektai/vietos/Konstancija]]

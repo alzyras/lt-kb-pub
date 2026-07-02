@@ -52,4 +52,4 @@ Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Augustas II]] keliavo_i Altrandštatas
+- Buvo kelionės vieta: [[objektai/asmenys/Augustas II]]

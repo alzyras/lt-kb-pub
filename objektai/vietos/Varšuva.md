@@ -960,13 +960,8 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
     - t-013
 
 ## Ryšiai
-- [[objektai/asmenys/Motiejus Kaviečnijskis]] siunte_i Varšuva
-- [[objektai/asmenys/Ignotas Masalskis]] mire Varšuva
-- [[objektai/asmenys/Jokūbas Jasinskis]] mire Varšuva
-- [[objektai/grupes/Lietuvos kariuomenė]] keliavo_i Varšuva
-- [[objektai/vietos/Praga]] priklause Varšuva
-- [[objektai/asmenys/Jokūbas Jasinskis]] gyne Varšuva
-- [[objektai/asmenys/T. Korsakas]] gyne Varšuva
-- [[objektai/asmenys/T. Korsakas]] mire Varšuva
-- [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]] mire Varšuva
-- [[objektai/grupes/Laikinoji Nacionalinė Vyriausybė]] keliavo_i Varšuva
+- Buvo kelionės vieta: [[objektai/grupes/Laikinoji Nacionalinė Vyriausybė]], [[objektai/grupes/Lietuvos kariuomenė]]
+- Mirties vieta: [[objektai/asmenys/Ignotas Masalskis]], [[objektai/asmenys/Jokūbas Jasinskis]], [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]], [[objektai/asmenys/T. Korsakas]]
+- Gynė Varšuvą: [[objektai/asmenys/Jokūbas Jasinskis]], [[objektai/asmenys/T. Korsakas]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Motiejus Kaviečnijskis]]
+- Turėjo priklausinį: [[objektai/vietos/Praga]]

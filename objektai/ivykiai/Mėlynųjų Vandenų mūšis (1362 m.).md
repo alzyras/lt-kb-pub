@@ -212,8 +212,5 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] dalyvavo_musyje Mėlynųjų Vandenų mūšis (1362 m.)
-- [[objektai/grupes/Totoriai]] dalyvavo_musyje Mėlynųjų Vandenų mūšis (1362 m.)
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] surenge_zygi_i Mėlynųjų Vandenų mūšis (1362 m.)
-- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje Mėlynųjų Vandenų mūšis (1362 m.)
-- [[objektai/asmenys/Dmitrijus (totorių vadas)]] dalyvavo_musyje Mėlynųjų Vandenų mūšis (1362 m.)
+- Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Turėjo dalyvį: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Dmitrijus (totorių vadas)]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Totoriai]]

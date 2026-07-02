@@ -50,4 +50,4 @@ X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/MGB]] apgule Gulbiniškiai
+- Apgulė Gulbiniškiai: [[objektai/grupes/MGB]]

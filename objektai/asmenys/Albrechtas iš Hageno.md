@@ -123,8 +123,7 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     - t-001
 
 ## Ryšiai
-- Albrechtas iš Hageno puole [[objektai/asmenys/Sudargas]]
-- Albrechtas iš Hageno puole [[objektai/vietos/Gardinas]]
-- Albrechtas iš Hageno kariavo_pries [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Konradas]] buvo_sajungininkas_su Albrechtas iš Hageno
-- Albrechtas iš Hageno gyne [[objektai/grupes/Skalviai]]
+- Sąjungininkai: [[objektai/asmenys/Konradas]]
+- Albrechtas iš Hageno puolė [[objektai/vietos/Gardinas]], [[objektai/asmenys/Sudargas]]
+- Albrechtas iš Hageno gynė [[objektai/grupes/Skalviai]]
+- Albrechtas iš Hageno kariavo prieš [[objektai/grupes/Lietuviai]]

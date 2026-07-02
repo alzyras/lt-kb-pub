@@ -64,4 +64,4 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
     - t-001
 
 ## Ryšiai
-- Giunteris iš Regenšteino puole [[objektai/vietos/Pilaitė]]
+- Giunteris iš Regenšteino puolė [[objektai/vietos/Pilaitė]]

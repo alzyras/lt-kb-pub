@@ -168,4 +168,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] puole Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)
+- Puolė Augustavo-Suvalkų operaciją (1920 m. rugsėjo 22 d. – rugsėjo pabaiga): [[objektai/grupes/Lenkai]]

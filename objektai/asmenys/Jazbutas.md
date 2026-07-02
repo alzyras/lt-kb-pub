@@ -118,8 +118,6 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
     - t-004
 
 ## Ryšiai
-- Jazbutas puole [[objektai/asmenys/Henrikas Cutsvertas]]
-- Jazbutas buvo_priesas [[objektai/asmenys/Henrikas Cutsvertas]]
-- Jazbutas surenge_zygi_i [[objektai/vietos/Lenkija]]
-- Jazbutas puole [[objektai/vietos/Lenkija]]
-- Jazbutas puole [[objektai/grupes/Kryžiuočių ordinas]]
+- Priešai: [[objektai/asmenys/Henrikas Cutsvertas]]
+- Jazbutas puolė [[objektai/asmenys/Henrikas Cutsvertas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lenkija]]
+- Jazbutas surengė žygį į [[objektai/vietos/Lenkija]]

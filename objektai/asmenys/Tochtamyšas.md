@@ -154,8 +154,7 @@ Tochtamyšas buvo totorių chanas, kuris, neįveikęs Kerim Berdžio, su svarbia
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Saladinas]] buvo_sunus Tochtamyšas
-- [[objektai/asmenys/Kerim Berdis]] puole Tochtamyšas
-- Tochtamyšas buvo_brolis [[objektai/asmenys/Kerim Berdis]]
-- Tochtamyšas buvo_sajungininkas_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_sajungininkas_su Tochtamyšas
+- Sūnūs: [[objektai/asmenys/Saladinas]]
+- Broliai: [[objektai/asmenys/Kerim Berdis]]
+- Sąjungininkai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Tochtamyšą: [[objektai/asmenys/Kerim Berdis]]

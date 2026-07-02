@@ -220,8 +220,8 @@ Augustas II, 1697 m. išrinktas ATR valdovu, siekė stiprinti valdžią ir paver
     - t-007
 
 ## Ryšiai
-- [[objektai/asmenys/Petras I Didysis]] sudare_sutarti_su Augustas II
-- Augustas II sudare_sutarti_su [[objektai/asmenys/Karolis XII]]
-- Augustas II kariavo_pries [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Karolis XII]] puole Augustas II
-- Augustas II keliavo_i [[objektai/vietos/Altrandštatas]]
+- Puolė Augustas II: [[objektai/asmenys/Karolis XII]]
+- Sudarė sutartį su: [[objektai/asmenys/Petras I Didysis]]
+- Augustas II keliavo į [[objektai/vietos/Altrandštatas]]
+- Augustas II kariavo prieš [[objektai/grupes/Švedai]]
+- Augustas II sudarė sutartį su [[objektai/asmenys/Karolis XII]]

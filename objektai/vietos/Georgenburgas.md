@@ -152,7 +152,7 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Georgenburgas
-- [[objektai/grupes/Lietuviai]] apgule Georgenburgas
-- [[objektai/grupes/Vokiečiai]] gyne Georgenburgas
-- Georgenburgas priklause [[objektai/vietos/Karšuvos sritis]]
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Apgulė Georgenburgą: [[objektai/grupes/Lietuviai]]
+- Gynė Georgenburgą: [[objektai/grupes/Vokiečiai]]
+- Georgenburgas priklausė [[objektai/vietos/Karšuvos sritis]]

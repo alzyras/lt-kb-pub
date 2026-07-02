@@ -180,6 +180,5 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
     - t-004
 
 ## Ryšiai
-- Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Trakai]]
-- Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Vilnius]]
-- Mazovijos kunigaikščiai uzeme [[objektai/vietos/Palenkė]]
+- Mazovijos kunigaikščiai keliavo į [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Mazovijos kunigaikščiai užėmė [[objektai/vietos/Palenkė]]

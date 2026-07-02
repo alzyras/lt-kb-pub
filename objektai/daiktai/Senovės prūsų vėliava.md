@@ -76,4 +76,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- Senovės prūsų vėliava priklause [[objektai/grupes/Prūsai]]
+- Senovės prūsų vėliava priklausė [[objektai/grupes/Prūsai]]

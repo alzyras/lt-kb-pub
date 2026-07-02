@@ -62,4 +62,4 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
     - t-001
 
 ## Ryšiai
-- Alfonsas Vildžiūnas-Vijoklis keliavo_i [[objektai/vietos/Butkiškio vienkiemis]]
+- Alfonsas Vildžiūnas-Vijoklis keliavo į [[objektai/vietos/Butkiškio vienkiemis]]

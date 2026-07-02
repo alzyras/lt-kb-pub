@@ -79,5 +79,5 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
     - t-001
 
 ## Ryšiai
-- Petras iš Kustynės keliavo_i [[objektai/vietos/Konstancija]]
+- Petras iš Kustynės keliavo į [[objektai/vietos/Konstancija]]
 - Petras iš Kustynės gyveno [[objektai/vietos/Vilnius]]

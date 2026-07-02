@@ -126,7 +126,6 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras Balinskis]] valde Jašiūnai
-- [[objektai/grupes/Radvilos]] valde Jašiūnai
-- [[objektai/asmenys/Aleksandras Balinskis]] gyveno Jašiūnai
-- [[objektai/asmenys/Aleksandras Balinskis]] buvo_palaidotas Jašiūnai
+- Buvo valdoma: [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/grupes/Radvilos]]
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Aleksandras Balinskis]]
+- Gyvenamoji vieta: [[objektai/asmenys/Aleksandras Balinskis]]

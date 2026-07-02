@@ -149,4 +149,4 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
     - t-003
 
 ## Ryšiai
-- Jonas XXII (arkivyskupas, XIV a.) siunte_i [[objektai/vietos/Livonija]]
+- Jonas XXII (arkivyskupas, XIV a.) siuntė į [[objektai/vietos/Livonija]]

@@ -289,5 +289,4 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
     - t-012
 
 ## Ryšiai
-- Edukacinė Komisija priklause [[objektai/vietos/Lenkija]]
-- Edukacinė Komisija priklause [[objektai/vietos/Lietuva]]
+- Edukacinė Komisija priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

@@ -74,4 +74,4 @@ Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu
     - t-001
 
 ## Ryšiai
-- Rumbautas keliavo_i [[objektai/vietos/Vilnius]]
+- Rumbautas keliavo į [[objektai/vietos/Vilnius]]

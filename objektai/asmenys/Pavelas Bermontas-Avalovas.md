@@ -54,5 +54,4 @@ Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. va
     - t-001
 
 ## Ryšiai
-- Pavelas Bermontas-Avalovas buvo_sajungininkas_su [[objektai/grupes/Rusai]]
-- Pavelas Bermontas-Avalovas buvo_sajungininkas_su [[objektai/grupes/Vokiečiai]]
+- Sąjungininkai: [[objektai/grupes/Rusai]], [[objektai/grupes/Vokiečiai]]

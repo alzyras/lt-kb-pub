@@ -97,5 +97,4 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
     - t-002
 
 ## Ryšiai
-- Vaistotpilis priklause [[objektai/grupes/Prūsai]]
-- Vaistotpilis priklause [[objektai/vietos/Barta]]
+- Vaistotpilis priklausė [[objektai/vietos/Barta]], [[objektai/grupes/Prūsai]]

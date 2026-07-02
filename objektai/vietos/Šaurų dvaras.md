@@ -86,5 +86,5 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Teodoras Narbutas]] gime Šaurų dvaras
-- [[objektai/grupes/Narbutai]] priklause Šaurų dvaras
+- Gimimo vieta: [[objektai/asmenys/Teodoras Narbutas]]
+- Turėjo priklausinį: [[objektai/grupes/Narbutai]]

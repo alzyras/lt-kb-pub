@@ -83,6 +83,6 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
     - t-001
 
 ## Ryšiai
-- Smolensko pulkai uzeme [[objektai/vietos/Vitebskas]]
-- Smolensko pulkai kariavo_pries [[objektai/asmenys/Švitrigaila]]
-- Smolensko pulkai buvo_sajungininkas_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Sąjungininkai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Smolensko pulkai užėmė [[objektai/vietos/Vitebskas]]
+- Smolensko pulkai kariavo prieš [[objektai/asmenys/Švitrigaila]]

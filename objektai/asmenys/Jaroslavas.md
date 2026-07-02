@@ -62,6 +62,6 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
     - t-001
 
 ## Ryšiai
-- Jaroslavas surenge_zygi_i [[objektai/vietos/Lietuva]]
-- Jaroslavas buvo_valdovas [[objektai/vietos/Kijevo Rusia]]
-- Jaroslavas pastate [[objektai/vietos/Naugardukas]]
+- Jaroslavas buvo valdovas [[objektai/vietos/Kijevo Rusia]]
+- Jaroslavas pastatė [[objektai/vietos/Naugardukas]]
+- Jaroslavas surengė žygį į [[objektai/vietos/Lietuva]]

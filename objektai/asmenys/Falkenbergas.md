@@ -41,4 +41,4 @@ Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok.
     - t-001
 
 ## Ryšiai
-- Falkenbergas reme [[objektai/grupes/Kryžiuočių ordinas]]
+- Falkenbergas rėmė [[objektai/grupes/Kryžiuočių ordinas]]

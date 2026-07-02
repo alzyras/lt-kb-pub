@@ -69,5 +69,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Pilaitės pilkapis prie Sudervėlės priklause [[objektai/vietos/Sudervėlė]]
-- Pilaitės pilkapis prie Sudervėlės priklause [[objektai/vietos/Pilaitė]]
+- Pilaitės pilkapis prie Sudervėlės priklausė [[objektai/vietos/Pilaitė]], [[objektai/vietos/Sudervėlė]]

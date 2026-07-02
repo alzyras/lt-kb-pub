@@ -103,4 +103,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Altorius priklause [[objektai/vietos/Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b]]
+- Altorius priklausė [[objektai/vietos/Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b]]

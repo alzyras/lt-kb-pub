@@ -91,4 +91,4 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
     - t-002
 
 ## Ryšiai
-- Bolševikų 2-asis šaulių pulkas keliavo_i [[objektai/vietos/Kėdainiai]]
+- Bolševikų 2-asis šaulių pulkas keliavo į [[objektai/vietos/Kėdainiai]]

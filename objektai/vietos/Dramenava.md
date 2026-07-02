@@ -94,5 +94,5 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Teutonai]] puole Dramenava
-- [[objektai/vietos/Pabečiai]] priklause Dramenava
+- Puolė Dramenavą: [[objektai/grupes/Teutonai]]
+- Turėjo priklausinį: [[objektai/vietos/Pabečiai]]

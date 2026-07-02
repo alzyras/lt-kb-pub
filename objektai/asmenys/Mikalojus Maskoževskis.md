@@ -51,4 +51,4 @@ Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­ niūnas“, k
     - t-001
 
 ## Ryšiai
-- Mikalojus Maskoževskis keliavo_i [[objektai/vietos/Lietuva]]
+- Mikalojus Maskoževskis keliavo į [[objektai/vietos/Lietuva]]

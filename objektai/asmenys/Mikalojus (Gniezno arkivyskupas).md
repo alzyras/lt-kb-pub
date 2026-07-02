@@ -49,4 +49,4 @@ Jono, Gniezno arkivysk.
     - t-001
 
 ## Ryšiai
-- Mikalojus (Gniezno arkivyskupas) keliavo_i [[objektai/vietos/Konstancija]]
+- Mikalojus (Gniezno arkivyskupas) keliavo į [[objektai/vietos/Konstancija]]

@@ -586,27 +586,15 @@ Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir 
     - t-015
 
 ## Ryšiai
-- [[objektai/asmenys/Tame (Baigos brolis)]] gyveno Baiga
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Baiga
-- [[objektai/asmenys/Pijopas]] apgule Baiga
-- [[objektai/grupes/Sembai]] siunte_i Baiga
-- [[objektai/grupes/Bartai]] puole Baiga
-- [[objektai/grupes/Notangai]] puole Baiga
-- [[objektai/asmenys/Otokaras II]] keliavo_i Baiga
-- [[objektai/asmenys/Skumas]] surenge_zygi_i Baiga
-- [[objektai/asmenys/Stucė]] surenge_zygi_i Baiga
-- [[objektai/grupes/Kryžiuočių ordinas]] gyveno Baiga
-- [[objektai/asmenys/Pijopas]] mire Baiga
-- [[objektai/asmenys/Ruseinis]] keliavo_i Baiga
-- [[objektai/grupes/Vokietijos maldininkai]] gyne Baiga
-- Baiga priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Stucė]] keliavo_i Baiga
-- [[objektai/grupes/Varmiai]] apgule Baiga
-- [[objektai/grupes/Gubučiai]] puole Baiga
-- [[objektai/asmenys/Pobravas]] siunte_i Baiga
-- [[objektai/asmenys/Pomandas]] apgule Baiga
-- [[objektai/grupes/Varmiai]] keliavo_i Baiga
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Baiga
-- [[objektai/asmenys/Pobravas]] puole Baiga
-- [[objektai/asmenys/Kodrūnas]] uzeme Baiga
-- [[objektai/daiktai/Įtvirtintas malūnas prie Baigos]] priklause Baiga
+- Buvo kelionės vieta: [[objektai/asmenys/Otokaras II]], [[objektai/asmenys/Ruseinis]], [[objektai/asmenys/Stucė]], [[objektai/grupes/Varmiai]]
+- Mirties vieta: [[objektai/asmenys/Pijopas]]
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Baigą: [[objektai/grupes/Bartai]], [[objektai/grupes/Gubučiai]], [[objektai/grupes/Notangai]], [[objektai/asmenys/Pobravas]]
+- Apgulė Baigą: [[objektai/asmenys/Pijopas]], [[objektai/asmenys/Pomandas]], [[objektai/grupes/Varmiai]]
+- Užėmė Baigą: [[objektai/asmenys/Kodrūnas]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Gynė Baigą: [[objektai/grupes/Vokietijos maldininkai]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Pobravas]], [[objektai/grupes/Sembai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Skumas]], [[objektai/asmenys/Stucė]]
+- Gyvenamoji vieta: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Tame (Baigos brolis)]]
+- Turėjo priklausinį: [[objektai/daiktai/Įtvirtintas malūnas prie Baigos]]
+- Baiga priklausė [[objektai/grupes/Kryžiuočių ordinas]]

@@ -267,5 +267,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Sembai]] puole Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai
-- [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai
+- Puolė Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: [[objektai/grupes/Sembai]]
+- Turėjo dalyvį: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -55,4 +55,4 @@ Teodoras Nemyra, sužeistas ir beveik išsekęs, su kardu rankoje prasiskynė ke
     - t-001
 
 ## Ryšiai
-- Teodoras Nemyra dalyvavo_musyje [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]
+- Teodoras Nemyra dalyvavo mūšyje [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]

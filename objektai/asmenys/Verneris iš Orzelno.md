@@ -367,6 +367,6 @@ Verneris iš Orzelno buvo Kryžiuočių ordino didysis magistras, Dusburgiečio 
     - t-015
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas iš Endorfo]] puole Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)
-- Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.) apgule [[objektai/vietos/Medvėgalis]]
-- Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.) surenge_zygi_i [[objektai/vietos/Lietuva]]
+- Puolė Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): [[objektai/asmenys/Jonas iš Endorfo]]
+- Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.) apgulė [[objektai/vietos/Medvėgalis]]
+- Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.) surengė žygį į [[objektai/vietos/Lietuva]]

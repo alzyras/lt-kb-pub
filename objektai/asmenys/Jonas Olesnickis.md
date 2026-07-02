@@ -294,4 +294,4 @@ Jonas Olesnickis 1390 m. perėmė ankstesnio pareigūno vietą Vilniuje ir veik�
     - t-012
 
 ## Ryšiai
-- Jonas Olesnickis puole [[objektai/grupes/Vokiečiai]]
+- Jonas Olesnickis puolė [[objektai/grupes/Vokiečiai]]

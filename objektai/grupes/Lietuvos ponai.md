@@ -52,6 +52,5 @@ Narbutas rašė, kad Lietuvos ponai 1316 m. sausį Lietuvos didžiuoju kunigaik�
     - t-001
 
 ## Ryšiai
-- Lietuvos ponai paskyre [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Lietuvos ponai siunte_i [[objektai/vietos/Polockas]]
-- Lietuvos ponai paskyre [[objektai/asmenys/Liutauras]]
+- Lietuvos ponai siuntė į [[objektai/vietos/Polockas]]
+- Lietuvos ponai paskyrė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Liutauras]]

@@ -53,5 +53,4 @@ Lenkų ir lietuvių seimai po ilgų ginčų nutarė susitikti Lomžoje, pusiauke
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] keliavo_i Lomža
-- [[objektai/grupes/Lietuviai]] keliavo_i Lomža
+- Buvo kelionės vieta: [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]]

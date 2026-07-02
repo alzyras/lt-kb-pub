@@ -323,5 +323,5 @@ periodo_grupes: []
     - t-011
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] vede Elžbieta
-- Elžbieta keliavo_i [[objektai/vietos/Vilnius]]
+- Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Elžbieta keliavo į [[objektai/vietos/Vilnius]]

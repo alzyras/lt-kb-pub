@@ -1751,80 +1751,26 @@ tags:
     - t-019
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas Olesnickis]] puole Vokiečiai
-- [[objektai/grupes/Lietuviai]] kariavo_pries Vokiečiai
-- [[objektai/grupes/Rusų pirkliai]] prekiavo_su Vokiečiai
-- Vokiečiai uzeme [[objektai/vietos/Kauno tvirtovė]]
-- Vokiečiai uzeme [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Parusėnai]] kariavo_pries Vokiečiai
-- Vokiečiai uzeme [[objektai/vietos/Kaunas]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]] sudare_sutarti_su Vokiečiai
-- [[objektai/grupes/Lietuviai]] puole Vokiečiai
-- Vokiečiai uzeme [[objektai/vietos/Vyžuonos]]
-- Vokiečiai kariavo_pries [[objektai/grupes/Lietuviai]]
-- Vokiečiai keliavo_i [[objektai/vietos/Karaliaučius]]
-- Vokiečiai keliavo_i [[objektai/vietos/Padauguvis]]
-- Vokiečiai puole [[objektai/vietos/Žemaitija]]
-- Vokiečiai reme [[objektai/asmenys/P. Bermontas-Avalovas]]
-- Vokiečiai puole [[objektai/vietos/Lietuva]]
-- [[objektai/daiktai/Vėliavos]] priklause Vokiečiai
-- [[objektai/vietos/Kulmo žemė]] priklause Vokiečiai
-- Vokiečiai puole [[objektai/vietos/Semba]]
-- Vokiečiai uzeme [[objektai/vietos/Klaipėdos kraštas]]
-- [[objektai/grupes/Žemaičiai]] puole Vokiečiai
-- [[objektai/grupes/Baltai]] kariavo_pries Vokiečiai
-- Vokiečiai keliavo_i [[objektai/vietos/Vilnius]]
-- Vokiečiai puole [[objektai/vietos/Kaunas]]
-- Vokiečiai uzkariavo [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Žemaičiai]] kariavo_pries Vokiečiai
-- [[objektai/grupes/Lietuviai]] buvo_priesas Vokiečiai
-- [[objektai/daiktai/Pistoletas-kulkosvaidis MP 40]] priklause Vokiečiai
-- Vokiečiai dalyvavo_musyje [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
-- Vokiečiai puole [[objektai/grupes/Lenkai]]
-- Vokiečiai puole [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Vokiečiai uzeme [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Škotai]] reme Vokiečiai
-- Vokiečiai gyne [[objektai/vietos/Georgenburgas]]
-- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Vokiečiai
-- [[objektai/grupes/Rusai]] prekiavo_su Vokiečiai
-- Vokiečiai uzkariavo [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Anglai]] reme Vokiečiai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] kariavo_pries Vokiečiai
-- [[objektai/grupes/Prancūzai]] reme Vokiečiai
-- Vokiečiai puole [[objektai/grupes/Prūsai]]
-- Vokiečiai puole [[objektai/grupes/Žemaičiai]]
-- Vokiečiai surenge_zygi_i [[objektai/vietos/Neries sritis]]
-- Vokiečiai uzeme [[objektai/vietos/Sūduva]]
-- [[objektai/grupes/Žemaičiai]] buvo_priesas Vokiečiai
-- [[objektai/vietos/Maskva]] prekiavo_su Vokiečiai
-- [[objektai/vietos/Rusija]] prekiavo_su Vokiečiai
-- Vokiečiai reme [[objektai/grupes/Lietuviai]]
-- Vokiečiai surenge_zygi_i [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Jotvingiai]] kariavo_pries Vokiečiai
-- [[objektai/grupes/Lietuviai]] reme Vokiečiai
-- [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18]] priklause Vokiečiai
-- [[objektai/grupes/Poloviečiai]] kariavo_pries Vokiečiai
-- [[objektai/grupes/Rusai]] kariavo_pries Vokiečiai
-- Vokiečiai pastate [[objektai/vietos/Bartenšteinas]]
-- Vokiečiai pastate [[objektai/vietos/Rezlis]]
-- Vokiečiai pastate [[objektai/vietos/Vizenburgas]]
-- Vokiečiai prekiavo_su [[objektai/vietos/Vilnius]]
-- Vokiečiai uzeme [[objektai/vietos/Jeruzalė]]
-- [[objektai/asmenys/Henne]] reme Vokiečiai
-- [[objektai/asmenys/Hennė (Ordino agentas)]] reme Vokiečiai
-- Vokiečiai keliavo_i [[objektai/vietos/Prūsija]]
-- Vokiečiai puole [[objektai/vietos/Vilnius]]
-- Vokiečiai uzeme [[objektai/vietos/Alytus]]
-- [[objektai/grupes/Žemaičiai]] priklause Vokiečiai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] kariavo_pries Vokiečiai
-- Vokiečiai dalyvavo_musyje [[objektai/ivykiai/Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas]]
-- Vokiečiai gyveno [[objektai/vietos/Lietuva]]
-- Vokiečiai surenge_zygi_i [[objektai/vietos/Lietuva]]
-- Vokiečiai dalyvavo_musyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]
-- Vokiečiai valde [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Pavelas Bermontas-Avalovas]] buvo_sajungininkas_su Vokiečiai
-- Vokiečiai apgule [[objektai/vietos/Veliuona]]
-- Vokiečiai keliavo_i [[objektai/vietos/Jeruzalė]]
-- Vokiečiai reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Vokiečiai paskyre [[objektai/asmenys/Petras Kubiliūnas]]
-- Vokiečiai gyveno [[objektai/vietos/Kaunas]]
+- Priešai: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Žemaičiai]]
+- Sąjungininkai: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Pavelas Bermontas-Avalovas]]
+- Puolė Vokiečiai: [[objektai/asmenys/Jonas Olesnickis]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Žemaičiai]]
+- Kariavo prieš: [[objektai/grupes/Baltai]], [[objektai/grupes/Jotvingiai]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/grupes/Parusėnai]], [[objektai/grupes/Poloviečiai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Žemaičiai]]
+- Sudarė sutartį su: [[objektai/grupes/Didžiojo Naugardo respublika]]
+- Prekiavo su: [[objektai/vietos/Maskva]], [[objektai/grupes/Rusai]], [[objektai/vietos/Rusija]], [[objektai/grupes/Rusų pirkliai]]
+- Rėmė Vokiečiai: [[objektai/grupes/Anglai]], [[objektai/asmenys/Henne]], [[objektai/asmenys/Hennė (Ordino agentas)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Prancūzai]], [[objektai/grupes/Škotai]]
+- Turėjo priklausinį: [[objektai/vietos/Kulmo žemė]], [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18]], [[objektai/daiktai/Pistoletas-kulkosvaidis MP 40]], [[objektai/daiktai/Vėliavos]], [[objektai/grupes/Žemaičiai]]
+- Vokiečiai valdė [[objektai/vietos/Lietuva]]
+- Vokiečiai keliavo į [[objektai/vietos/Jeruzalė]], [[objektai/vietos/Karaliaučius]], [[objektai/vietos/Padauguvis]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Vilnius]]
+- Vokiečiai pastatė [[objektai/vietos/Bartenšteinas]], [[objektai/vietos/Rezlis]], [[objektai/vietos/Vizenburgas]]
+- Vokiečiai puolė [[objektai/vietos/Kaunas]], [[objektai/grupes/Lenkai]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Prūsai]], [[objektai/vietos/Semba]], [[objektai/vietos/Vilnius]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/grupes/Žemaičiai]], [[objektai/vietos/Žemaitija]]
+- Vokiečiai apgulė [[objektai/vietos/Veliuona]]
+- Vokiečiai užėmė [[objektai/vietos/Alytus]], [[objektai/vietos/Jeruzalė]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kauno tvirtovė]], [[objektai/vietos/Klaipėdos kraštas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Sūduva]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vyžuonos]]
+- Vokiečiai gynė [[objektai/vietos/Georgenburgas]]
+- Vokiečiai surengė žygį į [[objektai/vietos/Lietuva]], [[objektai/vietos/Neries sritis]], [[objektai/vietos/Vilnius]]
+- Vokiečiai kariavo prieš [[objektai/grupes/Lietuviai]]
+- Vokiečiai dalyvavo mūšyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]], [[objektai/ivykiai/Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas]], [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
+- Vokiečiai prekiavo su [[objektai/vietos/Vilnius]]
+- Vokiečiai gyveno [[objektai/vietos/Kaunas]], [[objektai/vietos/Lietuva]]
+- Vokiečiai paskyrė [[objektai/asmenys/Petras Kubiliūnas]]
+- Vokiečiai rėmė [[objektai/grupes/Lietuviai]], [[objektai/asmenys/P. Bermontas-Avalovas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Vokiečiai užkariavo [[objektai/grupes/Baltai]], [[objektai/vietos/Livonija]]

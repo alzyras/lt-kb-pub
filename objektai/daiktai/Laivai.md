@@ -512,7 +512,5 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Enėjas]] pastate Laivai
-- [[objektai/asmenys/Verneris (Ragainės komtūras)]] pastate Laivai
-- Laivai priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- Laivai priklause [[objektai/grupes/Romėnai]]
+- Buvo pastatyta: [[objektai/asmenys/Enėjas]], [[objektai/asmenys/Verneris (Ragainės komtūras)]]
+- Laivai priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Romėnai]]

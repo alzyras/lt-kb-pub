@@ -57,4 +57,4 @@ Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmi
     - t-001
 
 ## Ryšiai
-- Ludza priklause [[objektai/vietos/Lietuva]]
+- Ludza priklausė [[objektai/vietos/Lietuva]]

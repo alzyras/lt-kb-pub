@@ -136,9 +136,8 @@ Ditrichas iš Altenburgo minimas kaip Vokiečių ordino pareigūnas ir magistras
     - t-002
 
 ## Ryšiai
-- Ditrichas iš Altenburgo pastate [[objektai/vietos/Lunenburgas]]
-- Ditrichas iš Altenburgo keliavo_i [[objektai/vietos/Bisenė]]
-- Ditrichas iš Altenburgo surenge_zygi_i [[objektai/vietos/Bisenė]]
-- Ditrichas iš Altenburgo uzeme [[objektai/vietos/Bisenė]]
-- Ditrichas iš Altenburgo puole [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Ditrichas iš Altenburgo puole [[objektai/grupes/Lietuviai]]
+- Ditrichas iš Altenburgo keliavo į [[objektai/vietos/Bisenė]]
+- Ditrichas iš Altenburgo pastatė [[objektai/vietos/Lunenburgas]]
+- Ditrichas iš Altenburgo puolė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Lietuviai]]
+- Ditrichas iš Altenburgo užėmė [[objektai/vietos/Bisenė]]
+- Ditrichas iš Altenburgo surengė žygį į [[objektai/vietos/Bisenė]]

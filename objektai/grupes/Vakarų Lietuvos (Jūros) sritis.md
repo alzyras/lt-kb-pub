@@ -88,5 +88,5 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Pietų Lietuvos sritis]] buvo_sajungininkas_su Vakarų Lietuvos (Jūros) sritis
-- Vakarų Lietuvos (Jūros) sritis keliavo_i [[objektai/vietos/Minaičių kaimas]]
+- Sąjungininkai: [[objektai/grupes/Pietų Lietuvos sritis]]
+- Vakarų Lietuvos (Jūros) sritis keliavo į [[objektai/vietos/Minaičių kaimas]]

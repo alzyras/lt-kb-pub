@@ -66,6 +66,6 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Piltenė
-- [[objektai/grupes/Lietuviai]] apgule Piltenė
-- Piltenė priklause [[objektai/vietos/Kuršas]]
+- Puolė Piltenę: [[objektai/grupes/Lietuviai]]
+- Apgulė Piltenę: [[objektai/grupes/Lietuviai]]
+- Piltenė priklausė [[objektai/vietos/Kuršas]]

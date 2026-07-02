@@ -59,6 +59,6 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
     - t-001
 
 ## Ryšiai
-- Didžiojo Naugardo bojarinai sudare_sutarti_su [[objektai/asmenys/Švitrigaila]]
-- Didžiojo Naugardo bojarinai keliavo_i [[objektai/vietos/Vilnius]]
-- Didžiojo Naugardo bojarinai priklause [[objektai/grupes/Didžiojo Naugardo respublika]]
+- Didžiojo Naugardo bojarinai keliavo į [[objektai/vietos/Vilnius]]
+- Didžiojo Naugardo bojarinai sudarė sutartį su [[objektai/asmenys/Švitrigaila]]
+- Didžiojo Naugardo bojarinai priklausė [[objektai/grupes/Didžiojo Naugardo respublika]]

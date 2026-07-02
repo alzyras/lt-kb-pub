@@ -51,6 +51,6 @@ Yra duomenų, kad toliau žygiuojant buvo pasiektas pietinėje Krymo pakrantėje
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Musat-chanas]] valde Kafa
-- Kafa prekiavo_su [[objektai/vietos/Lietuva]]
-- Kafa priklause [[objektai/vietos/Lietuva]]
+- Buvo valdoma: [[objektai/asmenys/Musat-chanas]]
+- Kafa prekiavo su [[objektai/vietos/Lietuva]]
+- Kafa priklausė [[objektai/vietos/Lietuva]]

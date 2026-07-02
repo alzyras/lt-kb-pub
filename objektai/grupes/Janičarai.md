@@ -49,5 +49,5 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
     - t-001
 
 ## Ryšiai
-- Janičarai puole [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Lisovčikai]] puole Janičarai
+- Puolė Janičarai: [[objektai/grupes/Lisovčikai]]
+- Janičarai puolė [[objektai/grupes/Kazokai]]

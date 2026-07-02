@@ -43,4 +43,4 @@ Vilniuje susirinkus lietuvių seimui, Jonas Ritvianskis atvyko kaip Lenkijos pas
     - t-001
 
 ## Ryšiai
-- Jonas Ritvianskis keliavo_i [[objektai/vietos/Vilnius]]
+- Jonas Ritvianskis keliavo į [[objektai/vietos/Vilnius]]

@@ -69,5 +69,5 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Konradas]] puole Mėrūniškis
-- Mėrūniškis priklause [[objektai/vietos/Sūduva]]
+- Puolė Mėrūniškį: [[objektai/asmenys/Konradas]]
+- Mėrūniškis priklausė [[objektai/vietos/Sūduva]]

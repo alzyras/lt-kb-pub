@@ -85,4 +85,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Stulpai priklause [[objektai/grupes/Gediminaičių dinastija]]
+- Stulpai priklausė [[objektai/grupes/Gediminaičių dinastija]]

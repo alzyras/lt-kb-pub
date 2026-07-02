@@ -365,6 +365,5 @@ Baltijos jūra Lietuvos istorijos šaltiniuose iškyla kaip pakrantė, siejama s
     - t-011
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] uzeme Baltijos jūra
-- [[objektai/grupes/Slavai]] uzeme Baltijos jūra
-- [[objektai/grupes/Čeltyčios]] gyveno Baltijos jūra
+- Užėmė Baltijos jūrą: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Slavai]]
+- Gyvenamoji vieta: [[objektai/grupes/Čeltyčios]]

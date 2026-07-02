@@ -184,5 +184,5 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     - t-008
 
 ## Ryšiai
-- [[objektai/grupes/JAV Kongresas]] priklause JAV
-- [[objektai/grupes/Lietuviai]] keliavo_i JAV
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
+- Turėjo priklausinį: [[objektai/grupes/JAV Kongresas]]

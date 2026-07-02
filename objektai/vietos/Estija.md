@@ -239,11 +239,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Sovietų Sąjunga]] uzkariavo Estija
-- Estija priklause [[objektai/vietos/Rytų kraštas (Ostlandas)]]
-- [[objektai/grupes/Lietuviai]] gyveno Estija
-- Estija priklause [[objektai/grupes/Baltijos valstybės]]
-- [[objektai/grupes/Lietuvių Draugija Estijoje]] gyveno Estija
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]] puole Estija
-- Estija priklause [[objektai/vietos/SSRS]]
-- [[objektai/grupes/Nacių Vokietija]] valde_teritorija Estija
+- Buvo valdoma: [[objektai/grupes/Nacių Vokietija]]
+- Puolė Estiją: [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
+- Buvo užkariauta: [[objektai/grupes/Sovietų Sąjunga]]
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvių Draugija Estijoje]]
+- Estija priklausė [[objektai/grupes/Baltijos valstybės]], [[objektai/vietos/Rytų kraštas (Ostlandas)]], [[objektai/vietos/SSRS]]

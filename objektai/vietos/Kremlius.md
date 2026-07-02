@@ -105,7 +105,7 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] puole Kremlius
-- Kremlius priklause [[objektai/vietos/Pskovas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] apgule Kremlius
-- [[objektai/asmenys/Dmitrijus]] gyveno Kremlius
+- Puolė Kremlių: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Apgulė Kremlių: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Gyvenamoji vieta: [[objektai/asmenys/Dmitrijus]]
+- Kremlius priklausė [[objektai/vietos/Pskovas]]

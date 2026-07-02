@@ -115,5 +115,5 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
     - t-003
 
 ## Ryšiai
-- L. Želigovskis puole [[objektai/grupes/oji pėstininkų divizija]]
-- L. Želigovskis keliavo_i [[objektai/vietos/Vilnius]]
+- L. Želigovskis keliavo į [[objektai/vietos/Vilnius]]
+- L. Želigovskis puolė [[objektai/grupes/oji pėstininkų divizija]]

@@ -45,4 +45,4 @@ Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Budinai]] gyveno Araksas
+- Gyvenamoji vieta: [[objektai/grupes/Budinai]]

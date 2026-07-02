@@ -109,6 +109,6 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] reme Andrius Vingaudas
-- Andrius Vingaudas buvo_valdovas [[objektai/vietos/Trubčevskas]]
-- Andrius Vingaudas puole [[objektai/grupes/Lietuviai]]
+- Rėmė Andrius Vingaudą: [[objektai/grupes/Kryžiuočių ordinas]]
+- Andrius Vingaudas buvo valdovas [[objektai/vietos/Trubčevskas]]
+- Andrius Vingaudas puolė [[objektai/grupes/Lietuviai]]

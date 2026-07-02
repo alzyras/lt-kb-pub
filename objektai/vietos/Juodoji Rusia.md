@@ -75,4 +75,4 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
     - t-002
 
 ## Ryšiai
-- Juodoji Rusia priklause [[objektai/vietos/Lietuva]]
+- Juodoji Rusia priklausė [[objektai/vietos/Lietuva]]

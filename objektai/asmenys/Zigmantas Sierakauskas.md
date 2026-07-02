@@ -203,7 +203,6 @@ Zigmantas Sierakauskas 1863 m. pavasarį buvo paskirtas vyriausiuoju Lietuvos su
     - t-001
 
 ## Ryšiai
-- Zigmantas Sierakauskas mire [[objektai/vietos/Vilnius]]
-- Zigmantas Sierakauskas paskyre [[objektai/asmenys/Antanas Mackevičius]]
-- Zigmantas Sierakauskas keliavo_i [[objektai/vietos/Svėdasai]]
-- Zigmantas Sierakauskas keliavo_i [[objektai/vietos/Kaunas]]
+- Zigmantas Sierakauskas keliavo į [[objektai/vietos/Kaunas]], [[objektai/vietos/Svėdasai]]
+- Zigmantas Sierakauskas mirė [[objektai/vietos/Vilnius]]
+- Zigmantas Sierakauskas paskyrė [[objektai/asmenys/Antanas Mackevičius]]

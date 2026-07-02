@@ -77,5 +77,5 @@ st.) ir lenkė Rumuniją, Bulgariją.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vladislovas]] mire Bulgarija
-- [[objektai/asmenys/J. Basanavičius]] gyveno Bulgarija
+- Mirties vieta: [[objektai/asmenys/Vladislovas]]
+- Gyvenamoji vieta: [[objektai/asmenys/J. Basanavičius]]

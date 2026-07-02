@@ -353,10 +353,9 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, išskirtas už ištikim
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Alanta]] priklause Gabrielius Bekešas
-- [[objektai/grupes/Bajorai]] priklause Gabrielius Bekešas
-- Gabrielius Bekešas buvo_valdovas [[objektai/grupes/Vengrai]]
-- Gabrielius Bekešas reme [[objektai/grupes/Abiejų Tautų Respublika]]
-- Gabrielius Bekešas paskyre [[objektai/grupes/Vengrai]]
-- [[objektai/asmenys/Steponas Batoras]] reme Gabrielius Bekešas
-- Gabrielius Bekešas puole [[objektai/vietos/Polockas]]
+- Rėmė Gabrielius Bekešą: [[objektai/asmenys/Steponas Batoras]]
+- Turėjo priklausinį: [[objektai/vietos/Alanta]], [[objektai/grupes/Bajorai]]
+- Gabrielius Bekešas buvo valdovas [[objektai/grupes/Vengrai]]
+- Gabrielius Bekešas puolė [[objektai/vietos/Polockas]]
+- Gabrielius Bekešas paskyrė [[objektai/grupes/Vengrai]]
+- Gabrielius Bekešas rėmė [[objektai/grupes/Abiejų Tautų Respublika]]

@@ -70,5 +70,4 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
     - t-001
 
 ## Ryšiai
-- Agentai-smogikai gyveno [[objektai/vietos/Baltija]]
-- Agentai-smogikai gyveno [[objektai/vietos/Ukraina]]
+- Agentai-smogikai gyveno [[objektai/vietos/Baltija]], [[objektai/vietos/Ukraina]]

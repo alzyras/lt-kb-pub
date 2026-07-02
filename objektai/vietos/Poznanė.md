@@ -408,4 +408,4 @@ Poznanė žinių bazėje siejama su Didžiąja Lenkija, viena iš dviejų Lenkij
     - t-013
 
 ## Ryšiai
-- Poznanė priklause [[objektai/vietos/Didžioji Lenkija]]
+- Poznanė priklausė [[objektai/vietos/Didžioji Lenkija]]

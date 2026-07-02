@@ -50,4 +50,4 @@ Kambarinis Slavka savo kūnu bandė užstoti leisgyvį valdovą nuo smūgių, be
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas]] puole Slavka
+- Puolė Slavką: [[objektai/asmenys/Jonas]]

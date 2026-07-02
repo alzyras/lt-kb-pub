@@ -142,4 +142,4 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - t-003
 
 ## Ryšiai
-- [[objektai/vietos/Kremenecas]] priklause Volynija
+- Turėjo priklausinį: [[objektai/vietos/Kremenecas]]

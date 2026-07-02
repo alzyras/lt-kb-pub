@@ -66,4 +66,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Rusai]] dalyvavo_musyje Rūdninkų ir Dubičių kautynės
+- Turėjo dalyvį: [[objektai/grupes/Rusai]]

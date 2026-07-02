@@ -330,10 +330,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-007
 
 ## Ryšiai
-- [[objektai/grupes/Sūduviai]] puole Notanga
-- Notanga priklause [[objektai/vietos/Prūsija]]
-- [[objektai/asmenys/Vytenis (Lietuvos karalius)]] puole Notanga
-- [[objektai/grupes/Unzatrapio žemės gyventojai]] puole Notanga
-- [[objektai/asmenys/Fridrichas iš Holdenštetės]] puole Notanga
-- [[objektai/vietos/Kroicburgas]] priklause Notanga
-- [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]] surenge_zygi_i Notanga
+- Puolė Notangą: [[objektai/asmenys/Fridrichas iš Holdenštetės]], [[objektai/grupes/Sūduviai]], [[objektai/grupes/Unzatrapio žemės gyventojai]], [[objektai/asmenys/Vytenis (Lietuvos karalius)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]]
+- Turėjo priklausinį: [[objektai/vietos/Kroicburgas]]
+- Notanga priklausė [[objektai/vietos/Prūsija]]

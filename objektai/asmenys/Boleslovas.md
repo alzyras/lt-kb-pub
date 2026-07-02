@@ -109,7 +109,6 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     - t-002
 
 ## Ryšiai
-- Boleslovas surenge_zygi_i [[objektai/vietos/Podolė]]
-- Boleslovas puole [[objektai/vietos/Lietuva]]
-- Boleslovas valde [[objektai/vietos/Voluinė]]
-- Boleslovas puole [[objektai/asmenys/Michaila Ivanovičius]]
+- Boleslovas valdė [[objektai/vietos/Voluinė]]
+- Boleslovas puolė [[objektai/vietos/Lietuva]], [[objektai/asmenys/Michaila Ivanovičius]]
+- Boleslovas surengė žygį į [[objektai/vietos/Podolė]]

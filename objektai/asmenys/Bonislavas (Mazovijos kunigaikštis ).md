@@ -62,4 +62,4 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
     - t-001
 
 ## Ryšiai
-- Bonislavas (Mazovijos kunigaikštis ) valde [[objektai/vietos/Mazovija]]
+- Bonislavas (Mazovijos kunigaikštis ) valdė [[objektai/vietos/Mazovija]]

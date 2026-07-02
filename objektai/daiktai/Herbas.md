@@ -162,6 +162,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Herbas priklause [[objektai/asmenys/Ostapas Kropotkovas]]
-- Herbas priklause [[objektai/vietos/Vilnius]]
-- Herbas priklause [[objektai/grupes/Prūsai]]
+- Herbas priklausė [[objektai/asmenys/Ostapas Kropotkovas]], [[objektai/grupes/Prūsai]], [[objektai/vietos/Vilnius]]

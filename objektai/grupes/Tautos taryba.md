@@ -70,4 +70,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas (institucija)]] buvo_sajungininkas_su Tautos taryba (institucija)
+- Sąjungininkai: [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas (institucija)]]

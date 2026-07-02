@@ -83,5 +83,5 @@ tags:
     - t-001
 
 ## Ryšiai
-- J. Šarauskas siunte_i [[objektai/vietos/Paobeliai]]
-- J. Šarauskas kariavo_pries [[objektai/grupes/Rusai]]
+- J. Šarauskas siuntė į [[objektai/vietos/Paobeliai]]
+- J. Šarauskas kariavo prieš [[objektai/grupes/Rusai]]

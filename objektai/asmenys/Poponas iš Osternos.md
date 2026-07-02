@@ -186,6 +186,5 @@ Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjęs se
     - t-006
 
 ## Ryšiai
-- Poponas iš Osternos keliavo_i [[objektai/vietos/Vokietija]]
-- Poponas iš Osternos keliavo_i [[objektai/vietos/Višogrudas]]
-- Poponas iš Osternos siunte_i [[objektai/vietos/Elbingas]]
+- Poponas iš Osternos keliavo į [[objektai/vietos/Višogrudas]], [[objektai/vietos/Vokietija]]
+- Poponas iš Osternos siuntė į [[objektai/vietos/Elbingas]]

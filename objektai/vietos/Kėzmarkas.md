@@ -84,5 +84,4 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Kėzmarkas
-- [[objektai/asmenys/Zigmantas Liuksemburgietis]] keliavo_i Kėzmarkas
+- Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]

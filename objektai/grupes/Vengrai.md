@@ -244,13 +244,10 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas Olbrachtas]] kariavo_pries Vengrai
-- Vengrai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
-- Vengrai puole [[objektai/vietos/Kulmas]]
-- Vengrai sudare_sutarti_su [[objektai/grupes/Lietuviai]]
-- Vengrai sudare_sutarti_su [[objektai/grupes/Valachai]]
-- Vengrai keliavo_i [[objektai/vietos/Červinskas]]
-- Vengrai puole [[objektai/vietos/Italija]]
-- [[objektai/asmenys/Gabrielius Bekešas]] buvo_valdovas Vengrai
-- [[objektai/asmenys/Gabrielius Bekešas]] paskyre Vengrai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Vengrai
+- Sąjungininkai: [[objektai/grupes/Lietuviai]]
+- Turėjo valdovą: [[objektai/asmenys/Gabrielius Bekešas]]
+- Kariavo prieš: [[objektai/asmenys/Jonas Olbrachtas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Paskyrė Vengrai: [[objektai/asmenys/Gabrielius Bekešas]]
+- Vengrai keliavo į [[objektai/vietos/Červinskas]]
+- Vengrai puolė [[objektai/vietos/Italija]], [[objektai/vietos/Kulmas]]
+- Vengrai sudarė sutartį su [[objektai/grupes/Lietuviai]], [[objektai/grupes/Valachai]]

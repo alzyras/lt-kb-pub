@@ -71,4 +71,4 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
     - t-001
 
 ## Ryšiai
-- Mykolas Pacas kariavo_pries [[objektai/grupes/Švedai]]
+- Mykolas Pacas kariavo prieš [[objektai/grupes/Švedai]]

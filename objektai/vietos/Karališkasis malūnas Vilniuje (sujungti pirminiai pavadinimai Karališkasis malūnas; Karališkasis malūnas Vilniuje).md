@@ -126,4 +126,4 @@ amziai:
     - t-002
 
 ## Ryšiai
-- Karališkasis malūnas Vilniuje (sujungti pirminiai pavadinimai Karališkasis malūnas; Karališkasis malūnas Vilniuje) priklause [[objektai/vietos/Vilnius]]
+- Karališkasis malūnas Vilniuje (sujungti pirminiai pavadinimai Karališkasis malūnas; Karališkasis malūnas Vilniuje) priklausė [[objektai/vietos/Vilnius]]

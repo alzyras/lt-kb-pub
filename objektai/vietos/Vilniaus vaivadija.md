@@ -49,4 +49,4 @@ Nuo 1502 m. Krymo totoriai pasiekdavo Vilniaus vaivadiją.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Krymo totoriai]] keliavo_i Vilniaus vaivadija
+- Buvo kelionės vieta: [[objektai/grupes/Krymo totoriai]]

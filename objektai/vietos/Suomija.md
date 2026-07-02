@@ -148,6 +148,5 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
     - t-003
 
 ## Ryšiai
-- Suomija prekiavo_su [[objektai/vietos/SSRS]]
-- [[objektai/grupes/Lietuvių Suomių Draugija]] gyveno Suomija
-- [[objektai/grupes/Lietuviai]] gyveno Suomija
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvių Suomių Draugija]]
+- Suomija prekiavo su [[objektai/vietos/SSRS]]

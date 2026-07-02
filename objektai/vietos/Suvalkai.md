@@ -213,7 +213,7 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/K. Škirpa]] puole Suvalkai
-- Suvalkai priklause [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Jotvingiai]] gyveno Suvalkai
-- [[objektai/vietos/Suvalkija]] priklause Suvalkai
+- Puolė Suvalkai: [[objektai/asmenys/K. Škirpa]]
+- Gyvenamoji vieta: [[objektai/grupes/Jotvingiai]]
+- Turėjo priklausinį: [[objektai/vietos/Suvalkija]]
+- Suvalkai priklausė [[objektai/grupes/Sūduviai]]

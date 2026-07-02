@@ -165,8 +165,8 @@ Simonas Lengvenis minimas kaip Lietuvos kunigaikštis, Algirdo sūnus, Rusios ir
     - t-005
 
 ## Ryšiai
-- Simonas Lengvenis (valdovas, XIV a.) buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Simonas Lengvenis (valdovas, XIV a.) puole [[objektai/vietos/Riazanė]]
-- Simonas Lengvenis (valdovas, XIV a.) keliavo_i [[objektai/vietos/Mstislavlis]]
-- Simonas Lengvenis (valdovas, XIV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Simonas Lengvenis (valdovas, XIV a.) uzeme [[objektai/vietos/Riazanė]]
+- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Simonas Lengvenis (valdovas, XIV a.) buvo valdovas [[objektai/vietos/Lietuva]]
+- Simonas Lengvenis (valdovas, XIV a.) keliavo į [[objektai/vietos/Mstislavlis]]
+- Simonas Lengvenis (valdovas, XIV a.) puolė [[objektai/vietos/Riazanė]]
+- Simonas Lengvenis (valdovas, XIV a.) užėmė [[objektai/vietos/Riazanė]]

@@ -173,7 +173,5 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     - t-006
 
 ## Ryšiai
-- Kauno gubernija priklause [[objektai/vietos/Rusija]]
-- Kauno gubernija priklause [[objektai/vietos/Lietuva]]
-- Kauno gubernija priklause [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Lietuviai]] valde_teritorija Kauno gubernija
+- Buvo valdoma: [[objektai/grupes/Lietuviai]]
+- Kauno gubernija priklausė [[objektai/vietos/Lietuva]], [[objektai/vietos/Rusija]], [[objektai/vietos/Vilnius]]

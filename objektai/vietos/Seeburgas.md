@@ -55,5 +55,5 @@ VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę baz�
     - t-001
 
 ## Ryšiai
-- Seeburgas priklause [[objektai/grupes/Švedai]]
-- [[objektai/grupes/Švedai]] valde Seeburgas
+- Buvo valdoma: [[objektai/grupes/Švedai]]
+- Seeburgas priklausė [[objektai/grupes/Švedai]]

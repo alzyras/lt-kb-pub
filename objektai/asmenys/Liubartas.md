@@ -448,12 +448,10 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
     - t-014
 
 ## Ryšiai
-- [[objektai/asmenys/Teodoras (Liubarto sūnus)]] buvo_sunus Liubartas
-- Liubartas valde_miesta [[objektai/vietos/Karačevas]]
-- [[objektai/asmenys/Skirmantas]] buvo_sunus Liubartas
-- Liubartas gyne [[objektai/vietos/Volinija]]
-- [[objektai/asmenys/Pisimantas]] buvo_brolis Liubartas
-- Liubartas buvo_sunus [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Liubartas puole [[objektai/grupes/Lenkai]]
-- Liubartas keliavo_i [[objektai/vietos/Trakai]]
-- Liubartas valde [[objektai/vietos/Volinija]]
+- Sūnūs: [[objektai/asmenys/Skirmantas]], [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
+- Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Broliai: [[objektai/asmenys/Pisimantas]]
+- Liubartas valdė [[objektai/vietos/Karačevas]], [[objektai/vietos/Volinija]]
+- Liubartas keliavo į [[objektai/vietos/Trakai]]
+- Liubartas puolė [[objektai/grupes/Lenkai]]
+- Liubartas gynė [[objektai/vietos/Volinija]]

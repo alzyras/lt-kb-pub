@@ -79,4 +79,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Petras Bartkus-Žadgaila]] dalyvavo_musyje Užpelkių kautynės
+- Turėjo dalyvį: [[objektai/asmenys/Petras Bartkus-Žadgaila]]

@@ -143,6 +143,5 @@ Petras Atsiskyrėlis Dusburgiečio pasakojime vaizduojamas kaip vargšas ir diev
     - t-005
 
 ## Ryšiai
-- Petras Atsiskyrėlis keliavo_i [[objektai/vietos/Italija]]
+- Petras Atsiskyrėlis keliavo į [[objektai/vietos/Italija]], [[objektai/vietos/Jeruzalė]]
 - Petras Atsiskyrėlis gyveno [[objektai/vietos/Prancūzija]]
-- Petras Atsiskyrėlis keliavo_i [[objektai/vietos/Jeruzalė]]

@@ -218,6 +218,6 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Didžioji Lenkija
-- Didžioji Lenkija priklause [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Poznanė]] priklause Didžioji Lenkija
+- Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Turėjo priklausinį: [[objektai/vietos/Poznanė]]
+- Didžioji Lenkija priklausė [[objektai/vietos/Lenkija]]

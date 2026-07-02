@@ -51,5 +51,4 @@ Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemis
     - t-001
 
 ## Ryšiai
-- Zemislovas valde [[objektai/vietos/Kujavija]]
-- Zemislovas valde [[objektai/vietos/Lenčica]]
+- Zemislovas valdė [[objektai/vietos/Kujavija]], [[objektai/vietos/Lenčica]]

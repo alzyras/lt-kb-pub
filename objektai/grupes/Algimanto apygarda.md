@@ -112,4 +112,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Algimanto apygarda dalyvavo_musyje [[objektai/ivykiai/Šimonių girios apgultis]]
+- Algimanto apygarda dalyvavo mūšyje [[objektai/ivykiai/Šimonių girios apgultis]]

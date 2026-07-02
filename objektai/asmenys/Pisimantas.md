@@ -102,7 +102,6 @@ atnaujinta: ''
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Skirmantas]] buvo_sunus Pisimantas
-- Pisimantas buvo_brolis [[objektai/asmenys/Liubartas]]
-- Pisimantas valde_miesta [[objektai/vietos/Turovas]]
-- Pisimantas buvo_brolis [[objektai/asmenys/Treniota]]
+- Sūnūs: [[objektai/asmenys/Skirmantas]]
+- Broliai: [[objektai/asmenys/Liubartas]], [[objektai/asmenys/Treniota]]
+- Pisimantas valdė [[objektai/vietos/Turovas]]

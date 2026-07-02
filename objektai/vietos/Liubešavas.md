@@ -45,4 +45,4 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
     - t-001
 
 ## Ryšiai
-- Liubešavas priklause [[objektai/vietos/Brasta]]
+- Liubešavas priklausė [[objektai/vietos/Brasta]]

@@ -206,4 +206,4 @@ Albertas iš Meiseno Dusburgiečio pasakojime pristatomas kaip Karaliaučiaus pi
     - t-009
 
 ## Ryšiai
-- Albertas iš Meiseno reme [[objektai/asmenys/Pelužis]]
+- Albertas iš Meiseno rėmė [[objektai/asmenys/Pelužis]]

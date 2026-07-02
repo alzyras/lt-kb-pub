@@ -86,4 +86,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] pastate Romo Kalantos atminimo paminklai ir simboliai
+- Buvo pastatyta: [[objektai/grupes/Lietuviai]]

@@ -120,5 +120,5 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     - t-001
 
 ## Ryšiai
-- Venedai uzeme [[objektai/vietos/Baltija]]
-- Venedai reme [[objektai/asmenys/Fridrichas II]]
+- Venedai užėmė [[objektai/vietos/Baltija]]
+- Venedai rėmė [[objektai/asmenys/Fridrichas II]]

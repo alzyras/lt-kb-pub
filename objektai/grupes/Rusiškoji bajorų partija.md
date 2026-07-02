@@ -45,4 +45,4 @@ Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų p
     - t-001
 
 ## Ryšiai
-- Rusiškoji bajorų partija uzeme [[objektai/vietos/Smolenskas]]
+- Rusiškoji bajorų partija užėmė [[objektai/vietos/Smolenskas]]

@@ -241,4 +241,4 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Ulrikas Hozijus]] pastate Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją)
+- Buvo pastatyta: [[objektai/asmenys/Ulrikas Hozijus]]

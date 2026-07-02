@@ -493,13 +493,6 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Linkas]] puole Kulmo žemė
-- [[objektai/asmenys/Sventopelkas]] puole Kulmo žemė
-- [[objektai/asmenys/Skomantas]] puole Kulmo žemė
-- [[objektai/grupes/Sūduviai]] puole Kulmo žemė
-- Kulmo žemė priklause [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Rusai]] puole Kulmo žemė
-- Kulmo žemė priklause [[objektai/grupes/Prūsai]]
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] siunte_i Kulmo žemė
-- [[objektai/grupes/Lietuvos kariuomenė]] puole Kulmo žemė
-- Kulmo žemė priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Kulmo žemę: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Linkas]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Skomantas]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Sventopelkas]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- Kulmo žemė priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Prūsai]], [[objektai/grupes/Vokiečiai]]

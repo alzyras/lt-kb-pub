@@ -292,7 +292,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-008
 
 ## Ryšiai
-- [[objektai/grupes/Kuršiai]] kariavo_pries Skandinavai
-- [[objektai/grupes/Prūsai]] kariavo_pries Skandinavai
-- Skandinavai prekiavo_su [[objektai/vietos/Bizantija]]
+- Kariavo prieš: [[objektai/grupes/Kuršiai]], [[objektai/grupes/Prūsai]]
+- Skandinavai prekiavo su [[objektai/vietos/Bizantija]]
 - Skandinavai gyveno [[objektai/vietos/Lietuva]]

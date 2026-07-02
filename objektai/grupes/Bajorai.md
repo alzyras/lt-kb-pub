@@ -915,24 +915,11 @@ Bajorai buvo vienintelis privilegijuotas Lietuvos visuomenės luomas, turėjęs 
     - t-011
 
 ## Ryšiai
-- Bajorai priklause [[objektai/grupes/Lietuvos kariuomenė]]
-- Bajorai keliavo_i [[objektai/vietos/Marienburgas]]
-- Bajorai keliavo_i [[objektai/vietos/Tilžė]]
-- [[objektai/daiktai/Antspaudai]] priklause Bajorai
-- Bajorai priklause [[objektai/vietos/Trakų pavietas arba vaivadija]]
-- [[objektai/daiktai/Habdankas]] priklause Bajorai
-- Bajorai reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Jekaterina II]] reme Bajorai
-- Bajorai priklause [[objektai/asmenys/Gabrielius Bekešas]]
-- Bajorai reme [[objektai/grupes/Lietuviai]]
-- Bajorai priklause [[objektai/vietos/Lietuva]]
-- Bajorai priklause [[objektai/grupes/Lenkai]]
-- [[objektai/daiktai/Herbai]] priklause Bajorai
-- [[objektai/daiktai/Pilys]] priklause Bajorai
-- [[objektai/asmenys/Švitrigaila]] reme Bajorai
-- Bajorai keliavo_i [[objektai/vietos/Vilnius]]
-- Bajorai reme [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Bajorai reme [[objektai/asmenys/Mykolas Glinskis]]
-- [[objektai/asmenys/Žygimantas Senasis]] buvo_priesas Bajorai
+- Priešai: [[objektai/asmenys/Žygimantas Senasis]]
+- Rėmė Bajorai: [[objektai/asmenys/Jekaterina II]], [[objektai/asmenys/Švitrigaila]]
+- Turėjo priklausinį: [[objektai/daiktai/Antspaudai]], [[objektai/daiktai/Habdankas]], [[objektai/daiktai/Herbai]], [[objektai/daiktai/Pilys]]
+- Bajorai keliavo į [[objektai/vietos/Marienburgas]], [[objektai/vietos/Tilžė]], [[objektai/vietos/Vilnius]]
+- Bajorai surengė žygį į [[objektai/vietos/Mstislavlis]]
 - Bajorai gyveno [[objektai/vietos/Lietuva]]
-- Bajorai surenge_zygi_i [[objektai/vietos/Mstislavlis]]
+- Bajorai priklausė [[objektai/asmenys/Gabrielius Bekešas]], [[objektai/grupes/Lenkai]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/vietos/Trakų pavietas arba vaivadija]]
+- Bajorai rėmė [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mykolas Glinskis]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

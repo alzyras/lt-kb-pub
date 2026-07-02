@@ -39,4 +39,4 @@ Joną Algimantaitį (Alšėniškį)^3 ).
     - t-001
 
 ## Ryšiai
-- Jonas Algimantaitis (Alšėniškis) valde_miesta [[objektai/vietos/Kijevas]]
+- Jonas Algimantaitis (Alšėniškis) valdė [[objektai/vietos/Kijevas]]

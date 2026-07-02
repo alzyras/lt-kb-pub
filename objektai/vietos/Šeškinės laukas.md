@@ -54,4 +54,4 @@ Skirgaila persikėlęs per Nerį apsistojo Šeškinės lauke.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Skirgaila]] keliavo_i Šeškinės laukas
+- Buvo kelionės vieta: [[objektai/asmenys/Skirgaila]]

@@ -51,5 +51,5 @@ Narbutas pasakoja, kad Imino vaikaitis Glapiminas XII amžiuje po kunigaikščio
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Sutinkąs]] buvo_sunus Glapiminas
-- Glapiminas keliavo_i [[objektai/vietos/Lietuva]]
+- Sūnūs: [[objektai/asmenys/Sutinkąs]]
+- Glapiminas keliavo į [[objektai/vietos/Lietuva]]

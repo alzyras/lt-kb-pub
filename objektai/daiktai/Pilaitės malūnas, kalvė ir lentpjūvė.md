@@ -68,4 +68,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Pilaitės malūnas, kalvė ir lentpjūvė priklause [[objektai/vietos/Pilaitė]]
+- Pilaitės malūnas, kalvė ir lentpjūvė priklausė [[objektai/vietos/Pilaitė]]

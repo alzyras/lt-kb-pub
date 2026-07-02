@@ -89,4 +89,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Kukovaitis]] pastate Pajautos stabas
+- Buvo pastatyta: [[objektai/asmenys/Kukovaitis]]

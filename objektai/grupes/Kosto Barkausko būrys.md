@@ -47,5 +47,4 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     - t-001
 
 ## Ryšiai
-- Kosto Barkausko būrys gyveno [[objektai/vietos/Buktos (Žaliosios) miškas]]
-- Kosto Barkausko būrys gyveno [[objektai/vietos/Žuvintas]]
+- Kosto Barkausko būrys gyveno [[objektai/vietos/Buktos (Žaliosios) miškas]], [[objektai/vietos/Žuvintas]]

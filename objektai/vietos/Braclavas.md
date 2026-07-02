@@ -175,8 +175,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Jurga (pasienio seniūnas)]] gyne Braclavas
-- [[objektai/asmenys/Aleksandras]] pastate Braclavas
-- [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Braclavas
-- Braclavas priklause [[objektai/grupes/Lietuviai]]
-- Braclavas priklause [[objektai/vietos/Lenkija]]
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Jogailaitis]]
+- Buvo pastatyta: [[objektai/asmenys/Aleksandras]]
+- Gynė Braclavą: [[objektai/asmenys/Jurga (pasienio seniūnas)]]
+- Braclavas priklausė [[objektai/vietos/Lenkija]], [[objektai/grupes/Lietuviai]]

@@ -85,4 +85,4 @@ Nenurodyta
 Nenurodyta
 
 ## Ryšiai
-- Lietuvos auksas priklause [[objektai/vietos/Lietuva]]
+- Lietuvos auksas priklausė [[objektai/vietos/Lietuva]]

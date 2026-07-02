@@ -80,4 +80,4 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
     - t-002
 
 ## Ryšiai
-- Motiejus Kločka keliavo_i [[objektai/vietos/Maskva]]
+- Motiejus Kločka keliavo į [[objektai/vietos/Maskva]]

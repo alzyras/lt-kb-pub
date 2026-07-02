@@ -1485,37 +1485,12 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
     - t-047
 
 ## Ryšiai
-- Podolė priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Podolė
-- [[objektai/asmenys/Boleslovas]] surenge_zygi_i Podolė
-- [[objektai/asmenys/Fiodoras Ostrogiškis]] puole Podolė
-- [[objektai/asmenys/Nestanas]] valde Podolė
-- [[objektai/asmenys/Daugirdas Gedgaila]] valde Podolė
-- [[objektai/grupes/Karijotaičiai]] gyne Podolė
-- [[objektai/grupes/Lenkai]] valde Podolė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Podolė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Podolė
-- [[objektai/grupes/Karijotaičiai]] keliavo_i Podolė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Podolė
-- [[objektai/grupes/Totoriai]] puole Podolė
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] uzeme Podolė
-- [[objektai/asmenys/Borisas Karijotaitis]] gyveno Podolė
-- Podolė priklause [[objektai/vietos/Lenkija]]
-- [[objektai/asmenys/Spytekas iš Melštyno]] valde_teritorija Podolė
-- [[objektai/asmenys/Spytkas iš Melsztyno]] valde_teritorija Podolė
-- [[objektai/vietos/Braclavo sritis]] priklause Podolė
-- [[objektai/grupes/Kazokai]] gyne Podolė
-- [[objektai/grupes/Gediminaičiai]] valde_teritorija Podolė
-- [[objektai/grupes/Lenkai]] gyne Podolė
-- [[objektai/vietos/Podolės Kamenecas]] priklause Podolė
-- [[objektai/asmenys/Kazimieras Didysis]] uzeme Podolė
-- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]] gyveno Podolė
-- [[objektai/vietos/Kamenecas]] priklause Podolė
-- [[objektai/grupes/Podolės bajorai]] uzeme Podolė
-- [[objektai/grupes/Krymo totoriai]] puole Podolė
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] valde_teritorija Podolė
-- [[objektai/asmenys/Teodoras (Konstantino Karijotaičio brolis)]] valde Podolė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_teritorija Podolė
-- [[objektai/asmenys/Edyga]] puole Podolė
-- [[objektai/grupes/Karijotaičiai]] valde_teritorija Podolė
-- [[objektai/grupes/Karijotaičiai]] gyveno Podolė
+- Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Daugirdas Gedgaila]], [[objektai/grupes/Gediminaičiai]], [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/grupes/Karijotaičiai]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Nestanas]], [[objektai/asmenys/Spytekas iš Melštyno]], [[objektai/asmenys/Spytkas iš Melsztyno]], [[objektai/asmenys/Teodoras (Konstantino Karijotaičio brolis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/grupes/Karijotaičiai]]
+- Puolė Podolę: [[objektai/asmenys/Edyga]], [[objektai/asmenys/Fiodoras Ostrogiškis]], [[objektai/grupes/Krymo totoriai]], [[objektai/grupes/Totoriai]]
+- Užėmė Podolę: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kazimieras Didysis]], [[objektai/grupes/Podolės bajorai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gynė Podolę: [[objektai/grupes/Karijotaičiai]], [[objektai/grupes/Kazokai]], [[objektai/grupes/Lenkai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Boleslovas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gyvenamoji vieta: [[objektai/asmenys/Borisas (Tverės kunigaikštis)]], [[objektai/asmenys/Borisas Karijotaitis]], [[objektai/grupes/Karijotaičiai]]
+- Turėjo priklausinį: [[objektai/vietos/Braclavo sritis]], [[objektai/vietos/Kamenecas]], [[objektai/vietos/Podolės Kamenecas]]
+- Podolė priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

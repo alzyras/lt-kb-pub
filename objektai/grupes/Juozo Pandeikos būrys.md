@@ -47,5 +47,4 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     - t-001
 
 ## Ryšiai
-- Juozo Pandeikos būrys gyveno [[objektai/vietos/Buktos (Žaliosios) miškas]]
-- Juozo Pandeikos būrys gyveno [[objektai/vietos/Žuvintas]]
+- Juozo Pandeikos būrys gyveno [[objektai/vietos/Buktos (Žaliosios) miškas]], [[objektai/vietos/Žuvintas]]

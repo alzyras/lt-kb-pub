@@ -394,14 +394,9 @@ Kristburgas buvo Ordino pilis Pamedėje, kurios pradžia siejama su magistro Hen
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Engelkė]] gyveno Kristburgas
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Kristburgas
-- [[objektai/asmenys/Sirenas]] gyne Kristburgas
-- [[objektai/asmenys/Divanas]] puole Kristburgas
-- [[objektai/asmenys/Sventopelkas]] apgule Kristburgas
-- [[objektai/grupes/Pagudėnai]] puole Kristburgas
-- [[objektai/asmenys/Sventopelkas]] puole Kristburgas
-- [[objektai/grupes/Lietuviai]] puole Kristburgas
-- [[objektai/grupes/Sūduviai]] puole Kristburgas
-- [[objektai/asmenys/Sirenas]] gyveno Kristburgas
-- [[objektai/asmenys/Andrius (račius)]] keliavo_i Kristburgas
+- Buvo kelionės vieta: [[objektai/asmenys/Andrius (račius)]]
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Kristburgą: [[objektai/asmenys/Divanas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Pagudėnai]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Sventopelkas]]
+- Apgulė Kristburgą: [[objektai/asmenys/Sventopelkas]]
+- Gynė Kristburgą: [[objektai/asmenys/Sirenas]]
+- Gyvenamoji vieta: [[objektai/asmenys/Engelkė]], [[objektai/asmenys/Sirenas]]

@@ -51,4 +51,4 @@ Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusik
     - t-001
 
 ## Ryšiai
-- Otonas Didysis valde [[objektai/vietos/Italija]]
+- Otonas Didysis valdė [[objektai/vietos/Italija]]

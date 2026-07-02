@@ -50,4 +50,4 @@ Andrejus Možaiskis kartu su Jakovu Zachariničiumi ir Andrejumi Šemiačičiumi
     - t-001
 
 ## Ryšiai
-- Andrejus Možaiskis surenge_zygi_i [[objektai/vietos/Severskas]]
+- Andrejus Možaiskis surengė žygį į [[objektai/vietos/Severskas]]

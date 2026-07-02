@@ -95,6 +95,6 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
     - t-002
 
 ## Ryšiai
-- Helmerichas buvo_palaidotas [[objektai/vietos/Kulmenzė]]
-- Helmerichas mire [[objektai/vietos/Lubava]]
-- Helmerichas surenge_zygi_i [[objektai/vietos/Lubava]]
+- Helmerichas mirė [[objektai/vietos/Lubava]]
+- Helmerichas buvo palaidotas [[objektai/vietos/Kulmenzė]]
+- Helmerichas surengė žygį į [[objektai/vietos/Lubava]]

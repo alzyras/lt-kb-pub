@@ -97,4 +97,4 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
     - t-002
 
 ## Ryšiai
-- Jonas Mejenas gyne [[objektai/vietos/Vilnius]]
+- Jonas Mejenas gynė [[objektai/vietos/Vilnius]]

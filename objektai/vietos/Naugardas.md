@@ -880,18 +880,11 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     - t-026
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Naugardas
-- [[objektai/asmenys/Šich Achmetas]] uzeme Naugardas
-- [[objektai/vietos/Vilnius]] prekiavo_su Naugardas
-- [[objektai/asmenys/Patrikas, arba Patricijus]] valde Naugardas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Naugardas
-- Naugardas priklause [[objektai/vietos/Seversko žemė]]
-- [[objektai/grupes/Vikingai]] keliavo_i Naugardas
-- [[objektai/asmenys/Kaributas]] valde Naugardas
-- Naugardas priklause [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Naugardas priklause [[objektai/vietos/Seversko žemės]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_miesta Naugardas
-- [[objektai/asmenys/Jurgis Lengvenaitis]] keliavo_i Naugardas
-- [[objektai/grupes/Prūsai]] gyveno Naugardas
-- Naugardas prekiavo_su [[objektai/vietos/Maskva]]
-- Naugardas prekiavo_su [[objektai/vietos/Ryga]]
+- Buvo valdoma: [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Patrikas, arba Patricijus]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Jurgis Lengvenaitis]], [[objektai/grupes/Vikingai]]
+- Užėmė Naugardą: [[objektai/asmenys/Šich Achmetas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Prekiavo su: [[objektai/vietos/Vilnius]]
+- Gyvenamoji vieta: [[objektai/grupes/Prūsai]]
+- Naugardas prekiavo su [[objektai/vietos/Maskva]], [[objektai/vietos/Ryga]]
+- Naugardas priklausė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/vietos/Seversko žemė]], [[objektai/vietos/Seversko žemės]]

@@ -79,7 +79,6 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] puole Zarasai
-- [[objektai/grupes/Ukmergės rinktinė]] keliavo_i Zarasai
-- [[objektai/asmenys/K. Ladyga]] siunte_i Zarasai
-- [[objektai/asmenys/A. Voldemaras]] keliavo_i Zarasai
+- Buvo kelionės vieta: [[objektai/asmenys/A. Voldemaras]], [[objektai/grupes/Ukmergės rinktinė]]
+- Puolė Zarasai: [[objektai/grupes/Lenkai]]
+- Buvo siuntimo vieta: [[objektai/asmenys/K. Ladyga]]

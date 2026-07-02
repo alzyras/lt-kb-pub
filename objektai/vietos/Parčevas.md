@@ -64,4 +64,4 @@ Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Parčevas
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Jogailaitis]]

@@ -47,4 +47,4 @@ Mantvila Gimbutaitis ir Zivinbudas susitarė pulti nuo smūgio neatsigavusį pri
     - t-001
 
 ## Ryšiai
-- Mantvila Gimbutaitis puole [[objektai/grupes/Rusai]]
+- Mantvila Gimbutaitis puolė [[objektai/grupes/Rusai]]

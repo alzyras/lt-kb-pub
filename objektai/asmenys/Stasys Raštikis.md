@@ -243,4 +243,4 @@ Stasys Raštikis buvo Lietuvos kariuomenės vadas, siejamas su diplomatijos ir k
     - t-008
 
 ## Ryšiai
-- Stasys Raštikis keliavo_i [[objektai/vietos/Lenkija]]
+- Stasys Raštikis keliavo į [[objektai/vietos/Lenkija]]

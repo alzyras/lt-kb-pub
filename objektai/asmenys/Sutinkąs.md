@@ -46,5 +46,5 @@ Narbutas pasakoja, kad Imino vaikaičio Glapimino sūnus Sutinkąs valdė Žemai
     - t-001
 
 ## Ryšiai
-- Sutinkąs buvo_sunus [[objektai/asmenys/Glapiminas]]
-- Sutinkąs valde [[objektai/vietos/Žemaitija]]
+- Tėvai: [[objektai/asmenys/Glapiminas]]
+- Sutinkąs valdė [[objektai/vietos/Žemaitija]]

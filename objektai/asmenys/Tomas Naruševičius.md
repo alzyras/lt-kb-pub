@@ -55,4 +55,4 @@ Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pirmiausia
     - t-001
 
 ## Ryšiai
-- Tomas Naruševičius keliavo_i [[objektai/vietos/Maskva]]
+- Tomas Naruševičius keliavo į [[objektai/vietos/Maskva]]

@@ -119,6 +119,6 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Vaišelga (kunigaikštis) buvo_sunus [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- Vaišelga (kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Tėvai: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- Vaišelga (kunigaikštis) buvo valdovas [[objektai/vietos/Lietuva]]
 - Vaišelga (kunigaikštis) gyveno [[objektai/vietos/Naugardukas]]

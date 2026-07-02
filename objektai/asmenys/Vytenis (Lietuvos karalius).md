@@ -87,5 +87,4 @@ periodo_grupes:
     - t-002
 
 ## Ryšiai
-- Vytenis (Lietuvos karalius) puole [[objektai/vietos/Semba]]
-- Vytenis (Lietuvos karalius) puole [[objektai/vietos/Notanga]]
+- Vytenis (Lietuvos karalius) puolė [[objektai/vietos/Notanga]], [[objektai/vietos/Semba]]

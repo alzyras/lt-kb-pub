@@ -66,4 +66,4 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
     - t-001
 
 ## Ryšiai
-- Inocentas IV siunte_i [[objektai/vietos/Prūsija]]
+- Inocentas IV siuntė į [[objektai/vietos/Prūsija]]

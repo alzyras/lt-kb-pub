@@ -230,18 +230,9 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] apgule Bisenė
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Bisenė
-- [[objektai/grupes/Notangai]] puole Bisenė
-- [[objektai/asmenys/Henrikas iš Plockės]] puole Bisenė
-- [[objektai/asmenys/Henrikas iš Plockės]] apgule Bisenė
-- [[objektai/asmenys/Konradas]] puole Bisenė
-- [[objektai/asmenys/Konradas]] uzeme Bisenė
-- [[objektai/grupes/Lietuviai]] gyne Bisenė
-- [[objektai/asmenys/Ditrichas iš Altenburgo]] keliavo_i Bisenė
-- [[objektai/asmenys/Ditrichas iš Altenburgo]] surenge_zygi_i Bisenė
-- [[objektai/asmenys/Fridrichas Kvicas]] surenge_zygi_i Bisenė
-- [[objektai/asmenys/Ditrichas iš Altenburgo]] uzeme Bisenė
-- [[objektai/asmenys/Fridrichas Kvicas]] uzeme Bisenė
-- [[objektai/asmenys/Fridrichas Kvicas]] puole Bisenė
-- [[objektai/grupes/Sembai]] puole Bisenė
+- Buvo kelionės vieta: [[objektai/asmenys/Ditrichas iš Altenburgo]]
+- Puolė Bisenę: [[objektai/asmenys/Fridrichas Kvicas]], [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/asmenys/Konradas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Notangai]], [[objektai/grupes/Sembai]]
+- Apgulė Bisenę: [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Užėmė Bisenę: [[objektai/asmenys/Ditrichas iš Altenburgo]], [[objektai/asmenys/Fridrichas Kvicas]], [[objektai/asmenys/Konradas]]
+- Gynė Bisenę: [[objektai/grupes/Lietuviai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Ditrichas iš Altenburgo]], [[objektai/asmenys/Fridrichas Kvicas]]

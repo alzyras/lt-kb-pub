@@ -77,8 +77,6 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
     - t-001
 
 ## Ryšiai
-- Linkas puole [[objektai/vietos/Kulmas]]
-- Linkas puole [[objektai/vietos/Kulmo žemė]]
-- Linkas surenge_zygi_i [[objektai/vietos/Kulmas]]
-- [[objektai/asmenys/Divanas]] buvo_sajungininkas_su Linkas
-- Linkas buvo_sajungininkas_su [[objektai/asmenys/Divanas]]
+- Sąjungininkai: [[objektai/asmenys/Divanas]]
+- Linkas puolė [[objektai/vietos/Kulmas]], [[objektai/vietos/Kulmo žemė]]
+- Linkas surengė žygį į [[objektai/vietos/Kulmas]]

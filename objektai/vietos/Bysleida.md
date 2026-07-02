@@ -116,8 +116,5 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Nadruviai]] apgule Bysleida
-- [[objektai/grupes/Nadruviai]] puole Bysleida
-- [[objektai/grupes/Skalviai]] apgule Bysleida
-- [[objektai/grupes/Skalviai]] puole Bysleida
-- [[objektai/grupes/Sūduviai]] apgule Bysleida
+- Puolė Bysleidą: [[objektai/grupes/Nadruviai]], [[objektai/grupes/Skalviai]]
+- Apgulė Bysleidą: [[objektai/grupes/Nadruviai]], [[objektai/grupes/Skalviai]], [[objektai/grupes/Sūduviai]]

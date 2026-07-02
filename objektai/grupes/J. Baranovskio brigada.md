@@ -47,4 +47,4 @@ Baranovskio brigada atakuoja 2-ojo pėst.
     - t-001
 
 ## Ryšiai
-- J. Baranovskio brigada puole [[objektai/grupes/Lietuviai]]
+- J. Baranovskio brigada puolė [[objektai/grupes/Lietuviai]]

@@ -49,4 +49,4 @@ Jurijus Svetoslavovičius buvo paskutinis Smolensko kunigaikštis, valdęs 1386�
     - t-001
 
 ## Ryšiai
-- Smolensko kunigaikščiai valde_miesta [[objektai/vietos/Smolenskas]]
+- Smolensko kunigaikščiai valdė [[objektai/vietos/Smolenskas]]

@@ -96,7 +96,5 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
     - t-001
 
 ## Ryšiai
-- Henrikas iš Dobino kariavo_pries [[objektai/grupes/Lietuviai]]
-- Henrikas iš Dobino puole [[objektai/vietos/Aukaimio pilis|Aukaimio pilis (pilis)]]
-- Henrikas iš Dobino puole [[objektai/vietos/Aukaimis]]
-- Henrikas iš Dobino puole [[objektai/grupes/Lietuviai]]
+- Henrikas iš Dobino puolė [[objektai/vietos/Aukaimio pilis|Aukaimio pilis (pilis)]], [[objektai/vietos/Aukaimis]], [[objektai/grupes/Lietuviai]]
+- Henrikas iš Dobino kariavo prieš [[objektai/grupes/Lietuviai]]

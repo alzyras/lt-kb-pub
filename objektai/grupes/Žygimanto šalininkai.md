@@ -57,4 +57,4 @@ Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
     - t-001
 
 ## Ryšiai
-- Žygimanto šalininkai buvo_priesas [[objektai/asmenys/Švitrigaila]]
+- Priešai: [[objektai/asmenys/Švitrigaila]]

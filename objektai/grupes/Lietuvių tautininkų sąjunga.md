@@ -152,4 +152,4 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     - t-003
 
 ## Ryšiai
-- Lietuvių tautininkų sąjunga buvo_sajungininkas_su [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- Sąjungininkai: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

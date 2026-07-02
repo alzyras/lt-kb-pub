@@ -76,4 +76,4 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Gaižuva
+- Puolė Gaižuvą: [[objektai/grupes/Kryžiuočių ordinas]]

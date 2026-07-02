@@ -308,6 +308,6 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - t-008
 
 ## Ryšiai
-- [[objektai/grupes/Hiriai ir hendai]] gyveno Raseiniai
-- [[objektai/grupes/Bermontininkai]] keliavo_i Raseiniai
-- [[objektai/asmenys/Fridrichas iš Vildenbergo]] puole Raseiniai
+- Buvo kelionės vieta: [[objektai/grupes/Bermontininkai]]
+- Puolė Raseiniai: [[objektai/asmenys/Fridrichas iš Vildenbergo]]
+- Gyvenamoji vieta: [[objektai/grupes/Hiriai ir hendai]]

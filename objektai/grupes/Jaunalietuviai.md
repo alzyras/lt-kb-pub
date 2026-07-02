@@ -42,4 +42,4 @@ sandūroje pradėjo oponuoti „jaunalietuviai“, po poros dešimtmečių sukū
     - t-001
 
 ## Ryšiai
-- Jaunalietuviai buvo_priesas [[objektai/grupes/Senalietuviai]]
+- Priešai: [[objektai/grupes/Senalietuviai]]

@@ -211,9 +211,5 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Petras iš Kustynės]] keliavo_i Konstancija
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Konstancija
-- [[objektai/asmenys/Mykolas Sapienskis]] keliavo_i Konstancija
-- [[objektai/asmenys/Jonas (Breslavo vyskupas)]] keliavo_i Konstancija
-- [[objektai/asmenys/Jonas (Lvovo arkivyskupas)]] keliavo_i Konstancija
-- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]] keliavo_i Konstancija
+- Buvo kelionės vieta: [[objektai/asmenys/Jonas (Breslavo vyskupas)]], [[objektai/asmenys/Jonas (Lvovo arkivyskupas)]], [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]], [[objektai/asmenys/Mykolas Sapienskis]], [[objektai/asmenys/Petras iš Kustynės]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -73,4 +73,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Paminklas Žuvusiems už Lietuvos laisvę priklause [[objektai/vietos/Kaunas]]
+- Paminklas Žuvusiems už Lietuvos laisvę priklausė [[objektai/vietos/Kaunas]]

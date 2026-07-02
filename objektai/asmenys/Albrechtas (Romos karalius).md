@@ -124,6 +124,6 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
     - t-003
 
 ## Ryšiai
-- Albrechtas (Romos karalius) valde [[objektai/vietos/Prancūzija]]
-- [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]] paskyre Albrechtas (Romos karalius)
-- Albrechtas (Romos karalius) paskyre [[objektai/asmenys/Albrechtas]]
+- Paskyrė Albrechtą (Romos karalius): [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]
+- Albrechtas (Romos karalius) valdė [[objektai/vietos/Prancūzija]]
+- Albrechtas (Romos karalius) paskyrė [[objektai/asmenys/Albrechtas]]

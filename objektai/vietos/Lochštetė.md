@@ -147,5 +147,4 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     - t-004
 
 ## Ryšiai
-- Lochštetė priklause [[objektai/vietos/Semba]]
-- Lochštetė priklause [[objektai/vietos/Girmava]]
+- Lochštetė priklausė [[objektai/vietos/Girmava]], [[objektai/vietos/Semba]]

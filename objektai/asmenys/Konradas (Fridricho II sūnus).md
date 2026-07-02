@@ -53,5 +53,4 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
     - t-001
 
 ## Ryšiai
-- Konradas (Fridricho II sūnus) puole [[objektai/vietos/Apulija]]
-- Konradas (Fridricho II sūnus) puole [[objektai/vietos/Neapolis]]
+- Konradas (Fridricho II sūnus) puolė [[objektai/vietos/Apulija]], [[objektai/vietos/Neapolis]]

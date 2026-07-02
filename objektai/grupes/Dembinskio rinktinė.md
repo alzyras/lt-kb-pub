@@ -74,4 +74,4 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
     - t-003
 
 ## Ryšiai
-- Dembinskio rinktinė kariavo_pries [[objektai/grupes/Rusai]]
+- Dembinskio rinktinė kariavo prieš [[objektai/grupes/Rusai]]

@@ -107,4 +107,4 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)]] keliavo_i Rittersverderis
+- Buvo kelionės vieta: [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)]]

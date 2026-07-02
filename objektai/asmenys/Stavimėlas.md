@@ -50,4 +50,4 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     - t-001
 
 ## Ryšiai
-- Stavimėlas buvo_sajungininkas_su [[objektai/asmenys/Pelužis]]
+- Sąjungininkai: [[objektai/asmenys/Pelužis]]

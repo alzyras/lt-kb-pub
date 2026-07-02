@@ -218,6 +218,5 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - t-003
 
 ## Ryšiai
-- Verkiai priklause [[objektai/vietos/Vilniaus katedra]]
-- [[objektai/asmenys/Martynas Knakfusas|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]] pastate Verkiai
-- Verkiai priklause [[objektai/vietos/Vilnius]]
+- Buvo pastatyta: [[objektai/asmenys/Martynas Knakfusas|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]]
+- Verkiai priklausė [[objektai/vietos/Vilniaus katedra]], [[objektai/vietos/Vilnius]]

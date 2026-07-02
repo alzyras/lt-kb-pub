@@ -297,8 +297,5 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-007
 
 ## Ryšiai
-- [[objektai/asmenys/Galminas]] keliavo_i Nevėžis
-- [[objektai/asmenys/Klausigaila]] keliavo_i Nevėžis
-- [[objektai/asmenys/Vasibutas]] keliavo_i Nevėžis
-- [[objektai/asmenys/Getautas]] keliavo_i Nevėžis
-- Nevėžis priklause [[objektai/vietos/Lietuva]]
+- Buvo kelionės vieta: [[objektai/asmenys/Galminas]], [[objektai/asmenys/Getautas]], [[objektai/asmenys/Klausigaila]], [[objektai/asmenys/Vasibutas]]
+- Nevėžis priklausė [[objektai/vietos/Lietuva]]

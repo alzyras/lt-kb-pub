@@ -75,4 +75,4 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/K. Ramanauskas]] surenge_zygi_i Seinai
+- Buvo žygio kryptis: [[objektai/asmenys/K. Ramanauskas]]

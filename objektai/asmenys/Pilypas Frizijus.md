@@ -89,5 +89,5 @@ periodo_grupes: []
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Vilniaus kapitula]] reme Pilypas Frizijus
-- Pilypas Frizijus reme [[objektai/grupes/Žydai]]
+- Rėmė Pilypas Frizijų: [[objektai/grupes/Vilniaus kapitula]]
+- Pilypas Frizijus rėmė [[objektai/grupes/Žydai]]

@@ -49,4 +49,4 @@ Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyr
     - t-001
 
 ## Ryšiai
-- Henrikas von Plauen gyne [[objektai/vietos/Marienburgas]]
+- Henrikas von Plauen gynė [[objektai/vietos/Marienburgas]]

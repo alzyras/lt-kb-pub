@@ -138,5 +138,5 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
     - t-006
 
 ## Ryšiai
-- Krymo chanatas priklause [[objektai/vietos/Turkija]]
-- [[objektai/grupes/Perekopo orda]] priklause Krymo chanatas
+- Turėjo priklausinį: [[objektai/grupes/Perekopo orda]]
+- Krymo chanatas priklausė [[objektai/vietos/Turkija]]

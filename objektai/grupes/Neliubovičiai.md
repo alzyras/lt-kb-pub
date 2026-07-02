@@ -56,4 +56,4 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Namas]] priklause Neliubovičiai
+- Turėjo priklausinį: [[objektai/daiktai/Namas]]

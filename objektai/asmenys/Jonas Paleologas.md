@@ -46,4 +46,4 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
     - t-001
 
 ## Ryšiai
-- Jonas Paleologas buvo_sunus [[objektai/asmenys/Manuelis]]
+- Tėvai: [[objektai/asmenys/Manuelis]]

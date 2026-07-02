@@ -56,5 +56,4 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
     - t-001
 
 ## Ryšiai
-- Jonas iš Vienos keliavo_i [[objektai/vietos/Lietuva]]
-- Jonas iš Vienos keliavo_i [[objektai/vietos/Kolainiai]]
+- Jonas iš Vienos keliavo į [[objektai/vietos/Kolainiai]], [[objektai/vietos/Lietuva]]

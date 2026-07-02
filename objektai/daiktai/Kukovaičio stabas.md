@@ -55,4 +55,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Kukovaičio stabas priklause [[objektai/vietos/Deltuvos kalnas]]
+- Kukovaičio stabas priklausė [[objektai/vietos/Deltuvos kalnas]]

@@ -64,5 +64,4 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
     - t-002
 
 ## Ryšiai
-- Tigras puole [[objektai/asmenys/Marcinkevičius]]
-- Tigras puole [[objektai/grupes/NKGB]]
+- Tigras puolė [[objektai/asmenys/Marcinkevičius]], [[objektai/grupes/NKGB]]

@@ -73,5 +73,5 @@ Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo a
     - t-001
 
 ## Ryšiai
-- Dainava priklause [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]] gyveno Dainava
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]
+- Dainava priklausė [[objektai/vietos/Lietuva]]

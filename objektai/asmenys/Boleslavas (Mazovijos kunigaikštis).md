@@ -56,4 +56,4 @@ Per viešpaties Mazovijos kunigaikščio Boleslavo kunigaikš­ tystę galės ki
     - t-001
 
 ## Ryšiai
-- Boleslavas (Mazovijos kunigaikštis) valde [[objektai/vietos/Mazovija]]
+- Boleslavas (Mazovijos kunigaikštis) valdė [[objektai/vietos/Mazovija]]

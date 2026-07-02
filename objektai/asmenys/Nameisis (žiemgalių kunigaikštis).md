@@ -84,4 +84,4 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
     - t-001
 
 ## Ryšiai
-- Nameisis (žiemgalių kunigaikštis) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Nameisis (žiemgalių kunigaikštis) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]

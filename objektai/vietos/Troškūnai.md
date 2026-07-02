@@ -53,4 +53,4 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Panevėžio rinktinė]] uzeme Troškūnai
+- Užėmė Troškūnai: [[objektai/grupes/Panevėžio rinktinė]]

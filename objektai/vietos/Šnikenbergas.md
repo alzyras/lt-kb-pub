@@ -74,4 +74,4 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Hertvigas]] gyveno Šnikenbergas
+- Gyvenamoji vieta: [[objektai/asmenys/Hertvigas]]

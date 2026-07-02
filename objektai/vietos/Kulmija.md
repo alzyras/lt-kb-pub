@@ -63,4 +63,4 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
     - t-001
 
 ## Ryšiai
-- Kulmija priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Kulmija priklausė [[objektai/grupes/Kryžiuočių ordinas]]

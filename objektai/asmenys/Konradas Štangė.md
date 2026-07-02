@@ -71,5 +71,5 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
     - t-001
 
 ## Ryšiai
-- Konradas Štangė keliavo_i [[objektai/vietos/Junigeda]]
-- Konradas Štangė puole [[objektai/grupes/Lietuviai]]
+- Konradas Štangė keliavo į [[objektai/vietos/Junigeda]]
+- Konradas Štangė puolė [[objektai/grupes/Lietuviai]]

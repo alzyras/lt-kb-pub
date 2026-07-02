@@ -545,24 +545,15 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
     - t-001
 
 ## Ryšiai
-- Pagudėnai puole [[objektai/vietos/Pilaitė]]
-- [[objektai/grupes/Žemaičiai]] gyne Pagudėnai
-- Pagudėnai apgule [[objektai/vietos/Traupeinas]]
-- Pagudėnai puole [[objektai/asmenys/Helvigas iš Goldbacho]]
-- Pagudėnai puole [[objektai/vietos/Elbingas]]
-- Pagudėnai valde [[objektai/vietos/Heilsbergas]]
-- [[objektai/vietos/Heilsbergas]] priklause Pagudėnai
-- Pagudėnai paskyre [[objektai/asmenys/Auktumas]]
-- Pagudėnai puole [[objektai/grupes/Elbingo miestiečiai]]
-- Pagudėnai puole [[objektai/vietos/Liefardo malūnas]]
-- Pagudėnai keliavo_i [[objektai/vietos/Elbingas]]
-- Pagudėnai buvo_sajungininkas_su [[objektai/grupes/Sūduviai]]
-- Pagudėnai sudare_sutarti_su [[objektai/grupes/Elbingo miestiečiai]]
-- Pagudėnai uzeme [[objektai/vietos/Pilaitė]]
-- [[objektai/grupes/Elbingo miestiečiai]] puole Pagudėnai
-- Pagudėnai puole [[objektai/vietos/Kristburgas]]
-- Pagudėnai gyveno [[objektai/vietos/Pagudė]]
-- Pagudėnai puole [[objektai/vietos/Pagudė]]
-- Pagudėnai puole [[objektai/vietos/Pamedė]]
-- Pagudėnai puole [[objektai/grupes/Pamedėnai]]
-- Pagudėnai gyveno [[objektai/vietos/Prūsų žemė]]
+- Sąjungininkai: [[objektai/grupes/Sūduviai]]
+- Puolė Pagudėnai: [[objektai/grupes/Elbingo miestiečiai]]
+- Gynė Pagudėnai: [[objektai/grupes/Žemaičiai]]
+- Turėjo priklausinį: [[objektai/vietos/Heilsbergas]]
+- Pagudėnai valdė [[objektai/vietos/Heilsbergas]]
+- Pagudėnai keliavo į [[objektai/vietos/Elbingas]]
+- Pagudėnai puolė [[objektai/vietos/Elbingas]], [[objektai/grupes/Elbingo miestiečiai]], [[objektai/asmenys/Helvigas iš Goldbacho]], [[objektai/vietos/Kristburgas]], [[objektai/vietos/Liefardo malūnas]], [[objektai/vietos/Pagudė]], [[objektai/vietos/Pamedė]], [[objektai/grupes/Pamedėnai]], [[objektai/vietos/Pilaitė]]
+- Pagudėnai apgulė [[objektai/vietos/Traupeinas]]
+- Pagudėnai užėmė [[objektai/vietos/Pilaitė]]
+- Pagudėnai sudarė sutartį su [[objektai/grupes/Elbingo miestiečiai]]
+- Pagudėnai gyveno [[objektai/vietos/Pagudė]], [[objektai/vietos/Prūsų žemė]]
+- Pagudėnai paskyrė [[objektai/asmenys/Auktumas]]

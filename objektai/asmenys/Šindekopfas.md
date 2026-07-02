@@ -85,5 +85,4 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
     - t-002
 
 ## Ryšiai
-- Šindekopfas uzeme [[objektai/vietos/Bajorų pilaitė]]
-- Šindekopfas uzeme [[objektai/vietos/Pilaitė]]
+- Šindekopfas užėmė [[objektai/vietos/Bajorų pilaitė]], [[objektai/vietos/Pilaitė]]

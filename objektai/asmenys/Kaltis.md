@@ -82,4 +82,4 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
     - t-001
 
 ## Ryšiai
-- Kaltis apgule [[objektai/vietos/Traupeinas]]
+- Kaltis apgulė [[objektai/vietos/Traupeinas]]

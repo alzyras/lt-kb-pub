@@ -620,10 +620,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
     - t-024
 
 ## Ryšiai
-- [[objektai/grupes/Baltai]] gyveno Dniepras
-- [[objektai/grupes/Krivičiai]] gyveno Dniepras
-- [[objektai/grupes/Totoriai]] keliavo_i Dniepras
-- [[objektai/grupes/Kazokai]] keliavo_i Dniepras
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Dniepras
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzkariavo Dniepras
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] uzeme Dniepras
+- Buvo kelionės vieta: [[objektai/grupes/Kazokai]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Užėmė Dnieprą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Buvo užkariauta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gyvenamoji vieta: [[objektai/grupes/Baltai]], [[objektai/grupes/Krivičiai]]

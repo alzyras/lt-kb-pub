@@ -52,6 +52,6 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] puole Zaberezinskis
-- [[objektai/asmenys/Aleksandras]] paskyre Zaberezinskis
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_priesas Zaberezinskis
+- Priešai: [[objektai/asmenys/Aleksandras Jogailaitis]]
+- Puolė Zaberezinskį: [[objektai/grupes/Totoriai]]
+- Paskyrė Zaberezinskį: [[objektai/asmenys/Aleksandras]]

@@ -59,6 +59,5 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Petras Bartkus-Žadgaila mire [[objektai/vietos/Užpelkiai]]
-- Petras Bartkus-Žadgaila dalyvavo_musyje [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]
-- Petras Bartkus-Žadgaila dalyvavo_musyje [[objektai/ivykiai/Užpelkių kautynės]]
+- Petras Bartkus-Žadgaila mirė [[objektai/vietos/Užpelkiai]]
+- Petras Bartkus-Žadgaila dalyvavo mūšyje [[objektai/ivykiai/Užpelkių kautynės]], [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]

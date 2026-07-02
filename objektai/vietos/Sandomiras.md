@@ -186,8 +186,6 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Sandomiras
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] surenge_zygi_i Sandomiras
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] puole Sandomiras
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Sandomiras
-- [[objektai/grupes/Lenkai]] priklause Sandomiras
+- Puolė Sandomirą: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Turėjo priklausinį: [[objektai/grupes/Lenkai]]

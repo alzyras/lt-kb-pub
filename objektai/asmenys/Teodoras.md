@@ -88,4 +88,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Teodoras buvo_brolis [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Broliai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

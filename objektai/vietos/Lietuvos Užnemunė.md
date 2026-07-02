@@ -178,5 +178,4 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     - t-007
 
 ## Ryšiai
-- Lietuvos Užnemunė priklause [[objektai/vietos/Suvalkų gubernija]]
-- Lietuvos Užnemunė priklause [[objektai/vietos/Augustavo gubernija]]
+- Lietuvos Užnemunė priklausė [[objektai/vietos/Augustavo gubernija]], [[objektai/vietos/Suvalkų gubernija]]

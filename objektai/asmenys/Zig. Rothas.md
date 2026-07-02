@@ -42,4 +42,4 @@ Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautu
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] paskyre Zig. Rothas
+- Paskyrė Zig. Rothą: [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

@@ -411,15 +411,11 @@ Daumantas pristatomas kaip Nalšėnų kunigaikštis, Mindaugo švogeris ir Treni
     - t-012
 
 ## Ryšiai
-- Daumantas (kunigaikštis, XV a.) puole [[objektai/vietos/Nalšėnai]]
-- Daumantas (kunigaikštis, XV a.) valde_teritorija [[objektai/vietos/Polockas]]
-- Daumantas (kunigaikštis, XV a.) surenge_zygi_i [[objektai/vietos/Nalšėnai]]
-- Daumantas (kunigaikštis, XV a.) buvo_valdovas [[objektai/vietos/Nalšėnai]]
-- Daumantas (kunigaikštis, XV a.) keliavo_i [[objektai/vietos/Pskovas]]
-- Daumantas (kunigaikštis, XV a.) valde [[objektai/vietos/Pskovas]]
-- Daumantas (kunigaikštis, XV a.) buvo_valdovas [[objektai/vietos/Nalšia]]
-- Daumantas (kunigaikštis, XV a.) valde [[objektai/vietos/Utena]]
-- Daumantas (kunigaikštis, XV a.) buvo_priesas [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- Daumantas (kunigaikštis, XV a.) pastate [[objektai/vietos/Svyrių pilis|Svyrių pilis (pilis)]]
-- Daumantas (kunigaikštis, XV a.) reme [[objektai/asmenys/Treniota]]
-- Daumantas (kunigaikštis, XV a.) buvo_priesas [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- Priešai: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- Daumantas (kunigaikštis, XV a.) buvo valdovas [[objektai/vietos/Nalšėnai]], [[objektai/vietos/Nalšia]]
+- Daumantas (kunigaikštis, XV a.) valdė [[objektai/vietos/Polockas]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Utena]]
+- Daumantas (kunigaikštis, XV a.) keliavo į [[objektai/vietos/Pskovas]]
+- Daumantas (kunigaikštis, XV a.) pastatė [[objektai/vietos/Svyrių pilis|Svyrių pilis (pilis)]]
+- Daumantas (kunigaikštis, XV a.) puolė [[objektai/vietos/Nalšėnai]]
+- Daumantas (kunigaikštis, XV a.) surengė žygį į [[objektai/vietos/Nalšėnai]]
+- Daumantas (kunigaikštis, XV a.) rėmė [[objektai/asmenys/Treniota]]

@@ -134,7 +134,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Erdenas, arba Jerdenas]] buvo_sunus Dovydas
-- Dovydas surenge_zygi_i [[objektai/vietos/Dobrynė]]
-- Dovydas puole [[objektai/vietos/Dobrynė]]
-- Dovydas puole [[objektai/vietos/Mazovija]]
+- Sūnūs: [[objektai/asmenys/Erdenas, arba Jerdenas]]
+- Dovydas puolė [[objektai/vietos/Dobrynė]], [[objektai/vietos/Mazovija]]
+- Dovydas surengė žygį į [[objektai/vietos/Dobrynė]]

@@ -48,4 +48,4 @@ Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių O
     - t-001
 
 ## Ryšiai
-- Stanislovas Pacas puole [[objektai/vietos/Maskva]]
+- Stanislovas Pacas puolė [[objektai/vietos/Maskva]]

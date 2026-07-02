@@ -83,4 +83,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kazokai]] dalyvavo_musyje Kražių įvykiai
+- Turėjo dalyvį: [[objektai/grupes/Kazokai]]

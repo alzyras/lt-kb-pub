@@ -43,4 +43,4 @@ Dusburgietis teigia, kad žygio prieš Lietuvą metu Karaliaučiaus komtūrui br
     - t-001
 
 ## Ryšiai
-- Albertas (Karaliaučiaus komtūras) surenge_zygi_i [[objektai/vietos/Lietuva]]
+- Albertas (Karaliaučiaus komtūras) surengė žygį į [[objektai/vietos/Lietuva]]

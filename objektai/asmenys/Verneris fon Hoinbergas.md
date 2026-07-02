@@ -48,4 +48,4 @@ Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto did
     - t-001
 
 ## Ryšiai
-- Verneris fon Hoinbergas (didikas) keliavo_i [[objektai/vietos/Prūsija]]
+- Verneris fon Hoinbergas (didikas) keliavo į [[objektai/vietos/Prūsija]]

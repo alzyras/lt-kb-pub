@@ -105,6 +105,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] buvo_palaidotas Laužas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_palaidotas Laužas
-- Laužas priklause [[objektai/vietos/Išlaužas]]
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Laužas priklausė [[objektai/vietos/Išlaužas]]

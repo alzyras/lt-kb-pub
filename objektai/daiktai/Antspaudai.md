@@ -225,5 +225,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- Antspaudai priklause [[objektai/grupes/Bajorai]]
-- Antspaudai priklause [[objektai/grupes/Vilniaus magistratas]]
+- Antspaudai priklausė [[objektai/grupes/Bajorai]], [[objektai/grupes/Vilniaus magistratas]]

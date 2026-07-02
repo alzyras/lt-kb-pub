@@ -47,4 +47,4 @@ atnaujinta: ''
     - t-001
 
 ## Ryšiai
-- Vigandas fon Baldersheimas puole [[objektai/grupes/Lietuviai]]
+- Vigandas fon Baldersheimas puolė [[objektai/grupes/Lietuviai]]

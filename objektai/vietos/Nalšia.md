@@ -85,4 +85,4 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] buvo_valdovas Nalšia
+- Turėjo valdovą: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]

@@ -127,8 +127,5 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
     - t-001
 
 ## Ryšiai
-- Eberhardas (Varmės vyskupas) puole [[objektai/vietos/Pagraudė]]
-- Eberhardas (Varmės vyskupas) surenge_zygi_i [[objektai/vietos/Pagraudė]]
-- Eberhardas (Varmės vyskupas) puole [[objektai/vietos/Lietuva]]
-- Eberhardas (Varmės vyskupas) puole [[objektai/vietos/Pagraudenė]]
-- Eberhardas (Varmės vyskupas) surenge_zygi_i [[objektai/vietos/Pagraudenė]]
+- Eberhardas (Varmės vyskupas) puolė [[objektai/vietos/Lietuva]], [[objektai/vietos/Pagraudenė]], [[objektai/vietos/Pagraudė]]
+- Eberhardas (Varmės vyskupas) surengė žygį į [[objektai/vietos/Pagraudenė]], [[objektai/vietos/Pagraudė]]

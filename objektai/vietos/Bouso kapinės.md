@@ -42,4 +42,4 @@ Pasak Narbuto, Bouslaviškių kaimiečiai kvadratinį kapą lietuviškai vadino 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Bousas|Bousas (didikas, XVI a.)]] buvo_palaidotas Bouso kapinės
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Bousas|Bousas (didikas, XVI a.)]]

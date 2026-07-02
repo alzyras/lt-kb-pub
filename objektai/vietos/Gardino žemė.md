@@ -47,5 +47,5 @@ Gardino žemė su artimiausiomis pilimis buvo pradinis laimikis.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde_teritorija Gardino žemė
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] uzeme Gardino žemė
+- Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Užėmė Gardino žemę: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

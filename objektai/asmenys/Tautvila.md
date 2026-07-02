@@ -145,8 +145,7 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
     - t-003
 
 ## Ryšiai
-- Tautvila buvo_sunus [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Tautvila mire [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Rusai]] reme Tautvila
-- [[objektai/grupes/Poloviečiai]] reme Tautvila
-- Tautvila buvo_valdovas [[objektai/vietos/Lietuva]]
+- Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Rėmė Tautvilą: [[objektai/grupes/Poloviečiai]], [[objektai/grupes/Rusai]]
+- Tautvila buvo valdovas [[objektai/vietos/Lietuva]]
+- Tautvila mirė [[objektai/vietos/Vilnius]]

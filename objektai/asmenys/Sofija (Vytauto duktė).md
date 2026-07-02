@@ -190,6 +190,5 @@ Sofija, Vytauto duktė, šaltiniuose minima kaip Maskvos kunigaikštienė, sieja
     - t-006
 
 ## Ryšiai
-- Sofija (Vytauto duktė) buvo_dukte [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Sofija (Vytauto duktė) keliavo_i [[objektai/vietos/Pskovas]]
-- Sofija (Vytauto duktė) keliavo_i [[objektai/vietos/Pernu]]
+- Tėvai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Sofija (Vytauto duktė) keliavo į [[objektai/vietos/Pernu]], [[objektai/vietos/Pskovas]]

@@ -126,4 +126,4 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Turčinas]] keliavo_i Leipcigas
+- Buvo kelionės vieta: [[objektai/asmenys/Turčinas]]

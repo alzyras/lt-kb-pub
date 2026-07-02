@@ -68,5 +68,5 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
     - t-001
 
 ## Ryšiai
-- Pinas buvo_sunus [[objektai/asmenys/Draika]]
-- Pinas keliavo_i [[objektai/vietos/Ragainė]]
+- Tėvai: [[objektai/asmenys/Draika]]
+- Pinas keliavo į [[objektai/vietos/Ragainė]]

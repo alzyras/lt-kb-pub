@@ -97,4 +97,4 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
     - t-002
 
 ## Ryšiai
-- [[objektai/daiktai/Bychovco kronikos rankraštis]] priklause Aleksandras Bychovcas (volkovysko apskrities teisėjas)
+- Turėjo priklausinį: [[objektai/daiktai/Bychovco kronikos rankraštis]]

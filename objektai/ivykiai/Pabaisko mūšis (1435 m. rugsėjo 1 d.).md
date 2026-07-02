@@ -214,11 +214,4 @@ Nenurodyta
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Kerskorfas]] dalyvavo_musyje Pabaisko mūšis (1435 m. rugsėjo 1 d.)
-- [[objektai/grupes/Livonijos ordinas]] dalyvavo_musyje Pabaisko mūšis (1435 m. rugsėjo 1 d.)
-- [[objektai/asmenys/Švitrigaila]] dalyvavo_musyje Pabaisko mūšis (1435 m. rugsėjo 1 d.)
-- [[objektai/grupes/Lenkai]] dalyvavo_musyje Pabaisko mūšis (1435 m. rugsėjo 1 d.)
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Pabaisko mūšis (1435 m. rugsėjo 1 d.)
-- [[objektai/asmenys/Žygimantas]] dalyvavo_musyje Pabaisko mūšis (1435 m. rugsėjo 1 d.)
-- [[objektai/grupes/Rusėnai]] dalyvavo_musyje Pabaisko mūšis (1435 m. rugsėjo 1 d.)
-- [[objektai/grupes/Totoriai]] dalyvavo_musyje Pabaisko mūšis (1435 m. rugsėjo 1 d.)
+- Turėjo dalyvį: [[objektai/asmenys/Kerskorfas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Livonijos ordinas]], [[objektai/grupes/Rusėnai]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Žygimantas]]

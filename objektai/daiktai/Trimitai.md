@@ -88,4 +88,4 @@ Nenurodyta
 - čia instrumentas turi ir bendrinį, ir apeiginį vartojimą, bet daiktiškai jis aprašytas aiškiai.
 
 ## Ryšiai
-- Trimitai priklause [[objektai/grupes/Radvilos]]
+- Trimitai priklausė [[objektai/grupes/Radvilos]]

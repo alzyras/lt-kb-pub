@@ -95,4 +95,4 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Latviai]] gyveno Vidžemė
+- Gyvenamoji vieta: [[objektai/grupes/Latviai]]

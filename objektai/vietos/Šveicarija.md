@@ -117,5 +117,5 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] keliavo_i Šveicarija
-- [[objektai/grupes/Lietuviai]] gyveno Šveicarija
+- Buvo kelionės vieta: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

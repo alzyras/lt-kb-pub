@@ -289,30 +289,14 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     - t-004
 
 ## Ryšiai
-- Maskvėnai puole [[objektai/vietos/Smolenskas]]
-- Maskvėnai uzeme [[objektai/vietos/Dorpatas]]
-- Maskvėnai uzeme [[objektai/vietos/Viljandis]]
-- Maskvėnai uzeme [[objektai/vietos/Livonija]]
-- Maskvėnai puole [[objektai/vietos/Lietuva]]
-- Maskvėnai dalyvavo_musyje [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
-- Maskvėnai uzeme [[objektai/vietos/Rohačevas]]
-- Maskvėnai puole [[objektai/vietos/Vitebskas]]
-- Maskvėnai puole [[objektai/vietos/Minskas]]
-- Maskvėnai puole [[objektai/vietos/Viazma]]
-- [[objektai/grupes/Lietuviai]] puole Maskvėnai
-- Maskvėnai surenge_zygi_i [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Lietuviai]] kariavo_pries Maskvėnai
-- Maskvėnai dalyvavo_musyje [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]]
-- Maskvėnai kariavo_pries [[objektai/grupes/Lietuvos kariuomenė]]
-- Maskvėnai puole [[objektai/vietos/Dorpatas]]
-- Maskvėnai keliavo_i [[objektai/vietos/Maskva]]
-- Maskvėnai puole [[objektai/vietos/Tykioji Sosna]]
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]] kariavo_pries Maskvėnai
-- Maskvėnai kariavo_pries [[objektai/grupes/Lietuviai]]
-- Maskvėnai buvo_sajungininkas_su [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]] puole Maskvėnai
-- Maskvėnai buvo_priesas [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- [[objektai/asmenys/Mikalojus Radvila Rudasis]] kariavo_pries Maskvėnai
-- [[objektai/vietos/Maskva]] priklause Maskvėnai
-- Maskvėnai kariavo_pries [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- Maskvėnai uzeme [[objektai/vietos/Viazma]]
+- Priešai: [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- Sąjungininkai: [[objektai/grupes/Totoriai]]
+- Puolė Maskvėnai: [[objektai/asmenys/Konstantinas (Karijotaitis)]], [[objektai/grupes/Lietuviai]]
+- Kariavo prieš: [[objektai/asmenys/Konstantinas (Karijotaitis)]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mikalojus Radvila Rudasis]]
+- Turėjo priklausinį: [[objektai/vietos/Maskva]]
+- Maskvėnai keliavo į [[objektai/vietos/Maskva]]
+- Maskvėnai puolė [[objektai/vietos/Dorpatas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Minskas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Tykioji Sosna]], [[objektai/vietos/Viazma]], [[objektai/vietos/Vitebskas]]
+- Maskvėnai užėmė [[objektai/vietos/Dorpatas]], [[objektai/vietos/Livonija]], [[objektai/vietos/Rohačevas]], [[objektai/vietos/Viazma]], [[objektai/vietos/Viljandis]]
+- Maskvėnai surengė žygį į [[objektai/vietos/Livonija]]
+- Maskvėnai kariavo prieš [[objektai/asmenys/Konstantinas (Karijotaitis)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]]
+- Maskvėnai dalyvavo mūšyje [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]], [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]

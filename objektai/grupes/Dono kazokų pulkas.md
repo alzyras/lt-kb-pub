@@ -85,4 +85,4 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
     - t-002
 
 ## Ryšiai
-- Dono kazokų pulkas priklause [[objektai/grupes/Rusai]]
+- Dono kazokų pulkas priklausė [[objektai/grupes/Rusai]]

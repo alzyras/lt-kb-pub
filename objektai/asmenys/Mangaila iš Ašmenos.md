@@ -52,5 +52,5 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
     - t-001
 
 ## Ryšiai
+- Mangaila iš Ašmenos keliavo į [[objektai/vietos/Luckas]]
 - Mangaila iš Ašmenos gyveno [[objektai/vietos/Ašmena]]
-- Mangaila iš Ašmenos keliavo_i [[objektai/vietos/Luckas]]

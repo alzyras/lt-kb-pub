@@ -82,7 +82,7 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jekaterina II]] reme Čartoriskiai
-- Čartoriskiai siunte_i [[objektai/vietos/Petrapilis]]
-- [[objektai/asmenys/Jekaterina II]] buvo_priesas Čartoriskiai
-- Čartoriskiai valde_teritorija [[objektai/vietos/Klevanė]]
+- Priešai: [[objektai/asmenys/Jekaterina II]]
+- Rėmė Čartoriskiai: [[objektai/asmenys/Jekaterina II]]
+- Čartoriskiai valdė [[objektai/vietos/Klevanė]]
+- Čartoriskiai siuntė į [[objektai/vietos/Petrapilis]]

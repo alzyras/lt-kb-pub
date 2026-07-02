@@ -1899,27 +1899,10 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
     - t-068
 
 ## Ryšiai
-- [[objektai/asmenys/Jadvyga Jogailienė]] keliavo_i Krokuva
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Krokuva
-- [[objektai/asmenys/Aleksandras]] keliavo_i Krokuva
-- [[objektai/grupes/Lietuviai]] puole Krokuva
-- [[objektai/grupes/Maskvos pasiuntiniai]] keliavo_i Krokuva
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Krokuva
-- [[objektai/asmenys/Aleksandras Balinskis]] keliavo_i Krokuva
-- [[objektai/asmenys/Konradas]] buvo_valdovas Krokuva
-- [[objektai/asmenys/Švitrigaila]] keliavo_i Krokuva
-- [[objektai/asmenys/Borisas Karijotaitis]] keliavo_i Krokuva
-- [[objektai/asmenys/Motiejus iš Blonios]] keliavo_i Krokuva
-- [[objektai/asmenys/Skirgaila]] keliavo_i Krokuva
-- [[objektai/daiktai/Zigmanto Augusto antkapis]] priklause Krokuva
-- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]] keliavo_i Krokuva
-- [[objektai/asmenys/Karigaila]] keliavo_i Krokuva
-- [[objektai/daiktai/Kryžius]] priklause Krokuva
-- [[objektai/asmenys/Petras Kustynia]] gyveno Krokuva
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] surenge_zygi_i Krokuva
-- [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]] keliavo_i Krokuva
-- [[objektai/asmenys/Jadvyga]] keliavo_i Krokuva
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Krokuva
-- [[objektai/grupes/Lenkai]] keliavo_i Krokuva
-- [[objektai/asmenys/Petras Goštautas]] gyveno Krokuva
-- [[objektai/asmenys/Jonas Olbrachtas]] keliavo_i Krokuva
+- Turėjo valdovą: [[objektai/asmenys/Konradas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]], [[objektai/asmenys/Borisas (Tverės kunigaikštis)]], [[objektai/asmenys/Borisas Karijotaitis]], [[objektai/asmenys/Jadvyga]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jonas Olbrachtas]], [[objektai/asmenys/Karigaila]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/asmenys/Motiejus iš Blonios]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Krokuvą: [[objektai/grupes/Lietuviai]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
+- Gyvenamoji vieta: [[objektai/asmenys/Petras Goštautas]], [[objektai/asmenys/Petras Kustynia]]
+- Turėjo priklausinį: [[objektai/daiktai/Kryžius]], [[objektai/daiktai/Zigmanto Augusto antkapis]]

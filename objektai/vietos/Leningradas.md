@@ -88,4 +88,4 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
     - t-002
 
 ## Ryšiai
-- Leningradas prekiavo_su [[objektai/vietos/Lietuva]]
+- Leningradas prekiavo su [[objektai/vietos/Lietuva]]

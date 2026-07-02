@@ -403,10 +403,9 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
     - t-015
 
 ## Ryšiai
-- [[objektai/asmenys/Jaroslavas]] buvo_valdovas Kijevo Rusia
-- Kijevo Rusia priklause [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]] surenge_zygi_i Kijevo Rusia
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyne Kijevo Rusia
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde Kijevo Rusia
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Kijevo Rusia
-- [[objektai/asmenys/Kukovaitis]] siunte_i Kijevo Rusia
+- Turėjo valdovą: [[objektai/asmenys/Jaroslavas]]
+- Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Gynė Kijevo Rusią: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Kukovaitis]]
+- Buvo žygio kryptis: [[objektai/grupes/Lietuviai]]
+- Kijevo Rusia priklausė [[objektai/vietos/Lietuva]]

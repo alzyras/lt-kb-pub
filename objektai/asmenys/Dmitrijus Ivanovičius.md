@@ -86,5 +86,5 @@ periodo_grupes:
     - t-002
 
 ## Ryšiai
-- Dmitrijus Ivanovičius puole [[objektai/vietos/Tverė]]
-- Dmitrijus Ivanovičius buvo_valdovas [[objektai/vietos/Maskva]]
+- Dmitrijus Ivanovičius buvo valdovas [[objektai/vietos/Maskva]]
+- Dmitrijus Ivanovičius puolė [[objektai/vietos/Tverė]]

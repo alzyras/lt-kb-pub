@@ -351,8 +351,4 @@ Nenurodyta
     - t-006
 
 ## Ryšiai
-- Herbai priklause [[objektai/grupes/Lenkai]]
-- Herbai priklause [[objektai/grupes/Lietuvos bajorija]]
-- Herbai priklause [[objektai/grupes/Lenkų bajorai]]
-- Herbai priklause [[objektai/grupes/Bajorai]]
-- Herbai priklause [[objektai/grupes/Lietuvių bajorija]]
+- Herbai priklausė [[objektai/grupes/Bajorai]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lenkų bajorai]], [[objektai/grupes/Lietuvių bajorija]], [[objektai/grupes/Lietuvos bajorija]]

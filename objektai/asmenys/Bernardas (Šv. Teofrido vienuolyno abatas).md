@@ -90,5 +90,4 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     - t-002
 
 ## Ryšiai
-- Bernardas (Šv. Teofrido vienuolyno abatas) keliavo_i [[objektai/vietos/Livonija]]
-- Bernardas (Šv. Teofrido vienuolyno abatas) keliavo_i [[objektai/vietos/Ryga]]
+- Bernardas (Šv. Teofrido vienuolyno abatas) keliavo į [[objektai/vietos/Livonija]], [[objektai/vietos/Ryga]]

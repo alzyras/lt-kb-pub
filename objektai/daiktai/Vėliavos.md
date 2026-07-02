@@ -619,8 +619,4 @@ Nenurodyta
     - t-023
 
 ## Ryšiai
-- Vėliavos priklause [[objektai/grupes/Prūsai]]
-- Vėliavos priklause [[objektai/grupes/Vokiečiai]]
-- Vėliavos priklause [[objektai/vietos/Lenkija]]
-- Vėliavos priklause [[objektai/vietos/Lietuva]]
-- Vėliavos priklause [[objektai/vietos/Vilnius]]
+- Vėliavos priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Prūsai]], [[objektai/vietos/Vilnius]], [[objektai/grupes/Vokiečiai]]

@@ -44,4 +44,4 @@ Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėn�
     - t-001
 
 ## Ryšiai
-- Petras Semaška keliavo_i [[objektai/vietos/Liublinas]]
+- Petras Semaška keliavo į [[objektai/vietos/Liublinas]]

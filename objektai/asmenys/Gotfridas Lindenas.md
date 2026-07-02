@@ -88,5 +88,5 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
     - t-001
 
 ## Ryšiai
-- Gotfridas Lindenas puole [[objektai/vietos/Vilnius]]
-- Gotfridas Lindenas surenge_zygi_i [[objektai/vietos/Vilnius]]
+- Gotfridas Lindenas puolė [[objektai/vietos/Vilnius]]
+- Gotfridas Lindenas surengė žygį į [[objektai/vietos/Vilnius]]

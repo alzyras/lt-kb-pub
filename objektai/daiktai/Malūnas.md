@@ -149,7 +149,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Malūnas priklause [[objektai/asmenys/Aleksandras Jogailaitis]]
-- Malūnas priklause [[objektai/asmenys/Mikalojus Radvila]]
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Malūnas
-- Malūnas priklause [[objektai/grupes/Vokiečių pirkliai]]
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Malūnas priklausė [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Mikalojus Radvila]], [[objektai/grupes/Vokiečių pirkliai]]

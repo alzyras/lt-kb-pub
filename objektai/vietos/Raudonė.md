@@ -48,4 +48,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kiršenšteinai]] valde Raudonė
+- Buvo valdoma: [[objektai/grupes/Kiršenšteinai]]

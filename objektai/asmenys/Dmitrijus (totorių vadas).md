@@ -80,5 +80,5 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
     - t-002
 
 ## Ryšiai
-- Dmitrijus (totorių vadas) kariavo_pries [[objektai/grupes/Lietuvos kariuomenė]]
-- Dmitrijus (totorių vadas) dalyvavo_musyje [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- Dmitrijus (totorių vadas) kariavo prieš [[objektai/grupes/Lietuvos kariuomenė]]
+- Dmitrijus (totorių vadas) dalyvavo mūšyje [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]

@@ -159,4 +159,4 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Robertas Zemeckis]] gime Čikaga
+- Gimimo vieta: [[objektai/asmenys/Robertas Zemeckis]]

@@ -55,4 +55,4 @@ Stai­ ga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie N
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Metena
+- Puolė Meteną: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

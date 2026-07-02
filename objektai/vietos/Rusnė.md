@@ -85,4 +85,4 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     - t-002
 
 ## Ryšiai
-- Rusnė priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Rusnė priklausė [[objektai/grupes/Kryžiuočių ordinas]]

@@ -154,8 +154,8 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
     - t-004
 
 ## Ryšiai
-- Boleslovas Švitrigaila keliavo_i [[objektai/vietos/Kijevas]]
-- Boleslovas Švitrigaila puole [[objektai/vietos/Lietuva]]
-- Boleslovas Švitrigaila apgule [[objektai/vietos/Vilnius]]
-- Boleslovas Švitrigaila surenge_zygi_i [[objektai/vietos/Ukmergė]]
-- [[objektai/vietos/Luckas]] priklause Boleslovas Švitrigaila
+- Turėjo priklausinį: [[objektai/vietos/Luckas]]
+- Boleslovas Švitrigaila keliavo į [[objektai/vietos/Kijevas]]
+- Boleslovas Švitrigaila puolė [[objektai/vietos/Lietuva]]
+- Boleslovas Švitrigaila apgulė [[objektai/vietos/Vilnius]]
+- Boleslovas Švitrigaila surengė žygį į [[objektai/vietos/Ukmergė]]

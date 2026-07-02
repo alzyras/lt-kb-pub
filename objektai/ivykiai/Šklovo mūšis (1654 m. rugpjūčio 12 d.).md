@@ -100,4 +100,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Šklovo mūšis (1654 m. rugpjūčio 12 d.)
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]]

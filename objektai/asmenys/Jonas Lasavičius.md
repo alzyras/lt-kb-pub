@@ -58,4 +58,4 @@ Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko, paskui Vilniaus v
     - t-001
 
 ## Ryšiai
-- Jonas Lasavičius gime [[objektai/vietos/Vilnius]]
+- Jonas Lasavičius gimė [[objektai/vietos/Vilnius]]

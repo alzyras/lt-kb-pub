@@ -66,5 +66,4 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] buvo_vyras Morta
-- Morta buvo_zmona [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- Vyrai: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

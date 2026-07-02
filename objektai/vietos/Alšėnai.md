@@ -162,5 +162,5 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] keliavo_i Alšėnai
-- [[objektai/asmenys/Povilas Algimantas]] buvo_valdovas Alšėnai
+- Turėjo valdovą: [[objektai/asmenys/Povilas Algimantas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]

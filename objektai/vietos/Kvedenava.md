@@ -94,4 +94,4 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Kvedenava
+- Puolė Kvedenavą: [[objektai/grupes/Kryžiuočių ordinas]]

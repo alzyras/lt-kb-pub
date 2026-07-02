@@ -150,4 +150,4 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Sventopelkas]] buvo_sajungininkas_su Pomeranai
+- Sąjungininkai: [[objektai/asmenys/Sventopelkas]]

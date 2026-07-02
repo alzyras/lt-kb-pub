@@ -76,4 +76,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- „Pienocentro“ pastatas Kaune priklause [[objektai/vietos/Kaunas]]
+- „Pienocentro“ pastatas Kaune priklausė [[objektai/vietos/Kaunas]]

@@ -47,4 +47,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/L. Želigovskis]] puole oji pėstininkų divizija
+- Puolė oji pėstininkų diviziją: [[objektai/asmenys/L. Želigovskis]]

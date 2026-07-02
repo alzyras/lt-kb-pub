@@ -152,5 +152,5 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
     - t-002
 
 ## Ryšiai
-- Braunsbergas priklause [[objektai/vietos/Varmijos vyskupystė]]
-- [[objektai/grupes/Jėzuitų ordinas]] keliavo_i Braunsbergas
+- Buvo kelionės vieta: [[objektai/grupes/Jėzuitų ordinas]]
+- Braunsbergas priklausė [[objektai/vietos/Varmijos vyskupystė]]

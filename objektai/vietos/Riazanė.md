@@ -403,9 +403,6 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
     - t-013
 
 ## Ryšiai
-- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]] puole Riazanė
-- [[objektai/asmenys/Chudandachas]] puole Riazanė
-- [[objektai/grupes/Užvolgio totoriai]] puole Riazanė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Riazanė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Riazanė
-- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]] uzeme Riazanė
+- Puolė Riazanę: [[objektai/asmenys/Chudandachas]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]], [[objektai/grupes/Užvolgio totoriai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Užėmė Riazanę: [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

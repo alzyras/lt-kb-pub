@@ -46,4 +46,4 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis.
     - t-001
 
 ## Ryšiai
-- Romuntas buvo_sunus [[objektai/asmenys/Giliginas]]
+- Tėvai: [[objektai/asmenys/Giliginas]]

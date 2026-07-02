@@ -75,5 +75,4 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
     - t-001
 
 ## Ryšiai
-- Belichovas priklause [[objektai/asmenys/Jonas (Sarginio sūnus)]]
-- Belichovas priklause [[objektai/grupes/Pamedėnai]]
+- Belichovas priklausė [[objektai/asmenys/Jonas (Sarginio sūnus)]], [[objektai/grupes/Pamedėnai]]

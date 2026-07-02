@@ -53,4 +53,4 @@ Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan V
     - t-001
 
 ## Ryšiai
-- Didysis Machmetas valde [[objektai/vietos/Kipčakas]]
+- Didysis Machmetas valdė [[objektai/vietos/Kipčakas]]

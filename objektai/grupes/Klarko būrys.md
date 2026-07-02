@@ -47,5 +47,4 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     - t-001
 
 ## Ryšiai
-- Klarko būrys gyveno [[objektai/vietos/Buktos (Žaliosios) miškas]]
-- Klarko būrys gyveno [[objektai/vietos/Žuvintas]]
+- Klarko būrys gyveno [[objektai/vietos/Buktos (Žaliosios) miškas]], [[objektai/vietos/Žuvintas]]

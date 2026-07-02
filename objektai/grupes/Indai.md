@@ -165,5 +165,5 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
     - t-005
 
 ## Ryšiai
+- Turėjo priklausinį: [[objektai/grupes/Budinai]]
 - Indai gyveno [[objektai/vietos/Himalajų kalnai]]
-- [[objektai/grupes/Budinai]] priklause Indai

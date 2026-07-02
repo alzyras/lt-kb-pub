@@ -88,5 +88,4 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] reme Andrius Važila
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Andrius Važila
+- Rėmė Andrius Važilą: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

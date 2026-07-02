@@ -76,4 +76,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Lietuvos herbas Vytis priklause [[objektai/vietos/Lietuva]]
+- Lietuvos herbas Vytis priklausė [[objektai/vietos/Lietuva]]

@@ -51,4 +51,4 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - t-001
 
 ## Ryšiai
-- Ypatingasis SD būrys Vilniuje puole [[objektai/grupes/Žydai]]
+- Ypatingasis SD būrys Vilniuje puolė [[objektai/grupes/Žydai]]

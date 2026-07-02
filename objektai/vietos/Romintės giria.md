@@ -49,4 +49,4 @@ Dusburgietis teigia, kad nadruvos pietryčiuose, Pisos intako Romintės (dab.
     - t-001
 
 ## Ryšiai
-- Romintės giria priklause [[objektai/vietos/Nadruva]]
+- Romintės giria priklausė [[objektai/vietos/Nadruva]]

@@ -119,4 +119,4 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
     - t-002
 
 ## Ryšiai
-- Konradas Žakas puole [[objektai/grupes/Lietuviai]]
+- Konradas Žakas puolė [[objektai/grupes/Lietuviai]]

@@ -253,4 +253,4 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - t-002
 
 ## Ryšiai
-- Mūro sienos ir miesto sienos priklause [[objektai/vietos/Lionas]]
+- Mūro sienos ir miesto sienos priklausė [[objektai/vietos/Lionas]]

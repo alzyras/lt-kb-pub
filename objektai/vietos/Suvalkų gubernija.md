@@ -52,4 +52,4 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Lietuvos Užnemunė]] priklause Suvalkų gubernija
+- Turėjo priklausinį: [[objektai/vietos/Lietuvos Užnemunė]]

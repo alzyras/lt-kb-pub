@@ -76,4 +76,4 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Chodkevičiai]] reme Ivanas Fiodorovas
+- Rėmė Ivanas Fiodorovą: [[objektai/grupes/Chodkevičiai]]

@@ -49,4 +49,4 @@ Jo laikais jau būdavo saugu visuose kraštuose, ku­ riuos jis valdė, Vilniuje
     - t-001
 
 ## Ryšiai
-- Naugardo, Pskovo, Rygos ir Maskvos pirkliai prekiavo_su [[objektai/vietos/Vilnius]]
+- Naugardo, Pskovo, Rygos ir Maskvos pirkliai prekiavo su [[objektai/vietos/Vilnius]]

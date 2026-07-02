@@ -125,4 +125,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Herkus Mantas]] dalyvavo_musyje Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)
+- Turėjo dalyvį: [[objektai/asmenys/Herkus Mantas]]

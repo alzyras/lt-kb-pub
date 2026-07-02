@@ -55,5 +55,5 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Pršemyslas Otokaras II reme [[objektai/grupes/Kryžiuočių ordinas]]
-- Pršemyslas Otokaras II buvo_valdovas [[objektai/vietos/Čekija]]
+- Pršemyslas Otokaras II buvo valdovas [[objektai/vietos/Čekija]]
+- Pršemyslas Otokaras II rėmė [[objektai/grupes/Kryžiuočių ordinas]]

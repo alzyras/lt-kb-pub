@@ -484,13 +484,7 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
     - t-014
 
 ## Ryšiai
-- [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]] buvo_vyras Barbora Radvilaitė
-- Barbora Radvilaitė buvo_zmona [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] vede Barbora Radvilaitė
-- [[objektai/asmenys/Augustas]] buvo_vyras Barbora Radvilaitė
-- [[objektai/asmenys/Augustas]] vede Barbora Radvilaitė
-- Barbora Radvilaitė buvo_zmona [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
-- [[objektai/vietos/Barboros rūmai Vilniuje]] priklause Barbora Radvilaitė
+- Vyrai: [[objektai/asmenys/Augustas]], [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- Sutuoktiniai: [[objektai/asmenys/Augustas]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- Turėjo priklausinį: [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]], [[objektai/vietos/Barboros rūmai Vilniuje]]
 - Barbora Radvilaitė gyveno [[objektai/vietos/Barboros rūmai Vilniuje]]
-- [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]] priklause Barbora Radvilaitė
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] buvo_vyras Barbora Radvilaitė

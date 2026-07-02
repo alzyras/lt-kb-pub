@@ -82,4 +82,4 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Švedai]] uzeme Apuolės pilis (pilis)
+- Užėmė Apuolės pilį (pilis): [[objektai/grupes/Švedai]]

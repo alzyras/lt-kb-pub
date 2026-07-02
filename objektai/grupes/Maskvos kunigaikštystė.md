@@ -230,6 +230,5 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_priesas Maskvos kunigaikštystė
-- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Trakai]]
-- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Vilnius]]
+- Priešai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Maskvos kunigaikštystė keliavo į [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]

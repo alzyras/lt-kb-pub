@@ -60,5 +60,4 @@ Smetona žuvo Klivlande per gaisrą.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/A. Smetona]] mire Klivlandas
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] mire Klivlandas
+- Mirties vieta: [[objektai/asmenys/A. Smetona]], [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

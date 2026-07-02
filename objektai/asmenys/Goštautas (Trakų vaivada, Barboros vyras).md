@@ -63,4 +63,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Goštautas (Trakų vaivada, Barboros vyras) buvo_vyras [[objektai/asmenys/Barbora Radvilaitė]]
+- Žmonos: [[objektai/asmenys/Barbora Radvilaitė]]

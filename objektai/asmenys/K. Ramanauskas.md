@@ -50,5 +50,4 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
     - t-001
 
 ## Ryšiai
-- K. Ramanauskas surenge_zygi_i [[objektai/vietos/Seinai]]
-- K. Ramanauskas surenge_zygi_i [[objektai/vietos/Augustavas]]
+- K. Ramanauskas surengė žygį į [[objektai/vietos/Augustavas]], [[objektai/vietos/Seinai]]

@@ -156,7 +156,5 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - t-004
 
 ## Ryšiai
-- Patrikas (kunigaikštis, XIV a.) buvo_sunus [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
-- Patrikas (kunigaikštis, XIV a.) buvo_sunus [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Patrikas (kunigaikštis, XIV a.) puole [[objektai/vietos/Skalvos žemė]]
-- Patrikas (kunigaikštis, XIV a.) puole [[objektai/vietos/Skalva]]
+- Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- Patrikas (kunigaikštis, XIV a.) puolė [[objektai/vietos/Skalva]], [[objektai/vietos/Skalvos žemė]]

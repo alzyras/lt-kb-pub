@@ -45,4 +45,4 @@ Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tyk
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Maskvėnai]] puole Tykioji Sosna
+- Puolė Tykioji Sosną: [[objektai/grupes/Maskvėnai]]

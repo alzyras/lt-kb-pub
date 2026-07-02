@@ -211,5 +211,5 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - t-007
 
 ## Ryšiai
-- [[objektai/asmenys/Surminas]] gyne Kolainių pilis (pilis)
-- Kolainių pilis (pilis) priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Gynė Kolainių pilį (pilis): [[objektai/asmenys/Surminas]]
+- Kolainių pilis (pilis) priklausė [[objektai/grupes/Kryžiuočių ordinas]]

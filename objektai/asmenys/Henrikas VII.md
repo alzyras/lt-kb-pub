@@ -125,4 +125,4 @@ Henrikas VII, Liuksemburgo grafas, šv. Kotrynos dieną buvo vieningai išrinkta
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Vokietijos valdovai elektoriai]] paskyre Henrikas VII
+- Paskyrė Henrikas VII: [[objektai/grupes/Vokietijos valdovai elektoriai]]

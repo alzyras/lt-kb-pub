@@ -64,4 +64,4 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Hanza]] siunte_i Štetinas
+- Buvo siuntimo vieta: [[objektai/grupes/Hanza]]

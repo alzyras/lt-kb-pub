@@ -48,4 +48,4 @@ Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui i
     - t-001
 
 ## Ryšiai
-- Hansas Tscheizas keliavo_i [[objektai/vietos/Silezija]]
+- Hansas Tscheizas keliavo į [[objektai/vietos/Silezija]]

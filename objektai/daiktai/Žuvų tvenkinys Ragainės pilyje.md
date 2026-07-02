@@ -68,4 +68,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Žuvų tvenkinys Ragainės pilyje (pilis) priklause [[objektai/vietos/Ragainė]]
+- Žuvų tvenkinys Ragainės pilyje (pilis) priklausė [[objektai/vietos/Ragainė]]

@@ -338,10 +338,7 @@ Hanza buvo vokiečių miestų pirklių sąjunga, XIII amžiuje įsigalėjusi Ši
     - t-006
 
 ## Ryšiai
-- [[objektai/vietos/Dorpatas]] priklause Hanza
-- [[objektai/vietos/Kaunas]] priklause Hanza
-- [[objektai/vietos/Stralsundas]] priklause Hanza
-- [[objektai/vietos/Lietuva]] prekiavo_su Hanza
-- Hanza siunte_i [[objektai/vietos/Štetinas]]
-- Hanza valde [[objektai/vietos/Šiaurės jūra]]
-- Hanza valde [[objektai/vietos/Baltija]]
+- Prekiavo su: [[objektai/vietos/Lietuva]]
+- Turėjo priklausinį: [[objektai/vietos/Dorpatas]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Stralsundas]]
+- Hanza valdė [[objektai/vietos/Baltija]], [[objektai/vietos/Šiaurės jūra]]
+- Hanza siuntė į [[objektai/vietos/Štetinas]]

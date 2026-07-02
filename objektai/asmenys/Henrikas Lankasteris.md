@@ -144,5 +144,5 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
     - t-001
 
 ## Ryšiai
-- Henrikas Lankasteris keliavo_i [[objektai/vietos/Prūsija]]
-- Henrikas Lankasteris buvo_priesas [[objektai/asmenys/Ričardas II]]
+- Priešai: [[objektai/asmenys/Ričardas II]]
+- Henrikas Lankasteris keliavo į [[objektai/vietos/Prūsija]]

@@ -138,5 +138,4 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje Kuoknesės mūšis (1601 m. birželio 23 d.)
-- [[objektai/grupes/Švedai]] dalyvavo_musyje Kuoknesės mūšis (1601 m. birželio 23 d.)
+- Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Švedai]]

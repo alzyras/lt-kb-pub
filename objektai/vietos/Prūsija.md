@@ -3950,105 +3950,17 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     - t-098
 
 ## Ryšiai
-- [[objektai/grupes/Vokietijos maldininkai]] keliavo_i Prūsija
-- [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]] keliavo_i Prūsija
-- [[objektai/asmenys/Vaidila]] keliavo_i Prūsija
-- [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]] keliavo_i Prūsija
-- [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]] keliavo_i Prūsija
-- [[objektai/asmenys/Henrikas iš Kunceno]] mire Prūsija
-- [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis)]] keliavo_i Prūsija
-- [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas (didikas)]] keliavo_i Prūsija
-- [[objektai/asmenys/Henrikas iš Kunceno]] keliavo_i Prūsija
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Prūsija
-- [[objektai/asmenys/Petras iš Rozenbergo]] keliavo_i Prūsija
-- [[objektai/asmenys/Popiežius Honorijus II]] surenge_zygi_i Prūsija
-- [[objektai/asmenys/Inocentas IV]] siunte_i Prūsija
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Prūsija
-- [[objektai/asmenys/Odoničius]] keliavo_i Prūsija
-- [[objektai/asmenys/Otonas (Brandenburgo markgrafas)]] surenge_zygi_i Prūsija
-- [[objektai/asmenys/Pilypas]] keliavo_i Prūsija
-- [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]] keliavo_i Prūsija
-- [[objektai/asmenys/Gotfridas Hohenlohė]] keliavo_i Prūsija
-- [[objektai/asmenys/Henrikas (Meiseno markgrafas)]] keliavo_i Prūsija
-- [[objektai/asmenys/Henrikas Lankasteris]] keliavo_i Prūsija
-- [[objektai/vietos/Užnemunė]] priklause Prūsija
-- [[objektai/asmenys/Krivis]] gyveno Prūsija
-- [[objektai/grupes/Kryžiuočių ordinas]] uzkariavo Prūsija
-- [[objektai/grupes/Lietuviai]] puole Prūsija
-- [[objektai/asmenys/Abraomas Kulvietis]] keliavo_i Prūsija
-- [[objektai/asmenys/Jonas (Brandenburgo markgrafas)]] keliavo_i Prūsija
-- [[objektai/asmenys/Jonas (Čekijos karalius)]] keliavo_i Prūsija
-- [[objektai/asmenys/Jonas iš Liuksemburgo]] surenge_zygi_i Prūsija
-- [[objektai/asmenys/Konradas iš Foichtvangeno]] keliavo_i Prūsija
-- [[objektai/grupes/Lietuviai]] prekiavo_su Prūsija
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Prūsija
-- [[objektai/vietos/Notanga]] priklause Prūsija
-- [[objektai/asmenys/Otonas]] keliavo_i Prūsija
-- [[objektai/vietos/Plikoji Barta]] priklause Prūsija
-- [[objektai/grupes/Prancūzai]] keliavo_i Prūsija
-- [[objektai/vietos/Romovė]] priklause Prūsija
-- [[objektai/vietos/Vilnius]] prekiavo_su Prūsija
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Prūsija
-- [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]] keliavo_i Prūsija
-- [[objektai/asmenys/Aleksandras Karijotaitis]] puole Prūsija
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] puole Prūsija
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]] surenge_zygi_i Prūsija
-- [[objektai/vietos/Gunlaukenas]] priklause Prūsija
-- [[objektai/asmenys/Henrikas iš Veidos]] keliavo_i Prūsija
-- [[objektai/asmenys/Jonas]] keliavo_i Prūsija
-- [[objektai/vietos/Vartenburgas]] priklause Prūsija
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Prūsija
-- [[objektai/grupes/Žemaičiai]] surenge_zygi_i Prūsija
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] surenge_zygi_i Prūsija
-- [[objektai/vietos/Rizenburgas]] priklause Prūsija
-- [[objektai/asmenys/Vinrichas Kniprodė]] keliavo_i Prūsija
-- [[objektai/vietos/Barta]] priklause Prūsija
-- [[objektai/asmenys/Henrikas iš Svarcburgo]] surenge_zygi_i Prūsija
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Prūsija
-- [[objektai/vietos/Klaipėda]] priklause Prūsija
-- [[objektai/vietos/Kulmas]] priklause Prūsija
-- [[objektai/vietos/Lubavas]] priklause Prūsija
-- [[objektai/vietos/Romučiai]] priklause Prūsija
-- [[objektai/vietos/Varmė]] priklause Prūsija
-- [[objektai/grupes/Žemaičiai]] puole Prūsija
-- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas, XIII a.)]] gyveno Prūsija
-- [[objektai/grupes/Teutonai]] keliavo_i Prūsija
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] surenge_zygi_i Prūsija
-- [[objektai/grupes/Lenkai]] puole Prūsija
-- [[objektai/grupes/Lenkijos karalystės kariuomenė]] keliavo_i Prūsija
-- [[objektai/asmenys/Samboras]] keliavo_i Prūsija
-- [[objektai/asmenys/Adalbertas]] keliavo_i Prūsija
-- [[objektai/vietos/Galinda]] priklause Prūsija
-- [[objektai/asmenys/Henrikas iš Veidos]] valde Prūsija
-- [[objektai/grupes/Lietuviai]] surenge_zygi_i Prūsija
-- [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D) valde Prūsija
-- [[objektai/vietos/Pamedė]] priklause Prūsija
-- [[objektai/daiktai/Pėstininkų muškieta titnagine spyna]] priklause Prūsija
-- [[objektai/vietos/Skalva]] priklause Prūsija
-- [[objektai/vietos/Sūduva]] priklause Prūsija
-- [[objektai/asmenys/Henrikas iš Lichtenšteino]] keliavo_i Prūsija
-- [[objektai/grupes/Anglai]] keliavo_i Prūsija
-- [[objektai/grupes/Lenkai]] surenge_zygi_i Prūsija
-- [[objektai/vietos/Nadruva]] priklause Prūsija
-- [[objektai/vietos/Naujoji Prūsija]] priklause Prūsija
-- Prūsija priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] surenge_zygi_i Prūsija
-- [[objektai/vietos/Lubava]] priklause Prūsija
-- Prūsija priklause [[objektai/vietos/Lenkija]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Prūsija
-- [[objektai/daiktai/Prūsijos hercogo Albrechto herbas]] priklause Prūsija
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Prūsija
-- [[objektai/grupes/Prūsijos lietuviai]] gyveno Prūsija
-- [[objektai/asmenys/Simonas Grunau]] gyveno Prūsija
-- Prūsija priklause [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Vokiečiai]] keliavo_i Prūsija
-- [[objektai/daiktai/Pilys]] priklause Prūsija
-- [[objektai/asmenys/Geroldzekas iš Švabijos]] surenge_zygi_i Prūsija
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] siunte_i Prūsija
-- [[objektai/grupes/Lenkai]] keliavo_i Prūsija
-- [[objektai/grupes/Kryžiuočių ordinas]] gyne Prūsija
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] mire Prūsija
-- [[objektai/asmenys/Hartmanas iš Grumbacho]] valde Prūsija
-- [[objektai/grupes/Lietuviai]] gyveno Prūsija
-- Prūsija priklause [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vilhelmas iš Modenos|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]] gyveno Prūsija
+- Buvo valdoma: [[objektai/asmenys/Hartmanas iš Grumbacho]], [[objektai/asmenys/Henrikas iš Veidos]], [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D)
+- Buvo kelionės vieta: [[objektai/asmenys/Abraomas Kulvietis]], [[objektai/asmenys/Adalbertas]], [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]], [[objektai/grupes/Anglai]], [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]], [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]], [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]], [[objektai/asmenys/Gotfridas Hohenlohė]], [[objektai/asmenys/Henrikas (Meiseno markgrafas)]], [[objektai/asmenys/Henrikas iš Kunceno]], [[objektai/asmenys/Henrikas iš Lichtenšteino]], [[objektai/asmenys/Henrikas iš Veidos]], [[objektai/asmenys/Henrikas Lankasteris]], [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]], [[objektai/asmenys/Jonas]], [[objektai/asmenys/Jonas (Brandenburgo markgrafas)]], [[objektai/asmenys/Jonas (Čekijos karalius)]], [[objektai/asmenys/Konradas iš Foichtvangeno]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lenkijos karalystės kariuomenė]], [[objektai/asmenys/Odoničius]], [[objektai/asmenys/Otonas]], [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis)]], [[objektai/asmenys/Petras iš Rozenbergo]], [[objektai/asmenys/Pilypas]], [[objektai/grupes/Prancūzai]], [[objektai/asmenys/Samboras]], [[objektai/grupes/Teutonai]], [[objektai/asmenys/Vaidila]], [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas (didikas)]], [[objektai/asmenys/Vinrichas Kniprodė]], [[objektai/grupes/Vokiečiai]], [[objektai/grupes/Vokietijos maldininkai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Mirties vieta: [[objektai/asmenys/Henrikas iš Kunceno]], [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Prūsiją: [[objektai/asmenys/Aleksandras Karijotaitis]], [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/grupes/Žemaičiai]]
+- Užėmė Prūsiją: [[objektai/grupes/Kryžiuočių ordinas]]
+- Gynė Prūsiją: [[objektai/grupes/Kryžiuočių ordinas]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]], [[objektai/asmenys/Inocentas IV]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Dovydas (Gardino pilininkas)]], [[objektai/asmenys/Geroldzekas iš Švabijos]], [[objektai/asmenys/Henrikas iš Svarcburgo]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jonas iš Liuksemburgo]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Otonas (Brandenburgo markgrafas)]], [[objektai/asmenys/Popiežius Honorijus II]], [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/grupes/Žemaičiai]]
+- Prekiavo su: [[objektai/grupes/Lietuviai]], [[objektai/vietos/Vilnius]]
+- Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Gyvenamoji vieta: [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas, XIII a.)]], [[objektai/asmenys/Krivis]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Prūsijos lietuviai]], [[objektai/asmenys/Simonas Grunau]], [[objektai/asmenys/Vilhelmas iš Modenos|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]
+- Turėjo priklausinį: [[objektai/vietos/Barta]], [[objektai/vietos/Galinda]], [[objektai/vietos/Gunlaukenas]], [[objektai/vietos/Klaipėda]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Lubava]], [[objektai/vietos/Lubavas]], [[objektai/vietos/Nadruva]], [[objektai/vietos/Naujoji Prūsija]], [[objektai/vietos/Notanga]], [[objektai/vietos/Pamedė]], [[objektai/daiktai/Pėstininkų muškieta titnagine spyna]], [[objektai/daiktai/Pilys]], [[objektai/vietos/Plikoji Barta]], [[objektai/daiktai/Prūsijos hercogo Albrechto herbas]], [[objektai/vietos/Rizenburgas]], [[objektai/vietos/Romovė]], [[objektai/vietos/Romučiai]], [[objektai/vietos/Skalva]], [[objektai/vietos/Sūduva]], [[objektai/vietos/Užnemunė]], [[objektai/vietos/Varmė]], [[objektai/vietos/Vartenburgas]]
+- Prūsija priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lenkija]], [[objektai/grupes/Teutonai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

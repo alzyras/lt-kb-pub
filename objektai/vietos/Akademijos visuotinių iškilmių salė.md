@@ -146,4 +146,4 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
     - t-004
 
 ## Ryšiai
-- Akademijos visuotinių iškilmių salė priklause [[objektai/vietos/Akademijos aikštė]]
+- Akademijos visuotinių iškilmių salė priklausė [[objektai/vietos/Akademijos aikštė]]

@@ -592,17 +592,11 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
     - t-006
 
 ## Ryšiai
-- Notangai apgule [[objektai/vietos/Kroicburgas]]
-- Notangai puole [[objektai/vietos/Kroicburgas]]
-- Notangai puole [[objektai/vietos/Bisenė]]
-- Notangai paskyre [[objektai/asmenys/Herkus Mantas]]
-- Notangai surenge_zygi_i [[objektai/vietos/Medininkai]]
-- [[objektai/asmenys/Pobravas]] buvo_sajungininkas_su Notangai
-- Notangai puole [[objektai/vietos/Baiga]]
-- Notangai paskyre [[objektai/asmenys/Hirtshalsas]]
-- Notangai paskyre [[objektai/asmenys/Sabinas]]
-- Notangai surenge_zygi_i [[objektai/vietos/Bartenšteinas]]
-- Notangai puole [[objektai/vietos/Bartenšteinas]]
-- Notangai kariavo_pries [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Štenkelis iš Bentheimo]] kariavo_pries Notangai
-- Notangai priklause [[objektai/grupes/Teutonai]]
+- Sąjungininkai: [[objektai/asmenys/Pobravas]]
+- Kariavo prieš: [[objektai/asmenys/Štenkelis iš Bentheimo]]
+- Notangai puolė [[objektai/vietos/Baiga]], [[objektai/vietos/Bartenšteinas]], [[objektai/vietos/Bisenė]], [[objektai/vietos/Kroicburgas]]
+- Notangai apgulė [[objektai/vietos/Kroicburgas]]
+- Notangai surengė žygį į [[objektai/vietos/Bartenšteinas]], [[objektai/vietos/Medininkai]]
+- Notangai kariavo prieš [[objektai/grupes/Teutonai]]
+- Notangai paskyrė [[objektai/asmenys/Herkus Mantas]], [[objektai/asmenys/Hirtshalsas]], [[objektai/asmenys/Sabinas]]
+- Notangai priklausė [[objektai/grupes/Teutonai]]

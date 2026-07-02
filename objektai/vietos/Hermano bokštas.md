@@ -55,4 +55,4 @@ trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo 
     - t-001
 
 ## Ryšiai
-- Hermano bokštas priklause [[objektai/vietos/Talinas]]
+- Hermano bokštas priklausė [[objektai/vietos/Talinas]]

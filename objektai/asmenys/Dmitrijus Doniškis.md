@@ -76,4 +76,4 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
     - t-001
 
 ## Ryšiai
-- Dmitrijus Doniškis kariavo_pries [[objektai/grupes/Totoriai]]
+- Dmitrijus Doniškis kariavo prieš [[objektai/grupes/Totoriai]]

@@ -90,4 +90,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Lukošius Moravecas]] dalyvavo_musyje Skitų sumušimas Volynėje ir prie Slučės
+- Turėjo dalyvį: [[objektai/asmenys/Lukošius Moravecas]]

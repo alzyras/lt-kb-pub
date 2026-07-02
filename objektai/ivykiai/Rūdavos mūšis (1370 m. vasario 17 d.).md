@@ -104,6 +104,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] dalyvavo_musyje Rūdavos mūšis (1370 m. vasario 17 d.)
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Rūdavos mūšis (1370 m. vasario 17 d.)
-- [[objektai/grupes/Vokiečiai]] dalyvavo_musyje Rūdavos mūšis (1370 m. vasario 17 d.)
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vokiečiai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

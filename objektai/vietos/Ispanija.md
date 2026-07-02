@@ -212,7 +212,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     - t-007
 
 ## Ryšiai
-- [[objektai/asmenys/Almimolinas]] keliavo_i Ispanija
-- [[objektai/grupes/Saracėnai]] uzkariavo Ispanija
-- [[objektai/asmenys/Almimolinas]] surenge_zygi_i Ispanija
-- [[objektai/vietos/Toledas]] priklause Ispanija
+- Buvo kelionės vieta: [[objektai/asmenys/Almimolinas]]
+- Buvo žygio kryptis: [[objektai/asmenys/Almimolinas]]
+- Buvo užkariauta: [[objektai/grupes/Saracėnai]]
+- Turėjo priklausinį: [[objektai/vietos/Toledas]]

@@ -119,7 +119,6 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
     - t-003
 
 ## Ryšiai
-- Vinrichas Kniprodė surenge_zygi_i [[objektai/vietos/Lietuva]]
-- Vinrichas Kniprodė keliavo_i [[objektai/vietos/Prūsija]]
-- Vinrichas Kniprodė surenge_zygi_i [[objektai/vietos/Vilnius]]
-- Vinrichas Kniprodė puole [[objektai/vietos/Vilnius]]
+- Vinrichas Kniprodė keliavo į [[objektai/vietos/Prūsija]]
+- Vinrichas Kniprodė puolė [[objektai/vietos/Vilnius]]
+- Vinrichas Kniprodė surengė žygį į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

@@ -74,4 +74,4 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Švitrigaila]] siunte_i Kistrinas
+- Buvo siuntimo vieta: [[objektai/asmenys/Švitrigaila]]

@@ -125,5 +125,5 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     - t-004
 
 ## Ryšiai
-- Ziemovitas surenge_zygi_i [[objektai/vietos/Dobrynė]]
-- Ziemovitas buvo_valdovas [[objektai/vietos/Lenkija]]
+- Ziemovitas buvo valdovas [[objektai/vietos/Lenkija]]
+- Ziemovitas surengė žygį į [[objektai/vietos/Dobrynė]]

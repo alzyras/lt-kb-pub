@@ -261,7 +261,6 @@ Aukaimio pilis minima 1291–1305 m. kryžiuočių žygių kontekste. Jos apylin
     - t-009
 
 ## Ryšiai
-- [[objektai/asmenys/Henrikas iš Dobino]] puole Aukaimio pilis (pilis)
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Aukaimio pilis (pilis)
-- [[objektai/grupes/Kryžiuočių ordinas]] apgule Aukaimio pilis (pilis)
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Aukaimio pilis (pilis)
+- Puolė Aukaimio pilį (pilis): [[objektai/asmenys/Henrikas iš Dobino]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Apgulė Aukaimio pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]
+- Užėmė Aukaimio pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]

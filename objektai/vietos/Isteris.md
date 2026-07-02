@@ -74,4 +74,4 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Herulai]] gyveno Isteris
+- Gyvenamoji vieta: [[objektai/grupes/Herulai]]

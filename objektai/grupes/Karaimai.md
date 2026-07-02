@@ -246,9 +246,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     - t-008
 
 ## Ryšiai
-- Karaimai gyveno [[objektai/vietos/Trakai]]
-- Karaimai keliavo_i [[objektai/vietos/Lietuva]]
-- Karaimai gyveno [[objektai/vietos/Luckas]]
-- Karaimai gyveno [[objektai/vietos/Lietuva]]
-- Karaimai prekiavo_su [[objektai/vietos/Vilniaus turgus]]
-- Karaimai gyne [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Karaimai keliavo į [[objektai/vietos/Lietuva]]
+- Karaimai gynė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Karaimai prekiavo su [[objektai/vietos/Vilniaus turgus]]
+- Karaimai gyveno [[objektai/vietos/Lietuva]], [[objektai/vietos/Luckas]], [[objektai/vietos/Trakai]]

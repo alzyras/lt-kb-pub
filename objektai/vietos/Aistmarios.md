@@ -101,4 +101,4 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
     - t-001
 
 ## Ryšiai
-- Aistmarios priklause [[objektai/vietos/Semba]]
+- Aistmarios priklausė [[objektai/vietos/Semba]]

@@ -45,4 +45,4 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
     - t-001
 
 ## Ryšiai
-- Akmenų Brasta priklause [[objektai/vietos/Lukas]]
+- Akmenų Brasta priklausė [[objektai/vietos/Lukas]]

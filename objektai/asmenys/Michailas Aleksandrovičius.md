@@ -134,5 +134,5 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
     - t-004
 
 ## Ryšiai
-- Michailas Aleksandrovičius keliavo_i [[objektai/vietos/Lietuva]]
-- Michailas Aleksandrovičius buvo_valdovas [[objektai/vietos/Tverė]]
+- Michailas Aleksandrovičius buvo valdovas [[objektai/vietos/Tverė]]
+- Michailas Aleksandrovičius keliavo į [[objektai/vietos/Lietuva]]

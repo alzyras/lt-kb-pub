@@ -96,4 +96,4 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
     - t-002
 
 ## Ryšiai
-- Jeronimas keliavo_i [[objektai/vietos/Lenkija]]
+- Jeronimas keliavo į [[objektai/vietos/Lenkija]]

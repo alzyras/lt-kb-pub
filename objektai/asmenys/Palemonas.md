@@ -194,5 +194,5 @@ Palemonas – Lietuvos metraščiuose vaizduotas legendinis iš Romos atvykusių
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Spera Palemonaitis]] buvo_sunus Palemonas
-- Palemonas buvo_valdovas [[objektai/vietos/Pajūris]]
+- Sūnūs: [[objektai/asmenys/Spera Palemonaitis]]
+- Palemonas buvo valdovas [[objektai/vietos/Pajūris]]

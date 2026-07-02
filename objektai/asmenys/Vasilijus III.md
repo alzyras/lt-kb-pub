@@ -43,4 +43,4 @@ Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš S
     - t-001
 
 ## Ryšiai
-- Vasilijus III keliavo_i [[objektai/vietos/Smolenskas]]
+- Vasilijus III keliavo į [[objektai/vietos/Smolenskas]]

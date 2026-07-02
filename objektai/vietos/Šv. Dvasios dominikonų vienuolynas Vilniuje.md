@@ -72,4 +72,4 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
     - t-001
 
 ## Ryšiai
-- Šv. Dvasios dominikonų vienuolynas Vilniuje priklause [[objektai/vietos/Vilnius]]
+- Šv. Dvasios dominikonų vienuolynas Vilniuje priklausė [[objektai/vietos/Vilnius]]

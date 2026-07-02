@@ -114,4 +114,4 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
     - t-003
 
 ## Ryšiai
-- [[objektai/daiktai/Buthstus]] priklause Kriviai ir Krivių Krivaičiai
+- Turėjo priklausinį: [[objektai/daiktai/Buthstus]]

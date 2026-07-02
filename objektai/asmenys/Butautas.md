@@ -65,7 +65,6 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vaidotas (Butauto sūnus)]] buvo_sunus Butautas
-- [[objektai/asmenys/Survila]] buvo_sajungininkas_su Butautas
-- Butautas buvo_sajungininkas_su [[objektai/asmenys/Survila]]
-- Butautas keliavo_i [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]
+- Sūnūs: [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
+- Sąjungininkai: [[objektai/asmenys/Survila]]
+- Butautas keliavo į [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]

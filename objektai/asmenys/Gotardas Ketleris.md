@@ -106,4 +106,4 @@ Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lop
     - t-001
 
 ## Ryšiai
-- Gotardas Ketleris buvo_valdovas [[objektai/grupes/Kryžiuočių ordinas]]
+- Gotardas Ketleris buvo valdovas [[objektai/grupes/Kryžiuočių ordinas]]

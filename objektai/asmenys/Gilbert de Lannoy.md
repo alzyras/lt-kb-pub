@@ -45,4 +45,4 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
     - t-001
 
 ## Ryšiai
-- Gilbert de Lannoy keliavo_i [[objektai/vietos/Krymas]]
+- Gilbert de Lannoy keliavo į [[objektai/vietos/Krymas]]

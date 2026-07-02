@@ -80,4 +80,4 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Zigfridas iš Foichtvangeno]] keliavo_i Venecija
+- Buvo kelionės vieta: [[objektai/asmenys/Zigfridas iš Foichtvangeno]]

@@ -74,5 +74,5 @@ Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 130
     - t-002
 
 ## Ryšiai
-- Gundramas kariavo_pries [[objektai/grupes/Lietuviai]]
-- Gundramas puole [[objektai/grupes/Lietuviai]]
+- Gundramas puolė [[objektai/grupes/Lietuviai]]
+- Gundramas kariavo prieš [[objektai/grupes/Lietuviai]]

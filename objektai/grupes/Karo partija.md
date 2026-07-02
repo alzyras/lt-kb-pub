@@ -44,5 +44,4 @@ Iš to susidarė dvi partijos: karo ir taikos.
     - t-001
 
 ## Ryšiai
-- Karo partija buvo_sajungininkas_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_sajungininkas_su Karo partija
+- Sąjungininkai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

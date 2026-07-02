@@ -147,10 +147,6 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
     - t-004
 
 ## Ryšiai
-- Rusijos kariuomenė uzeme [[objektai/vietos/Minskas]]
-- Rusijos kariuomenė uzeme [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Kazokai]] buvo_sajungininkas_su Rusijos kariuomenė
-- Rusijos kariuomenė uzeme [[objektai/vietos/Livonija]]
-- Rusijos kariuomenė uzeme [[objektai/vietos/Lietuva]]
-- Rusijos kariuomenė surenge_zygi_i [[objektai/vietos/Polockas]]
-- Rusijos kariuomenė uzeme [[objektai/vietos/Kaunas]]
+- Sąjungininkai: [[objektai/grupes/Kazokai]]
+- Rusijos kariuomenė užėmė [[objektai/vietos/Kaunas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Livonija]], [[objektai/vietos/Minskas]], [[objektai/vietos/Vilnius]]
+- Rusijos kariuomenė surengė žygį į [[objektai/vietos/Polockas]]

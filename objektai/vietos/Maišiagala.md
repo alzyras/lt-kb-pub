@@ -76,7 +76,5 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Engelhardas Rabė]] uzeme Maišiagala
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Maišiagala
-- [[objektai/grupes/Vytauto šalininkai]] uzeme Maišiagala
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_palaidotas Maišiagala
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Užėmė Maišiagalą: [[objektai/asmenys/Engelhardas Rabė]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vytauto šalininkai]]

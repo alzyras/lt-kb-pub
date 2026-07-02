@@ -1676,42 +1676,15 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
     - t-041
 
 ## Ryšiai
-- Smolenskas priklause [[objektai/vietos/Rusija]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Smolenskas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Smolenskas
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]] gyne Smolenskas
-- [[objektai/grupes/Maskvėnai]] puole Smolenskas
-- Smolenskas priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Kazimieras Jogailaitis]] uzeme Smolenskas
-- [[objektai/asmenys/Stanislovas Kiška]] gyne Smolenskas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Smolenskas
-- [[objektai/grupes/Lietuviai]] gyne Smolenskas
-- [[objektai/asmenys/Sofija Vytautaitė]] keliavo_i Smolenskas
-- [[objektai/asmenys/Švitrigaila]] valde_teritorija Smolenskas
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Smolenskas
-- [[objektai/asmenys/Muradas II]] siunte_i Smolenskas
-- Smolenskas priklause [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
-- [[objektai/asmenys/Sviatoslavas]] valde Smolenskas
-- [[objektai/asmenys/Jurijus Sviatoslavovičius]] valde Smolenskas
-- [[objektai/asmenys/Aleksandras]] siunte_i Smolenskas
-- [[objektai/vietos/Mstislavlis]] priklause Smolenskas
-- Smolenskas priklause [[objektai/vietos/Maskva]]
-- [[objektai/grupes/Lietuviai]] uzeme Smolenskas
-- [[objektai/asmenys/Sviatoslavas]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Andrius Sakavičius]] valde_miesta Smolenskas
-- [[objektai/grupes/Smolensko kunigaikščiai]] valde_miesta Smolenskas
-- [[objektai/vietos/Toropiec]] priklause Smolenskas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_teritorija Smolenskas
-- [[objektai/grupes/Lietuviai]] siunte_i Smolenskas
-- [[objektai/asmenys/Stanislovas Strumila Petravičius]] valde_miesta Smolenskas
-- [[objektai/vietos/Viazma]] priklause Smolenskas
-- [[objektai/vietos/Vilnius]] prekiavo_su Smolenskas
-- [[objektai/grupes/Rusiškoji bajorų partija]] uzeme Smolenskas
-- [[objektai/asmenys/Dimitrijus]] apgule Smolenskas
-- [[objektai/asmenys/Dimitrijus]] puole Smolenskas
-- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] keliavo_i Smolenskas
-- [[objektai/asmenys/Gerasimas]] gyveno Smolenskas
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] gyveno Smolenskas
-- [[objektai/asmenys/Ivanas Vasiljevičius]] siunte_i Smolenskas
-- [[objektai/asmenys/Vasilijus III]] keliavo_i Smolenskas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyveno Smolenskas
+- Turėjo valdovą: [[objektai/asmenys/Sviatoslavas]]
+- Buvo valdoma: [[objektai/asmenys/Andrius Sakavičius]], [[objektai/asmenys/Jurijus Sviatoslavovičius]], [[objektai/grupes/Smolensko kunigaikščiai]], [[objektai/asmenys/Stanislovas Strumila Petravičius]], [[objektai/asmenys/Sviatoslavas]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Sofija Vytautaitė]], [[objektai/asmenys/Vasilijus III]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Smolenską: [[objektai/asmenys/Dimitrijus]], [[objektai/grupes/Maskvėnai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Apgulė Smolenską: [[objektai/asmenys/Dimitrijus]]
+- Užėmė Smolenską: [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Rusiškoji bajorų partija]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gynė Smolenską: [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Stanislovas Kiška]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Ivanas Vasiljevičius]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Muradas II]]
+- Prekiavo su: [[objektai/vietos/Vilnius]]
+- Gyvenamoji vieta: [[objektai/asmenys/Gerasimas]], [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Turėjo priklausinį: [[objektai/vietos/Mstislavlis]], [[objektai/vietos/Toropiec]], [[objektai/vietos/Viazma]]
+- Smolenskas priklausė [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]], [[objektai/vietos/Maskva]], [[objektai/vietos/Rusija]]

@@ -92,4 +92,4 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
     - t-003
 
 ## Ryšiai
-- Julija Žymantienė-Žemaitė keliavo_i [[objektai/vietos/Vilnius]]
+- Julija Žymantienė-Žemaitė keliavo į [[objektai/vietos/Vilnius]]

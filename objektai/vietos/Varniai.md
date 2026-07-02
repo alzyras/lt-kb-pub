@@ -120,5 +120,5 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Varniai
-- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Varniai
+- Puolė Varniai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Buvo žygio kryptis: [[objektai/grupes/Kryžiuočių ordinas]]

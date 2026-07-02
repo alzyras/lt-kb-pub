@@ -77,4 +77,4 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
     - t-001
 
 ## Ryšiai
-- Sofija Vytautaitė keliavo_i [[objektai/vietos/Smolenskas]]
+- Sofija Vytautaitė keliavo į [[objektai/vietos/Smolenskas]]

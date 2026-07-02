@@ -54,4 +54,4 @@ Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo n
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] kariavo_pries Fridrichas fon Quitzas
+- Kariavo prieš: [[objektai/grupes/Lietuviai]]

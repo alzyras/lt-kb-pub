@@ -69,4 +69,4 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
     - t-002
 
 ## Ryšiai
-- Auktalitas priklause [[objektai/vietos/Vonsdorfas]]
+- Auktalitas priklausė [[objektai/vietos/Vonsdorfas]]

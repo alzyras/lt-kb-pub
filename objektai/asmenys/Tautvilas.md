@@ -237,10 +237,10 @@ periodo_grupes: []
     - t-007
 
 ## Ryšiai
-- Tautvilas buvo_sunus [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Tautvilas mire [[objektai/vietos/Vilnius]]
-- Tautvilas buvo_priesas [[objektai/asmenys/Treniota]]
-- [[objektai/grupes/Rygos vokiečiai]] buvo_sajungininkas_su Tautvilas
+- Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Priešai: [[objektai/asmenys/Treniota]]
+- Sąjungininkai: [[objektai/grupes/Rygos vokiečiai]]
+- Tautvilas buvo valdovas [[objektai/vietos/Lietuva]]
+- Tautvilas mirė [[objektai/vietos/Vilnius]]
+- Tautvilas kariavo prieš [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - Tautvilas gyveno [[objektai/vietos/Polockas]]
-- Tautvilas kariavo_pries [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- Tautvilas buvo_valdovas [[objektai/vietos/Lietuva]]

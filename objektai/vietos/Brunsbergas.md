@@ -135,5 +135,4 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Anzelmas|Anzelmas (vyskupas, XIII a.)]] pastate Brunsbergas
-- [[objektai/asmenys/Henrikas (Varmės vyskupas)]] pastate Brunsbergas
+- Buvo pastatyta: [[objektai/asmenys/Anzelmas|Anzelmas (vyskupas, XIII a.)]], [[objektai/asmenys/Henrikas (Varmės vyskupas)]]

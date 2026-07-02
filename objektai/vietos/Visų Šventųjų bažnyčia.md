@@ -43,4 +43,4 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
     - t-001
 
 ## Ryšiai
-- Visų Šventųjų bažnyčia priklause [[objektai/vietos/Vilnius]]
+- Visų Šventųjų bažnyčia priklausė [[objektai/vietos/Vilnius]]

@@ -61,6 +61,5 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Estija]] priklause Baltijos valstybės
-- [[objektai/vietos/Latvija]] priklause Baltijos valstybės
-- Baltijos valstybės priklause [[objektai/vietos/Baltija]]
+- Turėjo priklausinį: [[objektai/vietos/Estija]], [[objektai/vietos/Latvija]]
+- Baltijos valstybės priklausė [[objektai/vietos/Baltija]]

@@ -66,6 +66,6 @@ Paveiksle pavaizduoti Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai,
     - t-001
 
 ## Ryšiai
-- Kazys Ladyga keliavo_i [[objektai/vietos/Lietuva]]
-- Kazys Ladyga puole [[objektai/grupes/Bermontininkai]]
+- Kazys Ladyga keliavo į [[objektai/vietos/Lietuva]]
+- Kazys Ladyga puolė [[objektai/grupes/Bermontininkai]]
 - Kazys Ladyga gyveno [[objektai/vietos/Lietuva]]

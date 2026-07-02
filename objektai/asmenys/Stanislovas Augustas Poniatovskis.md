@@ -221,5 +221,4 @@ Stanislovas Augustas Poniatovskis 1764 m. buvo išrinktas LLV valdovu, o jo vald
     - t-004
 
 ## Ryšiai
-- Stanislovas Augustas Poniatovskis (valdovas) buvo_valdovas [[objektai/vietos/Lenkija]]
-- Stanislovas Augustas Poniatovskis (valdovas) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Stanislovas Augustas Poniatovskis (valdovas) buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

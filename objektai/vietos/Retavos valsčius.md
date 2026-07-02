@@ -99,4 +99,4 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
     - t-003
 
 ## Ryšiai
-- Retavos valsčius priklause [[objektai/vietos/Nadruva]]
+- Retavos valsčius priklausė [[objektai/vietos/Nadruva]]

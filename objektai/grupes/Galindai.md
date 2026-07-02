@@ -173,6 +173,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - t-006
 
 ## Ryšiai
-- [[objektai/grupes/Krikščionys]] puole Galindai
-- Galindai kariavo_pries [[objektai/grupes/Krikščionys]]
+- Puolė Galindai: [[objektai/grupes/Krikščionys]]
+- Galindai kariavo prieš [[objektai/grupes/Krikščionys]]
 - Galindai gyveno [[objektai/vietos/Galinda]]

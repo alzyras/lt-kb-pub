@@ -46,7 +46,5 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     - t-001
 
 ## Ryšiai
-- Gelonai gyveno [[objektai/vietos/Volkovysko apskritis]]
-- Gelonai gyveno [[objektai/vietos/Donas]]
-- Gelonai buvo_sajungininkas_su [[objektai/grupes/Budinai]]
-- Gelonai gyveno [[objektai/vietos/Oskolas]]
+- Sąjungininkai: [[objektai/grupes/Budinai]]
+- Gelonai gyveno [[objektai/vietos/Donas]], [[objektai/vietos/Oskolas]], [[objektai/vietos/Volkovysko apskritis]]

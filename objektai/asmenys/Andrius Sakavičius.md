@@ -112,5 +112,5 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
     - t-003
 
 ## Ryšiai
-- Andrius Sakavičius valde_miesta [[objektai/vietos/Smolenskas]]
-- Andrius Sakavičius kariavo_pries [[objektai/grupes/Smolenskiečiai]]
+- Andrius Sakavičius valdė [[objektai/vietos/Smolenskas]]
+- Andrius Sakavičius kariavo prieš [[objektai/grupes/Smolenskiečiai]]

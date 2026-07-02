@@ -61,4 +61,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Jaroslavas (rusų kunigaikštis, 1234 m.) sudare_sutarti_su [[objektai/grupes/Kalavijuočių ordinas]]
+- Jaroslavas (rusų kunigaikštis, 1234 m.) sudarė sutartį su [[objektai/grupes/Kalavijuočių ordinas]]

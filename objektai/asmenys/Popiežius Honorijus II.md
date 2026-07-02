@@ -65,4 +65,4 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - t-001
 
 ## Ryšiai
-- Popiežius Honorijus II surenge_zygi_i [[objektai/vietos/Prūsija]]
+- Popiežius Honorijus II surengė žygį į [[objektai/vietos/Prūsija]]

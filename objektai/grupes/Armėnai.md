@@ -99,11 +99,7 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
     - t-001
 
 ## Ryšiai
+- Sąjungininkai: [[objektai/grupes/Gruzinai]], [[objektai/grupes/Totoriai]]
+- Armėnai surengė žygį į [[objektai/vietos/Palestina]], [[objektai/vietos/Sirija]]
+- Armėnai kariavo prieš [[objektai/grupes/Saracėnai]]
 - Armėnai gyveno [[objektai/vietos/Lietuva]]
-- Armėnai surenge_zygi_i [[objektai/vietos/Sirija]]
-- Armėnai surenge_zygi_i [[objektai/vietos/Palestina]]
-- [[objektai/grupes/Totoriai]] buvo_sajungininkas_su Armėnai
-- Armėnai buvo_sajungininkas_su [[objektai/grupes/Totoriai]]
-- Armėnai buvo_sajungininkas_su [[objektai/grupes/Gruzinai]]
-- [[objektai/grupes/Gruzinai]] buvo_sajungininkas_su Armėnai
-- Armėnai kariavo_pries [[objektai/grupes/Saracėnai]]

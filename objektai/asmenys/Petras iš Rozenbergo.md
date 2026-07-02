@@ -57,4 +57,4 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
     - t-001
 
 ## Ryšiai
-- Petras iš Rozenbergo keliavo_i [[objektai/vietos/Prūsija]]
+- Petras iš Rozenbergo keliavo į [[objektai/vietos/Prūsija]]

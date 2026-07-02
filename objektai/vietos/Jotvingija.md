@@ -101,6 +101,5 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
     - t-002
 
 ## Ryšiai
-- Jotvingija priklause [[objektai/grupes/Lietuviai]]
-- Jotvingija priklause [[objektai/grupes/Jotvingiai]]
-- [[objektai/grupes/Jotvingiai]] gyveno Jotvingija
+- Gyvenamoji vieta: [[objektai/grupes/Jotvingiai]]
+- Jotvingija priklausė [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Lietuviai]]

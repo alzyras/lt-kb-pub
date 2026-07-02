@@ -60,5 +60,5 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Radvilos]] puole Urdomas
-- [[objektai/grupes/Radvilos]] uzeme Urdomas
+- Puolė Urdomą: [[objektai/grupes/Radvilos]]
+- Užėmė Urdomą: [[objektai/grupes/Radvilos]]

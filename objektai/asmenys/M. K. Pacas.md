@@ -52,4 +52,4 @@ M. K. Pacas žuvo 1665 metais prie Mogiliavo, kai miestą buvo apgulę lauko etm
     - t-001
 
 ## Ryšiai
-- M. K. Pacas apgule [[objektai/vietos/Mogiliavas]]
+- M. K. Pacas apgulė [[objektai/vietos/Mogiliavas]]

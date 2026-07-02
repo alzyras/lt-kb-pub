@@ -657,19 +657,12 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     - t-017
 
 ## Ryšiai
-- Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Vilnius]]
-- Elena (vyskupas, XV–XVI a.) pastate [[objektai/daiktai/Namas]]
-- Elena (vyskupas, XV–XVI a.) mire [[objektai/vietos/Vilnius]]
-- Elena (vyskupas, XV–XVI a.) buvo_dukte [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
-- Elena (vyskupas, XV–XVI a.) buvo_zmona [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/asmenys/Aleksandras]] vede Elena (vyskupas, XV–XVI a.)
-- Elena (vyskupas, XV–XVI a.) valde_miesta [[objektai/vietos/Mogiliavas]]
-- [[objektai/vietos/Losičiai]] priklause Elena (vyskupas, XV–XVI a.)
-- [[objektai/asmenys/Aleksandras Jogailaitis]] vede Elena (vyskupas, XV–XVI a.)
-- [[objektai/vietos/Mogiliavas]] priklause Elena (vyskupas, XV–XVI a.)
-- Elena (vyskupas, XV–XVI a.) valde [[objektai/vietos/Mogiliavo pilis]]
-- Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Polockas]]
-- Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Vitebskas]]
-- [[objektai/asmenys/Žygimantas Senasis]] reme Elena (vyskupas, XV–XVI a.)
-- Elena (vyskupas, XV–XVI a.) valde_miesta [[objektai/vietos/Vilnius]]
-- Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Maskva]]
+- Vyrai: [[objektai/asmenys/Aleksandras Jogailaitis]]
+- Sutuoktiniai: [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Aleksandras Jogailaitis]]
+- Tėvai: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- Rėmė Eleną (vyskupas, XV–XVI a.): [[objektai/asmenys/Žygimantas Senasis]]
+- Turėjo priklausinį: [[objektai/vietos/Losičiai]], [[objektai/vietos/Mogiliavas]]
+- Elena (vyskupas, XV–XVI a.) valdė [[objektai/vietos/Mogiliavas]], [[objektai/vietos/Mogiliavo pilis]], [[objektai/vietos/Vilnius]]
+- Elena (vyskupas, XV–XVI a.) keliavo į [[objektai/vietos/Maskva]], [[objektai/vietos/Polockas]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
+- Elena (vyskupas, XV–XVI a.) mirė [[objektai/vietos/Vilnius]]
+- Elena (vyskupas, XV–XVI a.) pastatė [[objektai/daiktai/Namas]]

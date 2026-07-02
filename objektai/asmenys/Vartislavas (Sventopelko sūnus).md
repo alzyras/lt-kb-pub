@@ -50,5 +50,5 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Sventopelkas]] buvo_sunus Vartislavas (Sventopelko sūnus)
-- [[objektai/asmenys/Samboras (Sventopelko sūnus)]] buvo_brolis Vartislavas (Sventopelko sūnus)
+- Sūnūs: [[objektai/asmenys/Sventopelkas]]
+- Broliai: [[objektai/asmenys/Samboras (Sventopelko sūnus)]]

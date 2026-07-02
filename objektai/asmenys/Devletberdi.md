@@ -43,4 +43,4 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-001
 
 ## Ryšiai
-- Devletberdi valde [[objektai/vietos/Krymas]]
+- Devletberdi valdė [[objektai/vietos/Krymas]]

@@ -463,14 +463,9 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
     - t-013
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde Krėva
-- [[objektai/grupes/Lenkai]] keliavo_i Krėva
-- [[objektai/grupes/Totoriai]] uzeme Krėva
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] mire Krėva
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Krėva
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_miesta Krėva
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] keliavo_i Krėva
-- [[objektai/grupes/Vokiečių pirkliai]] keliavo_i Krėva
-- [[objektai/asmenys/Aleksandras Vygantas]] buvo_valdovas Krėva
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Krėva
-- [[objektai/asmenys/Skirgaila]] siunte_i Krėva
+- Turėjo valdovą: [[objektai/asmenys/Aleksandras Vygantas]]
+- Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Vokiečių pirkliai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Mirties vieta: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Užėmė Krėvą: [[objektai/grupes/Totoriai]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Skirgaila]]

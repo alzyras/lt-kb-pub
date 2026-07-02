@@ -85,4 +85,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Mūrinė pilis
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

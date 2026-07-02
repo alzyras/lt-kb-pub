@@ -67,4 +67,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Silvestras Žukauskas siunte_i [[objektai/vietos/Utena]]
+- Silvestras Žukauskas siuntė į [[objektai/vietos/Utena]]

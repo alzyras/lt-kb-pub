@@ -47,4 +47,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Pukuveras (Lietuvos karalius) siunte_i [[objektai/vietos/Lenkija]]
+- Pukuveras (Lietuvos karalius) siuntė į [[objektai/vietos/Lenkija]]

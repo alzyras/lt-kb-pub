@@ -58,4 +58,4 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
     - t-001
 
 ## Ryšiai
-- Paulius fon Hindenburgas buvo_sajungininkas_su [[objektai/asmenys/Ėrichas Liudendorfas]]
+- Sąjungininkai: [[objektai/asmenys/Ėrichas Liudendorfas]]

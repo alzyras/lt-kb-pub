@@ -49,4 +49,4 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Metenburgas
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

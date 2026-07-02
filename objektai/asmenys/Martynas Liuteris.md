@@ -75,4 +75,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Mikalojus Radvila Juodasis]] reme Martynas Liuteris
+- Rėmė Martynas Liuterį: [[objektai/asmenys/Mikalojus Radvila Juodasis]]

@@ -106,5 +106,4 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Vizenburgas
-- [[objektai/grupes/Vokiečiai]] pastate Vizenburgas
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vokiečiai]]

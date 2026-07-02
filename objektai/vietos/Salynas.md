@@ -210,5 +210,5 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     - t-007
 
 ## Ryšiai
-- Salynas priklause [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Salyno sala]] priklause Salynas
+- Turėjo priklausinį: [[objektai/vietos/Salyno sala]]
+- Salynas priklausė [[objektai/vietos/Nemunas]]

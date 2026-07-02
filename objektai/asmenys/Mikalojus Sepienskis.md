@@ -51,4 +51,4 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
     - t-001
 
 ## Ryšiai
-- Mikalojus Sepienskis keliavo_i [[objektai/vietos/Konstanca]]
+- Mikalojus Sepienskis keliavo į [[objektai/vietos/Konstanca]]

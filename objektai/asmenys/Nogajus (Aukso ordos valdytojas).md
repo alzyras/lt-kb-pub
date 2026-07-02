@@ -55,4 +55,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Nogajus (Aukso ordos valdytojas) siunte_i [[objektai/vietos/Lietuva]]
+- Nogajus (Aukso ordos valdytojas) siuntė į [[objektai/vietos/Lietuva]]

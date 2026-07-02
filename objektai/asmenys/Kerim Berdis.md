@@ -111,7 +111,5 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
     - t-003
 
 ## Ryšiai
-- Kerim Berdis puole [[objektai/asmenys/Tochtamyšas]]
-- Kerim Berdis puole [[objektai/asmenys/Jerim Berdis]]
-- [[objektai/asmenys/Tochtamyšas]] buvo_brolis Kerim Berdis
-- [[objektai/asmenys/Jerim Berdis]] buvo_brolis Kerim Berdis
+- Broliai: [[objektai/asmenys/Jerim Berdis]], [[objektai/asmenys/Tochtamyšas]]
+- Kerim Berdis puolė [[objektai/asmenys/Jerim Berdis]], [[objektai/asmenys/Tochtamyšas]]

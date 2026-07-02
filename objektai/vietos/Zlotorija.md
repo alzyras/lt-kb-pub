@@ -48,4 +48,4 @@ Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Zlotorija
+- Užėmė Zlotoriją: [[objektai/grupes/Kryžiuočių ordinas]]

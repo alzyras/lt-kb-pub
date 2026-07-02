@@ -62,9 +62,8 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
     - t-001
 
 ## Ryšiai
-- Pobravas buvo_sajungininkas_su [[objektai/grupes/Notangai]]
-- [[objektai/asmenys/Gerhardas iš Reino]] puole Pobravas
-- Pobravas buvo_sajungininkas_su [[objektai/grupes/Varmiai]]
-- Pobravas siunte_i [[objektai/vietos/Baiga]]
-- [[objektai/asmenys/Gerhardas iš Reino]] kariavo_pries Pobravas
-- Pobravas puole [[objektai/vietos/Baiga]]
+- Sąjungininkai: [[objektai/grupes/Notangai]], [[objektai/grupes/Varmiai]]
+- Puolė Pobravą: [[objektai/asmenys/Gerhardas iš Reino]]
+- Kariavo prieš: [[objektai/asmenys/Gerhardas iš Reino]]
+- Pobravas puolė [[objektai/vietos/Baiga]]
+- Pobravas siuntė į [[objektai/vietos/Baiga]]

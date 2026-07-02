@@ -42,4 +42,4 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
     - t-001
 
 ## Ryšiai
-- Andrejaus Vlasovo armija kariavo_pries [[objektai/grupes/Žydai]]
+- Andrejaus Vlasovo armija kariavo prieš [[objektai/grupes/Žydai]]

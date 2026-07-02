@@ -71,5 +71,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Krikščionys]] dalyvavo_musyje Krikščionių pergalingas mūšis prie Zirgūnos upės
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] dalyvavo_musyje Krikščionių pergalingas mūšis prie Zirgūnos upės
+- Turėjo dalyvį: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]], [[objektai/grupes/Krikščionys]]

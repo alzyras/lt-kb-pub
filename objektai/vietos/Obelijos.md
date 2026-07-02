@@ -41,4 +41,4 @@ Narbutas Obelijomis vadino Tikrojoje Lietuvoje nuo seno buvusias vietas, kuriose
     - t-001
 
 ## Ryšiai
-- Obelijos priklause [[objektai/vietos/Lietuva]]
+- Obelijos priklausė [[objektai/vietos/Lietuva]]

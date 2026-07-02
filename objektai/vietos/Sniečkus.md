@@ -74,4 +74,4 @@ Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuj
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Rusai]] gyveno Sniečkus
+- Gyvenamoji vieta: [[objektai/grupes/Rusai]]

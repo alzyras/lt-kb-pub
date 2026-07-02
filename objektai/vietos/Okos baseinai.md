@@ -40,4 +40,4 @@ baltų genčių apgyvendintas arealas driekėsi nuo Vyslos iki Dniepro ir Okos b
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Baltai]] gyveno Okos baseinai
+- Gyvenamoji vieta: [[objektai/grupes/Baltai]]

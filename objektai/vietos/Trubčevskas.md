@@ -62,4 +62,4 @@ Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Andrius Vingaudas]] buvo_valdovas Trubčevskas
+- Turėjo valdovą: [[objektai/asmenys/Andrius Vingaudas]]

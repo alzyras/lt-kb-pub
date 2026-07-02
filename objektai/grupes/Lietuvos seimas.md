@@ -82,4 +82,4 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
     - t-002
 
 ## Ryšiai
-- Lietuvos seimas (seimas) reme [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]
+- Lietuvos seimas (seimas) rėmė [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]

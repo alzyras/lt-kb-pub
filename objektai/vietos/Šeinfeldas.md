@@ -55,4 +55,4 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
     - t-001
 
 ## Ryšiai
-- Šeinfeldas priklause [[objektai/vietos/Vokietija]]
+- Šeinfeldas priklausė [[objektai/vietos/Vokietija]]

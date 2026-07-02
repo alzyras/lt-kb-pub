@@ -48,11 +48,6 @@ Dar duodame žinoti, Jūsų Prakilnybe Malonusis Pone Magistrė, ir apie tai, ka
     - t-001
 
 ## Ryšiai
-- Vokiečių pirkliai prekiavo_su [[objektai/grupes/Lybiai]]
-- Vokiečių pirkliai prekiavo_su [[objektai/grupes/Aisčiai]]
-- Vokiečių pirkliai keliavo_i [[objektai/vietos/Krėva]]
-- Vokiečių pirkliai keliavo_i [[objektai/vietos/Vilnius]]
-- Vokiečių pirkliai keliavo_i [[objektai/vietos/Gardinas]]
-- [[objektai/daiktai/Malūnas]] priklause Vokiečių pirkliai
-- Vokiečių pirkliai keliavo_i [[objektai/vietos/Padauguvis]]
-- Vokiečių pirkliai prekiavo_su [[objektai/grupes/Rusai]]
+- Turėjo priklausinį: [[objektai/daiktai/Malūnas]]
+- Vokiečių pirkliai keliavo į [[objektai/vietos/Gardinas]], [[objektai/vietos/Krėva]], [[objektai/vietos/Padauguvis]], [[objektai/vietos/Vilnius]]
+- Vokiečių pirkliai prekiavo su [[objektai/grupes/Aisčiai]], [[objektai/grupes/Lybiai]], [[objektai/grupes/Rusai]]

@@ -63,6 +63,5 @@ periodo_grupes:
     - t-002
 
 ## Ryšiai
-- Burundajus puole [[objektai/vietos/Aukštaitija]]
-- Burundajus keliavo_i [[objektai/vietos/Nalšėnų žemė]]
-- Burundajus puole [[objektai/vietos/Lietuva]]
+- Burundajus keliavo į [[objektai/vietos/Nalšėnų žemė]]
+- Burundajus puolė [[objektai/vietos/Aukštaitija]], [[objektai/vietos/Lietuva]]

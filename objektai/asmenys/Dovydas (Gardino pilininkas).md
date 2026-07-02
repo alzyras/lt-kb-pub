@@ -335,9 +335,5 @@ Dovydas buvo Gardino pilininkas ir karo vadas, šaltiniuose siejamas su Gedimino
     - t-018
 
 ## Ryšiai
-- Dovydas (Gardino pilininkas) puole [[objektai/vietos/Revelis]]
-- Dovydas (Gardino pilininkas) surenge_zygi_i [[objektai/vietos/Mazovija]]
-- Dovydas (Gardino pilininkas) puole [[objektai/vietos/Mozūrija]]
-- Dovydas (Gardino pilininkas) surenge_zygi_i [[objektai/vietos/Prūsija]]
-- Dovydas (Gardino pilininkas) puole [[objektai/vietos/Mazovija]]
-- Dovydas (Gardino pilininkas) puole [[objektai/vietos/Estija]]
+- Dovydas (Gardino pilininkas) puolė [[objektai/vietos/Estija]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Mozūrija]], [[objektai/vietos/Revelis]]
+- Dovydas (Gardino pilininkas) surengė žygį į [[objektai/vietos/Mazovija]], [[objektai/vietos/Prūsija]]

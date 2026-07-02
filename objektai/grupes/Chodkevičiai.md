@@ -190,7 +190,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
     - t-003
 
 ## Ryšiai
-- Chodkevičiai reme [[objektai/asmenys/Ivanas Fiodorovas]]
-- [[objektai/vietos/Mlynivas]] priklause Chodkevičiai
-- Chodkevičiai valde [[objektai/vietos/Voluinė]]
-- Chodkevičiai pastate [[objektai/vietos/Zabluduvas]]
+- Turėjo priklausinį: [[objektai/vietos/Mlynivas]]
+- Chodkevičiai valdė [[objektai/vietos/Voluinė]]
+- Chodkevičiai pastatė [[objektai/vietos/Zabluduvas]]
+- Chodkevičiai rėmė [[objektai/asmenys/Ivanas Fiodorovas]]

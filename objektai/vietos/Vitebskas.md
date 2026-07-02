@@ -1378,38 +1378,15 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     - t-047
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Vitebskas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde Vitebskas
-- [[objektai/asmenys/Švitrigaila]] valde_miesta Vitebskas
-- [[objektai/asmenys/Švitrigaila]] valde_teritorija Vitebskas
-- [[objektai/asmenys/Skirgaila]] uzeme Vitebskas
-- Vitebskas priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Švitrigaila]] uzeme Vitebskas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzkariavo Vitebskas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Vitebskas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_miesta Vitebskas
-- [[objektai/asmenys/Mechmet Girėjus]] puole Vitebskas
-- [[objektai/asmenys/Švitrigaila]] puole Vitebskas
-- [[objektai/grupes/Livonijos ordinas]] puole Vitebskas
-- [[objektai/grupes/Maskvėnai]] puole Vitebskas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] apgule Vitebskas
-- [[objektai/grupes/Totoriai]] puole Vitebskas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Vitebskas
-- [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Vitebskas
-- [[objektai/asmenys/Vikintas]] gyveno Vitebskas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Vitebskas
-- [[objektai/grupes/Smolensko pulkai]] uzeme Vitebskas
-- [[objektai/grupes/Totoriai]] surenge_zygi_i Vitebskas
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Vitebskas
-- [[objektai/asmenys/Švitrigaila]] gyveno Vitebskas
-- Vitebskas prekiavo_su [[objektai/vietos/Dauguva]]
-- [[objektai/grupes/Pijarų ordinas]] gyveno Vitebskas
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] keliavo_i Vitebskas
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]] valde_miesta Vitebskas
-- [[objektai/asmenys/Skirgaila]] valde_teritorija Vitebskas
-- Vitebskas priklause [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Vitebskas priklause [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] pastate Vitebskas
-- [[objektai/asmenys/Švitrigaila]] keliavo_i Vitebskas
-- [[objektai/asmenys/Aleksandras Balinskis]] gyveno Vitebskas
-- Vitebskas priklause [[objektai/vietos/Vilnius]]
+- Turėjo valdovą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]]
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo pastatyta: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Puolė Vitebską: [[objektai/grupes/Livonijos ordinas]], [[objektai/grupes/Maskvėnai]], [[objektai/asmenys/Mechmet Girėjus]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]]
+- Apgulė Vitebską: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Užėmė Vitebską: [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Smolensko pulkai]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo žygio kryptis: [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo užkariauta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Gyvenamoji vieta: [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/grupes/Pijarų ordinas]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vikintas]]
+- Vitebskas prekiavo su [[objektai/vietos/Dauguva]]
+- Vitebskas priklausė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

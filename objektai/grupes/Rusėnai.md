@@ -346,7 +346,7 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
     - t-010
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Rusėnai
+- Sąjungininkai: [[objektai/grupes/Lietuviai]]
+- Turėjo priklausinį: [[objektai/grupes/Tiškevičiai]]
+- Rusėnai dalyvavo mūšyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
 - Rusėnai gyveno [[objektai/vietos/Lenkija]]
-- Rusėnai dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-- [[objektai/grupes/Tiškevičiai]] priklause Rusėnai

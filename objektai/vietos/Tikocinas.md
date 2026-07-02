@@ -253,6 +253,5 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Petras Goštautas]] keliavo_i Tikocinas
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] keliavo_i Tikocinas
-- [[objektai/daiktai/Ginklai]] priklause Tikocinas
+- Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Petras Goštautas]]
+- Turėjo priklausinį: [[objektai/daiktai/Ginklai]]

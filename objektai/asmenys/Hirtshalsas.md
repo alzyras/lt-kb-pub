@@ -50,4 +50,4 @@ Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paau
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Notangai]] paskyre Hirtshalsas
+- Paskyrė Hirtshalsą: [[objektai/grupes/Notangai]]

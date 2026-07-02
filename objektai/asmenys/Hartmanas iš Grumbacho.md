@@ -50,4 +50,4 @@ Dusburgietis teigia, kad apie brolį Harimaną, Prūsijos magistrą Brolis Hartm
     - t-001
 
 ## Ryšiai
-- Hartmanas iš Grumbacho valde [[objektai/vietos/Prūsija]]
+- Hartmanas iš Grumbacho valdė [[objektai/vietos/Prūsija]]

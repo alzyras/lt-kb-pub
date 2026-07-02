@@ -47,4 +47,4 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
     - t-001
 
 ## Ryšiai
-- Lotoriai puole [[objektai/vietos/Lietuva]]
+- Lotoriai puolė [[objektai/vietos/Lietuva]]

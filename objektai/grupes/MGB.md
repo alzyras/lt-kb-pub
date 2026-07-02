@@ -75,4 +75,4 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
     - t-001
 
 ## Ryšiai
-- MGB apgule [[objektai/vietos/Gulbiniškiai]]
+- MGB apgulė [[objektai/vietos/Gulbiniškiai]]

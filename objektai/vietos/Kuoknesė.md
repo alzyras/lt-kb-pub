@@ -228,10 +228,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - t-007
 
 ## Ryšiai
-- [[objektai/grupes/Švedijos kariuomenė]] uzeme Kuoknesė
-- [[objektai/asmenys/Vilhelmas (Rygos arkivyskupas)]] keliavo_i Kuoknesė
-- [[objektai/grupes/Švedijos kariuomenė]] apgule Kuoknesė
-- [[objektai/grupes/Lietuviai]] gyne Kuoknesė
-- [[objektai/asmenys/Jonas Karolis Katkevičius]] uzeme Kuoknesė
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]] uzeme Kuoknesė
-- [[objektai/asmenys/Vilhelmas (Rygos arkivyskupas)]] gyne Kuoknesė
+- Buvo kelionės vieta: [[objektai/asmenys/Vilhelmas (Rygos arkivyskupas)]]
+- Apgulė Kuoknesę: [[objektai/grupes/Švedijos kariuomenė]]
+- Užėmė Kuoknesę: [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Švedijos kariuomenė]]
+- Gynė Kuoknesę: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vilhelmas (Rygos arkivyskupas)]]

@@ -69,4 +69,4 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Gedūnas]] buvo_brolis Ringėlas
+- Broliai: [[objektai/asmenys/Gedūnas]]

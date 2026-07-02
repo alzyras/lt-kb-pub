@@ -53,4 +53,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Kazimieras (Lokietkos sūnus) vede [[objektai/asmenys/Aldona Gediminaitė]]
+- Sutuoktiniai: [[objektai/asmenys/Aldona Gediminaitė]]

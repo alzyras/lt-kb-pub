@@ -1891,20 +1891,9 @@ tags:
     - t-081
 
 ## Ryšiai
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] gime Žemaitija
-- Žemaitija priklause [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Žemaitija
-- Žemaitija priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Žemaitija
-- [[objektai/vietos/Semba]] priklause Žemaitija
-- [[objektai/vietos/Skalva]] priklause Žemaitija
-- [[objektai/asmenys/Dormunimundas]] valde Žemaitija
-- [[objektai/grupes/Lietuviai]] valde Žemaitija
-- [[objektai/vietos/Pagraudė]] priklause Žemaitija
-- [[objektai/asmenys/Sutinkąs]] valde Žemaitija
-- [[objektai/vietos/Vaikiai]] priklause Žemaitija
-- [[objektai/grupes/Vokiečiai]] puole Žemaitija
-- [[objektai/grupes/Vokiečių ordinas]] valde_teritorija Žemaitija
-- Žemaitija priklause [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Trobius]] valde Žemaitija
-- [[objektai/asmenys/Trobius]] valde_teritorija Žemaitija
+- Buvo valdoma: [[objektai/asmenys/Dormunimundas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sutinkąs]], [[objektai/asmenys/Trobius]], [[objektai/grupes/Vokiečių ordinas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gimimo vieta: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Puolė Žemaitiją: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vokiečiai]]
+- Turėjo priklausinį: [[objektai/vietos/Pagraudė]], [[objektai/vietos/Semba]], [[objektai/vietos/Skalva]], [[objektai/vietos/Vaikiai]]
+- Žemaitija priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lietuva]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

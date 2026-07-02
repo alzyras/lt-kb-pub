@@ -54,5 +54,5 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
     - t-001
 
 ## Ryšiai
-- Otonas iš Bergo siunte_i [[objektai/vietos/Ragainė]]
-- Otonas iš Bergo surenge_zygi_i [[objektai/vietos/Pieštvė]]
+- Otonas iš Bergo siuntė į [[objektai/vietos/Ragainė]]
+- Otonas iš Bergo surengė žygį į [[objektai/vietos/Pieštvė]]

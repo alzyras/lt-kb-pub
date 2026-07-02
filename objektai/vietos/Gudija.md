@@ -66,5 +66,5 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
     - t-001
 
 ## Ryšiai
-- Gudija priklause [[objektai/vietos/Rytų kraštas (Ostlandas)]]
-- [[objektai/grupes/Nacių Vokietija]] valde_teritorija Gudija
+- Buvo valdoma: [[objektai/grupes/Nacių Vokietija]]
+- Gudija priklausė [[objektai/vietos/Rytų kraštas (Ostlandas)]]

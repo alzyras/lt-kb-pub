@@ -66,5 +66,5 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
     - t-001
 
 ## Ryšiai
-- Vitchendorfas priklause [[objektai/vietos/Saksonija]]
-- [[objektai/asmenys/Henrikas iš Ceico]] gyveno Vitchendorfas
+- Gyvenamoji vieta: [[objektai/asmenys/Henrikas iš Ceico]]
+- Vitchendorfas priklausė [[objektai/vietos/Saksonija]]

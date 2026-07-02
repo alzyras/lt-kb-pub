@@ -170,10 +170,9 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Bernard Lown]] gime Utena
-- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] apgule Utena
-- [[objektai/asmenys/K. Ladyga]] keliavo_i Utena
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] valde Utena
-- [[objektai/grupes/Lenkai]] puole Utena
-- [[objektai/asmenys/Silvestras Žukauskas]] siunte_i Utena
-- [[objektai/grupes/Ukmergės rinktinė]] keliavo_i Utena
+- Buvo valdoma: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/K. Ladyga]], [[objektai/grupes/Ukmergės rinktinė]]
+- Gimimo vieta: [[objektai/asmenys/Bernard Lown]]
+- Puolė Uteną: [[objektai/grupes/Lenkai]]
+- Apgulė Uteną: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Silvestras Žukauskas]]

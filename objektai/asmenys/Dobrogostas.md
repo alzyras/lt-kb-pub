@@ -172,6 +172,5 @@ Dobrogostas buvo Poznanės vyskupas, susijęs su Vilniaus vyskupijos įkūrimo r
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Urbonas VI]] paskyre Dobrogostas
-- Dobrogostas keliavo_i [[objektai/vietos/Vilnius]]
-- Dobrogostas keliavo_i [[objektai/vietos/Perudžija]]
+- Paskyrė Dobrogostą: [[objektai/asmenys/Urbonas VI]]
+- Dobrogostas keliavo į [[objektai/vietos/Perudžija]], [[objektai/vietos/Vilnius]]

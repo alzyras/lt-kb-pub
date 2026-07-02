@@ -62,5 +62,5 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
     - t-002
 
 ## Ryšiai
-- Enėjas pastate [[objektai/daiktai/Laivai]]
-- Enėjas keliavo_i [[objektai/vietos/Italija]]
+- Enėjas keliavo į [[objektai/vietos/Italija]]
+- Enėjas pastatė [[objektai/daiktai/Laivai]]

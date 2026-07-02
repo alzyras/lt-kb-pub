@@ -112,4 +112,4 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
     - t-004
 
 ## Ryšiai
-- Jėzus Kristus reme [[objektai/grupes/Teutonai]]
+- Jėzus Kristus rėmė [[objektai/grupes/Teutonai]]

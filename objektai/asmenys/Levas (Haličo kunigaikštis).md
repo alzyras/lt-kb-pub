@@ -53,6 +53,6 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jurijus]] buvo_sunus Levas (Haličo kunigaikštis)
-- [[objektai/grupes/Totoriai]] buvo_sajungininkas_su Levas (Haličo kunigaikštis)
-- Levas (Haličo kunigaikštis) puole [[objektai/vietos/Lietuva]]
+- Sūnūs: [[objektai/asmenys/Jurijus]]
+- Sąjungininkai: [[objektai/grupes/Totoriai]]
+- Levas (Haličo kunigaikštis) puolė [[objektai/vietos/Lietuva]]

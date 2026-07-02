@@ -53,5 +53,5 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Mederaba
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Mederaba
+- Puolė Mederabą: [[objektai/grupes/Kryžiuočių ordinas]]
+- Užėmė Mederabą: [[objektai/grupes/Kryžiuočių ordinas]]

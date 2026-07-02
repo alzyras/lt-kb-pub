@@ -64,4 +64,4 @@ Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fr
     - t-001
 
 ## Ryšiai
-- Popiežius Honorijus III paskyre [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- Popiežius Honorijus III paskyrė [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]

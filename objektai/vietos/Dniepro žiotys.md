@@ -87,4 +87,4 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] uzeme Dniepro žiotys
+- Užėmė Dniepro žiotį: [[objektai/grupes/Totoriai]]

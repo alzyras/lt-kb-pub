@@ -69,7 +69,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
     - t-004
 
 ## Ryšiai
-- Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) mire [[objektai/vietos/Kelnas]]
-- Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) buvo_palaidotas [[objektai/vietos/Kelnas]]
-- Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) gime [[objektai/vietos/Vokietija]]
+- Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) gimė [[objektai/vietos/Vokietija]]
+- Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) mirė [[objektai/vietos/Kelnas]]
+- Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) buvo palaidotas [[objektai/vietos/Kelnas]]
 - Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) gyveno [[objektai/vietos/Kelnas]]

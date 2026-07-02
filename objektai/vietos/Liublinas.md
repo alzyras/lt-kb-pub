@@ -644,12 +644,8 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
     - t-016
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Liublinas
-- [[objektai/grupes/Lietuviai]] puole Liublinas
-- Liublinas priklause [[objektai/vietos/Vokietija]]
-- [[objektai/asmenys/Teodoras Vodka]] keliavo_i Liublinas
-- [[objektai/grupes/Jotvingiai]] puole Liublinas
-- [[objektai/asmenys/Petras Semaška]] keliavo_i Liublinas
-- [[objektai/asmenys/Pavlikas]] keliavo_i Liublinas
-- [[objektai/grupes/Rusai]] valde_miesta Liublinas
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] gyveno Liublinas
+- Buvo valdoma: [[objektai/grupes/Rusai]]
+- Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Pavlikas]], [[objektai/asmenys/Petras Semaška]], [[objektai/asmenys/Teodoras Vodka]]
+- Puolė Liubliną: [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Lietuviai]]
+- Gyvenamoji vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Liublinas priklausė [[objektai/vietos/Vokietija]]

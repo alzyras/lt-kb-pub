@@ -208,10 +208,7 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
     - t-002
 
 ## Ryšiai
-- Sovietų Sąjunga uzkariavo [[objektai/vietos/Lietuva]]
-- Sovietų Sąjunga uzeme [[objektai/vietos/Lietuva]]
-- Sovietų Sąjunga uzkariavo [[objektai/vietos/Estija]]
-- Sovietų Sąjunga uzkariavo [[objektai/vietos/Latvija]]
-- Sovietų Sąjunga uzeme [[objektai/vietos/Latvija]]
-- Sovietų Sąjunga siunte_i [[objektai/vietos/Sibiras]]
-- Sovietų Sąjunga priklause [[objektai/vietos/SSRS]]
+- Sovietų Sąjunga užėmė [[objektai/vietos/Latvija]], [[objektai/vietos/Lietuva]]
+- Sovietų Sąjunga siuntė į [[objektai/vietos/Sibiras]]
+- Sovietų Sąjunga priklausė [[objektai/vietos/SSRS]]
+- Sovietų Sąjunga užkariavo [[objektai/vietos/Estija]], [[objektai/vietos/Latvija]], [[objektai/vietos/Lietuva]]

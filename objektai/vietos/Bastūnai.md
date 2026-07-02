@@ -54,5 +54,5 @@ Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos 
     - t-001
 
 ## Ryšiai
-- Bastūnai priklause [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lenkai]] valde Bastūnai
+- Buvo valdoma: [[objektai/grupes/Lenkai]]
+- Bastūnai priklausė [[objektai/grupes/Lenkai]]

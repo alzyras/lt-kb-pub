@@ -399,5 +399,5 @@ Domininkonų ordinas Lietuvos istorijos šaltiniuose iškyla kaip krikščionyb�
     - t-009
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Domininkonų ordinas
+- Rėmė Domininkonų ordiną: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Domininkonų ordinas gyveno [[objektai/vietos/Ryga]]

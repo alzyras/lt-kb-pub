@@ -362,11 +362,8 @@ tags:
     - t-006
 
 ## Ryšiai
-- [[objektai/grupes/Sovietų Sąjunga]] uzkariavo Latvija
-- [[objektai/grupes/Sovietų Sąjunga]] uzeme Latvija
-- [[objektai/grupes/Kalavijuočių ordinas]] gyveno Latvija
-- [[objektai/vietos/Priekulė]] priklause Latvija
-- [[objektai/grupes/Lybiai]] gyveno Latvija
-- Latvija priklause [[objektai/grupes/Baltijos valstybės]]
-- [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]] priklause Latvija
-- Latvija priklause [[objektai/vietos/SSRS]]
+- Užėmė Latviją: [[objektai/grupes/Sovietų Sąjunga]]
+- Buvo užkariauta: [[objektai/grupes/Sovietų Sąjunga]]
+- Gyvenamoji vieta: [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/grupes/Lybiai]]
+- Turėjo priklausinį: [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]], [[objektai/vietos/Priekulė]]
+- Latvija priklausė [[objektai/grupes/Baltijos valstybės]], [[objektai/vietos/SSRS]]

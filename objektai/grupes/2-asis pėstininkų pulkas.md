@@ -50,4 +50,4 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
     - t-001
 
 ## Ryšiai
-- 2-asis pėstininkų pulkas priklause [[objektai/vietos/Lietuva]]
+- 2-asis pėstininkų pulkas priklausė [[objektai/vietos/Lietuva]]

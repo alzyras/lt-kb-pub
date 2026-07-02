@@ -84,4 +84,4 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
     - t-002
 
 ## Ryšiai
-- Katavos valsčius priklause [[objektai/vietos/Nadruva]]
+- Katavos valsčius priklausė [[objektai/vietos/Nadruva]]

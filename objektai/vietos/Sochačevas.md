@@ -64,4 +64,4 @@ Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį suna
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] uzeme Sochačevas
+- Užėmė Sochačevą: [[objektai/grupes/Lietuviai]]

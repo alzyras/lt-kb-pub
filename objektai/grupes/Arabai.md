@@ -57,6 +57,5 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
     - t-001
 
 ## Ryšiai
-- Arabai uzeme [[objektai/vietos/Šventoji žemė]]
-- Arabai puole [[objektai/vietos/Šventoji žemė]]
-- Arabai uzeme [[objektai/vietos/Jeruzalė]]
+- Arabai puolė [[objektai/vietos/Šventoji žemė]]
+- Arabai užėmė [[objektai/vietos/Jeruzalė]], [[objektai/vietos/Šventoji žemė]]

@@ -47,4 +47,4 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Sembai]] paskyre Glanda
+- Paskyrė Glandą: [[objektai/grupes/Sembai]]

@@ -52,4 +52,4 @@ Balandžio 24 d. Vilniuje, Kovos Viln Rotušės aikštėje, buvo paskelbtas 2328
     - t-001
 
 ## Ryšiai
-- Rotušės aikštė priklause [[objektai/vietos/Vilnius]]
+- Rotušės aikštė priklausė [[objektai/vietos/Vilnius]]

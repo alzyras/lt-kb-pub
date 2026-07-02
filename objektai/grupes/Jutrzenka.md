@@ -56,4 +56,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Jutrzenka reme [[objektai/grupes/Lenkai]]
+- Jutrzenka rėmė [[objektai/grupes/Lenkai]]

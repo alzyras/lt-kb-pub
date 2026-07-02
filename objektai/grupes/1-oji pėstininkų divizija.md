@@ -67,4 +67,4 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] puole 1-oji pėstininkų divizija
+- Puolė 1-oji pėstininkų diviziją: [[objektai/grupes/Lenkai]]

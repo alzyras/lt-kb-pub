@@ -147,4 +147,4 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Antanas Kazimeras Žemaitis]] gime Londonas
+- Gimimo vieta: [[objektai/asmenys/Antanas Kazimeras Žemaitis]]

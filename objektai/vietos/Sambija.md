@@ -70,5 +70,5 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - t-002
 
 ## Ryšiai
-- [[objektai/vietos/Romovė]] priklause Sambija
-- [[objektai/grupes/Lietuviai]] puole Sambija
+- Puolė Sambiją: [[objektai/grupes/Lietuviai]]
+- Turėjo priklausinį: [[objektai/vietos/Romovė]]

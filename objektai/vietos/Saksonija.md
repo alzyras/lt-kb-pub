@@ -163,6 +163,6 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Karolis XII]] surenge_zygi_i Saksonija
-- [[objektai/vietos/Vitchendorfas]] priklause Saksonija
-- [[objektai/asmenys/Gebhardas]] gime Saksonija
+- Gimimo vieta: [[objektai/asmenys/Gebhardas]]
+- Buvo žygio kryptis: [[objektai/asmenys/Karolis XII]]
+- Turėjo priklausinį: [[objektai/vietos/Vitchendorfas]]

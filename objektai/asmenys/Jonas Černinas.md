@@ -42,4 +42,4 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras]] paskyre Jonas Černinas
+- Paskyrė Jonas Černiną: [[objektai/asmenys/Aleksandras]]

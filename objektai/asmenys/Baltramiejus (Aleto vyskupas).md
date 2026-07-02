@@ -64,5 +64,4 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     - t-001
 
 ## Ryšiai
-- Baltramiejus (Aleto vyskupas) keliavo_i [[objektai/vietos/Ryga]]
-- Baltramiejus (Aleto vyskupas) keliavo_i [[objektai/vietos/Livonija]]
+- Baltramiejus (Aleto vyskupas) keliavo į [[objektai/vietos/Livonija]], [[objektai/vietos/Ryga]]

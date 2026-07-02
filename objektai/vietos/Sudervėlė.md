@@ -56,4 +56,4 @@ To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuoči
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]] priklause Sudervėlė
+- Turėjo priklausinį: [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]]

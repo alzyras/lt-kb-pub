@@ -82,8 +82,6 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Kimelis
-- [[objektai/asmenys/Liudvikas iš Libencelės]] puole Kimelis
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Kimelis
-- [[objektai/asmenys/Liudvikas iš Libencelės]] uzeme Kimelis
-- [[objektai/asmenys/Liudvikas iš Libencelės]] surenge_zygi_i Kimelis
+- Puolė Kimelį: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Liudvikas iš Libencelės]]
+- Užėmė Kimelį: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Liudvikas iš Libencelės]]
+- Buvo žygio kryptis: [[objektai/asmenys/Liudvikas iš Libencelės]]

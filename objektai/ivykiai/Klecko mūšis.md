@@ -210,4 +210,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Mykolas Glinskis]] dalyvavo_musyje Klecko mūšis (mūšis, XVI a.)
+- Turėjo dalyvį: [[objektai/asmenys/Mykolas Glinskis]]

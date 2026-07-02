@@ -51,4 +51,4 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] keliavo_i Argentina
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

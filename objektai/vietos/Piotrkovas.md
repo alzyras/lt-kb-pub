@@ -226,4 +226,4 @@ Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl s
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]] keliavo_i Piotrkovas
+- Buvo kelionės vieta: [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]

@@ -67,5 +67,5 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Liudvikas Narbutas]] siunte_i Kaukazas
-- [[objektai/asmenys/Liudvikas]] keliavo_i Kaukazas
+- Buvo kelionės vieta: [[objektai/asmenys/Liudvikas]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Liudvikas Narbutas]]

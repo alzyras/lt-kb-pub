@@ -68,5 +68,4 @@ Narbutas nurodė, kad Lietuvoje gyveno garsi Triznų giminė. Narbutas išnašoj
     - t-002
 
 ## Ryšiai
-- Triznų giminė gyveno [[objektai/vietos/Lietuva]]
-- Triznų giminė gyveno [[objektai/vietos/Seversko žemės]]
+- Triznų giminė gyveno [[objektai/vietos/Lietuva]], [[objektai/vietos/Seversko žemės]]

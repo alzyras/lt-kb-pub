@@ -138,4 +138,4 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Normanai]] surenge_zygi_i Biarmija
+- Buvo žygio kryptis: [[objektai/grupes/Normanai]]

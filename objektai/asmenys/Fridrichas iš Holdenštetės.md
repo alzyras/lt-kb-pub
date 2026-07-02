@@ -82,4 +82,4 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
     - t-001
 
 ## Ryšiai
-- Fridrichas iš Holdenštetės puole [[objektai/vietos/Notanga]]
+- Fridrichas iš Holdenštetės puolė [[objektai/vietos/Notanga]]

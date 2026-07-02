@@ -130,5 +130,5 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/vietos/Lietuva]] priklause NATO
-- NATO gyne [[objektai/vietos/Lietuva]]
+- Turėjo priklausinį: [[objektai/vietos/Lietuva]]
+- NATO gynė [[objektai/vietos/Lietuva]]

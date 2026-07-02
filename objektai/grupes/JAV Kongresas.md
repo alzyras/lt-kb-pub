@@ -55,4 +55,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- JAV Kongresas priklause [[objektai/vietos/JAV]]
+- JAV Kongresas priklausė [[objektai/vietos/JAV]]

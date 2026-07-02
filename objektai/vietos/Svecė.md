@@ -41,4 +41,4 @@ Prie Bidgoščiaus kariuomenė gavo žinią, kad kryžiuočių pulkai artėja pr
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Svecė
+- Buvo kelionės vieta: [[objektai/grupes/Kryžiuočių ordinas]]

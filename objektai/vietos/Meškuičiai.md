@@ -47,4 +47,4 @@ Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 2
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Panevėžio batalionas]] uzeme Meškuičiai
+- Užėmė Meškuičiai: [[objektai/grupes/Panevėžio batalionas]]

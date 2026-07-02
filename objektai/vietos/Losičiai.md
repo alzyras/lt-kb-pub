@@ -57,4 +57,4 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
     - t-001
 
 ## Ryšiai
-- Losičiai priklause [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- Losičiai priklausė [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]

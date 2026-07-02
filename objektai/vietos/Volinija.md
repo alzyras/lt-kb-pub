@@ -180,7 +180,5 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Liubartas]] gyne Volinija
-- [[objektai/grupes/Gediminaičiai]] valde_teritorija Volinija
-- [[objektai/asmenys/Liubartas]] valde Volinija
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_teritorija Volinija
+- Buvo valdoma: [[objektai/grupes/Gediminaičiai]], [[objektai/asmenys/Liubartas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gynė Voliniją: [[objektai/asmenys/Liubartas]]

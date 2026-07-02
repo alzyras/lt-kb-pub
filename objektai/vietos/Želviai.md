@@ -58,4 +58,4 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Pijarų ordinas]] gyveno Želviai
+- Gyvenamoji vieta: [[objektai/grupes/Pijarų ordinas]]

@@ -53,4 +53,4 @@ Su juo tartis į Vengrijos pasienio miestą Kezmarką nuvyko pats Vytautas.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Kezmarkas
+- Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

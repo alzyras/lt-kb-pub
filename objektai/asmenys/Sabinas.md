@@ -51,4 +51,4 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Notangai]] paskyre Sabinas
+- Paskyrė Sabiną: [[objektai/grupes/Notangai]]

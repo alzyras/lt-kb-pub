@@ -431,16 +431,10 @@ Vėluva minima kaip pilis Priegliaus pakrantėje, kurią per Didįjį prūsų su
     - t-014
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] apgule Vėluva
-- [[objektai/grupes/Sūduviai]] apgule Vėluva
-- [[objektai/grupes/Lietuviai]] puole Vėluva
-- [[objektai/grupes/Nadruviai]] pastate Vėluva
-- [[objektai/grupes/Skalviai]] pastate Vėluva
-- [[objektai/grupes/Sūduviai]] pastate Vėluva
-- [[objektai/grupes/Sūduviai]] puole Vėluva
-- [[objektai/grupes/Lietuviai]] surenge_zygi_i Vėluva
-- [[objektai/grupes/Lietuviai]] keliavo_i Vėluva
-- [[objektai/asmenys/Henrikas Tupadelis]] gyne Vėluva
-- [[objektai/asmenys/Tirskas]] valde_miesta Vėluva
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] puole Vėluva
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] puole Vėluva
+- Buvo valdoma: [[objektai/asmenys/Tirskas]]
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
+- Buvo pastatyta: [[objektai/grupes/Nadruviai]], [[objektai/grupes/Skalviai]], [[objektai/grupes/Sūduviai]]
+- Puolė Vėluvą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Sūduviai]]
+- Apgulė Vėluvą: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Sūduviai]]
+- Gynė Vėluvą: [[objektai/asmenys/Henrikas Tupadelis]]
+- Buvo žygio kryptis: [[objektai/grupes/Lietuviai]]

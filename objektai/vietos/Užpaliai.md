@@ -60,4 +60,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/P. Genys]] uzeme Užpaliai
+- Užėmė Užpaliai: [[objektai/asmenys/P. Genys]]

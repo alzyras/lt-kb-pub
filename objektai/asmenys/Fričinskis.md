@@ -56,4 +56,4 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Pilaitė]] priklause Fričinskis
+- Turėjo priklausinį: [[objektai/vietos/Pilaitė]]

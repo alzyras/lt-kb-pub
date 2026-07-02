@@ -50,4 +50,4 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
     - t-001
 
 ## Ryšiai
-- Zöllneris surenge_zygi_i [[objektai/vietos/Lietuva]]
+- Zöllneris surengė žygį į [[objektai/vietos/Lietuva]]

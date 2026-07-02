@@ -112,5 +112,4 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     - t-001
 
 ## Ryšiai
-- Nogatas priklause [[objektai/vietos/Vysla]]
-- Nogatas priklause [[objektai/vietos/Aismares]]
+- Nogatas priklausė [[objektai/vietos/Aismares]], [[objektai/vietos/Vysla]]

@@ -90,4 +90,4 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
     - t-003
 
 ## Ryšiai
-- Heiligenbeilis Šventasis Kirvelis priklause [[objektai/grupes/Prūsai]]
+- Heiligenbeilis Šventasis Kirvelis priklausė [[objektai/grupes/Prūsai]]

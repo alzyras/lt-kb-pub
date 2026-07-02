@@ -56,4 +56,4 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
     - t-001
 
 ## Ryšiai
-- Henrikas Rutėnas mire [[objektai/vietos/Medininkai]]
+- Henrikas Rutėnas mirė [[objektai/vietos/Medininkai]]

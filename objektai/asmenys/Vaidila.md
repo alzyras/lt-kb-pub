@@ -160,5 +160,5 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
     - t-001
 
 ## Ryšiai
-- Vaidila keliavo_i [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Dubrovno pavietas]] priklause Vaidila
+- Turėjo priklausinį: [[objektai/vietos/Dubrovno pavietas]]
+- Vaidila keliavo į [[objektai/vietos/Prūsija]]

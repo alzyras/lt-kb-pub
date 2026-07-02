@@ -58,4 +58,4 @@ Branskas apibūdinamas kaip Palenkės miestas. Branskas lokalizuojamas prie Nure
     - t-001
 
 ## Ryšiai
-- Branskas priklause [[objektai/vietos/Palenkė]]
+- Branskas priklausė [[objektai/vietos/Palenkė]]

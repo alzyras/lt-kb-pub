@@ -65,6 +65,6 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Manvydas]] buvo_sajungininkas_su Astikas
-- Astikas sudare_sutarti_su [[objektai/asmenys/Manvydas]]
-- [[objektai/vietos/Alanta]] priklause Astikas
+- Sąjungininkai: [[objektai/asmenys/Manvydas]]
+- Turėjo priklausinį: [[objektai/vietos/Alanta]]
+- Astikas sudarė sutartį su [[objektai/asmenys/Manvydas]]

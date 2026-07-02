@@ -144,5 +144,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas]] priklause Lietuvos laisvės kovos sąjūdis
-- [[objektai/grupes/LLKS gynybos pajėgos]] priklause Lietuvos laisvės kovos sąjūdis
+- Turėjo priklausinį: [[objektai/grupes/LLKS gynybos pajėgos]], [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas]]

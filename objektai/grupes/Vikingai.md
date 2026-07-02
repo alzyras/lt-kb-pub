@@ -88,5 +88,4 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
     - t-002
 
 ## Ryšiai
-- Vikingai keliavo_i [[objektai/vietos/Naugardas]]
-- Vikingai keliavo_i [[objektai/vietos/Nemunas]]
+- Vikingai keliavo į [[objektai/vietos/Naugardas]], [[objektai/vietos/Nemunas]]

@@ -342,4 +342,4 @@ Peterburgas Lietuvos istorijoje minimas kaip vieta, kur telkėsi reformų opozic
     - t-011
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] gyveno Peterburgas
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

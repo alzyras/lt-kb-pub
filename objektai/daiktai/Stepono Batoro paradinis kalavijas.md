@@ -80,4 +80,4 @@ Nenurodyta
 - Šiame šaltinyje kalavijas aprašomas kaip atminties ir reprezentacijos objektas.
 
 ## Ryšiai
-- Stepono Batoro paradinis kalavijas priklause [[objektai/asmenys/Steponas Batoras]]
+- Stepono Batoro paradinis kalavijas priklausė [[objektai/asmenys/Steponas Batoras]]

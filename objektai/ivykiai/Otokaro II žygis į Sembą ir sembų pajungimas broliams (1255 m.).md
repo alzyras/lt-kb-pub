@@ -204,5 +204,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)
-- [[objektai/asmenys/Otokaras II]] dalyvavo_musyje Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)
+- Turėjo dalyvį: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Otokaras II]]

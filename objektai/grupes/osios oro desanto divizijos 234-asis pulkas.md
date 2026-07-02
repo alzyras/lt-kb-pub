@@ -55,4 +55,4 @@ Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko
     - t-001
 
 ## Ryšiai
-- osios oro desanto divizijos 234-asis pulkas keliavo_i [[objektai/vietos/Lietuva]]
+- osios oro desanto divizijos 234-asis pulkas keliavo į [[objektai/vietos/Lietuva]]

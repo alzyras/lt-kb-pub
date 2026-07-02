@@ -555,13 +555,8 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
     - t-018
 
 ## Ryšiai
-- [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]] gyveno Marienburgas
-- [[objektai/asmenys/Švitrigaila]] keliavo_i Marienburgas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyveno Marienburgas
-- [[objektai/asmenys/Heinemanas (Marienburgo brolis)]] gyveno Marienburgas
-- [[objektai/asmenys/Fridrichas (Marienburgo brolis)]] gyveno Marienburgas
-- [[objektai/grupes/Bajorai]] keliavo_i Marienburgas
-- [[objektai/asmenys/Divanas]] puole Marienburgas
-- Marienburgas priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Henrikas von Plauen]] gyne Marienburgas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Marienburgas
+- Buvo kelionės vieta: [[objektai/grupes/Bajorai]], [[objektai/asmenys/Švitrigaila]]
+- Puolė Marienburgą: [[objektai/asmenys/Divanas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gynė Marienburgą: [[objektai/asmenys/Henrikas von Plauen]]
+- Gyvenamoji vieta: [[objektai/asmenys/Fridrichas (Marienburgo brolis)]], [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]], [[objektai/asmenys/Heinemanas (Marienburgo brolis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Marienburgas priklausė [[objektai/grupes/Kryžiuočių ordinas]]

@@ -47,4 +47,4 @@ Kaip lenkų daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, ta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] uzeme Raudonoji Rusia
+- Užėmė Raudonoji Rusią: [[objektai/grupes/Lietuvos kariuomenė]]

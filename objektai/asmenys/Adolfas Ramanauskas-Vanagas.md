@@ -101,4 +101,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Adolfas Ramanauskas-Vanagas puole [[objektai/vietos/Merkinė]]
+- Adolfas Ramanauskas-Vanagas puolė [[objektai/vietos/Merkinė]]

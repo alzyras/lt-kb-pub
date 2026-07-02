@@ -77,5 +77,5 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
     - t-002
 
 ## Ryšiai
-- Aleksotas priklause [[objektai/vietos/Kaunas]]
-- [[objektai/daiktai/Aukuras]] priklause Aleksotas
+- Turėjo priklausinį: [[objektai/daiktai/Aukuras]]
+- Aleksotas priklausė [[objektai/vietos/Kaunas]]

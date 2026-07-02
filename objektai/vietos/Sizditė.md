@@ -96,6 +96,5 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Henrikas iš Plockės]] puole Sizditė
-- [[objektai/asmenys/Mindotė]] mire Sizditė
-- [[objektai/asmenys/Rebodas iš Izenburgo]] mire Sizditė
+- Mirties vieta: [[objektai/asmenys/Mindotė]], [[objektai/asmenys/Rebodas iš Izenburgo]]
+- Puolė Sizditę: [[objektai/asmenys/Henrikas iš Plockės]]

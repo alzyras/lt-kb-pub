@@ -256,4 +256,4 @@ Juozas Tūbelis buvo ekonomistas, kurį 1929 m. rugsėjo 23 d. prezidentas Antan
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] paskyre Juozas Tūbelis
+- Paskyrė Juozas Tūbelį: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

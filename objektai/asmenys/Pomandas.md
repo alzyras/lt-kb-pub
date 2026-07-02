@@ -77,4 +77,4 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
     - t-001
 
 ## Ryšiai
-- Pomandas apgule [[objektai/vietos/Baiga]]
+- Pomandas apgulė [[objektai/vietos/Baiga]]

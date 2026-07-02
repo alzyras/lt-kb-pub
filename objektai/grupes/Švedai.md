@@ -445,42 +445,17 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     - t-006
 
 ## Ryšiai
-- Švedai apgule [[objektai/vietos/Brasta]]
-- Švedai uzeme [[objektai/vietos/Apuolės pilis|Apuolės pilis (pilis)]]
-- Švedai uzeme [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Švedai
-- Švedai apgule [[objektai/vietos/Lietuvos Brasta]]
-- Švedai puole [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Bajorų konfederacija]] kariavo_pries Švedai
-- [[objektai/asmenys/Jonas Karolis Katkevičius]] kariavo_pries Švedai
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]] kariavo_pries Švedai
-- [[objektai/grupes/Kuršiai]] priklause Švedai
-- Švedai dalyvavo_musyje [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
-- Švedai kariavo_pries [[objektai/grupes/Lietuviai]]
-- Švedai puole [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Augustas II]] kariavo_pries Švedai
-- [[objektai/vietos/Klaipėda]] priklause Švedai
-- [[objektai/vietos/Livonija]] priklause Švedai
-- [[objektai/vietos/Ryga]] priklause Švedai
-- Švedai dalyvavo_musyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
-- [[objektai/grupes/Lietuviai]] kariavo_pries Švedai
-- [[objektai/asmenys/Petras I Didysis]] kariavo_pries Švedai
-- [[objektai/vietos/Seeburgas]] priklause Švedai
-- Švedai uzkariavo [[objektai/grupes/Kuršiai]]
-- Švedai valde [[objektai/vietos/Seeburgas]]
-- [[objektai/asmenys/Mykolas Pacas]] kariavo_pries Švedai
-- [[objektai/grupes/Sapiegos]] buvo_sajungininkas_su Švedai
-- [[objektai/vietos/Talinas]] priklause Švedai
-- Švedai kariavo_pries [[objektai/grupes/Rusai]]
-- Švedai uzeme [[objektai/vietos/Lietuvos Brasta]]
-- Švedai valde_miesta [[objektai/vietos/Klaipėda]]
-- [[objektai/asmenys/Vaina]] puole Švedai
+- Sąjungininkai: [[objektai/grupes/Sapiegos]]
+- Puolė Švedai: [[objektai/grupes/Kazokai]], [[objektai/grupes/Lietuvos totoriai]], [[objektai/asmenys/Vaina]]
+- Kariavo prieš: [[objektai/asmenys/Augustas II]], [[objektai/grupes/Bajorų konfederacija]], [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Lietuvos totoriai]], [[objektai/asmenys/Mykolas Pacas]], [[objektai/asmenys/Petras I Didysis]]
+- Sudarė sutartį su: [[objektai/grupes/Lenkų bajorija]]
+- Turėjo priklausinį: [[objektai/vietos/Biržų pilis|Biržų pilis (pilis)]], [[objektai/vietos/Klaipėda]], [[objektai/grupes/Kuršiai]], [[objektai/vietos/Livonija]], [[objektai/vietos/Ryga]], [[objektai/vietos/Seeburgas]], [[objektai/vietos/Talinas]]
+- Švedai valdė [[objektai/vietos/Klaipėda]], [[objektai/vietos/Seeburgas]]
+- Švedai keliavo į [[objektai/vietos/Gotlandas]]
+- Švedai puolė [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Palanga]]
+- Švedai apgulė [[objektai/vietos/Brasta]], [[objektai/vietos/Lietuvos Brasta]]
+- Švedai užėmė [[objektai/vietos/Apuolės pilis|Apuolės pilis (pilis)]], [[objektai/vietos/Lietuvos Brasta]], [[objektai/vietos/Livonija]]
+- Švedai kariavo prieš [[objektai/grupes/Lietuviai]], [[objektai/grupes/Rusai]]
+- Švedai dalyvavo mūšyje [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]], [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)]], [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - Švedai gyveno [[objektai/vietos/Sauslaukė]]
-- [[objektai/grupes/Lenkų bajorija]] sudare_sutarti_su Švedai
-- Švedai puole [[objektai/vietos/Palanga]]
-- [[objektai/grupes/Lietuvos totoriai]] kariavo_pries Švedai
-- Švedai dalyvavo_musyje [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)]]
-- [[objektai/vietos/Biržų pilis|Biržų pilis (pilis)]] priklause Švedai
-- Švedai keliavo_i [[objektai/vietos/Gotlandas]]
-- [[objektai/grupes/Kazokai]] puole Švedai
-- [[objektai/grupes/Lietuvos totoriai]] puole Švedai
+- Švedai užkariavo [[objektai/grupes/Kuršiai]]

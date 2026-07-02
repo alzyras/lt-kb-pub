@@ -86,4 +86,4 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Ulrikas Hozijus]] pastate Ulriko Hozijaus tiltas per Viliją
+- Buvo pastatyta: [[objektai/asmenys/Ulrikas Hozijus]]

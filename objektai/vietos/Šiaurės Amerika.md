@@ -53,4 +53,4 @@ Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] gyveno Šiaurės Amerika
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

@@ -1415,16 +1415,11 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     - t-053
 
 ## Ryšiai
-- Pranciškonų ordinas pastate [[objektai/daiktai/Kryžius]]
-- Pranciškonų ordinas keliavo_i [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Vilniaus prastuomenė]] puole Pranciškonų ordinas
-- [[objektai/asmenys/Petras Goštautas]] gyne Pranciškonų ordinas
-- Pranciškonų ordinas reme [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Totoriai]] puole Pranciškonų ordinas
-- [[objektai/grupes/Vilniaus miestiečių luomas]] puole Pranciškonų ordinas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] reme Pranciškonų ordinas
-- Pranciškonų ordinas gyveno [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] reme Pranciškonų ordinas
-- Pranciškonų ordinas gyveno [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] paskyre Pranciškonų ordinas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] reme Pranciškonų ordinas
+- Puolė Pranciškonų ordiną: [[objektai/grupes/Totoriai]], [[objektai/grupes/Vilniaus miestiečių luomas]], [[objektai/grupes/Vilniaus prastuomenė]]
+- Gynė Pranciškonų ordiną: [[objektai/asmenys/Petras Goštautas]]
+- Paskyrė Pranciškonų ordiną: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Rėmė Pranciškonų ordiną: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- Pranciškonų ordinas keliavo į [[objektai/vietos/Vilnius]]
+- Pranciškonų ordinas pastatė [[objektai/daiktai/Kryžius]]
+- Pranciškonų ordinas gyveno [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
+- Pranciškonų ordinas rėmė [[objektai/grupes/Kryžiuočių ordinas]]

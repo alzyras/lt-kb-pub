@@ -52,5 +52,5 @@ Korsako) milicijos batalionas ir keli eskadronai bei keletas kitų smulkesnių s
     - t-001
 
 ## Ryšiai
-- T. Korsakas gyne [[objektai/vietos/Varšuva]]
-- T. Korsakas mire [[objektai/vietos/Varšuva]]
+- T. Korsakas mirė [[objektai/vietos/Varšuva]]
+- T. Korsakas gynė [[objektai/vietos/Varšuva]]

@@ -157,4 +157,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Minsko Lietuva priklause [[objektai/vietos/Lietuva]]
+- Minsko Lietuva priklausė [[objektai/vietos/Lietuva]]

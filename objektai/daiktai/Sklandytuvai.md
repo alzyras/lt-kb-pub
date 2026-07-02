@@ -74,4 +74,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] pastate Sklandytuvai
+- Buvo pastatyta: [[objektai/grupes/Lietuviai]]

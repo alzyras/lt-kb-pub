@@ -71,5 +71,4 @@ tags:
     - t-002
 
 ## Ryšiai
-- Latgala priklause [[objektai/vietos/Lenkija]]
-- Latgala priklause [[objektai/vietos/Lietuva]]
+- Latgala priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

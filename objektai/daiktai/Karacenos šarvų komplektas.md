@@ -60,4 +60,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Karacenos šarvų komplektas priklause [[objektai/grupes/Abiejų Tautų Respublika]]
+- Karacenos šarvų komplektas priklausė [[objektai/grupes/Abiejų Tautų Respublika]]

@@ -52,5 +52,5 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
     - t-001
 
 ## Ryšiai
-- Henrikas iš Šenenbergo puole [[objektai/asmenys/Herkus Mantas]]
-- Henrikas iš Šenenbergo buvo_sajungininkas_su [[objektai/asmenys/Helvigas iš Goldbacho]]
+- Sąjungininkai: [[objektai/asmenys/Helvigas iš Goldbacho]]
+- Henrikas iš Šenenbergo puolė [[objektai/asmenys/Herkus Mantas]]

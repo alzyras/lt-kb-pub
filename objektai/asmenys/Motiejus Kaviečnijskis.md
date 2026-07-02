@@ -53,4 +53,4 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
     - t-001
 
 ## Ryšiai
-- Motiejus Kaviečnijskis siunte_i [[objektai/vietos/Varšuva]]
+- Motiejus Kaviečnijskis siuntė į [[objektai/vietos/Varšuva]]

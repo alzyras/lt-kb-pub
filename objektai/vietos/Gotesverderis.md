@@ -78,4 +78,4 @@ tags:
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Gotesverderis
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

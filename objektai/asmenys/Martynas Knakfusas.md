@@ -54,4 +54,4 @@ periodo_grupes: []
     - t-001
 
 ## Ryšiai
-- Martynas Knakfusas (vyskupas, XVIII–XIX a.) pastate [[objektai/vietos/Verkiai]]
+- Martynas Knakfusas (vyskupas, XVIII–XIX a.) pastatė [[objektai/vietos/Verkiai]]

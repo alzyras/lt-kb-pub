@@ -73,4 +73,4 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] keliavo_i Lentvaris
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

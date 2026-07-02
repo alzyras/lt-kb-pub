@@ -37,4 +37,4 @@ Narbutas rašo, kad Daugų ežeras Trakų apskrityje garsėjo daugeliu padavimų
     - t-001
 
 ## Ryšiai
-- Daugų ežeras priklause [[objektai/vietos/Trakai]]
+- Daugų ežeras priklausė [[objektai/vietos/Trakai]]

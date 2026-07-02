@@ -49,5 +49,5 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - t-001
 
 ## Ryšiai
-- Mikalojus Michalovskis keliavo_i [[objektai/vietos/Vilnius]]
-- Mikalojus Michalovskis buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Mikalojus Michalovskis keliavo į [[objektai/vietos/Vilnius]]

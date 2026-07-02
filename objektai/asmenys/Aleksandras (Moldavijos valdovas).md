@@ -47,4 +47,4 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Aleksandras (Moldavijos valdovas)
+- Rėmė Aleksandrą (Moldavijos valdovas): [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -63,6 +63,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Skalviai]] uzeme Labguva
-- [[objektai/grupes/Skalviai]] surenge_zygi_i Labguva
-- [[objektai/grupes/Skalviai]] puole Labguva
+- Puolė Labguvą: [[objektai/grupes/Skalviai]]
+- Užėmė Labguvą: [[objektai/grupes/Skalviai]]
+- Buvo žygio kryptis: [[objektai/grupes/Skalviai]]

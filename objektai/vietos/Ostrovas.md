@@ -78,4 +78,4 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Ostrovas
+- Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

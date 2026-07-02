@@ -84,5 +84,5 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Opočka
-- Opočka priklause [[objektai/vietos/Pskovas]]
+- Puolė Opočką: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Opočka priklausė [[objektai/vietos/Pskovas]]

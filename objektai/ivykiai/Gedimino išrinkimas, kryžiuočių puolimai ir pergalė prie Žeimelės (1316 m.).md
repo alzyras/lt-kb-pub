@@ -208,4 +208,4 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] dalyvavo_musyje Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)
+- Turėjo dalyvį: [[objektai/grupes/Totoriai]]

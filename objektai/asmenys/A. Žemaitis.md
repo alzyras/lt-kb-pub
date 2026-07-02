@@ -42,5 +42,4 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. A. Žemaičio vadovaujamą
     - t-001
 
 ## Ryšiai
-- A. Žemaitis keliavo_i [[objektai/vietos/Prienai]]
-- A. Žemaitis keliavo_i [[objektai/vietos/Jieznas]]
+- A. Žemaitis keliavo į [[objektai/vietos/Jieznas]], [[objektai/vietos/Prienai]]

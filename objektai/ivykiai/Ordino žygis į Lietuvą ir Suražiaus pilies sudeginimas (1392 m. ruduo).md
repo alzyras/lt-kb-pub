@@ -66,4 +66,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)
+- Buvo žygio kryptis: [[objektai/grupes/Kryžiuočių ordinas]]

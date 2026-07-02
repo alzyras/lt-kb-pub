@@ -65,4 +65,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Pistoletas-kulkosvaidis MP 18 priklause [[objektai/grupes/Vokiečiai]]
+- Pistoletas-kulkosvaidis MP 18 priklausė [[objektai/grupes/Vokiečiai]]

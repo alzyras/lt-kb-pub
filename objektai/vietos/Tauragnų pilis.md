@@ -95,4 +95,4 @@ amziai:
     - t-002
 
 ## Ryšiai
-- Tauragnų pilis (pilis) priklause [[objektai/vietos/Vilniaus katedra]]
+- Tauragnų pilis (pilis) priklausė [[objektai/vietos/Vilniaus katedra]]

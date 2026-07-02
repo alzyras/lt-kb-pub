@@ -54,4 +54,4 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
     - t-001
 
 ## Ryšiai
-- Livonijos valstybė gyne [[objektai/vietos/Maskva]]
+- Livonijos valstybė gynė [[objektai/vietos/Maskva]]

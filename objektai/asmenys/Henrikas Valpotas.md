@@ -102,5 +102,5 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
     - t-001
 
 ## Ryšiai
-- Henrikas Valpotas buvo_palaidotas [[objektai/vietos/Akonas]]
-- Henrikas Valpotas pastate [[objektai/vietos/Akonas]]
+- Henrikas Valpotas buvo palaidotas [[objektai/vietos/Akonas]]
+- Henrikas Valpotas pastatė [[objektai/vietos/Akonas]]

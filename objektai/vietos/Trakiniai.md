@@ -47,4 +47,4 @@ TRAKINIŲ KAUTYNĖS 1945 m. birželio 27 d. Ukmergės apskr.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/NKVD]] puole Trakiniai
+- Puolė Trakiniai: [[objektai/grupes/NKVD]]

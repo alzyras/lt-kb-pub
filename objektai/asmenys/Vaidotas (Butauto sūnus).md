@@ -59,5 +59,5 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
     - t-001
 
 ## Ryšiai
-- Vaidotas (Butauto sūnus) buvo_sunus [[objektai/asmenys/Butautas]]
-- Vaidotas (Butauto sūnus) keliavo_i [[objektai/vietos/Prūsų žemė]]
+- Tėvai: [[objektai/asmenys/Butautas]]
+- Vaidotas (Butauto sūnus) keliavo į [[objektai/vietos/Prūsų žemė]]

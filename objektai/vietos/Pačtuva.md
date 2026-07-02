@@ -59,4 +59,4 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Pačtuva
+- Puolė Pačtuvą: [[objektai/grupes/Kryžiuočių ordinas]]

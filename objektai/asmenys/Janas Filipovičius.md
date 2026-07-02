@@ -59,4 +59,4 @@ Janas Filipovičius buvo daktaras, kustodas ir Vilniaus kanauninkas; Lietuvos Me
     - t-001
 
 ## Ryšiai
-- Janas Filipovičius valde_teritorija [[objektai/vietos/Vilnius]]
+- Janas Filipovičius valdė [[objektai/vietos/Vilnius]]

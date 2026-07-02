@@ -59,6 +59,5 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
     - t-001
 
 ## Ryšiai
-- A. N. Trubeckojus uzeme [[objektai/vietos/Mstislavlis]]
-- A. N. Trubeckojus surenge_zygi_i [[objektai/vietos/Lietuva]]
-- A. N. Trubeckojus surenge_zygi_i [[objektai/vietos/Minskas]]
+- A. N. Trubeckojus užėmė [[objektai/vietos/Mstislavlis]]
+- A. N. Trubeckojus surengė žygį į [[objektai/vietos/Lietuva]], [[objektai/vietos/Minskas]]

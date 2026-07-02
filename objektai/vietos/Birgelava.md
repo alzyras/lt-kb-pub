@@ -83,6 +83,5 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Treniota]] uzeme Birgelava
-- [[objektai/grupes/Sūduviai]] keliavo_i Birgelava
-- [[objektai/grupes/Lietuviai]] uzeme Birgelava
+- Buvo kelionės vieta: [[objektai/grupes/Sūduviai]]
+- Užėmė Birgelavą: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Treniota]]

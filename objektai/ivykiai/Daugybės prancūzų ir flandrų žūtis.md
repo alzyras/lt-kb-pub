@@ -63,5 +63,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Flandrai]] dalyvavo_musyje Daugybės prancūzų ir flandrų žūtis
-- [[objektai/grupes/Prancūzai]] dalyvavo_musyje Daugybės prancūzų ir flandrų žūtis
+- Turėjo dalyvį: [[objektai/grupes/Flandrai]], [[objektai/grupes/Prancūzai]]

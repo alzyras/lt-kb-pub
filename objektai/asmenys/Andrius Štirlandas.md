@@ -98,4 +98,4 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
     - t-003
 
 ## Ryšiai
-- Andrius Štirlandas buvo_sajungininkas_su [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- Sąjungininkai: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

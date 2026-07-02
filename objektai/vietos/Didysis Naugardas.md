@@ -520,5 +520,5 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
     - t-022
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Didysis Naugardas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzkariavo Didysis Naugardas
+- Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo užkariauta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

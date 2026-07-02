@@ -785,9 +785,8 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
     - t-011
 
 ## Ryšiai
-- A. Smetona keliavo_i [[objektai/vietos/Berlynas]]
-- A. Smetona mire [[objektai/vietos/Klivlandas]]
-- A. Smetona valde [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Ministerių kabinetas]] reme A. Smetona
-- [[objektai/asmenys/Jeronimas Plečkaitis]] buvo_priesas A. Smetona
-- A. Smetona keliavo_i [[objektai/vietos/Lietuva]]
+- Priešai: [[objektai/asmenys/Jeronimas Plečkaitis]]
+- Rėmė A. Smetoną: [[objektai/grupes/Ministerių kabinetas]]
+- A. Smetona valdė [[objektai/vietos/Lietuva]]
+- A. Smetona keliavo į [[objektai/vietos/Berlynas]], [[objektai/vietos/Lietuva]]
+- A. Smetona mirė [[objektai/vietos/Klivlandas]]

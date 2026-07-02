@@ -2204,39 +2204,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     - t-078
 
 ## Ryšiai
-- [[objektai/asmenys/Skomantas]] puole Gardinas
-- [[objektai/asmenys/Skomantas]] uzeme Gardinas
-- [[objektai/asmenys/Steponas Batoras]] mire Gardinas
-- [[objektai/asmenys/Henrikas Cutsvertas]] puole Gardinas
-- [[objektai/asmenys/Albertas fon Hagenas]] puole Gardinas
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] keliavo_i Gardinas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyveno Gardinas
-- [[objektai/asmenys/Birutė]] keliavo_i Gardinas
-- [[objektai/asmenys/Dovydas Gardiniškis]] gyne Gardinas
-- [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]] uzeme Gardinas
-- [[objektai/asmenys/Konradas]] puole Gardinas
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Gardinas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Gardinas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Gardinas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_miesta Gardinas
-- [[objektai/grupes/Vokiečių pirkliai]] keliavo_i Gardinas
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] uzeme Gardinas
-- [[objektai/asmenys/Ibrahimas (Turkijos čiaušas)]] keliavo_i Gardinas
-- [[objektai/asmenys/Zigfridas iš Rechbergo]] keliavo_i Gardinas
-- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] uzeme Gardinas
-- [[objektai/asmenys/Kazimieras Jogailaitis]] keliavo_i Gardinas
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde_teritorija Gardinas
-- [[objektai/vietos/Gorodnica]] priklause Gardinas
-- [[objektai/asmenys/Ditrichas iš Ezbeko]] surenge_zygi_i Gardinas
-- [[objektai/vietos/Koložas]] priklause Gardinas
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde Gardinas
-- [[objektai/grupes/Lietuviai]] gyne Gardinas
-- [[objektai/grupes/Slavai]] keliavo_i Gardinas
-- [[objektai/asmenys/Albrechtas iš Hageno]] puole Gardinas
-- [[objektai/grupes/Kryžiuočių ordinas]] siunte_i Gardinas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Gardinas
-- [[objektai/asmenys/Kazimieras Jogailaitis]] gyveno Gardinas
-- [[objektai/asmenys/Albertas fon Hagenas]] uzeme Gardinas
-- [[objektai/asmenys/Skomantas]] keliavo_i Gardinas
-- [[objektai/asmenys/Švitrigaila]] puole Gardinas
-- [[objektai/asmenys/Žygimantas]] keliavo_i Gardinas
+- Turėjo valdovą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Birutė]], [[objektai/asmenys/Ibrahimas (Turkijos čiaušas)]], [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Skomantas]], [[objektai/grupes/Slavai]], [[objektai/grupes/Vokiečių pirkliai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zigfridas iš Rechbergo]], [[objektai/asmenys/Žygimantas]]
+- Mirties vieta: [[objektai/asmenys/Steponas Batoras]]
+- Puolė Gardiną: [[objektai/asmenys/Albertas fon Hagenas]], [[objektai/asmenys/Albrechtas iš Hageno]], [[objektai/asmenys/Henrikas Cutsvertas]], [[objektai/asmenys/Konradas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Skomantas]], [[objektai/asmenys/Švitrigaila]]
+- Užėmė Gardiną: [[objektai/asmenys/Albertas fon Hagenas]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]], [[objektai/asmenys/Skomantas]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- Gynė Gardiną: [[objektai/asmenys/Dovydas Gardiniškis]], [[objektai/grupes/Lietuviai]]
+- Buvo siuntimo vieta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Buvo žygio kryptis: [[objektai/asmenys/Ditrichas iš Ezbeko]]
+- Gyvenamoji vieta: [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Turėjo priklausinį: [[objektai/vietos/Gorodnica]], [[objektai/vietos/Koložas]]

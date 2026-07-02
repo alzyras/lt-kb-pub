@@ -47,6 +47,6 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas Paleologas]] buvo_sunus Manuelis
-- Manuelis buvo_sunus [[objektai/asmenys/Paleologas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Manuelis
+- Sūnūs: [[objektai/asmenys/Jonas Paleologas]]
+- Tėvai: [[objektai/asmenys/Paleologas]]
+- Rėmė Manuelį: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

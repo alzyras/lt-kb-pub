@@ -101,7 +101,5 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
     - t-003
 
 ## Ryšiai
-- Burchardas iš Hornhauzeno mire [[objektai/vietos/Durbė]]
-- Burchardas iš Hornhauzeno mire [[objektai/vietos/Kuršas]]
-- Burchardas iš Hornhauzeno pastate [[objektai/vietos/Karšuva]]
-- Burchardas iš Hornhauzeno pastate [[objektai/vietos/Karšuvos žemė]]
+- Burchardas iš Hornhauzeno mirė [[objektai/vietos/Durbė]], [[objektai/vietos/Kuršas]]
+- Burchardas iš Hornhauzeno pastatė [[objektai/vietos/Karšuva]], [[objektai/vietos/Karšuvos žemė]]

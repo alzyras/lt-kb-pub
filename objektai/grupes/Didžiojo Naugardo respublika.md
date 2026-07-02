@@ -319,10 +319,10 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
     - t-010
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Didžiojo Naugardo respublika
-- Didžiojo Naugardo respublika sudare_sutarti_su [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Didžiojo Naugardo bojarinai]] priklause Didžiojo Naugardo respublika
-- Didžiojo Naugardo respublika reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Švitrigaila]] sudare_sutarti_su Didžiojo Naugardo respublika
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] paskyre Didžiojo Naugardo respublika
-- [[objektai/asmenys/Švitrigaila]] prekiavo_su Didžiojo Naugardo respublika
+- Turėjo valdovą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Sudarė sutartį su: [[objektai/asmenys/Švitrigaila]]
+- Prekiavo su: [[objektai/asmenys/Švitrigaila]]
+- Paskyrė Didžiojo Naugardo respubliką: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Turėjo priklausinį: [[objektai/grupes/Didžiojo Naugardo bojarinai]]
+- Didžiojo Naugardo respublika sudarė sutartį su [[objektai/grupes/Vokiečiai]]
+- Didžiojo Naugardo respublika rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

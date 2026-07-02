@@ -135,6 +135,5 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] uzeme Zaslavlis
-- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] valde Zaslavlis
-- [[objektai/grupes/Gediminaičiai]] valde_teritorija Zaslavlis
+- Buvo valdoma: [[objektai/grupes/Gediminaičiai]], [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
+- Užėmė Zaslavlį: [[objektai/grupes/Totoriai]]

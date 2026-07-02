@@ -343,8 +343,7 @@ amziai:
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Gubučiai]] gyveno Varmė
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Varmė
-- Varmė priklause [[objektai/vietos/Lenkija]]
-- Varmė priklause [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Heilsbergas]] priklause Varmė
+- Puolė Varmę: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Gyvenamoji vieta: [[objektai/grupes/Gubučiai]]
+- Turėjo priklausinį: [[objektai/vietos/Heilsbergas]]
+- Varmė priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Prūsija]]

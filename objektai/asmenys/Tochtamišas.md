@@ -212,10 +212,8 @@ Tochtamišas buvo naujasis Aukso ordos chanas: iš pradžių Timuro globojamas, 
     - t-002
 
 ## Ryšiai
-- Tochtamišas buvo_priesas [[objektai/asmenys/Timūr-Kutlukas]]
-- [[objektai/asmenys/Saladinas]] buvo_sunus Tochtamišas
-- [[objektai/asmenys/Timūr-Kutlukas]] buvo_priesas Tochtamišas
+- Sūnūs: [[objektai/asmenys/Saladinas]]
+- Priešai: [[objektai/asmenys/Timūr-Kutlukas]]
+- Puolė Tochtamišą: [[objektai/asmenys/Timuras]]
+- Rėmė Tochtamišą: [[objektai/asmenys/Timuras]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Tochtamišas gyveno [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Timuras]] puole Tochtamišas
-- [[objektai/asmenys/Timuras]] reme Tochtamišas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Tochtamišas

@@ -73,5 +73,4 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
     - t-001
 
 ## Ryšiai
-- Klodovas priklause [[objektai/vietos/Gniezno diecezija]]
-- Klodovas priklause [[objektai/vietos/Gniezno]]
+- Klodovas priklausė [[objektai/vietos/Gniezno]], [[objektai/vietos/Gniezno diecezija]]

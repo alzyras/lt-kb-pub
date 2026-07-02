@@ -63,4 +63,4 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
     - t-001
 
 ## Ryšiai
-- Chlepenis priklause [[objektai/vietos/Viazma]]
+- Chlepenis priklausė [[objektai/vietos/Viazma]]

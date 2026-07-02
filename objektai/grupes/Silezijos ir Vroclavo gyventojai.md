@@ -53,5 +53,4 @@ Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo 
     - t-001
 
 ## Ryšiai
-- Silezijos ir Vroclavo gyventojai keliavo_i [[objektai/vietos/Lietuva]]
-- Silezijos ir Vroclavo gyventojai keliavo_i [[objektai/vietos/Vilnius]]
+- Silezijos ir Vroclavo gyventojai keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

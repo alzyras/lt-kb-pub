@@ -68,14 +68,9 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
     - t-001
 
 ## Ryšiai
-- Jonas Karolis Chodkevičius gyne [[objektai/vietos/Smolenskas]]
-- Jonas Karolis Chodkevičius keliavo_i [[objektai/vietos/Livonija]]
-- Jonas Karolis Chodkevičius puole [[objektai/vietos/Daugavgryva]]
-- Jonas Karolis Chodkevičius kariavo_pries [[objektai/grupes/Švedai]]
-- Jonas Karolis Chodkevičius puole [[objektai/vietos/Piarnu]]
-- Jonas Karolis Chodkevičius keliavo_i [[objektai/vietos/Piarnu]]
-- Jonas Karolis Chodkevičius kariavo_pries [[objektai/grupes/Kazokai]]
-- Jonas Karolis Chodkevičius uzeme [[objektai/vietos/Kuoknesė]]
-- Jonas Karolis Chodkevičius uzeme [[objektai/vietos/Viljandis]]
-- Jonas Karolis Chodkevičius gyne [[objektai/vietos/Piarnu]]
-- Jonas Karolis Chodkevičius siunte_i [[objektai/vietos/Salacgryva]]
+- Jonas Karolis Chodkevičius keliavo į [[objektai/vietos/Livonija]], [[objektai/vietos/Piarnu]]
+- Jonas Karolis Chodkevičius puolė [[objektai/vietos/Daugavgryva]], [[objektai/vietos/Piarnu]]
+- Jonas Karolis Chodkevičius užėmė [[objektai/vietos/Kuoknesė]], [[objektai/vietos/Viljandis]]
+- Jonas Karolis Chodkevičius gynė [[objektai/vietos/Piarnu]], [[objektai/vietos/Smolenskas]]
+- Jonas Karolis Chodkevičius siuntė į [[objektai/vietos/Salacgryva]]
+- Jonas Karolis Chodkevičius kariavo prieš [[objektai/grupes/Kazokai]], [[objektai/grupes/Švedai]]

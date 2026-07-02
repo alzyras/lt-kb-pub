@@ -55,5 +55,5 @@ Kijevo Rusia šiame šaltinyje minima kaip 988 m. Bizantijos krikštą priėmęs
     - t-001
 
 ## Ryšiai
-- Kijevo Rusia puole [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]] kariavo_pries Kijevo Rusia
+- Kariavo prieš: [[objektai/grupes/Lietuviai]]
+- Kijevo Rusia puolė [[objektai/vietos/Lietuva]]

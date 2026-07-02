@@ -48,4 +48,4 @@ Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, 
     - t-001
 
 ## Ryšiai
-- Moldovos kunigaikščiai reme [[objektai/asmenys/Švitrigaila]]
+- Moldovos kunigaikščiai rėmė [[objektai/asmenys/Švitrigaila]]

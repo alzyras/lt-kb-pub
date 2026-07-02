@@ -83,4 +83,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Varmės kapitula]] paskyre Fabianas (Varmės vyskupas)
+- Paskyrė Fabianą (Varmės vyskupas): [[objektai/grupes/Varmės kapitula]]

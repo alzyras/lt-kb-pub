@@ -68,4 +68,4 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Ulrichas von Jungingenas]] keliavo_i Loebau
+- Buvo kelionės vieta: [[objektai/asmenys/Ulrichas von Jungingenas]]

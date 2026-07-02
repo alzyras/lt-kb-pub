@@ -174,7 +174,6 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
     - t-007
 
 ## Ryšiai
-- [[objektai/grupes/Skalviai]] gyveno Skalvių pilis (pilis, XIII a.)
-- Skalvių pilis (pilis, XIII a.) priklause [[objektai/vietos/Ragainė]]
-- [[objektai/grupes/Lietuviai]] puole Skalvių pilis (pilis, XIII a.)
-- Skalvių pilis (pilis, XIII a.) priklause [[objektai/grupes/Skalviai]]
+- Puolė Skalvių pilį (pilis, XIII a.): [[objektai/grupes/Lietuviai]]
+- Gyvenamoji vieta: [[objektai/grupes/Skalviai]]
+- Skalvių pilis (pilis, XIII a.) priklausė [[objektai/vietos/Ragainė]], [[objektai/grupes/Skalviai]]

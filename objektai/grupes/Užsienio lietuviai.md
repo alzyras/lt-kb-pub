@@ -73,4 +73,4 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
     - t-002
 
 ## Ryšiai
-- Užsienio lietuviai keliavo_i [[objektai/ivykiai/Pasaulio lietuvių kongresas Kaune (1935 m.)]]
+- Užsienio lietuviai keliavo į [[objektai/ivykiai/Pasaulio lietuvių kongresas Kaune (1935 m.)]]

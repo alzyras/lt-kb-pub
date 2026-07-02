@@ -82,5 +82,4 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
     - t-002
 
 ## Ryšiai
-- Sofija keliavo_i [[objektai/vietos/Pernu]]
-- Sofija keliavo_i [[objektai/vietos/Pskovas]]
+- Sofija keliavo į [[objektai/vietos/Pernu]], [[objektai/vietos/Pskovas]]

@@ -144,6 +144,6 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Sembai]] puole Paštuvos valsčius
-- [[objektai/vietos/Vilkija]] priklause Paštuvos valsčius
-- Paštuvos valsčius priklause [[objektai/vietos/Nemunas]]
+- Puolė Paštuvos valsčių: [[objektai/grupes/Sembai]]
+- Turėjo priklausinį: [[objektai/vietos/Vilkija]]
+- Paštuvos valsčius priklausė [[objektai/vietos/Nemunas]]

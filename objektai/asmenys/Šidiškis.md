@@ -59,4 +59,4 @@ tags:
     - t-002
 
 ## Ryšiai
-- Šidiškis puole [[objektai/grupes/Lenkai]]
+- Šidiškis puolė [[objektai/grupes/Lenkai]]

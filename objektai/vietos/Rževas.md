@@ -124,6 +124,5 @@ amziai:
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Pskoviečiai]] puole Rževas
-- [[objektai/asmenys/Kristupas Radvila]] keliavo_i Rževas
-- [[objektai/grupes/Radvilos]] puole Rževas
+- Buvo kelionės vieta: [[objektai/asmenys/Kristupas Radvila]]
+- Puolė Rževą: [[objektai/grupes/Pskoviečiai]], [[objektai/grupes/Radvilos]]

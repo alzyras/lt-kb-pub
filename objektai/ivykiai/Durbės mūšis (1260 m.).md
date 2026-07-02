@@ -197,10 +197,5 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Henrikas Botelis]] dalyvavo_musyje Durbės mūšis (1260 m.)
-- [[objektai/grupes/Kuršiai]] dalyvavo_musyje Durbės mūšis (1260 m.)
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Durbės mūšis (1260 m.)
-- [[objektai/grupes/Livonijos ordinas]] dalyvavo_musyje Durbės mūšis (1260 m.)
-- [[objektai/grupes/Kuršiai]] puole Durbės mūšis (1260 m.)
-- [[objektai/grupes/Lietuviai]] puole Durbės mūšis (1260 m.)
-- [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Durbės mūšis (1260 m.)
+- Puolė Durbės mūšį (1260 m.): [[objektai/grupes/Kuršiai]], [[objektai/grupes/Lietuviai]]
+- Turėjo dalyvį: [[objektai/asmenys/Henrikas Botelis]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Kuršiai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Livonijos ordinas]]

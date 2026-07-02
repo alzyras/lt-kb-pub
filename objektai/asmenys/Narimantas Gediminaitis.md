@@ -107,5 +107,4 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
     - t-001
 
 ## Ryšiai
-- Narimantas Gediminaitis buvo_brolis [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Narimantas Gediminaitis buvo_brolis [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Broliai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

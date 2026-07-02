@@ -55,4 +55,4 @@ Nepašykštėjo čia ir Žygimantas Augustas, dalydamas gausius savo prieraišum
     - t-001
 
 ## Ryšiai
-- Karalių koplyčia Vilniuje priklause [[objektai/vietos/Vilnius]]
+- Karalių koplyčia Vilniuje priklausė [[objektai/vietos/Vilnius]]

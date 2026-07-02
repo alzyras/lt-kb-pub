@@ -79,4 +79,4 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
     - t-002
 
 ## Ryšiai
-- Vosylius II valde [[objektai/vietos/Maskva]]
+- Vosylius II valdė [[objektai/vietos/Maskva]]

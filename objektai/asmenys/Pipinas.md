@@ -127,7 +127,7 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Mata]] buvo_sunus Pipinas
+- Sūnūs: [[objektai/asmenys/Mata]]
+- Pipinas mirė [[objektai/vietos/Torunė]]
+- Pipinas kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]
 - Pipinas gyveno [[objektai/vietos/Pilaitė]]
-- Pipinas kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Pipinas mire [[objektai/vietos/Torunė]]

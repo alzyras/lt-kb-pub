@@ -115,4 +115,4 @@ tags:
     - t-003
 
 ## Ryšiai
-- Vilkija priklause [[objektai/vietos/Paštuvos valsčius]]
+- Vilkija priklausė [[objektai/vietos/Paštuvos valsčius]]

@@ -989,10 +989,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - t-034
 
 ## Ryšiai
-- Vilniaus miestiečių luomas prekiavo_su [[objektai/vietos/Lietuva]]
-- Vilniaus miestiečių luomas reme [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Vilniaus miestiečių luomas gyne [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Steponas Batoras]] reme Vilniaus miestiečių luomas
-- Vilniaus miestiečių luomas puole [[objektai/grupes/Pranciškonų ordinas]]
-- Vilniaus miestiečių luomas prekiavo_su [[objektai/vietos/Minskas]]
-- Vilniaus miestiečių luomas prekiavo_su [[objektai/vietos/Naugardukas]]
+- Rėmė Vilniaus miestiečių luomą: [[objektai/asmenys/Steponas Batoras]]
+- Vilniaus miestiečių luomas puolė [[objektai/grupes/Pranciškonų ordinas]]
+- Vilniaus miestiečių luomas gynė [[objektai/vietos/Vilnius]]
+- Vilniaus miestiečių luomas prekiavo su [[objektai/vietos/Lietuva]], [[objektai/vietos/Minskas]], [[objektai/vietos/Naugardukas]]
+- Vilniaus miestiečių luomas rėmė [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

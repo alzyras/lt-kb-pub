@@ -280,4 +280,4 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Charitonas Charotičius]] valde_teritorija Rudamina
+- Buvo valdoma: [[objektai/asmenys/Charitonas Charotičius]]

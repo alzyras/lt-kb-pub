@@ -219,4 +219,4 @@ Nenurodyta
     - t-006
 
 ## Ryšiai
-- Karinė ginkluotė priklause [[objektai/grupes/Lietuviai]]
+- Karinė ginkluotė priklausė [[objektai/grupes/Lietuviai]]

@@ -1599,41 +1599,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     - t-057
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzeme Kijevas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzkariavo Kijevas
-- Kijevas priklause [[objektai/vietos/Rusija]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Kijevas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] uzeme Kijevas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] surenge_zygi_i Kijevas
-- [[objektai/asmenys/Skirgaila]] mire Kijevas
-- [[objektai/asmenys/Švitrigaila]] valde_teritorija Kijevas
-- [[objektai/grupes/Totoriai]] puole Kijevas
-- Kijevas priklause [[objektai/grupes/Aukso orda]]
-- Kijevas priklause [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Totoriai]] keliavo_i Kijevas
-- [[objektai/grupes/Totoriai]] valde Kijevas
-- [[objektai/asmenys/Švitrigaila]] keliavo_i Kijevas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Kijevas
-- [[objektai/asmenys/Boleslovas Švitrigaila]] keliavo_i Kijevas
-- Kijevas priklause [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Skirgaila]] valde_miesta Kijevas
-- [[objektai/asmenys/Švitrigaila]] valde Kijevas
-- [[objektai/grupes/Auksinė Orda]] valde_miesta Kijevas
-- Kijevas priklause [[objektai/grupes/Auksinė Orda]]
-- Kijevas priklause [[objektai/vietos/Lenkija]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] valde Kijevas
-- [[objektai/asmenys/Skirgaila]] valde_teritorija Kijevas
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Kijevas
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Kijevas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] uzkariavo Kijevas
-- [[objektai/grupes/Lietuviai]] keliavo_i Kijevas
-- [[objektai/asmenys/Edyga]] puole Kijevas
-- [[objektai/grupes/Auksinė Orda]] valde Kijevas
-- [[objektai/asmenys/Jonas Algimantaitis (Alšėniškis)]] valde_miesta Kijevas
-- [[objektai/asmenys/Skirgaila]] uzeme Kijevas
-- [[objektai/grupes/Mongolų imperija]] uzkariavo Kijevas
-- [[objektai/grupes/Tochtamišo totoriai]] gyveno Kijevas
-- [[objektai/asmenys/Mykolas]] gyveno Kijevas
-- [[objektai/grupes/Krymo orda]] puole Kijevas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Kijevas
-- [[objektai/asmenys/Markvardas (Ragainės komtūras)]] keliavo_i Kijevas
+- Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]]
+- Buvo valdoma: [[objektai/grupes/Auksinė Orda]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jonas Algimantaitis (Alšėniškis)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Boleslovas Švitrigaila]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Markvardas (Ragainės komtūras)]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Mirties vieta: [[objektai/asmenys/Skirgaila]]
+- Puolė Kijevą: [[objektai/asmenys/Edyga]], [[objektai/grupes/Krymo orda]], [[objektai/grupes/Totoriai]]
+- Užėmė Kijevą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Buvo užkariauta: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Mongolų imperija]]
+- Gyvenamoji vieta: [[objektai/asmenys/Mykolas]], [[objektai/grupes/Tochtamišo totoriai]]
+- Kijevas priklausė [[objektai/grupes/Auksinė Orda]], [[objektai/grupes/Aukso orda]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Rusija]], [[objektai/asmenys/Skirgaila]]

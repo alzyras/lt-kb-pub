@@ -172,5 +172,5 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Kaidanas]] keliavo_i Dnepras
-- [[objektai/vietos/Lojevas]] priklause Dnepras
+- Buvo kelionės vieta: [[objektai/asmenys/Kaidanas]]
+- Turėjo priklausinį: [[objektai/vietos/Lojevas]]

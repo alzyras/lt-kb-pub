@@ -66,5 +66,4 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] kariavo_pries Armija Krajova
-- [[objektai/grupes/Vietinė rinktinė]] kariavo_pries Armija Krajova
+- Kariavo prieš: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vietinė rinktinė]]

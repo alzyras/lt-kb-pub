@@ -66,5 +66,5 @@ Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo s
     - t-001
 
 ## Ryšiai
-- Jurga (pasienio seniūnas) gyne [[objektai/vietos/Braclavas]]
-- Jurga (pasienio seniūnas) reme [[objektai/grupes/Lietuviai]]
+- Jurga (pasienio seniūnas) gynė [[objektai/vietos/Braclavas]]
+- Jurga (pasienio seniūnas) rėmė [[objektai/grupes/Lietuviai]]

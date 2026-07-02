@@ -81,4 +81,4 @@ Magistras paskyrė Prūsijos maršalą Zigfridą fon Dahenfeldą kariuomenės va
     - t-001
 
 ## Ryšiai
-- Zigfridas fon Dahenfeldas surenge_zygi_i [[objektai/vietos/Lietuva]]
+- Zigfridas fon Dahenfeldas surengė žygį į [[objektai/vietos/Lietuva]]

@@ -222,10 +222,10 @@ Andrius Algirdaitis buvo Algirdo ir Julijonos sūnus, Jogailai pavaldus Polocko 
     - t-006
 
 ## Ryšiai
-- Andrius Algirdaitis buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Andrius Algirdaitis kariavo_pries [[objektai/grupes/Totoriai]]
-- Andrius Algirdaitis mire [[objektai/vietos/Vorskla]]
-- Andrius Algirdaitis dalyvavo_musyje [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
-- Andrius Algirdaitis surenge_zygi_i [[objektai/vietos/Maskva]]
-- Andrius Algirdaitis reme [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Andrius Algirdaitis valde_miesta [[objektai/vietos/Polockas]]
+- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Andrius Algirdaitis valdė [[objektai/vietos/Polockas]]
+- Andrius Algirdaitis mirė [[objektai/vietos/Vorskla]]
+- Andrius Algirdaitis surengė žygį į [[objektai/vietos/Maskva]]
+- Andrius Algirdaitis kariavo prieš [[objektai/grupes/Totoriai]]
+- Andrius Algirdaitis dalyvavo mūšyje [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
+- Andrius Algirdaitis rėmė [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

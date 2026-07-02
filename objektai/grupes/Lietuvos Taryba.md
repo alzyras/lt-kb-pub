@@ -205,4 +205,4 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     - t-005
 
 ## Ryšiai
-- Lietuvos Taryba (institucija) paskyre [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- Lietuvos Taryba (institucija) paskyrė [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

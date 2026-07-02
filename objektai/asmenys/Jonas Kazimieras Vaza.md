@@ -46,4 +46,4 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Bajorų konfederacija]] reme Jonas Kazimieras Vaza
+- Rėmė Jonas Kazimieras Vazą: [[objektai/grupes/Bajorų konfederacija]]

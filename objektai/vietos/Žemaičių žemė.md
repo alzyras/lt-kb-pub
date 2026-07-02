@@ -144,5 +144,5 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
     - t-005
 
 ## Ryšiai
-- Žemaičių žemė priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] keliavo_i Žemaičių žemė
+- Buvo kelionės vieta: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Žemaičių žemė priklausė [[objektai/grupes/Kryžiuočių ordinas]]

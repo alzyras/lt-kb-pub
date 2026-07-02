@@ -42,4 +42,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- 2-oji divizija gyne [[objektai/vietos/Augustavas]]
+- 2-oji divizija gynė [[objektai/vietos/Augustavas]]

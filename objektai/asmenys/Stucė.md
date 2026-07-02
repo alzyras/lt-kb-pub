@@ -43,6 +43,6 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
     - t-001
 
 ## Ryšiai
-- Stucė surenge_zygi_i [[objektai/vietos/Baiga]]
-- Stucė keliavo_i [[objektai/vietos/Baiga]]
-- Stucė buvo_sajungininkas_su [[objektai/asmenys/Skumas]]
+- Sąjungininkai: [[objektai/asmenys/Skumas]]
+- Stucė keliavo į [[objektai/vietos/Baiga]]
+- Stucė surengė žygį į [[objektai/vietos/Baiga]]

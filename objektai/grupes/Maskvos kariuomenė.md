@@ -103,7 +103,5 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
     - t-003
 
 ## Ryšiai
-- Maskvos kariuomenė uzeme [[objektai/vietos/Narva]]
-- Maskvos kariuomenė uzeme [[objektai/vietos/Tartu]]
-- Maskvos kariuomenė uzeme [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Totoriai]] priklause Maskvos kariuomenė
+- Turėjo priklausinį: [[objektai/grupes/Totoriai]]
+- Maskvos kariuomenė užėmė [[objektai/vietos/Livonija]], [[objektai/vietos/Narva]], [[objektai/vietos/Tartu]]

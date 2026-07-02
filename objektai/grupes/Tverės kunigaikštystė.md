@@ -51,4 +51,4 @@ Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo (Aleksandro sūnau
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] gyne Tverės kunigaikštystė
+- Gynė Tverės kunigaikštystę: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

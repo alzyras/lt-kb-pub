@@ -198,6 +198,5 @@ tags:
     - t-006
 
 ## Ryšiai
-- Romuva priklause [[objektai/vietos/Nadruva]]
-- [[objektai/daiktai/Šventasis ąžuolas]] priklause Romuva
-- Romuva priklause [[objektai/grupes/Baltai]]
+- Turėjo priklausinį: [[objektai/daiktai/Šventasis ąžuolas]]
+- Romuva priklausė [[objektai/grupes/Baltai]], [[objektai/vietos/Nadruva]]

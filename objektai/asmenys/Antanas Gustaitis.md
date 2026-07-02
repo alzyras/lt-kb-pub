@@ -109,4 +109,4 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
     - t-004
 
 ## Ryšiai
-- Antanas Gustaitis pastate [[objektai/daiktai/Lėktuvai]]
+- Antanas Gustaitis pastatė [[objektai/daiktai/Lėktuvai]]

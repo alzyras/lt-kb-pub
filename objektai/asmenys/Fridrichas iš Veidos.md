@@ -47,5 +47,5 @@ Dusburgietis teigia, kad kunigaikščio kariaunos vadas susigrūmė su broliu Fr
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Sventopelkas]] puole Fridrichas iš Veidos
-- Fridrichas iš Veidos kariavo_pries [[objektai/asmenys/Sventopelkas]]
+- Puolė Fridrichas iš Veidos: [[objektai/asmenys/Sventopelkas]]
+- Fridrichas iš Veidos kariavo prieš [[objektai/asmenys/Sventopelkas]]

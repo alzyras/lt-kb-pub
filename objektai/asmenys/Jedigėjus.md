@@ -58,5 +58,5 @@ Tada Lietuvos sostinėje regėdavo kupranuga­ rius, dryžuotom gūniom apdangst
     - t-001
 
 ## Ryšiai
-- Jedigėjus siunte_i [[objektai/vietos/Vilnius]]
-- Jedigėjus reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Jedigėjus siuntė į [[objektai/vietos/Vilnius]]
+- Jedigėjus rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

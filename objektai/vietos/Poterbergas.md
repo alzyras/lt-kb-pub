@@ -118,4 +118,4 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Teutonai]] pastate Poterbergas
+- Buvo pastatyta: [[objektai/grupes/Teutonai]]

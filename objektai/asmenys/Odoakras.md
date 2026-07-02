@@ -86,4 +86,4 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     - t-002
 
 ## Ryšiai
-- Odoakras buvo_valdovas [[objektai/grupes/Herulai]]
+- Odoakras buvo valdovas [[objektai/grupes/Herulai]]

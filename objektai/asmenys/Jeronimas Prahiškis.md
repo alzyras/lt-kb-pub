@@ -192,4 +192,4 @@ Jeronimas Prahiškis siejamas su XV a. Lietuvos krikščioninimo pasakojimais ir
     - t-006
 
 ## Ryšiai
-- Jeronimas Prahiškis mire [[objektai/vietos/Konstanca]]
+- Jeronimas Prahiškis mirė [[objektai/vietos/Konstanca]]

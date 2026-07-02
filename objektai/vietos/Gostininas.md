@@ -51,4 +51,4 @@ Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vlad
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] uzeme Gostininas
+- Užėmė Gostininą: [[objektai/grupes/Lietuviai]]

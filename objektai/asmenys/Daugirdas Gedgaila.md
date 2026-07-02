@@ -55,4 +55,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Daugirdas Gedgaila valde [[objektai/vietos/Podolė]]
+- Daugirdas Gedgaila valdė [[objektai/vietos/Podolė]]

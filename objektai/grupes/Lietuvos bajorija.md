@@ -507,7 +507,6 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
     - t-025
 
 ## Ryšiai
-- Lietuvos bajorija buvo_priesas [[objektai/grupes/Sapiegos]]
-- [[objektai/daiktai/Herbai]] priklause Lietuvos bajorija
-- Lietuvos bajorija buvo_priesas [[objektai/grupes/Sapiegų kariuomenė]]
-- Lietuvos bajorija buvo_sajungininkas_su [[objektai/grupes/Lenkijos bajorija]]
+- Priešai: [[objektai/grupes/Sapiegos]], [[objektai/grupes/Sapiegų kariuomenė]]
+- Sąjungininkai: [[objektai/grupes/Lenkijos bajorija]]
+- Turėjo priklausinį: [[objektai/daiktai/Herbai]]

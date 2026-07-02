@@ -83,4 +83,4 @@ tags:
     - t-002
 
 ## Ryšiai
-- II brigada gyne [[objektai/vietos/Lietuva]]
+- II brigada gynė [[objektai/vietos/Lietuva]]

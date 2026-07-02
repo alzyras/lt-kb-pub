@@ -57,4 +57,4 @@ Jozefo Grabinskio Jėgerių batalionas, LDK kariuomenės artileristai prasidėju
     - t-001
 
 ## Ryšiai
-- Jozefo Grabinskio Jėgerių batalionas gyne [[objektai/vietos/Vilnius]]
+- Jozefo Grabinskio Jėgerių batalionas gynė [[objektai/vietos/Vilnius]]

@@ -111,16 +111,9 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Pagudėnai]] puole Pilaitė
-- Pilaitė priklause [[objektai/asmenys/Fričinskis]]
-- [[objektai/asmenys/Pipinas]] gyveno Pilaitė
-- [[objektai/asmenys/Giunteris iš Regenšteino]] puole Pilaitė
-- [[objektai/asmenys/Šindekopfas]] uzeme Pilaitė
-- Pilaitė priklause [[objektai/vietos/Torunė]]
-- [[objektai/grupes/Sūduviai]] puole Pilaitė
-- [[objektai/grupes/Pagudėnai]] uzeme Pilaitė
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Pilaitė
-- [[objektai/daiktai/Pilaitės kunigaikščių pilis]] priklause Pilaitė
-- [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]] priklause Pilaitė
-- [[objektai/daiktai/Pilaitės malūnas, kalvė ir lentpjūvė]] priklause Pilaitė
-- Pilaitė priklause [[objektai/vietos/Vilnius]]
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Pilaitę: [[objektai/asmenys/Giunteris iš Regenšteino]], [[objektai/grupes/Pagudėnai]], [[objektai/grupes/Sūduviai]]
+- Užėmė Pilaitę: [[objektai/grupes/Pagudėnai]], [[objektai/asmenys/Šindekopfas]]
+- Gyvenamoji vieta: [[objektai/asmenys/Pipinas]]
+- Turėjo priklausinį: [[objektai/daiktai/Pilaitės kunigaikščių pilis]], [[objektai/daiktai/Pilaitės malūnas, kalvė ir lentpjūvė]], [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]]
+- Pilaitė priklausė [[objektai/asmenys/Fričinskis]], [[objektai/vietos/Torunė]], [[objektai/vietos/Vilnius]]

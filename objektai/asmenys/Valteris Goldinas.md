@@ -61,4 +61,4 @@ Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenbu
     - t-001
 
 ## Ryšiai
-- Valteris Goldinas puole [[objektai/grupes/Lietuviai]]
+- Valteris Goldinas puolė [[objektai/grupes/Lietuviai]]

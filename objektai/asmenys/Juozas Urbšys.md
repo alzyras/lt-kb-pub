@@ -155,7 +155,6 @@ Juozas Urbšys 1939 m. spalio 2 d. išvyko į Maskvą, Viačeslavui Molotovui pa
     - t-005
 
 ## Ryšiai
-- Juozas Urbšys siunte_i [[objektai/vietos/Maskva]]
-- Juozas Urbšys keliavo_i [[objektai/vietos/Kaunas]]
-- Juozas Urbšys keliavo_i [[objektai/vietos/Maskva]]
-- [[objektai/asmenys/Viačeslavas Molotovas]] paskyre Juozas Urbšys
+- Paskyrė Juozas Urbšį: [[objektai/asmenys/Viačeslavas Molotovas]]
+- Juozas Urbšys keliavo į [[objektai/vietos/Kaunas]], [[objektai/vietos/Maskva]]
+- Juozas Urbšys siuntė į [[objektai/vietos/Maskva]]

@@ -208,6 +208,4 @@ Konstantinas Ostrogiškis siejamas su karais prieš Maskvą ir 1514 m. pergale p
     - t-006
 
 ## Ryšiai
-- Konstantinas Ostrogiškis pastate [[objektai/vietos/Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje]]
-- Konstantinas Ostrogiškis pastate [[objektai/vietos/Naugardukas]]
-- Konstantinas Ostrogiškis pastate [[objektai/vietos/Vilnius]]
+- Konstantinas Ostrogiškis pastatė [[objektai/vietos/Naugardukas]], [[objektai/vietos/Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje]], [[objektai/vietos/Vilnius]]

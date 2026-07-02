@@ -120,5 +120,5 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
     - t-002
 
 ## Ryšiai
-- Mikalojus Moskoževskis gyne [[objektai/grupes/Lenkai]]
-- Mikalojus Moskoževskis kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Mikalojus Moskoževskis gynė [[objektai/grupes/Lenkai]]
+- Mikalojus Moskoževskis kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]

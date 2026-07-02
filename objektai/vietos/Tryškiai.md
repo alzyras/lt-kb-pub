@@ -63,4 +63,4 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Davidas Suchetas]] keliavo_i Tryškiai
+- Buvo kelionės vieta: [[objektai/asmenys/Davidas Suchetas]]

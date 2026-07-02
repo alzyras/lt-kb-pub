@@ -143,13 +143,7 @@ Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo kl
     - t-002
 
 ## Ryšiai
-- Pskoviečiai puole [[objektai/vietos/Velikije Lūki]]
-- Pskoviečiai puole [[objektai/vietos/Revelis]]
-- Pskoviečiai puole [[objektai/vietos/Polockas]]
-- Pskoviečiai puole [[objektai/vietos/Rževas]]
-- Pskoviečiai keliavo_i [[objektai/vietos/Vilnius]]
-- Pskoviečiai puole [[objektai/vietos/Lietuva]]
-- Pskoviečiai puole [[objektai/vietos/Nalšėnai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Pskoviečiai
-- Pskoviečiai reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Pskoviečiai keliavo_i [[objektai/vietos/Pskovas]]
+- Turėjo valdovą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Pskoviečiai keliavo į [[objektai/vietos/Pskovas]], [[objektai/vietos/Vilnius]]
+- Pskoviečiai puolė [[objektai/vietos/Lietuva]], [[objektai/vietos/Nalšėnai]], [[objektai/vietos/Polockas]], [[objektai/vietos/Revelis]], [[objektai/vietos/Rževas]], [[objektai/vietos/Velikije Lūki]]
+- Pskoviečiai rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

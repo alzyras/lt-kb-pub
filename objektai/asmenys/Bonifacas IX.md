@@ -114,6 +114,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     - t-003
 
 ## Ryšiai
-- Bonifacas IX paskyre [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
-- Bonifacas IX reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Bonifacas IX siunte_i [[objektai/vietos/Malburgas]]
+- Bonifacas IX siuntė į [[objektai/vietos/Malburgas]]
+- Bonifacas IX paskyrė [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
+- Bonifacas IX rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -117,4 +117,4 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
     - t-003
 
 ## Ryšiai
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]] priklause Lionas
+- Turėjo priklausinį: [[objektai/daiktai/Mūro sienos ir miesto sienos]]

@@ -55,6 +55,4 @@ Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių b
     - t-001
 
 ## Ryšiai
-- Fridrichas iš Vildenbergo puole [[objektai/vietos/Vaikiai]]
-- Fridrichas iš Vildenbergo puole [[objektai/vietos/Ariogala]]
-- Fridrichas iš Vildenbergo puole [[objektai/vietos/Raseiniai]]
+- Fridrichas iš Vildenbergo puolė [[objektai/vietos/Ariogala]], [[objektai/vietos/Raseiniai]], [[objektai/vietos/Vaikiai]]

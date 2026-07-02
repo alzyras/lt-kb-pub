@@ -46,4 +46,4 @@ Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių m
     - t-001
 
 ## Ryšiai
-- Salyno sala priklause [[objektai/vietos/Salynas]]
+- Salyno sala priklausė [[objektai/vietos/Salynas]]

@@ -184,11 +184,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Pilys
-- Pilys priklause [[objektai/grupes/Bajorai]]
-- Pilys priklause [[objektai/vietos/Prūsija]]
-- Pilys priklause [[objektai/vietos/Voluinė]]
-- Pilys priklause [[objektai/vietos/Melnikas]]
-- Pilys priklause [[objektai/vietos/Kulmas]]
-- Pilys priklause [[objektai/vietos/Lubava]]
-- Pilys priklause [[objektai/vietos/Palenkė]]
+- Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Pilys priklausė [[objektai/grupes/Bajorai]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Lubava]], [[objektai/vietos/Melnikas]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Voluinė]]

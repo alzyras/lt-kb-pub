@@ -68,5 +68,5 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
     - t-001
 
 ## Ryšiai
-- Ivanas Jermoliničius sudare_sutarti_su [[objektai/asmenys/Švitrigaila]]
-- Ivanas Jermoliničius keliavo_i [[objektai/vietos/Vilnius]]
+- Ivanas Jermoliničius keliavo į [[objektai/vietos/Vilnius]]
+- Ivanas Jermoliničius sudarė sutartį su [[objektai/asmenys/Švitrigaila]]

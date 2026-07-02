@@ -55,5 +55,5 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] buvo_sunus Hertvigas
+- Sūnūs: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - Hertvigas gyveno [[objektai/vietos/Šnikenbergas]]

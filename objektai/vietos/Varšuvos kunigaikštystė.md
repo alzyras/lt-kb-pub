@@ -105,4 +105,4 @@ amziai:
     - t-003
 
 ## Ryšiai
-- [[objektai/vietos/Užnemunė]] priklause Varšuvos kunigaikštystė
+- Turėjo priklausinį: [[objektai/vietos/Užnemunė]]

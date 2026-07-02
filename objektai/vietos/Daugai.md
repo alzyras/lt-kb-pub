@@ -178,5 +178,5 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Daugai
-- [[objektai/grupes/Lietuviai]] uzeme Daugai
+- Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Užėmė Daugai: [[objektai/grupes/Lietuviai]]

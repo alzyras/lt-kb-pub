@@ -94,4 +94,4 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
     - t-002
 
 ## Ryšiai
-- [[objektai/vietos/Pagansčiai]] priklause Zirgūna
+- Turėjo priklausinį: [[objektai/vietos/Pagansčiai]]

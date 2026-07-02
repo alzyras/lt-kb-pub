@@ -67,6 +67,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Lietuvių policijos savisaugos batalionai puole [[objektai/grupes/Žydai]]
-- Lietuvių policijos savisaugos batalionai puole [[objektai/vietos/Lenkija]]
-- Lietuvių policijos savisaugos batalionai puole [[objektai/vietos/Ukraina]]
+- Lietuvių policijos savisaugos batalionai puolė [[objektai/vietos/Lenkija]], [[objektai/vietos/Ukraina]], [[objektai/grupes/Žydai]]

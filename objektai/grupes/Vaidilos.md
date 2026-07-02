@@ -83,4 +83,4 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
     - t-002
 
 ## Ryšiai
-- [[objektai/daiktai/Vaidilų apeiginiai drabužiai]] priklause Vaidilos
+- Turėjo priklausinį: [[objektai/daiktai/Vaidilų apeiginiai drabužiai]]

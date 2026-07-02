@@ -53,5 +53,5 @@ Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvyk
     - t-001
 
 ## Ryšiai
-- Pijopas apgule [[objektai/vietos/Baiga]]
-- Pijopas mire [[objektai/vietos/Baiga]]
+- Pijopas mirė [[objektai/vietos/Baiga]]
+- Pijopas apgulė [[objektai/vietos/Baiga]]

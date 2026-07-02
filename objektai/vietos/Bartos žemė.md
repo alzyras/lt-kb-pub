@@ -117,5 +117,5 @@ Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Lat
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Bartos žemė
-- [[objektai/grupes/Lietuviai]] keliavo_i Bartos žemė
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
+- Puolė Bartos žemę: [[objektai/grupes/Lietuviai]]

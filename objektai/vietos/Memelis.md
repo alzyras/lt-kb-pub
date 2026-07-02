@@ -55,5 +55,5 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Žemaičiai]] puole Memelis
-- [[objektai/grupes/Žemaičiai]] uzeme Memelis
+- Puolė Memelį: [[objektai/grupes/Žemaičiai]]
+- Užėmė Memelį: [[objektai/grupes/Žemaičiai]]

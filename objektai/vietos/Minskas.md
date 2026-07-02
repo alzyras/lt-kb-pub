@@ -578,13 +578,10 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
     - t-017
 
 ## Ryšiai
-- [[objektai/grupes/Rusijos kariuomenė]] uzeme Minskas
-- [[objektai/grupes/Totoriai]] uzeme Minskas
-- [[objektai/grupes/Maskvėnai]] puole Minskas
-- [[objektai/asmenys/Aleksandras]] gyveno Minskas
-- [[objektai/asmenys/Mechmet Girėjus]] puole Minskas
-- [[objektai/grupes/Totoriai]] puole Minskas
-- Minskas priklause [[objektai/grupes/Slavai]]
-- [[objektai/asmenys/Aleksandras]] keliavo_i Minskas
-- [[objektai/grupes/Vilniaus miestiečių luomas]] prekiavo_su Minskas
-- [[objektai/asmenys/A. N. Trubeckojus]] surenge_zygi_i Minskas
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras]]
+- Puolė Minską: [[objektai/grupes/Maskvėnai]], [[objektai/asmenys/Mechmet Girėjus]], [[objektai/grupes/Totoriai]]
+- Užėmė Minską: [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Totoriai]]
+- Buvo žygio kryptis: [[objektai/asmenys/A. N. Trubeckojus]]
+- Prekiavo su: [[objektai/grupes/Vilniaus miestiečių luomas]]
+- Gyvenamoji vieta: [[objektai/asmenys/Aleksandras]]
+- Minskas priklausė [[objektai/grupes/Slavai]]

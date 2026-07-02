@@ -97,11 +97,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     - t-003
 
 ## Ryšiai
-- Budinai gyveno [[objektai/vietos/Volgos žemupys]]
-- Budinai keliavo_i [[objektai/vietos/Europa]]
-- Budinai gyveno [[objektai/vietos/Araksas]]
-- Budinai gyveno [[objektai/vietos/Volkovysko apskritis]]
-- Budinai keliavo_i [[objektai/vietos/Volgos žemupys]]
-- [[objektai/grupes/Gelonai]] buvo_sajungininkas_su Budinai
-- Budinai gyveno [[objektai/vietos/Oskolas]]
-- Budinai priklause [[objektai/grupes/Indai]]
+- Sąjungininkai: [[objektai/grupes/Gelonai]]
+- Budinai keliavo į [[objektai/vietos/Europa]], [[objektai/vietos/Volgos žemupys]]
+- Budinai gyveno [[objektai/vietos/Araksas]], [[objektai/vietos/Oskolas]], [[objektai/vietos/Volgos žemupys]], [[objektai/vietos/Volkovysko apskritis]]
+- Budinai priklausė [[objektai/grupes/Indai]]

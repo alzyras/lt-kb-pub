@@ -83,8 +83,4 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Klarko būrys]] gyveno Žuvintas
-- [[objektai/grupes/Kosto Barkausko būrys]] gyveno Žuvintas
-- [[objektai/grupes/Edvardo Lajaus būrys]] gyveno Žuvintas
-- [[objektai/grupes/Juozo Pandeikos būrys]] gyveno Žuvintas
-- [[objektai/grupes/Jurgio Lajaus būrys]] gyveno Žuvintas
+- Gyvenamoji vieta: [[objektai/grupes/Edvardo Lajaus būrys]], [[objektai/grupes/Juozo Pandeikos būrys]], [[objektai/grupes/Jurgio Lajaus būrys]], [[objektai/grupes/Klarko būrys]], [[objektai/grupes/Kosto Barkausko būrys]]

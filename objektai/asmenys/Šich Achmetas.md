@@ -116,11 +116,8 @@ atnaujinta: ''
     - t-003
 
 ## Ryšiai
-- Šich Achmetas uzeme [[objektai/vietos/Naugardas]]
-- Šich Achmetas keliavo_i [[objektai/vietos/Lietuva]]
-- Šich Achmetas puole [[objektai/vietos/Seversko žemė]]
-- Šich Achmetas puole [[objektai/vietos/Severskas]]
-- Šich Achmetas keliavo_i [[objektai/vietos/Trakai]]
-- Šich Achmetas surenge_zygi_i [[objektai/vietos/Severskas]]
-- Šich Achmetas keliavo_i [[objektai/vietos/Radomas]]
+- Šich Achmetas keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Radomas]], [[objektai/vietos/Trakai]]
+- Šich Achmetas puolė [[objektai/vietos/Severskas]], [[objektai/vietos/Seversko žemė]]
+- Šich Achmetas užėmė [[objektai/vietos/Naugardas]]
+- Šich Achmetas surengė žygį į [[objektai/vietos/Severskas]]
 - Šich Achmetas gyveno [[objektai/vietos/Trakai]]

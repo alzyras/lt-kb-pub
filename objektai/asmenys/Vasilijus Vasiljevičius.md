@@ -89,5 +89,4 @@ periodo_grupes:
     - t-002
 
 ## Ryšiai
-- Vasilijus Vasiljevičius keliavo_i [[objektai/vietos/Trakai]]
-- Vasilijus Vasiljevičius keliavo_i [[objektai/vietos/Vilnius]]
+- Vasilijus Vasiljevičius keliavo į [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]

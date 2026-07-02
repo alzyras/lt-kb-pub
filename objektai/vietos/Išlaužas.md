@@ -44,4 +44,4 @@ Narbutas rašė matęs kapo laužą kairiajame Nemuno krante, prie kelio iš Kau
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Laužas]] priklause Išlaužas
+- Turėjo priklausinį: [[objektai/daiktai/Laužas]]

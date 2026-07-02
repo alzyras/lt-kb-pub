@@ -85,4 +85,4 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
     - t-003
 
 ## Ryšiai
-- Noliubas buvo_sunus [[objektai/asmenys/Sklodas iš Kvedenavos]]
+- Tėvai: [[objektai/asmenys/Sklodas iš Kvedenavos]]

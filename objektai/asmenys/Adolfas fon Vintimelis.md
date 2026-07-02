@@ -48,4 +48,4 @@ Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prie
     - t-001
 
 ## Ryšiai
-- Adolfas fon Vintimelis (didikas) keliavo_i [[objektai/vietos/Prūsija]]
+- Adolfas fon Vintimelis (didikas) keliavo į [[objektai/vietos/Prūsija]]

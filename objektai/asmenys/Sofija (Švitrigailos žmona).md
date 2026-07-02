@@ -67,4 +67,4 @@ Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą A
     - t-001
 
 ## Ryšiai
-- Sofija (Švitrigailos žmona) buvo_dukte [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
+- Tėvai: [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]

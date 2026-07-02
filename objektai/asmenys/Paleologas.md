@@ -57,5 +57,5 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto atgavimą 1259 viešpaties
     - t-001
 
 ## Ryšiai
-- Paleologas uzeme [[objektai/vietos/Konstantinopolis]]
-- [[objektai/asmenys/Manuelis]] buvo_sunus Paleologas
+- Sūnūs: [[objektai/asmenys/Manuelis]]
+- Paleologas užėmė [[objektai/vietos/Konstantinopolis]]

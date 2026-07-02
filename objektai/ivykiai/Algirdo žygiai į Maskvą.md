@@ -83,6 +83,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] surenge_zygi_i Algirdo žygiai į Maskvą
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] keliavo_i Algirdo žygiai į Maskvą
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] dalyvavo_musyje Algirdo žygiai į Maskvą
+- Buvo kelionės vieta: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Turėjo dalyvį: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

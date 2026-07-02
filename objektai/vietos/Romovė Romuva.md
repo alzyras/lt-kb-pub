@@ -79,4 +79,4 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
     - t-003
 
 ## Ryšiai
-- Romovė Romuva priklause [[objektai/vietos/Nadruva]]
+- Romovė Romuva priklausė [[objektai/vietos/Nadruva]]

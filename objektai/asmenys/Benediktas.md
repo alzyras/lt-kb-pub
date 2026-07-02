@@ -54,4 +54,4 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] kariavo_pries Benediktas
+- Kariavo prieš: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

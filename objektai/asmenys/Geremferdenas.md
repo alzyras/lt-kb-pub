@@ -54,4 +54,4 @@ Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su s
     - t-001
 
 ## Ryšiai
-- Geremferdenas keliavo_i [[objektai/vietos/Vilnius]]
+- Geremferdenas keliavo į [[objektai/vietos/Vilnius]]

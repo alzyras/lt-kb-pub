@@ -53,4 +53,4 @@ Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį
     - t-001
 
 ## Ryšiai
-- Bodhidana mire [[objektai/vietos/Tibetas]]
+- Bodhidana mirė [[objektai/vietos/Tibetas]]

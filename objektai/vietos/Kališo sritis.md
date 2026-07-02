@@ -47,5 +47,4 @@ Drauge su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes, o 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Kališo sritis
-- [[objektai/grupes/Rusai]] puole Kališo sritis
+- Puolė Kališo sritį: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Rusai]]

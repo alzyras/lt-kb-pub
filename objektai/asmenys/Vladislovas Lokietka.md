@@ -312,9 +312,8 @@ Vladislovas Lokietka buvo Lenkijos valdovas, kurio suvienyta Lenkija siekė dipl
     - t-010
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] buvo_sajungininkas_su Vladislovas Lokietka
-- Vladislovas Lokietka buvo_sajungininkas_su [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Vladislovas Lokietka kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Vladislovas Lokietka puole [[objektai/vietos/Kulmas]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] reme Vladislovas Lokietka
-- Vladislovas Lokietka surenge_zygi_i [[objektai/vietos/Kulmas]]
+- Sąjungininkai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Rėmė Vladislovas Lokietką: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Vladislovas Lokietka puolė [[objektai/vietos/Kulmas]]
+- Vladislovas Lokietka surengė žygį į [[objektai/vietos/Kulmas]]
+- Vladislovas Lokietka kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]

@@ -67,4 +67,4 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
     - t-001
 
 ## Ryšiai
-- Emmanuel Levinas gime [[objektai/vietos/Kaunas]]
+- Emmanuel Levinas gimė [[objektai/vietos/Kaunas]]

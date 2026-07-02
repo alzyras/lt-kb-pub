@@ -50,4 +50,4 @@ VIII amž. pusėje jie randami Sauslauke (prie Durbės).
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Švedai]] gyveno Sauslaukė
+- Gyvenamoji vieta: [[objektai/grupes/Švedai]]

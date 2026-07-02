@@ -52,4 +52,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais priklause [[objektai/grupes/Prūsai]]
+- Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais priklausė [[objektai/grupes/Prūsai]]

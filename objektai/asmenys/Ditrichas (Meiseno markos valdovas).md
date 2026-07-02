@@ -58,5 +58,5 @@ Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos
     - t-001
 
 ## Ryšiai
-- Ditrichas (Meiseno markos valdovas) keliavo_i [[objektai/vietos/Prūsija]]
-- Ditrichas (Meiseno markos valdovas) surenge_zygi_i [[objektai/vietos/Notanga]]
+- Ditrichas (Meiseno markos valdovas) keliavo į [[objektai/vietos/Prūsija]]
+- Ditrichas (Meiseno markos valdovas) surengė žygį į [[objektai/vietos/Notanga]]

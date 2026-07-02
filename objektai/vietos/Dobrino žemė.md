@@ -45,4 +45,4 @@ Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­ žiuočiai grį�
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] puole Dobrino žemė
+- Puolė Dobrino žemę: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

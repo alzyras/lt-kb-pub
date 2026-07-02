@@ -66,4 +66,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Sembai]] puole Grafo iš Barbio žygis į Sembą ir pralaimėjimas
+- Puolė Grafo iš Barbio žygis į Sembą ir pralaimėjimą: [[objektai/grupes/Sembai]]

@@ -58,4 +58,4 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
     - t-001
 
 ## Ryšiai
-- Pavlikas keliavo_i [[objektai/vietos/Liublinas]]
+- Pavlikas keliavo į [[objektai/vietos/Liublinas]]

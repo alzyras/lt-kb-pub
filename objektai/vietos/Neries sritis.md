@@ -57,4 +57,4 @@ Kiek tos kovos Kęstučio valdymo laiku padidėjo, rodo ir ta aplinkybė, kad vo
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Vokiečiai]] surenge_zygi_i Neries sritis
+- Buvo žygio kryptis: [[objektai/grupes/Vokiečiai]]

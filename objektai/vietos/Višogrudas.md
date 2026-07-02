@@ -111,5 +111,5 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] apgule Višogrudas
-- [[objektai/asmenys/Poponas iš Osternos]] keliavo_i Višogrudas
+- Buvo kelionės vieta: [[objektai/asmenys/Poponas iš Osternos]]
+- Apgulė Višogrudą: [[objektai/grupes/Kryžiuočių ordinas]]

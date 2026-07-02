@@ -71,9 +71,7 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Lenkijos karalystės kariuomenė uzeme [[objektai/vietos/Kaunas]]
-- Lenkijos karalystės kariuomenė siunte_i [[objektai/vietos/Lietuva]]
-- Lenkijos karalystės kariuomenė keliavo_i [[objektai/vietos/Lietuva]]
-- Lenkijos karalystės kariuomenė keliavo_i [[objektai/vietos/Prūsija]]
-- Lenkijos karalystės kariuomenė puole [[objektai/vietos/Vilnius]]
-- Lenkijos karalystės kariuomenė keliavo_i [[objektai/vietos/Lenkija]]
+- Lenkijos karalystės kariuomenė keliavo į [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Prūsija]]
+- Lenkijos karalystės kariuomenė puolė [[objektai/vietos/Vilnius]]
+- Lenkijos karalystės kariuomenė užėmė [[objektai/vietos/Kaunas]]
+- Lenkijos karalystės kariuomenė siuntė į [[objektai/vietos/Lietuva]]

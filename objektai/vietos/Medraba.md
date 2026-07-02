@@ -90,7 +90,5 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Bertoldas]] puole Medraba
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] puole Medraba
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] uzeme Medraba
-- [[objektai/asmenys/Bertoldas]] uzeme Medraba
+- Puolė Medrabą: [[objektai/asmenys/Bertoldas]], [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
+- Užėmė Medrabą: [[objektai/asmenys/Bertoldas]], [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]

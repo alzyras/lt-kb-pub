@@ -60,6 +60,4 @@ Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, k
     - t-001
 
 ## Ryšiai
-- Ukmergės rinktinė keliavo_i [[objektai/vietos/Ukmergė]]
-- Ukmergės rinktinė keliavo_i [[objektai/vietos/Utena]]
-- Ukmergės rinktinė keliavo_i [[objektai/vietos/Zarasai]]
+- Ukmergės rinktinė keliavo į [[objektai/vietos/Ukmergė]], [[objektai/vietos/Utena]], [[objektai/vietos/Zarasai]]

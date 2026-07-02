@@ -204,7 +204,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Notangai]] apgule Kroicburgas
-- [[objektai/grupes/Notangai]] puole Kroicburgas
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Kroicburgas
-- Kroicburgas priklause [[objektai/vietos/Notanga]]
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Kroicburgą: [[objektai/grupes/Notangai]]
+- Apgulė Kroicburgą: [[objektai/grupes/Notangai]]
+- Kroicburgas priklausė [[objektai/vietos/Notanga]]

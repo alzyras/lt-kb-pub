@@ -91,4 +91,4 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
     - t-004
 
 ## Ryšiai
-- Podolės Kamenecas priklause [[objektai/vietos/Podolė]]
+- Podolės Kamenecas priklausė [[objektai/vietos/Podolė]]

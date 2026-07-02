@@ -134,5 +134,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Krikščionys]] dalyvavo_musyje Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas
-- [[objektai/grupes/Vokiečiai]] dalyvavo_musyje Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas
+- Turėjo dalyvį: [[objektai/grupes/Krikščionys]], [[objektai/grupes/Vokiečiai]]

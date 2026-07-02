@@ -173,9 +173,5 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/J. Variakojis]] keliavo_i Kėdainiai
-- [[objektai/asmenys/J. Mikoliūnas]] gyne Kėdainiai
-- [[objektai/asmenys/K. Dragunevičius]] gyne Kėdainiai
-- [[objektai/grupes/Bolševikų 2-asis šaulių pulkas]] keliavo_i Kėdainiai
-- [[objektai/grupes/Lietuviai]] gyne Kėdainiai
-- [[objektai/grupes/NKVD]] keliavo_i Kėdainiai
+- Buvo kelionės vieta: [[objektai/grupes/Bolševikų 2-asis šaulių pulkas]], [[objektai/asmenys/J. Variakojis]], [[objektai/grupes/NKVD]]
+- Gynė Kėdainiai: [[objektai/asmenys/J. Mikoliūnas]], [[objektai/asmenys/K. Dragunevičius]], [[objektai/grupes/Lietuviai]]

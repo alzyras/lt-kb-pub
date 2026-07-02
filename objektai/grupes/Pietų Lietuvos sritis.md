@@ -69,4 +69,4 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu. 
     - t-001
 
 ## Ryšiai
-- Pietų Lietuvos sritis buvo_sajungininkas_su [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
+- Sąjungininkai: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]

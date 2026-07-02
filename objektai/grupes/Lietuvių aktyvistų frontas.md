@@ -190,5 +190,5 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-- Lietuvių aktyvistų frontas buvo_sajungininkas_su [[objektai/grupes/Nacių Vokietija]]
-- Lietuvių aktyvistų frontas siunte_i [[objektai/vietos/Lietuva]]
+- Sąjungininkai: [[objektai/grupes/Nacių Vokietija]]
+- Lietuvių aktyvistų frontas siuntė į [[objektai/vietos/Lietuva]]

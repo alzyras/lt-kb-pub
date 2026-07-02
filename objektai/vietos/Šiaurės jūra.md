@@ -48,4 +48,4 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Hanza]] valde Šiaurės jūra
+- Buvo valdoma: [[objektai/grupes/Hanza]]

@@ -163,6 +163,5 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
     - t-001
 
 ## Ryšiai
-- Žyniai gyveno [[objektai/vietos/Upsala]]
-- Žyniai gyveno [[objektai/vietos/Romovė]]
-- Žyniai pastate [[objektai/daiktai/Aukurai]]
+- Žyniai pastatė [[objektai/daiktai/Aukurai]]
+- Žyniai gyveno [[objektai/vietos/Romovė]], [[objektai/vietos/Upsala]]

@@ -114,8 +114,7 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] keliavo_i Piarnu
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]] puole Piarnu
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]] keliavo_i Piarnu
-- [[objektai/grupes/Lietuviai]] uzeme Piarnu
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]] gyne Piarnu
+- Buvo kelionės vieta: [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/grupes/Lietuvos kariuomenė]]
+- Puolė Piarnu: [[objektai/asmenys/Jonas Karolis Chodkevičius]]
+- Užėmė Piarnu: [[objektai/grupes/Lietuviai]]
+- Gynė Piarnu: [[objektai/asmenys/Jonas Karolis Chodkevičius]]

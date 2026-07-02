@@ -99,5 +99,5 @@ amziai:
     - t-003
 
 ## Ryšiai
-- Naugardas Sieverskas priklause [[objektai/vietos/Lenkija]]
-- [[objektai/asmenys/Švitrigaila]] valde_teritorija Naugardas Sieverskas
+- Buvo valdoma: [[objektai/asmenys/Švitrigaila]]
+- Naugardas Sieverskas priklausė [[objektai/vietos/Lenkija]]

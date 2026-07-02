@@ -59,5 +59,5 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Švedijos kariuomenė]] apgule Kuoknesės pilis (pilis)
-- [[objektai/grupes/Lietuviai]] gyne Kuoknesės pilis (pilis)
+- Apgulė Kuoknesės pilį (pilis): [[objektai/grupes/Švedijos kariuomenė]]
+- Gynė Kuoknesės pilį (pilis): [[objektai/grupes/Lietuviai]]

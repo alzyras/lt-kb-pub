@@ -81,5 +81,5 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
     - t-001
 
 ## Ryšiai
-- Jonas Kalita buvo_valdovas [[objektai/vietos/Maskva]]
-- [[objektai/grupes/Totoriai]] reme Jonas Kalita
+- Rėmė Jonas Kalitą: [[objektai/grupes/Totoriai]]
+- Jonas Kalita buvo valdovas [[objektai/vietos/Maskva]]

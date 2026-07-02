@@ -93,8 +93,5 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
     - t-002
 
 ## Ryšiai
-- Švedijos kariuomenė uzeme [[objektai/vietos/Kuoknesė]]
-- Švedijos kariuomenė uzeme [[objektai/vietos/Paidė]]
-- Švedijos kariuomenė uzeme [[objektai/vietos/Viljandis]]
-- Švedijos kariuomenė apgule [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
-- Švedijos kariuomenė apgule [[objektai/vietos/Kuoknesė]]
+- Švedijos kariuomenė apgulė [[objektai/vietos/Kuoknesė]], [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
+- Švedijos kariuomenė užėmė [[objektai/vietos/Kuoknesė]], [[objektai/vietos/Paidė]], [[objektai/vietos/Viljandis]]

@@ -172,9 +172,8 @@ Jonas Karolis Katkevičius buvo LDK karvedys, 1590 m. pradėjęs tarnybą Lietuv
     - t-003
 
 ## Ryšiai
-- Jonas Karolis Katkevičius kariavo_pries [[objektai/grupes/Švedai]]
-- Jonas Karolis Katkevičius keliavo_i [[objektai/vietos/Livonija]]
-- Jonas Karolis Katkevičius gyne [[objektai/vietos/Ryga]]
-- Jonas Karolis Katkevičius dalyvavo_musyje [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
-- Jonas Karolis Katkevičius uzeme [[objektai/vietos/Kuoknesė]]
-- Jonas Karolis Katkevičius uzeme [[objektai/vietos/Viljandis]]
+- Jonas Karolis Katkevičius keliavo į [[objektai/vietos/Livonija]]
+- Jonas Karolis Katkevičius užėmė [[objektai/vietos/Kuoknesė]], [[objektai/vietos/Viljandis]]
+- Jonas Karolis Katkevičius gynė [[objektai/vietos/Ryga]]
+- Jonas Karolis Katkevičius kariavo prieš [[objektai/grupes/Švedai]]
+- Jonas Karolis Katkevičius dalyvavo mūšyje [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]

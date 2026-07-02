@@ -52,4 +52,4 @@ Teodosijos, vadinamos Kafa, gyventojai prie Juodosios jūros ieškojo krikščio
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kafos gyventojai]] gyveno Teodosija (Kafa)
+- Gyvenamoji vieta: [[objektai/grupes/Kafos gyventojai]]

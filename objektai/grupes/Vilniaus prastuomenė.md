@@ -124,6 +124,5 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
     - t-002
 
 ## Ryšiai
-- Vilniaus prastuomenė puole [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Boucicaut]] puole Vilniaus prastuomenė
-- [[objektai/grupes/Prancūzai]] puole Vilniaus prastuomenė
+- Puolė Vilniaus prastuomenę: [[objektai/asmenys/Boucicaut]], [[objektai/grupes/Prancūzai]]
+- Vilniaus prastuomenė puolė [[objektai/grupes/Pranciškonų ordinas]]

@@ -70,5 +70,5 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Petras Timofiejevas Mstislavliškis keliavo_i [[objektai/vietos/Vilnius]]
+- Petras Timofiejevas Mstislavliškis keliavo į [[objektai/vietos/Vilnius]]
 - Petras Timofiejevas Mstislavliškis gyveno [[objektai/vietos/Vilnius]]

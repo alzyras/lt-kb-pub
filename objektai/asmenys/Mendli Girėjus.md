@@ -102,4 +102,4 @@ tags:
     - t-002
 
 ## Ryšiai
-- Mendli Girėjus buvo_priesas [[objektai/asmenys/Aleksandras]]
+- Priešai: [[objektai/asmenys/Aleksandras]]

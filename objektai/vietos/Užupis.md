@@ -191,4 +191,4 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
     - t-007
 
 ## Ryšiai
-- [[objektai/grupes/Rusai]] uzeme Užupis
+- Užėmė Užupį: [[objektai/grupes/Rusai]]

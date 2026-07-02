@@ -73,4 +73,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Manvydo rūmai priklause [[objektai/asmenys/Manvydas]]
+- Manvydo rūmai priklausė [[objektai/asmenys/Manvydas]]

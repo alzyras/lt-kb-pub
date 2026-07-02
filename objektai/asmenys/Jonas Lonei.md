@@ -70,4 +70,4 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
     - t-001
 
 ## Ryšiai
-- Jonas Lonei mire [[objektai/vietos/Strėva]]
+- Jonas Lonei mirė [[objektai/vietos/Strėva]]

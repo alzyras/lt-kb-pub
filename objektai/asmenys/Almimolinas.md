@@ -47,6 +47,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
     - t-001
 
 ## Ryšiai
-- Almimolinas buvo_valdovas [[objektai/grupes/Saracėnai]]
-- Almimolinas keliavo_i [[objektai/vietos/Ispanija]]
-- Almimolinas surenge_zygi_i [[objektai/vietos/Ispanija]]
+- Almimolinas buvo valdovas [[objektai/grupes/Saracėnai]]
+- Almimolinas keliavo į [[objektai/vietos/Ispanija]]
+- Almimolinas surengė žygį į [[objektai/vietos/Ispanija]]

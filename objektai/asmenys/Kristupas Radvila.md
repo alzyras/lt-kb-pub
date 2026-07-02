@@ -167,8 +167,7 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Kristupas Radvila keliavo_i [[objektai/vietos/Rževas]]
-- Kristupas Radvila keliavo_i [[objektai/vietos/Rusija]]
-- Kristupas Radvila surenge_zygi_i [[objektai/vietos/Veližas]]
-- Kristupas Radvila uzeme [[objektai/vietos/Usviatai]]
-- Kristupas Radvila buvo_sunus [[objektai/asmenys/Radvila]]
+- Tėvai: [[objektai/asmenys/Radvila]]
+- Kristupas Radvila keliavo į [[objektai/vietos/Rusija]], [[objektai/vietos/Rževas]]
+- Kristupas Radvila užėmė [[objektai/vietos/Usviatai]]
+- Kristupas Radvila surengė žygį į [[objektai/vietos/Veližas]]

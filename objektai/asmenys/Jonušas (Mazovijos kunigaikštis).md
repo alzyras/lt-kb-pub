@@ -108,7 +108,6 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
     - t-003
 
 ## Ryšiai
-- Jonušas (Mazovijos kunigaikštis) puole [[objektai/vietos/Poleksija]]
-- Jonušas (Mazovijos kunigaikštis) keliavo_i [[objektai/vietos/Piotrkovas]]
-- Jonušas (Mazovijos kunigaikštis) uzeme [[objektai/vietos/Kamenecas]]
-- Jonušas (Mazovijos kunigaikštis) uzeme [[objektai/vietos/Suražas]]
+- Jonušas (Mazovijos kunigaikštis) keliavo į [[objektai/vietos/Piotrkovas]]
+- Jonušas (Mazovijos kunigaikštis) puolė [[objektai/vietos/Poleksija]]
+- Jonušas (Mazovijos kunigaikštis) užėmė [[objektai/vietos/Kamenecas]], [[objektai/vietos/Suražas]]

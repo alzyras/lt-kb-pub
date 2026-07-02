@@ -47,4 +47,4 @@ liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS [7] Rugpjūčio 8 d. Aug
     - t-001
 
 ## Ryšiai
-- Adutiškis priklause [[objektai/vietos/Lietuva]]
+- Adutiškis priklausė [[objektai/vietos/Lietuva]]

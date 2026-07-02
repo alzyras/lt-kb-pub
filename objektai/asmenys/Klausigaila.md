@@ -56,4 +56,4 @@ Klausigaila buvo vienas iš penkių vadovų, kurie turėjo Kęstutaičio vardu p
     - t-001
 
 ## Ryšiai
-- Klausigaila keliavo_i [[objektai/vietos/Nevėžis]]
+- Klausigaila keliavo į [[objektai/vietos/Nevėžis]]

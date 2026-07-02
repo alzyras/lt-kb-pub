@@ -247,19 +247,12 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- NKVD puole [[objektai/vietos/Žuvinto palios]]
-- NKVD puole [[objektai/vietos/Trakiniai]]
-- [[objektai/grupes/Dzūkų būrys]] kariavo_pries NKVD
-- NKVD dalyvavo_musyje [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
-- NKVD dalyvavo_musyje [[objektai/ivykiai/Šimonių girios apgultis]]
-- [[objektai/grupes/Lietuvos partizanai]] kariavo_pries NKVD
-- NKVD apgule [[objektai/vietos/Žuvinto palios]]
-- NKVD apgule [[objektai/vietos/Žuvinto ežeras]]
-- NKVD dalyvavo_musyje [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]
-- NKVD puole [[objektai/grupes/Dainavos apygarda]]
-- NKVD siunte_i [[objektai/vietos/SSRS]]
-- NKVD puole [[objektai/vietos/Kalniškės miškas]]
-- NKVD kariavo_pries [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Naikintojų batalionai]] priklause NKVD
-- [[objektai/grupes/NKGB]] buvo_sajungininkas_su NKVD
-- NKVD keliavo_i [[objektai/vietos/Kėdainiai]]
+- Sąjungininkai: [[objektai/grupes/NKGB]]
+- Kariavo prieš: [[objektai/grupes/Dzūkų būrys]], [[objektai/grupes/Lietuvos partizanai]]
+- Turėjo priklausinį: [[objektai/grupes/Naikintojų batalionai]]
+- NKVD keliavo į [[objektai/vietos/Kėdainiai]]
+- NKVD puolė [[objektai/grupes/Dainavos apygarda]], [[objektai/vietos/Kalniškės miškas]], [[objektai/vietos/Trakiniai]], [[objektai/vietos/Žuvinto palios]]
+- NKVD apgulė [[objektai/vietos/Žuvinto ežeras]], [[objektai/vietos/Žuvinto palios]]
+- NKVD siuntė į [[objektai/vietos/SSRS]]
+- NKVD kariavo prieš [[objektai/grupes/Lietuviai]]
+- NKVD dalyvavo mūšyje [[objektai/ivykiai/Šimonių girios apgultis]], [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]], [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]

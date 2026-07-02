@@ -132,4 +132,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/NKVD]] dalyvavo_musyje Šimonių girios apgultis (1949 m.)
+- Turėjo dalyvį: [[objektai/grupes/NKVD]]

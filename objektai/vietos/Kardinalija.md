@@ -183,5 +183,5 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]] gyveno Kardinalija
-- Kardinalija priklause [[objektai/vietos/Vilnius]]
+- Gyvenamoji vieta: [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
+- Kardinalija priklausė [[objektai/vietos/Vilnius]]

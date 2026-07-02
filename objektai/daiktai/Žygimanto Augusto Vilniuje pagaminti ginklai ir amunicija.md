@@ -158,4 +158,4 @@ Nenurodyta
 Nenurodyta
 
 ## Ryšiai
-- Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija priklause [[objektai/vietos/Lietuva]]
+- Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija priklausė [[objektai/vietos/Lietuva]]

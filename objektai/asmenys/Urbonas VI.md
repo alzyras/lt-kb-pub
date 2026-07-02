@@ -111,4 +111,4 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
     - t-002
 
 ## Ryšiai
-- Urbonas VI paskyre [[objektai/asmenys/Dobrogostas]]
+- Urbonas VI paskyrė [[objektai/asmenys/Dobrogostas]]

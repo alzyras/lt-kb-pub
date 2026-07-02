@@ -112,4 +112,4 @@ periodo_grupes:
     - t-003
 
 ## Ryšiai
-- Stasys Girėnas keliavo_i [[objektai/vietos/Lietuva]]
+- Stasys Girėnas keliavo į [[objektai/vietos/Lietuva]]

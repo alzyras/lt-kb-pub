@@ -75,5 +75,5 @@ Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykus
     - t-002
 
 ## Ryšiai
-- Danutė buvo_dukte [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Danutė gyveno [[objektai/vietos/Mazovija]]

@@ -47,4 +47,4 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
     - t-001
 
 ## Ryšiai
-- Sungaila valde_miesta [[objektai/vietos/Kaunas]]
+- Sungaila valdė [[objektai/vietos/Kaunas]]

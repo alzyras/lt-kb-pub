@@ -76,4 +76,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Pilaitės kunigaikščių pilis priklause [[objektai/vietos/Pilaitė]]
+- Pilaitės kunigaikščių pilis priklausė [[objektai/vietos/Pilaitė]]

@@ -105,5 +105,5 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
     - t-002
 
 ## Ryšiai
-- Mata buvo_sunus [[objektai/asmenys/Pipinas]]
-- Mata reme [[objektai/grupes/Kryžiuočių ordinas]]
+- Tėvai: [[objektai/asmenys/Pipinas]]
+- Mata rėmė [[objektai/grupes/Kryžiuočių ordinas]]

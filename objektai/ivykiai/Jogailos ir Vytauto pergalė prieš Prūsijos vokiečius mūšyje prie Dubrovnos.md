@@ -136,6 +136,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] dalyvavo_musyje Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)
-- [[objektai/grupes/Vokiečiai]] dalyvavo_musyje Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)
+- Turėjo dalyvį: [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vokiečiai]]

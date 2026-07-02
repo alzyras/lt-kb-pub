@@ -72,5 +72,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Petras Bartkus-Žadgaila]] dalyvavo_musyje Užpelkių kautynės (1949 m.)
-- [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]] dalyvavo_musyje Užpelkių kautynės (1949 m.)
+- Turėjo dalyvį: [[objektai/asmenys/Petras Bartkus-Žadgaila]], [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]]

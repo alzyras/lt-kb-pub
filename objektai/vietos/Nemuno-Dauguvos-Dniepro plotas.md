@@ -56,4 +56,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Baltai]] gyveno Nemuno-Dauguvos-Dniepro plotas
+- Gyvenamoji vieta: [[objektai/grupes/Baltai]]

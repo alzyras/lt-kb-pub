@@ -50,4 +50,4 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
     - t-001
 
 ## Ryšiai
-- A. Jakaitis keliavo_i [[objektai/vietos/Augustavas]]
+- A. Jakaitis keliavo į [[objektai/vietos/Augustavas]]

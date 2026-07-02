@@ -1045,20 +1045,13 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     - t-035
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] siunte_i Naugardukas
-- [[objektai/asmenys/Karijotas]] valde_miesta Naugardukas
-- [[objektai/grupes/Krivičiai]] gyveno Naugardukas
-- [[objektai/asmenys/Skirmantas]] valde_miesta Naugardukas
-- [[objektai/asmenys/Jaroslavas]] pastate Naugardukas
-- [[objektai/asmenys/Kukovaitis]] buvo_valdovas Naugardukas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] pastate Naugardukas
-- [[objektai/grupes/Totoriai]] gyveno Naugardukas
-- [[objektai/asmenys/Kaributas]] keliavo_i Naugardukas
-- Naugardukas priklause [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Totoriai]] surenge_zygi_i Naugardukas
-- [[objektai/grupes/Totoriai]] puole Naugardukas
-- [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]] gyveno Naugardukas
-- [[objektai/grupes/Krymo totoriai]] puole Naugardukas
-- [[objektai/asmenys/Konstantinas Ostrogiškis]] pastate Naugardukas
-- [[objektai/grupes/Vilniaus miestiečių luomas]] prekiavo_su Naugardukas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Naugardukas
+- Turėjo valdovą: [[objektai/asmenys/Kukovaitis]]
+- Buvo valdoma: [[objektai/asmenys/Karijotas]], [[objektai/asmenys/Skirmantas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo pastatyta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jaroslavas]], [[objektai/asmenys/Konstantinas Ostrogiškis]]
+- Puolė Naugarduką: [[objektai/grupes/Krymo totoriai]], [[objektai/grupes/Totoriai]]
+- Buvo siuntimo vieta: [[objektai/grupes/Totoriai]]
+- Buvo žygio kryptis: [[objektai/grupes/Totoriai]]
+- Prekiavo su: [[objektai/grupes/Vilniaus miestiečių luomas]]
+- Gyvenamoji vieta: [[objektai/grupes/Krivičiai]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
+- Naugardukas priklausė [[objektai/vietos/Lietuva]]

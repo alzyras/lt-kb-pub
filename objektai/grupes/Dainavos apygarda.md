@@ -53,4 +53,4 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/NKVD]] puole Dainavos apygarda
+- Puolė Dainavos apygardą: [[objektai/grupes/NKVD]]

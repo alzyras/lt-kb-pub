@@ -54,4 +54,4 @@ Yra duomenų, kad šios ir Vitebsko gvardijos 103-iosios oro desanto divizijos, 
     - t-001
 
 ## Ryšiai
-- Vitebsko gvardijos 103-ioji oro desanto divizija siunte_i [[objektai/vietos/Lietuva]]
+- Vitebsko gvardijos 103-ioji oro desanto divizija siuntė į [[objektai/vietos/Lietuva]]

@@ -71,4 +71,4 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Zubovas]] puole Liepkalnis
+- Puolė Liepkalnį: [[objektai/asmenys/Zubovas]]

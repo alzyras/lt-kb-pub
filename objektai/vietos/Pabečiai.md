@@ -102,6 +102,5 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
     - t-002
 
 ## Ryšiai
-- Pabečiai priklause [[objektai/vietos/Semba]]
-- [[objektai/grupes/Lietuviai]] puole Pabečiai
-- Pabečiai priklause [[objektai/vietos/Dramenava]]
+- Puolė Pabečiai: [[objektai/grupes/Lietuviai]]
+- Pabečiai priklausė [[objektai/vietos/Dramenava]], [[objektai/vietos/Semba]]

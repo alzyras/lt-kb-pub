@@ -74,5 +74,5 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
     - t-002
 
 ## Ryšiai
-- Poloviečiai reme [[objektai/asmenys/Tautvila]]
-- Poloviečiai kariavo_pries [[objektai/grupes/Vokiečiai]]
+- Poloviečiai kariavo prieš [[objektai/grupes/Vokiečiai]]
+- Poloviečiai rėmė [[objektai/asmenys/Tautvila]]

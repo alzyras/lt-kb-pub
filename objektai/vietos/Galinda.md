@@ -122,7 +122,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Sūduviai]] puole Galinda
-- Galinda priklause [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Vartenbergas]] priklause Galinda
-- [[objektai/grupes/Galindai]] gyveno Galinda
+- Puolė Galindą: [[objektai/grupes/Sūduviai]]
+- Gyvenamoji vieta: [[objektai/grupes/Galindai]]
+- Turėjo priklausinį: [[objektai/vietos/Vartenbergas]]
+- Galinda priklausė [[objektai/vietos/Prūsija]]

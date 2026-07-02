@@ -62,5 +62,5 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
     - t-001
 
 ## Ryšiai
-- Mstislavas Romanovičius keliavo_i [[objektai/vietos/Luckas]]
-- Mstislavas Romanovičius kariavo_pries [[objektai/asmenys/Skirmantas]]
+- Mstislavas Romanovičius keliavo į [[objektai/vietos/Luckas]]
+- Mstislavas Romanovičius kariavo prieš [[objektai/asmenys/Skirmantas]]

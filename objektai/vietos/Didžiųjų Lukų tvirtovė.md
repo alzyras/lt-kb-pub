@@ -84,4 +84,4 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] uzeme Didžiųjų Lukų tvirtovė
+- Užėmė Didžiųjų Lukų tvirtovę: [[objektai/grupes/Lietuvos kariuomenė]]

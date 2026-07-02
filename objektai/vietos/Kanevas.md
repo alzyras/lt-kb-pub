@@ -96,4 +96,4 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] keliavo_i Kanevas
+- Buvo kelionės vieta: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

@@ -71,4 +71,4 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
     - t-001
 
 ## Ryšiai
-- Švedų gvardijos kavalerija puole [[objektai/grupes/Lietuviai]]
+- Švedų gvardijos kavalerija puolė [[objektai/grupes/Lietuviai]]

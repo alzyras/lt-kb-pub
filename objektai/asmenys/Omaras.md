@@ -48,4 +48,4 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
     - t-001
 
 ## Ryšiai
-- Omaras uzeme [[objektai/vietos/Jeruzalė]]
+- Omaras užėmė [[objektai/vietos/Jeruzalė]]

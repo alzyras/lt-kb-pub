@@ -307,5 +307,5 @@ Simonas Grunau XVI a. 3-iajame dešimtmetyje Prūsijoje parašė išsamią Prūs
     - t-011
 
 ## Ryšiai
-- Simonas Grunau keliavo_i [[objektai/vietos/Kaimas]]
+- Simonas Grunau keliavo į [[objektai/vietos/Kaimas]]
 - Simonas Grunau gyveno [[objektai/vietos/Prūsija]]

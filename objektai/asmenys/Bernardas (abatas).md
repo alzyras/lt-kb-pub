@@ -57,4 +57,4 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
     - t-001
 
 ## Ryšiai
-- Bernardas (abatas) keliavo_i [[objektai/vietos/Avinjonas]]
+- Bernardas (abatas) keliavo į [[objektai/vietos/Avinjonas]]

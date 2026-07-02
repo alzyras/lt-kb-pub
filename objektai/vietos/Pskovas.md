@@ -1542,27 +1542,14 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     - t-059
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Pskovas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] gyne Pskovas
-- [[objektai/grupes/Lietuviai]] puole Pskovas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Pskovas
-- [[objektai/asmenys/Jurijus Vytutaitis]] valde Pskovas
-- [[objektai/grupes/Lietuviai]] surenge_zygi_i Pskovas
-- [[objektai/asmenys/Dovydas Gardiniškis]] gyne Pskovas
-- [[objektai/vietos/Koloža]] priklause Pskovas
-- [[objektai/vietos/Vilnius]] prekiavo_su Pskovas
-- Pskovas prekiavo_su [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] keliavo_i Pskovas
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] valde Pskovas
-- [[objektai/vietos/Opočka]] priklause Pskovas
-- [[objektai/asmenys/Sofija]] keliavo_i Pskovas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzkariavo Pskovas
-- [[objektai/vietos/Kremlius]] priklause Pskovas
-- [[objektai/grupes/Lietuviai]] gyne Pskovas
-- [[objektai/asmenys/Sofija (Vytauto duktė)]] keliavo_i Pskovas
-- [[objektai/vietos/Bokštai]] priklause Pskovas
-- [[objektai/asmenys/Jurgis Vytautaitis]] valde_miesta Pskovas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] valde Pskovas
-- [[objektai/asmenys/Steponas Batoras]] apgule Pskovas
-- Pskovas priklause [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Pskoviečiai]] keliavo_i Pskovas
+- Buvo valdoma: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jurgis Vytautaitis]], [[objektai/asmenys/Jurijus Vytutaitis]]
+- Buvo kelionės vieta: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/grupes/Pskoviečiai]], [[objektai/asmenys/Sofija]], [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- Puolė Pskovą: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Apgulė Pskovą: [[objektai/asmenys/Steponas Batoras]]
+- Gynė Pskovą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Dovydas Gardiniškis]], [[objektai/grupes/Lietuviai]]
+- Buvo žygio kryptis: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Prekiavo su: [[objektai/vietos/Vilnius]]
+- Buvo užkariauta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Turėjo priklausinį: [[objektai/vietos/Bokštai]], [[objektai/vietos/Koloža]], [[objektai/vietos/Kremlius]], [[objektai/vietos/Opočka]]
+- Pskovas prekiavo su [[objektai/vietos/Vilnius]]
+- Pskovas priklausė [[objektai/vietos/Lietuva]]

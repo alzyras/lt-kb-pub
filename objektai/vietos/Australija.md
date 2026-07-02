@@ -72,4 +72,4 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] keliavo_i Australija
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

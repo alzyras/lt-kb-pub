@@ -91,6 +91,6 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
     - t-001
 
 ## Ryšiai
-- Fridrichas fon Vildenbergas surenge_zygi_i [[objektai/vietos/Vaikiai]]
-- Fridrichas fon Vildenbergas keliavo_i [[objektai/vietos/Vaikiai]]
-- Fridrichas fon Vildenbergas puole [[objektai/vietos/Vaikiai]]
+- Fridrichas fon Vildenbergas keliavo į [[objektai/vietos/Vaikiai]]
+- Fridrichas fon Vildenbergas puolė [[objektai/vietos/Vaikiai]]
+- Fridrichas fon Vildenbergas surengė žygį į [[objektai/vietos/Vaikiai]]

@@ -68,4 +68,4 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
     - t-001
 
 ## Ryšiai
-- Klemensas Moskorzewskis gyne [[objektai/vietos/Vilnius]]
+- Klemensas Moskorzewskis gynė [[objektai/vietos/Vilnius]]

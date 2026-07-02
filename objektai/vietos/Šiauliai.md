@@ -177,8 +177,7 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Virgoličiaus rinktinė]] keliavo_i Šiauliai
-- [[objektai/grupes/Kalavijuočių ordinas]] puole Šiauliai
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Šiauliai
-- [[objektai/asmenys/Victor David Brenner]] gime Šiauliai
-- [[objektai/vietos/Kryžių kalnas]] priklause Šiauliai
+- Buvo kelionės vieta: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Virgoličiaus rinktinė]]
+- Gimimo vieta: [[objektai/asmenys/Victor David Brenner]]
+- Puolė Šiauliai: [[objektai/grupes/Kalavijuočių ordinas]]
+- Turėjo priklausinį: [[objektai/vietos/Kryžių kalnas]]

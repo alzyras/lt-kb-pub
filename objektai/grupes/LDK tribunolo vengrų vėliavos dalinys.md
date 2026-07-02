@@ -49,4 +49,4 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
     - t-001
 
 ## Ryšiai
-- LDK tribunolo vengrų vėliavos dalinys puole [[objektai/vietos/Vilnius]]
+- LDK tribunolo vengrų vėliavos dalinys puolė [[objektai/vietos/Vilnius]]

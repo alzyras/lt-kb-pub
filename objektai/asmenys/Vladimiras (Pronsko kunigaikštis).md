@@ -66,5 +66,5 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
     - t-002
 
 ## Ryšiai
-- Vladimiras (Pronsko kunigaikštis) keliavo_i [[objektai/vietos/Maskva]]
-- Vladimiras (Pronsko kunigaikštis) buvo_sajungininkas_su [[objektai/asmenys/Vladimiras Andrejevičius]]
+- Sąjungininkai: [[objektai/asmenys/Vladimiras Andrejevičius]]
+- Vladimiras (Pronsko kunigaikštis) keliavo į [[objektai/vietos/Maskva]]

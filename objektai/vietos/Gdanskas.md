@@ -192,4 +192,4 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - t-007
 
 ## Ryšiai
-- [[objektai/vietos/Vilnius]] prekiavo_su Gdanskas
+- Prekiavo su: [[objektai/vietos/Vilnius]]

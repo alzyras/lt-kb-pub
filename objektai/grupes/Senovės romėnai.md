@@ -264,5 +264,5 @@ Narbutas senovės romėnus vaizduoja kaip Lacijuje iškilusią tautą, kuriai bu
     - t-010
 
 ## Ryšiai
-- Senovės romėnai pastate [[objektai/daiktai/Aukurai]]
-- Senovės romėnai keliavo_i [[objektai/vietos/Lietuva]]
+- Senovės romėnai keliavo į [[objektai/vietos/Lietuva]]
+- Senovės romėnai pastatė [[objektai/daiktai/Aukurai]]

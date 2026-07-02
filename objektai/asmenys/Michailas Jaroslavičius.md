@@ -68,4 +68,4 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Michailas Jaroslavičius
+- Puolė Michailas Jaroslavičių: [[objektai/grupes/Lietuviai]]

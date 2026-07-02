@@ -53,5 +53,4 @@ Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitan
     - t-001
 
 ## Ryšiai
-- Rylskas priklause [[objektai/vietos/Seversko žemė]]
-- Rylskas priklause [[objektai/vietos/Seversko žemės]]
+- Rylskas priklausė [[objektai/vietos/Seversko žemė]], [[objektai/vietos/Seversko žemės]]

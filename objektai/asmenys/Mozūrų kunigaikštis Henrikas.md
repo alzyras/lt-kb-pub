@@ -50,5 +50,5 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Mozūrų kunigaikštis Henrikas vede [[objektai/asmenys/Ringailė]]
-- Mozūrų kunigaikštis Henrikas buvo_valdovas [[objektai/vietos/Mozūrija]]
+- Sutuoktiniai: [[objektai/asmenys/Ringailė]]
+- Mozūrų kunigaikštis Henrikas buvo valdovas [[objektai/vietos/Mozūrija]]

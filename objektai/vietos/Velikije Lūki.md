@@ -69,5 +69,5 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Pskoviečiai]] puole Velikije Lūki
-- [[objektai/grupes/Stepono Batoro vengrų kariuomenė]] surenge_zygi_i Velikije Lūki
+- Puolė Velikije Lūki: [[objektai/grupes/Pskoviečiai]]
+- Buvo žygio kryptis: [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]

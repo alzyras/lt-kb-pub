@@ -146,4 +146,4 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]]

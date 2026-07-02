@@ -81,4 +81,4 @@ Dusburgietis teigia, kad šie, nužygiavę į dykras, plytinčias tarp dviejų u
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Akmenų Brasta]] priklause Lukas
+- Turėjo priklausinį: [[objektai/vietos/Akmenų Brasta]]

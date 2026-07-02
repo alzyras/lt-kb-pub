@@ -73,5 +73,5 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] mire Bajerburgo pilis
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Bajerburgo pilis
+- Mirties vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

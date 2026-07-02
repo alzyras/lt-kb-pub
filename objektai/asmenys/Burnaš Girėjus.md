@@ -53,4 +53,4 @@ Burnaš Girėjus su Biti Girėjumi rugpjūčio viduryje užpuolė Slucką po Sim
     - t-001
 
 ## Ryšiai
-- Burnaš Girėjus puole [[objektai/vietos/Sluckas]]
+- Burnaš Girėjus puolė [[objektai/vietos/Sluckas]]

@@ -81,4 +81,4 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
     - t-002
 
 ## Ryšiai
-- Victor David Brenner gime [[objektai/vietos/Šiauliai]]
+- Victor David Brenner gimė [[objektai/vietos/Šiauliai]]

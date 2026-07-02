@@ -50,4 +50,4 @@ Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Birutė]] buvo_dukte Vydimantas
+- Dukterys: [[objektai/asmenys/Birutė]]

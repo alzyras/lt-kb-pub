@@ -43,4 +43,4 @@ p. dalys, turinčios apsaugoti divizijos vadovybe ir sustiprinti kitus pulkus.
     - t-001
 
 ## Ryšiai
-- 8-asis pėstininkų pulkas keliavo_i [[objektai/vietos/Ukmergė]]
+- 8-asis pėstininkų pulkas keliavo į [[objektai/vietos/Ukmergė]]

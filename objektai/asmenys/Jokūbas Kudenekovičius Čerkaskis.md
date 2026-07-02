@@ -94,6 +94,5 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
     - t-001
 
 ## Ryšiai
-- Jokūbas Kudenekovičius Čerkaskis uzeme [[objektai/vietos/Gardinas]]
-- Jokūbas Kudenekovičius Čerkaskis uzeme [[objektai/vietos/Vilnius]]
-- Jokūbas Kudenekovičius Čerkaskis kariavo_pries [[objektai/grupes/Radvilos]]
+- Jokūbas Kudenekovičius Čerkaskis užėmė [[objektai/vietos/Gardinas]], [[objektai/vietos/Vilnius]]
+- Jokūbas Kudenekovičius Čerkaskis kariavo prieš [[objektai/grupes/Radvilos]]

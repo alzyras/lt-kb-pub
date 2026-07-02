@@ -53,4 +53,4 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
     - t-002
 
 ## Ryšiai
-- Fransua Miteranas keliavo_i [[objektai/vietos/Lietuva]]
+- Fransua Miteranas keliavo į [[objektai/vietos/Lietuva]]

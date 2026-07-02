@@ -328,6 +328,6 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
     - t-010
 
 ## Ryšiai
-- [[objektai/asmenys/Jadvyga]] keliavo_i Lvovas
-- [[objektai/asmenys/Steponas]] surenge_zygi_i Lvovas
-- [[objektai/asmenys/Vincentas iš Šamotulų]] siunte_i Lvovas
+- Buvo kelionės vieta: [[objektai/asmenys/Jadvyga]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Vincentas iš Šamotulų]]
+- Buvo žygio kryptis: [[objektai/asmenys/Steponas]]

@@ -49,6 +49,5 @@ Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Alek
     - t-001
 
 ## Ryšiai
+- Aleksandras Vygantas buvo valdovas [[objektai/vietos/Kernavė]], [[objektai/vietos/Krėva]]
 - Aleksandras Vygantas gyveno [[objektai/vietos/Vilnius]]
-- Aleksandras Vygantas buvo_valdovas [[objektai/vietos/Kernavė]]
-- Aleksandras Vygantas buvo_valdovas [[objektai/vietos/Krėva]]

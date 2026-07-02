@@ -559,5 +559,4 @@ Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] reme Dominikonų ordinas
-- [[objektai/asmenys/Aleksandras]] reme Dominikonų ordinas
+- Rėmė Dominikonų ordiną: [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

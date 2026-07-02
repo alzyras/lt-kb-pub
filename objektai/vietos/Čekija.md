@@ -324,11 +324,8 @@ amziai:
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Kaributas]] keliavo_i Čekija
-- [[objektai/grupes/Jogailaičių dinastija]] valde Čekija
-- [[objektai/asmenys/Zigmantas Kaributas]] keliavo_i Čekija
-- [[objektai/asmenys/Jonas Liuksemburgietis]] buvo_valdovas Čekija
-- [[objektai/asmenys/Pršemyslas Otokaras II]] buvo_valdovas Čekija
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Čekija
-- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] valde Čekija
-- [[objektai/asmenys/Martynas iš Opavos|Martynas iš Opavos (arkivyskupas, XIII a.)]] gyveno Čekija
+- Turėjo valdovą: [[objektai/asmenys/Jonas Liuksemburgietis]], [[objektai/asmenys/Pršemyslas Otokaras II]]
+- Buvo valdoma: [[objektai/grupes/Jogailaičių dinastija]], [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Zigmantas Kaributas]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gyvenamoji vieta: [[objektai/asmenys/Martynas iš Opavos|Martynas iš Opavos (arkivyskupas, XIII a.)]]

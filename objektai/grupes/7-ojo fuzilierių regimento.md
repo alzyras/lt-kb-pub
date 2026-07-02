@@ -52,4 +52,4 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
     - t-001
 
 ## Ryšiai
-- 7-ojo fuzilierių regimento puole [[objektai/vietos/Vilnius]]
+- 7-ojo fuzilierių regimento puolė [[objektai/vietos/Vilnius]]

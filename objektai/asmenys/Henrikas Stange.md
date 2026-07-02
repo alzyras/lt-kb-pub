@@ -51,7 +51,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     - t-001
 
 ## Ryšiai
-- Henrikas Stange surenge_zygi_i [[objektai/vietos/Semba]]
-- Henrikas Stange puole [[objektai/vietos/Semba]]
-- Henrikas Stange kariavo_pries [[objektai/grupes/Sembai]]
-- Henrikas Stange keliavo_i [[objektai/vietos/Girmava]]
+- Henrikas Stange keliavo į [[objektai/vietos/Girmava]]
+- Henrikas Stange puolė [[objektai/vietos/Semba]]
+- Henrikas Stange surengė žygį į [[objektai/vietos/Semba]]
+- Henrikas Stange kariavo prieš [[objektai/grupes/Sembai]]

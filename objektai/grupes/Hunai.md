@@ -51,4 +51,4 @@ Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Baltai]] gyne Hunai
+- Gynė Hunai: [[objektai/grupes/Baltai]]

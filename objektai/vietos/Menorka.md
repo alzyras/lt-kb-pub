@@ -61,5 +61,5 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Saracėnai]] uzeme Menorka
-- [[objektai/grupes/Saracėnai]] valde Menorka
+- Buvo valdoma: [[objektai/grupes/Saracėnai]]
+- Užėmė Menorką: [[objektai/grupes/Saracėnai]]

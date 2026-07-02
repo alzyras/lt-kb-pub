@@ -73,4 +73,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis priklause [[objektai/vietos/Niurnbergas]]
+- Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis priklausė [[objektai/vietos/Niurnbergas]]

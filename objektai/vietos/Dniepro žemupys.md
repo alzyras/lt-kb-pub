@@ -45,4 +45,4 @@ iš Dniepro žemupio išjudėjo slavai, siekdami įsikurti pratuštėjusiuose ge
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Slavai]] keliavo_i Dniepro žemupys
+- Buvo kelionės vieta: [[objektai/grupes/Slavai]]

@@ -454,20 +454,14 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
     - t-010
 
 ## Ryšiai
-- Skalviai uzeme [[objektai/vietos/Labguva]]
-- Skalviai surenge_zygi_i [[objektai/vietos/Labguva]]
-- Skalviai apgule [[objektai/vietos/Bysleida]]
-- Skalviai gyveno [[objektai/vietos/Minija]]
-- Skalviai puole [[objektai/vietos/Bysleida]]
-- Skalviai puole [[objektai/vietos/Semba]]
-- Skalviai gyveno [[objektai/vietos/Skalvių pilis|Skalvių pilis (pilis, XIII a.)]]
-- Skalviai pastate [[objektai/vietos/Vėluva]]
-- Skalviai puole [[objektai/vietos/Labguva]]
-- Skalviai priklause [[objektai/grupes/Baltai]]
-- Skalviai priklause [[objektai/grupes/Lietuviai]]
-- Skalviai gyveno [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Skalvių pilis|Skalvių pilis (pilis, XIII a.)]] priklause Skalviai
-- Skalviai buvo_priesas [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Lietuviai]] puole Skalviai
-- [[objektai/asmenys/Albrechtas iš Hageno]] gyne Skalviai
-- [[objektai/grupes/Sembai]] puole Skalviai
+- Priešai: [[objektai/grupes/Sembai]]
+- Puolė Skalviai: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Sembai]]
+- Gynė Skalviai: [[objektai/asmenys/Albrechtas iš Hageno]]
+- Turėjo priklausinį: [[objektai/vietos/Skalvių pilis|Skalvių pilis (pilis, XIII a.)]]
+- Skalviai pastatė [[objektai/vietos/Vėluva]]
+- Skalviai puolė [[objektai/vietos/Bysleida]], [[objektai/vietos/Labguva]], [[objektai/vietos/Semba]]
+- Skalviai apgulė [[objektai/vietos/Bysleida]]
+- Skalviai užėmė [[objektai/vietos/Labguva]]
+- Skalviai surengė žygį į [[objektai/vietos/Labguva]]
+- Skalviai gyveno [[objektai/vietos/Minija]], [[objektai/vietos/Nemunas]], [[objektai/vietos/Skalvių pilis|Skalvių pilis (pilis, XIII a.)]]
+- Skalviai priklausė [[objektai/grupes/Baltai]], [[objektai/grupes/Lietuviai]]

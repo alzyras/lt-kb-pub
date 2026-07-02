@@ -54,4 +54,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] valde Mogiliavo pilis
+- Buvo valdoma: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]

@@ -71,4 +71,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]] pastate Karo pabūklai
+- Buvo pastatyta: [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]]

@@ -60,4 +60,4 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
     - t-001
 
 ## Ryšiai
-- Rudolfas (Pomezanijos vyskupas) keliavo_i [[objektai/vietos/Elbliongas]]
+- Rudolfas (Pomezanijos vyskupas) keliavo į [[objektai/vietos/Elbliongas]]

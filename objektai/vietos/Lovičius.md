@@ -45,4 +45,4 @@ Iš iki tol nepaliestų Lovičiaus apygardų buvo išgabentas didžiulis grobis,
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Lovičius
+- Puolė Lovičių: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

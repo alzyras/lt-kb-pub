@@ -51,4 +51,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Olegas (Riazanės didysis kunigaikštis) puole [[objektai/vietos/Lietuva]]
+- Olegas (Riazanės didysis kunigaikštis) puolė [[objektai/vietos/Lietuva]]

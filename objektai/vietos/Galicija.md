@@ -46,7 +46,6 @@ Galicijoje.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vladislovas iš Opolės]] valde Galicija
-- Galicija priklause [[objektai/vietos/Austrija]]
-- Galicija priklause [[objektai/asmenys/Vladislovas iš Opolės]]
-- [[objektai/grupes/Unitai]] gyveno Galicija
+- Buvo valdoma: [[objektai/asmenys/Vladislovas iš Opolės]]
+- Gyvenamoji vieta: [[objektai/grupes/Unitai]]
+- Galicija priklausė [[objektai/vietos/Austrija]], [[objektai/asmenys/Vladislovas iš Opolės]]

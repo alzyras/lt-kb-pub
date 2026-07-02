@@ -54,5 +54,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Chudandachas puole [[objektai/vietos/Odojevas]]
-- Chudandachas puole [[objektai/vietos/Riazanė]]
+- Chudandachas puolė [[objektai/vietos/Odojevas]], [[objektai/vietos/Riazanė]]

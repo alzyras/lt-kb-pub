@@ -119,6 +119,5 @@ Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių ap
     - t-003
 
 ## Ryšiai
-- Henrikas fon Plockė puole [[objektai/grupes/Lietuviai]]
-- Henrikas fon Plockė puole [[objektai/vietos/Medininkai]]
-- Henrikas fon Plockė kariavo_pries [[objektai/grupes/Lietuviai]]
+- Henrikas fon Plockė puolė [[objektai/grupes/Lietuviai]], [[objektai/vietos/Medininkai]]
+- Henrikas fon Plockė kariavo prieš [[objektai/grupes/Lietuviai]]

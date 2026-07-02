@@ -43,5 +43,4 @@ Narbutas Leliušių kaimą mini kaip vieną iš dviejų netoli vienas kito esan�
     - t-001
 
 ## Ryšiai
-- Leliušiai priklause [[objektai/vietos/Rodūnios parapija]]
-- Leliušiai priklause [[objektai/vietos/Lydos kraštas|Lydos kraštas (kraštas)]]
+- Leliušiai priklausė [[objektai/vietos/Lydos kraštas|Lydos kraštas (kraštas)]], [[objektai/vietos/Rodūnios parapija]]

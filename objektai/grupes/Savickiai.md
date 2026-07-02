@@ -57,4 +57,4 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Namas]] priklause Savickiai
+- Turėjo priklausinį: [[objektai/daiktai/Namas]]

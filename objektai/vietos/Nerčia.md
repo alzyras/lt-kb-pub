@@ -48,4 +48,4 @@ Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko 
     - t-001
 
 ## Ryšiai
-- Nerčia priklause [[objektai/vietos/Rytų Sibiras]]
+- Nerčia priklausė [[objektai/vietos/Rytų Sibiras]]

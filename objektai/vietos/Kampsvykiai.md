@@ -117,4 +117,4 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
     - t-003
 
 ## Ryšiai
-- Kampsvykiai priklause [[objektai/grupes/Nadruviai]]
+- Kampsvykiai priklausė [[objektai/grupes/Nadruviai]]

@@ -64,4 +64,4 @@ Dusburgietis teigia, kad 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] surenge_zygi_i Frankfurtas prie Oderio
+- Buvo žygio kryptis: [[objektai/grupes/Lietuvos kariuomenė]]

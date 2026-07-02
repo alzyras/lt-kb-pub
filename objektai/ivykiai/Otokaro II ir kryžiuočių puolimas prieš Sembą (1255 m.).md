@@ -66,5 +66,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)
-- [[objektai/asmenys/Otokaras II]] dalyvavo_musyje Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)
+- Turėjo dalyvį: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Otokaras II]]

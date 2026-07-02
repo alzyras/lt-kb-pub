@@ -56,4 +56,4 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
     - t-001
 
 ## Ryšiai
-- Mindotė mire [[objektai/vietos/Sizditė]]
+- Mindotė mirė [[objektai/vietos/Sizditė]]

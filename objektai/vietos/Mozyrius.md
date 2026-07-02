@@ -195,7 +195,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Skirmantas]] uzeme Mozyrius
-- [[objektai/grupes/Totoriai]] keliavo_i Mozyrius
-- [[objektai/grupes/Kazokai]] surenge_zygi_i Mozyrius
-- Mozyrius priklause [[objektai/vietos/Lietuva]]
+- Buvo kelionės vieta: [[objektai/grupes/Totoriai]]
+- Užėmė Mozyrių: [[objektai/asmenys/Skirmantas]]
+- Buvo žygio kryptis: [[objektai/grupes/Kazokai]]
+- Mozyrius priklausė [[objektai/vietos/Lietuva]]

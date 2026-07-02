@@ -57,4 +57,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Ragutėniškiai]] priklause Nočia
+- Turėjo priklausinį: [[objektai/vietos/Ragutėniškiai]]

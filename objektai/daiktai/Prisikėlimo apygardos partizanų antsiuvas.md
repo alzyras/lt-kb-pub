@@ -81,4 +81,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Prisikėlimo apygardos partizanų antsiuvas priklause [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- Prisikėlimo apygardos partizanų antsiuvas priklausė [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]

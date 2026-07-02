@@ -47,4 +47,4 @@ ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūm�
     - t-001
 
 ## Ryšiai
-- Latvijos kariuomenė uzeme [[objektai/vietos/Daugpilis]]
+- Latvijos kariuomenė užėmė [[objektai/vietos/Daugpilis]]

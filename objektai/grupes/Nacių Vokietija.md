@@ -117,7 +117,5 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvių aktyvistų frontas]] buvo_sajungininkas_su Nacių Vokietija
-- Nacių Vokietija valde_teritorija [[objektai/vietos/Lietuva]]
-- Nacių Vokietija valde_teritorija [[objektai/vietos/Estija]]
-- Nacių Vokietija valde_teritorija [[objektai/vietos/Gudija]]
+- Sąjungininkai: [[objektai/grupes/Lietuvių aktyvistų frontas]]
+- Nacių Vokietija valdė [[objektai/vietos/Estija]], [[objektai/vietos/Gudija]], [[objektai/vietos/Lietuva]]

@@ -90,4 +90,4 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Lukovas
+- Puolė Lukovą: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

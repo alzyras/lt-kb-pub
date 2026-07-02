@@ -57,4 +57,4 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
     - t-001
 
 ## Ryšiai
-- Mieška buvo_valdovas [[objektai/vietos/Lenkija]]
+- Mieška buvo valdovas [[objektai/vietos/Lenkija]]

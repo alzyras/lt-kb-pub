@@ -112,5 +112,5 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] pastate Naujasis Kaunas
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Naujasis Kaunas
+- Buvo pastatyta: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Užėmė Naujasis Kauną: [[objektai/grupes/Kryžiuočių ordinas]]

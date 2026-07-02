@@ -56,4 +56,4 @@ Dejevo, į Paupį.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Rusai]] uzeme Paupys
+- Užėmė Paupį: [[objektai/grupes/Rusai]]

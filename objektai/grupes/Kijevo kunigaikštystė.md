@@ -64,4 +64,4 @@ Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, k
     - t-001
 
 ## Ryšiai
-- Kijevo kunigaikštystė priklause [[objektai/vietos/Lietuva]]
+- Kijevo kunigaikštystė priklausė [[objektai/vietos/Lietuva]]

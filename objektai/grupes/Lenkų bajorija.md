@@ -104,4 +104,4 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
     - t-001
 
 ## Ryšiai
-- Lenkų bajorija sudare_sutarti_su [[objektai/grupes/Švedai]]
+- Lenkų bajorija sudarė sutartį su [[objektai/grupes/Švedai]]

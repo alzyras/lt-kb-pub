@@ -381,8 +381,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Ginklai priklause [[objektai/grupes/Kuršiai]]
-- Ginklai priklause [[objektai/vietos/Lenkijos karalystė]]
-- Ginklai priklause [[objektai/grupes/Žiemgaliai]]
-- Ginklai priklause [[objektai/vietos/Tikocinas]]
-- Ginklai priklause [[objektai/grupes/Lietuvos kariuomenė]]
+- Ginklai priklausė [[objektai/grupes/Kuršiai]], [[objektai/vietos/Lenkijos karalystė]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/vietos/Tikocinas]], [[objektai/grupes/Žiemgaliai]]

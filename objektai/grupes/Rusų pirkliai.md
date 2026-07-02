@@ -104,5 +104,5 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
     - t-002
 
 ## Ryšiai
-- Rusų pirkliai prekiavo_su [[objektai/grupes/Vokiečiai]]
-- Rusų pirkliai keliavo_i [[objektai/vietos/Vilnius]]
+- Rusų pirkliai keliavo į [[objektai/vietos/Vilnius]]
+- Rusų pirkliai prekiavo su [[objektai/grupes/Vokiečiai]]

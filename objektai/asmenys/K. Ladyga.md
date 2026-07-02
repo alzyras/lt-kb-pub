@@ -111,7 +111,6 @@ periodo_grupes:
     - t-003
 
 ## Ryšiai
-- K. Ladyga keliavo_i [[objektai/vietos/Utena]]
-- K. Ladyga siunte_i [[objektai/vietos/Tauragnai]]
-- K. Ladyga siunte_i [[objektai/vietos/Zarasai]]
-- K. Ladyga puole [[objektai/grupes/Rusai]]
+- K. Ladyga keliavo į [[objektai/vietos/Utena]]
+- K. Ladyga puolė [[objektai/grupes/Rusai]]
+- K. Ladyga siuntė į [[objektai/vietos/Tauragnai]], [[objektai/vietos/Zarasai]]

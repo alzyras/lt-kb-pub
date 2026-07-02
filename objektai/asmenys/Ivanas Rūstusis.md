@@ -56,4 +56,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Ivanas Rūstusis apgule [[objektai/vietos/Polockas]]
+- Ivanas Rūstusis apgulė [[objektai/vietos/Polockas]]

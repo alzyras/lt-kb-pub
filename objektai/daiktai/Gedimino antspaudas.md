@@ -215,4 +215,4 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     - t-003
 
 ## Ryšiai
-- Gedimino antspaudas priklause [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Gedimino antspaudas priklausė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

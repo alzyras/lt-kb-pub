@@ -705,16 +705,7 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
     - t-027
 
 ## Ryšiai
-- [[objektai/asmenys/Švitrigaila]] valde Voluinė
-- [[objektai/vietos/Olyka]] priklause Voluinė
-- [[objektai/vietos/Luckas]] priklause Voluinė
-- Voluinė priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Boleslovas]] valde Voluinė
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzeme Voluinė
-- Voluinė priklause [[objektai/vietos/Lenkija]]
-- [[objektai/grupes/Chodkevičiai]] valde Voluinė
-- [[objektai/grupes/Radvilos]] valde Voluinė
-- [[objektai/vietos/Podbužo dvaras]] priklause Voluinė
-- Voluinė priklause [[objektai/vietos/Ukraina]]
-- [[objektai/vietos/Vyšnivecis]] priklause Voluinė
-- [[objektai/daiktai/Pilys]] priklause Voluinė
+- Buvo valdoma: [[objektai/asmenys/Boleslovas]], [[objektai/grupes/Chodkevičiai]], [[objektai/grupes/Radvilos]], [[objektai/asmenys/Švitrigaila]]
+- Užėmė Voluinę: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Turėjo priklausinį: [[objektai/vietos/Luckas]], [[objektai/vietos/Olyka]], [[objektai/daiktai/Pilys]], [[objektai/vietos/Podbužo dvaras]], [[objektai/vietos/Vyšnivecis]]
+- Voluinė priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Ukraina]]

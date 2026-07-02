@@ -118,4 +118,4 @@ tags:
     - t-002
 
 ## Ryšiai
-- Horodlė priklause [[objektai/vietos/Lenkija]]
+- Horodlė priklausė [[objektai/vietos/Lenkija]]

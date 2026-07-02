@@ -149,7 +149,6 @@ Zigmantas Kaributas buvo Vytauto sūnėnas, 1421 m. pasiųstas į Čekiją jo vi
     - t-006
 
 ## Ryšiai
-- Zigmantas Kaributas keliavo_i [[objektai/vietos/Čekija]]
-- Zigmantas Kaributas keliavo_i [[objektai/vietos/Praha]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] paskyre Zigmantas Kaributas
-- Zigmantas Kaributas buvo_sajungininkas_su [[objektai/grupes/Lenkai]]
+- Sąjungininkai: [[objektai/grupes/Lenkai]]
+- Paskyrė Zigmantas Kaributą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Zigmantas Kaributas keliavo į [[objektai/vietos/Čekija]], [[objektai/vietos/Praha]]

@@ -147,4 +147,4 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
     - t-004
 
 ## Ryšiai
-- Žygimantas Kaributaitis keliavo_i [[objektai/vietos/Praha]]
+- Žygimantas Kaributaitis keliavo į [[objektai/vietos/Praha]]

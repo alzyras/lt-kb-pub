@@ -79,6 +79,6 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
     - t-001
 
 ## Ryšiai
+- Zigmantas Augustas valdė [[objektai/vietos/Lietuva]]
+- Zigmantas Augustas keliavo į [[objektai/vietos/Pasvalys]]
 - Zigmantas Augustas gyveno [[objektai/vietos/Vilnius]]
-- Zigmantas Augustas valde [[objektai/vietos/Lietuva]]
-- Zigmantas Augustas keliavo_i [[objektai/vietos/Pasvalys]]

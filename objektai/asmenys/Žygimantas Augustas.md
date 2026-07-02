@@ -616,22 +616,14 @@ tags:
     - t-019
 
 ## Ryšiai
-- Žygimantas Augustas (arkivyskupas, XVI a.) mire [[objektai/vietos/Knišinas]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) vede [[objektai/asmenys/Barbora Radvilaitė]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) keliavo_i [[objektai/vietos/Vilnius]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) pastate [[objektai/vietos/Šv. Barboros bažnyčia Žemutinėje pilyje]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) vede [[objektai/asmenys/Kotryna]]
-- [[objektai/asmenys/Barbora Radvilaitė]] buvo_zmona Žygimantas Augustas (arkivyskupas, XVI a.)
-- Žygimantas Augustas (arkivyskupas, XVI a.) gyne [[objektai/vietos/Livonija]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) pastate [[objektai/vietos/Šv. Onos bažnyčia Vilniuje]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) pastate [[objektai/vietos/Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) pastate [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) gyne [[objektai/vietos/Lietuva]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) valde [[objektai/vietos/Lietuva]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) valde [[objektai/vietos/Lenkija]]
-- [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]] priklause Žygimantas Augustas (arkivyskupas, XVI a.)
+- Žmonos: [[objektai/asmenys/Barbora Radvilaitė]]
+- Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]], [[objektai/asmenys/Kotryna]]
+- Turėjo priklausinį: [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) buvo valdovas [[objektai/vietos/Lietuva]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) valdė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) keliavo į [[objektai/vietos/Vilnius]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) mirė [[objektai/vietos/Knišinas]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) pastatė [[objektai/vietos/Šv. Barboros bažnyčia Žemutinėje pilyje]], [[objektai/vietos/Šv. Onos bažnyčia Vilniuje]], [[objektai/vietos/Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)]], [[objektai/vietos/Vilnius]], [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) gynė [[objektai/vietos/Lietuva]], [[objektai/vietos/Livonija]]
 - Žygimantas Augustas (arkivyskupas, XVI a.) gyveno [[objektai/vietos/Barboros rūmai Vilniuje]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) reme [[objektai/grupes/Vilniaus jėzuitų kolegija]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) buvo_vyras [[objektai/asmenys/Barbora Radvilaitė]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) pastate [[objektai/vietos/Vilnius]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) rėmė [[objektai/grupes/Vilniaus jėzuitų kolegija]]

@@ -108,4 +108,4 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Maskvos kariuomenė]] uzeme Tartu
+- Užėmė Tartu: [[objektai/grupes/Maskvos kariuomenė]]

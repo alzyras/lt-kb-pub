@@ -82,5 +82,5 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Albrechtas reme [[objektai/asmenys/Abraomas Kulvietis]]
-- [[objektai/asmenys/Albrechtas (Romos karalius)]] paskyre Albrechtas
+- Paskyrė Albrechtą: [[objektai/asmenys/Albrechtas (Romos karalius)]]
+- Albrechtas rėmė [[objektai/asmenys/Abraomas Kulvietis]]

@@ -61,4 +61,4 @@ Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas b
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Namas]] priklause Erazmas Bretneris
+- Turėjo priklausinį: [[objektai/daiktai/Namas]]

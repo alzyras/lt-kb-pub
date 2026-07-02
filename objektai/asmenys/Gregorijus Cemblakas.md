@@ -101,4 +101,4 @@ periodo_grupes:
     - t-002
 
 ## Ryšiai
-- Gregorijus Cemblakas keliavo_i [[objektai/vietos/Vilnius]]
+- Gregorijus Cemblakas keliavo į [[objektai/vietos/Vilnius]]

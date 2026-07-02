@@ -83,4 +83,4 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] keliavo_i Strėvos upė
+- Buvo kelionės vieta: [[objektai/grupes/Lietuvos kariuomenė]]

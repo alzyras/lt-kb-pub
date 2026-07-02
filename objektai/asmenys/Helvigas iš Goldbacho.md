@@ -113,6 +113,6 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Pagudėnai]] puole Helvigas iš Goldbacho
-- Helvigas iš Goldbacho puole [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/asmenys/Henrikas iš Šenenbergo]] buvo_sajungininkas_su Helvigas iš Goldbacho
+- Sąjungininkai: [[objektai/asmenys/Henrikas iš Šenenbergo]]
+- Puolė Helvigas iš Goldbacho: [[objektai/grupes/Pagudėnai]]
+- Helvigas iš Goldbacho puolė [[objektai/asmenys/Herkus Mantas]]

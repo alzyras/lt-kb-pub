@@ -174,9 +174,8 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
     - t-001
 
 ## Ryšiai
-- Jonas puole [[objektai/asmenys/Slavka]]
-- Jonas keliavo_i [[objektai/vietos/Prūsija]]
-- Jonas puole [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] buvo_brolis Jonas
-- Jonas buvo_sunus [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Silezija]] priklause Jonas
+- Tėvai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Broliai: [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]
+- Turėjo priklausinį: [[objektai/vietos/Silezija]]
+- Jonas keliavo į [[objektai/vietos/Prūsija]]
+- Jonas puolė [[objektai/asmenys/Slavka]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]

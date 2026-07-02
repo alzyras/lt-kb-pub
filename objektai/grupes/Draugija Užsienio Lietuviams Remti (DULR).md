@@ -142,4 +142,4 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     - t-005
 
 ## Ryšiai
-- Draugija Užsienio Lietuviams Remti (DULR) reme [[objektai/grupes/Lietuviai]]
+- Draugija Užsienio Lietuviams Remti (DULR) rėmė [[objektai/grupes/Lietuviai]]

@@ -232,10 +232,6 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Butrimas]] keliavo_i Praha
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Praha
-- [[objektai/asmenys/Jonas Basanavičius]] gyveno Praha
-- [[objektai/asmenys/Zigmantas Kaributas]] keliavo_i Praha
-- [[objektai/asmenys/Žygimantas Kaributaitis]] keliavo_i Praha
-- [[objektai/grupes/Lenkai]] keliavo_i Praha
-- [[objektai/grupes/Prancūzai]] keliavo_i Praha
+- Buvo kelionės vieta: [[objektai/asmenys/Butrimas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Prancūzai]], [[objektai/asmenys/Zigmantas Kaributas]], [[objektai/asmenys/Žygimantas Kaributaitis]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gyvenamoji vieta: [[objektai/asmenys/Jonas Basanavičius]]

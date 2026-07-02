@@ -66,4 +66,4 @@ Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė val
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Bona]] buvo_priesas Papakoda
+- Priešai: [[objektai/asmenys/Bona]]

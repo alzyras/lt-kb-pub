@@ -48,4 +48,4 @@ Jie buvo pasiekę Nalšėnų žemę^144.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Burundajus]] keliavo_i Nalšėnų žemė
+- Buvo kelionės vieta: [[objektai/asmenys/Burundajus]]

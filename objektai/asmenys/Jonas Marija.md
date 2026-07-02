@@ -108,4 +108,4 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
     - t-001
 
 ## Ryšiai
-- Jonas Marija keliavo_i [[objektai/vietos/Vilnius]]
+- Jonas Marija keliavo į [[objektai/vietos/Vilnius]]

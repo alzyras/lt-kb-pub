@@ -95,4 +95,4 @@ Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietu
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Dorpato vyskupija
+- Puolė Dorpato vyskupiją: [[objektai/grupes/Lietuviai]]

@@ -54,4 +54,4 @@ Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadin
     - t-001
 
 ## Ryšiai
-- Laikinoji Nacionalinė Vyriausybė keliavo_i [[objektai/vietos/Varšuva]]
+- Laikinoji Nacionalinė Vyriausybė keliavo į [[objektai/vietos/Varšuva]]

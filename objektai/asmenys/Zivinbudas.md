@@ -46,4 +46,4 @@ Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikš
     - t-001
 
 ## Ryšiai
-- Zivinbudas valde [[objektai/vietos/Ukmergė]]
+- Zivinbudas valdė [[objektai/vietos/Ukmergė]]

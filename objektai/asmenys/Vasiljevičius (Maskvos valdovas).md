@@ -155,10 +155,9 @@ Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti 
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] buvo_dukte Vasiljevičius (Maskvos valdovas)
-- Vasiljevičius (Maskvos valdovas) buvo_valdovas [[objektai/vietos/Maskva]]
-- [[objektai/asmenys/Stanislovas Goštautas]] sudare_sutarti_su Vasiljevičius (Maskvos valdovas)
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_priesas Vasiljevičius (Maskvos valdovas)
-- [[objektai/asmenys/Petras Białas]] sudare_sutarti_su Vasiljevičius (Maskvos valdovas)
-- Vasiljevičius (Maskvos valdovas) siunte_i [[objektai/vietos/Lietuva]]
-- Vasiljevičius (Maskvos valdovas) puole [[objektai/vietos/Lietuva]]
+- Dukterys: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- Priešai: [[objektai/asmenys/Aleksandras Jogailaitis]]
+- Sudarė sutartį su: [[objektai/asmenys/Petras Białas]], [[objektai/asmenys/Stanislovas Goštautas]]
+- Vasiljevičius (Maskvos valdovas) buvo valdovas [[objektai/vietos/Maskva]]
+- Vasiljevičius (Maskvos valdovas) puolė [[objektai/vietos/Lietuva]]
+- Vasiljevičius (Maskvos valdovas) siuntė į [[objektai/vietos/Lietuva]]

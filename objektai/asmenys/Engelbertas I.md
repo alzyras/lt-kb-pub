@@ -85,4 +85,4 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
     - t-002
 
 ## Ryšiai
-- Engelbertas I puole [[objektai/grupes/Sembai]]
+- Engelbertas I puolė [[objektai/grupes/Sembai]]

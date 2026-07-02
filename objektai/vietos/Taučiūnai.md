@@ -78,4 +78,4 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Povilas Lukšys]] mire Taučiūnai
+- Mirties vieta: [[objektai/asmenys/Povilas Lukšys]]

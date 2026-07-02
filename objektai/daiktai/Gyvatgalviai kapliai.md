@@ -65,4 +65,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Gyvatgalviai kapliai priklause [[objektai/grupes/Baltai]]
+- Gyvatgalviai kapliai priklausė [[objektai/grupes/Baltai]]

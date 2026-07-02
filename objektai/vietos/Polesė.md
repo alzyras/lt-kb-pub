@@ -77,6 +77,5 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Baltarusiai]] gyveno Polesė
-- [[objektai/vietos/Pinskas]] priklause Polesė
-- [[objektai/vietos/Turovas]] priklause Polesė
+- Gyvenamoji vieta: [[objektai/grupes/Baltarusiai]]
+- Turėjo priklausinį: [[objektai/vietos/Pinskas]], [[objektai/vietos/Turovas]]

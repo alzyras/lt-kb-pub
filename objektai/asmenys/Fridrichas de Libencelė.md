@@ -56,4 +56,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Fridrichas de Libencelė apgule [[objektai/vietos/Gedimino pilis Castrum Gedemini]]
+- Fridrichas de Libencelė apgulė [[objektai/vietos/Gedimino pilis Castrum Gedemini]]

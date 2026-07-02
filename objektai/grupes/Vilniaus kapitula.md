@@ -935,6 +935,5 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
     - t-007
 
 ## Ryšiai
-- [[objektai/daiktai/Namas]] priklause Vilniaus kapitula
-- [[objektai/vietos/Paneriai]] priklause Vilniaus kapitula
-- Vilniaus kapitula reme [[objektai/asmenys/Pilypas Frizijus]]
+- Turėjo priklausinį: [[objektai/daiktai/Namas]], [[objektai/vietos/Paneriai]]
+- Vilniaus kapitula rėmė [[objektai/asmenys/Pilypas Frizijus]]

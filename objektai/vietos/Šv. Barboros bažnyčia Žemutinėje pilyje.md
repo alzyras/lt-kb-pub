@@ -47,4 +47,4 @@ Be kitų, Že­ mutinėje pilyje buvo pastatyta Šv.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] pastate Šv. Barboros bažnyčia Žemutinėje pilyje
+- Buvo pastatyta: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

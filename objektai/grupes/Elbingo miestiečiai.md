@@ -91,6 +91,6 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Pagudėnai]] puole Elbingo miestiečiai
-- [[objektai/grupes/Pagudėnai]] sudare_sutarti_su Elbingo miestiečiai
-- Elbingo miestiečiai puole [[objektai/grupes/Pagudėnai]]
+- Puolė Elbingo miestiečiai: [[objektai/grupes/Pagudėnai]]
+- Sudarė sutartį su: [[objektai/grupes/Pagudėnai]]
+- Elbingo miestiečiai puolė [[objektai/grupes/Pagudėnai]]

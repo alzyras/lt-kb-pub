@@ -76,5 +76,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] dalyvavo_musyje Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)
-- [[objektai/asmenys/Skirgaila]] dalyvavo_musyje Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)
+- Turėjo dalyvį: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Skirgaila]]

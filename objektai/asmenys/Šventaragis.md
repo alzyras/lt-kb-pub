@@ -256,8 +256,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - t-003
 
 ## Ryšiai
-- Šventaragis paskyre [[objektai/asmenys/Germantas]]
-- [[objektai/asmenys/Gerimantas]] buvo_sunus Šventaragis
-- [[objektai/asmenys/Germantas]] buvo_sunus Šventaragis
-- Šventaragis valde [[objektai/vietos/Lietuva]]
-- Šventaragis buvo_sunus [[objektai/asmenys/Germantas]]
+- Sūnūs: [[objektai/asmenys/Gerimantas]], [[objektai/asmenys/Germantas]]
+- Tėvai: [[objektai/asmenys/Germantas]]
+- Šventaragis valdė [[objektai/vietos/Lietuva]]
+- Šventaragis paskyrė [[objektai/asmenys/Germantas]]

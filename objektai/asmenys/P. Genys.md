@@ -43,6 +43,4 @@ Birželio 3 d. P. Genys užima Svėdasus. | O po to Užpalius ir birželio 5 d. 
     - t-001
 
 ## Ryšiai
-- P. Genys uzeme [[objektai/vietos/Svėdasai]]
-- P. Genys uzeme [[objektai/vietos/Užpaliai]]
-- P. Genys uzeme [[objektai/vietos/Antalieptė]]
+- P. Genys užėmė [[objektai/vietos/Antalieptė]], [[objektai/vietos/Svėdasai]], [[objektai/vietos/Užpaliai]]

@@ -165,9 +165,7 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- Mongolai puole [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Mongolai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] kariavo_pries Mongolai
-- [[objektai/grupes/Haličo kunigaikščiai]] buvo_sajungininkas_su Mongolai
-- Mongolai surenge_zygi_i [[objektai/vietos/Sirija]]
-- [[objektai/grupes/Lietuviai]] kariavo_pries Mongolai
+- Sąjungininkai: [[objektai/grupes/Haličo kunigaikščiai]]
+- Kariavo prieš: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]]
+- Mongolai puolė [[objektai/vietos/Lietuva]]
+- Mongolai surengė žygį į [[objektai/vietos/Sirija]]

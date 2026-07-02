@@ -61,4 +61,4 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
     - t-002
 
 ## Ryšiai
-- Narbutai priklause [[objektai/vietos/Šaurų dvaras]]
+- Narbutai priklausė [[objektai/vietos/Šaurų dvaras]]

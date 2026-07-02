@@ -182,11 +182,6 @@ tags:
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Konstanca
-- [[objektai/asmenys/Jeronimas Prahiškis]] mire Konstanca
-- [[objektai/asmenys/Vladislovas Jogaila]] siunte_i Konstanca
-- [[objektai/asmenys/Teodoras Lenkas]] keliavo_i Konstanca
-- [[objektai/grupes/Stačiatikiai]] keliavo_i Konstanca
-- [[objektai/asmenys/Mikalojus Sepienskis]] keliavo_i Konstanca
-- [[objektai/asmenys/Jurgis Galminas]] keliavo_i Konstanca
-- [[objektai/asmenys/Jurgis Gedgaudas]] keliavo_i Konstanca
+- Buvo kelionės vieta: [[objektai/asmenys/Jurgis Galminas]], [[objektai/asmenys/Jurgis Gedgaudas]], [[objektai/asmenys/Mikalojus Sepienskis]], [[objektai/grupes/Stačiatikiai]], [[objektai/asmenys/Teodoras Lenkas]]
+- Mirties vieta: [[objektai/asmenys/Jeronimas Prahiškis]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

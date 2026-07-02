@@ -53,4 +53,4 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Saladinas]] buvo_sunus Tochtamyšas (Krymo ordos chanas)
+- Sūnūs: [[objektai/asmenys/Saladinas]]

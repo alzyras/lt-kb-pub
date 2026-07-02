@@ -125,6 +125,5 @@ periodo_grupes:
     - t-002
 
 ## Ryšiai
-- Simonas (Alšėnų kunigaikštis) puole [[objektai/asmenys/Švitrigaila]]
-- Simonas (Alšėnų kunigaikštis) surenge_zygi_i [[objektai/vietos/Ašmena]]
-- Simonas (Alšėnų kunigaikštis) puole [[objektai/vietos/Ašmena]]
+- Simonas (Alšėnų kunigaikštis) puolė [[objektai/vietos/Ašmena]], [[objektai/asmenys/Švitrigaila]]
+- Simonas (Alšėnų kunigaikštis) surengė žygį į [[objektai/vietos/Ašmena]]

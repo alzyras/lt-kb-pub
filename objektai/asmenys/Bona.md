@@ -165,7 +165,7 @@ Karalienė Bona šaltiniuose minima kaip Žygimanto Senojo aplinkos asmenybė, g
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Augustas]] buvo_sunus Bona
-- Bona keliavo_i [[objektai/vietos/Italija]]
+- Sūnūs: [[objektai/asmenys/Augustas]]
+- Priešai: [[objektai/asmenys/Papakoda]]
+- Bona keliavo į [[objektai/vietos/Italija]]
 - Bona gyveno [[objektai/vietos/Merkys]]
-- Bona buvo_priesas [[objektai/asmenys/Papakoda]]

@@ -52,4 +52,4 @@ Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs 
     - t-001
 
 ## Ryšiai
-- Gedetas valde [[objektai/vietos/Kimenava]]
+- Gedetas valdė [[objektai/vietos/Kimenava]]

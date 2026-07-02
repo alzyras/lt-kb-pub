@@ -1021,9 +1021,7 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
     - t-034
 
 ## Ryšiai
-- Latviai gyveno [[objektai/vietos/Vidžemė]]
-- Latviai gyveno [[objektai/vietos/Dauguva]]
-- Latviai priklause [[objektai/grupes/Baltai]]
-- Latviai gyveno [[objektai/vietos/Latgalija]]
-- [[objektai/vietos/Magus]] priklause Latviai
-- Latviai keliavo_i [[objektai/vietos/Baltija]]
+- Turėjo priklausinį: [[objektai/vietos/Magus]]
+- Latviai keliavo į [[objektai/vietos/Baltija]]
+- Latviai gyveno [[objektai/vietos/Dauguva]], [[objektai/vietos/Latgalija]], [[objektai/vietos/Vidžemė]]
+- Latviai priklausė [[objektai/grupes/Baltai]]

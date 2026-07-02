@@ -209,4 +209,4 @@ J. Pilsudskis buvo pokario Lenkijos vadovas, kilęs iš Lietuvos dvarininkų ir 
     - t-006
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] reme J. Pilsudskis
+- Rėmė J. Pilsudskį: [[objektai/grupes/Lenkai]]

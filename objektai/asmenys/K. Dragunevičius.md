@@ -74,5 +74,5 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
     - t-001
 
 ## Ryšiai
-- K. Dragunevičius gyne [[objektai/vietos/Kėdainiai]]
-- K. Dragunevičius dalyvavo_musyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
+- K. Dragunevičius gynė [[objektai/vietos/Kėdainiai]]
+- K. Dragunevičius dalyvavo mūšyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]

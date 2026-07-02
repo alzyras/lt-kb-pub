@@ -65,4 +65,4 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
     - t-001
 
 ## Ryšiai
-- Fridrichas Ketleris buvo_valdovas [[objektai/vietos/Kuršas]]
+- Fridrichas Ketleris buvo valdovas [[objektai/vietos/Kuršas]]

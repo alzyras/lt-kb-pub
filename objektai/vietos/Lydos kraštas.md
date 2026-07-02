@@ -45,4 +45,4 @@ Lydos krašto Rodūnios parapijoje Narbutas minėjo netoli vienas kito buvusius 
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Leliušiai]] priklause Lydos kraštas (kraštas)
+- Turėjo priklausinį: [[objektai/vietos/Leliušiai]]

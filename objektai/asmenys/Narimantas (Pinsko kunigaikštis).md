@@ -98,13 +98,10 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]] buvo_sunus Narimantas (Pinsko kunigaikštis)
-- Narimantas (Pinsko kunigaikštis) valde [[objektai/vietos/Pinskas]]
-- Narimantas (Pinsko kunigaikštis) valde [[objektai/vietos/Turovas]]
-- Narimantas (Pinsko kunigaikštis) apgule [[objektai/vietos/Utena]]
-- [[objektai/asmenys/Patrikas, arba Patricijus]] buvo_sunus Narimantas (Pinsko kunigaikštis)
-- Narimantas (Pinsko kunigaikštis) buvo_brolis [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Narimantas (Pinsko kunigaikštis) buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Narimantas (Pinsko kunigaikštis) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_priesas Narimantas (Pinsko kunigaikštis)
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] buvo_priesas Narimantas (Pinsko kunigaikštis)
+- Sūnūs: [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]], [[objektai/asmenys/Patrikas, arba Patricijus]]
+- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Broliai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Priešai: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Narimantas (Pinsko kunigaikštis) valdė [[objektai/vietos/Pinskas]], [[objektai/vietos/Turovas]]
+- Narimantas (Pinsko kunigaikštis) apgulė [[objektai/vietos/Utena]]
+- Narimantas (Pinsko kunigaikštis) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]

@@ -51,4 +51,4 @@ Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
     - t-001
 
 ## Ryšiai
-- Rambynas priklause [[objektai/vietos/Panemunė]]
+- Rambynas priklausė [[objektai/vietos/Panemunė]]

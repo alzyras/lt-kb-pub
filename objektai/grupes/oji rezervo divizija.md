@@ -48,4 +48,4 @@ Vienas rusų štabo karininkas stebėjosi, kodėl sukilėliai nesurengė puolimo
     - t-001
 
 ## Ryšiai
-- oji rezervo divizija keliavo_i [[objektai/vietos/Vilnius]]
+- oji rezervo divizija keliavo į [[objektai/vietos/Vilnius]]

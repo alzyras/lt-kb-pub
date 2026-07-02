@@ -49,4 +49,4 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
     - t-001
 
 ## Ryšiai
-- Štenkelis iš Bentheimo kariavo_pries [[objektai/grupes/Notangai]]
+- Štenkelis iš Bentheimo kariavo prieš [[objektai/grupes/Notangai]]

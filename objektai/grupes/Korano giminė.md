@@ -50,4 +50,4 @@ Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduo
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Korano giminė
+- Kariavo prieš: [[objektai/grupes/Lietuvos kariuomenė]]

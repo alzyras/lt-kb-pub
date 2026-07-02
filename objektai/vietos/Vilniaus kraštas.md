@@ -227,4 +227,4 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - t-008
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] gyveno Vilniaus kraštas
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

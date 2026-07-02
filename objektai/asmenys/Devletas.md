@@ -51,4 +51,4 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
     - t-001
 
 ## Ryšiai
-- Devletas keliavo_i [[objektai/vietos/Konstantinopolis]]
+- Devletas keliavo į [[objektai/vietos/Konstantinopolis]]

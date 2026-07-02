@@ -239,9 +239,8 @@ Mazovijos kunigaikštis Boleslovas šaltiniuose minimas kaip valdovas, mėginęs
     - t-006
 
 ## Ryšiai
-- Boleslovas (Mazovijos kunigaikštis) puole [[objektai/vietos/Palenkė]]
-- Boleslovas (Mazovijos kunigaikštis) uzeme [[objektai/vietos/Belskas]]
-- Boleslovas (Mazovijos kunigaikštis) uzeme [[objektai/vietos/Drohičinas]]
-- Boleslovas (Mazovijos kunigaikštis) valde [[objektai/vietos/Vizna]]
-- Boleslovas (Mazovijos kunigaikštis) buvo_priesas [[objektai/grupes/Lietuviai]]
-- Boleslovas (Mazovijos kunigaikštis) sudare_sutarti_su [[objektai/grupes/Lietuviai]]
+- Priešai: [[objektai/grupes/Lietuviai]]
+- Boleslovas (Mazovijos kunigaikštis) valdė [[objektai/vietos/Vizna]]
+- Boleslovas (Mazovijos kunigaikštis) puolė [[objektai/vietos/Palenkė]]
+- Boleslovas (Mazovijos kunigaikštis) užėmė [[objektai/vietos/Belskas]], [[objektai/vietos/Drohičinas]]
+- Boleslovas (Mazovijos kunigaikštis) sudarė sutartį su [[objektai/grupes/Lietuviai]]

@@ -53,6 +53,5 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Herbas]] priklause Ostapas Kropotkovas
-- [[objektai/vietos/Podbužo dvaras]] priklause Ostapas Kropotkovas
-- Ostapas Kropotkovas kariavo_pries [[objektai/grupes/Totoriai]]
+- Turėjo priklausinį: [[objektai/daiktai/Herbas]], [[objektai/vietos/Podbužo dvaras]]
+- Ostapas Kropotkovas kariavo prieš [[objektai/grupes/Totoriai]]

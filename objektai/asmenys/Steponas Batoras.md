@@ -996,17 +996,13 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
     - t-002
 
 ## Ryšiai
-- Steponas Batoras buvo_valdovas [[objektai/vietos/Lenkija]]
-- Steponas Batoras mire [[objektai/vietos/Gardinas]]
-- Steponas Batoras keliavo_i [[objektai/vietos/Vilnius]]
-- Steponas Batoras siunte_i [[objektai/vietos/Rusija]]
-- Steponas Batoras uzkariavo [[objektai/vietos/Ryga]]
-- Steponas Batoras keliavo_i [[objektai/vietos/Knišinas]]
-- Steponas Batoras siunte_i [[objektai/vietos/Švedija]]
-- Steponas Batoras reme [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/daiktai/Stepono Batoro paradinis kalavijas]] priklause Steponas Batoras
-- Steponas Batoras reme [[objektai/asmenys/Gabrielius Bekešas]]
-- Steponas Batoras apgule [[objektai/vietos/Pskovas]]
-- Steponas Batoras reme [[objektai/grupes/Vilniaus pirkliai]]
-- Steponas Batoras valde_miesta [[objektai/vietos/Vilnius]]
-- Steponas Batoras paskyre [[objektai/asmenys/Radvila]]
+- Turėjo priklausinį: [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
+- Steponas Batoras buvo valdovas [[objektai/vietos/Lenkija]]
+- Steponas Batoras valdė [[objektai/vietos/Vilnius]]
+- Steponas Batoras keliavo į [[objektai/vietos/Knišinas]], [[objektai/vietos/Vilnius]]
+- Steponas Batoras mirė [[objektai/vietos/Gardinas]]
+- Steponas Batoras apgulė [[objektai/vietos/Pskovas]]
+- Steponas Batoras siuntė į [[objektai/vietos/Rusija]], [[objektai/vietos/Švedija]]
+- Steponas Batoras paskyrė [[objektai/asmenys/Radvila]]
+- Steponas Batoras rėmė [[objektai/asmenys/Gabrielius Bekešas]], [[objektai/grupes/Vilniaus miestiečių luomas]], [[objektai/grupes/Vilniaus pirkliai]]
+- Steponas Batoras užkariavo [[objektai/vietos/Ryga]]

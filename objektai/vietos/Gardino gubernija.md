@@ -133,4 +133,4 @@ tags:
     - t-005
 
 ## Ryšiai
-- Gardino gubernija priklause [[objektai/vietos/Lietuva]]
+- Gardino gubernija priklausė [[objektai/vietos/Lietuva]]

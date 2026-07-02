@@ -315,8 +315,7 @@ Vladislovas Jogailaitis šaltiniuose minimas 1435 m. Lietuvos ir Lenkijos politi
     - t-009
 
 ## Ryšiai
-- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) sudare_sutarti_su [[objektai/asmenys/Rusdorfas]]
-- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) valde [[objektai/vietos/Čekija]]
-- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo_brolis [[objektai/asmenys/Jonas]]
-- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) valde [[objektai/vietos/Vengrija]]
-- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) reme [[objektai/grupes/Lietuviai]]
+- Broliai: [[objektai/asmenys/Jonas]]
+- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) valdė [[objektai/vietos/Čekija]], [[objektai/vietos/Vengrija]]
+- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) sudarė sutartį su [[objektai/asmenys/Rusdorfas]]
+- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) rėmė [[objektai/grupes/Lietuviai]]

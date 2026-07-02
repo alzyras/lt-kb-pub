@@ -93,4 +93,4 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Rygos kapitula
+- Puolė Rygos kapitulą: [[objektai/grupes/Kryžiuočių ordinas]]

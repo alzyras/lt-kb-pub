@@ -100,4 +100,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Antanas Gustaitis]] pastate Lėktuvai
+- Buvo pastatyta: [[objektai/asmenys/Antanas Gustaitis]]

@@ -122,4 +122,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos priklause [[objektai/asmenys/Barbora Radvilaitė]]
+- Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos priklausė [[objektai/asmenys/Barbora Radvilaitė]]

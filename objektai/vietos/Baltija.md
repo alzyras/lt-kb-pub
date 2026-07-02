@@ -484,18 +484,9 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Baltai]] gyveno Baltija
-- [[objektai/grupes/Aušrėnai]] gyveno Baltija
-- [[objektai/grupes/Lietuviai]] uzeme Baltija
-- [[objektai/grupes/Slavai]] uzeme Baltija
-- [[objektai/grupes/Venedai]] uzeme Baltija
-- [[objektai/grupes/Normanai]] keliavo_i Baltija
-- [[objektai/grupes/Čeltyčios]] gyveno Baltija
-- [[objektai/asmenys/Petras I Didysis]] surenge_zygi_i Baltija
-- [[objektai/grupes/Romėnai]] keliavo_i Baltija
-- [[objektai/grupes/Aisčiai]] gyveno Baltija
-- [[objektai/grupes/Baltijos valstybės]] priklause Baltija
-- [[objektai/grupes/Hanza]] valde Baltija
-- [[objektai/grupes/Agentai-smogikai]] gyveno Baltija
-- [[objektai/grupes/Estai]] keliavo_i Baltija
-- [[objektai/grupes/Latviai]] keliavo_i Baltija
+- Buvo valdoma: [[objektai/grupes/Hanza]]
+- Buvo kelionės vieta: [[objektai/grupes/Estai]], [[objektai/grupes/Latviai]], [[objektai/grupes/Normanai]], [[objektai/grupes/Romėnai]]
+- Užėmė Baltiją: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Slavai]], [[objektai/grupes/Venedai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Petras I Didysis]]
+- Gyvenamoji vieta: [[objektai/grupes/Agentai-smogikai]], [[objektai/grupes/Aisčiai]], [[objektai/grupes/Aušrėnai]], [[objektai/grupes/Baltai]], [[objektai/grupes/Čeltyčios]]
+- Turėjo priklausinį: [[objektai/grupes/Baltijos valstybės]]

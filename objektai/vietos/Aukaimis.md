@@ -220,11 +220,8 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Folradas]] puole Aukaimis
-- [[objektai/asmenys/Girdila]] keliavo_i Aukaimis
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Aukaimis
-- [[objektai/asmenys/Henrikas iš Dobino]] puole Aukaimis
-- [[objektai/asmenys/Gintautas]] mire Aukaimis
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Aukaimis
-- [[objektai/asmenys/Draika]] gyveno Aukaimis
-- [[objektai/grupes/Lietuviai]] keliavo_i Aukaimis
+- Buvo kelionės vieta: [[objektai/asmenys/Girdila]], [[objektai/grupes/Lietuviai]]
+- Mirties vieta: [[objektai/asmenys/Gintautas]]
+- Puolė Aukaimį: [[objektai/asmenys/Folradas]], [[objektai/asmenys/Henrikas iš Dobino]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Užėmė Aukaimį: [[objektai/grupes/Kryžiuočių ordinas]]
+- Gyvenamoji vieta: [[objektai/asmenys/Draika]]

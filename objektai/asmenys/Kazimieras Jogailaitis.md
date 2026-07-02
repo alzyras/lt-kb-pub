@@ -519,12 +519,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
     - t-016
 
 ## Ryšiai
-- Kazimieras Jogailaitis uzeme [[objektai/vietos/Smolenskas]]
-- Kazimieras Jogailaitis gyveno [[objektai/vietos/Trakai]]
-- Kazimieras Jogailaitis gyveno [[objektai/vietos/Vilnius]]
-- Kazimieras Jogailaitis keliavo_i [[objektai/vietos/Severskas]]
-- Kazimieras Jogailaitis keliavo_i [[objektai/vietos/Vilnius]]
-- Kazimieras Jogailaitis keliavo_i [[objektai/vietos/Trakai]]
-- Kazimieras Jogailaitis keliavo_i [[objektai/vietos/Gardinas]]
-- Kazimieras Jogailaitis kariavo_pries [[objektai/asmenys/Mykolas]]
-- Kazimieras Jogailaitis gyveno [[objektai/vietos/Gardinas]]
+- Kazimieras Jogailaitis keliavo į [[objektai/vietos/Gardinas]], [[objektai/vietos/Severskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Kazimieras Jogailaitis užėmė [[objektai/vietos/Smolenskas]]
+- Kazimieras Jogailaitis kariavo prieš [[objektai/asmenys/Mykolas]]
+- Kazimieras Jogailaitis gyveno [[objektai/vietos/Gardinas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]

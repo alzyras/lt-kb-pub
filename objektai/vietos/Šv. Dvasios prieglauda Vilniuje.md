@@ -215,4 +215,4 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Ulrikas Hozijus]] pastate Šv. Dvasios prieglauda Vilniuje
+- Buvo pastatyta: [[objektai/asmenys/Ulrikas Hozijus]]

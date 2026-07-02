@@ -99,6 +99,6 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] uzeme Tauragnai
-- [[objektai/asmenys/K. Ladyga]] siunte_i Tauragnai
-- Tauragnai priklause [[objektai/vietos/Vilniaus katedra]]
+- Užėmė Tauragnai: [[objektai/grupes/Lenkai]]
+- Buvo siuntimo vieta: [[objektai/asmenys/K. Ladyga]]
+- Tauragnai priklausė [[objektai/vietos/Vilniaus katedra]]

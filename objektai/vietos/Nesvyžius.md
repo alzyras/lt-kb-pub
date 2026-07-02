@@ -327,5 +327,5 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-008
 
 ## Ryšiai
-- [[objektai/asmenys/Mikalojus Radvila]] buvo_valdovas Nesvyžius
-- [[objektai/grupes/Totoriai]] puole Nesvyžius
+- Turėjo valdovą: [[objektai/asmenys/Mikalojus Radvila]]
+- Puolė Nesvyžių: [[objektai/grupes/Totoriai]]

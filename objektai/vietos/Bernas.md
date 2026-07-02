@@ -79,4 +79,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Steponas Kairys]] keliavo_i Bernas
+- Buvo kelionės vieta: [[objektai/asmenys/Steponas Kairys]]

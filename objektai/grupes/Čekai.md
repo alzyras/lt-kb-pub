@@ -335,5 +335,5 @@ amziai:
     - t-007
 
 ## Ryšiai
-- [[objektai/asmenys/Zigmantas Liuksemburgietis]] kariavo_pries Čekai
-- Čekai reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Kariavo prieš: [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- Čekai rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

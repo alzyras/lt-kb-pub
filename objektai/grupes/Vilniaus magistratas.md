@@ -591,5 +591,5 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
     - t-013
 
 ## Ryšiai
-- Vilniaus magistratas valde_miesta [[objektai/vietos/Vilnius]]
-- [[objektai/daiktai/Antspaudai]] priklause Vilniaus magistratas
+- Turėjo priklausinį: [[objektai/daiktai/Antspaudai]]
+- Vilniaus magistratas valdė [[objektai/vietos/Vilnius]]

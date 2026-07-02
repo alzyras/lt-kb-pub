@@ -53,4 +53,4 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
     - t-001
 
 ## Ryšiai
-- Skomantas (lietuvių vadas) puole [[objektai/vietos/Kulmas]]
+- Skomantas (lietuvių vadas) puolė [[objektai/vietos/Kulmas]]

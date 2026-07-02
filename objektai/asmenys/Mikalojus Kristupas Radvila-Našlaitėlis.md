@@ -226,4 +226,4 @@ Mikalojus Kristupas Radvila-Našlaitėlis buvo Mikalojaus Radvilos Juodojo sūnu
     - t-005
 
 ## Ryšiai
-- [[objektai/daiktai/Namas]] priklause Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)
+- Turėjo priklausinį: [[objektai/daiktai/Namas]]

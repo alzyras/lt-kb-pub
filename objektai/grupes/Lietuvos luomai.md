@@ -135,6 +135,5 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
     - t-003
 
 ## Ryšiai
-- Lietuvos luomai gyne [[objektai/vietos/Livonija]]
-- Lietuvos luomai buvo_sajungininkas_su [[objektai/grupes/Lenkai]]
-- Lietuvos luomai gyne [[objektai/grupes/Teutonai]]
+- Sąjungininkai: [[objektai/grupes/Lenkai]]
+- Lietuvos luomai gynė [[objektai/vietos/Livonija]], [[objektai/grupes/Teutonai]]

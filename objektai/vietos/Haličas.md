@@ -165,4 +165,4 @@ Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo lai
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Haličas
+- Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

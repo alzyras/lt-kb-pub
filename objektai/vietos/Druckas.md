@@ -186,8 +186,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Petras Šuiskis]] keliavo_i Druckas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Druckas
-- [[objektai/asmenys/Skirgaila]] uzeme Druckas
-- [[objektai/grupes/Totoriai]] puole Druckas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Druckas
+- Buvo kelionės vieta: [[objektai/asmenys/Petras Šuiskis]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Drucką: [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Užėmė Drucką: [[objektai/asmenys/Skirgaila]]

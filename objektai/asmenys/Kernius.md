@@ -146,7 +146,7 @@ Kernius siejamas su XI a. viduramžių Lietuvos pasakojimais: jam teko žemės t
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Pajauta]] buvo_dukte Kernius
-- Kernius buvo_palaidotas [[objektai/vietos/Deltuva]]
-- Kernius valde [[objektai/vietos/Lietuva]]
-- Kernius surenge_zygi_i [[objektai/vietos/Breslauja]]
+- Dukterys: [[objektai/asmenys/Pajauta]]
+- Kernius valdė [[objektai/vietos/Lietuva]]
+- Kernius buvo palaidotas [[objektai/vietos/Deltuva]]
+- Kernius surengė žygį į [[objektai/vietos/Breslauja]]

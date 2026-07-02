@@ -65,5 +65,5 @@ Petras Miškovskis nuo 1499.V. buvo Belzo vaivada.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] apgule Belzas
-- Belzas priklause [[objektai/asmenys/Jurgis Narimantaitis]]
+- Apgulė Belzą: [[objektai/grupes/Lenkai]]
+- Belzas priklausė [[objektai/asmenys/Jurgis Narimantaitis]]

@@ -195,13 +195,11 @@ Bertoldas, vadinamas Briuhavenu, buvo iš Austrijos kilęs Teutonų ordino broli
     - t-001
 
 ## Ryšiai
-- Bertoldas, vadinamas Briuhavenu gime [[objektai/vietos/Austrija]]
-- Bertoldas, vadinamas Briuhavenu puole [[objektai/vietos/Medraba]]
-- Bertoldas, vadinamas Briuhavenu siunte_i [[objektai/vietos/Lietuva]]
-- Bertoldas, vadinamas Briuhavenu gyne [[objektai/vietos/Ragainė]]
-- Bertoldas, vadinamas Briuhavenu valde [[objektai/vietos/Ragainė]]
-- Bertoldas, vadinamas Briuhavenu kariavo_pries [[objektai/grupes/Lietuviai]]
-- Bertoldas, vadinamas Briuhavenu keliavo_i [[objektai/vietos/Livonija]]
-- Bertoldas, vadinamas Briuhavenu puole [[objektai/vietos/Junigeda]]
-- Bertoldas, vadinamas Briuhavenu puole [[objektai/vietos/Kolainiai]]
-- Bertoldas, vadinamas Briuhavenu uzeme [[objektai/vietos/Medraba]]
+- Bertoldas, vadinamas Briuhavenu valdė [[objektai/vietos/Ragainė]]
+- Bertoldas, vadinamas Briuhavenu keliavo į [[objektai/vietos/Livonija]]
+- Bertoldas, vadinamas Briuhavenu gimė [[objektai/vietos/Austrija]]
+- Bertoldas, vadinamas Briuhavenu puolė [[objektai/vietos/Junigeda]], [[objektai/vietos/Kolainiai]], [[objektai/vietos/Medraba]]
+- Bertoldas, vadinamas Briuhavenu užėmė [[objektai/vietos/Medraba]]
+- Bertoldas, vadinamas Briuhavenu gynė [[objektai/vietos/Ragainė]]
+- Bertoldas, vadinamas Briuhavenu siuntė į [[objektai/vietos/Lietuva]]
+- Bertoldas, vadinamas Briuhavenu kariavo prieš [[objektai/grupes/Lietuviai]]

@@ -52,4 +52,4 @@ Zolotarenkos (apie br 20000 karių) laikė apsiautę Gomelį "bei kitus miestus 
     - t-001
 
 ## Ryšiai
-- I. Zolotarenko apgule [[objektai/vietos/Gomelis]]
+- I. Zolotarenko apgulė [[objektai/vietos/Gomelis]]

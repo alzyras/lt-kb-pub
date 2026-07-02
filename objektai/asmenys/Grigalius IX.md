@@ -96,7 +96,6 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
     - t-002
 
 ## Ryšiai
-- Grigalius IX sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Grigalius IX sudare_sutarti_su [[objektai/grupes/Teutonai]]
-- Grigalius IX paskyre [[objektai/grupes/Teutonai]]
-- Grigalius IX reme [[objektai/grupes/Teutonai]]
+- Grigalius IX sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Teutonai]]
+- Grigalius IX paskyrė [[objektai/grupes/Teutonai]]
+- Grigalius IX rėmė [[objektai/grupes/Teutonai]]

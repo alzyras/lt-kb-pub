@@ -750,18 +750,12 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     - t-021
 
 ## Ryšiai
-- Vladislovas Jogaila buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Vladislovas Jogaila paskyre [[objektai/asmenys/Skirgaila]]
-- Vladislovas Jogaila siunte_i [[objektai/vietos/Lietuva]]
-- Vladislovas Jogaila siunte_i [[objektai/vietos/Konstanca]]
-- Vladislovas Jogaila valde [[objektai/vietos/Lietuva]]
-- Vladislovas Jogaila keliavo_i [[objektai/vietos/Vilnius]]
-- Vladislovas Jogaila keliavo_i [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Skirgaila]] buvo_brolis Vladislovas Jogaila
-- Vladislovas Jogaila buvo_priesas [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Vladislovas Jogaila buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
-- Vladislovas Jogaila pastate [[objektai/vietos/Vilnius]]
-- Vladislovas Jogaila valde_miesta [[objektai/vietos/Vilnius]]
-- Vladislovas Jogaila uzeme [[objektai/vietos/Trakai]]
-- Vladislovas Jogaila uzeme [[objektai/vietos/Vilnius]]
-- Vladislovas Jogaila keliavo_i [[objektai/vietos/Merkinė]]
+- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Broliai: [[objektai/asmenys/Skirgaila]]
+- Priešai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Vladislovas Jogaila valdė [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
+- Vladislovas Jogaila keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Merkinė]], [[objektai/vietos/Vilnius]]
+- Vladislovas Jogaila pastatė [[objektai/vietos/Vilnius]]
+- Vladislovas Jogaila užėmė [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Vladislovas Jogaila siuntė į [[objektai/vietos/Konstanca]], [[objektai/vietos/Lietuva]]
+- Vladislovas Jogaila paskyrė [[objektai/asmenys/Skirgaila]]

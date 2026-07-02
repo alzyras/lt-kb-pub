@@ -181,4 +181,4 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - t-004
 
 ## Ryšiai
-- Maskvos kunigaikštija buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

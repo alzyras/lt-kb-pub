@@ -164,5 +164,5 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] valde_miesta Slanimas
-- [[objektai/grupes/Oginskiai]] gyveno Slanimas
+- Buvo valdoma: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- Gyvenamoji vieta: [[objektai/grupes/Oginskiai]]

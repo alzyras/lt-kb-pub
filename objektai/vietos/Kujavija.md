@@ -316,14 +316,9 @@ amziai:
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Zemislovas]] valde Kujavija
-- [[objektai/grupes/Lietuviai]] puole Kujavija
-- [[objektai/asmenys/Konradas]] valde Kujavija
-- [[objektai/asmenys/Sventopelkas]] puole Kujavija
-- [[objektai/asmenys/Konradas]] buvo_valdovas Kujavija
-- Kujavija priklause [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]
-- [[objektai/vietos/Sedlcai]] priklause Kujavija
-- [[objektai/asmenys/Skomantas]] puole Kujavija
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Kujavija
-- [[objektai/grupes/Lietuviai]] keliavo_i Kujavija
-- [[objektai/asmenys/Zigmantas Liuksemburgietis]] valde Kujavija
+- Turėjo valdovą: [[objektai/asmenys/Konradas]]
+- Buvo valdoma: [[objektai/asmenys/Konradas]], [[objektai/asmenys/Zemislovas]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
+- Puolė Kujaviją: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Skomantas]], [[objektai/asmenys/Sventopelkas]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Turėjo priklausinį: [[objektai/vietos/Sedlcai]]
+- Kujavija priklausė [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]

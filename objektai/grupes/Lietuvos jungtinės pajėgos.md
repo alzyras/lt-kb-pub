@@ -77,4 +77,4 @@ Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaik�
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] priklause Lietuvos jungtinės pajėgos
+- Turėjo priklausinį: [[objektai/grupes/Totoriai]]

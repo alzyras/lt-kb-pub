@@ -66,5 +66,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- 6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas keliavo_i [[objektai/vietos/Vidugiriai]]
-- 6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas keliavo_i [[objektai/vietos/Aukštadvaris]]
+- 6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas keliavo į [[objektai/vietos/Aukštadvaris]], [[objektai/vietos/Vidugiriai]]

@@ -56,4 +56,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Zigmanto Augusto antkapis priklause [[objektai/vietos/Krokuva]]
+- Zigmanto Augusto antkapis priklausė [[objektai/vietos/Krokuva]]

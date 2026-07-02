@@ -63,4 +63,4 @@ periodo_grupes: []
     - t-001
 
 ## Ryšiai
-- Bernard Lown gime [[objektai/vietos/Utena]]
+- Bernard Lown gimė [[objektai/vietos/Utena]]

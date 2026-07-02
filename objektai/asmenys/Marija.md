@@ -98,6 +98,6 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
     - t-001
 
 ## Ryšiai
-- Marija buvo_dukte [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Marija buvo_zmona [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]
-- [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]] vede Marija
+- Vyrai: [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]
+- Sutuoktiniai: [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]
+- Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

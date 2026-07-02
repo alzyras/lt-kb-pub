@@ -70,4 +70,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje Miro mūšis (1792 m. birželio 11 d.)
+- Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]]

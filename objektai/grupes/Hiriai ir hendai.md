@@ -40,5 +40,4 @@ Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno h
     - t-001
 
 ## Ryšiai
-- Hiriai ir hendai gyveno [[objektai/vietos/Raseiniai]]
-- Hiriai ir hendai gyveno [[objektai/vietos/Upytė]]
+- Hiriai ir hendai gyveno [[objektai/vietos/Raseiniai]], [[objektai/vietos/Upytė]]

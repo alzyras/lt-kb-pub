@@ -71,4 +71,4 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis]] priklause Niurnbergas
+- Turėjo priklausinį: [[objektai/daiktai/Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis]]

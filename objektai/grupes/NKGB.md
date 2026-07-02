@@ -157,5 +157,5 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Tigras]] puole NKGB
-- NKGB buvo_sajungininkas_su [[objektai/grupes/NKVD]]
+- Sąjungininkai: [[objektai/grupes/NKVD]]
+- Puolė NKGB: [[objektai/asmenys/Tigras]]

@@ -253,12 +253,9 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Sventopelkas]] buvo_valdovas Pomeranija
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Pomeranija
-- [[objektai/vietos/Vancka]] priklause Pomeranija
-- [[objektai/asmenys/Mstivojus]] buvo_valdovas Pomeranija
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Pomeranija
-- [[objektai/asmenys/Sventopelkas]] valde Pomeranija
-- [[objektai/asmenys/Henrikas iš Lichtenšteino]] surenge_zygi_i Pomeranija
-- [[objektai/asmenys/Mstivojus]] valde_teritorija Pomeranija
-- [[objektai/asmenys/Mstivojus]] uzeme Pomeranija
+- Turėjo valdovą: [[objektai/asmenys/Mstivojus]], [[objektai/asmenys/Sventopelkas]]
+- Buvo valdoma: [[objektai/asmenys/Mstivojus]], [[objektai/asmenys/Sventopelkas]]
+- Puolė Pomeraniją: [[objektai/grupes/Kryžiuočių ordinas]]
+- Užėmė Pomeraniją: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Mstivojus]]
+- Buvo žygio kryptis: [[objektai/asmenys/Henrikas iš Lichtenšteino]]
+- Turėjo priklausinį: [[objektai/vietos/Vancka]]

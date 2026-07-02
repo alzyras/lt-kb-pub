@@ -48,4 +48,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Bazilius (Vasilius) II
+- Rėmė Bazilių (Vasilius) II: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

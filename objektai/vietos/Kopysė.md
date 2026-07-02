@@ -50,4 +50,4 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Radvila]] siunte_i Kopysė
+- Buvo siuntimo vieta: [[objektai/asmenys/Radvila]]

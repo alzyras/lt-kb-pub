@@ -70,4 +70,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Petras Pliuščius valde_miesta [[objektai/vietos/Vilnius]]
+- Petras Pliuščius valdė [[objektai/vietos/Vilnius]]

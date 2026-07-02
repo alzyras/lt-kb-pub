@@ -58,6 +58,4 @@ Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu�
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] sudare_sutarti_su Valachai
-- [[objektai/grupes/Vengrai]] sudare_sutarti_su Valachai
-- [[objektai/grupes/Lietuviai]] sudare_sutarti_su Valachai
+- Sudarė sutartį su: [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vengrai]]

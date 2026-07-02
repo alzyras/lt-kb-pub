@@ -86,4 +86,4 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Stanislovas Kiška]] puole Viazmos žemė
+- Puolė Viazmos žemę: [[objektai/asmenys/Stanislovas Kiška]]

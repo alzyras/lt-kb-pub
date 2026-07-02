@@ -51,4 +51,4 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Dobrogostas]] keliavo_i Perudžija
+- Buvo kelionės vieta: [[objektai/asmenys/Dobrogostas]]

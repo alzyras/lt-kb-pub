@@ -124,4 +124,4 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Bajorai]] keliavo_i Tilžė
+- Buvo kelionės vieta: [[objektai/grupes/Bajorai]]

@@ -52,4 +52,4 @@ Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad 
     - t-001
 
 ## Ryšiai
-- Sūdavija priklause [[objektai/grupes/Lietuviai]]
+- Sūdavija priklausė [[objektai/grupes/Lietuviai]]

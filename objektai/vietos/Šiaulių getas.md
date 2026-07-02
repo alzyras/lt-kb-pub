@@ -50,4 +50,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Žydai]] gyveno Šiaulių getas
+- Gyvenamoji vieta: [[objektai/grupes/Žydai]]

@@ -1281,22 +1281,10 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     - t-044
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzeme Luckas
-- Luckas priklause [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Švitrigaila]] mire Luckas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Luckas
-- [[objektai/grupes/Karaimai]] gyveno Luckas
-- Luckas priklause [[objektai/vietos/Voluinė]]
-- [[objektai/asmenys/Mstislavas Romanovičius]] keliavo_i Luckas
-- Luckas priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_miesta Luckas
-- [[objektai/grupes/Totoriai]] puole Luckas
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] valde Luckas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] keliavo_i Luckas
-- [[objektai/asmenys/Edyga]] puole Luckas
-- Luckas priklause [[objektai/asmenys/Boleslovas Švitrigaila]]
-- [[objektai/asmenys/Zigmantas I]] keliavo_i Luckas
-- [[objektai/asmenys/Zigmantas Liuksemburgietis]] keliavo_i Luckas
-- [[objektai/grupes/Žydai]] gyveno Luckas
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Luckas
-- [[objektai/asmenys/Mangaila iš Ašmenos]] keliavo_i Luckas
+- Buvo valdoma: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Mangaila iš Ašmenos]], [[objektai/asmenys/Mstislavas Romanovičius]], [[objektai/asmenys/Zigmantas I]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- Mirties vieta: [[objektai/asmenys/Švitrigaila]]
+- Puolė Lucką: [[objektai/asmenys/Edyga]], [[objektai/grupes/Totoriai]]
+- Užėmė Lucką: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Gyvenamoji vieta: [[objektai/grupes/Karaimai]], [[objektai/grupes/Žydai]]
+- Luckas priklausė [[objektai/asmenys/Boleslovas Švitrigaila]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Voluinė]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

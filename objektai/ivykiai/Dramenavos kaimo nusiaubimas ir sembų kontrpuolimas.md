@@ -96,4 +96,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Sembai]] puole Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas
+- Puolė Dramenavos kaimo nusiaubimas ir sembų kontrpuolimą: [[objektai/grupes/Sembai]]

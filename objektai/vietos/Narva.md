@@ -129,4 +129,4 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Maskvos kariuomenė]] uzeme Narva
+- Užėmė Narvą: [[objektai/grupes/Maskvos kariuomenė]]

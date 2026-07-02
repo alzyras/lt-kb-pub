@@ -120,7 +120,5 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] kariavo_pries Krivičiai
-- Krivičiai gyveno [[objektai/vietos/Naugardukas]]
-- Krivičiai gyveno [[objektai/vietos/Dauguva]]
-- Krivičiai gyveno [[objektai/vietos/Dniepras]]
+- Kariavo prieš: [[objektai/grupes/Kryžiuočių ordinas]]
+- Krivičiai gyveno [[objektai/vietos/Dauguva]], [[objektai/vietos/Dniepras]], [[objektai/vietos/Naugardukas]]

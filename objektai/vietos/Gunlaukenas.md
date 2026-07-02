@@ -53,4 +53,4 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
     - t-001
 
 ## Ryšiai
-- Gunlaukenas priklause [[objektai/vietos/Prūsija]]
+- Gunlaukenas priklausė [[objektai/vietos/Prūsija]]

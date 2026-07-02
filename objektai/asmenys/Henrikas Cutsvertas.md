@@ -204,9 +204,9 @@ Henrikas Cutsvertas buvo Baigos komtūras, minimas žygiuose prieš Lietuvą. Š
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Jazbutas]] puole Henrikas Cutsvertas
-- [[objektai/asmenys/Jazbutas]] buvo_priesas Henrikas Cutsvertas
-- Henrikas Cutsvertas puole [[objektai/vietos/Gardinas]]
-- Henrikas Cutsvertas keliavo_i [[objektai/vietos/Junigeda]]
-- Henrikas Cutsvertas surenge_zygi_i [[objektai/vietos/Lietuva]]
-- Henrikas Cutsvertas kariavo_pries [[objektai/grupes/Lietuviai]]
+- Priešai: [[objektai/asmenys/Jazbutas]]
+- Puolė Henrikas Cutsvertą: [[objektai/asmenys/Jazbutas]]
+- Henrikas Cutsvertas keliavo į [[objektai/vietos/Junigeda]]
+- Henrikas Cutsvertas puolė [[objektai/vietos/Gardinas]]
+- Henrikas Cutsvertas surengė žygį į [[objektai/vietos/Lietuva]]
+- Henrikas Cutsvertas kariavo prieš [[objektai/grupes/Lietuviai]]

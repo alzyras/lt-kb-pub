@@ -95,4 +95,4 @@ Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. V
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Tadas Kosciuška]] paskyre Mykolas Velhorskis
+- Paskyrė Mykolas Velhorskį: [[objektai/asmenys/Tadas Kosciuška]]

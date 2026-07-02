@@ -129,6 +129,6 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
     - t-003
 
 ## Ryšiai
-- Tirskas puole [[objektai/vietos/Vonsdorfas]]
-- Tirskas uzkariavo [[objektai/vietos/Kapsteta]]
-- Tirskas valde_miesta [[objektai/vietos/Vėluva]]
+- Tirskas valdė [[objektai/vietos/Vėluva]]
+- Tirskas puolė [[objektai/vietos/Vonsdorfas]]
+- Tirskas užkariavo [[objektai/vietos/Kapsteta]]

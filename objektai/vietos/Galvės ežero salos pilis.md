@@ -97,4 +97,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Ghillebert de Lannoy]] keliavo_i Galvės ežero salos pilis (pilis)
+- Buvo kelionės vieta: [[objektai/asmenys/Ghillebert de Lannoy]]

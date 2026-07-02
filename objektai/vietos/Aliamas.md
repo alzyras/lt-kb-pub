@@ -48,4 +48,4 @@ Dusburgietis teigia, kad 421 D.— territorium dictum Algent, Jer.— gebit Alge
     - t-001
 
 ## Ryšiai
-- Aliamas priklause [[objektai/vietos/Pamedė]]
+- Aliamas priklausė [[objektai/vietos/Pamedė]]

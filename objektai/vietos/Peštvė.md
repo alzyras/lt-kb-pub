@@ -111,5 +111,5 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] apgule Peštvė
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Peštvė
+- Puolė Peštvę: [[objektai/grupes/Kryžiuočių ordinas]]
+- Apgulė Peštvę: [[objektai/grupes/Kryžiuočių ordinas]]

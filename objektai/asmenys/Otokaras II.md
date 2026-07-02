@@ -147,7 +147,6 @@ Otokaras II buvo Čekijos karalius, šaltiniuose siejamas su kryžiuočių žygi
   patikimumo_saltinis: ai
 
 ## Ryšiai
-- Otokaras II dalyvavo_musyje [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]
-- Otokaras II dalyvavo_musyje [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
-- Otokaras II keliavo_i [[objektai/vietos/Baiga]]
-- Otokaras II puole [[objektai/vietos/Semba]]
+- Otokaras II keliavo į [[objektai/vietos/Baiga]]
+- Otokaras II puolė [[objektai/vietos/Semba]]
+- Otokaras II dalyvavo mūšyje [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]], [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]

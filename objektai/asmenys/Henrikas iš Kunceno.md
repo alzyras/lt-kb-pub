@@ -96,5 +96,5 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     - t-002
 
 ## Ryšiai
-- Henrikas iš Kunceno mire [[objektai/vietos/Prūsija]]
-- Henrikas iš Kunceno keliavo_i [[objektai/vietos/Prūsija]]
+- Henrikas iš Kunceno keliavo į [[objektai/vietos/Prūsija]]
+- Henrikas iš Kunceno mirė [[objektai/vietos/Prūsija]]

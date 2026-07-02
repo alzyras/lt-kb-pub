@@ -78,6 +78,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)
-- [[objektai/asmenys/Surminas]] dalyvavo_musyje Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)
+- Puolė Vernerio karo laivo užėmimas ir sudeginimą (1313 m.): [[objektai/grupes/Lietuviai]]
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Surminas]]

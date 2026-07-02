@@ -46,4 +46,4 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
     - t-001
 
 ## Ryšiai
-- Kinsgaila valde [[objektai/vietos/Ukmergė]]
+- Kinsgaila valdė [[objektai/vietos/Ukmergė]]

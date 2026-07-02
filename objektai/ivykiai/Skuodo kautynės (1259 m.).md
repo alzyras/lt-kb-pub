@@ -63,4 +63,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Žemaičiai]] dalyvavo_musyje Skuodo kautynės (1259 m.)
+- Turėjo dalyvį: [[objektai/grupes/Žemaičiai]]

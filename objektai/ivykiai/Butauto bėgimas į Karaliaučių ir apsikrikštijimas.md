@@ -68,5 +68,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Butautas]] keliavo_i Butauto bėgimas į Karaliaučių ir apsikrikštijimas
-- [[objektai/asmenys/Survila]] keliavo_i Butauto bėgimas į Karaliaučių ir apsikrikštijimas
+- Buvo kelionės vieta: [[objektai/asmenys/Butautas]], [[objektai/asmenys/Survila]]

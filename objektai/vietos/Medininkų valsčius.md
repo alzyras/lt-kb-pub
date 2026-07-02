@@ -192,4 +192,4 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
     - t-007
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Medininkų valsčius
+- Puolė Medininkų valsčių: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -664,16 +664,9 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     - t-022
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Elbingas
-- [[objektai/grupes/Pagudėnai]] puole Elbingas
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] siunte_i Elbingas
-- [[objektai/asmenys/Hermanas]] siunte_i Elbingas
-- [[objektai/asmenys/Konradas Bremeris]] keliavo_i Elbingas
-- [[objektai/asmenys/Sventopelkas]] puole Elbingas
-- Elbingas priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Pagudėnai]] keliavo_i Elbingas
-- [[objektai/asmenys/Poponas iš Osternos]] siunte_i Elbingas
-- [[objektai/grupes/Sūduviai]] puole Elbingas
-- [[objektai/daiktai/Kryžius]] priklause Elbingas
-- [[objektai/vietos/Elbingo pilis|Elbingo pilis (pilis)]] priklause Elbingas
-- [[objektai/vietos/Pagudė]] priklause Elbingas
+- Buvo kelionės vieta: [[objektai/asmenys/Konradas Bremeris]], [[objektai/grupes/Pagudėnai]]
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Elbingą: [[objektai/grupes/Pagudėnai]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Sventopelkas]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Hermanas]], [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]], [[objektai/asmenys/Poponas iš Osternos]]
+- Turėjo priklausinį: [[objektai/vietos/Elbingo pilis|Elbingo pilis (pilis)]], [[objektai/daiktai/Kryžius]], [[objektai/vietos/Pagudė]]
+- Elbingas priklausė [[objektai/grupes/Kryžiuočių ordinas]]

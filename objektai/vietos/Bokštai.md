@@ -97,5 +97,4 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
     - t-001
 
 ## Ryšiai
-- Bokštai priklause [[objektai/vietos/Vilniaus katedra]]
-- Bokštai priklause [[objektai/vietos/Pskovas]]
+- Bokštai priklausė [[objektai/vietos/Pskovas]], [[objektai/vietos/Vilniaus katedra]]

@@ -70,4 +70,4 @@ Vilniaus miesto amatų cechų visuma.
     - t-001
 
 ## Ryšiai
-- Vilniaus miesto cechai priklause [[objektai/vietos/Vilnius]]
+- Vilniaus miesto cechai priklausė [[objektai/vietos/Vilnius]]

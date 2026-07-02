@@ -93,6 +93,5 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
     - t-002
 
 ## Ryšiai
-- Ulrichas Bajeris surenge_zygi_i [[objektai/vietos/Sūduva]]
-- Ulrichas Bajeris puole [[objektai/vietos/Sūduva]]
-- Ulrichas Bajeris puole [[objektai/grupes/Sūduviai]]
+- Ulrichas Bajeris puolė [[objektai/vietos/Sūduva]], [[objektai/grupes/Sūduviai]]
+- Ulrichas Bajeris surengė žygį į [[objektai/vietos/Sūduva]]

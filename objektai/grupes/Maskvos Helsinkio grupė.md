@@ -70,5 +70,5 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     - t-001
 
 ## Ryšiai
-- Maskvos Helsinkio grupė priklause [[objektai/vietos/Maskva]]
 - Maskvos Helsinkio grupė gyveno [[objektai/vietos/Maskva]]
+- Maskvos Helsinkio grupė priklausė [[objektai/vietos/Maskva]]

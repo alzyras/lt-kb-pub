@@ -110,4 +110,4 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     - t-004
 
 ## Ryšiai
-- Romovės šventykla priklause [[objektai/vietos/Romovė]]
+- Romovės šventykla priklausė [[objektai/vietos/Romovė]]

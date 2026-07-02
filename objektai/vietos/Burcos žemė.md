@@ -78,5 +78,5 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
     - t-002
 
 ## Ryšiai
-- Burcos žemė priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]] gyveno Burcos žemė
+- Gyvenamoji vieta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Burcos žemė priklausė [[objektai/grupes/Kryžiuočių ordinas]]

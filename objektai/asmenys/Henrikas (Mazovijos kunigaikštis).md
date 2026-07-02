@@ -53,4 +53,4 @@ Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henrik�
     - t-001
 
 ## Ryšiai
-- Henrikas (Mazovijos kunigaikštis) vede [[objektai/asmenys/Ringailė]]
+- Sutuoktiniai: [[objektai/asmenys/Ringailė]]

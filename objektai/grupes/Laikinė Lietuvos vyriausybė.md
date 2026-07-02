@@ -43,4 +43,4 @@ Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
     - t-001
 
 ## Ryšiai
-- Laikinė Lietuvos vyriausybė priklause [[objektai/vietos/Lietuva]]
+- Laikinė Lietuvos vyriausybė priklausė [[objektai/vietos/Lietuva]]

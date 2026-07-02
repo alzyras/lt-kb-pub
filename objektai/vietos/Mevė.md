@@ -77,4 +77,4 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Teutonai]] pastate Mevė
+- Buvo pastatyta: [[objektai/grupes/Teutonai]]

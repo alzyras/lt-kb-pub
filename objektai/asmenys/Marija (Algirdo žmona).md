@@ -117,4 +117,4 @@ periodo_grupes:
     - t-002
 
 ## Ryšiai
-- Marija (Algirdo žmona) buvo_zmona [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Vyrai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

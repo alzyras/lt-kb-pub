@@ -78,6 +78,5 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Henrikas iš Izenbergo]] pastate Girdavai
-- Girdavai priklause [[objektai/asmenys/Girdavas]]
-- Girdavai priklause [[objektai/vietos/Barta]]
+- Buvo pastatyta: [[objektai/asmenys/Henrikas iš Izenbergo]]
+- Girdavai priklausė [[objektai/vietos/Barta]], [[objektai/asmenys/Girdavas]]

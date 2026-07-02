@@ -135,5 +135,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Bogdanas Maskevičius]] dalyvavo_musyje Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)
-- [[objektai/asmenys/Teodoras Nemyra]] dalyvavo_musyje Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)
+- Turėjo dalyvį: [[objektai/asmenys/Bogdanas Maskevičius]], [[objektai/asmenys/Teodoras Nemyra]]

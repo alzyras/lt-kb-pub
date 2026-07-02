@@ -53,4 +53,4 @@ Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1
     - t-001
 
 ## Ryšiai
-- Hugonas (Sembos fogtas) surenge_zygi_i [[objektai/vietos/Medininkai]]
+- Hugonas (Sembos fogtas) surengė žygį į [[objektai/vietos/Medininkai]]

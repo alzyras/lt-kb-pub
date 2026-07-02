@@ -51,4 +51,4 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Sivindukas]] buvo_sunus Madykas
+- Sūnūs: [[objektai/asmenys/Sivindukas]]

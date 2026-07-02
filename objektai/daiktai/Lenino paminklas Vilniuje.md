@@ -81,4 +81,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- Lenino paminklas Vilniuje priklause [[objektai/vietos/Vilnius]]
+- Lenino paminklas Vilniuje priklausė [[objektai/vietos/Vilnius]]

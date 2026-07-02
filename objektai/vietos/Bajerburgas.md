@@ -218,12 +218,10 @@ tags:
     - t-006
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Bajerburgas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] mire Bajerburgas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] apgule Bajerburgas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] puole Bajerburgas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] surenge_zygi_i Bajerburgas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] keliavo_i Bajerburgas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Bajerburgas
-- [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis)]] pastate Bajerburgas
-- [[objektai/grupes/Kryžiuočių ordinas]] gyveno Bajerburgas
+- Buvo kelionės vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Mirties vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Buvo pastatyta: [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis)]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Bajerburgą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Apgulė Bajerburgą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Gyvenamoji vieta: [[objektai/grupes/Kryžiuočių ordinas]]

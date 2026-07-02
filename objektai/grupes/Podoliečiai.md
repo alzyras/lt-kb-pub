@@ -41,4 +41,4 @@ O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš Melštino vadovauj
     - t-001
 
 ## Ryšiai
-- Podoliečiai buvo_sajungininkas_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Sąjungininkai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

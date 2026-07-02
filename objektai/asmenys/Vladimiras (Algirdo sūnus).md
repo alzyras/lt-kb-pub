@@ -47,4 +47,4 @@ Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro
     - t-001
 
 ## Ryšiai
-- Vladimiras (Algirdo sūnus) buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

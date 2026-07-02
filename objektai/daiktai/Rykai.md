@@ -102,4 +102,4 @@ Nenurodyta
 Nenurodyta
 
 ## Ryšiai
-- Rykai priklause [[objektai/asmenys/Ona Jogailaitė]]
+- Rykai priklausė [[objektai/asmenys/Ona Jogailaitė]]

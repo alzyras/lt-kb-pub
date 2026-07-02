@@ -62,4 +62,4 @@ Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė
     - t-001
 
 ## Ryšiai
-- Davaina keliavo_i [[objektai/vietos/Lenkija]]
+- Davaina keliavo į [[objektai/vietos/Lenkija]]

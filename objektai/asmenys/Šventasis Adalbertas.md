@@ -43,4 +43,4 @@ Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalb
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Prūsai]] puole Šventasis Adalbertas
+- Puolė Šventasis Adalbertą: [[objektai/grupes/Prūsai]]

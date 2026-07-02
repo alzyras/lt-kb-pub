@@ -51,4 +51,4 @@ Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaiki
     - t-001
 
 ## Ryšiai
-- Julijona Vitebskietė buvo_zmona [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Vyrai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

@@ -53,4 +53,4 @@ Po Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio vidu
     - t-001
 
 ## Ryšiai
-- Biti Girėjus puole [[objektai/vietos/Sluckas]]
+- Biti Girėjus puolė [[objektai/vietos/Sluckas]]

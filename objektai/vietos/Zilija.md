@@ -58,4 +58,4 @@ Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Konradas]] puole Zilija
+- Puolė Ziliją: [[objektai/asmenys/Konradas]]

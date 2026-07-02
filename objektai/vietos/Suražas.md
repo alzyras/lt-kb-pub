@@ -54,5 +54,4 @@ Jonušas puolė Suražą.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] uzeme Suražas
-- [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]] uzeme Suražas
+- Užėmė Suražą: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]

@@ -149,7 +149,5 @@ Politinė grupuotė.
     - t-004
 
 ## Ryšiai
-- Voldemarininkai reme [[objektai/asmenys/A. Voldemaras]]
-- Voldemarininkai buvo_sajungininkas_su [[objektai/grupes/Šaulių sąjunga]]
-- Voldemarininkai buvo_sajungininkas_su [[objektai/grupes/Jaunieji tautininkai]]
-- Voldemarininkai reme [[objektai/asmenys/Augustinas Voldemaras]]
+- Sąjungininkai: [[objektai/grupes/Jaunieji tautininkai]], [[objektai/grupes/Šaulių sąjunga]]
+- Voldemarininkai rėmė [[objektai/asmenys/A. Voldemaras]], [[objektai/asmenys/Augustinas Voldemaras]]

@@ -128,9 +128,5 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Švedijos kariuomenė]] uzeme Viljandis
-- [[objektai/grupes/Maskvėnai]] uzeme Viljandis
-- [[objektai/grupes/Rusai]] uzeme Viljandis
-- Viljandis priklause [[objektai/vietos/Livonija]]
-- [[objektai/asmenys/Jonas Karolis Katkevičius]] uzeme Viljandis
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]] uzeme Viljandis
+- Užėmė Viljandį: [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Švedijos kariuomenė]]
+- Viljandis priklausė [[objektai/vietos/Livonija]]

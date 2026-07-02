@@ -44,5 +44,5 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
     - t-001
 
 ## Ryšiai
-- Ginvilas valde_miesta [[objektai/vietos/Polockas]]
-- Ginvilas buvo_sunus [[objektai/asmenys/Mingaila]]
+- Tėvai: [[objektai/asmenys/Mingaila]]
+- Ginvilas valdė [[objektai/vietos/Polockas]]

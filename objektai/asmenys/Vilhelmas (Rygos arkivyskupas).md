@@ -78,5 +78,5 @@ Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyč
     - t-002
 
 ## Ryšiai
-- Vilhelmas (Rygos arkivyskupas) keliavo_i [[objektai/vietos/Kuoknesė]]
-- Vilhelmas (Rygos arkivyskupas) gyne [[objektai/vietos/Kuoknesė]]
+- Vilhelmas (Rygos arkivyskupas) keliavo į [[objektai/vietos/Kuoknesė]]
+- Vilhelmas (Rygos arkivyskupas) gynė [[objektai/vietos/Kuoknesė]]

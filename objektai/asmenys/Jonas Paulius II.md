@@ -86,5 +86,4 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
     - t-003
 
 ## Ryšiai
-- Jonas Paulius II keliavo_i [[objektai/vietos/Kryžių kalnas]]
-- Jonas Paulius II keliavo_i [[objektai/vietos/Lietuva]]
+- Jonas Paulius II keliavo į [[objektai/vietos/Kryžių kalnas]], [[objektai/vietos/Lietuva]]

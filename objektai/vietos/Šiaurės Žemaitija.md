@@ -55,4 +55,4 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Livonijos ordinas]] puole Šiaurės Žemaitija
+- Puolė Šiaurės Žemaitiją: [[objektai/grupes/Livonijos ordinas]]

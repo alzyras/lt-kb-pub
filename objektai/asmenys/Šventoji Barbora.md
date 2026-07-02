@@ -94,4 +94,4 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
     - t-001
 
 ## Ryšiai
-- Šventoji Barbora keliavo_i [[objektai/vietos/Kulmas]]
+- Šventoji Barbora keliavo į [[objektai/vietos/Kulmas]]

@@ -52,4 +52,4 @@ Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrant
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Konradas]] pastate Noihauzas
+- Buvo pastatyta: [[objektai/asmenys/Konradas]]

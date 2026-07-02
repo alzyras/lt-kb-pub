@@ -59,5 +59,4 @@ Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš 
     - t-001
 
 ## Ryšiai
-- Ninerikas keliavo_i [[objektai/vietos/Kulmenzė]]
-- Ninerikas keliavo_i [[objektai/vietos/Chełmža]]
+- Ninerikas keliavo į [[objektai/vietos/Chełmža]], [[objektai/vietos/Kulmenzė]]

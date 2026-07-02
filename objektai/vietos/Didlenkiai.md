@@ -88,4 +88,4 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     - t-002
 
 ## Ryšiai
-- Didlenkiai priklause [[objektai/vietos/Lenkija]]
+- Didlenkiai priklausė [[objektai/vietos/Lenkija]]

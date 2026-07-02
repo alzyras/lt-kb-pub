@@ -74,4 +74,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Žemaičiai]] dalyvavo_musyje Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas
+- Turėjo dalyvį: [[objektai/grupes/Žemaičiai]]

@@ -107,4 +107,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Karusės mūšis (1270 m. vasario 16 d.)
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]]

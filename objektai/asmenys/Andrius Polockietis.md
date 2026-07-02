@@ -97,4 +97,4 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
     - t-003
 
 ## Ryšiai
-- Andrius Polockietis uzeme [[objektai/vietos/Lukomlis]]
+- Andrius Polockietis užėmė [[objektai/vietos/Lukomlis]]

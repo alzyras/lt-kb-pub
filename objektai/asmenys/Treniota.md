@@ -292,15 +292,11 @@ Treniota buvo XIII a. LDK veikėjas, Mindaugo varžovas ir žemaičių karo su L
     - t-009
 
 ## Ryšiai
-- Treniota uzeme [[objektai/vietos/Birgelava]]
-- Treniota siunte_i [[objektai/vietos/Polockas]]
-- [[objektai/asmenys/Tautvilas]] buvo_priesas Treniota
-- Treniota surenge_zygi_i [[objektai/vietos/Kulmas]]
-- Treniota puole [[objektai/vietos/Mazovija]]
-- [[objektai/asmenys/Pisimantas]] buvo_brolis Treniota
-- [[objektai/grupes/Žemaičiai]] reme Treniota
-- Treniota puole [[objektai/vietos/Červinskas]]
-- Treniota valde [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Naugardukiečiai]] reme Treniota
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] reme Treniota
-- Treniota puole [[objektai/vietos/Livonija]]
+- Broliai: [[objektai/asmenys/Pisimantas]]
+- Priešai: [[objektai/asmenys/Tautvilas]]
+- Rėmė Treniotą: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/grupes/Naugardukiečiai]], [[objektai/grupes/Žemaičiai]]
+- Treniota valdė [[objektai/vietos/Lietuva]]
+- Treniota puolė [[objektai/vietos/Červinskas]], [[objektai/vietos/Livonija]], [[objektai/vietos/Mazovija]]
+- Treniota užėmė [[objektai/vietos/Birgelava]]
+- Treniota siuntė į [[objektai/vietos/Polockas]]
+- Treniota surengė žygį į [[objektai/vietos/Kulmas]]

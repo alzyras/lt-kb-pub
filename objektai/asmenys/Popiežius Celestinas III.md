@@ -60,5 +60,5 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
     - t-001
 
 ## Ryšiai
-- Popiežius Celestinas III pastate [[objektai/daiktai/Namas]]
-- Popiežius Celestinas III paskyre [[objektai/grupes/Teutonai]]
+- Popiežius Celestinas III pastatė [[objektai/daiktai/Namas]]
+- Popiežius Celestinas III paskyrė [[objektai/grupes/Teutonai]]

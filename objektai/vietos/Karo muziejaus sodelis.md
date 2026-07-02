@@ -53,4 +53,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Karo muziejaus sodelis priklause [[objektai/vietos/Kaunas]]
+- Karo muziejaus sodelis priklausė [[objektai/vietos/Kaunas]]

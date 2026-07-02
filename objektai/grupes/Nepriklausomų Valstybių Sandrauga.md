@@ -52,4 +52,4 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Lietuva]] prekiavo_su Nepriklausomų Valstybių Sandrauga
+- Prekiavo su: [[objektai/vietos/Lietuva]]

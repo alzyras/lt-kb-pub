@@ -62,5 +62,5 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
     - t-001
 
 ## Ryšiai
-- Venceslavas (Mazovijos ir Plocko kunigaikštis) sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Venceslavas (Mazovijos ir Plocko kunigaikštis) valde [[objektai/vietos/Mazovija]]
+- Venceslavas (Mazovijos ir Plocko kunigaikštis) valdė [[objektai/vietos/Mazovija]]
+- Venceslavas (Mazovijos ir Plocko kunigaikštis) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]

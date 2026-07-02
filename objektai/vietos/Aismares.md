@@ -102,4 +102,4 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Nogatas]] priklause Aismares
+- Turėjo priklausinį: [[objektai/vietos/Nogatas]]

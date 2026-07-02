@@ -55,4 +55,4 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
     - t-002
 
 ## Ryšiai
-- Albrechtas (Rudolfo sūnus) valde [[objektai/vietos/Austrija]]
+- Albrechtas (Rudolfo sūnus) valdė [[objektai/vietos/Austrija]]

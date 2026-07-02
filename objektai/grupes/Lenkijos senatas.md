@@ -212,5 +212,4 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - t-006
 
 ## Ryšiai
-- Lenkijos senatas siunte_i [[objektai/vietos/Lietuva]]
-- Lenkijos senatas siunte_i [[objektai/vietos/Vilnius]]
+- Lenkijos senatas siuntė į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

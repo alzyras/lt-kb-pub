@@ -67,5 +67,5 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
     - t-001
 
 ## Ryšiai
-- Petras Roizijus gime [[objektai/vietos/Aragonas]]
+- Petras Roizijus gimė [[objektai/vietos/Aragonas]]
 - Petras Roizijus gyveno [[objektai/vietos/Vilnius]]

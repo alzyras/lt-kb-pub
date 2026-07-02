@@ -57,4 +57,4 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
     - t-001
 
 ## Ryšiai
-- Povilas Algimantas buvo_valdovas [[objektai/vietos/Alšėnai]]
+- Povilas Algimantas buvo valdovas [[objektai/vietos/Alšėnai]]

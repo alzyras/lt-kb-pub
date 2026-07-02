@@ -77,4 +77,4 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
     - t-002
 
 ## Ryšiai
-- Frederikas Joachimas Mansfeldas uzeme [[objektai/vietos/Daugavgryva]]
+- Frederikas Joachimas Mansfeldas užėmė [[objektai/vietos/Daugavgryva]]

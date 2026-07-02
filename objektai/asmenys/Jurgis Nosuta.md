@@ -53,8 +53,7 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
     - t-001
 
 ## Ryšiai
-- Jurgis Nosuta uzeme [[objektai/vietos/Palenkė]]
-- Jurgis Nosuta keliavo_i [[objektai/vietos/Mazovija]]
-- [[objektai/asmenys/Žygimantas]] paskyre Jurgis Nosuta
-- Jurgis Nosuta valde_miesta [[objektai/vietos/Drohičinas]]
-- Jurgis Nosuta valde_miesta [[objektai/vietos/Melnikas]]
+- Paskyrė Jurgis Nosutą: [[objektai/asmenys/Žygimantas]]
+- Jurgis Nosuta valdė [[objektai/vietos/Drohičinas]], [[objektai/vietos/Melnikas]]
+- Jurgis Nosuta keliavo į [[objektai/vietos/Mazovija]]
+- Jurgis Nosuta užėmė [[objektai/vietos/Palenkė]]

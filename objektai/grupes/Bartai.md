@@ -515,15 +515,11 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     - t-014
 
 ## Ryšiai
-- Bartai gyveno [[objektai/vietos/Barta]]
-- Bartai gyveno [[objektai/vietos/Bartenšteinas]]
-- Bartai paskyre [[objektai/asmenys/Divanas]]
-- Bartai priklause [[objektai/grupes/Baltai]]
-- Bartai puole [[objektai/vietos/Baiga]]
-- Bartai puole [[objektai/vietos/Senenzė]]
-- Bartai apgule [[objektai/vietos/Senenzė]]
-- Bartai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Bartai kariavo_pries [[objektai/grupes/Auksinė Orda]]
-- Bartai keliavo_i [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Derska]] reme Bartai
-- [[objektai/asmenys/Numa]] reme Bartai
+- Rėmė Bartai: [[objektai/asmenys/Derska]], [[objektai/asmenys/Numa]]
+- Bartai keliavo į [[objektai/vietos/Lietuva]]
+- Bartai puolė [[objektai/vietos/Baiga]], [[objektai/vietos/Senenzė]]
+- Bartai apgulė [[objektai/vietos/Senenzė]]
+- Bartai kariavo prieš [[objektai/grupes/Auksinė Orda]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Bartai gyveno [[objektai/vietos/Barta]], [[objektai/vietos/Bartenšteinas]]
+- Bartai paskyrė [[objektai/asmenys/Divanas]]
+- Bartai priklausė [[objektai/grupes/Baltai]]

@@ -60,4 +60,4 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Pasaulio lietuvių bendruomenė]] buvo_sajungininkas_su Amerikos lietuvių taryba (institucija)
+- Sąjungininkai: [[objektai/grupes/Pasaulio lietuvių bendruomenė]]

@@ -118,5 +118,5 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
     - t-003
 
 ## Ryšiai
-- Ona (Vytauto žmona) mire [[objektai/vietos/Trakai]]
+- Ona (Vytauto žmona) mirė [[objektai/vietos/Trakai]]
 - Ona (Vytauto žmona) gyveno [[objektai/vietos/Trakai]]

@@ -52,6 +52,4 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Estija]] priklause Rytų kraštas (Ostlandas)
-- [[objektai/vietos/Gudija]] priklause Rytų kraštas (Ostlandas)
-- [[objektai/vietos/Lietuva]] priklause Rytų kraštas (Ostlandas)
+- Turėjo priklausinį: [[objektai/vietos/Estija]], [[objektai/vietos/Gudija]], [[objektai/vietos/Lietuva]]

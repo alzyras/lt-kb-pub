@@ -77,4 +77,4 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
     - t-001
 
 ## Ryšiai
-- Algardas Hohenšteino grafas mire [[objektai/vietos/Vilnius]]
+- Algardas Hohenšteino grafas mirė [[objektai/vietos/Vilnius]]

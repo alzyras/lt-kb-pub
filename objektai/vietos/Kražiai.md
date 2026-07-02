@@ -184,4 +184,4 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Kazokai]] puole Kražiai
+- Puolė Kražiai: [[objektai/grupes/Kazokai]]

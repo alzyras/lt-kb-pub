@@ -51,4 +51,4 @@ Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Pograuda
+- Puolė Pograudą: [[objektai/grupes/Kryžiuočių ordinas]]

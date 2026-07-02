@@ -48,4 +48,4 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
     - t-001
 
 ## Ryšiai
-- Albrechtas (Pamedės vyskupas) pastate [[objektai/vietos/Rizenburgas]]
+- Albrechtas (Pamedės vyskupas) pastatė [[objektai/vietos/Rizenburgas]]

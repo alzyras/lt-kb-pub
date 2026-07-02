@@ -1548,37 +1548,16 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
     - t-023
 
 ## Ryšiai
-- [[objektai/vietos/Smolenskas]] priklause Rusija
-- [[objektai/asmenys/Karolis XII]] puole Rusija
-- [[objektai/vietos/Lietuva]] priklause Rusija
-- [[objektai/vietos/Kijevas]] priklause Rusija
-- [[objektai/grupes/Riurikaičių dinastija]] valde Rusija
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] valde Rusija
-- [[objektai/grupes/Mordviai]] gyveno Rusija
-- [[objektai/grupes/Napoleono kariuomenė]] surenge_zygi_i Rusija
-- [[objektai/grupes/Krymo totoriai]] puole Rusija
-- [[objektai/asmenys/Steponas Batoras]] siunte_i Rusija
-- [[objektai/asmenys/Aleksejus Michailovičius]] buvo_valdovas Rusija
-- [[objektai/vietos/Užnemunė]] priklause Rusija
-- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]] keliavo_i Rusija
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] valde_teritorija Rusija
-- [[objektai/asmenys/Riurikas]] keliavo_i Rusija
-- [[objektai/grupes/Lietuviai]] gyveno Rusija
-- [[objektai/grupes/Žydai]] gyveno Rusija
-- [[objektai/asmenys/Petras I Didysis]] valde Rusija
-- [[objektai/asmenys/Kristupas Radvila]] keliavo_i Rusija
-- [[objektai/vietos/Kauno gubernija]] priklause Rusija
-- [[objektai/vietos/Šiaurės Vakarų kraštas]] priklause Rusija
-- [[objektai/asmenys/Kristupas Radvila Perkūnas]] keliavo_i Rusija
-- [[objektai/vietos/Ukraina]] priklause Rusija
-- [[objektai/vietos/Lietuva]] prekiavo_su Rusija
-- [[objektai/asmenys/Radvila]] surenge_zygi_i Rusija
-- [[objektai/grupes/Rusai]] keliavo_i Rusija
-- Rusija prekiavo_su [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Radvilos]] puole Rusija
-- Rusija priklause [[objektai/asmenys/Jadvyga]]
-- [[objektai/grupes/Lietuvių Tautos Taryba|Lietuvių Tautos Taryba (institucija)]] gyveno Rusija
-- [[objektai/asmenys/Brunonas]] mire Rusija
-- [[objektai/asmenys/Kristupas Radvila Perkūnas]] gyne Rusija
-- [[objektai/grupes/Totoriai]] gyveno Rusija
-- [[objektai/asmenys/Borisas Jelcinas]] gyne Rusija
+- Turėjo valdovą: [[objektai/asmenys/Aleksejus Michailovičius]]
+- Buvo valdoma: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Petras I Didysis]], [[objektai/grupes/Riurikaičių dinastija]]
+- Buvo kelionės vieta: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]], [[objektai/asmenys/Kristupas Radvila]], [[objektai/asmenys/Kristupas Radvila Perkūnas]], [[objektai/asmenys/Riurikas]], [[objektai/grupes/Rusai]]
+- Mirties vieta: [[objektai/asmenys/Brunonas]]
+- Puolė Rusiją: [[objektai/asmenys/Karolis XII]], [[objektai/grupes/Krymo totoriai]], [[objektai/grupes/Radvilos]]
+- Gynė Rusiją: [[objektai/asmenys/Borisas Jelcinas]], [[objektai/asmenys/Kristupas Radvila Perkūnas]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Steponas Batoras]]
+- Buvo žygio kryptis: [[objektai/grupes/Napoleono kariuomenė]], [[objektai/asmenys/Radvila]]
+- Prekiavo su: [[objektai/vietos/Lietuva]]
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvių Tautos Taryba|Lietuvių Tautos Taryba (institucija)]], [[objektai/grupes/Mordviai]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Žydai]]
+- Turėjo priklausinį: [[objektai/vietos/Kauno gubernija]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Šiaurės Vakarų kraštas]], [[objektai/vietos/Ukraina]], [[objektai/vietos/Užnemunė]]
+- Rusija prekiavo su [[objektai/grupes/Vokiečiai]]
+- Rusija priklausė [[objektai/asmenys/Jadvyga]]

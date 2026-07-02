@@ -223,5 +223,5 @@ Antanas Mackevičius buvo kunigas ir vienas pirmųjų 1863 m. sukilimo organizat
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Zigmantas Sierakauskas]] paskyre Antanas Mackevičius
-- Antanas Mackevičius keliavo_i [[objektai/vietos/Lietuva]]
+- Paskyrė Antanas Mackevičių: [[objektai/asmenys/Zigmantas Sierakauskas]]
+- Antanas Mackevičius keliavo į [[objektai/vietos/Lietuva]]

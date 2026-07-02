@@ -40,4 +40,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Cipkevičius puole [[objektai/grupes/Lenkai]]
+- Cipkevičius puolė [[objektai/grupes/Lenkai]]

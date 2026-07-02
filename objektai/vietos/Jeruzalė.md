@@ -371,12 +371,8 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Krikščionys]] gyveno Jeruzalė
-- [[objektai/asmenys/Petras Atsiskyrėlis]] keliavo_i Jeruzalė
-- [[objektai/grupes/Vokiečiai]] uzeme Jeruzalė
-- [[objektai/asmenys/Celestinas III]] pastate Jeruzalė
-- [[objektai/grupes/Vokiečiai]] keliavo_i Jeruzalė
-- [[objektai/asmenys/Omaras]] uzeme Jeruzalė
-- [[objektai/asmenys/Simeonas]] gyveno Jeruzalė
-- [[objektai/grupes/Kryžiuočių ordinas]] priklause Jeruzalė
-- [[objektai/grupes/Arabai]] uzeme Jeruzalė
+- Buvo kelionės vieta: [[objektai/asmenys/Petras Atsiskyrėlis]], [[objektai/grupes/Vokiečiai]]
+- Buvo pastatyta: [[objektai/asmenys/Celestinas III]]
+- Užėmė Jeruzalę: [[objektai/grupes/Arabai]], [[objektai/asmenys/Omaras]], [[objektai/grupes/Vokiečiai]]
+- Gyvenamoji vieta: [[objektai/grupes/Krikščionys]], [[objektai/asmenys/Simeonas]]
+- Turėjo priklausinį: [[objektai/grupes/Kryžiuočių ordinas]]

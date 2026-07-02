@@ -43,4 +43,4 @@ Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsireng�
     - t-001
 
 ## Ryšiai
-- Burchardas Harenas surenge_zygi_i [[objektai/vietos/Lietuva]]
+- Burchardas Harenas surengė žygį į [[objektai/vietos/Lietuva]]

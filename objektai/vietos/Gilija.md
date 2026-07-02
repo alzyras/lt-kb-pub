@@ -50,4 +50,4 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     - t-001
 
 ## Ryšiai
-- Gilija priklause [[objektai/vietos/Nemunas]]
+- Gilija priklausė [[objektai/vietos/Nemunas]]

@@ -122,5 +122,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]] siunte_i Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] uzeme Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis
+- Užėmė Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygį: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- Buvo siuntimo vieta: [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]

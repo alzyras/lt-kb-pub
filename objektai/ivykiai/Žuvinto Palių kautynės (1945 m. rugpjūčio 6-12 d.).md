@@ -147,4 +147,4 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/NKVD]] dalyvavo_musyje Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)
+- Turėjo dalyvį: [[objektai/grupes/NKVD]]

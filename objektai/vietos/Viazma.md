@@ -207,11 +207,8 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     - t-007
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Viazma
-- [[objektai/asmenys/Ivanas Vasiljevičius]] valde Viazma
-- [[objektai/asmenys/Stanislovas Kiška]] puole Viazma
-- [[objektai/grupes/Maskvėnai]] puole Viazma
-- [[objektai/grupes/Totoriai]] puole Viazma
-- [[objektai/vietos/Chlepenis]] priklause Viazma
-- Viazma priklause [[objektai/vietos/Smolenskas]]
-- [[objektai/grupes/Maskvėnai]] uzeme Viazma
+- Buvo valdoma: [[objektai/asmenys/Ivanas Vasiljevičius]]
+- Puolė Viazmą: [[objektai/grupes/Maskvėnai]], [[objektai/asmenys/Stanislovas Kiška]], [[objektai/grupes/Totoriai]]
+- Užėmė Viazmą: [[objektai/grupes/Maskvėnai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Turėjo priklausinį: [[objektai/vietos/Chlepenis]]
+- Viazma priklausė [[objektai/vietos/Smolenskas]]

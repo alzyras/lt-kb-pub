@@ -76,4 +76,4 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
     - t-001
 
 ## Ryšiai
-- Ministerių kabinetas reme [[objektai/asmenys/A. Smetona]]
+- Ministerių kabinetas rėmė [[objektai/asmenys/A. Smetona]]

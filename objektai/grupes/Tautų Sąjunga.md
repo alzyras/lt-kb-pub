@@ -120,4 +120,4 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Lietuva]] priklause Tautų Sąjunga
+- Turėjo priklausinį: [[objektai/vietos/Lietuva]]

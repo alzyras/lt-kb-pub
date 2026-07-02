@@ -378,9 +378,7 @@ Ariogala žinių bazėje iškyla kaip Žemaičių žemė, kurios pusę Mindaugas
     - t-012
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] gyveno Ariogala
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] gyveno Ariogala
-- [[objektai/asmenys/Fridrichas iš Vildenbergo]] puole Ariogala
-- [[objektai/asmenys/Liutauras]] pastate Ariogala
-- Ariogala priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Ariogala
+- Buvo pastatyta: [[objektai/asmenys/Liutauras]]
+- Puolė Ariogalą: [[objektai/asmenys/Fridrichas iš Vildenbergo]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Gyvenamoji vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Ariogala priklausė [[objektai/grupes/Kryžiuočių ordinas]]

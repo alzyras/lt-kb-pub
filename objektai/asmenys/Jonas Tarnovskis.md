@@ -93,5 +93,5 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
     - t-003
 
 ## Ryšiai
-- Jonas Tarnovskis keliavo_i [[objektai/vietos/Lietuva]]
-- Jonas Tarnovskis apgule [[objektai/vietos/Chotinas]]
+- Jonas Tarnovskis keliavo į [[objektai/vietos/Lietuva]]
+- Jonas Tarnovskis apgulė [[objektai/vietos/Chotinas]]

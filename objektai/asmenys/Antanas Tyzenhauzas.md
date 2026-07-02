@@ -228,4 +228,4 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis, kurios karališkosiose ekono
     - t-009
 
 ## Ryšiai
-- Antanas Tyzenhauzas (ūkio reformų veikėjas) siunte_i [[objektai/vietos/Anglija]]
+- Antanas Tyzenhauzas (ūkio reformų veikėjas) siuntė į [[objektai/vietos/Anglija]]

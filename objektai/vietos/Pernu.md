@@ -80,5 +80,4 @@ Sofijos palyda per jūrą pasiekė Pernu.
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Sofija]] keliavo_i Pernu
-- [[objektai/asmenys/Sofija (Vytauto duktė)]] keliavo_i Pernu
+- Buvo kelionės vieta: [[objektai/asmenys/Sofija]], [[objektai/asmenys/Sofija (Vytauto duktė)]]

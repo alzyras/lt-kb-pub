@@ -77,4 +77,4 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]] pastate Morungenas
+- Buvo pastatyta: [[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]]

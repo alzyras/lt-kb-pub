@@ -68,4 +68,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Steponas Darius keliavo_i [[objektai/vietos/Lietuva]]
+- Steponas Darius keliavo į [[objektai/vietos/Lietuva]]

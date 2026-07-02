@@ -89,7 +89,6 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
     - t-002
 
 ## Ryšiai
-- Karolis XII puole [[objektai/vietos/Rusija]]
-- [[objektai/asmenys/Augustas II]] sudare_sutarti_su Karolis XII
-- Karolis XII surenge_zygi_i [[objektai/vietos/Saksonija]]
-- Karolis XII puole [[objektai/asmenys/Augustas II]]
+- Sudarė sutartį su: [[objektai/asmenys/Augustas II]]
+- Karolis XII puolė [[objektai/asmenys/Augustas II]], [[objektai/vietos/Rusija]]
+- Karolis XII surengė žygį į [[objektai/vietos/Saksonija]]

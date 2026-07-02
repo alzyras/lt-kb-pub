@@ -48,4 +48,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Upytės pavietas
+- Puolė Upytės pavietą: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -45,4 +45,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Philippe de Mezières reme [[objektai/grupes/Lietuviai]]
+- Philippe de Mezières rėmė [[objektai/grupes/Lietuviai]]

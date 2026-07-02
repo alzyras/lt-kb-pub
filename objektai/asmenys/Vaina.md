@@ -77,4 +77,4 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
     - t-002
 
 ## Ryšiai
-- Vaina puole [[objektai/grupes/Švedai]]
+- Vaina puolė [[objektai/grupes/Švedai]]

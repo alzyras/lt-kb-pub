@@ -257,10 +257,10 @@ tags:
     - t-007
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] gyveno Palanga
-- Palanga priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Birutė]] keliavo_i Palanga
-- [[objektai/vietos/Birutės kalnas]] priklause Palanga
-- [[objektai/asmenys/Birutė]] mire Palanga
-- [[objektai/grupes/Švedai]] puole Palanga
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_miesta Palanga
+- Buvo valdoma: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Birutė]]
+- Mirties vieta: [[objektai/asmenys/Birutė]]
+- Puolė Palangą: [[objektai/grupes/Švedai]]
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]
+- Turėjo priklausinį: [[objektai/vietos/Birutės kalnas]]
+- Palanga priklausė [[objektai/vietos/Lietuva]]

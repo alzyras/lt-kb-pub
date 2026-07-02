@@ -760,6 +760,6 @@ Teodoras Narbutas „Lietuvių tautos istorijoje“ plačiai rėmėsi Bychovco k
     - t-028
 
 ## Ryšiai
-- Teodoras Narbutas gime [[objektai/vietos/Šaurų dvaras]]
-- Teodoras Narbutas siunte_i [[objektai/vietos/Vilnius]]
-- Teodoras Narbutas dalyvavo_musyje [[objektai/ivykiai/Mūšis prie Abo miesto|Mūšis prie Abo miesto (mūšis, XIX a.)]]
+- Teodoras Narbutas gimė [[objektai/vietos/Šaurų dvaras]]
+- Teodoras Narbutas siuntė į [[objektai/vietos/Vilnius]]
+- Teodoras Narbutas dalyvavo mūšyje [[objektai/ivykiai/Mūšis prie Abo miesto|Mūšis prie Abo miesto (mūšis, XIX a.)]]

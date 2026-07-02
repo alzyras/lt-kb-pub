@@ -1516,26 +1516,13 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
     - t-007
 
 ## Ryšiai
-- Livonijos ordinas puole [[objektai/vietos/Šiaurės Žemaitija]]
-- Livonijos ordinas priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- Livonijos ordinas puole [[objektai/vietos/Lietuva]]
-- Livonijos ordinas puole [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Livonijos ordinas puole [[objektai/vietos/Šiaulių žemė]]
-- Livonijos ordinas buvo_sajungininkas_su [[objektai/asmenys/Švitrigaila]]
-- Livonijos ordinas reme [[objektai/asmenys/Švitrigaila]]
-- Livonijos ordinas dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] sudare_sutarti_su Livonijos ordinas
-- Livonijos ordinas reme [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] sudare_sutarti_su Livonijos ordinas
-- Livonijos ordinas keliavo_i [[objektai/vietos/Semba]]
-- Livonijos ordinas puole [[objektai/vietos/Vitebskas]]
-- Livonijos ordinas dalyvavo_musyje [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- Livonijos ordinas priklause [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
-- Livonijos ordinas surenge_zygi_i [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Švitrigaila]] buvo_sajungininkas_su Livonijos ordinas
-- Livonijos ordinas apgule [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Švitrigaila]] sudare_sutarti_su Livonijos ordinas
-- Livonijos ordinas priklause [[objektai/vietos/Lietuva]]
-- Livonijos ordinas puole [[objektai/vietos/Kulių (Jurgaičių) pilys]]
-- Livonijos ordinas reme [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Mykolas]] kariavo_pries Livonijos ordinas
+- Sąjungininkai: [[objektai/asmenys/Švitrigaila]]
+- Kariavo prieš: [[objektai/asmenys/Mykolas]]
+- Sudarė sutartį su: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Livonijos ordinas keliavo į [[objektai/vietos/Semba]]
+- Livonijos ordinas puolė [[objektai/vietos/Kulių (Jurgaičių) pilys]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Šiaulių žemė]], [[objektai/vietos/Šiaurės Žemaitija]], [[objektai/vietos/Vitebskas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Livonijos ordinas apgulė [[objektai/vietos/Vilnius]]
+- Livonijos ordinas surengė žygį į [[objektai/vietos/Lietuva]]
+- Livonijos ordinas dalyvavo mūšyje [[objektai/ivykiai/Durbės mūšis (1260 m.)]], [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- Livonijos ordinas priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+- Livonijos ordinas rėmė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]]

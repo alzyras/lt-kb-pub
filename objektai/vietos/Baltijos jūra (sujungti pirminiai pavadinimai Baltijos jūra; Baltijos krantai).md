@@ -266,5 +266,4 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] uzeme Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)
-- [[objektai/grupes/Slavai]] uzeme Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)
+- Užėmė Baltijos jūrą (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): [[objektai/grupes/Lietuviai]], [[objektai/grupes/Slavai]]

@@ -739,10 +739,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
     - t-012
 
 ## Ryšiai
-- [[objektai/vietos/Lietuva]] priklause SSRS
-- [[objektai/vietos/Suomija]] prekiavo_su SSRS
-- [[objektai/grupes/Lietuviai]] gyveno SSRS
-- [[objektai/grupes/NKVD]] siunte_i SSRS
-- [[objektai/vietos/Estija]] priklause SSRS
-- [[objektai/vietos/Latvija]] priklause SSRS
-- [[objektai/grupes/Sovietų Sąjunga]] priklause SSRS
+- Buvo siuntimo vieta: [[objektai/grupes/NKVD]]
+- Prekiavo su: [[objektai/vietos/Suomija]]
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]
+- Turėjo priklausinį: [[objektai/vietos/Estija]], [[objektai/vietos/Latvija]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Sovietų Sąjunga]]

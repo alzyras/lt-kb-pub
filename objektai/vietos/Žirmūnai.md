@@ -52,4 +52,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Žirmūnai priklause [[objektai/vietos/Vilnius]]
+- Žirmūnai priklausė [[objektai/vietos/Vilnius]]

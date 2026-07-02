@@ -42,4 +42,4 @@ Konstantino dalis buvo Černigovas ir Cartoryskas.
     - t-001
 
 ## Ryšiai
-- Cartoryskas priklause [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- Cartoryskas priklausė [[objektai/asmenys/Konstantinas (Karijotaitis)]]

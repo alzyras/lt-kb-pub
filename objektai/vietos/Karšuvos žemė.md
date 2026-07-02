@@ -87,5 +87,5 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
     - t-003
 
 ## Ryšiai
-- Karšuvos žemė priklause [[objektai/vietos/Karšuva]]
-- [[objektai/asmenys/Burchardas iš Hornhauzeno]] pastate Karšuvos žemė
+- Buvo pastatyta: [[objektai/asmenys/Burchardas iš Hornhauzeno]]
+- Karšuvos žemė priklausė [[objektai/vietos/Karšuva]]

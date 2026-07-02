@@ -47,4 +47,4 @@ Dusburgietis teigia, kad dar apie tą patį: apie aštuonių šimtų lietuvių �
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Kersovas
+- Puolė Kersovą: [[objektai/grupes/Lietuviai]]

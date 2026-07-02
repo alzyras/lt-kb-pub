@@ -71,6 +71,6 @@ Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kur�
     - t-001
 
 ## Ryšiai
-- Jordanas iš Pelplino reme [[objektai/grupes/Kryžiuočių ordinas]]
-- Jordanas iš Pelplino gyne [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Paulius iš Olivos]] buvo_sajungininkas_su Jordanas iš Pelplino
+- Sąjungininkai: [[objektai/asmenys/Paulius iš Olivos]]
+- Jordanas iš Pelplino gynė [[objektai/grupes/Teutonai]]
+- Jordanas iš Pelplino rėmė [[objektai/grupes/Kryžiuočių ordinas]]

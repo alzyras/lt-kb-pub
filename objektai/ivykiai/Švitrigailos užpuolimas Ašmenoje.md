@@ -189,4 +189,4 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] dalyvavo_musyje Švitrigailos užpuolimas Ašmenoje
+- Turėjo dalyvį: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]

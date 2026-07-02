@@ -272,5 +272,5 @@ Aukso orda Lietuvos istorijoje minima kaip jėga, dariusi įtaką rusų kunigaik
     - t-002
 
 ## Ryšiai
-- Aukso orda puole [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Kijevas]] priklause Aukso orda
+- Turėjo priklausinį: [[objektai/vietos/Kijevas]]
+- Aukso orda puolė [[objektai/vietos/Lietuva]]

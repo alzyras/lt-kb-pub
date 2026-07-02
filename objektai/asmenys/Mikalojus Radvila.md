@@ -405,12 +405,9 @@ Mikalojus Radvila šaltiniuose minimas kaip Vilniaus vaivada, LDK kancleris ir L
     - t-010
 
 ## Ryšiai
-- [[objektai/daiktai/Malūnas]] priklause Mikalojus Radvila
-- Mikalojus Radvila buvo_valdovas [[objektai/vietos/Nesvyžius]]
-- Mikalojus Radvila buvo_valdovas [[objektai/vietos/Olyka]]
-- Mikalojus Radvila keliavo_i [[objektai/vietos/Skitija]]
-- [[objektai/daiktai/Namas]] priklause Mikalojus Radvila
-- Mikalojus Radvila dalyvavo_musyje [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]
-- Mikalojus Radvila buvo_priesas [[objektai/asmenys/Kiška]]
-- Mikalojus Radvila keliavo_i [[objektai/vietos/Viena]]
-- Mikalojus Radvila reme [[objektai/asmenys/Martynas iš Golino]]
+- Priešai: [[objektai/asmenys/Kiška]]
+- Turėjo priklausinį: [[objektai/daiktai/Malūnas]], [[objektai/daiktai/Namas]]
+- Mikalojus Radvila buvo valdovas [[objektai/vietos/Nesvyžius]], [[objektai/vietos/Olyka]]
+- Mikalojus Radvila keliavo į [[objektai/vietos/Skitija]], [[objektai/vietos/Viena]]
+- Mikalojus Radvila dalyvavo mūšyje [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]
+- Mikalojus Radvila rėmė [[objektai/asmenys/Martynas iš Golino]]

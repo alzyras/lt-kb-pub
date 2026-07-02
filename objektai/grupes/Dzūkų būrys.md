@@ -46,4 +46,4 @@ Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai
     - t-001
 
 ## Ryšiai
-- Dzūkų būrys kariavo_pries [[objektai/grupes/NKVD]]
+- Dzūkų būrys kariavo prieš [[objektai/grupes/NKVD]]

@@ -122,6 +122,4 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Štarkenbergas
-- [[objektai/grupes/Teutonai]] pastate Štarkenbergas
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] pastate Štarkenbergas
+- Buvo pastatyta: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Teutonai]]

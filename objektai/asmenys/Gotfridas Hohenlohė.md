@@ -116,5 +116,5 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
     - t-002
 
 ## Ryšiai
-- Gotfridas Hohenlohė keliavo_i [[objektai/vietos/Prūsija]]
-- Gotfridas Hohenlohė siunte_i [[objektai/vietos/Livonija]]
+- Gotfridas Hohenlohė keliavo į [[objektai/vietos/Prūsija]]
+- Gotfridas Hohenlohė siuntė į [[objektai/vietos/Livonija]]

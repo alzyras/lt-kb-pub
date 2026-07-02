@@ -81,4 +81,4 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
     - t-001
 
 ## Ryšiai
-- Muka puole [[objektai/grupes/Lietuviai]]
+- Muka puolė [[objektai/grupes/Lietuviai]]

@@ -108,6 +108,6 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]] uzeme Belskas
-- Belskas priklause [[objektai/vietos/Trakai]]
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] valde_miesta Belskas
+- Buvo valdoma: [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- Užėmė Belską: [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]]
+- Belskas priklausė [[objektai/vietos/Trakai]]

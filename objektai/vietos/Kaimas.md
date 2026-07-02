@@ -461,11 +461,8 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Martynas iš Golino]] puole Kaimas
-- [[objektai/asmenys/Martynas iš Golino]] uzeme Kaimas
-- [[objektai/asmenys/Simonas Grunau]] keliavo_i Kaimas
-- [[objektai/grupes/Lietuviai]] gyveno Kaimas
-- [[objektai/grupes/Lietuviai]] puole Kaimas
-- [[objektai/grupes/Gardino pulkas]] gyveno Kaimas
-- Kaimas priklause [[objektai/vietos/Loza]]
-- [[objektai/grupes/Žydai]] gyveno Kaimas
+- Buvo kelionės vieta: [[objektai/asmenys/Simonas Grunau]]
+- Puolė Kaimą: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Martynas iš Golino]]
+- Užėmė Kaimą: [[objektai/asmenys/Martynas iš Golino]]
+- Gyvenamoji vieta: [[objektai/grupes/Gardino pulkas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Žydai]]
+- Kaimas priklausė [[objektai/vietos/Loza]]

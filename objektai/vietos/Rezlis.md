@@ -90,5 +90,4 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Rezlis
-- [[objektai/grupes/Vokiečiai]] pastate Rezlis
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vokiečiai]]

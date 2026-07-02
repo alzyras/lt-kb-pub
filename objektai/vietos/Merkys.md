@@ -184,5 +184,4 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Bona]] gyveno Merkys
-- [[objektai/asmenys/Žygimantas Senasis]] gyveno Merkys
+- Gyvenamoji vieta: [[objektai/asmenys/Bona]], [[objektai/asmenys/Žygimantas Senasis]]

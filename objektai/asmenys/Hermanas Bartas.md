@@ -58,4 +58,4 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
     - t-001
 
 ## Ryšiai
-- Hermanas Bartas buvo_palaidotas [[objektai/vietos/Akonas]]
+- Hermanas Bartas buvo palaidotas [[objektai/vietos/Akonas]]

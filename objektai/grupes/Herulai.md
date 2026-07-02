@@ -383,8 +383,8 @@ Herulai žinių bazėje pristatomi per Lietuvos kilmės, migracijų ir istoriogr
     - t-010
 
 ## Ryšiai
-- [[objektai/asmenys/Odoakras]] buvo_valdovas Herulai
-- [[objektai/grupes/Gotai]] buvo_priesas Herulai
-- [[objektai/vietos/Retra]] priklause Herulai
-- Herulai buvo_sajungininkas_su [[objektai/grupes/Romėnai]]
+- Priešai: [[objektai/grupes/Gotai]]
+- Sąjungininkai: [[objektai/grupes/Romėnai]]
+- Turėjo valdovą: [[objektai/asmenys/Odoakras]]
+- Turėjo priklausinį: [[objektai/vietos/Retra]]
 - Herulai gyveno [[objektai/vietos/Isteris]]

@@ -349,7 +349,5 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Mikalojus Radvila Rudasis]] reme Vilniaus pirkliai
-- [[objektai/asmenys/Radvila]] reme Vilniaus pirkliai
-- [[objektai/asmenys/Steponas Batoras]] reme Vilniaus pirkliai
-- Vilniaus pirkliai buvo_priesas [[objektai/asmenys/Stanislovas Sabina]]
+- Priešai: [[objektai/asmenys/Stanislovas Sabina]]
+- Rėmė Vilniaus pirkliai: [[objektai/asmenys/Mikalojus Radvila Rudasis]], [[objektai/asmenys/Radvila]], [[objektai/asmenys/Steponas Batoras]]

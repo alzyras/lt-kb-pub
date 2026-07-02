@@ -75,5 +75,5 @@ Dusburgietis teigia, kad šalčininkai (Salsenicka, Salsenîken) Šaltuona, u.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Švitrigaila]] keliavo_i Šalčininkai
-- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Šalčininkai
+- Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]
+- Buvo žygio kryptis: [[objektai/grupes/Kryžiuočių ordinas]]

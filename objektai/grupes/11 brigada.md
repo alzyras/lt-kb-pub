@@ -93,6 +93,6 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Marijampolės batalionas]] priklause 11 brigada
-- 11 brigada valde_teritorija [[objektai/vietos/Lietuva]]
-- 11 brigada surenge_zygi_i [[objektai/vietos/Daugpilis]]
+- Turėjo priklausinį: [[objektai/grupes/Marijampolės batalionas]]
+- 11 brigada valdė [[objektai/vietos/Lietuva]]
+- 11 brigada surengė žygį į [[objektai/vietos/Daugpilis]]

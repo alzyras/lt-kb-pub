@@ -64,4 +64,4 @@ Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais p
     - t-001
 
 ## Ryšiai
-- Fridrichas, vadinamas Hole puole [[objektai/vietos/Kirsnava]]
+- Fridrichas, vadinamas Hole puolė [[objektai/vietos/Kirsnava]]

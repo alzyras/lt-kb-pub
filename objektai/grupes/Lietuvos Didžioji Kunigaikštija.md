@@ -450,6 +450,5 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     - t-012
 
 ## Ryšiai
-- Lietuvos Didžioji Kunigaikštija valde_teritorija [[objektai/vietos/Baltoji Rusia]]
-- Lietuvos Didžioji Kunigaikštija valde_miesta [[objektai/vietos/Vitebskas]]
-- [[objektai/grupes/Kryžiuočių ordinas]] buvo_priesas Lietuvos Didžioji Kunigaikštija
+- Priešai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Lietuvos Didžioji Kunigaikštija valdė [[objektai/vietos/Baltoji Rusia]], [[objektai/vietos/Vitebskas]]

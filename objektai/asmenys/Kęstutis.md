@@ -1669,75 +1669,31 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     - t-038
 
 ## Ryšiai
-- [[objektai/asmenys/Narimantas Gediminaitis]] buvo_brolis Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/asmenys/Patirgas]] buvo_sunus Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/asmenys/Tautvila]] buvo_sunus Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/asmenys/Tautvilas]] buvo_sunus Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_miesta [[objektai/vietos/Trakai]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) uzeme [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_sunus Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/asmenys/Birutė]] buvo_zmona Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puole [[objektai/vietos/Vilniaus pilis]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puole [[objektai/vietos/Vilnius]]
+- Žmonos: [[objektai/asmenys/Birutė]]
+- Sūnūs: [[objektai/asmenys/Patirgas]], [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]], [[objektai/asmenys/Tautvila]], [[objektai/asmenys/Tautvilas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]]
+- Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Dukterys: [[objektai/asmenys/Danuta]], [[objektai/asmenys/Danutė]]
+- Broliai: [[objektai/asmenys/Narimantas Gediminaitis]], [[objektai/asmenys/Žygimantas]]
+- Priešai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Vladislovas Jogaila]]
+- Sąjungininkai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Patirgas]], [[objektai/asmenys/Svirdeika]]
+- Puolė Kęstutį (vakarų pasienio valdovas, XIV–XV a.): [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Verneris fon Vindekenas]]
+- Kariavo prieš: [[objektai/asmenys/Dimitras Kaributas]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Paskyrė Kęstutį (vakarų pasienio valdovas, XIV–XV a.): [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Rėmė Kęstutį (vakarų pasienio valdovas, XIV–XV a.): [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/grupes/Bajorai]], [[objektai/grupes/Žemaičiai]]
+- Turėjo priklausinį: [[objektai/vietos/Kęstučio dvaras]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė [[objektai/vietos/Brasta]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Gardino žemė]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Trakai]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į [[objektai/vietos/Gardinas]], [[objektai/vietos/Jurbarkas]], [[objektai/vietos/Krėva]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Žemaičių žemė]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė [[objektai/vietos/Krėva]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo palaidotas [[objektai/daiktai/Laužas]], [[objektai/vietos/Vilnius]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastatė [[objektai/vietos/Kaunas]], [[objektai/vietos/Naujasis Kaunas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė [[objektai/vietos/Sandomiras]], [[objektai/vietos/Vėluva]], [[objektai/vietos/Vilniaus pilis]], [[objektai/vietos/Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Želva]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) apgulė [[objektai/vietos/Jurbarkas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) užėmė [[objektai/vietos/Vilnius]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gynė [[objektai/vietos/Nevėžio žiotys]], [[objektai/vietos/Trakai]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) siuntė į [[objektai/vietos/Vilnius]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surengė žygį į [[objektai/vietos/Maskva]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Nadruva]], [[objektai/vietos/Semba]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vokiečiai]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) dalyvavo mūšyje [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyveno [[objektai/vietos/Trakai]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde [[objektai/vietos/Palenkė]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde [[objektai/vietos/Trakai]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) apgule [[objektai/vietos/Jurbarkas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_palaidotas [[objektai/vietos/Vilnius]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puole [[objektai/vietos/Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Gardinas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Vilnius]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mire [[objektai/vietos/Krėva]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastate [[objektai/vietos/Naujasis Kaunas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Nadruva]]
-- [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]] buvo_sunus Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] kariavo_pries Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Trakai]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Gardino žemė]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_sunus [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Palenkė]]
-- [[objektai/asmenys/Danutė]] buvo_dukte Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Krėva]]
-- [[objektai/asmenys/Verneris fon Vindekenas]] puole Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/grupes/Žemaičiai]] reme Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/asmenys/Žygimantas]] buvo_sunus Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/asmenys/Kaributas]] buvo_priesas Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Maskva]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Mazovija]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Semba]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Danuta]] buvo_dukte Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_palaidotas [[objektai/daiktai/Laužas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyne [[objektai/vietos/Trakai]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Brasta]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Gardinas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Trakai]]
-- [[objektai/vietos/Kęstučio dvaras]] priklause Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/asmenys/Vladislovas Jogaila]] buvo_priesas Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/grupes/Kryžiuočių ordinas]] kariavo_pries Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde [[objektai/vietos/Gardinas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_sajungininkas_su Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puole [[objektai/vietos/Sandomiras]]
-- [[objektai/asmenys/Dimitras Kaributas]] kariavo_pries Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) dalyvavo_musyje [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) reme [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Andrius Algirdaitis]] reme Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/grupes/Bajorai]] reme Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Jurbarkas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Žemaičių žemė]]
-- [[objektai/asmenys/Svirdeika]] buvo_sajungininkas_su Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/asmenys/Patirgas]] buvo_sajungininkas_su Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] buvo_priesas Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastate [[objektai/vietos/Kaunas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_sajungininkas_su [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Vokiečiai]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_sajungininkas_su [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyne [[objektai/vietos/Nevėžio žiotys]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puole [[objektai/vietos/Vėluva]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Žygimantas]] buvo_brolis Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] paskyre Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puole [[objektai/vietos/Želva]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) rėmė [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

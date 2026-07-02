@@ -65,4 +65,4 @@ J. Dlugošo pasakojime Sandomiro kraštas niokojamas iki Šventojo Kryžiaus vie
     - t-003
 
 ## Ryšiai
-- Šventasis Kryžius priklause [[objektai/vietos/Lenkija]]
+- Šventasis Kryžius priklausė [[objektai/vietos/Lenkija]]

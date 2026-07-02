@@ -433,40 +433,17 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Kulmas]] priklause Teutonai
-- [[objektai/vietos/Lubava]] priklause Teutonai
-- [[objektai/asmenys/Sventopelkas]] kariavo_pries Teutonai
-- [[objektai/grupes/Lietuviai]] sudare_sutarti_su Teutonai
-- Teutonai pastate [[objektai/vietos/Mevė]]
-- [[objektai/asmenys/Jordanas iš Pelplino]] gyne Teutonai
-- [[objektai/vietos/Lubavos žemė]] priklause Teutonai
-- [[objektai/asmenys/Paulius iš Olivos]] gyne Teutonai
-- Teutonai pastate [[objektai/daiktai/Kuoras aukštai ąžuole]]
-- Teutonai puole [[objektai/vietos/Dramenava]]
-- Teutonai uzeme [[objektai/vietos/Partigala]]
-- Teutonai uzkariavo [[objektai/grupes/Prūsai]]
-- [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]] reme Teutonai
-- [[objektai/grupes/Lietuvos luomai]] gyne Teutonai
-- Teutonai keliavo_i [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Diunamiundė]] priklause Teutonai
-- [[objektai/asmenys/Grigalius IX]] sudare_sutarti_su Teutonai
-- [[objektai/vietos/Vancka]] priklause Teutonai
+- Priešai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Gynė Teutonai: [[objektai/asmenys/Jordanas iš Pelplino]], [[objektai/grupes/Lietuvos luomai]], [[objektai/asmenys/Paulius iš Olivos]]
+- Kariavo prieš: [[objektai/grupes/Notangai]], [[objektai/asmenys/Sventopelkas]]
+- Sudarė sutartį su: [[objektai/asmenys/Grigalius IX]], [[objektai/grupes/Lietuviai]]
+- Paskyrė Teutonai: [[objektai/asmenys/Grigalius IX]], [[objektai/asmenys/Popiežius Celestinas III]]
+- Rėmė Teutonai: [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]], [[objektai/asmenys/Grigalius IX]], [[objektai/asmenys/Jėzus Kristus]], [[objektai/asmenys/Konradas iš Foichtvangeno]]
+- Turėjo priklausinį: [[objektai/vietos/Diunamiundė]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Lubava]], [[objektai/vietos/Lubavos žemė]], [[objektai/daiktai/Namas]], [[objektai/grupes/Notangai]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Vancka]], [[objektai/grupes/Varmiai]]
+- Teutonai keliavo į [[objektai/vietos/Prūsija]]
+- Teutonai pastatė [[objektai/daiktai/Kuoras aukštai ąžuole]], [[objektai/vietos/Malburgas]], [[objektai/vietos/Mevė]], [[objektai/vietos/Poterbergas]], [[objektai/vietos/Štarkenbergas]], [[objektai/vietos/Torunė]]
+- Teutonai puolė [[objektai/vietos/Dramenava]], [[objektai/vietos/Treiderės upė]]
+- Teutonai užėmė [[objektai/vietos/Diunamiundė]], [[objektai/vietos/Partigala]]
+- Teutonai gynė [[objektai/vietos/Lenkija]]
 - Teutonai gyveno [[objektai/vietos/Livonija]]
-- [[objektai/asmenys/Konradas iš Foichtvangeno]] reme Teutonai
-- [[objektai/daiktai/Namas]] priklause Teutonai
-- [[objektai/asmenys/Popiežius Celestinas III]] paskyre Teutonai
-- Teutonai pastate [[objektai/vietos/Štarkenbergas]]
-- [[objektai/asmenys/Grigalius IX]] paskyre Teutonai
-- [[objektai/vietos/Prūsija]] priklause Teutonai
-- Teutonai pastate [[objektai/vietos/Malburgas]]
-- Teutonai pastate [[objektai/vietos/Poterbergas]]
-- Teutonai pastate [[objektai/vietos/Torunė]]
-- Teutonai uzeme [[objektai/vietos/Diunamiundė]]
-- [[objektai/asmenys/Grigalius IX]] reme Teutonai
-- [[objektai/asmenys/Jėzus Kristus]] reme Teutonai
-- [[objektai/grupes/Notangai]] kariavo_pries Teutonai
-- Teutonai gyne [[objektai/vietos/Lenkija]]
-- Teutonai buvo_priesas [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- [[objektai/grupes/Notangai]] priklause Teutonai
-- [[objektai/grupes/Varmiai]] priklause Teutonai
-- Teutonai puole [[objektai/vietos/Treiderės upė]]
+- Teutonai užkariavo [[objektai/grupes/Prūsai]]

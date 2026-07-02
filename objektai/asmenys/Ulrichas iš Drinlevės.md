@@ -58,4 +58,4 @@ Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulric
     - t-001
 
 ## Ryšiai
-- Ulrichas iš Drinlevės kariavo_pries [[objektai/grupes/Lietuviai]]
+- Ulrichas iš Drinlevės kariavo prieš [[objektai/grupes/Lietuviai]]

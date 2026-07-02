@@ -43,4 +43,4 @@ Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo l
     - t-001
 
 ## Ryšiai
-- Andrius fon Vestfalenas kariavo_pries [[objektai/grupes/Lietuviai]]
+- Andrius fon Vestfalenas kariavo prieš [[objektai/grupes/Lietuviai]]

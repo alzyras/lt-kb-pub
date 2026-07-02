@@ -104,6 +104,6 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Veližas
-- [[objektai/asmenys/Kristupas Radvila Perkūnas]] keliavo_i Veližas
-- [[objektai/asmenys/Kristupas Radvila]] surenge_zygi_i Veližas
+- Buvo kelionės vieta: [[objektai/asmenys/Kristupas Radvila Perkūnas]]
+- Užėmė Veližą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Kristupas Radvila]]

@@ -44,4 +44,4 @@ Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgub
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Baltvyžių girios auksinė moneta su riteriu ir lokiu]] priklause Baltvyžių girios
+- Turėjo priklausinį: [[objektai/daiktai/Baltvyžių girios auksinė moneta su riteriu ir lokiu]]

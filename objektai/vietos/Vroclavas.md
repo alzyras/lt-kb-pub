@@ -221,6 +221,5 @@ amziai:
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Vroclavas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Vroclavas
-- Vroclavas prekiavo_su [[objektai/vietos/Vilnius]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Vroclavas prekiavo su [[objektai/vietos/Vilnius]]

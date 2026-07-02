@@ -369,5 +369,4 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] uzeme Alytus
-- [[objektai/grupes/Vokiečiai]] uzeme Alytus
+- Užėmė Alytų: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vokiečiai]]

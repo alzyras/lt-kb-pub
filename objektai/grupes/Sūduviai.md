@@ -840,36 +840,14 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
     - t-012
 
 ## Ryšiai
-- Sūduviai apgule [[objektai/vietos/Bartenšteinas]]
-- Sūduviai puole [[objektai/vietos/Semba]]
-- Sūduviai apgule [[objektai/vietos/Vėluva]]
-- [[objektai/asmenys/Martynas iš Golino]] puole Sūduviai
-- Sūduviai puole [[objektai/vietos/Kulmas]]
-- Sūduviai apgule [[objektai/vietos/Bysleida]]
-- Sūduviai puole [[objektai/vietos/Lubava]]
-- Sūduviai puole [[objektai/vietos/Notanga]]
-- Sūduviai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Sūduviai puole [[objektai/vietos/Galinda]]
-- Sūduviai puole [[objektai/vietos/Vartenbergas]]
-- Sūduviai surenge_zygi_i [[objektai/vietos/Kulmas]]
-- Sūduviai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
-- Sūduviai pastate [[objektai/vietos/Vėluva]]
-- Sūduviai puole [[objektai/vietos/Kulmo žemė]]
-- Sūduviai puole [[objektai/vietos/Vėluva]]
-- [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]] kariavo_pries Sūduviai
-- [[objektai/asmenys/Ulrichas Bajeris]] puole Sūduviai
-- [[objektai/vietos/Suvalkai]] priklause Sūduviai
-- [[objektai/grupes/Pagudėnai]] buvo_sajungininkas_su Sūduviai
-- Sūduviai buvo_sajungininkas_su [[objektai/grupes/Rusai]]
+- Sąjungininkai: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Pagudėnai]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Sventopelkas]]
+- Puolė Sūduviai: [[objektai/asmenys/Martynas iš Golino]], [[objektai/asmenys/Ulrichas Bajeris]]
+- Kariavo prieš: [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]]
+- Turėjo priklausinį: [[objektai/vietos/Suvalkai]]
+- Sūduviai keliavo į [[objektai/vietos/Birgelava]], [[objektai/vietos/Lietuva]]
+- Sūduviai pastatė [[objektai/vietos/Vėluva]]
+- Sūduviai puolė [[objektai/vietos/Bartenšteinas]], [[objektai/vietos/Elbingas]], [[objektai/vietos/Galinda]], [[objektai/vietos/Kristburgas]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Kulmo žemė]], [[objektai/vietos/Lubava]], [[objektai/vietos/Notanga]], [[objektai/vietos/Pilaitė]], [[objektai/vietos/Semba]], [[objektai/vietos/Torunė]], [[objektai/vietos/Vartenbergas]], [[objektai/vietos/Vėluva]]
+- Sūduviai apgulė [[objektai/vietos/Bartenšteinas]], [[objektai/vietos/Bysleida]], [[objektai/vietos/Vėluva]]
+- Sūduviai surengė žygį į [[objektai/vietos/Kulmas]], [[objektai/vietos/Lenkija]]
+- Sūduviai kariavo prieš [[objektai/grupes/Auksinė Orda]], [[objektai/grupes/Kryžiuočių ordinas]]
 - Sūduviai gyveno [[objektai/vietos/Lietuva]]
-- Sūduviai puole [[objektai/vietos/Bartenšteinas]]
-- Sūduviai surenge_zygi_i [[objektai/vietos/Lenkija]]
-- Sūduviai puole [[objektai/vietos/Pilaitė]]
-- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Sūduviai
-- Sūduviai kariavo_pries [[objektai/grupes/Auksinė Orda]]
-- Sūduviai keliavo_i [[objektai/vietos/Lietuva]]
-- Sūduviai puole [[objektai/vietos/Elbingas]]
-- Sūduviai puole [[objektai/vietos/Torunė]]
-- [[objektai/asmenys/Sventopelkas]] buvo_sajungininkas_su Sūduviai
-- Sūduviai keliavo_i [[objektai/vietos/Birgelava]]
-- Sūduviai puole [[objektai/vietos/Kristburgas]]

@@ -186,4 +186,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Šventasis Kazimieras]] gyveno Medininkų pilis (pilis)
+- Gyvenamoji vieta: [[objektai/asmenys/Šventasis Kazimieras]]

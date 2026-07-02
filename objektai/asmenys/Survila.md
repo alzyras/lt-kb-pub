@@ -113,6 +113,5 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     - t-001
 
 ## Ryšiai
-- Survila buvo_sajungininkas_su [[objektai/asmenys/Butautas]]
-- [[objektai/asmenys/Butautas]] buvo_sajungininkas_su Survila
-- Survila keliavo_i [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]
+- Sąjungininkai: [[objektai/asmenys/Butautas]]
+- Survila keliavo į [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]

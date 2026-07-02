@@ -75,4 +75,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Prūsijos žemės kronikos nuorašai priklause [[objektai/vietos/Berlynas]]
+- Prūsijos žemės kronikos nuorašai priklausė [[objektai/vietos/Berlynas]]

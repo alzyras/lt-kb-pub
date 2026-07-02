@@ -53,6 +53,5 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
     - t-001
 
 ## Ryšiai
-- Markvardas iš Revelingės puole [[objektai/grupes/Lietuviai]]
-- Markvardas iš Revelingės buvo_sajungininkas_su [[objektai/asmenys/Liudvikas iš Libencelės]]
-- [[objektai/asmenys/Liudvikas iš Libencelės]] buvo_sajungininkas_su Markvardas iš Revelingės
+- Sąjungininkai: [[objektai/asmenys/Liudvikas iš Libencelės]]
+- Markvardas iš Revelingės puolė [[objektai/grupes/Lietuviai]]

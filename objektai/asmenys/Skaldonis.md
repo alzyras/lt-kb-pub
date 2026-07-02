@@ -61,4 +61,4 @@ Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas n
     - t-001
 
 ## Ryšiai
-- Skaldonis buvo_brolis [[objektai/asmenys/Surminas]]
+- Broliai: [[objektai/asmenys/Surminas]]

@@ -82,5 +82,4 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Pagudėnai]] apgule Traupeinas
-- [[objektai/asmenys/Kaltis]] apgule Traupeinas
+- Apgulė Traupeiną: [[objektai/asmenys/Kaltis]], [[objektai/grupes/Pagudėnai]]

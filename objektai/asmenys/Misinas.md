@@ -82,4 +82,4 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     - t-002
 
 ## Ryšiai
-- Misinas surenge_zygi_i [[objektai/vietos/Bartenšteinas]]
+- Misinas surengė žygį į [[objektai/vietos/Bartenšteinas]]

@@ -56,4 +56,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Prūsų didžioji vėliava priklause [[objektai/grupes/Prūsai]]
+- Prūsų didžioji vėliava priklausė [[objektai/grupes/Prūsai]]

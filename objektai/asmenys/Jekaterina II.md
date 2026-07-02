@@ -168,6 +168,5 @@ Jekaterina II buvo Rusijos imperatorė, siekusi plėsti įtaką Lietuvos ir Lenk
     - t-001
 
 ## Ryšiai
-- Jekaterina II reme [[objektai/grupes/Čartoriskiai]]
-- Jekaterina II reme [[objektai/grupes/Bajorai]]
-- Jekaterina II buvo_priesas [[objektai/grupes/Čartoriskiai]]
+- Priešai: [[objektai/grupes/Čartoriskiai]]
+- Jekaterina II rėmė [[objektai/grupes/Bajorai]], [[objektai/grupes/Čartoriskiai]]

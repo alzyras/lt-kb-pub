@@ -176,11 +176,9 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]] puole Pieštvė
-- [[objektai/asmenys/Ditrichas iš Ezbeko]] keliavo_i Pieštvė
-- [[objektai/asmenys/Otonas iš Bergo]] surenge_zygi_i Pieštvė
-- [[objektai/asmenys/Otonas iš Cedlico]] surenge_zygi_i Pieštvė
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Pieštvė
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Pieštvė
-- [[objektai/grupes/Lietuviai]] gyne Pieštvė
-- Pieštvė priklause [[objektai/vietos/Nemunas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Ditrichas iš Ezbeko]]
+- Puolė Pieštvę: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
+- Užėmė Pieštvę: [[objektai/grupes/Kryžiuočių ordinas]]
+- Gynė Pieštvę: [[objektai/grupes/Lietuviai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Otonas iš Bergo]], [[objektai/asmenys/Otonas iš Cedlico]]
+- Pieštvė priklausė [[objektai/vietos/Nemunas]]

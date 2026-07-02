@@ -67,4 +67,4 @@ Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtės
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Rusai]] puole Šklovas
+- Puolė Šklovą: [[objektai/grupes/Rusai]]

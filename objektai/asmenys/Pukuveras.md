@@ -103,5 +103,5 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
     - t-002
 
 ## Ryšiai
-- Pukuveras (Lietuvos karalius, XIII a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Pukuveras (Lietuvos karalius, XIII a.) siunte_i [[objektai/vietos/Lenkija]]
+- Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas [[objektai/vietos/Lietuva]]
+- Pukuveras (Lietuvos karalius, XIII a.) siuntė į [[objektai/vietos/Lenkija]]

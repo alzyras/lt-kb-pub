@@ -135,7 +135,6 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] uzeme Odojevas
-- [[objektai/asmenys/Chudandachas]] puole Odojevas
-- [[objektai/grupes/Užvolgio totoriai]] puole Odojevas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Odojevas
+- Buvo valdoma: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Odojevą: [[objektai/asmenys/Chudandachas]], [[objektai/grupes/Užvolgio totoriai]]
+- Užėmė Odojevą: [[objektai/grupes/Lietuvos kariuomenė]]

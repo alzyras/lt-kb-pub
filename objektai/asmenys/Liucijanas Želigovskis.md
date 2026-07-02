@@ -53,5 +53,5 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
     - t-001
 
 ## Ryšiai
-- Liucijanas Želigovskis uzeme [[objektai/vietos/Vilnius]]
-- Liucijanas Želigovskis keliavo_i [[objektai/vietos/Vilnius]]
+- Liucijanas Želigovskis keliavo į [[objektai/vietos/Vilnius]]
+- Liucijanas Želigovskis užėmė [[objektai/vietos/Vilnius]]

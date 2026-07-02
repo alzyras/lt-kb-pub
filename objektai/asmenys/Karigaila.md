@@ -169,12 +169,10 @@ Karigaila buvo Jogailos brolis, Julijonos sūnus ir Mstislavlio kunigaikštis. J
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vasilijus Čartoriskis]] buvo_sunus Karigaila
-- Karigaila buvo_sunus [[objektai/asmenys/Julijona]]
-- Karigaila buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Karigaila buvo_brolis [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Karigaila buvo_valdovas [[objektai/vietos/Mstislavlis]]
-- [[objektai/grupes/Kryžiuočių ordinas]] kariavo_pries Karigaila
-- Karigaila buvo_sunus [[objektai/asmenys/Julijona (Algirdo žmona)]]
-- Karigaila keliavo_i [[objektai/vietos/Krokuva]]
-- Karigaila buvo_sajungininkas_su [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Sūnūs: [[objektai/asmenys/Vasilijus Čartoriskis]]
+- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Julijona]], [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- Broliai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Sąjungininkai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Kariavo prieš: [[objektai/grupes/Kryžiuočių ordinas]]
+- Karigaila buvo valdovas [[objektai/vietos/Mstislavlis]]
+- Karigaila keliavo į [[objektai/vietos/Krokuva]]

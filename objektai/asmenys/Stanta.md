@@ -47,4 +47,4 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     - t-001
 
 ## Ryšiai
-- Stanta puole [[objektai/vietos/Bartenšteinas]]
+- Stanta puolė [[objektai/vietos/Bartenšteinas]]

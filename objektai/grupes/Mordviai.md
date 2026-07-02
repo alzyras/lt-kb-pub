@@ -43,5 +43,4 @@ Narbutas mordvius mini kaip Rusijos gilumoje gyvenančią tautą, kurios mergait
     - t-001
 
 ## Ryšiai
-- Mordviai gyveno [[objektai/vietos/Rusijos giluma]]
-- Mordviai gyveno [[objektai/vietos/Rusija]]
+- Mordviai gyveno [[objektai/vietos/Rusija]], [[objektai/vietos/Rusijos giluma]]

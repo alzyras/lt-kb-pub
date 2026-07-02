@@ -47,4 +47,4 @@ Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konst
     - t-001
 
 ## Ryšiai
-- Teodoras (Konstantino Karijotaičio brolis) valde [[objektai/vietos/Podolė]]
+- Teodoras (Konstantino Karijotaičio brolis) valdė [[objektai/vietos/Podolė]]

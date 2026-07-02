@@ -106,5 +106,4 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] kariavo_pries Livonijos riteriai
-- [[objektai/grupes/Lietuviai]] kariavo_pries Livonijos riteriai
+- Kariavo prieš: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Lietuviai]]

@@ -45,4 +45,4 @@ Su Švedijos uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laiva
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Sembai]] keliavo_i Birka (Švedijos uostas)
+- Buvo kelionės vieta: [[objektai/grupes/Sembai]]

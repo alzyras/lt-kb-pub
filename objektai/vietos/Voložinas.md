@@ -61,4 +61,4 @@ Jonas Goštautas užsuko pas Voložino kunigaikščius. Voložine Goštautą pas
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] keliavo_i Voložinas
+- Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]

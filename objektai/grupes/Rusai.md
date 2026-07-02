@@ -1626,87 +1626,24 @@ Rusai Lietuvos istorijos šaltiniuose minimi kaip LDK kariuomenės, visuomenės 
     - t-010
 
 ## Ryšiai
-- Rusai uzeme [[objektai/vietos/Vilnius]]
-- Rusai buvo_sajungininkas_su [[objektai/grupes/Kazokai]]
-- Rusai uzeme [[objektai/vietos/Alūksnė]]
-- Rusai uzeme [[objektai/vietos/Vilijandis]]
-- [[objektai/grupes/Vytauto būrys]] puole Rusai
-- Rusai uzeme [[objektai/vietos/Paupys]]
-- Rusai uzeme [[objektai/vietos/Užupis]]
-- Rusai uzeme [[objektai/vietos/Viljandis]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] buvo_valdovas Rusai
-- Rusai puole [[objektai/vietos/Vilnius]]
-- Rusai siunte_i [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Dono kazokų pulkas]] priklause Rusai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] puole Rusai
-- [[objektai/grupes/Kazokai]] buvo_sajungininkas_su Rusai
-- [[objektai/grupes/Lenkai]] kariavo_pries Rusai
-- Rusai apgule [[objektai/vietos/Radomas]]
-- Rusai apgule [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
-- Rusai gyveno [[objektai/vietos/Polockas]]
-- Rusai kariavo_pries [[objektai/grupes/Lietuviai]]
-- Rusai reme [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- Rusai reme [[objektai/asmenys/Tautvila]]
-- [[objektai/grupes/Ukmergės batalionas]] kariavo_pries Rusai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] kariavo_pries Rusai
-- [[objektai/grupes/Jotvingiai]] kariavo_pries Rusai
-- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Rusai
-- [[objektai/grupes/Lietuviai]] puole Rusai
-- Rusai dalyvavo_musyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
-- Rusai puole [[objektai/vietos/Mogiliavas]]
-- Rusai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
-- Rusai dalyvavo_musyje [[objektai/ivykiai/Rūdninkų ir Dubičių kautynės]]
-- Rusai puole [[objektai/vietos/Kulmas]]
-- [[objektai/asmenys/Vladislovas Vaza]] kariavo_pries Rusai
-- [[objektai/asmenys/Kristupas Radvila Perkūnas]] kariavo_pries Rusai
-- [[objektai/grupes/Lietuviai]] kariavo_pries Rusai
-- Rusai puole [[objektai/grupes/Lietuviai]]
-- Rusai puole [[objektai/vietos/Šklovas]]
-- Rusai valde_miesta [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Skirmantas]] kariavo_pries Rusai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] buvo_sajungininkas_su Rusai
-- Rusai apgule [[objektai/grupes/Gardino seimas]]
-- Rusai gyveno [[objektai/vietos/Klaipėda]]
-- Rusai gyveno [[objektai/vietos/Vilnius]]
-- Rusai puole [[objektai/vietos/Kališo sritis]]
-- Rusai puole [[objektai/vietos/Kulmo žemė]]
-- Rusai uzkariavo [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Sūduviai]] buvo_sajungininkas_su Rusai
-- Rusai gyveno [[objektai/vietos/Sniečkus]]
-- Rusai prekiavo_su [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]] kariavo_pries Rusai
-- [[objektai/daiktai/Kapsuliniai šautuvai]] priklause Rusai
-- Rusai keliavo_i [[objektai/vietos/Lietuva]]
-- Rusai keliavo_i [[objektai/vietos/Maskva]]
-- Rusai keliavo_i [[objektai/vietos/Vilnius]]
-- Rusai uzeme [[objektai/vietos/Kaunas]]
-- Rusai uzeme [[objektai/vietos/Trakai]]
-- [[objektai/vietos/Vilnius]] prekiavo_su Rusai
-- [[objektai/grupes/Švedai]] kariavo_pries Rusai
-- Rusai keliavo_i [[objektai/vietos/Rusija]]
-- Rusai priklause [[objektai/grupes/Auksinė Orda]]
-- [[objektai/vietos/Polockas]] priklause Rusai
-- Rusai kariavo_pries [[objektai/grupes/Vokiečiai]]
-- Rusai prekiavo_su [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Ukmergės batalionas]] puole Rusai
-- [[objektai/grupes/2-asis šaulių pulko batalionas]] kariavo_pries Rusai
-- [[objektai/asmenys/Radvila]] kariavo_pries Rusai
-- [[objektai/grupes/Vokiečių pirkliai]] prekiavo_su Rusai
-- Rusai uzeme [[objektai/vietos/Brianskas]]
-- [[objektai/asmenys/Ivanas]] gyne Rusai
-- [[objektai/asmenys/B. Kolyška]] kariavo_pries Rusai
-- [[objektai/grupes/Dembinskio rinktinė]] kariavo_pries Rusai
-- Rusai kariavo_pries [[objektai/grupes/Lenkai]]
-- Rusai puole [[objektai/vietos/Lietuva]]
-- Rusai valde_miesta [[objektai/vietos/Liublinas]]
-- [[objektai/grupes/asis šaulių pulko batalionas]] puole Rusai
-- [[objektai/asmenys/Pavelas Bermontas-Avalovas]] buvo_sajungininkas_su Rusai
-- Rusai surenge_zygi_i [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/J. Šarauskas]] kariavo_pries Rusai
-- [[objektai/asmenys/K. Ladyga]] puole Rusai
-- Rusai puole [[objektai/asmenys/P. Vivulskis]]
-- Rusai gyveno [[objektai/vietos/Lietuva]]
-- Rusai siunte_i [[objektai/vietos/Merkinė]]
-- Rusai siunte_i [[objektai/vietos/Sluckas]]
-- [[objektai/grupes/Lietuviai]] prekiavo_su Rusai
-- [[objektai/asmenys/Mantvila Gimbutaitis]] puole Rusai
+- Sąjungininkai: [[objektai/grupes/Kazokai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Pavelas Bermontas-Avalovas]], [[objektai/grupes/Sūduviai]]
+- Turėjo valdovą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Puolė Rusai: [[objektai/grupes/asis šaulių pulko batalionas]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/K. Ladyga]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mantvila Gimbutaitis]], [[objektai/grupes/Ukmergės batalionas]], [[objektai/grupes/Vytauto būrys]]
+- Gynė Rusai: [[objektai/asmenys/Ivanas]]
+- Kariavo prieš: [[objektai/grupes/2-asis šaulių pulko batalionas]], [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]], [[objektai/asmenys/B. Kolyška]], [[objektai/grupes/Dembinskio rinktinė]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/J. Šarauskas]], [[objektai/grupes/Jotvingiai]], [[objektai/asmenys/Kristupas Radvila Perkūnas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Radvila]], [[objektai/asmenys/Skirmantas]], [[objektai/grupes/Švedai]], [[objektai/grupes/Ukmergės batalionas]], [[objektai/asmenys/Vladislovas Vaza]]
+- Prekiavo su: [[objektai/grupes/Lietuviai]], [[objektai/vietos/Vilnius]], [[objektai/grupes/Vokiečių pirkliai]]
+- Turėjo priklausinį: [[objektai/grupes/Dono kazokų pulkas]], [[objektai/daiktai/Kapsuliniai šautuvai]], [[objektai/vietos/Polockas]]
+- Rusai valdė [[objektai/vietos/Liublinas]], [[objektai/vietos/Vilnius]]
+- Rusai keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Maskva]], [[objektai/vietos/Rusija]], [[objektai/vietos/Vilnius]]
+- Rusai puolė [[objektai/vietos/Kališo sritis]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Kulmo žemė]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Mogiliavas]], [[objektai/asmenys/P. Vivulskis]], [[objektai/vietos/Šklovas]], [[objektai/vietos/Vilnius]]
+- Rusai apgulė [[objektai/grupes/Gardino seimas]], [[objektai/vietos/Radomas]], [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
+- Rusai užėmė [[objektai/vietos/Alūksnė]], [[objektai/vietos/Brianskas]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Paupys]], [[objektai/vietos/Trakai]], [[objektai/vietos/Užupis]], [[objektai/vietos/Vilijandis]], [[objektai/vietos/Viljandis]], [[objektai/vietos/Vilnius]]
+- Rusai siuntė į [[objektai/vietos/Lietuva]], [[objektai/vietos/Merkinė]], [[objektai/vietos/Sluckas]]
+- Rusai surengė žygį į [[objektai/vietos/Lietuva]]
+- Rusai kariavo prieš [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vokiečiai]]
+- Rusai dalyvavo mūšyje [[objektai/ivykiai/Rūdninkų ir Dubičių kautynės]], [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- Rusai prekiavo su [[objektai/vietos/Vilnius]], [[objektai/grupes/Vokiečiai]]
+- Rusai gyveno [[objektai/vietos/Klaipėda]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Polockas]], [[objektai/vietos/Sniečkus]], [[objektai/vietos/Vilnius]]
+- Rusai priklausė [[objektai/grupes/Auksinė Orda]]
+- Rusai rėmė [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Tautvila]]
+- Rusai užkariavo [[objektai/vietos/Lietuva]]

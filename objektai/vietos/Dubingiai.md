@@ -129,6 +129,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] uzeme Dubingiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Dubingiai
-- [[objektai/asmenys/Mikalojus Radvila Rudasis]] buvo_valdovas Dubingiai
+- Turėjo valdovą: [[objektai/asmenys/Mikalojus Radvila Rudasis]]
+- Puolė Dubingiai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Užėmė Dubingiai: [[objektai/grupes/Lenkai]]

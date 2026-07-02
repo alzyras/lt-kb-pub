@@ -175,5 +175,5 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] uzeme Giedraičiai
-- [[objektai/grupes/Lietuviai]] keliavo_i Giedraičiai
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
+- Užėmė Giedraičiai: [[objektai/grupes/Lenkai]]

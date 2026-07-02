@@ -47,4 +47,4 @@ Jonas Lenartaitis Kęsgaila prispaudė antspaudą prie 1490 m. sutarties, kurią
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Bajorai]] priklause Trakų pavietas arba vaivadija
+- Turėjo priklausinį: [[objektai/grupes/Bajorai]]

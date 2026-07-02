@@ -43,4 +43,4 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Šventasis ąžuolas]] priklause Heiligenbeilis
+- Turėjo priklausinį: [[objektai/daiktai/Šventasis ąžuolas]]

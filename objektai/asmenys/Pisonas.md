@@ -45,4 +45,4 @@ Popiežiaus legatas Pisonas buvo pasiųstas iš Romos sutaikyti Žygimantą su V
     - t-001
 
 ## Ryšiai
-- Pisonas keliavo_i [[objektai/vietos/Vilnius]]
+- Pisonas keliavo į [[objektai/vietos/Vilnius]]

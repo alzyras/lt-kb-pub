@@ -61,6 +61,6 @@ BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kov
     - t-001
 
 ## Ryšiai
-- Panevėžio batalionas puole [[objektai/grupes/Bermontininkai]]
-- Panevėžio batalionas kariavo_pries [[objektai/grupes/Bermontininkai]]
-- Panevėžio batalionas uzeme [[objektai/vietos/Meškuičiai]]
+- Panevėžio batalionas puolė [[objektai/grupes/Bermontininkai]]
+- Panevėžio batalionas užėmė [[objektai/vietos/Meškuičiai]]
+- Panevėžio batalionas kariavo prieš [[objektai/grupes/Bermontininkai]]

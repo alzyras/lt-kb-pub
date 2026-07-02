@@ -58,5 +58,5 @@ tags:
     - t-001
 
 ## Ryšiai
-- Lietuvos ir Rusios didikai bei žemvaldžiai reme [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]] buvo_sajungininkas_su Lietuvos ir Rusios didikai bei žemvaldžiai
+- Sąjungininkai: [[objektai/grupes/Lenkai]]
+- Lietuvos ir Rusios didikai bei žemvaldžiai rėmė [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

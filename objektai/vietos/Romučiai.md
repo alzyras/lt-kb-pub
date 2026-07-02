@@ -50,4 +50,4 @@ Hartknochas Narbuto perteikime Romučių kaimo apylinkėse prie Tenenio upės lo
     - t-001
 
 ## Ryšiai
-- Romučiai priklause [[objektai/vietos/Prūsija]]
+- Romučiai priklausė [[objektai/vietos/Prūsija]]

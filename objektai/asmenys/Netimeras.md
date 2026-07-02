@@ -130,4 +130,4 @@ periodo_grupes:
     - t-002
 
 ## Ryšiai
-- Netimeras buvo_valdovas [[objektai/vietos/Lietuva]]
+- Netimeras buvo valdovas [[objektai/vietos/Lietuva]]

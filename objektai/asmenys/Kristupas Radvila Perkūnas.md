@@ -178,7 +178,6 @@ Kristupas Radvila Perkūnas buvo Mikalojaus Radvilos Rudojo sūnus, lauko, vėli
     - t-002
 
 ## Ryšiai
-- Kristupas Radvila Perkūnas keliavo_i [[objektai/vietos/Veližas]]
-- Kristupas Radvila Perkūnas kariavo_pries [[objektai/grupes/Rusai]]
-- Kristupas Radvila Perkūnas keliavo_i [[objektai/vietos/Rusija]]
-- Kristupas Radvila Perkūnas gyne [[objektai/vietos/Rusija]]
+- Kristupas Radvila Perkūnas keliavo į [[objektai/vietos/Rusija]], [[objektai/vietos/Veližas]]
+- Kristupas Radvila Perkūnas gynė [[objektai/vietos/Rusija]]
+- Kristupas Radvila Perkūnas kariavo prieš [[objektai/grupes/Rusai]]

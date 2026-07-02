@@ -157,6 +157,6 @@ Jonas Olbrachtas buvo Kazimiero numatomas įpėdinis, kuriam tėvas siekė pelny
     - t-004
 
 ## Ryšiai
-- Jonas Olbrachtas kariavo_pries [[objektai/grupes/Vengrai]]
-- Jonas Olbrachtas buvo_brolis [[objektai/asmenys/Vladislovas]]
-- Jonas Olbrachtas keliavo_i [[objektai/vietos/Krokuva]]
+- Broliai: [[objektai/asmenys/Vladislovas]]
+- Jonas Olbrachtas keliavo į [[objektai/vietos/Krokuva]]
+- Jonas Olbrachtas kariavo prieš [[objektai/grupes/Vengrai]]

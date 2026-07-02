@@ -52,4 +52,4 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
     - t-001
 
 ## Ryšiai
-- Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas keliavo_i [[objektai/vietos/Maskva]]
+- Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas keliavo į [[objektai/vietos/Maskva]]

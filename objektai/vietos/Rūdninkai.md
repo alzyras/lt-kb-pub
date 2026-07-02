@@ -190,6 +190,5 @@ tags:
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Kazimieras IV]] gyveno Rūdninkai
-- [[objektai/asmenys/Vladislovas IV]] keliavo_i Rūdninkai
-- [[objektai/asmenys/Zigmantas III]] gyveno Rūdninkai
+- Buvo kelionės vieta: [[objektai/asmenys/Vladislovas IV]]
+- Gyvenamoji vieta: [[objektai/asmenys/Kazimieras IV]], [[objektai/asmenys/Zigmantas III]]

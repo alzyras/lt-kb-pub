@@ -221,13 +221,9 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Konradas]] surenge_zygi_i Karšuva
-- [[objektai/vietos/Putvė]] priklause Karšuva
-- [[objektai/asmenys/Konradas]] puole Karšuva
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Karšuva
-- [[objektai/vietos/Švento Jurgio pilis|Švento Jurgio pilis (pilis, XIII a.)]] priklause Karšuva
-- [[objektai/vietos/Karšuvos žemė]] priklause Karšuva
-- Karšuva priklause [[objektai/vietos/Kuršas]]
-- [[objektai/asmenys/Burchardas iš Hornhauzeno]] pastate Karšuva
-- [[objektai/grupes/Žemaičiai]] gyne Karšuva
-- [[objektai/vietos/Karšuvos sritis]] priklause Karšuva
+- Buvo pastatyta: [[objektai/asmenys/Burchardas iš Hornhauzeno]]
+- Puolė Karšuvą: [[objektai/asmenys/Konradas]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Gynė Karšuvą: [[objektai/grupes/Žemaičiai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Konradas]]
+- Turėjo priklausinį: [[objektai/vietos/Karšuvos sritis]], [[objektai/vietos/Karšuvos žemė]], [[objektai/vietos/Putvė]], [[objektai/vietos/Švento Jurgio pilis|Švento Jurgio pilis (pilis, XIII a.)]]
+- Karšuva priklausė [[objektai/vietos/Kuršas]]

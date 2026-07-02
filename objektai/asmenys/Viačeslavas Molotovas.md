@@ -166,4 +166,4 @@ Viačeslavas Molotovas buvo vienas svarbiausių SSRS spaudimo Lietuvai veikėjų
     - t-001
 
 ## Ryšiai
-- Viačeslavas Molotovas paskyre [[objektai/asmenys/Juozas Urbšys]]
+- Viačeslavas Molotovas paskyrė [[objektai/asmenys/Juozas Urbšys]]

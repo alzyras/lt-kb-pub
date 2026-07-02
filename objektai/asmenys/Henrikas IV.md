@@ -59,4 +59,4 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
     - t-001
 
 ## Ryšiai
-- Henrikas IV buvo_valdovas [[objektai/vietos/Anglija]]
+- Henrikas IV buvo valdovas [[objektai/vietos/Anglija]]

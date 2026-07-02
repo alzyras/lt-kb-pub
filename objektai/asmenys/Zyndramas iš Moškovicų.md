@@ -53,4 +53,4 @@ Tada karalius lenkų kariuomenės ve­ dimą atidavė Zyndramui iš Moškovicų,
     - t-002
 
 ## Ryšiai
-- Zyndramas iš Moškovicų buvo_sajungininkas_su [[objektai/grupes/Lenkai]]
+- Sąjungininkai: [[objektai/grupes/Lenkai]]

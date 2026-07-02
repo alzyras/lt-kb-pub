@@ -53,4 +53,4 @@ Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą 
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Namas]] priklause Cimermanas
+- Turėjo priklausinį: [[objektai/daiktai/Namas]]

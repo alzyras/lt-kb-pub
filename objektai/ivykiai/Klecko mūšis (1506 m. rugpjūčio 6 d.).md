@@ -178,6 +178,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje Klecko mūšis (1506 m. rugpjūčio 6 d.)
-- [[objektai/grupes/Totoriai]] dalyvavo_musyje Klecko mūšis (1506 m. rugpjūčio 6 d.)
-- [[objektai/asmenys/Mykolas]] dalyvavo_musyje Klecko mūšis (1506 m. rugpjūčio 6 d.)
+- Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mykolas]], [[objektai/grupes/Totoriai]]

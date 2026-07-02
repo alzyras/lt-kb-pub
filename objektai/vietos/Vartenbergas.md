@@ -89,8 +89,7 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Sūduviai]] puole Vartenbergas
-- Vartenbergas priklause [[objektai/vietos/Kulmas]]
-- Vartenbergas priklause [[objektai/vietos/Galinda]]
-- [[objektai/grupes/Kryžiuočių ordinas]] gyveno Vartenbergas
-- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]] pastate Vartenbergas
+- Buvo pastatyta: [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]
+- Puolė Vartenbergą: [[objektai/grupes/Sūduviai]]
+- Gyvenamoji vieta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Vartenbergas priklausė [[objektai/vietos/Galinda]], [[objektai/vietos/Kulmas]]

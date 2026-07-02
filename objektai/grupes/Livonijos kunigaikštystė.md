@@ -91,5 +91,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Livonijos kunigaikštystė priklause [[objektai/vietos/Lietuva]]
-- Livonijos kunigaikštystė priklause [[objektai/vietos/Lenkija]]
+- Livonijos kunigaikštystė priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

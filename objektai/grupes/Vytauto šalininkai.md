@@ -115,7 +115,6 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - t-003
 
 ## Ryšiai
-- Vytauto šalininkai apgule [[objektai/vietos/Trakai]]
-- [[objektai/grupes/Kryžiuočių ordinas]] buvo_sajungininkas_su Vytauto šalininkai
-- Vytauto šalininkai uzeme [[objektai/vietos/Kernavė]]
-- Vytauto šalininkai uzeme [[objektai/vietos/Maišiagala]]
+- Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Vytauto šalininkai apgulė [[objektai/vietos/Trakai]]
+- Vytauto šalininkai užėmė [[objektai/vietos/Kernavė]], [[objektai/vietos/Maišiagala]]

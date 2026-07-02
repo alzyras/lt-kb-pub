@@ -250,4 +250,4 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] reme Vilniaus jėzuitų kolegija
+- Rėmė Vilniaus jėzuitų kolegiją: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

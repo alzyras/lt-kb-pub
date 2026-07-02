@@ -76,4 +76,4 @@ Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys 
     - t-002
 
 ## Ryšiai
-- Rokiškio apskritis priklause [[objektai/vietos/Lietuva]]
+- Rokiškio apskritis priklausė [[objektai/vietos/Lietuva]]

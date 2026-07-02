@@ -53,5 +53,5 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - t-001
 
 ## Ryšiai
+- Rėmė Dargį: [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
 - Dargis gyveno [[objektai/vietos/Semba]]
-- [[objektai/asmenys/Ditrichas (Sembos fogtas)]] reme Dargis

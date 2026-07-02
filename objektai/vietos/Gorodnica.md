@@ -68,4 +68,4 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
     - t-002
 
 ## Ryšiai
-- Gorodnica priklause [[objektai/vietos/Gardinas]]
+- Gorodnica priklausė [[objektai/vietos/Gardinas]]

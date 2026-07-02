@@ -52,5 +52,5 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Vytautas Šniuolis-Svajūnas mire [[objektai/vietos/Užpelkiai]]
-- Vytautas Šniuolis-Svajūnas dalyvavo_musyje [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]
+- Vytautas Šniuolis-Svajūnas mirė [[objektai/vietos/Užpelkiai]]
+- Vytautas Šniuolis-Svajūnas dalyvavo mūšyje [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]

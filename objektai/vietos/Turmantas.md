@@ -83,4 +83,4 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/1-asis pėstininkų pulkas]] uzeme Turmantas
+- Užėmė Turmantą: [[objektai/grupes/1-asis pėstininkų pulkas]]

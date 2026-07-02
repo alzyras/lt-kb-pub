@@ -60,4 +60,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis priklause [[objektai/vietos/Lietuva]]
+- Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis priklausė [[objektai/vietos/Lietuva]]

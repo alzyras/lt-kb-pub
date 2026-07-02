@@ -54,4 +54,4 @@ Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvyk
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] valde_miesta Vyšgorodas
+- Buvo valdoma: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

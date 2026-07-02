@@ -51,4 +51,4 @@ Vladislovas Jogaila pasiuntė dominikoną Teodorą Lenką į Konstancos susirink
     - t-001
 
 ## Ryšiai
-- Teodoras Lenkas keliavo_i [[objektai/vietos/Konstanca]]
+- Teodoras Lenkas keliavo į [[objektai/vietos/Konstanca]]

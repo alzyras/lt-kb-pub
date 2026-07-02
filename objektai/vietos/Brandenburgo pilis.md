@@ -62,5 +62,4 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Glapas]] uzeme Brandenburgo pilis
-- [[objektai/grupes/Varmiai]] uzeme Brandenburgo pilis
+- Užėmė Brandenburgo pilį: [[objektai/asmenys/Glapas]], [[objektai/grupes/Varmiai]]

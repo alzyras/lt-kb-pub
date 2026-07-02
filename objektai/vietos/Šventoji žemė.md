@@ -138,5 +138,5 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Arabai]] uzeme Šventoji žemė
-- [[objektai/grupes/Arabai]] puole Šventoji žemė
+- Puolė Šventoji žemę: [[objektai/grupes/Arabai]]
+- Užėmė Šventoji žemę: [[objektai/grupes/Arabai]]

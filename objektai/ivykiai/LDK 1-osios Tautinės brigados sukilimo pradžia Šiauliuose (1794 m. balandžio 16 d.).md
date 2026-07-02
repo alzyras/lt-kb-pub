@@ -69,4 +69,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/LDK 1-oji Tautinė brigada]] dalyvavo_musyje LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.)
+- Turėjo dalyvį: [[objektai/grupes/LDK 1-oji Tautinė brigada]]

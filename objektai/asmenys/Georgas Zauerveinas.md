@@ -59,4 +59,4 @@ Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, poliglotas
     - t-001
 
 ## Ryšiai
-- Georgas Zauerveinas gyne [[objektai/grupes/Lietuviai]]
+- Georgas Zauerveinas gynė [[objektai/grupes/Lietuviai]]

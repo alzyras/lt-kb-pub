@@ -373,18 +373,11 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
     - t-008
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] paskyre Goštautas (vyskupas, XV a.)
-- Goštautas (vyskupas, XV a.) keliavo_i [[objektai/vietos/Alšėnai]]
-- Goštautas (vyskupas, XV a.) keliavo_i [[objektai/vietos/Tikocinas]]
-- Goštautas (vyskupas, XV a.) gyveno [[objektai/vietos/Vilnius]]
-- Goštautas (vyskupas, XV a.) keliavo_i [[objektai/vietos/Korčinas]]
-- Goštautas (vyskupas, XV a.) keliavo_i [[objektai/vietos/Voložinas]]
-- Goštautas (vyskupas, XV a.) buvo_sajungininkas_su [[objektai/asmenys/Žygimantas]]
-- Goštautas (vyskupas, XV a.) reme [[objektai/grupes/Pranciškonų ordinas]]
-- Goštautas (vyskupas, XV a.) keliavo_i [[objektai/vietos/Vilnius]]
-- Goštautas (vyskupas, XV a.) valde_teritorija [[objektai/vietos/Podolė]]
-- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]] paskyre Goštautas (vyskupas, XV a.)
-- Goštautas (vyskupas, XV a.) keliavo_i [[objektai/vietos/Ašmena]]
-- Goštautas (vyskupas, XV a.) gyveno [[objektai/vietos/Smolenskas]]
-- Goštautas (vyskupas, XV a.) pastate [[objektai/vietos/Vilnius]]
-- Goštautas (vyskupas, XV a.) uzeme [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]
+- Sąjungininkai: [[objektai/asmenys/Žygimantas]]
+- Paskyrė Goštautą (vyskupas, XV a.): [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- Goštautas (vyskupas, XV a.) valdė [[objektai/vietos/Podolė]]
+- Goštautas (vyskupas, XV a.) keliavo į [[objektai/vietos/Alšėnai]], [[objektai/vietos/Ašmena]], [[objektai/vietos/Korčinas]], [[objektai/vietos/Tikocinas]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Voložinas]]
+- Goštautas (vyskupas, XV a.) pastatė [[objektai/vietos/Vilnius]]
+- Goštautas (vyskupas, XV a.) užėmė [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]
+- Goštautas (vyskupas, XV a.) gyveno [[objektai/vietos/Smolenskas]], [[objektai/vietos/Vilnius]]
+- Goštautas (vyskupas, XV a.) rėmė [[objektai/grupes/Pranciškonų ordinas]]

@@ -60,4 +60,4 @@ Smetona, Steponas Kairys, J. Kairys, Stanislovas Narutavičius, Jonas Vileišis 
     - t-001
 
 ## Ryšiai
-- Steponas Kairys keliavo_i [[objektai/vietos/Bernas]]
+- Steponas Kairys keliavo į [[objektai/vietos/Bernas]]

@@ -54,5 +54,4 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]] keliavo_i Nagutinas
-- [[objektai/asmenys/Konradas]] keliavo_i Nagutinas
+- Buvo kelionės vieta: [[objektai/asmenys/Konradas]], [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]]

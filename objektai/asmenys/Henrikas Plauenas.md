@@ -70,4 +70,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Henrikas Plauenas keliavo_i [[objektai/vietos/Vilnius]]
+- Henrikas Plauenas keliavo į [[objektai/vietos/Vilnius]]

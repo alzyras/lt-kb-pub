@@ -301,25 +301,15 @@ amziai:
     - t-007
 
 ## Ryšiai
-- [[objektai/grupes/Rusai]] buvo_sajungininkas_su Kazokai
-- Kazokai dalyvavo_musyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
-- Kazokai puole [[objektai/vietos/Kražių bažnyčia]]
-- Kazokai buvo_sajungininkas_su [[objektai/grupes/Rusijos kariuomenė]]
-- [[objektai/grupes/Janičarai]] puole Kazokai
-- Kazokai buvo_sajungininkas_su [[objektai/grupes/Rusai]]
-- Kazokai kariavo_pries [[objektai/grupes/Lietuviai]]
-- Kazokai puole [[objektai/vietos/Kražiai]]
-- Kazokai uzeme [[objektai/vietos/Vilnius]]
-- Kazokai gyne [[objektai/vietos/Podolė]]
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]] kariavo_pries Kazokai
-- Kazokai kariavo_pries [[objektai/grupes/Totoriai]]
-- Kazokai reme [[objektai/asmenys/Leontijus Bennigsenas]]
-- Kazokai dalyvavo_musyje [[objektai/ivykiai/Kražių įvykiai]]
-- Kazokai keliavo_i [[objektai/vietos/Dniepras]]
-- Kazokai uzeme [[objektai/vietos/Kaunas]]
-- Kazokai uzeme [[objektai/vietos/Trakai]]
-- Kazokai surenge_zygi_i [[objektai/vietos/Mozyrius]]
-- Kazokai surenge_zygi_i [[objektai/vietos/Starodubas]]
-- Kazokai keliavo_i [[objektai/vietos/Lojevas]]
-- [[objektai/grupes/Totoriai]] buvo_priesas Kazokai
-- Kazokai puole [[objektai/grupes/Švedai]]
+- Priešai: [[objektai/grupes/Totoriai]]
+- Sąjungininkai: [[objektai/grupes/Rusai]], [[objektai/grupes/Rusijos kariuomenė]]
+- Puolė Kazokai: [[objektai/grupes/Janičarai]]
+- Kariavo prieš: [[objektai/asmenys/Jonas Karolis Chodkevičius]]
+- Kazokai keliavo į [[objektai/vietos/Dniepras]], [[objektai/vietos/Lojevas]]
+- Kazokai puolė [[objektai/vietos/Kražiai]], [[objektai/vietos/Kražių bažnyčia]], [[objektai/grupes/Švedai]]
+- Kazokai užėmė [[objektai/vietos/Kaunas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Kazokai gynė [[objektai/vietos/Podolė]]
+- Kazokai surengė žygį į [[objektai/vietos/Mozyrius]], [[objektai/vietos/Starodubas]]
+- Kazokai kariavo prieš [[objektai/grupes/Lietuviai]], [[objektai/grupes/Totoriai]]
+- Kazokai dalyvavo mūšyje [[objektai/ivykiai/Kražių įvykiai]], [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
+- Kazokai rėmė [[objektai/asmenys/Leontijus Bennigsenas]]

@@ -168,4 +168,4 @@ Ignotas Masalskis buvo Vilniaus vyskupas, 1773 m. tapęs Edukacinės komisijos, 
     - t-004
 
 ## Ryšiai
-- Ignotas Masalskis mire [[objektai/vietos/Varšuva]]
+- Ignotas Masalskis mirė [[objektai/vietos/Varšuva]]

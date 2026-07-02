@@ -349,13 +349,10 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     - t-010
 
 ## Ryšiai
-- [[objektai/grupes/Sūduviai]] apgule Bartenšteinas
-- [[objektai/asmenys/Miligedas]] keliavo_i Bartenšteinas
-- [[objektai/grupes/Bartai]] gyveno Bartenšteinas
-- [[objektai/asmenys/Misinas]] surenge_zygi_i Bartenšteinas
-- [[objektai/grupes/Notangai]] surenge_zygi_i Bartenšteinas
-- [[objektai/asmenys/Stanta]] puole Bartenšteinas
-- [[objektai/grupes/Notangai]] puole Bartenšteinas
-- [[objektai/grupes/Sūduviai]] puole Bartenšteinas
-- [[objektai/grupes/Vokiečiai]] pastate Bartenšteinas
-- [[objektai/grupes/Kryžiuočių ordinas]] priklause Bartenšteinas
+- Buvo kelionės vieta: [[objektai/asmenys/Miligedas]]
+- Buvo pastatyta: [[objektai/grupes/Vokiečiai]]
+- Puolė Bartenšteiną: [[objektai/grupes/Notangai]], [[objektai/asmenys/Stanta]], [[objektai/grupes/Sūduviai]]
+- Apgulė Bartenšteiną: [[objektai/grupes/Sūduviai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Misinas]], [[objektai/grupes/Notangai]]
+- Gyvenamoji vieta: [[objektai/grupes/Bartai]]
+- Turėjo priklausinį: [[objektai/grupes/Kryžiuočių ordinas]]

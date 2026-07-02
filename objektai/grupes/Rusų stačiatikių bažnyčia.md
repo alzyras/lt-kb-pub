@@ -70,4 +70,4 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Unitai]] priklause Rusų stačiatikių bažnyčia
+- Turėjo priklausinį: [[objektai/grupes/Unitai]]

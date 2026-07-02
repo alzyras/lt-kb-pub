@@ -38,4 +38,4 @@ Narbutas, remdamasis Strijkovskiu, mini, kad ant kalno prie Deltuvos stovėjo me
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Kukovaičio stabas]] priklause Deltuvos kalnas
+- Turėjo priklausinį: [[objektai/daiktai/Kukovaičio stabas]]

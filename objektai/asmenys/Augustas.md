@@ -364,18 +364,12 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
     - t-002
 
 ## Ryšiai
-- Augustas keliavo_i [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Barbora Radvilaitė]] buvo_zmona Augustas
-- Augustas buvo_sunus [[objektai/asmenys/Bona]]
-- Augustas siunte_i [[objektai/vietos/Maskva]]
-- Augustas siunte_i [[objektai/vietos/Polockas]]
-- Augustas buvo_vyras [[objektai/asmenys/Barbora Radvilaitė]]
-- Augustas keliavo_i [[objektai/vietos/Vilnius]]
-- Augustas valde [[objektai/vietos/Lietuva]]
-- Augustas vede [[objektai/asmenys/Barbora Radvilaitė]]
-- Augustas keliavo_i [[objektai/vietos/Livonija]]
-- Augustas surenge_zygi_i [[objektai/vietos/Livonija]]
-- Augustas valde [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Karalaičio Jokūbo partija]] reme Augustas
-- [[objektai/asmenys/Žygimantas Senasis]] paskyre Augustas
-- Augustas buvo_sunus [[objektai/asmenys/Žygimantas Senasis]]
+- Žmonos: [[objektai/asmenys/Barbora Radvilaitė]]
+- Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]]
+- Tėvai: [[objektai/asmenys/Bona]], [[objektai/asmenys/Žygimantas Senasis]]
+- Paskyrė Augustą: [[objektai/asmenys/Žygimantas Senasis]]
+- Rėmė Augustą: [[objektai/grupes/Karalaičio Jokūbo partija]]
+- Augustas valdė [[objektai/vietos/Lietuva]], [[objektai/vietos/Livonija]]
+- Augustas keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Livonija]], [[objektai/vietos/Vilnius]]
+- Augustas siuntė į [[objektai/vietos/Maskva]], [[objektai/vietos/Polockas]]
+- Augustas surengė žygį į [[objektai/vietos/Livonija]]

@@ -602,8 +602,8 @@ tags:
     - t-016
 
 ## Ryšiai
-- [[objektai/asmenys/Zigmantas Vaza]] keliavo_i Švedija
-- [[objektai/asmenys/Karolis IX]] buvo_valdovas Švedija
-- [[objektai/grupes/Kuršiai]] surenge_zygi_i Švedija
-- [[objektai/vietos/Ryga]] priklause Švedija
-- [[objektai/asmenys/Steponas Batoras]] siunte_i Švedija
+- Turėjo valdovą: [[objektai/asmenys/Karolis IX]]
+- Buvo kelionės vieta: [[objektai/asmenys/Zigmantas Vaza]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Steponas Batoras]]
+- Buvo žygio kryptis: [[objektai/grupes/Kuršiai]]
+- Turėjo priklausinį: [[objektai/vietos/Ryga]]

@@ -146,5 +146,5 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Turkijos kariuomenė]] puole Sučiava
-- [[objektai/asmenys/Steponas]] gyne Sučiava
+- Puolė Sučiavą: [[objektai/grupes/Turkijos kariuomenė]]
+- Gynė Sučiavą: [[objektai/asmenys/Steponas]]

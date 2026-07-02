@@ -428,5 +428,4 @@ Nenurodyta
     - t-008
 
 ## Ryšiai
-- Karūna priklause [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Karūna priklause [[objektai/vietos/Lenkija]]
+- Karūna priklausė [[objektai/vietos/Lenkija]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

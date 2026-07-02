@@ -57,6 +57,6 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
     - t-001
 
 ## Ryšiai
-- Gepidai puole [[objektai/vietos/Italija]]
-- Gepidai buvo_sajungininkas_su [[objektai/grupes/Langobardai]]
-- Gepidai keliavo_i [[objektai/vietos/Italija]]
+- Sąjungininkai: [[objektai/grupes/Langobardai]]
+- Gepidai keliavo į [[objektai/vietos/Italija]]
+- Gepidai puolė [[objektai/vietos/Italija]]

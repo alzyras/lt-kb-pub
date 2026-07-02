@@ -59,4 +59,4 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Vileika]] priklause Ašmenos pavietas
+- Turėjo priklausinį: [[objektai/vietos/Vileika]]

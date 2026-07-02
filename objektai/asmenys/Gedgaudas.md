@@ -51,4 +51,4 @@ Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogail�
     - t-001
 
 ## Ryšiai
-- Gedgaudas keliavo_i [[objektai/vietos/Lenčica]]
+- Gedgaudas keliavo į [[objektai/vietos/Lenčica]]

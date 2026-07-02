@@ -358,8 +358,7 @@ Pinskas minimas kaip Narimanto, valdžiusio Turovą ir Pinską, kunigaikštystė
     - t-010
 
 ## Ryšiai
-- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] valde Pinskas
-- [[objektai/asmenys/Vasilijus Čartoriskis]] buvo_valdovas Pinskas
-- Pinskas priklause [[objektai/vietos/Polesė]]
-- [[objektai/grupes/Gediminaičiai]] valde_teritorija Pinskas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Pinskas
+- Turėjo valdovą: [[objektai/asmenys/Vasilijus Čartoriskis]]
+- Buvo valdoma: [[objektai/grupes/Gediminaičiai]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Pinskas priklausė [[objektai/vietos/Polesė]]

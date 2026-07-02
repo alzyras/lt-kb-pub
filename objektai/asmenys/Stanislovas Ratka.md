@@ -108,4 +108,4 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
     - t-001
 
 ## Ryšiai
-- Stanislovas Ratka keliavo_i [[objektai/vietos/Vilnius]]
+- Stanislovas Ratka keliavo į [[objektai/vietos/Vilnius]]

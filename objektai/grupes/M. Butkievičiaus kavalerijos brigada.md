@@ -40,4 +40,4 @@ Butkievičiaus kavalerijos brigada ir iki dienos pabaigos ji pasiekia Videniški
     - t-001
 
 ## Ryšiai
-- M. Butkievičiaus kavalerijos brigada keliavo_i [[objektai/vietos/Videniškis]]
+- M. Butkievičiaus kavalerijos brigada keliavo į [[objektai/vietos/Videniškis]]

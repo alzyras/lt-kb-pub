@@ -194,6 +194,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - t-004
 
 ## Ryšiai
-- [[objektai/vietos/Hermano bokštas]] priklause Talinas
-- Talinas priklause [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Eilartas fon Hobergas]] valde_miesta Talinas
+- Buvo valdoma: [[objektai/asmenys/Eilartas fon Hobergas]]
+- Turėjo priklausinį: [[objektai/vietos/Hermano bokštas]]
+- Talinas priklausė [[objektai/grupes/Švedai]]

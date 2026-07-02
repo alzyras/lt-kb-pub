@@ -68,4 +68,4 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Chodkevičiai]] pastate Zabluduvas
+- Buvo pastatyta: [[objektai/grupes/Chodkevičiai]]

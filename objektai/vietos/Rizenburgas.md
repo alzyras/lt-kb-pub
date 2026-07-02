@@ -56,5 +56,5 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Albrechtas (Pamedės vyskupas)]] pastate Rizenburgas
-- Rizenburgas priklause [[objektai/vietos/Prūsija]]
+- Buvo pastatyta: [[objektai/asmenys/Albrechtas (Pamedės vyskupas)]]
+- Rizenburgas priklausė [[objektai/vietos/Prūsija]]

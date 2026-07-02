@@ -64,4 +64,4 @@ Cepra teka maždaug už 8 km į rytus nuo Klecko. Cepra įteka į Lanę apie 10 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] keliavo_i Cepra
+- Buvo kelionės vieta: [[objektai/grupes/Totoriai]]

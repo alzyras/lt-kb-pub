@@ -56,4 +56,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Oswiata reme [[objektai/grupes/Lenkai]]
+- Oswiata rėmė [[objektai/grupes/Lenkai]]

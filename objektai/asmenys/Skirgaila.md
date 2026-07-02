@@ -1124,50 +1124,25 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
     - t-040
 
 ## Ryšiai
-- Skirgaila buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Skirgaila uzeme [[objektai/vietos/Polockas]]
-- Skirgaila keliavo_i [[objektai/vietos/Polockas]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] paskyre Skirgaila
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Skirgaila
-- Skirgaila buvo_brolis [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Skirgaila buvo_valdovas [[objektai/vietos/Lietuva]]
-- Skirgaila valde_miesta [[objektai/vietos/Trakai]]
-- [[objektai/asmenys/Vladislovas Jogaila]] paskyre Skirgaila
-- Skirgaila apgule [[objektai/vietos/Polockas]]
-- Skirgaila valde_miesta [[objektai/vietos/Polockas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Skirgaila
-- Skirgaila gyveno [[objektai/vietos/Trakų pilis|Trakų pilis (pilis)]]
-- Skirgaila uzeme [[objektai/vietos/Vitebskas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_sajungininkas_su Skirgaila
-- Skirgaila buvo_valdovas [[objektai/vietos/Polockas]]
-- Skirgaila mire [[objektai/vietos/Kijevas]]
-- Skirgaila keliavo_i [[objektai/vietos/Miloslavičiai]]
-- Skirgaila buvo_brolis [[objektai/asmenys/Vladislovas Jogaila]]
-- Skirgaila valde_teritorija [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Skirgaila
-- [[objektai/vietos/Polockas]] priklause Skirgaila
-- Skirgaila dalyvavo_musyje [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]
-- [[objektai/vietos/Kijevas]] priklause Skirgaila
-- Skirgaila valde_miesta [[objektai/vietos/Kijevas]]
-- Skirgaila siunte_i [[objektai/vietos/Lenkija]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] reme Skirgaila
-- Skirgaila gyveno [[objektai/vietos/Trakai]]
-- Skirgaila keliavo_i [[objektai/vietos/Šeškinės laukas]]
-- Skirgaila valde [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] sudare_sutarti_su Skirgaila
-- Skirgaila kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Skirgaila valde_teritorija [[objektai/vietos/Kijevas]]
-- Skirgaila puole [[objektai/vietos/Trakai]]
-- Skirgaila uzeme [[objektai/vietos/Druckas]]
-- Skirgaila siunte_i [[objektai/vietos/Krėva]]
-- Skirgaila gyne [[objektai/vietos/Vilnius]]
-- Skirgaila reme [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Livonijos ordinas]] reme Skirgaila
-- Skirgaila keliavo_i [[objektai/vietos/Buda]]
-- Skirgaila keliavo_i [[objektai/vietos/Krokuva]]
-- [[objektai/asmenys/Vygandas]] buvo_brolis Skirgaila
-- Skirgaila uzeme [[objektai/vietos/Kijevas]]
-- Skirgaila valde_teritorija [[objektai/vietos/Trakai]]
-- Skirgaila valde_teritorija [[objektai/vietos/Vitebskas]]
-- Skirgaila buvo_sajungininkas_su [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Skirgaila uzeme [[objektai/vietos/Trakai]]
+- Broliai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vygandas]]
+- Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Sąjungininkai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Skirgailą: [[objektai/grupes/Kryžiuočių ordinas]]
+- Kariavo prieš: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Sudarė sutartį su: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Paskyrė Skirgailą: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vladislovas Jogaila]]
+- Rėmė Skirgailą: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Turėjo priklausinį: [[objektai/vietos/Kijevas]], [[objektai/vietos/Polockas]]
+- Skirgaila buvo valdovas [[objektai/vietos/Lietuva]], [[objektai/vietos/Polockas]]
+- Skirgaila valdė [[objektai/vietos/Kijevas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Polockas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
+- Skirgaila keliavo į [[objektai/vietos/Buda]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Miloslavičiai]], [[objektai/vietos/Polockas]], [[objektai/vietos/Šeškinės laukas]]
+- Skirgaila mirė [[objektai/vietos/Kijevas]]
+- Skirgaila puolė [[objektai/vietos/Trakai]]
+- Skirgaila apgulė [[objektai/vietos/Polockas]]
+- Skirgaila užėmė [[objektai/vietos/Druckas]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Polockas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vitebskas]]
+- Skirgaila gynė [[objektai/vietos/Vilnius]]
+- Skirgaila siuntė į [[objektai/vietos/Krėva]], [[objektai/vietos/Lenkija]]
+- Skirgaila kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]
+- Skirgaila dalyvavo mūšyje [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]
+- Skirgaila gyveno [[objektai/vietos/Trakai]], [[objektai/vietos/Trakų pilis|Trakų pilis (pilis)]]
+- Skirgaila rėmė [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

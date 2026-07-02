@@ -389,11 +389,9 @@ Zigmantas vaizduojamas kaip Romos imperatorius, siekęs sukiršinti Jogailą su 
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Barbora Cyleikaitė]] buvo_zmona Zigmantas (Romos imperatorius)
-- [[objektai/asmenys/Kaributas]] kariavo_pries Zigmantas (Romos imperatorius)
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] sudare_sutarti_su Zigmantas (Romos imperatorius)
-- Zigmantas (Romos imperatorius) buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_sajungininkas_su Zigmantas (Romos imperatorius)
-- Zigmantas (Romos imperatorius) paskyre [[objektai/asmenys/Zig. Rothas]]
-- Zigmantas (Romos imperatorius) reme [[objektai/grupes/Kryžiuočių ordinas]]
-- Zigmantas (Romos imperatorius) paskyre [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Žmonos: [[objektai/asmenys/Barbora Cyleikaitė]]
+- Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Kariavo prieš: [[objektai/asmenys/Kaributas]]
+- Sudarė sutartį su: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Zigmantas (Romos imperatorius) paskyrė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zig. Rothas]]
+- Zigmantas (Romos imperatorius) rėmė [[objektai/grupes/Kryžiuočių ordinas]]

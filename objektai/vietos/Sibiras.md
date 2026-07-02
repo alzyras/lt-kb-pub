@@ -174,5 +174,5 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Sovietų Sąjunga]] siunte_i Sibiras
-- [[objektai/grupes/Lietuviai]] keliavo_i Sibiras
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
+- Buvo siuntimo vieta: [[objektai/grupes/Sovietų Sąjunga]]

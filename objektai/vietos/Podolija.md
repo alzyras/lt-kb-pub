@@ -256,6 +256,6 @@ Podolija Lietuvos istorijos žinių bazėje siejama su Lietuvos valstybės pieti
     - t-009
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Podolija
-- Podolija priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Švitrigaila]] valde_teritorija Podolija
+- Buvo valdoma: [[objektai/asmenys/Švitrigaila]]
+- Užėmė Podoliją: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Podolija priklausė [[objektai/vietos/Lietuva]]

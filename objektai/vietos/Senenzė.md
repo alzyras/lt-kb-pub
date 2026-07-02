@@ -63,6 +63,5 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Divanas]] apgule Senenzė
-- [[objektai/grupes/Bartai]] puole Senenzė
-- [[objektai/grupes/Bartai]] apgule Senenzė
+- Puolė Senenzę: [[objektai/grupes/Bartai]]
+- Apgulė Senenzę: [[objektai/grupes/Bartai]], [[objektai/asmenys/Divanas]]

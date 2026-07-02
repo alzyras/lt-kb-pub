@@ -46,4 +46,4 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
     - t-001
 
 ## Ryšiai
-- Medenava priklause [[objektai/vietos/Semba]]
+- Medenava priklausė [[objektai/vietos/Semba]]

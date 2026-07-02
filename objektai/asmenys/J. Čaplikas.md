@@ -61,4 +61,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- J. Čaplikas keliavo_i [[objektai/vietos/Augustavas]]
+- J. Čaplikas keliavo į [[objektai/vietos/Augustavas]]

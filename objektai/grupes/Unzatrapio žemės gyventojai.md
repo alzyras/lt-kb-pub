@@ -47,4 +47,4 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
     - t-001
 
 ## Ryšiai
-- Unzatrapio žemės gyventojai puole [[objektai/vietos/Notanga]]
+- Unzatrapio žemės gyventojai puolė [[objektai/vietos/Notanga]]

@@ -207,5 +207,4 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-- Vidurinė Lietuva priklause [[objektai/vietos/Lenkija]]
-- Vidurinė Lietuva priklause [[objektai/vietos/Vilnius]]
+- Vidurinė Lietuva priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Vilnius]]

@@ -52,4 +52,4 @@ gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityj
     - t-002
 
 ## Ryšiai
-- Braclavo sritis priklause [[objektai/vietos/Podolė]]
+- Braclavo sritis priklausė [[objektai/vietos/Podolė]]

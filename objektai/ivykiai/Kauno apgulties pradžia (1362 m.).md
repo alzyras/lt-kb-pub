@@ -71,4 +71,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] apgule Kauno apgulties pradžia (1362 m.)
+- Apgulė Kauno apgulties pradžią (1362 m.): [[objektai/grupes/Kryžiuočių ordinas]]

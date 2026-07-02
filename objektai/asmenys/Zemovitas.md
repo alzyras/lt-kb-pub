@@ -147,4 +147,4 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
     - t-003
 
 ## Ryšiai
-- Zemovitas buvo_valdovas [[objektai/vietos/Mozūrija]]
+- Zemovitas buvo valdovas [[objektai/vietos/Mozūrija]]

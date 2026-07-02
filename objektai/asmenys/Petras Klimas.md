@@ -92,5 +92,5 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
     - t-001
 
 ## Ryšiai
-- Petras Klimas keliavo_i [[objektai/vietos/Ženeva]]
+- Petras Klimas keliavo į [[objektai/vietos/Ženeva]]
 - Petras Klimas gyveno [[objektai/vietos/Vilnius]]

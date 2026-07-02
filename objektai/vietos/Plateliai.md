@@ -49,4 +49,4 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
     - t-001
 
 ## Ryšiai
-- Plateliai priklause [[objektai/vietos/Lietuva]]
+- Plateliai priklausė [[objektai/vietos/Lietuva]]

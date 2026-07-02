@@ -56,5 +56,5 @@ Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, | | Aukštadvarį ir pa
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] uzeme Aukštadvaris
-- [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]] keliavo_i Aukštadvaris
+- Buvo kelionės vieta: [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
+- Užėmė Aukštadvarį: [[objektai/grupes/Lenkai]]

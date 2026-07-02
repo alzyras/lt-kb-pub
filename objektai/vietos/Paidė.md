@@ -119,4 +119,4 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Švedijos kariuomenė]] uzeme Paidė
+- Užėmė Paidę: [[objektai/grupes/Švedijos kariuomenė]]

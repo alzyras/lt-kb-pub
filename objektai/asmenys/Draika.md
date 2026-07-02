@@ -113,7 +113,7 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Pinas]] buvo_sunus Draika
-- Draika keliavo_i [[objektai/vietos/Ragainė]]
+- Sūnūs: [[objektai/asmenys/Pinas]]
+- Draika keliavo į [[objektai/vietos/Ragainė]]
+- Draika siuntė į [[objektai/vietos/Ragainė]]
 - Draika gyveno [[objektai/vietos/Aukaimis]]
-- Draika siunte_i [[objektai/vietos/Ragainė]]

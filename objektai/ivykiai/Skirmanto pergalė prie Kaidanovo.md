@@ -102,4 +102,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Skirmantas]] dalyvavo_musyje Skirmanto pergalė prie Kaidanovo
+- Turėjo dalyvį: [[objektai/asmenys/Skirmantas]]

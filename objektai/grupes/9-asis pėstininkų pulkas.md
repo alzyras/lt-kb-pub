@@ -48,4 +48,4 @@ Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pu
     - t-001
 
 ## Ryšiai
-- 9-asis pėstininkų pulkas puole [[objektai/grupes/Lenkai]]
+- 9-asis pėstininkų pulkas puolė [[objektai/grupes/Lenkai]]

@@ -56,4 +56,4 @@ Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Embutė
+- Puolė Embutę: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

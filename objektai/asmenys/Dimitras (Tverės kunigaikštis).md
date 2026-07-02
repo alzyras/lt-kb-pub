@@ -45,5 +45,5 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Marija]] buvo_zmona Dimitras (Tverės kunigaikštis)
-- Dimitras (Tverės kunigaikštis) vede [[objektai/asmenys/Marija]]
+- Žmonos: [[objektai/asmenys/Marija]]
+- Sutuoktiniai: [[objektai/asmenys/Marija]]

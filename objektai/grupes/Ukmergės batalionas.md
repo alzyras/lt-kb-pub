@@ -44,5 +44,5 @@ Kubiliaus vadovaujamas Ukmergės batalionas, nepaisydamas smarkios priešo ugnie
     - t-001
 
 ## Ryšiai
-- Ukmergės batalionas kariavo_pries [[objektai/grupes/Rusai]]
-- Ukmergės batalionas puole [[objektai/grupes/Rusai]]
+- Ukmergės batalionas puolė [[objektai/grupes/Rusai]]
+- Ukmergės batalionas kariavo prieš [[objektai/grupes/Rusai]]

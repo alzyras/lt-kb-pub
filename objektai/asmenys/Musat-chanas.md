@@ -64,4 +64,4 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
     - t-002
 
 ## Ryšiai
-- Musat-chanas valde [[objektai/vietos/Kafa]]
+- Musat-chanas valdė [[objektai/vietos/Kafa]]

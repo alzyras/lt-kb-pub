@@ -41,4 +41,4 @@ Petro ir Povilo bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno.
     - t-001
 
 ## Ryšiai
-- Pažaislio vienuolyno ansamblis priklause [[objektai/vietos/Kaunas]]
+- Pažaislio vienuolyno ansamblis priklausė [[objektai/vietos/Kaunas]]

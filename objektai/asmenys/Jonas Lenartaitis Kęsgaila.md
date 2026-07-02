@@ -49,4 +49,4 @@ Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, k
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Antspaudas]] priklause Jonas Lenartaitis Kęsgaila
+- Turėjo priklausinį: [[objektai/daiktai/Antspaudas]]

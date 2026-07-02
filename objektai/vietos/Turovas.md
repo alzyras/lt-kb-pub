@@ -123,7 +123,5 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] valde Turovas
-- [[objektai/asmenys/Pisimantas]] valde_miesta Turovas
-- [[objektai/grupes/Gediminaičiai]] valde_teritorija Turovas
-- Turovas priklause [[objektai/vietos/Polesė]]
+- Buvo valdoma: [[objektai/grupes/Gediminaičiai]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Pisimantas]]
+- Turovas priklausė [[objektai/vietos/Polesė]]

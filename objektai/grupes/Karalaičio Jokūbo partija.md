@@ -47,4 +47,4 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
     - t-001
 
 ## Ryšiai
-- Karalaičio Jokūbo partija reme [[objektai/asmenys/Augustas]]
+- Karalaičio Jokūbo partija rėmė [[objektai/asmenys/Augustas]]

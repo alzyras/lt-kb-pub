@@ -46,4 +46,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Pamario kunigaikščių sąjunga buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

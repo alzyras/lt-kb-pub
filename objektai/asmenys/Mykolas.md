@@ -103,15 +103,12 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
     - t-001
 
 ## Ryšiai
-- Mykolas buvo_sunus [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
-- Mykolas puole [[objektai/grupes/Totoriai]]
-- Mykolas keliavo_i [[objektai/vietos/Mazovija]]
-- Mykolas kariavo_pries [[objektai/asmenys/Švitrigaila]]
-- Mykolas puole [[objektai/vietos/Severskas]]
-- Mykolas dalyvavo_musyje [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
-- Mykolas mire [[objektai/vietos/Maskva]]
-- Mykolas uzeme [[objektai/vietos/Serpeiskas]]
-- Mykolas uzeme [[objektai/vietos/Starodubas]]
-- [[objektai/asmenys/Kazimieras Jogailaitis]] kariavo_pries Mykolas
-- Mykolas kariavo_pries [[objektai/grupes/Livonijos ordinas]]
+- Tėvai: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- Kariavo prieš: [[objektai/asmenys/Kazimieras Jogailaitis]]
+- Mykolas keliavo į [[objektai/vietos/Mazovija]]
+- Mykolas mirė [[objektai/vietos/Maskva]]
+- Mykolas puolė [[objektai/vietos/Severskas]], [[objektai/grupes/Totoriai]]
+- Mykolas užėmė [[objektai/vietos/Serpeiskas]], [[objektai/vietos/Starodubas]]
+- Mykolas kariavo prieš [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Švitrigaila]]
+- Mykolas dalyvavo mūšyje [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
 - Mykolas gyveno [[objektai/vietos/Kijevas]]

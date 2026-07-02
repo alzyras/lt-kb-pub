@@ -64,6 +64,6 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
     - t-001
 
 ## Ryšiai
-- Pagraudenė priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]] puole Pagraudenė
-- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]] surenge_zygi_i Pagraudenė
+- Puolė Pagraudenę: [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
+- Pagraudenė priklausė [[objektai/vietos/Lietuva]]

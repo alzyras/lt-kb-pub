@@ -56,4 +56,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Pochodnia reme [[objektai/grupes/Lenkai]]
+- Pochodnia rėmė [[objektai/grupes/Lenkai]]

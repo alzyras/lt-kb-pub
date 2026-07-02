@@ -143,5 +143,5 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Fridrichas de Libencelė]] apgule Gedimino pilis Castrum Gedemini
-- [[objektai/asmenys/Tomas Aldenburgas]] puole Gedimino pilis Castrum Gedemini
+- Puolė Gedimino pilis Castrum Gedemini: [[objektai/asmenys/Tomas Aldenburgas]]
+- Apgulė Gedimino pilis Castrum Gedemini: [[objektai/asmenys/Fridrichas de Libencelė]]

@@ -60,4 +60,4 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Prancūzai]] siunte_i Ruro kraštas (kraštas)
+- Buvo siuntimo vieta: [[objektai/grupes/Prancūzai]]

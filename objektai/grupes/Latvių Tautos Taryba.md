@@ -90,4 +90,4 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
     - t-001
 
 ## Ryšiai
-- Latvių Tautos Taryba (institucija) priklause [[objektai/vietos/Latvija]]
+- Latvių Tautos Taryba (institucija) priklausė [[objektai/vietos/Latvija]]

@@ -48,4 +48,4 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Belichovas]] priklause Jonas (Sarginio sūnus)
+- Turėjo priklausinį: [[objektai/vietos/Belichovas]]

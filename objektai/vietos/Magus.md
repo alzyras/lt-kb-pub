@@ -54,5 +54,4 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
     - t-001
 
 ## Ryšiai
-- Magus priklause [[objektai/grupes/Latviai]]
-- Magus priklause [[objektai/grupes/Lietuviai]]
+- Magus priklausė [[objektai/grupes/Latviai]], [[objektai/grupes/Lietuviai]]

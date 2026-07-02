@@ -148,4 +148,4 @@ amziai:
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/NKVD]] apgule Žuvinto ežeras
+- Apgulė Žuvinto ežerą: [[objektai/grupes/NKVD]]

@@ -66,5 +66,5 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
     - t-002
 
 ## Ryšiai
+- Borisas Karijotaitis keliavo į [[objektai/vietos/Krokuva]]
 - Borisas Karijotaitis gyveno [[objektai/vietos/Podolė]]
-- Borisas Karijotaitis keliavo_i [[objektai/vietos/Krokuva]]

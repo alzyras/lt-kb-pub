@@ -95,5 +95,5 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Rusų žemė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_teritorija Rusų žemė
+- Buvo valdoma: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Jogailaitis]]

@@ -120,11 +120,8 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Jurijus]] buvo_sunus Sviatoslavas
-- Sviatoslavas mire [[objektai/vietos/Mstislavlis]]
-- Sviatoslavas uzeme [[objektai/vietos/Mstislavlis]]
-- [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]] buvo_sunus Sviatoslavas
-- Sviatoslavas mire [[objektai/vietos/Vechra]]
-- Sviatoslavas valde [[objektai/vietos/Mstislavlis]]
-- Sviatoslavas valde [[objektai/vietos/Smolenskas]]
-- Sviatoslavas buvo_valdovas [[objektai/vietos/Smolenskas]]
+- Sūnūs: [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]], [[objektai/asmenys/Jurijus]]
+- Sviatoslavas buvo valdovas [[objektai/vietos/Smolenskas]]
+- Sviatoslavas valdė [[objektai/vietos/Mstislavlis]], [[objektai/vietos/Smolenskas]]
+- Sviatoslavas mirė [[objektai/vietos/Mstislavlis]], [[objektai/vietos/Vechra]]
+- Sviatoslavas užėmė [[objektai/vietos/Mstislavlis]]

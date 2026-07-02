@@ -47,4 +47,4 @@ Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416,
     - t-001
 
 ## Ryšiai
-- Ditrichas (Kristburgo komtūras) surenge_zygi_i [[objektai/vietos/Pagudė]]
+- Ditrichas (Kristburgo komtūras) surengė žygį į [[objektai/vietos/Pagudė]]

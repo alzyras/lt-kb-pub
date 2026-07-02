@@ -43,4 +43,4 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
     - t-001
 
 ## Ryšiai
-- Nikodemas Janavičius iš Čechanovičių valde_miesta [[objektai/vietos/Melnikas]]
+- Nikodemas Janavičius iš Čechanovičių valdė [[objektai/vietos/Melnikas]]

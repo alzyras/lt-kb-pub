@@ -368,6 +368,5 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
     - t-014
 
 ## Ryšiai
-- Ponų taryba (institucija) paskyre [[objektai/asmenys/Aleksandras]]
-- Ponų taryba (institucija) siunte_i [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]
-- Ponų taryba (institucija) paskyre [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- Ponų taryba (institucija) siuntė į [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]
+- Ponų taryba (institucija) paskyrė [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]

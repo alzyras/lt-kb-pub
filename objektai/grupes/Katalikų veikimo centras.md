@@ -48,4 +48,4 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Krikščionių demokratų blokas]] buvo_sajungininkas_su Katalikų veikimo centras
+- Sąjungininkai: [[objektai/grupes/Krikščionių demokratų blokas]]

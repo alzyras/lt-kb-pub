@@ -82,4 +82,4 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
     - t-001
 
 ## Ryšiai
-- Hlebas mire [[objektai/vietos/Vorskla]]
+- Hlebas mirė [[objektai/vietos/Vorskla]]

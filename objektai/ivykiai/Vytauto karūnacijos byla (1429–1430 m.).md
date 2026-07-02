@@ -190,4 +190,4 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] puole Vytauto karūnacijos byla (1429–1430 m.)
+- Puolė Vytauto karūnacijos bylą (1429–1430 m.): [[objektai/grupes/Lenkai]]

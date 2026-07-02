@@ -142,6 +142,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
     - t-004
 
 ## Ryšiai
-- Mingaila puole [[objektai/grupes/Polockiečiai]]
-- [[objektai/asmenys/Ginvilas]] buvo_sunus Mingaila
-- Mingaila kariavo_pries [[objektai/grupes/Polockiečiai]]
+- Sūnūs: [[objektai/asmenys/Ginvilas]]
+- Mingaila puolė [[objektai/grupes/Polockiečiai]]
+- Mingaila kariavo prieš [[objektai/grupes/Polockiečiai]]

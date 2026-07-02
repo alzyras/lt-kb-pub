@@ -56,4 +56,4 @@ Narbutas nurodo, kad Gvaželutis gimė 1295 metais kaip Vytenio ir jo antrosios 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] buvo_brolis Gvaželutis
+- Broliai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

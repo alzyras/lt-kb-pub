@@ -53,4 +53,4 @@ Sudeginę Zavichostą lietuviai nužygiavo prie Opatovo. Opatovas yra Kielcų va
     - t-002
 
 ## Ryšiai
-- Opatovas priklause [[objektai/vietos/Lenkija]]
+- Opatovas priklausė [[objektai/vietos/Lenkija]]

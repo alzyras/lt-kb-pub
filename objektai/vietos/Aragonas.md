@@ -71,5 +71,5 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Petras Roizijus]] gime Aragonas
-- [[objektai/vietos/Alkanisas]] priklause Aragonas
+- Gimimo vieta: [[objektai/asmenys/Petras Roizijus]]
+- Turėjo priklausinį: [[objektai/vietos/Alkanisas]]

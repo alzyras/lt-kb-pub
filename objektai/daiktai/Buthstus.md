@@ -95,4 +95,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- Buthstus priklause [[objektai/grupes/Kriviai ir Krivių Krivaičiai]]
+- Buthstus priklausė [[objektai/grupes/Kriviai ir Krivių Krivaičiai]]

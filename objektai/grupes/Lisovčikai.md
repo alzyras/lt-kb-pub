@@ -46,4 +46,4 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
     - t-001
 
 ## Ryšiai
-- Lisovčikai puole [[objektai/grupes/Janičarai]]
+- Lisovčikai puolė [[objektai/grupes/Janičarai]]

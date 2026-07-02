@@ -165,5 +165,5 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     - t-006
 
 ## Ryšiai
-- Vietinė rinktinė siunte_i [[objektai/vietos/Vilnija]]
-- Vietinė rinktinė kariavo_pries [[objektai/grupes/Armija Krajova]]
+- Vietinė rinktinė siuntė į [[objektai/vietos/Vilnija]]
+- Vietinė rinktinė kariavo prieš [[objektai/grupes/Armija Krajova]]

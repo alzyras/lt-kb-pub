@@ -55,4 +55,4 @@ Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų 
     - t-001
 
 ## Ryšiai
-- Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė valde [[objektai/vietos/Lietuva]]
+- Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė valdė [[objektai/vietos/Lietuva]]

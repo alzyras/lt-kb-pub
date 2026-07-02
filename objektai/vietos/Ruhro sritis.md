@@ -58,5 +58,5 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Prancūzai]] uzeme Ruhro sritis
-- Ruhro sritis priklause [[objektai/vietos/Vokietija]]
+- Užėmė Ruhro sritį: [[objektai/grupes/Prancūzai]]
+- Ruhro sritis priklausė [[objektai/vietos/Vokietija]]

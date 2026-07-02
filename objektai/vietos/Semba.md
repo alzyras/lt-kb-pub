@@ -839,36 +839,11 @@ Semba šiame įraše iškyla kaip Prūsijos žemė, susijusi su Ordino, sembų, 
     - t-015
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Semba
-- [[objektai/grupes/Lietuvos kariuomenė]] puole Semba
-- [[objektai/grupes/Sūduviai]] puole Semba
-- [[objektai/grupes/Skalviai]] puole Semba
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Semba
-- [[objektai/grupes/Nadruviai]] puole Semba
-- [[objektai/vietos/Romehnen]] priklause Semba
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] puole Semba
-- Semba priklause [[objektai/vietos/Žemaitija]]
-- [[objektai/asmenys/Dargis]] gyveno Semba
-- [[objektai/asmenys/Henrikas Stange]] surenge_zygi_i Semba
-- [[objektai/grupes/Lietuviai]] surenge_zygi_i Semba
-- [[objektai/vietos/Pabečiai]] priklause Semba
-- [[objektai/vietos/Rinava]] priklause Semba
-- [[objektai/asmenys/Vytenis (Lietuvos karalius)]] puole Semba
-- [[objektai/grupes/Žemaičiai]] puole Semba
-- [[objektai/grupes/Livonijos ordinas]] keliavo_i Semba
-- [[objektai/asmenys/Pelužis]] keliavo_i Semba
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Semba
-- [[objektai/asmenys/Henrikas Stange]] puole Semba
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Semba
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] surenge_zygi_i Semba
-- [[objektai/asmenys/Otokaras II]] puole Semba
-- [[objektai/grupes/Vokiečiai]] puole Semba
-- [[objektai/asmenys/Konradas]] gyne Semba
-- [[objektai/vietos/Lochštetė]] priklause Semba
-- [[objektai/vietos/Fišhauzenas]] priklause Semba
-- [[objektai/vietos/Medenava]] priklause Semba
-- [[objektai/asmenys/Konradas]] siunte_i Semba
-- [[objektai/asmenys/Laukstetas]] gyveno Semba
-- [[objektai/vietos/Abenda]] priklause Semba
-- [[objektai/asmenys/Glapas]] puole Semba
-- [[objektai/vietos/Aistmarios]] priklause Semba
+- Buvo kelionės vieta: [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Pelužis]]
+- Puolė Sembą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Glapas]], [[objektai/asmenys/Henrikas Stange]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/grupes/Nadruviai]], [[objektai/asmenys/Otokaras II]], [[objektai/grupes/Skalviai]], [[objektai/grupes/Sūduviai]], [[objektai/grupes/Vokiečiai]], [[objektai/asmenys/Vytenis (Lietuvos karalius)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/grupes/Žemaičiai]]
+- Gynė Sembą: [[objektai/asmenys/Konradas]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Konradas]]
+- Buvo žygio kryptis: [[objektai/asmenys/Henrikas Stange]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lietuviai]]
+- Gyvenamoji vieta: [[objektai/asmenys/Dargis]], [[objektai/asmenys/Laukstetas]]
+- Turėjo priklausinį: [[objektai/vietos/Abenda]], [[objektai/vietos/Aistmarios]], [[objektai/vietos/Fišhauzenas]], [[objektai/vietos/Lochštetė]], [[objektai/vietos/Medenava]], [[objektai/vietos/Pabečiai]], [[objektai/vietos/Rinava]], [[objektai/vietos/Romehnen]]
+- Semba priklausė [[objektai/vietos/Žemaitija]]

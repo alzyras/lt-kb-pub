@@ -69,4 +69,4 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
     - t-001
 
 ## Ryšiai
-- SSRS kariuomenė keliavo_i [[objektai/vietos/Lietuva]]
+- SSRS kariuomenė keliavo į [[objektai/vietos/Lietuva]]

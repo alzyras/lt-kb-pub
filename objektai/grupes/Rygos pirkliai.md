@@ -53,4 +53,4 @@ Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­ nėtinai svarbiu p
     - t-001
 
 ## Ryšiai
-- Rygos pirkliai prekiavo_su [[objektai/vietos/Vilnius]]
+- Rygos pirkliai prekiavo su [[objektai/vietos/Vilnius]]

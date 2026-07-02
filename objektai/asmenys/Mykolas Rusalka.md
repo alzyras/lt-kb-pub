@@ -65,4 +65,4 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
     - t-001
 
 ## Ryšiai
-- Mykolas Rusalka keliavo_i [[objektai/vietos/Vilnius]]
+- Mykolas Rusalka keliavo į [[objektai/vietos/Vilnius]]

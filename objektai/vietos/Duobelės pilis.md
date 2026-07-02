@@ -44,4 +44,4 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Duobelės pilis (pilis)
+- Puolė Duobelės pilį (pilis): [[objektai/grupes/Lietuviai]]

@@ -49,4 +49,4 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
     - t-001
 
 ## Ryšiai
-- Lohajskas priklause [[objektai/grupes/Slavai]]
+- Lohajskas priklausė [[objektai/grupes/Slavai]]

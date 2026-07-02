@@ -259,4 +259,4 @@ Julijona šiame įraše pristatoma kaip Algirdo žmona, Jogailos motina ir Viteb
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Karigaila]] buvo_sunus Julijona (Algirdo žmona)
+- Sūnūs: [[objektai/asmenys/Karigaila]]

@@ -56,5 +56,5 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
     - t-001
 
 ## Ryšiai
-- Petras Białas keliavo_i [[objektai/vietos/Maskva]]
-- Petras Białas sudare_sutarti_su [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- Petras Białas keliavo į [[objektai/vietos/Maskva]]
+- Petras Białas sudarė sutartį su [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]

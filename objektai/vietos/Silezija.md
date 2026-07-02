@@ -359,9 +359,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
     - t-011
 
 ## Ryšiai
-- [[objektai/asmenys/Mikalojus Sachse]] keliavo_i Silezija
-- [[objektai/vietos/Vilnius]] prekiavo_su Silezija
-- [[objektai/asmenys/Hansas Tscheizas]] keliavo_i Silezija
-- Silezija prekiavo_su [[objektai/vietos/Vilnius]]
-- Silezija prekiavo_su [[objektai/vietos/Lietuva]]
-- Silezija priklause [[objektai/asmenys/Jonas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Hansas Tscheizas]], [[objektai/asmenys/Mikalojus Sachse]]
+- Prekiavo su: [[objektai/vietos/Vilnius]]
+- Silezija prekiavo su [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
+- Silezija priklausė [[objektai/asmenys/Jonas]]

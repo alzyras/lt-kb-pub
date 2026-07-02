@@ -54,5 +54,5 @@ Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komt�
     - t-001
 
 ## Ryšiai
-- Markvardas (Ragainės komtūras) buvo_sajungininkas_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Markvardas (Ragainės komtūras) keliavo_i [[objektai/vietos/Kijevas]]
+- Sąjungininkai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Markvardas (Ragainės komtūras) keliavo į [[objektai/vietos/Kijevas]]

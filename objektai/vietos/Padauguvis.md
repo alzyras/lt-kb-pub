@@ -102,5 +102,4 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Vokiečiai]] keliavo_i Padauguvis
-- [[objektai/grupes/Vokiečių pirkliai]] keliavo_i Padauguvis
+- Buvo kelionės vieta: [[objektai/grupes/Vokiečiai]], [[objektai/grupes/Vokiečių pirkliai]]

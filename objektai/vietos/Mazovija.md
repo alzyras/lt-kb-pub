@@ -594,29 +594,12 @@ Mazovija žinių bazėje siejama su Lietuvos ir kaimyninių kunigaikštysčių s
     - t-010
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] gyne Mazovija
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]] surenge_zygi_i Mazovija
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] puole Mazovija
-- [[objektai/asmenys/Jurgis Nosuta]] keliavo_i Mazovija
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] surenge_zygi_i Mazovija
-- [[objektai/asmenys/Treniota]] puole Mazovija
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Mazovija
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Mazovija
-- [[objektai/asmenys/Mykolas]] keliavo_i Mazovija
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] keliavo_i Mazovija
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] puole Mazovija
-- [[objektai/grupes/Lietuviai]] surenge_zygi_i Mazovija
-- [[objektai/asmenys/Dovydas]] puole Mazovija
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] surenge_zygi_i Mazovija
-- [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis)]] valde Mazovija
-- [[objektai/grupes/Lietuviai]] puole Mazovija
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]] puole Mazovija
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] siunte_i Mazovija
-- [[objektai/asmenys/Boleslavas (Mazovijos kunigaikštis)]] valde Mazovija
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] keliavo_i Mazovija
-- [[objektai/asmenys/Žygimantas Senasis]] buvo_valdovas Mazovija
-- [[objektai/vietos/Drohičinas]] priklause Mazovija
-- [[objektai/grupes/Lietuviai]] keliavo_i Mazovija
-- [[objektai/vietos/Melnikas]] priklause Mazovija
-- [[objektai/asmenys/Danutė]] gyveno Mazovija
-- [[objektai/asmenys/Bonislavas (Mazovijos kunigaikštis )]] valde Mazovija
+- Turėjo valdovą: [[objektai/asmenys/Žygimantas Senasis]]
+- Buvo valdoma: [[objektai/asmenys/Boleslavas (Mazovijos kunigaikštis)]], [[objektai/asmenys/Bonislavas (Mazovijos kunigaikštis )]], [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Jurgis Nosuta]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mykolas]], [[objektai/asmenys/Mykolas (Žygimanto sūnus)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Puolė Mazoviją: [[objektai/asmenys/Dovydas]], [[objektai/asmenys/Dovydas (Gardino pilininkas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Treniota]]
+- Gynė Mazoviją: [[objektai/grupes/Lietuvos kariuomenė]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Dovydas (Gardino pilininkas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lietuviai]]
+- Gyvenamoji vieta: [[objektai/asmenys/Danutė]]
+- Turėjo priklausinį: [[objektai/vietos/Drohičinas]], [[objektai/vietos/Melnikas]]

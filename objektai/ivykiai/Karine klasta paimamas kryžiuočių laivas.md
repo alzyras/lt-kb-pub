@@ -60,4 +60,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Nodamas]] uzeme Karine klasta paimamas kryžiuočių laivas
+- Užėmė Karine klasta paimamas kryžiuočių laivą: [[objektai/asmenys/Nodamas]]

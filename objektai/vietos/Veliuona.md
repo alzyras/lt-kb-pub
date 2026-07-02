@@ -909,17 +909,12 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
     - t-025
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Veliuona
-- [[objektai/grupes/Kryžiuočių ordinas]] apgule Veliuona
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Veliuona
-- [[objektai/asmenys/Ditrichas fon Altenburgas]] puole Veliuona
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Veliuona
-- Veliuona priklause [[objektai/grupes/Lietuviai]]
-- Veliuona priklause [[objektai/vietos/Junigeda]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] gyne Veliuona
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] mire Veliuona
-- [[objektai/asmenys/Petras Goštautas]] mire Veliuona
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Veliuona
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] buvo_palaidotas Veliuona
-- [[objektai/grupes/Vokiečiai]] apgule Veliuona
-- Veliuona priklause [[objektai/vietos/Nemunas]]
+- Buvo valdoma: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Mirties vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Petras Goštautas]]
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Veliuoną: [[objektai/asmenys/Ditrichas fon Altenburgas]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Apgulė Veliuoną: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vokiečiai]]
+- Užėmė Veliuoną: [[objektai/grupes/Kryžiuočių ordinas]]
+- Gynė Veliuoną: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Veliuona priklausė [[objektai/vietos/Junigeda]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Nemunas]]

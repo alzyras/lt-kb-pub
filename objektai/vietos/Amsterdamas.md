@@ -91,4 +91,4 @@ Amsterdamas, 1650 m.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Abiejų Tautų Respublika]] prekiavo_su Amsterdamas
+- Prekiavo su: [[objektai/grupes/Abiejų Tautų Respublika]]

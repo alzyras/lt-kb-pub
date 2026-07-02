@@ -47,4 +47,4 @@ Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies 
     - t-001
 
 ## Ryšiai
-- Pilies kalnas Vilniuje (pilis) priklause [[objektai/vietos/Vilnius]]
+- Pilies kalnas Vilniuje (pilis) priklausė [[objektai/vietos/Vilnius]]

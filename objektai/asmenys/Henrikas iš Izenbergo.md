@@ -60,4 +60,4 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
     - t-001
 
 ## Ryšiai
-- Henrikas iš Izenbergo pastate [[objektai/vietos/Girdavai]]
+- Henrikas iš Izenbergo pastatė [[objektai/vietos/Girdavai]]

@@ -54,4 +54,4 @@ Lenkijos - 7-asis pėstininkų pulkas, 1-asis, 2-asis ir 4-asis šaulių pulkai,
     - t-001
 
 ## Ryšiai
-- Poznanės raitininkų eskadronai priklause [[objektai/vietos/Lenkija]]
+- Poznanės raitininkų eskadronai priklausė [[objektai/vietos/Lenkija]]

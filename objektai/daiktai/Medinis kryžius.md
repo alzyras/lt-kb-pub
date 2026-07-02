@@ -69,4 +69,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Ruseinis]] pastate Medinis kryžius
+- Buvo pastatyta: [[objektai/asmenys/Ruseinis]]

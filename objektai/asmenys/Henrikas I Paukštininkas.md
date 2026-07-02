@@ -53,4 +53,4 @@ Vokietijos miestai, iki Ka­ rolio Didžiojo beveik nežinomi, vėliau, X amžiu
     - t-001
 
 ## Ryšiai
-- Henrikas I Paukštininkas valde [[objektai/vietos/Vokietija]]
+- Henrikas I Paukštininkas valdė [[objektai/vietos/Vokietija]]

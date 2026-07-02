@@ -145,4 +145,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- Europos geografinis centras priklause [[objektai/vietos/Lietuva]]
+- Europos geografinis centras priklausė [[objektai/vietos/Lietuva]]

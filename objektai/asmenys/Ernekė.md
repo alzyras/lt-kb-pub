@@ -81,6 +81,5 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
     - t-001
 
 ## Ryšiai
-- Ernekė keliavo_i [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Surminas]] puole Ernekė
-- Ernekė keliavo_i [[objektai/vietos/Kolainiai]]
+- Puolė Ernekę: [[objektai/asmenys/Surminas]]
+- Ernekė keliavo į [[objektai/vietos/Kolainiai]], [[objektai/vietos/Lietuva]]

@@ -70,7 +70,6 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
     - t-001
 
 ## Ryšiai
-- Paulius iš Olivos gyne [[objektai/grupes/Kryžiuočių ordinas]]
-- Paulius iš Olivos reme [[objektai/grupes/Kryžiuočių ordinas]]
-- Paulius iš Olivos gyne [[objektai/grupes/Teutonai]]
-- Paulius iš Olivos buvo_sajungininkas_su [[objektai/asmenys/Jordanas iš Pelplino]]
+- Sąjungininkai: [[objektai/asmenys/Jordanas iš Pelplino]]
+- Paulius iš Olivos gynė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Teutonai]]
+- Paulius iš Olivos rėmė [[objektai/grupes/Kryžiuočių ordinas]]

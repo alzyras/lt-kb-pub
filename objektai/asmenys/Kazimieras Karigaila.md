@@ -335,6 +335,6 @@ Kazimieras Karigaila buvo kunigaikštis, Vilniaus puolimo metu vadovavęs miesto
     - t-008
 
 ## Ryšiai
-- Kazimieras Karigaila buvo_brolis [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Kazimieras Karigaila gyne [[objektai/vietos/Vilnius]]
-- Kazimieras Karigaila mire [[objektai/vietos/Vilnius]]
+- Broliai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Kazimieras Karigaila mirė [[objektai/vietos/Vilnius]]
+- Kazimieras Karigaila gynė [[objektai/vietos/Vilnius]]

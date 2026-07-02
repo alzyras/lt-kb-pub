@@ -70,4 +70,4 @@ Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Helioga
     - t-002
 
 ## Ryšiai
-- Aurelijus Antoninas pastate [[objektai/daiktai/Dievų stabai]]
+- Aurelijus Antoninas pastatė [[objektai/daiktai/Dievų stabai]]

@@ -279,8 +279,6 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
     - t-009
 
 ## Ryšiai
-- [[objektai/grupes/Prancūzai]] uzeme Konstantinopolis
-- [[objektai/asmenys/Paleologas]] uzeme Konstantinopolis
-- [[objektai/grupes/Lotynai]] valde_miesta Konstantinopolis
-- [[objektai/grupes/Lotynai]] valde Konstantinopolis
-- [[objektai/asmenys/Devletas]] keliavo_i Konstantinopolis
+- Buvo valdoma: [[objektai/grupes/Lotynai]]
+- Buvo kelionės vieta: [[objektai/asmenys/Devletas]]
+- Užėmė Konstantinopolį: [[objektai/asmenys/Paleologas]], [[objektai/grupes/Prancūzai]]

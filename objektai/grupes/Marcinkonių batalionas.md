@@ -94,4 +94,4 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
     - t-003
 
 ## Ryšiai
-- Marcinkonių batalionas puole [[objektai/vietos/Perloja]]
+- Marcinkonių batalionas puolė [[objektai/vietos/Perloja]]

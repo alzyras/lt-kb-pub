@@ -56,5 +56,4 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Albinas Kubilius-Rūgštymas]] keliavo_i Butkiškio vienkiemis
-- [[objektai/asmenys/Alfonsas Vildžiūnas-Vijoklis]] keliavo_i Butkiškio vienkiemis
+- Buvo kelionės vieta: [[objektai/asmenys/Albinas Kubilius-Rūgštymas]], [[objektai/asmenys/Alfonsas Vildžiūnas-Vijoklis]]

@@ -147,5 +147,5 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
     - t-003
 
 ## Ryšiai
-- Ivanas Vasiljevičius valde [[objektai/vietos/Viazma]]
-- Ivanas Vasiljevičius siunte_i [[objektai/vietos/Smolenskas]]
+- Ivanas Vasiljevičius valdė [[objektai/vietos/Viazma]]
+- Ivanas Vasiljevičius siuntė į [[objektai/vietos/Smolenskas]]

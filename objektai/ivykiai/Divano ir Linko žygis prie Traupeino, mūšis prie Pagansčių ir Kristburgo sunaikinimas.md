@@ -154,4 +154,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Krikščionys]] dalyvavo_musyje Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas
+- Turėjo dalyvį: [[objektai/grupes/Krikščionys]]

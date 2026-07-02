@@ -208,12 +208,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]] puole Pagraudė
-- Pagraudė priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]] surenge_zygi_i Pagraudė
-- Pagraudė priklause [[objektai/vietos/Žemaitija]]
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Pagraudė
-- [[objektai/asmenys/Liudvikas iš Libencelės]] puole Pagraudė
-- [[objektai/vietos/Gedimino pilis|Gedimino pilis (pilis)]] priklause Pagraudė
-- [[objektai/asmenys/Fridrichas Kvicas]] puole Pagraudė
-- [[objektai/asmenys/Hartmanas]] puole Pagraudė
+- Puolė Pagraudę: [[objektai/asmenys/Eberhardas (Varmės vyskupas)]], [[objektai/asmenys/Fridrichas Kvicas]], [[objektai/asmenys/Hartmanas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Liudvikas iš Libencelės]]
+- Buvo žygio kryptis: [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
+- Turėjo priklausinį: [[objektai/vietos/Gedimino pilis|Gedimino pilis (pilis)]]
+- Pagraudė priklausė [[objektai/vietos/Lietuva]], [[objektai/vietos/Žemaitija]]

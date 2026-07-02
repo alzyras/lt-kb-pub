@@ -52,4 +52,4 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
     - t-001
 
 ## Ryšiai
-- Vokietijos valdovai elektoriai paskyre [[objektai/asmenys/Henrikas VII]]
+- Vokietijos valdovai elektoriai paskyrė [[objektai/asmenys/Henrikas VII]]

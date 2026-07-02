@@ -55,4 +55,4 @@ Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykęs sssR gynybos vicemin
     - t-001
 
 ## Ryšiai
-- Vladislavas Ačalovas keliavo_i [[objektai/vietos/Vilnius]]
+- Vladislavas Ačalovas keliavo į [[objektai/vietos/Vilnius]]

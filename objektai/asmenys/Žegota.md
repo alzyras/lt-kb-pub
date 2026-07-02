@@ -61,4 +61,4 @@ atnaujinta: ''
     - t-001
 
 ## Ryšiai
-- Žegota gyne [[objektai/grupes/Lietuviai]]
+- Žegota gynė [[objektai/grupes/Lietuviai]]

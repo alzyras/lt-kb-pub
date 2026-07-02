@@ -86,5 +86,4 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
     - t-001
 
 ## Ryšiai
-- Hermanas (Ordino magistras) pastate [[objektai/vietos/Kulmas]]
-- Hermanas (Ordino magistras) pastate [[objektai/vietos/Marienverderis]]
+- Hermanas (Ordino magistras) pastatė [[objektai/vietos/Kulmas]], [[objektai/vietos/Marienverderis]]

@@ -44,4 +44,4 @@ Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus �
     - t-001
 
 ## Ryšiai
-- Florijonas Zebžidovskis surenge_zygi_i [[objektai/vietos/Polockas]]
+- Florijonas Zebžidovskis surengė žygį į [[objektai/vietos/Polockas]]

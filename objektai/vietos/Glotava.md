@@ -86,5 +86,5 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
     - t-002
 
 ## Ryšiai
-- Glotava priklause [[objektai/vietos/Pagudė]]
-- [[objektai/grupes/Lietuviai]] puole Glotava
+- Puolė Glotavą: [[objektai/grupes/Lietuviai]]
+- Glotava priklausė [[objektai/vietos/Pagudė]]

@@ -56,4 +56,4 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
     - t-001
 
 ## Ryšiai
-- Jonas Liuksemburgietis buvo_valdovas [[objektai/vietos/Čekija]]
+- Jonas Liuksemburgietis buvo valdovas [[objektai/vietos/Čekija]]

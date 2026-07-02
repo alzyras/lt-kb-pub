@@ -229,5 +229,5 @@ Adomas Mickevičius buvo žymus XIX a. lenkų poetas, vadinamas istorinės Lietu
     - t-007
 
 ## Ryšiai
-- Adomas Mickevičius (poetas) keliavo_i [[objektai/vietos/Rusija]]
+- Adomas Mickevičius (poetas) keliavo į [[objektai/vietos/Rusija]]
 - Adomas Mickevičius (poetas) gyveno [[objektai/vietos/Kaunas]]

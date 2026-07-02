@@ -352,9 +352,7 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
     - t-010
 
 ## Ryšiai
-- [[objektai/vietos/Belichovas]] priklause Pamedėnai
-- Pamedėnai gyveno [[objektai/vietos/Pamedė]]
-- [[objektai/vietos/Senasis Kristburgas]] priklause Pamedėnai
-- [[objektai/asmenys/Henrikas iš Veidos]] kariavo_pries Pamedėnai
-- [[objektai/grupes/Pagudėnai]] puole Pamedėnai
-- Pamedėnai gyveno [[objektai/vietos/Senasis Kristburgas]]
+- Puolė Pamedėnai: [[objektai/grupes/Pagudėnai]]
+- Kariavo prieš: [[objektai/asmenys/Henrikas iš Veidos]]
+- Turėjo priklausinį: [[objektai/vietos/Belichovas]], [[objektai/vietos/Senasis Kristburgas]]
+- Pamedėnai gyveno [[objektai/vietos/Pamedė]], [[objektai/vietos/Senasis Kristburgas]]

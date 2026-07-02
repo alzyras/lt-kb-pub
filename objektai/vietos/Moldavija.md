@@ -143,5 +143,5 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Steponas]] buvo_valdovas Moldavija
-- [[objektai/asmenys/Steponas]] valde Moldavija
+- Turėjo valdovą: [[objektai/asmenys/Steponas]]
+- Buvo valdoma: [[objektai/asmenys/Steponas]]

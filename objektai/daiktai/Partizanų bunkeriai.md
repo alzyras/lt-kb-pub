@@ -114,4 +114,4 @@ Nenurodyta
 Nenurodyta
 
 ## Ryšiai
-- Partizanų bunkeriai priklause [[objektai/vietos/Šimonių giria]]
+- Partizanų bunkeriai priklausė [[objektai/vietos/Šimonių giria]]

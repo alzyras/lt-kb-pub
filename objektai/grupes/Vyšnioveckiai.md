@@ -73,5 +73,5 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Vyšnivecis]] priklause Vyšnioveckiai
-- Vyšnioveckiai valde_teritorija [[objektai/vietos/Vyšnivecis]]
+- Turėjo priklausinį: [[objektai/vietos/Vyšnivecis]]
+- Vyšnioveckiai valdė [[objektai/vietos/Vyšnivecis]]

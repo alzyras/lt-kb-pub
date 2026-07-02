@@ -62,4 +62,4 @@ Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukšči
     - t-001
 
 ## Ryšiai
-- Aleksandras Narimantaitis valde [[objektai/vietos/Volynė]]
+- Aleksandras Narimantaitis valdė [[objektai/vietos/Volynė]]

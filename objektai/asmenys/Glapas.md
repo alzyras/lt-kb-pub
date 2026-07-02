@@ -177,9 +177,8 @@ Glapas buvo Varmių vadas, prūsams vėl atkritus nuo tikėjimo išrinktas kariu
     - t-006
 
 ## Ryšiai
-- [[objektai/grupes/Varmiai]] paskyre Glapas
-- Glapas uzeme [[objektai/vietos/Brandenburgo pilis]]
-- Glapas mire [[objektai/vietos/Glapo kalva]]
-- Glapas mire [[objektai/vietos/Karaliaučius]]
-- [[objektai/asmenys/Steinavas]] buvo_priesas Glapas
-- Glapas puole [[objektai/vietos/Semba]]
+- Priešai: [[objektai/asmenys/Steinavas]]
+- Paskyrė Glapą: [[objektai/grupes/Varmiai]]
+- Glapas mirė [[objektai/vietos/Glapo kalva]], [[objektai/vietos/Karaliaučius]]
+- Glapas puolė [[objektai/vietos/Semba]]
+- Glapas užėmė [[objektai/vietos/Brandenburgo pilis]]

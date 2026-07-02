@@ -111,6 +111,6 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Ditrichas iš Altenburgo]] pastate Lunenburgas
-- [[objektai/grupes/Lietuviai]] apgule Lunenburgas
-- Lunenburgas priklause [[objektai/vietos/Barta]]
+- Buvo pastatyta: [[objektai/asmenys/Ditrichas iš Altenburgo]]
+- Apgulė Lunenburgą: [[objektai/grupes/Lietuviai]]
+- Lunenburgas priklausė [[objektai/vietos/Barta]]

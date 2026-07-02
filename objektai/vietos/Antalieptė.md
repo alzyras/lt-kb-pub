@@ -46,4 +46,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/P. Genys]] uzeme Antalieptė
+- Užėmė Antalieptę: [[objektai/asmenys/P. Genys]]

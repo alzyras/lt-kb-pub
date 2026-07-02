@@ -44,6 +44,6 @@ atnaujinta: ''
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Kerim Berdis]] puole Jerim Berdis
-- Jerim Berdis keliavo_i [[objektai/vietos/Skitija]]
-- Jerim Berdis buvo_brolis [[objektai/asmenys/Kerim Berdis]]
+- Broliai: [[objektai/asmenys/Kerim Berdis]]
+- Puolė Jerim Berdį: [[objektai/asmenys/Kerim Berdis]]
+- Jerim Berdis keliavo į [[objektai/vietos/Skitija]]

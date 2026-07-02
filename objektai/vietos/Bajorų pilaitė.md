@@ -51,4 +51,4 @@ atnaujinta: ''
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Šindekopfas]] uzeme Bajorų pilaitė
+- Užėmė Bajorų pilaitę: [[objektai/asmenys/Šindekopfas]]

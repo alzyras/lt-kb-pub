@@ -46,5 +46,5 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
     - t-001
 
 ## Ryšiai
-- Kaidanas keliavo_i [[objektai/vietos/Dnepras]]
-- [[objektai/grupes/Lietuviai]] kariavo_pries Kaidanas
+- Kariavo prieš: [[objektai/grupes/Lietuviai]]
+- Kaidanas keliavo į [[objektai/vietos/Dnepras]]

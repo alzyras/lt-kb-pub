@@ -62,7 +62,7 @@ Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir 
     - t-001
 
 ## Ryšiai
-- Sūduvos prūsai puole [[objektai/vietos/Kulmas]]
-- [[objektai/grupes/Žemaičiai]] reme Sūduvos prūsai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Sūduvos prūsai
-- Sūduvos prūsai keliavo_i [[objektai/vietos/Liubava]]
+- Puolė Sūduvos prūsai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Rėmė Sūduvos prūsai: [[objektai/grupes/Žemaičiai]]
+- Sūduvos prūsai keliavo į [[objektai/vietos/Liubava]]
+- Sūduvos prūsai puolė [[objektai/vietos/Kulmas]]

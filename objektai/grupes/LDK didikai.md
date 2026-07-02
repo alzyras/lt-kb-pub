@@ -52,5 +52,4 @@ Tai nulėmė, kad LDK didikai (aukščiausias visuomenės sluoksnis) parėmė b�
     - t-001
 
 ## Ryšiai
-- LDK didikai reme [[objektai/grupes/Evangelikų reformatų bažnyčia]]
-- LDK didikai reme [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
+- LDK didikai rėmė [[objektai/grupes/Evangelikų reformatų bažnyčia]], [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]

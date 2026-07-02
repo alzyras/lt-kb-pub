@@ -97,5 +97,5 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Abenda
-- Abenda priklause [[objektai/vietos/Semba]]
+- Puolė Abendą: [[objektai/grupes/Lietuviai]]
+- Abenda priklausė [[objektai/vietos/Semba]]

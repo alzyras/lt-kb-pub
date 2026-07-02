@@ -192,9 +192,6 @@ Stanislovas Kiška buvo LDK etmonas ir kariuomenės vadas, minimas kovose su mas
     - t-005
 
 ## Ryšiai
-- Stanislovas Kiška gyne [[objektai/vietos/Smolenskas]]
-- [[objektai/asmenys/Aleksandras]] paskyre Stanislovas Kiška
-- Stanislovas Kiška puole [[objektai/vietos/Viazma]]
-- Stanislovas Kiška puole [[objektai/vietos/Maskva]]
-- Stanislovas Kiška puole [[objektai/vietos/Viazmos žemė]]
-- Stanislovas Kiška gyne [[objektai/vietos/Lietuva]]
+- Paskyrė Stanislovas Kišką: [[objektai/asmenys/Aleksandras]]
+- Stanislovas Kiška puolė [[objektai/vietos/Maskva]], [[objektai/vietos/Viazma]], [[objektai/vietos/Viazmos žemė]]
+- Stanislovas Kiška gynė [[objektai/vietos/Lietuva]], [[objektai/vietos/Smolenskas]]

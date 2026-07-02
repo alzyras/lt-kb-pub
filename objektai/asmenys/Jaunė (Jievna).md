@@ -75,5 +75,5 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
     - t-002
 
 ## Ryšiai
+- Vyrai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Jaunė (Jievna) gyveno [[objektai/vietos/Vilnius]]
-- Jaunė (Jievna) buvo_zmona [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

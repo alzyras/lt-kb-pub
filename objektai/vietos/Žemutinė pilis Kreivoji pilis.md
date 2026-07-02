@@ -229,5 +229,5 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-009
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Žemutinė pilis Kreivoji pilis (pilis)
-- Žemutinė pilis Kreivoji pilis (pilis) priklause [[objektai/vietos/Vilnius]]
+- Puolė Žemutinė pilis Kreivoji pilį (pilis): [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Žemutinė pilis Kreivoji pilis (pilis) priklausė [[objektai/vietos/Vilnius]]

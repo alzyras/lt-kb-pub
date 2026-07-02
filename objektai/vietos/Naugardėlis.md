@@ -47,4 +47,4 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Naugardėlis
+- Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

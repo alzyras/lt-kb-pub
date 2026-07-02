@@ -53,5 +53,5 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Zemovitas (Mozūrijos kunigaikštis) sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Zemovitas (Mozūrijos kunigaikštis) buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Zemovitas (Mozūrijos kunigaikštis) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]

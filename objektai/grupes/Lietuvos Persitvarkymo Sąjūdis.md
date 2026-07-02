@@ -603,4 +603,4 @@ Nenurodyta
     - t-012
 
 ## Ryšiai
-- Lietuvos Persitvarkymo Sąjūdis paskyre [[objektai/asmenys/Vytautas Landsbergis]]
+- Lietuvos Persitvarkymo Sąjūdis paskyrė [[objektai/asmenys/Vytautas Landsbergis]]

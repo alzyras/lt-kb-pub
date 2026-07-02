@@ -123,4 +123,4 @@ Bodzanta Vladislovo vardu.
     - t-004
 
 ## Ryšiai
-- Bodzanta (arkivyskupas, XIV a.) keliavo_i [[objektai/vietos/Krokuva]]
+- Bodzanta (arkivyskupas, XIV a.) keliavo į [[objektai/vietos/Krokuva]]

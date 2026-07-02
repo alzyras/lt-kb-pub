@@ -56,4 +56,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Kymel
+- Puolė Kymel: [[objektai/grupes/Kryžiuočių ordinas]]

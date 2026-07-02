@@ -48,4 +48,4 @@ Jonas Čarnkovskis vadovavo Lenkijos pasienio kelių apsaugai ir suėmė Cigalą
     - t-001
 
 ## Ryšiai
-- Jonas Čarnkovskis buvo_priesas [[objektai/asmenys/Cigala iš Vienos]]
+- Priešai: [[objektai/asmenys/Cigala iš Vienos]]

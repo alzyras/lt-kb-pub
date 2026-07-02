@@ -147,6 +147,5 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Vilniaus vyskupija]] priklause Gniezno
-- [[objektai/vietos/Vilnius]] prekiavo_su Gniezno
-- [[objektai/vietos/Klodovas]] priklause Gniezno
+- Prekiavo su: [[objektai/vietos/Vilnius]]
+- Turėjo priklausinį: [[objektai/vietos/Klodovas]], [[objektai/vietos/Vilniaus vyskupija]]

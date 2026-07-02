@@ -75,4 +75,4 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Sanguškos]] valde_teritorija Kovelis
+- Buvo valdoma: [[objektai/grupes/Sanguškos]]

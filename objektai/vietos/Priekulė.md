@@ -49,4 +49,4 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
     - t-001
 
 ## Ryšiai
-- Priekulė priklause [[objektai/vietos/Latvija]]
+- Priekulė priklausė [[objektai/vietos/Latvija]]

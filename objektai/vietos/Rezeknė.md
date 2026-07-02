@@ -96,4 +96,4 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
     - t-002
 
 ## Ryšiai
-- Rezeknė priklause [[objektai/vietos/Lietuva]]
+- Rezeknė priklausė [[objektai/vietos/Lietuva]]

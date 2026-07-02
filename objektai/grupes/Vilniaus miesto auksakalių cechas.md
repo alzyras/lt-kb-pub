@@ -104,4 +104,4 @@ Vilniaus miesto amatininkų cechas.
     - t-003
 
 ## Ryšiai
-- Vilniaus miesto auksakalių cechas priklause [[objektai/vietos/Vilnius]]
+- Vilniaus miesto auksakalių cechas priklausė [[objektai/vietos/Vilnius]]

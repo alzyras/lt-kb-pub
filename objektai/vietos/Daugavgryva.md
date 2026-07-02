@@ -106,6 +106,5 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]] puole Daugavgryva
-- [[objektai/asmenys/Frederikas Joachimas Mansfeldas]] uzeme Daugavgryva
-- [[objektai/grupes/Rygiečiai]] puole Daugavgryva
+- Puolė Daugavgryvą: [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/grupes/Rygiečiai]]
+- Užėmė Daugavgryvą: [[objektai/asmenys/Frederikas Joachimas Mansfeldas]]

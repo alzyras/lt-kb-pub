@@ -174,12 +174,7 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Henrikas iš Plockės]] surenge_zygi_i Vaikiai
-- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Vaikiai
-- [[objektai/asmenys/Fridrichas iš Vildenbergo]] puole Vaikiai
-- Vaikiai priklause [[objektai/vietos/Žemaitija]]
-- [[objektai/asmenys/Fridrichas fon Vildenbergas]] surenge_zygi_i Vaikiai
-- [[objektai/asmenys/Fridrichas fon Vildenbergas]] keliavo_i Vaikiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Vaikiai
-- [[objektai/grupes/Sembai]] surenge_zygi_i Vaikiai
-- [[objektai/asmenys/Fridrichas fon Vildenbergas]] puole Vaikiai
+- Buvo kelionės vieta: [[objektai/asmenys/Fridrichas fon Vildenbergas]]
+- Puolė Vaikiai: [[objektai/asmenys/Fridrichas fon Vildenbergas]], [[objektai/asmenys/Fridrichas iš Vildenbergo]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Buvo žygio kryptis: [[objektai/asmenys/Fridrichas fon Vildenbergas]], [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Sembai]]
+- Vaikiai priklausė [[objektai/vietos/Žemaitija]]

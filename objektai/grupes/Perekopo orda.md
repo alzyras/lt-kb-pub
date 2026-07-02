@@ -61,4 +61,4 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     - t-001
 
 ## Ryšiai
-- Perekopo orda priklause [[objektai/grupes/Krymo chanatas]]
+- Perekopo orda priklausė [[objektai/grupes/Krymo chanatas]]

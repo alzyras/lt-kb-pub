@@ -2268,5 +2268,4 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Mikalojus Radvila]] keliavo_i Viena
-- [[objektai/grupes/Sapiegos]] keliavo_i Viena
+- Buvo kelionės vieta: [[objektai/asmenys/Mikalojus Radvila]], [[objektai/grupes/Sapiegos]]

@@ -47,6 +47,4 @@ Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė T
     - t-001
 
 ## Ryšiai
-- Aleksandras Karijotaitis puole [[objektai/vietos/Skalvos žemė]]
-- Aleksandras Karijotaitis puole [[objektai/vietos/Prūsija]]
-- Aleksandras Karijotaitis puole [[objektai/vietos/Ragainė]]
+- Aleksandras Karijotaitis puolė [[objektai/vietos/Prūsija]], [[objektai/vietos/Ragainė]], [[objektai/vietos/Skalvos žemė]]

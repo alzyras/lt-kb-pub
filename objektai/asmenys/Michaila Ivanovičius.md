@@ -44,4 +44,4 @@ Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Iva
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Boleslovas]] puole Michaila Ivanovičius
+- Puolė Michaila Ivanovičių: [[objektai/asmenys/Boleslovas]]

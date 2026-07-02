@@ -108,5 +108,5 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
     - t-002
 
 ## Ryšiai
-- Boucicaut puole [[objektai/grupes/Vilniaus prastuomenė]]
-- Boucicaut keliavo_i [[objektai/vietos/Kaunas]]
+- Boucicaut keliavo į [[objektai/vietos/Kaunas]]
+- Boucicaut puolė [[objektai/grupes/Vilniaus prastuomenė]]

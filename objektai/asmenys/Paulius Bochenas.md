@@ -66,4 +66,4 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Namas]] priklause Paulius Bochenas
+- Turėjo priklausinį: [[objektai/daiktai/Namas]]

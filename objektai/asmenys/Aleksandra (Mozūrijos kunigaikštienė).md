@@ -52,4 +52,4 @@ To siekė ir Jogaila, tarpininkaujant abiejų seseriai, Mozūrijos kunigaikštie
     - t-001
 
 ## Ryšiai
-- Aleksandra (Mozūrijos kunigaikštienė) reme [[objektai/asmenys/Švitrigaila]]
+- Aleksandra (Mozūrijos kunigaikštienė) rėmė [[objektai/asmenys/Švitrigaila]]

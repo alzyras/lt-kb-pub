@@ -68,4 +68,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Užsienio lietuviai]] keliavo_i Pasaulio lietuvių kongresas Kaune (1935 m.)
+- Buvo kelionės vieta: [[objektai/grupes/Užsienio lietuviai]]

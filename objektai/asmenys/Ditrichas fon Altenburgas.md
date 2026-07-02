@@ -65,4 +65,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Ditrichas fon Altenburgas puole [[objektai/vietos/Veliuona]]
+- Ditrichas fon Altenburgas puolė [[objektai/vietos/Veliuona]]

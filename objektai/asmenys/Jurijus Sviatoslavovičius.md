@@ -54,4 +54,4 @@ Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė prieši
     - t-001
 
 ## Ryšiai
-- Jurijus Sviatoslavovičius valde [[objektai/vietos/Smolenskas]]
+- Jurijus Sviatoslavovičius valdė [[objektai/vietos/Smolenskas]]

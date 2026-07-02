@@ -51,4 +51,4 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Namas]] priklause Sebastijonas Vitinskis
+- Turėjo priklausinį: [[objektai/daiktai/Namas]]

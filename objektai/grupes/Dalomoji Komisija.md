@@ -107,5 +107,4 @@ amziai:
     - t-003
 
 ## Ryšiai
-- Dalomoji Komisija gyveno [[objektai/vietos/Lenkija]]
-- Dalomoji Komisija gyveno [[objektai/vietos/Lietuva]]
+- Dalomoji Komisija gyveno [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

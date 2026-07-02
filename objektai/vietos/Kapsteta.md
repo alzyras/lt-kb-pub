@@ -71,6 +71,5 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Sembai]] uzkariavo Kapsteta
-- [[objektai/grupes/Sembai]] uzeme Kapsteta
-- [[objektai/asmenys/Tirskas]] uzkariavo Kapsteta
+- Užėmė Kapstetą: [[objektai/grupes/Sembai]]
+- Buvo užkariauta: [[objektai/grupes/Sembai]], [[objektai/asmenys/Tirskas]]

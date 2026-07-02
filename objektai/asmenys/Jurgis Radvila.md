@@ -485,4 +485,4 @@ Jurgis Radvila buvo kardinolas, Vilniaus ir Krokuvos vyskupas, Mikalojaus Radvil
 
 ## Ryšiai
 - Jurgis Radvila (vyskupas, XVI a.) gyveno [[objektai/vietos/Kardinalija]]
-- Jurgis Radvila (vyskupas, XVI a.) reme [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
+- Jurgis Radvila (vyskupas, XVI a.) rėmė [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]

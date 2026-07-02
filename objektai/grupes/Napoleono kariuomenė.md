@@ -87,6 +87,6 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
     - t-003
 
 ## Ryšiai
-- Napoleono kariuomenė uzeme [[objektai/vietos/Lietuva]]
-- Napoleono kariuomenė surenge_zygi_i [[objektai/vietos/Rusija]]
-- Napoleono kariuomenė keliavo_i [[objektai/vietos/Lietuva]]
+- Napoleono kariuomenė keliavo į [[objektai/vietos/Lietuva]]
+- Napoleono kariuomenė užėmė [[objektai/vietos/Lietuva]]
+- Napoleono kariuomenė surengė žygį į [[objektai/vietos/Rusija]]

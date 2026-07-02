@@ -211,6 +211,5 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - t-007
 
 ## Ryšiai
-- Lietuvos partizanai valde [[objektai/vietos/Lietuva]]
-- Lietuvos partizanai valde_teritorija [[objektai/vietos/Lietuva]]
-- Lietuvos partizanai kariavo_pries [[objektai/grupes/NKVD]]
+- Lietuvos partizanai valdė [[objektai/vietos/Lietuva]]
+- Lietuvos partizanai kariavo prieš [[objektai/grupes/NKVD]]

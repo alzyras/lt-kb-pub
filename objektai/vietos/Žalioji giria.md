@@ -98,5 +98,5 @@ atnaujinta: ''
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] keliavo_i Žalioji giria
-- [[objektai/grupes/Lietuviai]] gyveno Žalioji giria
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

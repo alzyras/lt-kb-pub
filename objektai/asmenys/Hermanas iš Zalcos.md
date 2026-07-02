@@ -443,17 +443,10 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
     - t-016
 
 ## Ryšiai
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) mire [[objektai/vietos/Salernas]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo_palaidotas [[objektai/vietos/Barleta]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) pastate [[objektai/vietos/Kulmas]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) paskyre [[objektai/asmenys/Ditrichas iš Bernheimo]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siunte_i [[objektai/vietos/Elbingas]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) paskyre [[objektai/asmenys/Hermanas Balkas]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siunte_i [[objektai/vietos/Livonija]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siunte_i [[objektai/vietos/Kulmas]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) dalyvavo_musyje [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės]]
-- [[objektai/asmenys/Popiežius Honorijus III]] paskyre Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)
-- [[objektai/asmenys/Fridrichas II]] paskyre Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siunte_i [[objektai/vietos/Kulmo žemė]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siunte_i [[objektai/vietos/Prūsija]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) pastate [[objektai/vietos/Štarkenbergas]]
+- Paskyrė Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): [[objektai/asmenys/Fridrichas II]], [[objektai/asmenys/Popiežius Honorijus III]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) mirė [[objektai/vietos/Salernas]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo palaidotas [[objektai/vietos/Barleta]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) pastatė [[objektai/vietos/Kulmas]], [[objektai/vietos/Štarkenbergas]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siuntė į [[objektai/vietos/Elbingas]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Kulmo žemė]], [[objektai/vietos/Livonija]], [[objektai/vietos/Prūsija]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) dalyvavo mūšyje [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) paskyrė [[objektai/asmenys/Ditrichas iš Bernheimo]], [[objektai/asmenys/Hermanas Balkas]]

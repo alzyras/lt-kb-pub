@@ -48,4 +48,4 @@ Trečiasis buvo nuo Simno kilęs Ignas Jonynas, kuris 1905 m. porai metų istori
     - t-001
 
 ## Ryšiai
-- Grenoblis priklause [[objektai/vietos/Prancūzija]]
+- Grenoblis priklausė [[objektai/vietos/Prancūzija]]

@@ -103,5 +103,5 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
     - t-001
 
 ## Ryšiai
-- [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D) puole Kresmena
-- [[objektai/asmenys/Skomantas]] gyveno Kresmena
+- Puolė Kresmeną: [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D)
+- Gyvenamoji vieta: [[objektai/asmenys/Skomantas]]

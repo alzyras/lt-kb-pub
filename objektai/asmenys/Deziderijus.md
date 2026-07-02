@@ -46,4 +46,4 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
     - t-001
 
 ## Ryšiai
-- Deziderijus puole [[objektai/vietos/Italija]]
+- Deziderijus puolė [[objektai/vietos/Italija]]

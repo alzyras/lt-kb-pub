@@ -81,5 +81,5 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
     - t-002
 
 ## Ryšiai
-- Varmijos vyskupystė priklause [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Braunsbergas]] priklause Varmijos vyskupystė
+- Turėjo priklausinį: [[objektai/vietos/Braunsbergas]]
+- Varmijos vyskupystė priklausė [[objektai/vietos/Lenkija]]

@@ -391,12 +391,11 @@ Traidenis buvo XIII a. Lietuvos valdovas, šaltiniuose išskiriamas kaip vienas 
     - t-016
 
 ## Ryšiai
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] buvo_sunus Traidenis (valdovas, XIII a.)
-- [[objektai/asmenys/Sirputis (Traidenio brolis)]] buvo_brolis Traidenis (valdovas, XIII a.)
-- Traidenis (valdovas, XIII a.) reme [[objektai/grupes/Žiemgaliai]]
-- Traidenis (valdovas, XIII a.) apgule [[objektai/vietos/Daugpilis]]
-- Traidenis (valdovas, XIII a.) puole [[objektai/vietos/Kulmas]]
-- Traidenis (valdovas, XIII a.) kariavo_pries [[objektai/grupes/Lenkai]]
-- Traidenis (valdovas, XIII a.) surenge_zygi_i [[objektai/vietos/Prūsija]]
-- Traidenis (valdovas, XIII a.) buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
-- Traidenis (valdovas, XIII a.) surenge_zygi_i [[objektai/vietos/Krokuva]]
+- Sūnūs: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Broliai: [[objektai/asmenys/Sirputis (Traidenio brolis)]]
+- Priešai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Traidenis (valdovas, XIII a.) puolė [[objektai/vietos/Kulmas]]
+- Traidenis (valdovas, XIII a.) apgulė [[objektai/vietos/Daugpilis]]
+- Traidenis (valdovas, XIII a.) surengė žygį į [[objektai/vietos/Krokuva]], [[objektai/vietos/Prūsija]]
+- Traidenis (valdovas, XIII a.) kariavo prieš [[objektai/grupes/Lenkai]]
+- Traidenis (valdovas, XIII a.) rėmė [[objektai/grupes/Žiemgaliai]]

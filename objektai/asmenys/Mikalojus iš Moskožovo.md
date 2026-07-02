@@ -47,4 +47,4 @@ Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais V
     - t-001
 
 ## Ryšiai
-- Mikalojus iš Moskožovo kariavo_pries [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Mikalojus iš Moskožovo kariavo prieš [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

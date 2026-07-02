@@ -59,4 +59,4 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     - t-002
 
 ## Ryšiai
-- Templininkų ordinas priklause [[objektai/grupes/Prancūzai]]
+- Templininkų ordinas priklausė [[objektai/grupes/Prancūzai]]

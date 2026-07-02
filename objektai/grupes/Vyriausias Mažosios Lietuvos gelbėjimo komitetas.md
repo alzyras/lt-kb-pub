@@ -55,4 +55,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]] reme Vyriausias Mažosios Lietuvos gelbėjimo komitetas
+- Rėmė Vyriausias Mažosios Lietuvos gelbėjimo komitetą: [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]

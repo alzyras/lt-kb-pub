@@ -548,16 +548,9 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
     - t-020
 
 ## Ryšiai
-- [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]] puole Palenkė
-- [[objektai/asmenys/Jurgis Nosuta]] uzeme Palenkė
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde Palenkė
-- [[objektai/vietos/Branskas]] priklause Palenkė
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde_teritorija Palenkė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Palenkė
-- [[objektai/asmenys/Petras Goštautas]] keliavo_i Palenkė
-- Palenkė priklause [[objektai/vietos/Lenkija]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Palenkė
-- [[objektai/grupes/Mazovijos kunigaikščiai]] uzeme Palenkė
-- [[objektai/vietos/Melnikas]] priklause Palenkė
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Palenkė
-- [[objektai/daiktai/Pilys]] priklause Palenkė
+- Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Petras Goštautas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Palenkę: [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Užėmė Palenkę: [[objektai/asmenys/Jurgis Nosuta]], [[objektai/grupes/Mazovijos kunigaikščiai]]
+- Turėjo priklausinį: [[objektai/vietos/Branskas]], [[objektai/vietos/Melnikas]], [[objektai/daiktai/Pilys]]
+- Palenkė priklausė [[objektai/vietos/Lenkija]]

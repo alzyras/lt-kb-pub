@@ -39,4 +39,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- 13-asis ulonų pulkas surenge_zygi_i [[objektai/vietos/Ukmergė]]
+- 13-asis ulonų pulkas surengė žygį į [[objektai/vietos/Ukmergė]]

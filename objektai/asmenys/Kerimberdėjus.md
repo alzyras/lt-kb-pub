@@ -106,4 +106,4 @@ Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Viln
     - t-002
 
 ## Ryšiai
-- Kerimberdėjus buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

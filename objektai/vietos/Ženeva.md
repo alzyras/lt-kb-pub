@@ -124,6 +124,4 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Petras Klimas]] keliavo_i Ženeva
-- [[objektai/asmenys/Augustinas Voldemaras]] keliavo_i Ženeva
-- [[objektai/asmenys/Dovas Zaunius]] keliavo_i Ženeva
+- Buvo kelionės vieta: [[objektai/asmenys/Augustinas Voldemaras]], [[objektai/asmenys/Dovas Zaunius]], [[objektai/asmenys/Petras Klimas]]

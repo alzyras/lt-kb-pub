@@ -65,5 +65,5 @@ O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] keliavo_i Vilnija
-- [[objektai/grupes/Vietinė rinktinė]] siunte_i Vilnija
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
+- Buvo siuntimo vieta: [[objektai/grupes/Vietinė rinktinė]]

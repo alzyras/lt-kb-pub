@@ -123,5 +123,4 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
     - t-001
 
 ## Ryšiai
-- Alanta priklause [[objektai/asmenys/Gabrielius Bekešas]]
-- Alanta priklause [[objektai/asmenys/Astikas]]
+- Alanta priklausė [[objektai/asmenys/Astikas]], [[objektai/asmenys/Gabrielius Bekešas]]

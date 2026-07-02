@@ -115,4 +115,4 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
     - t-001
 
 ## Ryšiai
-- Bernardinų ordinas keliavo_i [[objektai/vietos/Vilnius]]
+- Bernardinų ordinas keliavo į [[objektai/vietos/Vilnius]]

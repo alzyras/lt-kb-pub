@@ -181,5 +181,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- Bychovco kronikos rankraštis priklause [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]
-- Bychovco kronikos rankraštis priklause [[objektai/vietos/Mogiliovcai]]
+- Bychovco kronikos rankraštis priklausė [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]], [[objektai/vietos/Mogiliovcai]]

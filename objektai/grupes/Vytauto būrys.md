@@ -42,4 +42,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Vytauto būrys puole [[objektai/grupes/Rusai]]
+- Vytauto būrys puolė [[objektai/grupes/Rusai]]

@@ -52,4 +52,4 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
     - t-001
 
 ## Ryšiai
-- Stanislovas Narutavičius buvo_brolis [[objektai/asmenys/Gabrielis Narutovičius]]
+- Broliai: [[objektai/asmenys/Gabrielis Narutovičius]]

@@ -70,4 +70,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Pistoletas-kulkosvaidis MP 40 priklause [[objektai/grupes/Vokiečiai]]
+- Pistoletas-kulkosvaidis MP 40 priklausė [[objektai/grupes/Vokiečiai]]

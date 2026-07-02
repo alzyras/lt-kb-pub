@@ -332,6 +332,5 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
     - t-011
 
 ## Ryšiai
-- [[objektai/asmenys/Kaributas]] reme Husitai
-- Husitai keliavo_i [[objektai/vietos/Varėna]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Husitai
+- Rėmė Husitai: [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Husitai keliavo į [[objektai/vietos/Varėna]]

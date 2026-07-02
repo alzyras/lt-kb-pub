@@ -145,4 +145,4 @@ Jadvyga, Jogailos duktė ir Lenkijos karalaitė, Horodlės unijos kontekste buvo
     - t-004
 
 ## Ryšiai
-- Jadvyga (Jogailos duktė) buvo_dukte [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Tėvai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

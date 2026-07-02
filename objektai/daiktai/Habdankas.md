@@ -85,4 +85,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Habdankas priklause [[objektai/grupes/Bajorai]]
+- Habdankas priklausė [[objektai/grupes/Bajorai]]

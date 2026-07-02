@@ -49,4 +49,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Mežuotnės pilis (pilis)
+- Puolė Mežuotnės pilį (pilis): [[objektai/grupes/Lietuviai]]

@@ -48,4 +48,4 @@ Nazimovas balandžio pabaigoje įsakė gen.
     - t-001
 
 ## Ryšiai
-- V. Nazimovas siunte_i [[objektai/vietos/Ukmergė]]
+- V. Nazimovas siuntė į [[objektai/vietos/Ukmergė]]

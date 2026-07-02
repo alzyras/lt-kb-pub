@@ -108,4 +108,4 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
     - t-002
 
 ## Ryšiai
-- Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.) keliavo_i [[objektai/vietos/Mogiliovcai]]
+- Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.) keliavo į [[objektai/vietos/Mogiliovcai]]

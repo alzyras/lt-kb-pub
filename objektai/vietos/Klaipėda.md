@@ -914,16 +914,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
     - t-036
 
 ## Ryšiai
-- [[objektai/grupes/Žemaičiai]] puole Klaipėda
-- Klaipėda priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]] puole Klaipėda
-- Klaipėda priklause [[objektai/grupes/Prancūzai]]
-- Klaipėda priklause [[objektai/vietos/Prūsija]]
-- Klaipėda priklause [[objektai/grupes/Švedai]]
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Klaipėda
-- [[objektai/grupes/Rusai]] gyveno Klaipėda
-- Klaipėda priklause [[objektai/vietos/Vokietija]]
-- [[objektai/grupes/Švedai]] valde_miesta Klaipėda
-- Klaipėda priklause [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Kuršiai]] gyveno Klaipėda
-- [[objektai/grupes/Prancūzai]] valde_miesta Klaipėda
+- Buvo valdoma: [[objektai/grupes/Prancūzai]], [[objektai/grupes/Švedai]]
+- Puolė Klaipėdą: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Žemaičiai]]
+- Užėmė Klaipėdą: [[objektai/grupes/Kryžiuočių ordinas]]
+- Gyvenamoji vieta: [[objektai/grupes/Kuršiai]], [[objektai/grupes/Rusai]]
+- Klaipėda priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Prancūzai]], [[objektai/vietos/Prūsija]], [[objektai/grupes/Švedai]], [[objektai/vietos/Vokietija]]

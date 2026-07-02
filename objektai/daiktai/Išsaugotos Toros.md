@@ -81,4 +81,4 @@ Nenurodyta
 Nenurodyta
 
 ## Ryšiai
-- Išsaugotos Toros priklause [[objektai/grupes/Žydai]]
+- Išsaugotos Toros priklausė [[objektai/grupes/Žydai]]

@@ -46,4 +46,4 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
     - t-001
 
 ## Ryšiai
-- Arnoldas Krofas puole [[objektai/asmenys/Divanas]]
+- Arnoldas Krofas puolė [[objektai/asmenys/Divanas]]

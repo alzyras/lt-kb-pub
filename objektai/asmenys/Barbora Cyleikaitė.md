@@ -46,4 +46,4 @@ Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žm
     - t-001
 
 ## Ryšiai
-- Barbora Cyleikaitė buvo_zmona [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- Vyrai: [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

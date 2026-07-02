@@ -152,4 +152,4 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
     - t-004
 
 ## Ryšiai
-- Lenkų senatas siunte_i [[objektai/vietos/Lietuva]]
+- Lenkų senatas siuntė į [[objektai/vietos/Lietuva]]

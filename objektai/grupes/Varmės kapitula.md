@@ -115,5 +115,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- Varmės kapitula paskyre [[objektai/asmenys/Fabijonas (Varmės vyskupas)]]
-- Varmės kapitula paskyre [[objektai/asmenys/Fabianas (Varmės vyskupas)]]
+- Varmės kapitula paskyrė [[objektai/asmenys/Fabianas (Varmės vyskupas)]], [[objektai/asmenys/Fabijonas (Varmės vyskupas)]]

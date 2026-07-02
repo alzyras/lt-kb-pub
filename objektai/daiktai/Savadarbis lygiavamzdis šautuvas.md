@@ -70,4 +70,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/I. Drakša]] pastate Savadarbis lygiavamzdis šautuvas
+- Buvo pastatyta: [[objektai/asmenys/I. Drakša]]

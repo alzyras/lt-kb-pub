@@ -85,5 +85,5 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Zavichostas
-- [[objektai/grupes/Lietuviai]] keliavo_i Zavichostas
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
+- Puolė Zavichostą: [[objektai/grupes/Lietuviai]]

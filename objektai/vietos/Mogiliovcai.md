@@ -70,5 +70,5 @@ Bychovco kronikos rankraštis buvo aptiktas Aleksandro Bychovco Mogiliovcų dvar
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Bychovco kronikos rankraštis]] priklause Mogiliovcai
-- [[objektai/asmenys/Ipolitas Klimaševskis|Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)]] keliavo_i Mogiliovcai
+- Buvo kelionės vieta: [[objektai/asmenys/Ipolitas Klimaševskis|Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)]]
+- Turėjo priklausinį: [[objektai/daiktai/Bychovco kronikos rankraštis]]

@@ -95,4 +95,4 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
     - t-003
 
 ## Ryšiai
-- T. Dambrava keliavo_i [[objektai/vietos/Dauguva]]
+- T. Dambrava keliavo į [[objektai/vietos/Dauguva]]

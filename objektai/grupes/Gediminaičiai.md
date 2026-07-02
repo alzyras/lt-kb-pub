@@ -64,9 +64,4 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     - t-001
 
 ## Ryšiai
-- Gediminaičiai valde_teritorija [[objektai/vietos/Podolė]]
-- Gediminaičiai valde_teritorija [[objektai/vietos/Volinija]]
-- Gediminaičiai valde_teritorija [[objektai/vietos/Zaslavlis]]
-- Gediminaičiai valde_teritorija [[objektai/vietos/Pinskas]]
-- Gediminaičiai valde_teritorija [[objektai/vietos/Turovas]]
-- Gediminaičiai valde_teritorija [[objektai/vietos/Mstislavlis]]
+- Gediminaičiai valdė [[objektai/vietos/Mstislavlis]], [[objektai/vietos/Pinskas]], [[objektai/vietos/Podolė]], [[objektai/vietos/Turovas]], [[objektai/vietos/Volinija]], [[objektai/vietos/Zaslavlis]]

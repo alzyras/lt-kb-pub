@@ -85,4 +85,4 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     - t-001
 
 ## Ryšiai
-- Vladislovas IV keliavo_i [[objektai/vietos/Rūdninkai]]
+- Vladislovas IV keliavo į [[objektai/vietos/Rūdninkai]]

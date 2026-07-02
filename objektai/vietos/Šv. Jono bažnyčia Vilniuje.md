@@ -198,4 +198,4 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-002
 
 ## Ryšiai
-- Šv. Jono bažnyčia Vilniuje priklause [[objektai/vietos/Vilnius]]
+- Šv. Jono bažnyčia Vilniuje priklausė [[objektai/vietos/Vilnius]]

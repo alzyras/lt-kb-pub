@@ -42,4 +42,4 @@ Padaręs sąjungą su Aleksandru Nevskiu (Didž. Naugarde)^183 , drauge su Treni
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Cesys
+- Puolė Cesį: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

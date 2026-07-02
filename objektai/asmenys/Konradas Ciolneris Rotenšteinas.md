@@ -137,4 +137,4 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
     - t-002
 
 ## Ryšiai
-- Konradas Ciolneris Rotenšteinas puole [[objektai/vietos/Lietuva]]
+- Konradas Ciolneris Rotenšteinas puolė [[objektai/vietos/Lietuva]]

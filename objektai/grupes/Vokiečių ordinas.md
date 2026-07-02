@@ -228,11 +228,9 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
     - t-007
 
 ## Ryšiai
-- Vokiečių ordinas uzkariavo [[objektai/grupes/Jotvingiai]]
-- Vokiečių ordinas reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Vokiečių ordinas valde_teritorija [[objektai/vietos/Pamaris]]
-- Vokiečių ordinas valde_teritorija [[objektai/vietos/Žemaitija]]
-- Vokiečių ordinas uzkariavo [[objektai/vietos/Prūsų žemė]]
-- Vokiečių ordinas prekiavo_su [[objektai/grupes/Lietuviai]]
-- Vokiečių ordinas puole [[objektai/vietos/Lietuva]]
-- Vokiečių ordinas kariavo_pries [[objektai/grupes/Totoriai]]
+- Vokiečių ordinas valdė [[objektai/vietos/Pamaris]], [[objektai/vietos/Žemaitija]]
+- Vokiečių ordinas puolė [[objektai/vietos/Lietuva]]
+- Vokiečių ordinas kariavo prieš [[objektai/grupes/Totoriai]]
+- Vokiečių ordinas prekiavo su [[objektai/grupes/Lietuviai]]
+- Vokiečių ordinas rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Vokiečių ordinas užkariavo [[objektai/grupes/Jotvingiai]], [[objektai/vietos/Prūsų žemė]]

@@ -1033,12 +1033,10 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
     - t-057
 
 ## Ryšiai
-- Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo_i [[objektai/vietos/Berlynas]]
-- Antanas Smetona (Lietuvos prezidentas, XX a.) mire [[objektai/vietos/Klivlandas]]
-- Antanas Smetona (Lietuvos prezidentas, XX a.) paskyre [[objektai/asmenys/Juozas Tūbelis]]
-- Antanas Smetona (Lietuvos prezidentas, XX a.) valde [[objektai/vietos/Lietuva]]
-- Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo_i [[objektai/vietos/Portugalija]]
-- Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo_i [[objektai/vietos/Šveicarija]]
-- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]] paskyre Antanas Smetona (Lietuvos prezidentas, XX a.)
-- [[objektai/grupes/Lietuvių tautininkų sąjunga]] buvo_sajungininkas_su Antanas Smetona (Lietuvos prezidentas, XX a.)
-- Antanas Smetona (Lietuvos prezidentas, XX a.) gyne [[objektai/grupes/Žydai]]
+- Sąjungininkai: [[objektai/grupes/Lietuvių tautininkų sąjunga]]
+- Paskyrė Antanas Smetoną (Lietuvos prezidentas, XX a.): [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
+- Antanas Smetona (Lietuvos prezidentas, XX a.) valdė [[objektai/vietos/Lietuva]]
+- Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo į [[objektai/vietos/Berlynas]], [[objektai/vietos/Portugalija]], [[objektai/vietos/Šveicarija]]
+- Antanas Smetona (Lietuvos prezidentas, XX a.) mirė [[objektai/vietos/Klivlandas]]
+- Antanas Smetona (Lietuvos prezidentas, XX a.) gynė [[objektai/grupes/Žydai]]
+- Antanas Smetona (Lietuvos prezidentas, XX a.) paskyrė [[objektai/asmenys/Juozas Tūbelis]]

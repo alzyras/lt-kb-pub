@@ -51,5 +51,5 @@ Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė V
     - t-001
 
 ## Ryšiai
+- Turėjo priklausinį: [[objektai/daiktai/Namas]]
 - Parulis gyveno [[objektai/vietos/Vilnius]]
-- [[objektai/daiktai/Namas]] priklause Parulis

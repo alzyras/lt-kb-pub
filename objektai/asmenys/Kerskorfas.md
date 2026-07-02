@@ -78,4 +78,4 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
     - t-002
 
 ## Ryšiai
-- Kerskorfas dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- Kerskorfas dalyvavo mūšyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]

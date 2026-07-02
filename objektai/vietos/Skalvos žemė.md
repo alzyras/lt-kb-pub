@@ -144,6 +144,5 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras Karijotaitis]] puole Skalvos žemė
-- [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]] puole Skalvos žemė
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Skalvos žemė
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Skalvos žemę: [[objektai/asmenys/Aleksandras Karijotaitis]], [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]

@@ -77,4 +77,4 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Radvila]] uzeme Jezeriščė
+- Užėmė Jezeriščę: [[objektai/asmenys/Radvila]]

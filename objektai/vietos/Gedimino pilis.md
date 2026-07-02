@@ -152,5 +152,5 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
     - t-003
 
 ## Ryšiai
-- Gedimino pilis (pilis) priklause [[objektai/vietos/Pagraudė]]
-- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]] puole Gedimino pilis (pilis)
+- Puolė Gedimino pilį (pilis): [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]
+- Gedimino pilis (pilis) priklausė [[objektai/vietos/Pagraudė]]

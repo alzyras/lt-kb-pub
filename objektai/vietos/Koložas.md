@@ -69,4 +69,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Koložas priklause [[objektai/vietos/Gardinas]]
+- Koložas priklausė [[objektai/vietos/Gardinas]]

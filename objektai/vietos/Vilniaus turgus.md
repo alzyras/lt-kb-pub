@@ -67,5 +67,5 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jurgis Astikas]] mire Vilniaus turgus
-- [[objektai/grupes/Karaimai]] prekiavo_su Vilniaus turgus
+- Mirties vieta: [[objektai/asmenys/Jurgis Astikas]]
+- Prekiavo su: [[objektai/grupes/Karaimai]]

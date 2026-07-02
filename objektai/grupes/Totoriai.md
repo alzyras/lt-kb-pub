@@ -2274,105 +2274,21 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     - t-061
 
 ## Ryšiai
-- Totoriai puole [[objektai/vietos/Lenkija]]
-- Totoriai puole [[objektai/vietos/Vengrija]]
-- Totoriai uzeme [[objektai/vietos/Dniepro žiotys]]
-- [[objektai/grupes/Lietuviai]] kariavo_pries Totoriai
-- [[objektai/asmenys/Andrius Algirdaitis]] kariavo_pries Totoriai
-- Totoriai siunte_i [[objektai/vietos/Naugardukas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] kariavo_pries Totoriai
-- [[objektai/asmenys/Mykolas Glinskis]] puole Totoriai
-- Totoriai surenge_zygi_i [[objektai/vietos/Palestina]]
-- Totoriai surenge_zygi_i [[objektai/vietos/Sirija]]
-- Totoriai uzeme [[objektai/vietos/Krėva]]
-- Totoriai uzeme [[objektai/vietos/Minskas]]
-- Totoriai uzeme [[objektai/vietos/Zaslavlis]]
-- [[objektai/asmenys/Mykolas]] puole Totoriai
-- Totoriai gyveno [[objektai/vietos/Lietuva]]
-- Totoriai gyveno [[objektai/vietos/Nemėžis]]
-- Totoriai gyveno [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Totoriai
-- Totoriai surenge_zygi_i [[objektai/vietos/Vengrija]]
-- [[objektai/asmenys/Dmitrijus Doniškis]] kariavo_pries Totoriai
-- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Totoriai
-- Totoriai dalyvavo_musyje [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
-- Totoriai puole [[objektai/vietos/Kijevas]]
-- Totoriai puole [[objektai/vietos/Podolė]]
-- Totoriai buvo_sajungininkas_su [[objektai/asmenys/Levas (Haličo kunigaikštis)]]
-- Totoriai dalyvavo_musyje [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
-- Totoriai keliavo_i [[objektai/vietos/Kijevas]]
-- Totoriai puole [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis)]]
-- Totoriai puole [[objektai/vietos/Lietuva]]
-- Totoriai puole [[objektai/grupes/Lietuviai]]
-- Totoriai surenge_zygi_i [[objektai/vietos/Lenkija]]
-- Totoriai uzeme [[objektai/vietos/Trakai]]
-- Totoriai uzeme [[objektai/vietos/Vilnius]]
-- Totoriai valde [[objektai/vietos/Kijevas]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] kariavo_pries Totoriai
-- [[objektai/grupes/Lietuviai]] puole Totoriai
-- [[objektai/asmenys/Mykolas Glinskis]] kariavo_pries Totoriai
-- Totoriai reme [[objektai/asmenys/Jonas Kalita]]
-- Totoriai puole [[objektai/vietos/Vitebskas]]
-- [[objektai/asmenys/Dimitrijus]] kariavo_pries Totoriai
-- [[objektai/grupes/Kazokai]] kariavo_pries Totoriai
-- [[objektai/grupes/Lietuvos kariuomenė]] puole Totoriai
-- Totoriai gyveno [[objektai/vietos/Ašmena]]
-- Totoriai gyveno [[objektai/vietos/Naugardukas]]
-- Totoriai gyveno [[objektai/vietos/Trakai]]
-- Totoriai keliavo_i [[objektai/vietos/Dniepras]]
-- Totoriai puole [[objektai/grupes/Pranciškonų ordinas]]
-- Totoriai puole [[objektai/grupes/Saracėnai]]
-- Totoriai puole [[objektai/vietos/Viazma]]
-- [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]] puole Totoriai
-- Totoriai dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-- Totoriai keliavo_i [[objektai/vietos/Dniestras]]
-- Totoriai keliavo_i [[objektai/vietos/Lietuva]]
-- Totoriai puole [[objektai/vietos/Luckas]]
-- Totoriai kariavo_pries [[objektai/asmenys/Kolomanas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] puole Totoriai
-- [[objektai/grupes/Kryžiuočių ordinas]] gyne Totoriai
-- Totoriai buvo_sajungininkas_su [[objektai/grupes/Armėnai]]
-- Totoriai buvo_sajungininkas_su [[objektai/grupes/Gruzinai]]
-- Totoriai gyveno [[objektai/vietos/Krymas]]
-- Totoriai keliavo_i [[objektai/vietos/Mozyrius]]
-- Totoriai keliavo_i [[objektai/vietos/Sluckas]]
-- Totoriai puole [[objektai/vietos/Minskas]]
-- Totoriai puole [[objektai/vietos/Sluckas]]
-- Totoriai surenge_zygi_i [[objektai/vietos/Naugardukas]]
-- Totoriai surenge_zygi_i [[objektai/vietos/Sluckas]]
-- Totoriai surenge_zygi_i [[objektai/vietos/Vilnius]]
-- Totoriai surenge_zygi_i [[objektai/vietos/Vitebskas]]
-- [[objektai/grupes/Armėnai]] buvo_sajungininkas_su Totoriai
-- Totoriai gyveno [[objektai/vietos/Krymo pusiasalis]]
-- Totoriai puole [[objektai/vietos/Naugardukas]]
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Totoriai
-- Totoriai dalyvavo_musyje [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
-- Totoriai keliavo_i [[objektai/vietos/Trakai]]
-- Totoriai keliavo_i [[objektai/vietos/Vilnius]]
-- Totoriai priklause [[objektai/grupes/Maskvos kariuomenė]]
-- Totoriai puole [[objektai/vietos/Druckas]]
-- Totoriai puole [[objektai/grupes/Prūsai]]
-- Totoriai puole [[objektai/vietos/Smotričius]]
-- [[objektai/grupes/Gruzinai]] buvo_sajungininkas_su Totoriai
-- [[objektai/grupes/Karijotaičiai]] kariavo_pries Totoriai
-- Totoriai priklause [[objektai/grupes/Lietuvos jungtinės pajėgos]]
-- Totoriai surenge_zygi_i [[objektai/vietos/Polockas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] paskyre Totoriai
-- Totoriai puole [[objektai/vietos/Nesvyžius]]
-- [[objektai/grupes/Maskvėnai]] buvo_sajungininkas_su Totoriai
-- Totoriai puole [[objektai/asmenys/Zaberezinskis]]
-- Totoriai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
-- Totoriai keliavo_i [[objektai/vietos/Cepra]]
-- [[objektai/asmenys/Ostapas Kropotkovas]] kariavo_pries Totoriai
-- Totoriai buvo_sajungininkas_su [[objektai/grupes/Lenkai]]
-- Totoriai puole [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Auksinė Orda]] priklause Totoriai
-- Totoriai siunte_i [[objektai/vietos/Vilnius]]
-- Totoriai valde [[objektai/vietos/Lietuva]]
-- Totoriai buvo_priesas [[objektai/grupes/Kazokai]]
-- Totoriai puole [[objektai/vietos/Polockas]]
-- [[objektai/grupes/Vokiečių ordinas]] kariavo_pries Totoriai
-- Totoriai dalyvavo_musyje [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]
-- Totoriai puole [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
-- Totoriai priklause [[objektai/vietos/Lietuva]]
-- Totoriai gyveno [[objektai/vietos/Rusija]]
+- Priešai: [[objektai/grupes/Kazokai]]
+- Sąjungininkai: [[objektai/grupes/Armėnai]], [[objektai/grupes/Gruzinai]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Levas (Haličo kunigaikštis)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Maskvėnai]]
+- Puolė Totoriai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mykolas]], [[objektai/asmenys/Mykolas Glinskis]]
+- Gynė Totoriai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Kariavo prieš: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Dimitrijus]], [[objektai/asmenys/Dmitrijus Doniškis]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Karijotaičiai]], [[objektai/grupes/Kazokai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mykolas Glinskis]], [[objektai/asmenys/Ostapas Kropotkovas]], [[objektai/grupes/Vokiečių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Paskyrė Totoriai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Turėjo priklausinį: [[objektai/grupes/Auksinė Orda]]
+- Totoriai valdė [[objektai/vietos/Kijevas]], [[objektai/vietos/Lietuva]]
+- Totoriai keliavo į [[objektai/vietos/Cepra]], [[objektai/vietos/Dniepras]], [[objektai/vietos/Dniestras]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Mozyrius]], [[objektai/vietos/Sluckas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Totoriai puolė [[objektai/vietos/Druckas]], [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis)]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Luckas]], [[objektai/vietos/Minskas]], [[objektai/vietos/Naugardukas]], [[objektai/vietos/Nesvyžius]], [[objektai/vietos/Podolė]], [[objektai/vietos/Polockas]], [[objektai/grupes/Pranciškonų ordinas]], [[objektai/grupes/Prūsai]], [[objektai/grupes/Saracėnai]], [[objektai/vietos/Sluckas]], [[objektai/vietos/Smotričius]], [[objektai/vietos/Vengrija]], [[objektai/vietos/Viazma]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]], [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]], [[objektai/asmenys/Zaberezinskis]]
+- Totoriai užėmė [[objektai/vietos/Dniepro žiotys]], [[objektai/vietos/Krėva]], [[objektai/vietos/Minskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Zaslavlis]]
+- Totoriai siuntė į [[objektai/vietos/Naugardukas]], [[objektai/vietos/Vilnius]]
+- Totoriai surengė žygį į [[objektai/vietos/Lenkija]], [[objektai/vietos/Naugardukas]], [[objektai/vietos/Palestina]], [[objektai/vietos/Polockas]], [[objektai/vietos/Sirija]], [[objektai/vietos/Sluckas]], [[objektai/vietos/Vengrija]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
+- Totoriai kariavo prieš [[objektai/asmenys/Kolomanas]]
+- Totoriai dalyvavo mūšyje [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]], [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]], [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]], [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]], [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
+- Totoriai gyveno [[objektai/vietos/Ašmena]], [[objektai/vietos/Krymas]], [[objektai/vietos/Krymo pusiasalis]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Naugardukas]], [[objektai/vietos/Nemėžis]], [[objektai/vietos/Rusija]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Totoriai priklausė [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuvos jungtinės pajėgos]], [[objektai/grupes/Maskvos kariuomenė]]
+- Totoriai rėmė [[objektai/asmenys/Jonas Kalita]]

@@ -55,4 +55,4 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
     - t-001
 
 ## Ryšiai
-- Kamiencas priklause [[objektai/vietos/Trakai]]
+- Kamiencas priklausė [[objektai/vietos/Trakai]]

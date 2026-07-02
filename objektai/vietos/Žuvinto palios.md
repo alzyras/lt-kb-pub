@@ -124,5 +124,5 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/NKVD]] puole Žuvinto palios
-- [[objektai/grupes/NKVD]] apgule Žuvinto palios
+- Puolė Žuvinto palios: [[objektai/grupes/NKVD]]
+- Apgulė Žuvinto palios: [[objektai/grupes/NKVD]]

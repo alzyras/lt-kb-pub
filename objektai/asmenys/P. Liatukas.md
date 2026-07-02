@@ -72,5 +72,5 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
     - t-002
 
 ## Ryšiai
-- P. Liatukas siunte_i [[objektai/vietos/Prienai]]
-- P. Liatukas gyne [[objektai/vietos/Nemunas]]
+- P. Liatukas gynė [[objektai/vietos/Nemunas]]
+- P. Liatukas siuntė į [[objektai/vietos/Prienai]]

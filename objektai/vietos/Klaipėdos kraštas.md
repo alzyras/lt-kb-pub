@@ -226,6 +226,6 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
     - t-008
 
 ## Ryšiai
-- Klaipėdos kraštas priklause [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Vokiečiai]] uzeme Klaipėdos kraštas
-- [[objektai/grupes/Prancūzai]] valde Klaipėdos kraštas
+- Buvo valdoma: [[objektai/grupes/Prancūzai]]
+- Užėmė Klaipėdos kraštą: [[objektai/grupes/Vokiečiai]]
+- Klaipėdos kraštas priklausė [[objektai/vietos/Lietuva]]

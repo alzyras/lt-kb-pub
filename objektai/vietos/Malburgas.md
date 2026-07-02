@@ -136,7 +136,5 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Malburgas
-- [[objektai/asmenys/Bonifacas IX]] siunte_i Malburgas
-- [[objektai/asmenys/Inocentas VII]] siunte_i Malburgas
-- [[objektai/grupes/Teutonai]] pastate Malburgas
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Teutonai]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Bonifacas IX]], [[objektai/asmenys/Inocentas VII]]

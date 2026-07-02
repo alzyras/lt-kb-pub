@@ -136,4 +136,4 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-005
 
 ## Ryšiai
-- Šešupė priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Šešupė priklausė [[objektai/grupes/Kryžiuočių ordinas]]

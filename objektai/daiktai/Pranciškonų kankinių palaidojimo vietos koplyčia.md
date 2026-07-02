@@ -62,4 +62,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Pranciškonų kankinių palaidojimo vietos koplyčia priklause [[objektai/vietos/Vilnius]]
+- Pranciškonų kankinių palaidojimo vietos koplyčia priklausė [[objektai/vietos/Vilnius]]

@@ -71,5 +71,5 @@ tags:
     - t-002
 
 ## Ryšiai
-- Volkvinas surenge_zygi_i [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]] puole Volkvinas
+- Puolė Volkviną: [[objektai/grupes/Lietuviai]]
+- Volkvinas surengė žygį į [[objektai/vietos/Lietuva]]

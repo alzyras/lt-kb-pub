@@ -161,5 +161,5 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
     - t-002
 
 ## Ryšiai
+- Jonas Basanavičius gimė [[objektai/vietos/Užnemunė]]
 - Jonas Basanavičius gyveno [[objektai/vietos/Praha]]
-- Jonas Basanavičius gime [[objektai/vietos/Užnemunė]]

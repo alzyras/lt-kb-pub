@@ -107,5 +107,5 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
     - t-001
 
 ## Ryšiai
-- Zigmantas I reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Zigmantas I keliavo_i [[objektai/vietos/Luckas]]
+- Zigmantas I keliavo į [[objektai/vietos/Luckas]]
+- Zigmantas I rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

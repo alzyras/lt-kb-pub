@@ -50,4 +50,4 @@ Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės b
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] gyveno Krymo pusiasalis
+- Gyvenamoji vieta: [[objektai/grupes/Totoriai]]

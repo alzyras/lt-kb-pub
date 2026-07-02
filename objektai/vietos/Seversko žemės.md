@@ -59,7 +59,5 @@ Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Ki
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Černigovas]] priklause Seversko žemės
-- [[objektai/vietos/Naugardas]] priklause Seversko žemės
-- [[objektai/vietos/Rylskas]] priklause Seversko žemės
-- [[objektai/grupes/Triznų giminė]] gyveno Seversko žemės
+- Gyvenamoji vieta: [[objektai/grupes/Triznų giminė]]
+- Turėjo priklausinį: [[objektai/vietos/Černigovas]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Rylskas]]

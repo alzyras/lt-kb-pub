@@ -177,6 +177,4 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Prostkų mūšis (1656 m. spalio 8 d.)
-- [[objektai/grupes/Radvilos]] dalyvavo_musyje Prostkų mūšis (1656 m. spalio 8 d.)
-- [[objektai/grupes/Totoriai]] dalyvavo_musyje Prostkų mūšis (1656 m. spalio 8 d.)
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Radvilos]], [[objektai/grupes/Totoriai]]

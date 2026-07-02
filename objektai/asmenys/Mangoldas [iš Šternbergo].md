@@ -79,6 +79,5 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
     - t-001
 
 ## Ryšiai
-- Mangoldas [iš Šternbergo] puole [[objektai/vietos/Kresmena]]
-- Mangoldas [iš Šternbergo] puole [[objektai/vietos/Sūduva]]
-- Mangoldas [iš Šternbergo] valde [[objektai/vietos/Prūsija]]
+- Mangoldas [iš Šternbergo] valdė [[objektai/vietos/Prūsija]]
+- Mangoldas [iš Šternbergo] puolė [[objektai/vietos/Kresmena]], [[objektai/vietos/Sūduva]]

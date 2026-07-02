@@ -61,4 +61,4 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
     - t-002
 
 ## Ryšiai
-- Aleksejus Michailovičius buvo_valdovas [[objektai/vietos/Rusija]]
+- Aleksejus Michailovičius buvo valdovas [[objektai/vietos/Rusija]]

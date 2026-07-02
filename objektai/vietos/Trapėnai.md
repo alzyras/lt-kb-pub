@@ -56,4 +56,4 @@ Sužinoję apie Naujojo Kauno statybą, Ordino magistras su kariuomene 1363 m. b
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Trapėnai
+- Buvo kelionės vieta: [[objektai/grupes/Kryžiuočių ordinas]]

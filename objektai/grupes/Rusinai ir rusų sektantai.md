@@ -42,4 +42,4 @@ Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė persekioja
     - t-001
 
 ## Ryšiai
-- Rusinai ir rusų sektantai keliavo_i [[objektai/vietos/Lietuva]]
+- Rusinai ir rusų sektantai keliavo į [[objektai/vietos/Lietuva]]

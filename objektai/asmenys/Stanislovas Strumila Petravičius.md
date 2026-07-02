@@ -82,4 +82,4 @@ Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių p
     - t-002
 
 ## Ryšiai
-- Stanislovas Strumila Petravičius valde_miesta [[objektai/vietos/Smolenskas]]
+- Stanislovas Strumila Petravičius valdė [[objektai/vietos/Smolenskas]]

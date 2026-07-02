@@ -162,4 +162,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- Šarvai priklause [[objektai/asmenys/Mikalojus Radvila Juodasis]]
+- Šarvai priklausė [[objektai/asmenys/Mikalojus Radvila Juodasis]]

@@ -162,4 +162,4 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     - t-003
 
 ## Ryšiai
-- [[objektai/vietos/Lietuva]] priklause Vidurio Europa
+- Turėjo priklausinį: [[objektai/vietos/Lietuva]]

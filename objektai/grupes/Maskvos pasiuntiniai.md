@@ -63,7 +63,5 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
     - t-001
 
 ## Ryšiai
-- Maskvos pasiuntiniai keliavo_i [[objektai/vietos/Krokuva]]
-- Maskvos pasiuntiniai priklause [[objektai/vietos/Maskva]]
-- Maskvos pasiuntiniai keliavo_i [[objektai/vietos/Vilnius]]
-- Maskvos pasiuntiniai keliavo_i [[objektai/vietos/Maskva]]
+- Maskvos pasiuntiniai keliavo į [[objektai/vietos/Krokuva]], [[objektai/vietos/Maskva]], [[objektai/vietos/Vilnius]]
+- Maskvos pasiuntiniai priklausė [[objektai/vietos/Maskva]]

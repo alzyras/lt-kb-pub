@@ -369,17 +369,8 @@ Nadruva aprašoma kaip viena iš Prūsijos žemių, šaltiniuose minima greta Se
     - t-008
 
 ## Ryšiai
-- [[objektai/vietos/Katavos valsčius]] priklause Nadruva
-- [[objektai/asmenys/Konradas]] siunte_i Nadruva
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] surenge_zygi_i Nadruva
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] surenge_zygi_i Nadruva
-- [[objektai/vietos/Romuva]] priklause Nadruva
-- [[objektai/vietos/Retavos valsčius]] priklause Nadruva
-- [[objektai/vietos/Katinavos apylinkės]] priklause Nadruva
-- Nadruva priklause [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Romovė Romuva]] priklause Nadruva
-- [[objektai/asmenys/Ditrichas (Sembos fogtas)]] surenge_zygi_i Nadruva
-- [[objektai/vietos/Romintės giria]] priklause Nadruva
-- [[objektai/asmenys/Krivis]] gyveno Nadruva
-- Nadruva priklause [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Auktuolyčiai]] priklause Nadruva
+- Buvo siuntimo vieta: [[objektai/asmenys/Konradas]]
+- Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Ditrichas (Sembos fogtas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Gyvenamoji vieta: [[objektai/asmenys/Krivis]]
+- Turėjo priklausinį: [[objektai/vietos/Auktuolyčiai]], [[objektai/vietos/Katavos valsčius]], [[objektai/vietos/Katinavos apylinkės]], [[objektai/vietos/Retavos valsčius]], [[objektai/vietos/Romintės giria]], [[objektai/vietos/Romovė Romuva]], [[objektai/vietos/Romuva]]
+- Nadruva priklausė [[objektai/vietos/Lietuva]], [[objektai/vietos/Prūsija]]

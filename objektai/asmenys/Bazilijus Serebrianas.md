@@ -60,4 +60,4 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
     - t-001
 
 ## Ryšiai
-- Bazilijus Serebrianas keliavo_i [[objektai/vietos/Lietuva]]
+- Bazilijus Serebrianas keliavo į [[objektai/vietos/Lietuva]]

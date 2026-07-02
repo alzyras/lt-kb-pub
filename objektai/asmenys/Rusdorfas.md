@@ -121,4 +121,4 @@ periodo_grupes:
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] sudare_sutarti_su Rusdorfas
+- Sudarė sutartį su: [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]

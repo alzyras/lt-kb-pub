@@ -341,18 +341,10 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Ulrichas Bajeris]] surenge_zygi_i Sūduva
-- Sūduva priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Sūduviai-jotvingiai]] gyveno Sūduva
-- [[objektai/asmenys/Ulrichas Bajeris]] puole Sūduva
-- [[objektai/asmenys/Konradas]] puole Sūduva
-- [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]] puole Sūduva
-- Sūduva priklause [[objektai/vietos/Lietuva]]
-- [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D) puole Sūduva
-- [[objektai/asmenys/Martynas iš Golino]] surenge_zygi_i Sūduva
-- [[objektai/asmenys/Martynas iš Golino]] uzeme Sūduva
-- [[objektai/vietos/Mėrūniškis]] priklause Sūduva
-- Sūduva priklause [[objektai/vietos/Prūsija]]
-- [[objektai/grupes/Kryžiuočių ordinas]] uzkariavo Sūduva
-- [[objektai/asmenys/Martynas iš Golino]] puole Sūduva
-- [[objektai/grupes/Vokiečiai]] uzeme Sūduva
+- Puolė Sūduvą: [[objektai/asmenys/Konradas]], [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]], [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D), [[objektai/asmenys/Martynas iš Golino]], [[objektai/asmenys/Ulrichas Bajeris]]
+- Užėmė Sūduvą: [[objektai/asmenys/Martynas iš Golino]], [[objektai/grupes/Vokiečiai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Martynas iš Golino]], [[objektai/asmenys/Ulrichas Bajeris]]
+- Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Gyvenamoji vieta: [[objektai/grupes/Sūduviai-jotvingiai]]
+- Turėjo priklausinį: [[objektai/vietos/Mėrūniškis]]
+- Sūduva priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Prūsija]]

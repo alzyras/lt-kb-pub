@@ -70,4 +70,4 @@ Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 1
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Kuršo žemė
+- Puolė Kuršo žemę: [[objektai/grupes/Lietuviai]]

@@ -384,6 +384,4 @@ Lietuvos Didžioji Kunigaikštystė čia atsiskleidžia per diplomatiją, karus 
     - t-013
 
 ## Ryšiai
-- [[objektai/vietos/Smolenskas]] priklause Lietuvos Didžioji Kunigaikštystė
-- [[objektai/grupes/Livonijos ordinas]] priklause Lietuvos Didžioji Kunigaikštystė
-- [[objektai/grupes/Rygos vyskupija]] priklause Lietuvos Didžioji Kunigaikštystė
+- Turėjo priklausinį: [[objektai/grupes/Livonijos ordinas]], [[objektai/grupes/Rygos vyskupija]], [[objektai/vietos/Smolenskas]]

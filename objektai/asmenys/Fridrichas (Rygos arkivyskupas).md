@@ -398,5 +398,5 @@ Fridrichas, Rygos arkivyskupas, šaltiniuose iškyla Gedimino ir Vytenio ryšių
     - t-010
 
 ## Ryšiai
-- Fridrichas (Rygos arkivyskupas) buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Fridrichas (Rygos arkivyskupas)
+- Priešai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Fridrichą (Rygos arkivyskupas): [[objektai/grupes/Kryžiuočių ordinas]]

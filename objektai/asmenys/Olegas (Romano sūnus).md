@@ -53,5 +53,5 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     - t-001
 
 ## Ryšiai
-- Olegas (Romano sūnus) buvo_sunus [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- Olegas (Romano sūnus) puole [[objektai/vietos/Lietuva]]
+- Tėvai: [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- Olegas (Romano sūnus) puolė [[objektai/vietos/Lietuva]]

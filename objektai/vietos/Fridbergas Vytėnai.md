@@ -47,4 +47,4 @@ Kita kryžiuočių pilis, vadinta Fridbergu (taikos kalnas), pastatyta tuo pat m
     - t-001
 
 ## Ryšiai
-- Fridbergas Vytėnai priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Fridbergas Vytėnai priklausė [[objektai/grupes/Kryžiuočių ordinas]]

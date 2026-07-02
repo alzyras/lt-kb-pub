@@ -130,5 +130,5 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-003
 
 ## Ryšiai
-- Lubavas priklause [[objektai/vietos/Prūsija]]
-- [[objektai/grupes/Lenkai]] gyveno Lubavas
+- Gyvenamoji vieta: [[objektai/grupes/Lenkai]]
+- Lubavas priklausė [[objektai/vietos/Prūsija]]

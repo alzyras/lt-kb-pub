@@ -144,5 +144,5 @@ Konradas iš Foichtvangeno 1279 m. buvo paskirtas Prūsijos ir Livonijos brolių
     - t-005
 
 ## Ryšiai
-- Konradas iš Foichtvangeno keliavo_i [[objektai/vietos/Prūsija]]
-- Konradas iš Foichtvangeno reme [[objektai/grupes/Teutonai]]
+- Konradas iš Foichtvangeno keliavo į [[objektai/vietos/Prūsija]]
+- Konradas iš Foichtvangeno rėmė [[objektai/grupes/Teutonai]]

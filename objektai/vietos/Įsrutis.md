@@ -93,5 +93,5 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Svirdeika]] keliavo_i Įsrutis
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Įsrutis
+- Buvo kelionės vieta: [[objektai/asmenys/Svirdeika]]
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

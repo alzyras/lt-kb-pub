@@ -43,6 +43,5 @@ tags:
     - t-001
 
 ## Ryšiai
-- 3-ioji divizija kariavo_pries [[objektai/grupes/Lenkai]]
-- 3-ioji divizija gyne [[objektai/vietos/Rykantai]]
-- 3-ioji divizija gyne [[objektai/vietos/Smalėnai]]
+- 3-ioji divizija gynė [[objektai/vietos/Rykantai]], [[objektai/vietos/Smalėnai]]
+- 3-ioji divizija kariavo prieš [[objektai/grupes/Lenkai]]

@@ -65,4 +65,4 @@ Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respub
     - t-001
 
 ## Ryšiai
-- Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas) keliavo_i [[objektai/vietos/Lietuva]]
+- Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas) keliavo į [[objektai/vietos/Lietuva]]

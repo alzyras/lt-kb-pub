@@ -82,4 +82,4 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
     - t-001
 
 ## Ryšiai
-- Valteris, pravarde Goldinas surenge_zygi_i [[objektai/vietos/Lietuva]]
+- Valteris, pravarde Goldinas surengė žygį į [[objektai/vietos/Lietuva]]

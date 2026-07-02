@@ -77,4 +77,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- Vaidilų apeiginiai drabužiai priklause [[objektai/grupes/Vaidilos]]
+- Vaidilų apeiginiai drabužiai priklausė [[objektai/grupes/Vaidilos]]

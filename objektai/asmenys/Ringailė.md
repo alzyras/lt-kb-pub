@@ -84,5 +84,4 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis)]] vede Ringailė
-- [[objektai/asmenys/Mozūrų kunigaikštis Henrikas]] vede Ringailė
+- Sutuoktiniai: [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis)]], [[objektai/asmenys/Mozūrų kunigaikštis Henrikas]]

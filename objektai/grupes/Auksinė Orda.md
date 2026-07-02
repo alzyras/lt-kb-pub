@@ -419,18 +419,9 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
     - t-011
 
 ## Ryšiai
-- Auksinė Orda priklause [[objektai/grupes/Mongolų imperija]]
-- [[objektai/vietos/Volynė]] priklause Auksinė Orda
-- Auksinė Orda puole [[objektai/vietos/Lietuva]]
-- Auksinė Orda valde_miesta [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Kijevas]] priklause Auksinė Orda
-- [[objektai/grupes/Bartai]] kariavo_pries Auksinė Orda
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] kariavo_pries Auksinė Orda
-- [[objektai/grupes/Sūduviai]] kariavo_pries Auksinė Orda
-- [[objektai/vietos/Mažoji Podolė]] priklause Auksinė Orda
-- [[objektai/grupes/Rusai]] priklause Auksinė Orda
-- [[objektai/grupes/Totorių pajėgos]] priklause Auksinė Orda
-- Auksinė Orda valde [[objektai/vietos/Kijevas]]
-- Auksinė Orda priklause [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Lietuva]] priklause Auksinė Orda
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_priesas Auksinė Orda
+- Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Kariavo prieš: [[objektai/grupes/Bartai]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Sūduviai]]
+- Turėjo priklausinį: [[objektai/vietos/Kijevas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Mažoji Podolė]], [[objektai/grupes/Rusai]], [[objektai/grupes/Totorių pajėgos]], [[objektai/vietos/Volynė]]
+- Auksinė Orda valdė [[objektai/vietos/Kijevas]]
+- Auksinė Orda puolė [[objektai/vietos/Lietuva]]
+- Auksinė Orda priklausė [[objektai/grupes/Mongolų imperija]], [[objektai/grupes/Totoriai]]

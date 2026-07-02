@@ -58,4 +58,4 @@ Marcinkevičių ir dar vieną rusą karininką.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Tigras]] puole Marcinkevičius
+- Puolė Marcinkevičių: [[objektai/asmenys/Tigras]]

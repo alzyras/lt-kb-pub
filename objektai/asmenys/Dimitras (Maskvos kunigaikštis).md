@@ -64,5 +64,5 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
     - t-002
 
 ## Ryšiai
-- Dimitras (Maskvos kunigaikštis) puole [[objektai/grupes/Totoriai]]
-- Dimitras (Maskvos kunigaikštis) buvo_sajungininkas_su [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Sąjungininkai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Dimitras (Maskvos kunigaikštis) puolė [[objektai/grupes/Totoriai]]

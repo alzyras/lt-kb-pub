@@ -54,4 +54,4 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/JAV lietuviai]] reme Lietuvių informacijos biuras Lozanoje
+- Rėmė Lietuvių informacijos biuras Lozanoje: [[objektai/grupes/JAV lietuviai]]

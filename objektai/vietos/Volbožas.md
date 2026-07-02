@@ -67,5 +67,5 @@ Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­ ską išvyko
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lenkijos kariuomenė]] keliavo_i Volbožas
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Volbožas
+- Buvo kelionės vieta: [[objektai/grupes/Lenkijos kariuomenė]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

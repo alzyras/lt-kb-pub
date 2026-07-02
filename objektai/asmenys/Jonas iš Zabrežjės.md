@@ -92,4 +92,4 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
     - t-001
 
 ## Ryšiai
-- Jonas iš Zabrežjės valde [[objektai/vietos/Merkinė]]
+- Jonas iš Zabrežjės valdė [[objektai/vietos/Merkinė]]

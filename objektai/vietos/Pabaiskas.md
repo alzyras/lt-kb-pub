@@ -200,5 +200,4 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     - t-007
 
 ## Ryšiai
-- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] pastate Pabaiskas
-- [[objektai/asmenys/Žygimantas]] pastate Pabaiskas
+- Buvo pastatyta: [[objektai/asmenys/Žygimantas]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]

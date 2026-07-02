@@ -214,10 +214,7 @@ Liudvikas iš Libencelės 1294–1300 m. buvo Ragainės komtūras, daug kartų k
     - t-005
 
 ## Ryšiai
-- Liudvikas iš Libencelės puole [[objektai/grupes/Lietuviai]]
-- Liudvikas iš Libencelės puole [[objektai/vietos/Kimelis]]
-- Liudvikas iš Libencelės puole [[objektai/vietos/Pagraudė]]
-- Liudvikas iš Libencelės uzeme [[objektai/vietos/Kimelis]]
-- [[objektai/asmenys/Markvardas iš Revelingės]] buvo_sajungininkas_su Liudvikas iš Libencelės
-- Liudvikas iš Libencelės buvo_sajungininkas_su [[objektai/asmenys/Markvardas iš Revelingės]]
-- Liudvikas iš Libencelės surenge_zygi_i [[objektai/vietos/Kimelis]]
+- Sąjungininkai: [[objektai/asmenys/Markvardas iš Revelingės]]
+- Liudvikas iš Libencelės puolė [[objektai/vietos/Kimelis]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Pagraudė]]
+- Liudvikas iš Libencelės užėmė [[objektai/vietos/Kimelis]]
+- Liudvikas iš Libencelės surengė žygį į [[objektai/vietos/Kimelis]]

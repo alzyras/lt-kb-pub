@@ -164,7 +164,6 @@ Meinhardas Saksas iš Kverfurto buvo tryliktas Prūsijos magistras, vadovavęs v
     - t-004
 
 ## Ryšiai
-- Meinhardas Saksas iš Kverfurto uzeme [[objektai/vietos/Vizna]]
-- Meinhardas Saksas iš Kverfurto puole [[objektai/vietos/Junigeda]]
-- Meinhardas Saksas iš Kverfurto puole [[objektai/vietos/Pieštvė]]
-- Meinhardas Saksas iš Kverfurto surenge_zygi_i [[objektai/vietos/Skalva]]
+- Meinhardas Saksas iš Kverfurto puolė [[objektai/vietos/Junigeda]], [[objektai/vietos/Pieštvė]]
+- Meinhardas Saksas iš Kverfurto užėmė [[objektai/vietos/Vizna]]
+- Meinhardas Saksas iš Kverfurto surengė žygį į [[objektai/vietos/Skalva]]

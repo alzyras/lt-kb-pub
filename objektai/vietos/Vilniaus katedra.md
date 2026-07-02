@@ -520,10 +520,5 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
     - t-021
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Vilniaus katedra
-- [[objektai/vietos/Dambrava]] priklause Vilniaus katedra
-- [[objektai/vietos/Tauragnų pilis|Tauragnų pilis (pilis)]] priklause Vilniaus katedra
-- [[objektai/vietos/Verkiai]] priklause Vilniaus katedra
-- [[objektai/vietos/Bokštai]] priklause Vilniaus katedra
-- [[objektai/vietos/Tauragnai]] priklause Vilniaus katedra
-- [[objektai/vietos/Labanoras]] priklause Vilniaus katedra
+- Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Turėjo priklausinį: [[objektai/vietos/Bokštai]], [[objektai/vietos/Dambrava]], [[objektai/vietos/Labanoras]], [[objektai/vietos/Tauragnai]], [[objektai/vietos/Tauragnų pilis|Tauragnų pilis (pilis)]], [[objektai/vietos/Verkiai]]

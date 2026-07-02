@@ -288,7 +288,4 @@ Nenurodyta
     - t-009
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje Salaspilio (Kircholmo) mūšis (1605 m.)
-- [[objektai/grupes/Švedai]] dalyvavo_musyje Salaspilio (Kircholmo) mūšis (1605 m.)
-- [[objektai/asmenys/A. Liuneburgietis]] dalyvavo_musyje Salaspilio (Kircholmo) mūšis (1605 m.)
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Salaspilio (Kircholmo) mūšis (1605 m.)
+- Turėjo dalyvį: [[objektai/asmenys/A. Liuneburgietis]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Švedai]]

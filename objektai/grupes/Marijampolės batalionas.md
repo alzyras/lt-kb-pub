@@ -76,5 +76,4 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
     - t-001
 
 ## Ryšiai
-- Marijampolės batalionas priklause [[objektai/grupes/11 brigada]]
-- Marijampolės batalionas priklause [[objektai/grupes/brigada]]
+- Marijampolės batalionas priklausė [[objektai/grupes/11 brigada]], [[objektai/grupes/brigada]]

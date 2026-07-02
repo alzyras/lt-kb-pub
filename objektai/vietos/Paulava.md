@@ -119,4 +119,4 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Povilas Ksaveras Bžostovskis]] pastate Paulava
+- Buvo pastatyta: [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]

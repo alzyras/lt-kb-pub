@@ -332,7 +332,4 @@ Ulrikas Hozijus buvo Vilniaus pilininkas ir LDK monetų kalyklos valdytojas. Ša
     - t-003
 
 ## Ryšiai
-- Ulrikas Hozijus pastate [[objektai/vietos/Vilniaus tiltas per Viliją]]
-- Ulrikas Hozijus pastate [[objektai/vietos/Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją)]]
-- Ulrikas Hozijus pastate [[objektai/vietos/Šv. Dvasios prieglauda Vilniuje]]
-- Ulrikas Hozijus pastate [[objektai/vietos/Ulriko Hozijaus tiltas per Viliją]]
+- Ulrikas Hozijus pastatė [[objektai/vietos/Šv. Dvasios prieglauda Vilniuje]], [[objektai/vietos/Ulriko Hozijaus tiltas per Viliją]], [[objektai/vietos/Vilniaus tiltas per Viliją]], [[objektai/vietos/Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją)]]

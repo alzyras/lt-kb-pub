@@ -194,5 +194,5 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     - t-004
 
 ## Ryšiai
-- JAV lietuviai reme [[objektai/grupes/Lietuvių informacijos biuras Lozanoje]]
 - JAV lietuviai gyveno [[objektai/vietos/Niujorkas]]
+- JAV lietuviai rėmė [[objektai/grupes/Lietuvių informacijos biuras Lozanoje]]

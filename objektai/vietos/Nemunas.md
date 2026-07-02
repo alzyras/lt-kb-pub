@@ -2386,21 +2386,10 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - t-083
 
 ## Ryšiai
-- [[objektai/vietos/Salynas]] priklause Nemunas
-- [[objektai/grupes/Lietuviai]] gyveno Nemunas
-- [[objektai/grupes/Kryžiuočių ordinas]] uzkariavo Nemunas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Nemunas
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Nemunas
-- [[objektai/grupes/Lamatiečiai]] gyveno Nemunas
-- Nemunas priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Skalviai]] gyveno Nemunas
-- [[objektai/asmenys/Ditrichas iš Ezbeko]] keliavo_i Nemunas
-- [[objektai/vietos/Gilija]] priklause Nemunas
-- [[objektai/asmenys/P. Liatukas]] gyne Nemunas
-- [[objektai/grupes/Kryžiuočių ordinas]] priklause Nemunas
-- [[objektai/vietos/Pieštvė]] priklause Nemunas
-- [[objektai/vietos/Paštuvos valsčius]] priklause Nemunas
-- [[objektai/vietos/Veliuona]] priklause Nemunas
-- [[objektai/vietos/Veliuonėlė]] priklause Nemunas
-- [[objektai/grupes/Vikingai]] keliavo_i Nemunas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Nemunas
+- Buvo kelionės vieta: [[objektai/asmenys/Ditrichas iš Ezbeko]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vikingai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gynė Nemuną: [[objektai/asmenys/P. Liatukas]]
+- Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Gyvenamoji vieta: [[objektai/grupes/Lamatiečiai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Skalviai]]
+- Turėjo priklausinį: [[objektai/vietos/Gilija]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Paštuvos valsčius]], [[objektai/vietos/Pieštvė]], [[objektai/vietos/Salynas]], [[objektai/vietos/Veliuona]], [[objektai/vietos/Veliuonėlė]]
+- Nemunas priklausė [[objektai/grupes/Kryžiuočių ordinas]]

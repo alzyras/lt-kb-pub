@@ -78,4 +78,4 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
     - t-001
 
 ## Ryšiai
-- Burchardas iš Magdeburgo keliavo_i [[objektai/vietos/Pamedė]]
+- Burchardas iš Magdeburgo keliavo į [[objektai/vietos/Pamedė]]

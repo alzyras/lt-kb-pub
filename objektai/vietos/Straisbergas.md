@@ -95,4 +95,4 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Straisbergas
+- Puolė Straisbergą: [[objektai/grupes/Lietuviai]]

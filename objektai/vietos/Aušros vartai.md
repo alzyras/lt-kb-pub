@@ -51,4 +51,4 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas Landsbergis]] keliavo_i Aušros vartai
+- Buvo kelionės vieta: [[objektai/asmenys/Vytautas Landsbergis]]

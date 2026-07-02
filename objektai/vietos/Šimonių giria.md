@@ -122,4 +122,4 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
     - t-004
 
 ## Ryšiai
-- [[objektai/daiktai/Partizanų bunkeriai]] priklause Šimonių giria
+- Turėjo priklausinį: [[objektai/daiktai/Partizanų bunkeriai]]

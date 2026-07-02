@@ -52,4 +52,4 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Švitrigaila]] keliavo_i Pašilė
+- Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]

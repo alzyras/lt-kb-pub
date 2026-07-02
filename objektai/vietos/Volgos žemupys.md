@@ -41,5 +41,5 @@ Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir aps
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Budinai]] gyveno Volgos žemupys
-- [[objektai/grupes/Budinai]] keliavo_i Volgos žemupys
+- Buvo kelionės vieta: [[objektai/grupes/Budinai]]
+- Gyvenamoji vieta: [[objektai/grupes/Budinai]]

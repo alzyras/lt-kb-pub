@@ -59,4 +59,4 @@ Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir iš
     - t-001
 
 ## Ryšiai
-- Višnioveckis keliavo_i [[objektai/vietos/Skitija]]
+- Višnioveckis keliavo į [[objektai/vietos/Skitija]]

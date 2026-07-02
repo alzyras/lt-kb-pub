@@ -160,7 +160,6 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Aaron Klug]] gime Želva
-- [[objektai/grupes/Lenkai]] uzeme Želva
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] puole Želva
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] puole Želva
+- Gimimo vieta: [[objektai/asmenys/Aaron Klug]]
+- Puolė Želvą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Užėmė Želvą: [[objektai/grupes/Lenkai]]

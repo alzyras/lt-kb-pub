@@ -158,4 +158,4 @@ Jonas Jeronimaitis Chodkevičius iškilo kaip LDK politikas Livonijos karo spaud
     - t-006
 
 ## Ryšiai
-- Jonas Jeronimaitis Chodkevičius keliavo_i [[objektai/vietos/Lenkija]]
+- Jonas Jeronimaitis Chodkevičius keliavo į [[objektai/vietos/Lenkija]]

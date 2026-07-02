@@ -623,28 +623,9 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
     - t-012
 
 ## Ryšiai
-- Baltai gyveno [[objektai/vietos/Nemuno-Dauguvos-Dniepro plotas]]
-- [[objektai/grupes/Prūsai]] priklause Baltai
-- Baltai gyveno [[objektai/vietos/Baltija]]
-- Baltai gyveno [[objektai/vietos/Okos baseinai]]
-- [[objektai/grupes/Bartai]] priklause Baltai
-- [[objektai/grupes/Latviai]] priklause Baltai
-- [[objektai/grupes/Lietuviai]] priklause Baltai
-- [[objektai/grupes/Sembai]] priklause Baltai
-- Baltai gyveno [[objektai/vietos/Dauguva]]
-- Baltai gyveno [[objektai/vietos/Dniepras]]
-- Baltai gyveno [[objektai/vietos/Vysla]]
-- Baltai gyne [[objektai/grupes/Hunai]]
-- Baltai kariavo_pries [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Nadruviai]] priklause Baltai
-- [[objektai/grupes/Skalviai]] priklause Baltai
-- Baltai gyveno [[objektai/vietos/Maskva]]
-- [[objektai/grupes/Kuršiai]] priklause Baltai
-- [[objektai/grupes/Vokiečiai]] uzkariavo Baltai
-- [[objektai/grupes/Jotvingiai]] priklause Baltai
-- [[objektai/grupes/Kalavijuočių ordinas]] uzkariavo Baltai
-- Baltai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Gyvatgalviai kapliai]] priklause Baltai
-- Baltai gyveno [[objektai/vietos/Desna]]
-- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Baltai
-- [[objektai/vietos/Romuva]] priklause Baltai
+- Sąjungininkai: [[objektai/grupes/Lietuviai]]
+- Buvo užkariauta: [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/grupes/Vokiečiai]]
+- Turėjo priklausinį: [[objektai/grupes/Bartai]], [[objektai/daiktai/Gyvatgalviai kapliai]], [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Kuršiai]], [[objektai/grupes/Latviai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Nadruviai]], [[objektai/grupes/Prūsai]], [[objektai/vietos/Romuva]], [[objektai/grupes/Sembai]], [[objektai/grupes/Skalviai]]
+- Baltai gynė [[objektai/grupes/Hunai]]
+- Baltai kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vokiečiai]]
+- Baltai gyveno [[objektai/vietos/Baltija]], [[objektai/vietos/Dauguva]], [[objektai/vietos/Desna]], [[objektai/vietos/Dniepras]], [[objektai/vietos/Maskva]], [[objektai/vietos/Nemuno-Dauguvos-Dniepro plotas]], [[objektai/vietos/Okos baseinai]], [[objektai/vietos/Vysla]]

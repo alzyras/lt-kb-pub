@@ -53,4 +53,4 @@ Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK
     - t-001
 
 ## Ryšiai
-- Laikinoji LDK vyriausybė priklause [[objektai/vietos/Vilnius]]
+- Laikinoji LDK vyriausybė priklausė [[objektai/vietos/Vilnius]]

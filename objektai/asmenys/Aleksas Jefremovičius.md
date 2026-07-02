@@ -58,4 +58,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Aleksas Jefremovičius sudare_sutarti_su [[objektai/asmenys/Švitrigaila]]
+- Aleksas Jefremovičius sudarė sutartį su [[objektai/asmenys/Švitrigaila]]

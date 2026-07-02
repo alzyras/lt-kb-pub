@@ -153,4 +153,4 @@ Hennė buvo Vytauto juokdarys, šaltiniuose įvardijamas ir kaip Ordino agentas.
     - t-005
 
 ## Ryšiai
-- Hennė (Ordino agentas) reme [[objektai/grupes/Vokiečiai]]
+- Hennė (Ordino agentas) rėmė [[objektai/grupes/Vokiečiai]]

@@ -89,6 +89,6 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
     - t-003
 
 ## Ryšiai
-- Vosylius sudare_sutarti_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Vosylius buvo_sunus [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)]]
-- Vosylius valde [[objektai/vietos/Maskva]]
+- Tėvai: [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)]]
+- Vosylius valdė [[objektai/vietos/Maskva]]
+- Vosylius sudarė sutartį su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

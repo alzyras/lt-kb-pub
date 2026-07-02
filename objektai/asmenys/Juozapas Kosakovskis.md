@@ -91,4 +91,4 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
     - t-001
 
 ## Ryšiai
-- Juozapas Kosakovskis (vyskupas) mire [[objektai/vietos/Varšuva]]
+- Juozapas Kosakovskis (vyskupas) mirė [[objektai/vietos/Varšuva]]

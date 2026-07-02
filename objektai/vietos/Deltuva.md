@@ -104,5 +104,5 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Kernius]] buvo_palaidotas Deltuva
-- [[objektai/asmenys/Živinbudas]] valde_miesta Deltuva
+- Buvo valdoma: [[objektai/asmenys/Živinbudas]]
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Kernius]]

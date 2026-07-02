@@ -70,4 +70,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Manvydo rūmai ir Aukštutinės pilies mūrai priklause [[objektai/asmenys/Manvydas]]
+- Manvydo rūmai ir Aukštutinės pilies mūrai priklausė [[objektai/asmenys/Manvydas]]

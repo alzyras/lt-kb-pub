@@ -54,4 +54,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Žygimantas]] keliavo_i Radaškovičiai
+- Buvo kelionės vieta: [[objektai/asmenys/Žygimantas]]

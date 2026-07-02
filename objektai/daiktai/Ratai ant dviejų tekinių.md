@@ -57,4 +57,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Ratai ant dviejų tekinių priklause [[objektai/grupes/Kalnėnai]]
+- Ratai ant dviejų tekinių priklausė [[objektai/grupes/Kalnėnai]]

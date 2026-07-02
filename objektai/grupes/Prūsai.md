@@ -1429,28 +1429,13 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
     - t-030
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] uzkariavo Prūsai
-- Prūsai priklause [[objektai/grupes/Baltai]]
-- Prūsai priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- Prūsai puole [[objektai/asmenys/Adalbertas]]
-- Prūsai valde_teritorija [[objektai/vietos/Kulmas]]
-- [[objektai/asmenys/Utenis]] reme Prūsai
-- [[objektai/daiktai/Vėliavos]] priklause Prūsai
-- [[objektai/grupes/Žemaičiai]] prekiavo_su Prūsai
-- [[objektai/daiktai/Prūsų didžioji vėliava]] priklause Prūsai
-- [[objektai/grupes/Teutonai]] uzkariavo Prūsai
-- [[objektai/daiktai/Senovės prūsų monetos]] priklause Prūsai
-- [[objektai/daiktai/Senovės prūsų vėliava]] priklause Prūsai
-- [[objektai/daiktai/Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais]] priklause Prūsai
-- Prūsai puole [[objektai/asmenys/Šventasis Adalbertas]]
+- Puolė Prūsai: [[objektai/grupes/Lenkai]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Vokiečiai]], [[objektai/asmenys/Volradas Nuostabusis]]
+- Prekiavo su: [[objektai/grupes/Žemaičiai]]
+- Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Teutonai]]
+- Rėmė Prūsai: [[objektai/asmenys/Utenis]]
+- Turėjo priklausinį: [[objektai/vietos/Heiligenbeilis Šventasis Kirvelis]], [[objektai/daiktai/Herbas]], [[objektai/vietos/Kulmo žemė]], [[objektai/daiktai/Prūsų didžioji vėliava]], [[objektai/daiktai/Senovės prūsų monetos]], [[objektai/daiktai/Senovės prūsų vėliava]], [[objektai/daiktai/Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais]], [[objektai/daiktai/Tautinės vėliavos]], [[objektai/vietos/Vaistotpilis]], [[objektai/daiktai/Vėliavos]]
+- Prūsai valdė [[objektai/vietos/Kulmas]]
+- Prūsai puolė [[objektai/asmenys/Adalbertas]], [[objektai/asmenys/Šventasis Adalbertas]]
+- Prūsai kariavo prieš [[objektai/grupes/Skandinavai]]
 - Prūsai gyveno [[objektai/vietos/Naugardas]]
-- Prūsai kariavo_pries [[objektai/grupes/Skandinavai]]
-- [[objektai/daiktai/Tautinės vėliavos]] priklause Prūsai
-- [[objektai/vietos/Vaistotpilis]] priklause Prūsai
-- [[objektai/vietos/Kulmo žemė]] priklause Prūsai
-- [[objektai/daiktai/Herbas]] priklause Prūsai
-- [[objektai/grupes/Lenkai]] puole Prūsai
-- [[objektai/grupes/Totoriai]] puole Prūsai
-- [[objektai/grupes/Vokiečiai]] puole Prūsai
-- [[objektai/asmenys/Volradas Nuostabusis]] puole Prūsai
-- [[objektai/vietos/Heiligenbeilis Šventasis Kirvelis]] priklause Prūsai
+- Prūsai priklausė [[objektai/grupes/Baltai]], [[objektai/grupes/Kryžiuočių ordinas]]

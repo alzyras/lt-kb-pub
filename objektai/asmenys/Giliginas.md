@@ -58,6 +58,6 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
     - t-001
 
 ## Ryšiai
-- Giliginas buvo_sunus [[objektai/asmenys/Germantas]]
-- [[objektai/asmenys/Romuntas]] buvo_sunus Giliginas
-- [[objektai/asmenys/Trobius]] buvo_brolis Giliginas
+- Sūnūs: [[objektai/asmenys/Romuntas]]
+- Tėvai: [[objektai/asmenys/Germantas]]
+- Broliai: [[objektai/asmenys/Trobius]]

@@ -54,4 +54,4 @@ Po susitikimo Paryžiuje su Lenkijos užsienio reikalų ministru Augustu Zaleski
     - t-001
 
 ## Ryšiai
-- Augustas Zaleskis keliavo_i [[objektai/vietos/Paryžius]]
+- Augustas Zaleskis keliavo į [[objektai/vietos/Paryžius]]

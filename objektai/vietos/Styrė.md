@@ -44,4 +44,4 @@ Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota va
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] keliavo_i Styrė
+- Buvo kelionės vieta: [[objektai/grupes/Lenkai]]

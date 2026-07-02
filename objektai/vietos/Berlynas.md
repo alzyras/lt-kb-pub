@@ -517,6 +517,5 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/A. Smetona]] keliavo_i Berlynas
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] keliavo_i Berlynas
-- [[objektai/daiktai/Prūsijos žemės kronikos nuorašai]] priklause Berlynas
+- Buvo kelionės vieta: [[objektai/asmenys/A. Smetona]], [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- Turėjo priklausinį: [[objektai/daiktai/Prūsijos žemės kronikos nuorašai]]

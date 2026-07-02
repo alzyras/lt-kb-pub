@@ -71,4 +71,4 @@ Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Pernarava
+- Puolė Pernaravą: [[objektai/grupes/Kryžiuočių ordinas]]

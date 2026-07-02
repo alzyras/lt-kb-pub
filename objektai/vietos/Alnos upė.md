@@ -47,4 +47,4 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Gotai]] gyveno Alnos upė
+- Gyvenamoji vieta: [[objektai/grupes/Gotai]]

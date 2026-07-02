@@ -57,4 +57,4 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
     - t-001
 
 ## Ryšiai
-- Hermanas (Petro iš Rozenbergo dėdė) keliavo_i [[objektai/vietos/Prūsija]]
+- Hermanas (Petro iš Rozenbergo dėdė) keliavo į [[objektai/vietos/Prūsija]]

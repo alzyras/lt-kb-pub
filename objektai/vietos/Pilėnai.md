@@ -189,5 +189,5 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] gyne Pilėnai
-- [[objektai/grupes/Kryžiuočių ordinas]] apgule Pilėnai
+- Apgulė Pilėnai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Gynė Pilėnai: [[objektai/grupes/Lietuviai]]

@@ -41,4 +41,4 @@ Vėliau Vanagas subūrė Merkinės ir Alovės partizanus į 140 vyrų kuopą.
     - t-001
 
 ## Ryšiai
-- Merkinės batalionas priklause [[objektai/vietos/Merkinė]]
+- Merkinės batalionas priklausė [[objektai/vietos/Merkinė]]

@@ -48,4 +48,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/3-ioji divizija]] gyne Smalėnai
+- Gynė Smalėnai: [[objektai/grupes/3-ioji divizija]]

@@ -354,15 +354,10 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     - t-005
 
 ## Ryšiai
-- Radvilos uzeme [[objektai/vietos/Cholmas]]
-- [[objektai/daiktai/Trimitai]] priklause Radvilos
-- Radvilos puole [[objektai/vietos/Urdomas]]
-- [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]] kariavo_pries Radvilos
-- Radvilos keliavo_i [[objektai/vietos/Starica]]
-- Radvilos dalyvavo_musyje [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
-- Radvilos valde [[objektai/vietos/Voluinė]]
-- Radvilos valde [[objektai/vietos/Jašiūnai]]
-- Radvilos puole [[objektai/vietos/Dubnas]]
-- Radvilos puole [[objektai/vietos/Rusija]]
-- Radvilos puole [[objektai/vietos/Rževas]]
-- Radvilos uzeme [[objektai/vietos/Urdomas]]
+- Kariavo prieš: [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]]
+- Turėjo priklausinį: [[objektai/daiktai/Trimitai]]
+- Radvilos valdė [[objektai/vietos/Jašiūnai]], [[objektai/vietos/Voluinė]]
+- Radvilos keliavo į [[objektai/vietos/Starica]]
+- Radvilos puolė [[objektai/vietos/Dubnas]], [[objektai/vietos/Rusija]], [[objektai/vietos/Rževas]], [[objektai/vietos/Urdomas]]
+- Radvilos užėmė [[objektai/vietos/Cholmas]], [[objektai/vietos/Urdomas]]
+- Radvilos dalyvavo mūšyje [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]

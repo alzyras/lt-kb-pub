@@ -91,4 +91,4 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Henrikas Lankasteris]] buvo_priesas Ričardas II
+- Priešai: [[objektai/asmenys/Henrikas Lankasteris]]

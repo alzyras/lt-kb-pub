@@ -65,4 +65,4 @@ Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos,
     - t-001
 
 ## Ryšiai
-- Gebhardas gime [[objektai/vietos/Saksonija]]
+- Gebhardas gimė [[objektai/vietos/Saksonija]]

@@ -128,4 +128,4 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lenkijos kariuomenė]] keliavo_i Valakija
+- Buvo kelionės vieta: [[objektai/grupes/Lenkijos kariuomenė]]

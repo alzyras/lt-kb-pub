@@ -54,5 +54,5 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Mykolas (Švitrigailos sūnus) mire [[objektai/vietos/Maskva]]
-- Mykolas (Švitrigailos sūnus) buvo_palaidotas [[objektai/vietos/Vilnius]]
+- Mykolas (Švitrigailos sūnus) mirė [[objektai/vietos/Maskva]]
+- Mykolas (Švitrigailos sūnus) buvo palaidotas [[objektai/vietos/Vilnius]]

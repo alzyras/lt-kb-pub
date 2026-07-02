@@ -50,5 +50,5 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     - t-001
 
 ## Ryšiai
-- Utenis reme [[objektai/grupes/Prūsai]]
-- Utenis kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Utenis kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]
+- Utenis rėmė [[objektai/grupes/Prūsai]]

@@ -117,6 +117,6 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
     - t-004
 
 ## Ryšiai
-- Vokietijos maldininkai keliavo_i [[objektai/vietos/Prūsija]]
-- Vokietijos maldininkai surenge_zygi_i [[objektai/vietos/Medininkai]]
-- Vokietijos maldininkai gyne [[objektai/vietos/Baiga]]
+- Vokietijos maldininkai keliavo į [[objektai/vietos/Prūsija]]
+- Vokietijos maldininkai gynė [[objektai/vietos/Baiga]]
+- Vokietijos maldininkai surengė žygį į [[objektai/vietos/Medininkai]]

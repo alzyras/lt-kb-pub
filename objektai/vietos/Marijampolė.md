@@ -129,4 +129,4 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Petras Kriaučiūnas]] gyveno Marijampolė
+- Gyvenamoji vieta: [[objektai/asmenys/Petras Kriaučiūnas]]

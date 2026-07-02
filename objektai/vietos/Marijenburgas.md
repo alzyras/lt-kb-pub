@@ -85,6 +85,6 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Marijenburgas
-- Marijenburgas priklause [[objektai/vietos/Lenkija]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Marijenburgas
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Marijenburgą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Marijenburgas priklausė [[objektai/vietos/Lenkija]]

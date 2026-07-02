@@ -53,4 +53,4 @@ Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė
     - t-001
 
 ## Ryšiai
-- Romanova priklause [[objektai/vietos/Lietuva]]
+- Romanova priklausė [[objektai/vietos/Lietuva]]

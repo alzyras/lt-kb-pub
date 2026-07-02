@@ -185,8 +185,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Pajauta]] buvo_zmona Živinbudas
-- Živinbudas vede [[objektai/asmenys/Pajauta]]
-- Živinbudas valde [[objektai/vietos/Lietuva]]
-- Živinbudas valde_miesta [[objektai/vietos/Kernavė]]
-- Živinbudas valde_miesta [[objektai/vietos/Deltuva]]
+- Žmonos: [[objektai/asmenys/Pajauta]]
+- Sutuoktiniai: [[objektai/asmenys/Pajauta]]
+- Živinbudas valdė [[objektai/vietos/Deltuva]], [[objektai/vietos/Kernavė]], [[objektai/vietos/Lietuva]]

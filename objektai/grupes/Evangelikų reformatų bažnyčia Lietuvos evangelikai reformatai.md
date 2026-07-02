@@ -101,4 +101,4 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/LDK didikai]] reme Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai
+- Rėmė Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: [[objektai/grupes/LDK didikai]]

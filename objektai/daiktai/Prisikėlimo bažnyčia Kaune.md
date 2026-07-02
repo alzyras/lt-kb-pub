@@ -63,4 +63,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Prisikėlimo bažnyčia Kaune priklause [[objektai/vietos/Kaunas]]
+- Prisikėlimo bažnyčia Kaune priklausė [[objektai/vietos/Kaunas]]

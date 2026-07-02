@@ -62,4 +62,4 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
     - t-001
 
 ## Ryšiai
-- Joachimas Pavlovičius keliavo_i [[objektai/vietos/Vilnius]]
+- Joachimas Pavlovičius keliavo į [[objektai/vietos/Vilnius]]

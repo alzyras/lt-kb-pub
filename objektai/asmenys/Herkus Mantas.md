@@ -419,11 +419,9 @@ Herkus Mantas šaltiniuose vaizduojamas kaip notangų vadas, išrinktas po prūs
     - t-011
 
 ## Ryšiai
-- [[objektai/grupes/Notangai]] paskyre Herkus Mantas
-- Herkus Mantas kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Herkus Mantas puole [[objektai/asmenys/Henrikas Ulenbušas]]
-- Herkus Mantas puole [[objektai/vietos/Kulmas]]
-- [[objektai/asmenys/Helvigas iš Goldbacho]] puole Herkus Mantas
-- [[objektai/asmenys/Henrikas iš Šenenbergo]] puole Herkus Mantas
-- Herkus Mantas surenge_zygi_i [[objektai/vietos/Kulmas]]
-- Herkus Mantas dalyvavo_musyje [[objektai/ivykiai/Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)]]
+- Puolė Herkus Mantą: [[objektai/asmenys/Helvigas iš Goldbacho]], [[objektai/asmenys/Henrikas iš Šenenbergo]]
+- Paskyrė Herkus Mantą: [[objektai/grupes/Notangai]]
+- Herkus Mantas puolė [[objektai/asmenys/Henrikas Ulenbušas]], [[objektai/vietos/Kulmas]]
+- Herkus Mantas surengė žygį į [[objektai/vietos/Kulmas]]
+- Herkus Mantas kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]
+- Herkus Mantas dalyvavo mūšyje [[objektai/ivykiai/Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)]]

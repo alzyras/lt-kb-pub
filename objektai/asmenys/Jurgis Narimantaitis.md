@@ -87,4 +87,4 @@ Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos kar
     - t-002
 
 ## Ryšiai
-- [[objektai/vietos/Belzas]] priklause Jurgis Narimantaitis
+- Turėjo priklausinį: [[objektai/vietos/Belzas]]

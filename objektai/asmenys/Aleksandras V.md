@@ -44,4 +44,4 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
     - t-001
 
 ## Ryšiai
-- Aleksandras V buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
+- Priešai: [[objektai/grupes/Kryžiuočių ordinas]]

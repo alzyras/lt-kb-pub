@@ -70,4 +70,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje Zelvos mūšis (1792 m. liepos 4 d.)
+- Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]]

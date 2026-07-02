@@ -187,5 +187,5 @@ Karolis IX buvo Švedijos karalius, minimas 1605 m. Salaspilio (Kirkcholmo) mū�
     - t-002
 
 ## Ryšiai
-- Karolis IX buvo_valdovas [[objektai/vietos/Švedija]]
-- [[objektai/asmenys/Henrikas Vrede]] gyne Karolis IX
+- Gynė Karolis IX: [[objektai/asmenys/Henrikas Vrede]]
+- Karolis IX buvo valdovas [[objektai/vietos/Švedija]]

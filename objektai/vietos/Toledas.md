@@ -57,4 +57,4 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
     - t-001
 
 ## Ryšiai
-- Toledas priklause [[objektai/vietos/Ispanija]]
+- Toledas priklausė [[objektai/vietos/Ispanija]]

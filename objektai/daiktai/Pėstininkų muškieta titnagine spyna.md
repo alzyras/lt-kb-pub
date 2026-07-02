@@ -66,4 +66,4 @@ Nenurodyta
 Nenurodyta
 
 ## Ryšiai
-- Pėstininkų muškieta titnagine spyna priklause [[objektai/vietos/Prūsija]]
+- Pėstininkų muškieta titnagine spyna priklausė [[objektai/vietos/Prūsija]]

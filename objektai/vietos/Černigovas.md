@@ -419,11 +419,9 @@ amziai:
     - t-017
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Černigovas
-- Černigovas priklause [[objektai/vietos/Lenkija]]
-- [[objektai/asmenys/Švitrigaila]] valde_teritorija Černigovas
-- [[objektai/vietos/Novosilė]] priklause Černigovas
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] uzeme Černigovas
-- Černigovas priklause [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- Černigovas priklause [[objektai/vietos/Seversko žemės]]
-- [[objektai/vietos/Vilnius]] prekiavo_su Černigovas
+- Buvo valdoma: [[objektai/asmenys/Švitrigaila]]
+- Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Užėmė Černigovą: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- Prekiavo su: [[objektai/vietos/Vilnius]]
+- Turėjo priklausinį: [[objektai/vietos/Novosilė]]
+- Černigovas priklausė [[objektai/asmenys/Konstantinas (Karijotaitis)]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Seversko žemės]]

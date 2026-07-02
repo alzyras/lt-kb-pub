@@ -49,5 +49,4 @@ Narbutas Čeltyčias vaizdavo kaip Baltijos jūros vandenų nimfas, pajūrio že
     - t-001
 
 ## Ryšiai
-- Čeltyčios gyveno [[objektai/vietos/Baltijos jūra]]
-- Čeltyčios gyveno [[objektai/vietos/Baltija]]
+- Čeltyčios gyveno [[objektai/vietos/Baltija]], [[objektai/vietos/Baltijos jūra]]

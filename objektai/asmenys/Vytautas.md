@@ -5617,279 +5617,36 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
     - t-183
 
 ## Ryšiai
-- [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]] buvo_zmona Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Skirgaila]] buvo_priesas Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Lenkija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) mire [[objektai/vietos/Trakai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Konstanca]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Viazma]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Kryžiuočių ordinas]] gyne Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Sofija (Vytauto duktė)]] buvo_dukte Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) apgule [[objektai/vietos/Vilnius]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_palaidotas [[objektai/vietos/Vilnius]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_sunus [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/vietos/Veliuona]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Opočka]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Pskovas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Smolenskas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Smolenskas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Vitebskas]]
-- [[objektai/asmenys/Martynas V]] paskyre Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) dalyvavo_musyje [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
-- [[objektai/asmenys/Bonifacas IX]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/grupes/Livonijos ordinas]] puole Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Drohičinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Lietuva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Vengrija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Zna]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyre [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/vietos/Vilniaus katedra]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Voronačas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Krymas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Naugardas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Kijevas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Ovručas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Veližas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Žitomiras]]
-- [[objektai/vietos/Luckas]] priklause Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) apgule [[objektai/vietos/Trakai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno [[objektai/vietos/Marienburgas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/asmenys/Skirgaila]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Azovas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Krokuva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Smolenskas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyre [[objektai/asmenys/Jomantas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/grupes/Žemaičiai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Korčinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Didysis Naugardas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Maskva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Medininkai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Pskovas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Podolija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Podolė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde [[objektai/vietos/Podolė]]
-- [[objektai/asmenys/Zbignievas Olesnickis]] buvo_priesas Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_sajungininkas_su [[objektai/asmenys/Skirgaila]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/grupes/Didžiojo Naugardo respublika]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Totoriai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Aukokalnis]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Kaunas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Trakai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Černigovas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Žemaitija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/daiktai/Pilys]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/grupes/Domininkonų ordinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Praga]]
-- [[objektai/asmenys/Julijona]] buvo_zmona Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/grupes/Vokiečių ordinas]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno [[objektai/vietos/Gardinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Mazovija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Podolė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Koloža]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde [[objektai/vietos/Luckas]]
-- [[objektai/asmenys/Kazimieras Karigaila]] buvo_brolis Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Vosylius]] sudare_sutarti_su Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_vyras [[objektai/asmenys/Ona Vytautienė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gyne [[objektai/vietos/Lietuva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Krėva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Kėzmarkas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Panemunė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Vilnius]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Vitebskas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Riazanės kunigaikštystė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/grupes/Kryžiuočių ordinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/asmenys/Machmetas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Praha]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Vilnius]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Vladimiras]]
-- [[objektai/asmenys/Zigmantas I]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Karigaila]] buvo_brolis Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Martynas V]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Gardinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/grupes/Pskoviečiai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Lenkai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Druckas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Gardinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Kezmarkas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Palenkė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Volkoviskas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Vorskla]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Vilnius]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/asmenys/Skirgaila]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/asmenys/St. Ciolką]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Prūsija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Vroclavas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Čekija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) sudare_sutarti_su [[objektai/asmenys/Konradas Jungingenas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) sudare_sutarti_su [[objektai/grupes/Livonijos ordinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Donas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Maskvos žemės]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Krasnyj Gorod]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Seversko Naugardas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_miesta [[objektai/vietos/Gardinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_miesta [[objektai/vietos/Trakai]]
-- [[objektai/vietos/Žemaitija]] priklause Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/grupes/Žemaičiai]] sudare_sutarti_su Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Kijevas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]] buvo_sajungininkas_su Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) apgule [[objektai/vietos/Kulmas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) apgule [[objektai/vietos/Seversko Naugardas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) apgule [[objektai/vietos/Vitebskas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_sajungininkas_su [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_sunus [[objektai/asmenys/Birutė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno [[objektai/vietos/Trakai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Užnemunė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyre [[objektai/asmenys/Jurgis Cemblakas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/vietos/Naugardėlis]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Riazanė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Žemutinė pilis Kreivoji pilis|Žemutinė pilis Kreivoji pilis (pilis)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Naugardas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gyne [[objektai/vietos/Trakai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Riazanė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Vitebskas]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/grupes/Kryžiuočių ordinas]] sudare_sutarti_su Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Marquardas von Salzbachas]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/vietos/Novosielsko]] priklause Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Saladinas]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Tochtamyšas]] buvo_sajungininkas_su Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_sajungininkas_su [[objektai/asmenys/Tochtamyšas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Dubrovna]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Dubysa]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Maskva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyre [[objektai/asmenys/Zigmantas Kaributas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Ritterswerderis]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/asmenys/Švitrigaila]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/grupes/Husitai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/asmenys/Teodosijus]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Lietuva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) sudare_sutarti_su [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Vorskla]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzeme [[objektai/vietos/Trakai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_miesta [[objektai/vietos/Luckas]]
-- [[objektai/grupes/Kryžiuočių ordinas]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gyne [[objektai/vietos/Kijevo Rusia]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Nemunas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyre [[objektai/asmenys/Kaributas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/asmenys/Andrius Važila]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/asmenys/Bazilius (Vasilius) II]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/asmenys/Manuelis]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) sudare_sutarti_su [[objektai/asmenys/Skirgaila]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzkariavo [[objektai/vietos/Pskovas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde [[objektai/vietos/Drohičinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde [[objektai/vietos/Mielnikas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde [[objektai/vietos/Palenkė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_miesta [[objektai/vietos/Naugardas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Žitomiras]]
-- [[objektai/grupes/Bajorai]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_sajungininkas_su [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lenkai]] priklause Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/grupes/Vokiečiai]] puole Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gyne [[objektai/grupes/Žemaičiai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Bajerburgas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Marijenburgas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Trakai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde [[objektai/vietos/Mcenskas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Liubutskas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Smolenskas]]
-- [[objektai/asmenys/Švitrigaila]] buvo_priesas Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Sventopelkas]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyre [[objektai/asmenys/Lengvenis]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Metena]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Konstancija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzkariavo [[objektai/vietos/Didysis Naugardas]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] sudare_sutarti_su Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Jonas]] buvo_sunus Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/grupes/Maskvos kunigaikštija]] buvo_priesas Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_sajungininkas_su [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno [[objektai/vietos/Vilnius]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Daugai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Pronskas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Prūsų žemė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyre [[objektai/asmenys/Saladinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Naujasis Gardinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Vilniaus pilis]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Vladimiras]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/asmenys/Tochtamišas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/asmenys/Vosylius I]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) sudare_sutarti_su [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde [[objektai/vietos/Gardinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde [[objektai/vietos/Odojevas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Novosielsko]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Podolė]]
-- [[objektai/asmenys/Zigmantas Liuksemburgietis]] buvo_priesas Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_priesas [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gyne [[objektai/grupes/Lenkai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Dniepras]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Prūsija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyre [[objektai/grupes/Totoriai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Rusų žemė]]
-- [[objektai/grupes/Didžlenkiai]] buvo_priesas Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/asmenys/Dmitrijus Kaributas]]
-- [[objektai/daiktai/Karūna]] priklause Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/grupes/Pskoviečiai]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Vengrai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyre [[objektai/grupes/Didžiojo Naugardo respublika]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Skitija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Trakai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Peremišlis]]
-- [[objektai/asmenys/Mikalojus iš Moskožovo]] kariavo_pries Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_miesta [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Jonas Šafranas]] buvo_priesas Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Kerimberdėjus]] buvo_priesas Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/grupes/Smolensko pulkai]] buvo_sajungininkas_su Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyre [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/grupes/Kryžiuočių ordinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Marienburgas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Krokuva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) uzkariavo [[objektai/vietos/Dniepras]]
-- [[objektai/grupes/Karo partija]] buvo_sajungininkas_su Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/grupes/Pamario kunigaikščių sąjunga]] buvo_priesas Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Ulrichas von Jungingenas]] sudare_sutarti_su Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_sajungininkas_su [[objektai/grupes/Karo partija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde [[objektai/vietos/Maskva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde [[objektai/vietos/Veliuona]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/vietos/Kaunas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/vietos/Kelmė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Druckas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/grupes/Žydai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_miesta [[objektai/vietos/Maskva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Volinija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_miesta [[objektai/vietos/Palanga]]
-- [[objektai/asmenys/Mikalojus Michalovskis]] buvo_priesas Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Timuras]] kariavo_pries Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Heilsbergas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Naugardukas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/vietos/Ašmena]]
-- [[objektai/asmenys/Jedigėjus]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/grupes/Vokiečiai]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Markvardas (Ragainės komtūras)]] buvo_sajungininkas_su Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/grupes/Podoliečiai]] buvo_sajungininkas_su Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/vietos/Prūsija]] priklause Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_priesas [[objektai/grupes/Auksinė Orda]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/vietos/Nemunas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/vietos/Pinskas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) reme [[objektai/asmenys/Zbignievas Olesnickis]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde [[objektai/vietos/Kijevas]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] paskyre Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Dimitras Kaributas]] buvo_priesas Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Prūsų žemė]]
-- [[objektai/asmenys/Markvardas Salzbaclias]] buvo_priesas Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Timūr-Kutlukas]] buvo_priesas Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Jurbarkas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Ukmergė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno [[objektai/vietos/Vorskla]]
-- [[objektai/grupes/Čekai]] reme Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno [[objektai/vietos/Smolenskas]]
-- [[objektai/grupes/Karaimai]] gyne Vytautas (Lietuvos valdovas, XIV–XV a.)
+- Žmonos: [[objektai/asmenys/Julijona]], [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]], [[objektai/asmenys/Ona Vytautienė]]
+- Sūnūs: [[objektai/asmenys/Jonas]]
+- Tėvai: [[objektai/asmenys/Birutė]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Dukterys: [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- Broliai: [[objektai/asmenys/Karigaila]], [[objektai/asmenys/Kazimieras Karigaila]]
+- Priešai: [[objektai/grupes/Auksinė Orda]], [[objektai/grupes/Didžlenkiai]], [[objektai/asmenys/Dimitras Kaributas]], [[objektai/asmenys/Jonas Šafranas]], [[objektai/asmenys/Kerimberdėjus]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Markvardas Salzbaclias]], [[objektai/grupes/Maskvos kunigaikštija]], [[objektai/asmenys/Mikalojus Michalovskis]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/grupes/Pamario kunigaikščių sąjunga]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Timūr-Kutlukas]], [[objektai/asmenys/Zbignievas Olesnickis]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- Sąjungininkai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Karo partija]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Markvardas (Ragainės komtūras)]], [[objektai/grupes/Podoliečiai]], [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Smolensko pulkai]], [[objektai/asmenys/Tochtamyšas]], [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- Puolė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/grupes/Livonijos ordinas]], [[objektai/grupes/Vokiečiai]]
+- Gynė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/grupes/Karaimai]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Kariavo prieš: [[objektai/asmenys/Mikalojus iš Moskožovo]], [[objektai/asmenys/Timuras]]
+- Sudarė sutartį su: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Ulrichas von Jungingenas]], [[objektai/asmenys/Vosylius]], [[objektai/grupes/Žemaičiai]]
+- Paskyrė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/asmenys/Martynas V]], [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- Rėmė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/grupes/Bajorai]], [[objektai/asmenys/Bonifacas IX]], [[objektai/grupes/Čekai]], [[objektai/grupes/Didžiojo Naugardo respublika]], [[objektai/asmenys/Jedigėjus]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Marquardas von Salzbachas]], [[objektai/asmenys/Martynas V]], [[objektai/grupes/Pskoviečiai]], [[objektai/asmenys/Saladinas]], [[objektai/asmenys/Sventopelkas]], [[objektai/grupes/Vokiečiai]], [[objektai/grupes/Vokiečių ordinas]], [[objektai/asmenys/Zigmantas I]]
+- Turėjo priklausinį: [[objektai/daiktai/Karūna]], [[objektai/grupes/Lenkai]], [[objektai/vietos/Luckas]], [[objektai/vietos/Novosielsko]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Žemaitija]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas [[objektai/grupes/Didžiojo Naugardo respublika]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Pskoviečiai]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) valdė [[objektai/vietos/Drohičinas]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Liubutskas]], [[objektai/vietos/Luckas]], [[objektai/vietos/Maskva]], [[objektai/vietos/Mcenskas]], [[objektai/vietos/Mielnikas]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Novosielsko]], [[objektai/vietos/Odojevas]], [[objektai/vietos/Palanga]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Peremišlis]], [[objektai/vietos/Podolė]], [[objektai/vietos/Prūsų žemė]], [[objektai/vietos/Rusų žemė]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Veliuona]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Volinija]], [[objektai/vietos/Žitomiras]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į [[objektai/vietos/Aukokalnis]], [[objektai/vietos/Azovas]], [[objektai/vietos/Černigovas]], [[objektai/vietos/Daugai]], [[objektai/vietos/Dniepras]], [[objektai/vietos/Drohičinas]], [[objektai/vietos/Druckas]], [[objektai/vietos/Dubrovna]], [[objektai/vietos/Dubysa]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Heilsbergas]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kezmarkas]], [[objektai/vietos/Kėzmarkas]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Krėva]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Maskva]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Naugardukas]], [[objektai/vietos/Nemunas]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Panemunė]], [[objektai/vietos/Pronskas]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Prūsų žemė]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Ukmergė]], [[objektai/vietos/Užnemunė]], [[objektai/vietos/Vengrija]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Volkoviskas]], [[objektai/vietos/Vorskla]], [[objektai/vietos/Zna]], [[objektai/vietos/Žemaitija]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) mirė [[objektai/vietos/Trakai]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo palaidotas [[objektai/vietos/Vilnius]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) pastatė [[objektai/vietos/Ašmena]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kelmė]], [[objektai/vietos/Naugardėlis]], [[objektai/vietos/Nemunas]], [[objektai/daiktai/Pilys]], [[objektai/vietos/Pinskas]], [[objektai/vietos/Veliuona]], [[objektai/vietos/Vilniaus katedra]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) puolė [[objektai/vietos/Bajerburgas]], [[objektai/asmenys/Dmitrijus Kaributas]], [[objektai/vietos/Druckas]], [[objektai/vietos/Jurbarkas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Marienburgas]], [[objektai/vietos/Marijenburgas]], [[objektai/vietos/Metena]], [[objektai/vietos/Naujasis Gardinas]], [[objektai/vietos/Opočka]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Riazanė]], [[objektai/vietos/Riazanės kunigaikštystė]], [[objektai/vietos/Ritterswerderis]], [[objektai/vietos/Smolenskas]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Teodoras (Karijoto sūnus)]], [[objektai/vietos/Vilniaus pilis]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vladimiras]], [[objektai/vietos/Voronačas]], [[objektai/vietos/Žemutinė pilis Kreivoji pilis|Žemutinė pilis Kreivoji pilis (pilis)]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) apgulė [[objektai/vietos/Kulmas]], [[objektai/vietos/Seversko Naugardas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė [[objektai/vietos/Kijevas]], [[objektai/vietos/Koloža]], [[objektai/vietos/Krasnyj Gorod]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Ovručas]], [[objektai/vietos/Podolė]], [[objektai/vietos/Podolija]], [[objektai/vietos/Seversko Naugardas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Veližas]], [[objektai/vietos/Viazma]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Vladimiras]], [[objektai/vietos/Žitomiras]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) gynė [[objektai/vietos/Kijevo Rusia]], [[objektai/grupes/Lenkai]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Trakai]], [[objektai/grupes/Žemaičiai]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į [[objektai/vietos/Čekija]], [[objektai/vietos/Konstanca]], [[objektai/vietos/Konstancija]], [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]], [[objektai/vietos/Korčinas]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Praga]], [[objektai/vietos/Praha]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Riazanė]], [[objektai/vietos/Skitija]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vroclavas]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į [[objektai/vietos/Didysis Naugardas]], [[objektai/vietos/Donas]], [[objektai/vietos/Krymas]], [[objektai/vietos/Maskva]], [[objektai/vietos/Maskvos žemės]], [[objektai/vietos/Medininkai]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Podolė]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Vorskla]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Vengrai]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) dalyvavo mūšyje [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Konradas Jungingenas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno [[objektai/vietos/Gardinas]], [[objektai/vietos/Marienburgas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vorskla]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė [[objektai/grupes/Didžiojo Naugardo respublika]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jomantas]], [[objektai/asmenys/Jurgis Cemblakas]], [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Lengvenis]], [[objektai/asmenys/Saladinas]], [[objektai/asmenys/Teodoras (Liubarto sūnus)]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Zigmantas Kaributas]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]], [[objektai/asmenys/Andrius Važila]], [[objektai/asmenys/Bazilius (Vasilius) II]], [[objektai/grupes/Domininkonų ordinas]], [[objektai/grupes/Husitai]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Machmetas]], [[objektai/asmenys/Manuelis]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/St. Ciolką]], [[objektai/asmenys/Teodosijus]], [[objektai/asmenys/Tochtamišas]], [[objektai/asmenys/Vosylius I]], [[objektai/asmenys/Zbignievas Olesnickis]], [[objektai/grupes/Žemaičiai]], [[objektai/grupes/Žydai]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) užkariavo [[objektai/vietos/Didysis Naugardas]], [[objektai/vietos/Dniepras]], [[objektai/vietos/Pskovas]]

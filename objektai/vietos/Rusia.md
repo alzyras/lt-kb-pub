@@ -270,5 +270,5 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] surenge_zygi_i Rusia
-- [[objektai/grupes/Lenkai]] puole Rusia
+- Puolė Rusią: [[objektai/grupes/Lenkai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

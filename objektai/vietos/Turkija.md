@@ -103,4 +103,4 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Krymo chanatas]] priklause Turkija
+- Turėjo priklausinį: [[objektai/grupes/Krymo chanatas]]

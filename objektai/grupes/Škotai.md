@@ -114,5 +114,5 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Anglai]] buvo_priesas Škotai
-- Škotai reme [[objektai/grupes/Vokiečiai]]
+- Priešai: [[objektai/grupes/Anglai]]
+- Škotai rėmė [[objektai/grupes/Vokiečiai]]

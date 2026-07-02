@@ -168,11 +168,7 @@ Pelužis buvo lietuvis, kuris, pasak Dusburgiečio, įžeistas savo viešpaties 
     - t-005
 
 ## Ryšiai
-- Pelužis keliavo_i [[objektai/vietos/Semba]]
-- [[objektai/grupes/Kryžiuočių ordinas]] reme Pelužis
-- Pelužis puole [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]
-- [[objektai/asmenys/Martynas iš Golino]] buvo_sajungininkas_su Pelužis
-- Pelužis puole [[objektai/ivykiai/Pelužio antpuolis per Lietuvos didikų puotą (1286 m.)]]
-- [[objektai/asmenys/Albertas iš Meiseno]] reme Pelužis
-- [[objektai/asmenys/Stavimėlas]] buvo_sajungininkas_su Pelužis
-- Pelužis buvo_sajungininkas_su [[objektai/asmenys/Martynas iš Golino]]
+- Sąjungininkai: [[objektai/asmenys/Martynas iš Golino]], [[objektai/asmenys/Stavimėlas]]
+- Rėmė Pelužį: [[objektai/asmenys/Albertas iš Meiseno]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Pelužis keliavo į [[objektai/vietos/Semba]]
+- Pelužis puolė [[objektai/ivykiai/Pelužio antpuolis per Lietuvos didikų puotą (1286 m.)]], [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]

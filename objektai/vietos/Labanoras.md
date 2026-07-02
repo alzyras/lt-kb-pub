@@ -99,5 +99,5 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/brigada]] keliavo_i Labanoras
-- Labanoras priklause [[objektai/vietos/Vilniaus katedra]]
+- Buvo kelionės vieta: [[objektai/grupes/brigada]]
+- Labanoras priklausė [[objektai/vietos/Vilniaus katedra]]

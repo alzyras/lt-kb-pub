@@ -73,4 +73,4 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Tverės sritis
+- Puolė Tverės sritį: [[objektai/grupes/Lietuviai]]

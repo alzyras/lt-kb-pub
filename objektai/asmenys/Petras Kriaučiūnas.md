@@ -107,5 +107,5 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
     - t-001
 
 ## Ryšiai
-- Petras Kriaučiūnas keliavo_i [[objektai/vietos/Vilnius]]
+- Petras Kriaučiūnas keliavo į [[objektai/vietos/Vilnius]]
 - Petras Kriaučiūnas gyveno [[objektai/vietos/Marijampolė]]

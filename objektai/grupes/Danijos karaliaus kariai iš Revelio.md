@@ -91,4 +91,4 @@ amziai:
     - t-002
 
 ## Ryšiai
-- Danijos karaliaus kariai iš Revelio keliavo_i [[objektai/vietos/Lietuva]]
+- Danijos karaliaus kariai iš Revelio keliavo į [[objektai/vietos/Lietuva]]

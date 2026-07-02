@@ -44,5 +44,4 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Budinai]] gyveno Oskolas
-- [[objektai/grupes/Gelonai]] gyveno Oskolas
+- Gyvenamoji vieta: [[objektai/grupes/Budinai]], [[objektai/grupes/Gelonai]]

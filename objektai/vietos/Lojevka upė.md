@@ -48,4 +48,4 @@ Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevk
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] gyne Lojevka upė
+- Gynė Lojevka upę: [[objektai/grupes/Lietuviai]]

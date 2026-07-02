@@ -159,5 +159,5 @@ amziai:
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Švedai]] apgule Lietuvos Brasta
-- [[objektai/grupes/Švedai]] uzeme Lietuvos Brasta
+- Apgulė Lietuvos Brastą: [[objektai/grupes/Švedai]]
+- Užėmė Lietuvos Brastą: [[objektai/grupes/Švedai]]

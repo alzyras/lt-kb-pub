@@ -210,6 +210,5 @@ amziai:
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Burchardas iš Hornhauzeno]] mire Durbė
-- [[objektai/grupes/Žemaičiai]] puole Durbė
-- [[objektai/asmenys/Henrikas Botelis]] mire Durbė
+- Mirties vieta: [[objektai/asmenys/Burchardas iš Hornhauzeno]], [[objektai/asmenys/Henrikas Botelis]]
+- Puolė Durbę: [[objektai/grupes/Žemaičiai]]

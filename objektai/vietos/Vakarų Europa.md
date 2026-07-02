@@ -91,5 +91,4 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Anglija]] priklause Vakarų Europa
-- [[objektai/vietos/Olandija]] priklause Vakarų Europa
+- Turėjo priklausinį: [[objektai/vietos/Anglija]], [[objektai/vietos/Olandija]]

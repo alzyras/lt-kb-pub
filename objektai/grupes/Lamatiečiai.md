@@ -43,5 +43,4 @@ Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gy
     - t-001
 
 ## Ryšiai
-- Lamatiečiai gyveno [[objektai/vietos/Minija]]
-- Lamatiečiai gyveno [[objektai/vietos/Nemunas]]
+- Lamatiečiai gyveno [[objektai/vietos/Minija]], [[objektai/vietos/Nemunas]]

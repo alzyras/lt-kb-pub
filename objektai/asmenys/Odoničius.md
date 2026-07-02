@@ -82,5 +82,5 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
     - t-001
 
 ## Ryšiai
-- Odoničius keliavo_i [[objektai/vietos/Prūsija]]
-- Odoničius pastate [[objektai/vietos/Marienverderis]]
+- Odoničius keliavo į [[objektai/vietos/Prūsija]]
+- Odoničius pastatė [[objektai/vietos/Marienverderis]]

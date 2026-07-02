@@ -42,4 +42,4 @@ Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių 
     - t-001
 
 ## Ryšiai
-- Karolis Didysis surenge_zygi_i [[objektai/vietos/Italija]]
+- Karolis Didysis surengė žygį į [[objektai/vietos/Italija]]

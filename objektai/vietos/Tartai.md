@@ -63,4 +63,4 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - t-001
 
 ## Ryšiai
-- Tartai priklause [[objektai/vietos/Maskva]]
+- Tartai priklausė [[objektai/vietos/Maskva]]

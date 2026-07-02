@@ -73,4 +73,4 @@ Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o
     - t-002
 
 ## Ryšiai
-- Slucko kunigaikščiai Olelkaičiai valde_miesta [[objektai/vietos/Sluckas]]
+- Slucko kunigaikščiai Olelkaičiai valdė [[objektai/vietos/Sluckas]]

@@ -54,5 +54,5 @@ Sukilusieji su savo lyderiu Jeronimu Plečkaičiu priešakyje pasitraukė į už
     - t-001
 
 ## Ryšiai
-- Jeronimas Plečkaitis buvo_priesas [[objektai/asmenys/A. Smetona]]
-- Jeronimas Plečkaitis keliavo_i [[objektai/vietos/Lenkija]]
+- Priešai: [[objektai/asmenys/A. Smetona]]
+- Jeronimas Plečkaitis keliavo į [[objektai/vietos/Lenkija]]

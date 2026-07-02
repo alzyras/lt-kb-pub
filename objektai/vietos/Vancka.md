@@ -54,6 +54,5 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] valde_teritorija Vancka
-- Vancka priklause [[objektai/vietos/Pomeranija]]
-- Vancka priklause [[objektai/grupes/Teutonai]]
+- Buvo valdoma: [[objektai/grupes/Kryžiuočių ordinas]]
+- Vancka priklausė [[objektai/vietos/Pomeranija]], [[objektai/grupes/Teutonai]]

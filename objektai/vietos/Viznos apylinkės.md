@@ -47,4 +47,4 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Viznos apylinkės
+- Puolė Viznos apylinkės: [[objektai/grupes/Lietuviai]]

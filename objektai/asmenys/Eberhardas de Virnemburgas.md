@@ -58,4 +58,4 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
     - t-001
 
 ## Ryšiai
-- Eberhardas de Virnemburgas puole [[objektai/vietos/Lietuva]]
+- Eberhardas de Virnemburgas puolė [[objektai/vietos/Lietuva]]

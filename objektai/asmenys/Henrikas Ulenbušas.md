@@ -74,5 +74,5 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Herkus Mantas]] puole Henrikas Ulenbušas
-- Henrikas Ulenbušas kariavo_pries [[objektai/grupes/Sembai]]
+- Puolė Henrikas Ulenbušą: [[objektai/asmenys/Herkus Mantas]]
+- Henrikas Ulenbušas kariavo prieš [[objektai/grupes/Sembai]]

@@ -3384,65 +3384,19 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     - t-103
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] surenge_zygi_i Maskva
-- [[objektai/grupes/Lenkai]] uzeme Maskva
-- [[objektai/asmenys/Fotijus]] keliavo_i Maskva
-- [[objektai/asmenys/Vasilijus]] keliavo_i Maskva
-- [[objektai/asmenys/Juozas Urbšys]] siunte_i Maskva
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Maskva
-- [[objektai/asmenys/Augustas]] siunte_i Maskva
-- [[objektai/asmenys/Juozas Urbšys]] keliavo_i Maskva
-- [[objektai/asmenys/Vasilijus]] buvo_valdovas Maskva
-- [[objektai/vietos/Vilnius]] prekiavo_su Maskva
-- [[objektai/asmenys/Aleksandras Jogailaitis]] siunte_i Maskva
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] apgule Maskva
-- [[objektai/asmenys/Jonas Kalita]] buvo_valdovas Maskva
-- [[objektai/grupes/Maskvos pasiuntiniai]] priklause Maskva
-- [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]] mire Maskva
-- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]] keliavo_i Maskva
-- [[objektai/asmenys/Arkidjakonas Povilas]] keliavo_i Maskva
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] keliavo_i Maskva
-- [[objektai/asmenys/Andrius Algirdaitis]] surenge_zygi_i Maskva
-- [[objektai/asmenys/Dimitrijus]] buvo_valdovas Maskva
-- [[objektai/asmenys/Dmitrijus Ivanovičius]] buvo_valdovas Maskva
-- [[objektai/asmenys/Gerasimas]] gime Maskva
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] surenge_zygi_i Maskva
-- [[objektai/asmenys/Mykolas]] mire Maskva
-- [[objektai/vietos/Smolenskas]] priklause Maskva
-- [[objektai/asmenys/Tomas Naruševičius]] keliavo_i Maskva
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Maskva
-- [[objektai/asmenys/Petras Białas]] keliavo_i Maskva
-- [[objektai/grupes/Baltai]] gyveno Maskva
-- [[objektai/asmenys/Ciprijonas]] gyveno Maskva
-- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] keliavo_i Maskva
-- [[objektai/grupes/Lietuviai]] keliavo_i Maskva
-- [[objektai/asmenys/Stanislovas Kiška]] puole Maskva
-- [[objektai/vietos/Tartai]] priklause Maskva
-- [[objektai/asmenys/Vosylius]] valde Maskva
-- [[objektai/asmenys/Vosylius II]] valde Maskva
-- [[objektai/asmenys/Motiejus Kločka]] keliavo_i Maskva
-- [[objektai/asmenys/Jonas Gornostajus]] keliavo_i Maskva
-- [[objektai/grupes/Maskvėnai]] keliavo_i Maskva
-- [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]] keliavo_i Maskva
-- [[objektai/grupes/Rusai]] keliavo_i Maskva
-- [[objektai/asmenys/Stanislovas Goštautas]] keliavo_i Maskva
-- [[objektai/asmenys/Stanislovas Jendžejevskis]] keliavo_i Maskva
-- [[objektai/asmenys/Stanislovas Pacas]] puole Maskva
-- Maskva prekiavo_su [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Naugardas]] prekiavo_su Maskva
-- [[objektai/asmenys/Andrius Mackevičius]] keliavo_i Maskva
-- [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]] keliavo_i Maskva
-- [[objektai/vietos/Lietuva]] prekiavo_su Maskva
-- [[objektai/asmenys/Vasilijus]] siunte_i Maskva
-- Maskva priklause [[objektai/grupes/Maskvėnai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Maskva
-- [[objektai/grupes/Lenkai]] surenge_zygi_i Maskva
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_miesta Maskva
-- [[objektai/asmenys/Josifas Stalinas]] gyveno Maskva
-- [[objektai/grupes/Maskvos Helsinkio grupė]] priklause Maskva
-- [[objektai/grupes/Maskvos pasiuntiniai]] keliavo_i Maskva
-- [[objektai/grupes/Livonijos valstybė]] gyne Maskva
-- Maskva prekiavo_su [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Maskvos Helsinkio grupė]] gyveno Maskva
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] keliavo_i Maskva
+- Turėjo valdovą: [[objektai/asmenys/Dimitrijus]], [[objektai/asmenys/Dmitrijus Ivanovičius]], [[objektai/asmenys/Jonas Kalita]], [[objektai/asmenys/Vasilijus]], [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- Buvo valdoma: [[objektai/asmenys/Vosylius]], [[objektai/asmenys/Vosylius II]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Andrius Mackevičius]], [[objektai/asmenys/Arkidjakonas Povilas]], [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]], [[objektai/asmenys/Fotijus]], [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]], [[objektai/asmenys/Jonas Gornostajus]], [[objektai/asmenys/Juozas Urbšys]], [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/asmenys/Motiejus Kločka]], [[objektai/asmenys/Petras Białas]], [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Stanislovas Goštautas]], [[objektai/asmenys/Stanislovas Jendžejevskis]], [[objektai/asmenys/Tomas Naruševičius]], [[objektai/asmenys/Vasilijus]], [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gimimo vieta: [[objektai/asmenys/Gerasimas]]
+- Mirties vieta: [[objektai/asmenys/Mykolas]], [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]]
+- Puolė Maskvą: [[objektai/asmenys/Stanislovas Kiška]], [[objektai/asmenys/Stanislovas Pacas]]
+- Apgulė Maskvą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Užėmė Maskvą: [[objektai/grupes/Lenkai]]
+- Gynė Maskvą: [[objektai/grupes/Livonijos valstybė]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Augustas]], [[objektai/asmenys/Juozas Urbšys]], [[objektai/asmenys/Vasilijus]]
+- Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Prekiavo su: [[objektai/vietos/Lietuva]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Vilnius]]
+- Gyvenamoji vieta: [[objektai/grupes/Baltai]], [[objektai/asmenys/Ciprijonas]], [[objektai/asmenys/Josifas Stalinas]], [[objektai/grupes/Maskvos Helsinkio grupė]]
+- Turėjo priklausinį: [[objektai/grupes/Maskvos Helsinkio grupė]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Tartai]]
+- Maskva prekiavo su [[objektai/vietos/Lietuva]], [[objektai/grupes/Vokiečiai]]
+- Maskva priklausė [[objektai/grupes/Maskvėnai]]

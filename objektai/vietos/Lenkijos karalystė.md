@@ -330,6 +330,4 @@ Lenkijos Karalystė Lietuvos istorijos kontekste minima kaip politinė erdvė, s
     - t-002
 
 ## Ryšiai
-- [[objektai/vietos/Suvalkija]] priklause Lenkijos karalystė
-- [[objektai/vietos/Užnemunė]] priklause Lenkijos karalystė
-- [[objektai/daiktai/Ginklai]] priklause Lenkijos karalystė
+- Turėjo priklausinį: [[objektai/daiktai/Ginklai]], [[objektai/vietos/Suvalkija]], [[objektai/vietos/Užnemunė]]

@@ -241,11 +241,10 @@ tags:
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]] uzeme Kamenecas
-- [[objektai/grupes/Karijotaičiai]] pastate Kamenecas
-- [[objektai/asmenys/Zigmantas Vaza]] siunte_i Kamenecas
-- Kamenecas priklause [[objektai/vietos/Podolė]]
-- [[objektai/asmenys/Steponas]] surenge_zygi_i Kamenecas
-- [[objektai/asmenys/Švitrigaila]] valde Kamenecas
-- Kamenecas priklause [[objektai/vietos/Lenkija]]
-- [[objektai/grupes/Lietuvos kariuomenė]] keliavo_i Kamenecas
+- Buvo valdoma: [[objektai/asmenys/Švitrigaila]]
+- Buvo kelionės vieta: [[objektai/grupes/Lietuvos kariuomenė]]
+- Buvo pastatyta: [[objektai/grupes/Karijotaičiai]]
+- Užėmė Kamenecą: [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Zigmantas Vaza]]
+- Buvo žygio kryptis: [[objektai/asmenys/Steponas]]
+- Kamenecas priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Podolė]]

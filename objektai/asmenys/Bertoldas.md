@@ -61,8 +61,7 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
     - t-001
 
 ## Ryšiai
-- Bertoldas mire [[objektai/vietos/Ryga]]
-- Bertoldas puole [[objektai/vietos/Medraba]]
-- Bertoldas valde [[objektai/vietos/Ragainė]]
-- Bertoldas uzeme [[objektai/vietos/Medraba]]
-- Bertoldas puole [[objektai/vietos/Junigeda]]
+- Bertoldas valdė [[objektai/vietos/Ragainė]]
+- Bertoldas mirė [[objektai/vietos/Ryga]]
+- Bertoldas puolė [[objektai/vietos/Junigeda]], [[objektai/vietos/Medraba]]
+- Bertoldas užėmė [[objektai/vietos/Medraba]]

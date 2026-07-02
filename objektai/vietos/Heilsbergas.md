@@ -161,9 +161,6 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Pagudėnai]] valde Heilsbergas
-- Heilsbergas priklause [[objektai/grupes/Pagudėnai]]
-- Heilsbergas priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- Heilsbergas priklause [[objektai/vietos/Kuršas]]
-- Heilsbergas priklause [[objektai/vietos/Varmė]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Heilsbergas
+- Buvo valdoma: [[objektai/grupes/Pagudėnai]]
+- Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Heilsbergas priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Kuršas]], [[objektai/grupes/Pagudėnai]], [[objektai/vietos/Varmė]]

@@ -55,4 +55,4 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
     - t-001
 
 ## Ryšiai
-- Geroldzekas iš Švabijos surenge_zygi_i [[objektai/vietos/Prūsija]]
+- Geroldzekas iš Švabijos surengė žygį į [[objektai/vietos/Prūsija]]

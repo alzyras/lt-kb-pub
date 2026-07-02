@@ -128,4 +128,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Ibrahimas (Turkijos čiaušas) keliavo_i [[objektai/vietos/Gardinas]]
+- Ibrahimas (Turkijos čiaušas) keliavo į [[objektai/vietos/Gardinas]]

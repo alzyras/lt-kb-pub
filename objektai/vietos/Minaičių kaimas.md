@@ -71,4 +71,4 @@ Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakel
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]] keliavo_i Minaičių kaimas
+- Buvo kelionės vieta: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]

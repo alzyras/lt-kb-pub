@@ -313,7 +313,7 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
     - t-005
 
 ## Ryšiai
-- Zbignievas Olesnickis buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Zbignievas Olesnickis keliavo_i [[objektai/vietos/Lietuva]]
-- Zbignievas Olesnickis puole [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Zbignievas Olesnickis
+- Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Rėmė Zbignievas Olesnickį: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Zbignievas Olesnickis keliavo į [[objektai/vietos/Lietuva]]
+- Zbignievas Olesnickis puolė [[objektai/grupes/Kryžiuočių ordinas]]

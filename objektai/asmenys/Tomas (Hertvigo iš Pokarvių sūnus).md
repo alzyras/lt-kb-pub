@@ -761,6 +761,6 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
     - t-001
 
 ## Ryšiai
-- Tomas (Hertvigo iš Pokarvių sūnus) buvo_sunus [[objektai/asmenys/Hertvigas]]
-- Tomas (Hertvigo iš Pokarvių sūnus) keliavo_i [[objektai/vietos/Lenčica]]
-- Tomas (Hertvigo iš Pokarvių sūnus) mire [[objektai/vietos/Prūsija]]
+- Tėvai: [[objektai/asmenys/Hertvigas]]
+- Tomas (Hertvigo iš Pokarvių sūnus) keliavo į [[objektai/vietos/Lenčica]]
+- Tomas (Hertvigo iš Pokarvių sūnus) mirė [[objektai/vietos/Prūsija]]

@@ -104,4 +104,4 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
     - t-003
 
 ## Ryšiai
-- Vladimiras Algirdaitis buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

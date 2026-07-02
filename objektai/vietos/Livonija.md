@@ -3059,58 +3059,16 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
     - t-075
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Livonija
-- [[objektai/vietos/Karkuso pilis|Karkuso pilis (pilis, XIII a.)]] priklause Livonija
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] surenge_zygi_i Livonija
-- [[objektai/grupes/Švedai]] uzeme Livonija
-- [[objektai/asmenys/Ivanas]] puole Livonija
-- Livonija priklause [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Maskvos kariuomenė]] uzeme Livonija
-- [[objektai/grupes/Maskvėnai]] uzeme Livonija
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]] keliavo_i Livonija
-- [[objektai/grupes/Lietuviai]] surenge_zygi_i Livonija
-- [[objektai/asmenys/Gotfridas Hohenlohė]] siunte_i Livonija
-- [[objektai/grupes/Rusijos kariuomenė]] uzeme Livonija
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] keliavo_i Livonija
-- [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]] keliavo_i Livonija
-- [[objektai/asmenys/Jonas Karolis Katkevičius]] keliavo_i Livonija
-- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]] siunte_i Livonija
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Livonija
-- [[objektai/grupes/Lietuvos luomai]] gyne Livonija
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] surenge_zygi_i Livonija
-- [[objektai/vietos/Vilnius]] prekiavo_su Livonija
-- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] keliavo_i Livonija
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] siunte_i Livonija
-- [[objektai/grupes/Kuršiai]] puole Livonija
-- [[objektai/grupes/Lietuviai]] prekiavo_su Livonija
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Livonija
-- [[objektai/vietos/Rezeknės regionas]] priklause Livonija
-- Livonija priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Augustas]] keliavo_i Livonija
-- [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]] keliavo_i Livonija
-- [[objektai/grupes/Dobrynės broliai]] gyveno Livonija
-- [[objektai/vietos/Dorpatas]] priklause Livonija
-- Livonija priklause [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Viljandis]] priklause Livonija
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] gyne Livonija
-- [[objektai/grupes/Lietuvos kariuomenė]] puole Livonija
-- [[objektai/grupes/Maskvėnai]] surenge_zygi_i Livonija
-- [[objektai/vietos/Pernava]] priklause Livonija
-- [[objektai/grupes/Vokiečiai]] uzkariavo Livonija
-- [[objektai/grupes/Žemaičiai]] puole Livonija
-- [[objektai/asmenys/Augustas]] surenge_zygi_i Livonija
-- [[objektai/asmenys/Augustas]] valde Livonija
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] prekiavo_su Livonija
-- Livonija priklause [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Ronneburgas]] priklause Livonija
-- [[objektai/grupes/Teutonai]] gyveno Livonija
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] keliavo_i Livonija
-- [[objektai/vietos/Ryga]] priklause Livonija
-- [[objektai/asmenys/Bertoldas Briuhavenas]] keliavo_i Livonija
-- [[objektai/vietos/Lietuva]] prekiavo_su Livonija
-- [[objektai/asmenys/Treniota]] puole Livonija
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] siunte_i Livonija
-- Livonija prekiavo_su [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Kalavijuočių ordinas]] gyveno Livonija
-- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Livonija
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Livonija
+- Buvo valdoma: [[objektai/asmenys/Augustas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Augustas]], [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]], [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]], [[objektai/asmenys/Bertoldas Briuhavenas]], [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]], [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- Puolė Livoniją: [[objektai/asmenys/Ivanas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Kuršiai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Treniota]], [[objektai/grupes/Žemaičiai]]
+- Užėmė Livoniją: [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Maskvos kariuomenė]], [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Švedai]]
+- Gynė Livoniją: [[objektai/grupes/Lietuvos luomai]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Gotfridas Hohenlohė]], [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]], [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Augustas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Maskvėnai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Prekiavo su: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Vilnius]]
+- Buvo užkariauta: [[objektai/grupes/Vokiečiai]]
+- Gyvenamoji vieta: [[objektai/grupes/Dobrynės broliai]], [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/grupes/Teutonai]]
+- Turėjo priklausinį: [[objektai/vietos/Dorpatas]], [[objektai/vietos/Karkuso pilis|Karkuso pilis (pilis, XIII a.)]], [[objektai/vietos/Pernava]], [[objektai/vietos/Rezeknės regionas]], [[objektai/vietos/Ronneburgas]], [[objektai/vietos/Ryga]], [[objektai/vietos/Viljandis]]
+- Livonija prekiavo su [[objektai/vietos/Vilnius]]
+- Livonija priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Ryga]], [[objektai/grupes/Švedai]]

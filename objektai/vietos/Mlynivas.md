@@ -46,4 +46,4 @@ tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (M
     - t-001
 
 ## Ryšiai
-- Mlynivas priklause [[objektai/grupes/Chodkevičiai]]
+- Mlynivas priklausė [[objektai/grupes/Chodkevičiai]]

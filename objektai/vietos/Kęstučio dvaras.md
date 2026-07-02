@@ -44,4 +44,4 @@ Taigi Kęstučio dvaras buvo vie­ ta, kur daugiausia turėta žinių apie visus
     - t-001
 
 ## Ryšiai
-- Kęstučio dvaras priklause [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Kęstučio dvaras priklausė [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

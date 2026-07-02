@@ -80,5 +80,5 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Vokiečiai]] reme P. Bermontas-Avalovas
-- P. Bermontas-Avalovas keliavo_i [[objektai/vietos/Mintauja]]
+- Rėmė P. Bermontas-Avalovą: [[objektai/grupes/Vokiečiai]]
+- P. Bermontas-Avalovas keliavo į [[objektai/vietos/Mintauja]]

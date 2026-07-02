@@ -577,6 +577,5 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     - t-021
 
 ## Ryšiai
-- Katalikų Bažnyčia buvo_priesas [[objektai/grupes/Protestantai]]
-- Katalikų Bažnyčia puole [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuvos didikai]] buvo_priesas Katalikų Bažnyčia
+- Priešai: [[objektai/grupes/Lietuvos didikai]], [[objektai/grupes/Protestantai]]
+- Katalikų Bažnyčia puolė [[objektai/vietos/Lietuva]]

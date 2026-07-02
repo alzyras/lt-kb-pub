@@ -106,4 +106,4 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Skandinavai]] prekiavo_su Bizantija
+- Prekiavo su: [[objektai/grupes/Skandinavai]]

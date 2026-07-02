@@ -62,4 +62,4 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] sudare_sutarti_su Konradas Jungingenas
+- Sudarė sutartį su: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

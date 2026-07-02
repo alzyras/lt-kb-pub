@@ -56,5 +56,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] puole Brandenburgo žemė
-- [[objektai/grupes/Lenkai]] puole Brandenburgo žemė
+- Puolė Brandenburgo žemę: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Lenkai]]

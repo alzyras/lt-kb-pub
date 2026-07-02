@@ -64,4 +64,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai priklause [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai priklausė [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

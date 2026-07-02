@@ -195,9 +195,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] apgule Kristmemelis
-- [[objektai/asmenys/Karolis (didysis magistras)]] pastate Kristmemelis
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Kristmemelis
-- [[objektai/asmenys/Karolis (didysis magistras)]] keliavo_i Kristmemelis
-- [[objektai/grupes/Lietuviai]] puole Kristmemelis
-- [[objektai/grupes/Lietuviai]] apgule Kristmemelis
+- Buvo kelionės vieta: [[objektai/asmenys/Karolis (didysis magistras)]]
+- Buvo pastatyta: [[objektai/asmenys/Karolis (didysis magistras)]]
+- Puolė Kristmemelį: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Apgulė Kristmemelį: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

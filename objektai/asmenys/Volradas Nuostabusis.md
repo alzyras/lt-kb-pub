@@ -50,4 +50,4 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
     - t-001
 
 ## Ryšiai
-- Volradas Nuostabusis puole [[objektai/grupes/Prūsai]]
+- Volradas Nuostabusis puolė [[objektai/grupes/Prūsai]]

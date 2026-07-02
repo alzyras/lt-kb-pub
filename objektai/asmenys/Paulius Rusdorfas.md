@@ -158,5 +158,5 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
     - t-002
 
 ## Ryšiai
-- Paulius Rusdorfas reme [[objektai/asmenys/Julijona]]
-- Paulius Rusdorfas sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Paulius Rusdorfas sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]
+- Paulius Rusdorfas rėmė [[objektai/asmenys/Julijona]]

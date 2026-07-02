@@ -82,4 +82,4 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] paskyre Krunevičius
+- Paskyrė Krunevičių: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

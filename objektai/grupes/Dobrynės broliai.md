@@ -188,6 +188,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - t-006
 
 ## Ryšiai
+- Sudarė sutartį su: [[objektai/asmenys/Konradas]]
+- Turėjo priklausinį: [[objektai/vietos/Sedlcai]]
 - Dobrynės broliai gyveno [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Sedlcai]] priklause Dobrynės broliai
-- [[objektai/asmenys/Konradas]] sudare_sutarti_su Dobrynės broliai

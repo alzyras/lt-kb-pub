@@ -120,9 +120,9 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
     - t-002
 
 ## Ryšiai
-- Hermanas siunte_i [[objektai/vietos/Elbingas]]
-- [[objektai/grupes/Lietuviai]] puole Hermanas
-- Hermanas kariavo_pries [[objektai/grupes/Lietuviai]]
-- Hermanas dalyvavo_musyje [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]
-- [[objektai/grupes/Lietuviai]] kariavo_pries Hermanas
-- [[objektai/daiktai/Kryžius]] priklause Hermanas
+- Puolė Hermaną: [[objektai/grupes/Lietuviai]]
+- Kariavo prieš: [[objektai/grupes/Lietuviai]]
+- Turėjo priklausinį: [[objektai/daiktai/Kryžius]]
+- Hermanas siuntė į [[objektai/vietos/Elbingas]]
+- Hermanas kariavo prieš [[objektai/grupes/Lietuviai]]
+- Hermanas dalyvavo mūšyje [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]

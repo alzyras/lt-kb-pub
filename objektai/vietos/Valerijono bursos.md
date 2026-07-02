@@ -66,4 +66,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Namas]] priklause Valerijono bursos
+- Turėjo priklausinį: [[objektai/daiktai/Namas]]

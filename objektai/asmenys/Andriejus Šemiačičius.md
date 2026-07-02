@@ -50,4 +50,4 @@ Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu
     - t-001
 
 ## Ryšiai
-- Andriejus Šemiačičius surenge_zygi_i [[objektai/vietos/Severskas]]
+- Andriejus Šemiačičius surengė žygį į [[objektai/vietos/Severskas]]

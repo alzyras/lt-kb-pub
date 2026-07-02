@@ -46,4 +46,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Charitonas Charotičius valde_teritorija [[objektai/vietos/Rudamina]]
+- Charitonas Charotičius valdė [[objektai/vietos/Rudamina]]

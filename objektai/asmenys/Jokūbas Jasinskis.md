@@ -113,5 +113,5 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
     - t-001
 
 ## Ryšiai
-- Jokūbas Jasinskis mire [[objektai/vietos/Varšuva]]
-- Jokūbas Jasinskis gyne [[objektai/vietos/Varšuva]]
+- Jokūbas Jasinskis mirė [[objektai/vietos/Varšuva]]
+- Jokūbas Jasinskis gynė [[objektai/vietos/Varšuva]]

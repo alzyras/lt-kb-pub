@@ -68,5 +68,4 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     - t-001
 
 ## Ryšiai
-- Henrikas (Mozūrų kunigaikštis) keliavo_i [[objektai/vietos/Prūsų žemė]]
-- Henrikas (Mozūrų kunigaikštis) keliavo_i [[objektai/vietos/Rittersverderis]]
+- Henrikas (Mozūrų kunigaikštis) keliavo į [[objektai/vietos/Prūsų žemė]], [[objektai/vietos/Rittersverderis]]

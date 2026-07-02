@@ -104,4 +104,4 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Švedai]] keliavo_i Gotlandas
+- Buvo kelionės vieta: [[objektai/grupes/Švedai]]

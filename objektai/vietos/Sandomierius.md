@@ -91,5 +91,4 @@ amziai:
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Sandomierius
-- [[objektai/grupes/Jotvingiai]] puole Sandomierius
+- Puolė Sandomierių: [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Lietuviai]]

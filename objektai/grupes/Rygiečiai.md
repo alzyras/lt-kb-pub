@@ -144,12 +144,8 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Rygiečiai
-- Rygiečiai buvo_sajungininkas_su [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] buvo_sajungininkas_su Rygiečiai
-- Rygiečiai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Rygiečiai prekiavo_su [[objektai/vietos/Lietuva]]
-- Rygiečiai buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
-- Rygiečiai puole [[objektai/vietos/Daugavgryva]]
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] buvo_sajungininkas_su Rygiečiai
-- Rygiečiai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
+- Priešai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Sąjungininkai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Rygiečiai puolė [[objektai/vietos/Daugavgryva]]
+- Rygiečiai kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]
+- Rygiečiai prekiavo su [[objektai/vietos/Lietuva]]

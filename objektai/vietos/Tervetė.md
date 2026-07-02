@@ -57,6 +57,6 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Žiemgaliai]] uzeme Tervetė
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Tervetė
-- [[objektai/grupes/Žiemgaliai]] valde Tervetė
+- Buvo valdoma: [[objektai/grupes/Žiemgaliai]]
+- Puolė Tervetę: [[objektai/grupes/Kryžiuočių ordinas]]
+- Užėmė Tervetę: [[objektai/grupes/Žiemgaliai]]

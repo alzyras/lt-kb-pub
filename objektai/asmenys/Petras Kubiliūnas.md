@@ -57,5 +57,5 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
     - t-001
 
 ## Ryšiai
-- Petras Kubiliūnas siunte_i [[objektai/vietos/Kaunas]]
-- [[objektai/grupes/Vokiečiai]] paskyre Petras Kubiliūnas
+- Paskyrė Petras Kubiliūną: [[objektai/grupes/Vokiečiai]]
+- Petras Kubiliūnas siuntė į [[objektai/vietos/Kaunas]]

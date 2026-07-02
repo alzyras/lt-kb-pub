@@ -71,4 +71,4 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
     - t-001
 
 ## Ryšiai
-- Prisikėlimo bažnyčia priklause [[objektai/vietos/Kaunas]]
+- Prisikėlimo bažnyčia priklausė [[objektai/vietos/Kaunas]]

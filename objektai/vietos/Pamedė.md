@@ -298,16 +298,11 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     - t-007
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] valde Pamedė
-- [[objektai/vietos/Spitenbergas]] priklause Pamedė
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Pamedė
-- [[objektai/asmenys/Sventopelkas]] surenge_zygi_i Pamedė
-- [[objektai/vietos/Aliamas]] priklause Pamedė
-- [[objektai/asmenys/Henrikas (Meiseno markgrafas)]] puole Pamedė
-- [[objektai/grupes/Pamedėnai]] gyveno Pamedė
-- Pamedė priklause [[objektai/vietos/Prūsija]]
-- [[objektai/asmenys/Burchardas iš Magdeburgo]] keliavo_i Pamedė
-- [[objektai/vietos/Marienverderis]] priklause Pamedė
-- [[objektai/grupes/Pagudėnai]] puole Pamedė
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Pamedė
-- [[objektai/asmenys/Sventopelkas]] uzkariavo Pamedė
+- Buvo valdoma: [[objektai/grupes/Kryžiuočių ordinas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Burchardas iš Magdeburgo]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Pamedę: [[objektai/asmenys/Henrikas (Meiseno markgrafas)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Pagudėnai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Sventopelkas]]
+- Buvo užkariauta: [[objektai/asmenys/Sventopelkas]]
+- Gyvenamoji vieta: [[objektai/grupes/Pamedėnai]]
+- Turėjo priklausinį: [[objektai/vietos/Aliamas]], [[objektai/vietos/Marienverderis]], [[objektai/vietos/Spitenbergas]]
+- Pamedė priklausė [[objektai/vietos/Prūsija]]

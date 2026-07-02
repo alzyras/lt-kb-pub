@@ -54,4 +54,4 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
     - t-001
 
 ## Ryšiai
-- Andrius Mackevičius keliavo_i [[objektai/vietos/Maskva]]
+- Andrius Mackevičius keliavo į [[objektai/vietos/Maskva]]

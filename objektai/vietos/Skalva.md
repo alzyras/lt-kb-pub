@@ -237,9 +237,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-007
 
 ## Ryšiai
-- Skalva priklause [[objektai/vietos/Žemaitija]]
-- [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]] puole Skalva
-- [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]] surenge_zygi_i Skalva
-- [[objektai/vietos/Ragainė]] priklause Skalva
-- Skalva priklause [[objektai/vietos/Lietuva]]
-- Skalva priklause [[objektai/vietos/Prūsija]]
+- Puolė Skalvą: [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
+- Turėjo priklausinį: [[objektai/vietos/Ragainė]]
+- Skalva priklausė [[objektai/vietos/Lietuva]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Žemaitija]]

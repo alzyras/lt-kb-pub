@@ -66,4 +66,4 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Kazokai]] puole Kražių bažnyčia
+- Puolė Kražių bažnyčią: [[objektai/grupes/Kazokai]]

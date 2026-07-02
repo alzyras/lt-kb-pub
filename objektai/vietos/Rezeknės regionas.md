@@ -54,5 +54,5 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
     - t-001
 
 ## Ryšiai
-- Rezeknės regionas priklause [[objektai/vietos/Livonija]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] puole Rezeknės regionas
+- Puolė Rezeknės regioną: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Rezeknės regionas priklausė [[objektai/vietos/Livonija]]

@@ -49,4 +49,4 @@ tags:
     - t-002
 
 ## Ryšiai
-- Aleksandras Podemanskas-Šarūnas reme [[objektai/asmenys/Jonas Neifalta-Lakūnas]]
+- Aleksandras Podemanskas-Šarūnas rėmė [[objektai/asmenys/Jonas Neifalta-Lakūnas]]

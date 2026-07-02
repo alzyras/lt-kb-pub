@@ -59,4 +59,4 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] gyveno Pensilvanija
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

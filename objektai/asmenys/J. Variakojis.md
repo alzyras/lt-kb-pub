@@ -132,4 +132,4 @@ J. Variakojis 1918 m. gruodžio 29 d. buvo paskirtas Panevėžio srities apsaugo
     - t-002
 
 ## Ryšiai
-- J. Variakojis keliavo_i [[objektai/vietos/Kėdainiai]]
+- J. Variakojis keliavo į [[objektai/vietos/Kėdainiai]]

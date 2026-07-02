@@ -58,4 +58,4 @@ Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido,
     - t-001
 
 ## Ryšiai
-- Erdenas, arba Jerdenas buvo_sunus [[objektai/asmenys/Dovydas]]
+- Tėvai: [[objektai/asmenys/Dovydas]]

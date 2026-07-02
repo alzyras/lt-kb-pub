@@ -656,16 +656,10 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] surenge_zygi_i Prūsų žemė
-- [[objektai/vietos/Pagudė]] priklause Prūsų žemė
-- [[objektai/asmenys/Vaidotas (Butauto sūnus)]] keliavo_i Prūsų žemė
-- [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)]] keliavo_i Prūsų žemė
-- [[objektai/grupes/Vokiečių ordinas]] uzkariavo Prūsų žemė
-- [[objektai/grupes/Kryžiuočių ordinas]] uzkariavo Prūsų žemė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Prūsų žemė
-- [[objektai/grupes/Lietuviai]] puole Prūsų žemė
-- [[objektai/asmenys/Skomantas]] keliavo_i Prūsų žemė
-- [[objektai/grupes/Pagudėnai]] gyveno Prūsų žemė
-- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Prūsų žemė
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Prūsų žemė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_teritorija Prūsų žemė
+- Buvo valdoma: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)]], [[objektai/asmenys/Skomantas]], [[objektai/asmenys/Vaidotas (Butauto sūnus)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Prūsų žemę: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]]
+- Buvo žygio kryptis: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]]
+- Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vokiečių ordinas]]
+- Gyvenamoji vieta: [[objektai/grupes/Pagudėnai]]
+- Turėjo priklausinį: [[objektai/vietos/Pagudė]]

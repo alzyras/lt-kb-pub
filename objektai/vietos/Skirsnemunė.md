@@ -172,5 +172,5 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     - t-006
 
 ## Ryšiai
-- [[objektai/grupes/Žemaičiai]] puole Skirsnemunė
-- [[objektai/asmenys/Švitrigaila]] keliavo_i Skirsnemunė
+- Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]
+- Puolė Skirsnemunę: [[objektai/grupes/Žemaičiai]]

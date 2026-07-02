@@ -492,14 +492,6 @@ Dauguva Lietuvos istorijos šaltiniuose minima kaip svarbi geografinė riba ir k
     - t-011
 
 ## Ryšiai
-- [[objektai/grupes/Latviai]] gyveno Dauguva
-- [[objektai/grupes/Sėliai]] gyveno Dauguva
-- [[objektai/grupes/Baltai]] gyveno Dauguva
-- [[objektai/grupes/Lybiai]] gyveno Dauguva
-- [[objektai/grupes/Krivičiai]] gyveno Dauguva
-- [[objektai/grupes/Kuršiečiai]] keliavo_i Dauguva
-- [[objektai/grupes/Kalavijuočių ordinas]] gyveno Dauguva
-- [[objektai/grupes/Lietuviai]] keliavo_i Dauguva
-- [[objektai/vietos/Polockas]] prekiavo_su Dauguva
-- [[objektai/vietos/Vitebskas]] prekiavo_su Dauguva
-- [[objektai/asmenys/T. Dambrava]] keliavo_i Dauguva
+- Buvo kelionės vieta: [[objektai/grupes/Kuršiečiai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/T. Dambrava]]
+- Prekiavo su: [[objektai/vietos/Polockas]], [[objektai/vietos/Vitebskas]]
+- Gyvenamoji vieta: [[objektai/grupes/Baltai]], [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/grupes/Krivičiai]], [[objektai/grupes/Latviai]], [[objektai/grupes/Lybiai]], [[objektai/grupes/Sėliai]]

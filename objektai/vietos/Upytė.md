@@ -100,5 +100,5 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Hiriai ir hendai]] gyveno Upytė
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Upytė
+- Puolė Upytę: [[objektai/grupes/Kryžiuočių ordinas]]
+- Gyvenamoji vieta: [[objektai/grupes/Hiriai ir hendai]]

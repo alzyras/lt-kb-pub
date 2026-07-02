@@ -56,4 +56,4 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
     - t-001
 
 ## Ryšiai
-- Muradas II siunte_i [[objektai/vietos/Smolenskas]]
+- Muradas II siuntė į [[objektai/vietos/Smolenskas]]

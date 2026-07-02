@@ -51,4 +51,4 @@ Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo 
     - t-001
 
 ## Ryšiai
-- Vilhelmas Douglas buvo_priesas [[objektai/grupes/Anglai]]
+- Priešai: [[objektai/grupes/Anglai]]

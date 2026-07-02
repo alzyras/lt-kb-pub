@@ -270,12 +270,9 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Glotava]] priklause Pagudė
-- Pagudė priklause [[objektai/vietos/Prūsų žemė]]
-- [[objektai/asmenys/Ditrichas (Kristburgo komtūras)]] surenge_zygi_i Pagudė
-- [[objektai/asmenys/Derska]] gyveno Pagudė
-- [[objektai/asmenys/Numa]] gyveno Pagudė
-- [[objektai/grupes/Pagudėnai]] gyveno Pagudė
-- [[objektai/asmenys/Derska]] keliavo_i Pagudė
-- [[objektai/grupes/Pagudėnai]] puole Pagudė
-- Pagudė priklause [[objektai/vietos/Elbingas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Derska]]
+- Puolė Pagudę: [[objektai/grupes/Pagudėnai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Ditrichas (Kristburgo komtūras)]]
+- Gyvenamoji vieta: [[objektai/asmenys/Derska]], [[objektai/asmenys/Numa]], [[objektai/grupes/Pagudėnai]]
+- Turėjo priklausinį: [[objektai/vietos/Glotava]]
+- Pagudė priklausė [[objektai/vietos/Elbingas]], [[objektai/vietos/Prūsų žemė]]

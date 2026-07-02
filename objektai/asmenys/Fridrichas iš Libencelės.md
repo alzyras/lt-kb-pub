@@ -155,9 +155,7 @@ Fridrichas iš Libencelės šaltiniuose minimas kaip brolis, fogtas, Kristmemeli
     - t-004
 
 ## Ryšiai
-- Fridrichas iš Libencelės (vyskupas, XIV a.) surenge_zygi_i [[objektai/vietos/Lietuva]]
-- Fridrichas iš Libencelės (vyskupas, XIV a.) keliavo_i [[objektai/vietos/Lietuva]]
-- Fridrichas iš Libencelės (vyskupas, XIV a.) puole [[objektai/grupes/Lietuviai]]
-- Fridrichas iš Libencelės (vyskupas, XIV a.) pastate [[objektai/vietos/Vartenbergas]]
-- Fridrichas iš Libencelės (vyskupas, XIV a.) puole [[objektai/vietos/Gedimino pilis|Gedimino pilis (pilis)]]
-- Fridrichas iš Libencelės (vyskupas, XIV a.) puole [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Fridrichas iš Libencelės (vyskupas, XIV a.) keliavo į [[objektai/vietos/Lietuva]]
+- Fridrichas iš Libencelės (vyskupas, XIV a.) pastatė [[objektai/vietos/Vartenbergas]]
+- Fridrichas iš Libencelės (vyskupas, XIV a.) puolė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/vietos/Gedimino pilis|Gedimino pilis (pilis)]], [[objektai/grupes/Lietuviai]]
+- Fridrichas iš Libencelės (vyskupas, XIV a.) surengė žygį į [[objektai/vietos/Lietuva]]

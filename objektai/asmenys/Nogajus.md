@@ -61,4 +61,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Nogajus siunte_i [[objektai/vietos/Lietuva]]
+- Nogajus siuntė į [[objektai/vietos/Lietuva]]

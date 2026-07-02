@@ -56,5 +56,5 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
     - t-001
 
 ## Ryšiai
-- Zigfridas iš Rechbergo surenge_zygi_i [[objektai/vietos/Lietuva]]
-- Zigfridas iš Rechbergo keliavo_i [[objektai/vietos/Gardinas]]
+- Zigfridas iš Rechbergo keliavo į [[objektai/vietos/Gardinas]]
+- Zigfridas iš Rechbergo surengė žygį į [[objektai/vietos/Lietuva]]

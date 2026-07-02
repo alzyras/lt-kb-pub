@@ -381,6 +381,5 @@ Mikalojus Radvila Juodasis buvo Vilniaus vaivada, Lietuvos didysis kancleris ir 
     - t-007
 
 ## Ryšiai
-- [[objektai/daiktai/Šarvai]] priklause Mikalojus Radvila Juodasis
-- Mikalojus Radvila Juodasis reme [[objektai/asmenys/Cvinglis]]
-- Mikalojus Radvila Juodasis reme [[objektai/asmenys/Martynas Liuteris]]
+- Turėjo priklausinį: [[objektai/daiktai/Šarvai]]
+- Mikalojus Radvila Juodasis rėmė [[objektai/asmenys/Cvinglis]], [[objektai/asmenys/Martynas Liuteris]]

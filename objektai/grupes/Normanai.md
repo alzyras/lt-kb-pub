@@ -169,7 +169,7 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] prekiavo_su Normanai
-- Normanai surenge_zygi_i [[objektai/vietos/Biarmija]]
-- Normanai keliavo_i [[objektai/vietos/Baltija]]
+- Prekiavo su: [[objektai/grupes/Lietuviai]]
+- Normanai keliavo į [[objektai/vietos/Baltija]]
+- Normanai surengė žygį į [[objektai/vietos/Biarmija]]
 - Normanai gyveno [[objektai/vietos/Lietuva]]

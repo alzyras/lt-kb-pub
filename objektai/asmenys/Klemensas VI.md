@@ -56,4 +56,4 @@ Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus 
     - t-001
 
 ## Ryšiai
-- Klemensas VI kariavo_pries [[objektai/grupes/Lietuviai]]
+- Klemensas VI kariavo prieš [[objektai/grupes/Lietuviai]]

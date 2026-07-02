@@ -81,8 +81,7 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
     - t-002
 
 ## Ryšiai
-- Otonas buvo_palaidotas [[objektai/vietos/Akonas]]
-- Otonas keliavo_i [[objektai/vietos/Prūsija]]
-- Otonas kariavo_pries [[objektai/grupes/Lietuviai]]
-- Otonas kariavo_pries [[objektai/grupes/Žemaičiai]]
-- Otonas mire [[objektai/vietos/Akonas]]
+- Otonas keliavo į [[objektai/vietos/Prūsija]]
+- Otonas mirė [[objektai/vietos/Akonas]]
+- Otonas buvo palaidotas [[objektai/vietos/Akonas]]
+- Otonas kariavo prieš [[objektai/grupes/Lietuviai]], [[objektai/grupes/Žemaičiai]]

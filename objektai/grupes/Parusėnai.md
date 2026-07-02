@@ -86,6 +86,6 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
     - t-002
 
 ## Ryšiai
-- Parusėnai kariavo_pries [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Lenkai]] puole Parusėnai
-- Parusėnai puole [[objektai/grupes/Lenkai]]
+- Puolė Parusėnai: [[objektai/grupes/Lenkai]]
+- Parusėnai puolė [[objektai/grupes/Lenkai]]
+- Parusėnai kariavo prieš [[objektai/grupes/Vokiečiai]]

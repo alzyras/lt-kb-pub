@@ -62,4 +62,4 @@ Mykolo bažnyčia buvo išmūryti didieji maldos namai.
     - t-001
 
 ## Ryšiai
-- Šv. Mykolo bažnyčia Vilniuje priklause [[objektai/vietos/Vilnius]]
+- Šv. Mykolo bažnyčia Vilniuje priklausė [[objektai/vietos/Vilnius]]

@@ -228,4 +228,4 @@ Vladislovas Vaza buvo Zigmanto Vazos sūnus, kurį dalis Rusijos bojarinų 1610 
     - t-003
 
 ## Ryšiai
-- Vladislovas Vaza kariavo_pries [[objektai/grupes/Rusai]]
+- Vladislovas Vaza kariavo prieš [[objektai/grupes/Rusai]]

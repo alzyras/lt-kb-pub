@@ -90,4 +90,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Žemėlapis „Lituania Propria“ priklause [[objektai/vietos/Paryžius]]
+- Žemėlapis „Lituania Propria“ priklausė [[objektai/vietos/Paryžius]]

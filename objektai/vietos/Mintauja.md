@@ -70,4 +70,4 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/P. Bermontas-Avalovas]] keliavo_i Mintauja
+- Buvo kelionės vieta: [[objektai/asmenys/P. Bermontas-Avalovas]]

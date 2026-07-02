@@ -144,5 +144,4 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] keliavo_i Kleckas
-- [[objektai/asmenys/Mykolas Glinskis]] keliavo_i Kleckas
+- Buvo kelionės vieta: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mykolas Glinskis]]

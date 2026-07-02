@@ -47,4 +47,4 @@ Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijo
     - t-001
 
 ## Ryšiai
-- Arkidjakonas Povilas keliavo_i [[objektai/vietos/Maskva]]
+- Arkidjakonas Povilas keliavo į [[objektai/vietos/Maskva]]

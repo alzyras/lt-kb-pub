@@ -144,6 +144,5 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Bermontininkai]] keliavo_i Kuršėnai
-- [[objektai/grupes/Bermontininkai]] uzeme Kuršėnai
-- [[objektai/grupes/Virgoličiaus rinktinė]] keliavo_i Kuršėnai
+- Buvo kelionės vieta: [[objektai/grupes/Bermontininkai]], [[objektai/grupes/Virgoličiaus rinktinė]]
+- Užėmė Kuršėnai: [[objektai/grupes/Bermontininkai]]

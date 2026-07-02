@@ -120,6 +120,6 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Seversko kunigaikščiai]] gyveno Seversko Naugardas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Seversko Naugardas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] apgule Seversko Naugardas
+- Apgulė Seversko Naugardą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Užėmė Seversko Naugardą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gyvenamoji vieta: [[objektai/grupes/Seversko kunigaikščiai]]

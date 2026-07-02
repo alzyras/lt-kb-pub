@@ -77,5 +77,5 @@ Tos vė­ liavos buvusios smolenskiečių.
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Andrius Sakavičius]] kariavo_pries Smolenskiečiai
-- Smolenskiečiai reme [[objektai/asmenys/Žygimantas]]
+- Kariavo prieš: [[objektai/asmenys/Andrius Sakavičius]]
+- Smolenskiečiai rėmė [[objektai/asmenys/Žygimantas]]

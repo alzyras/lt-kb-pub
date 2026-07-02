@@ -186,4 +186,4 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     - t-006
 
 ## Ryšiai
-- Biarmiai priklause [[objektai/grupes/Slavai]]
+- Biarmiai priklausė [[objektai/grupes/Slavai]]

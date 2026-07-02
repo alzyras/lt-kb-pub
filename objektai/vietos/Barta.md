@@ -217,10 +217,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Bartai]] gyveno Barta
-- [[objektai/vietos/Plikoji Barta]] priklause Barta
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Barta
-- Barta priklause [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Lunenburgas]] priklause Barta
-- [[objektai/vietos/Girdavai]] priklause Barta
-- [[objektai/vietos/Vaistotpilis]] priklause Barta
+- Užėmė Bartą: [[objektai/grupes/Kryžiuočių ordinas]]
+- Gyvenamoji vieta: [[objektai/grupes/Bartai]]
+- Turėjo priklausinį: [[objektai/vietos/Girdavai]], [[objektai/vietos/Lunenburgas]], [[objektai/vietos/Plikoji Barta]], [[objektai/vietos/Vaistotpilis]]
+- Barta priklausė [[objektai/vietos/Prūsija]]

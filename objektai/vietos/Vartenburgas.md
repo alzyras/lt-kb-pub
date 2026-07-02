@@ -47,4 +47,4 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
     - t-001
 
 ## Ryšiai
-- Vartenburgas priklause [[objektai/vietos/Prūsija]]
+- Vartenburgas priklausė [[objektai/vietos/Prūsija]]

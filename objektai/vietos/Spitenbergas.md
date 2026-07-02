@@ -78,5 +78,4 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
     - t-003
 
 ## Ryšiai
-- Spitenbergas priklause [[objektai/vietos/Pamedė]]
-- Spitenbergas priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Spitenbergas priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Pamedė]]

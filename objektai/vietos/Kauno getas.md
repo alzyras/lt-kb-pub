@@ -49,4 +49,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Žydai]] gyveno Kauno getas
+- Gyvenamoji vieta: [[objektai/grupes/Žydai]]

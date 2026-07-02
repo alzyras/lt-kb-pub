@@ -51,5 +51,4 @@ Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas
     - t-001
 
 ## Ryšiai
-- Podbužo dvaras priklause [[objektai/asmenys/Ostapas Kropotkovas]]
-- Podbužo dvaras priklause [[objektai/vietos/Voluinė]]
+- Podbužo dvaras priklausė [[objektai/asmenys/Ostapas Kropotkovas]], [[objektai/vietos/Voluinė]]

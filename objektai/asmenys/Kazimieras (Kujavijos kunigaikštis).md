@@ -188,5 +188,5 @@ Kazimieras, Kujavijos kunigaikštis, Dusburgiečio pasakojime minimas kaip Lenki
     - t-002
 
 ## Ryšiai
-- [[objektai/vietos/Kujavija]] priklause Kazimieras (Kujavijos kunigaikštis)
-- Kazimieras (Kujavijos kunigaikštis) kariavo_pries [[objektai/grupes/Lietuviai]]
+- Turėjo priklausinį: [[objektai/vietos/Kujavija]]
+- Kazimieras (Kujavijos kunigaikštis) kariavo prieš [[objektai/grupes/Lietuviai]]

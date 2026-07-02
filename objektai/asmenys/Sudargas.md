@@ -122,6 +122,6 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
     - t-003
 
 ## Ryšiai
-- Sudargas kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Albrechtas iš Hageno]] puole Sudargas
-- Sudargas puole [[objektai/grupes/Kryžiuočių ordinas]]
+- Puolė Sudargą: [[objektai/asmenys/Albrechtas iš Hageno]]
+- Sudargas puolė [[objektai/grupes/Kryžiuočių ordinas]]
+- Sudargas kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]

@@ -121,4 +121,4 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
     - t-002
 
 ## Ryšiai
-- Jokūbas (vėliau Urbonas IV) sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Jokūbas (vėliau Urbonas IV) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]

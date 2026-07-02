@@ -220,8 +220,7 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
     - t-005
 
 ## Ryšiai
-- Gotai buvo_priesas [[objektai/grupes/Herulai]]
-- Gotai puole [[objektai/grupes/Lietuviai]]
-- Gotai priklause [[objektai/grupes/Krikščionys]]
-- Gotai buvo_priesas [[objektai/grupes/Lietuviai]]
+- Priešai: [[objektai/grupes/Herulai]], [[objektai/grupes/Lietuviai]]
+- Gotai puolė [[objektai/grupes/Lietuviai]]
 - Gotai gyveno [[objektai/vietos/Alnos upė]]
+- Gotai priklausė [[objektai/grupes/Krikščionys]]

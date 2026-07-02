@@ -701,15 +701,7 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
     - t-019
 
 ## Ryšiai
-- Slavai gyveno [[objektai/vietos/Pamaris]]
-- Slavai uzeme [[objektai/vietos/Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)]]
-- Slavai keliavo_i [[objektai/vietos/Gardino sritis]]
-- Slavai uzeme [[objektai/vietos/Baltija]]
-- Slavai uzeme [[objektai/vietos/Baltijos jūra]]
-- [[objektai/grupes/Biarmiai]] priklause Slavai
-- Slavai keliavo_i [[objektai/vietos/Dniepro žemupys]]
-- Slavai keliavo_i [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Lohajskas]] priklause Slavai
-- [[objektai/vietos/Gorodecas]] priklause Slavai
-- [[objektai/vietos/Minskas]] priklause Slavai
-- Slavai gyveno [[objektai/vietos/Lietuva]]
+- Turėjo priklausinį: [[objektai/grupes/Biarmiai]], [[objektai/vietos/Gorodecas]], [[objektai/vietos/Lohajskas]], [[objektai/vietos/Minskas]]
+- Slavai keliavo į [[objektai/vietos/Dniepro žemupys]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Gardino sritis]]
+- Slavai užėmė [[objektai/vietos/Baltija]], [[objektai/vietos/Baltijos jūra]], [[objektai/vietos/Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)]]
+- Slavai gyveno [[objektai/vietos/Lietuva]], [[objektai/vietos/Pamaris]]

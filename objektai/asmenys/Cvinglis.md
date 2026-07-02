@@ -82,4 +82,4 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Mikalojus Radvila Juodasis]] reme Cvinglis
+- Rėmė Cvinglį: [[objektai/asmenys/Mikalojus Radvila Juodasis]]

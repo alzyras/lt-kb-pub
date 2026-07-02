@@ -71,4 +71,4 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Steponas]] surenge_zygi_i Tamovas
+- Buvo žygio kryptis: [[objektai/asmenys/Steponas]]

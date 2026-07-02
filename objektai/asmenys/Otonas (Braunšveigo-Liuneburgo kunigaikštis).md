@@ -77,4 +77,4 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
     - t-002
 
 ## Ryšiai
-- Otonas (Braunšveigo-Liuneburgo kunigaikštis) keliavo_i [[objektai/vietos/Prūsija]]
+- Otonas (Braunšveigo-Liuneburgo kunigaikštis) keliavo į [[objektai/vietos/Prūsija]]

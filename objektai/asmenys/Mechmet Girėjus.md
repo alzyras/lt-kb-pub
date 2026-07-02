@@ -49,7 +49,4 @@ Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir 
     - t-001
 
 ## Ryšiai
-- Mechmet Girėjus puole [[objektai/vietos/Lietuva]]
-- Mechmet Girėjus puole [[objektai/vietos/Polockas]]
-- Mechmet Girėjus puole [[objektai/vietos/Vitebskas]]
-- Mechmet Girėjus puole [[objektai/vietos/Minskas]]
+- Mechmet Girėjus puolė [[objektai/vietos/Lietuva]], [[objektai/vietos/Minskas]], [[objektai/vietos/Polockas]], [[objektai/vietos/Vitebskas]]

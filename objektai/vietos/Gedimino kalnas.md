@@ -40,4 +40,4 @@ Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] buvo_palaidotas Gedimino kalnas
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

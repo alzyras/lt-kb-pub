@@ -47,5 +47,4 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     - t-001
 
 ## Ryšiai
-- Edvardo Lajaus būrys gyveno [[objektai/vietos/Buktos (Žaliosios) miškas]]
-- Edvardo Lajaus būrys gyveno [[objektai/vietos/Žuvintas]]
+- Edvardo Lajaus būrys gyveno [[objektai/vietos/Buktos (Žaliosios) miškas]], [[objektai/vietos/Žuvintas]]

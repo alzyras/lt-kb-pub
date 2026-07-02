@@ -43,4 +43,4 @@ Rugsėjo 24 d. lenkai užima Marcinkonis ir atkerta atsitraukimo kelią į šiau
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] uzeme Marcinkonys
+- Užėmė Marcinkonį: [[objektai/grupes/Lenkai]]

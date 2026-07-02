@@ -152,4 +152,4 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Ulrikas Hozijus]] pastate Vilniaus tiltas per Viliją
+- Buvo pastatyta: [[objektai/asmenys/Ulrikas Hozijus]]

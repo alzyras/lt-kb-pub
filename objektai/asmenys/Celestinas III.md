@@ -85,5 +85,4 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
     - t-002
 
 ## Ryšiai
-- Celestinas III pastate [[objektai/daiktai/Namas]]
-- Celestinas III pastate [[objektai/vietos/Jeruzalė]]
+- Celestinas III pastatė [[objektai/vietos/Jeruzalė]], [[objektai/daiktai/Namas]]

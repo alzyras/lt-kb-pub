@@ -332,10 +332,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     - t-008
 
 ## Ryšiai
-- [[objektai/grupes/Langobardai]] sudare_sutarti_su Romėnai
-- Romėnai pastate [[objektai/daiktai/Aukurai]]
-- [[objektai/grupes/Herulai]] buvo_sajungininkas_su Romėnai
-- [[objektai/daiktai/Laivai]] priklause Romėnai
-- Romėnai keliavo_i [[objektai/vietos/Lietuva]]
-- [[objektai/daiktai/Varpai]] priklause Romėnai
-- Romėnai keliavo_i [[objektai/vietos/Baltija]]
+- Sąjungininkai: [[objektai/grupes/Herulai]]
+- Sudarė sutartį su: [[objektai/grupes/Langobardai]]
+- Turėjo priklausinį: [[objektai/daiktai/Laivai]], [[objektai/daiktai/Varpai]]
+- Romėnai keliavo į [[objektai/vietos/Baltija]], [[objektai/vietos/Lietuva]]
+- Romėnai pastatė [[objektai/daiktai/Aukurai]]

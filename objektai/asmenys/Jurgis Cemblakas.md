@@ -56,4 +56,4 @@ sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijev
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] paskyre Jurgis Cemblakas
+- Paskyrė Jurgis Cemblaką: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

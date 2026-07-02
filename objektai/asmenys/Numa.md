@@ -84,6 +84,6 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
     - t-002
 
 ## Ryšiai
-- Numa puole [[objektai/grupes/Lietuviai]]
+- Numa puolė [[objektai/grupes/Lietuviai]]
 - Numa gyveno [[objektai/vietos/Pagudė]]
-- Numa reme [[objektai/grupes/Bartai]]
+- Numa rėmė [[objektai/grupes/Bartai]]

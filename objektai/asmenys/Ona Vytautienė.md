@@ -166,4 +166,4 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_vyras Ona Vytautienė
+- Vyrai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -49,4 +49,4 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
     - t-001
 
 ## Ryšiai
-- Tilžės gestapo būrys puole [[objektai/grupes/Žydai]]
+- Tilžės gestapo būrys puolė [[objektai/grupes/Žydai]]

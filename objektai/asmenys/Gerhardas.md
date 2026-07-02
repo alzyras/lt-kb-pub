@@ -99,6 +99,6 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
     - t-001
 
 ## Ryšiai
+- Gerhardas (valdovas) keliavo į [[objektai/vietos/Prūsija]]
+- Gerhardas (valdovas) pastatė [[objektai/daiktai/Karo pabūklai]]
 - Gerhardas (valdovas) gyveno [[objektai/vietos/Marienburgas]]
-- Gerhardas (valdovas) keliavo_i [[objektai/vietos/Prūsija]]
-- Gerhardas (valdovas) pastate [[objektai/daiktai/Karo pabūklai]]

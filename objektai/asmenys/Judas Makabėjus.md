@@ -104,6 +104,4 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     - t-001
 
 ## Ryšiai
-- Judas Makabėjus kariavo_pries [[objektai/asmenys/Antiochas Eupatoras]]
-- Judas Makabėjus kariavo_pries [[objektai/asmenys/Bachidas]]
-- Judas Makabėjus kariavo_pries [[objektai/asmenys/Alchimas]]
+- Judas Makabėjus kariavo prieš [[objektai/asmenys/Alchimas]], [[objektai/asmenys/Antiochas Eupatoras]], [[objektai/asmenys/Bachidas]]

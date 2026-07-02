@@ -145,4 +145,4 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Didžiosios kovos apygarda (DKA)]] gyveno Trakų apskritis
+- Gyvenamoji vieta: [[objektai/grupes/Didžiosios kovos apygarda (DKA)]]

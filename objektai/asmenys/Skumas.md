@@ -44,5 +44,5 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
     - t-001
 
 ## Ryšiai
-- Skumas surenge_zygi_i [[objektai/vietos/Baiga]]
-- [[objektai/asmenys/Stucė]] buvo_sajungininkas_su Skumas
+- Sąjungininkai: [[objektai/asmenys/Stucė]]
+- Skumas surengė žygį į [[objektai/vietos/Baiga]]

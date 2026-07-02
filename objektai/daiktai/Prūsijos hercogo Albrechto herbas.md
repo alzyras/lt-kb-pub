@@ -70,4 +70,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Prūsijos hercogo Albrechto herbas priklause [[objektai/vietos/Prūsija]]
+- Prūsijos hercogo Albrechto herbas priklausė [[objektai/vietos/Prūsija]]

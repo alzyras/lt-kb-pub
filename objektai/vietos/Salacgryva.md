@@ -155,5 +155,5 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Salacgryva
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]] siunte_i Salacgryva
+- Puolė Salacgryvą: [[objektai/grupes/Lietuviai]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Jonas Karolis Chodkevičius]]

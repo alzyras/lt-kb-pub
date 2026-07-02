@@ -133,4 +133,4 @@ Ignas Onacevičius minimas kaip istorikas, rinkęs istorinius dokumentus Karalia
     - t-004
 
 ## Ryšiai
-- Ignas Onacevičius keliavo_i [[objektai/vietos/Karaliaučius]]
+- Ignas Onacevičius keliavo į [[objektai/vietos/Karaliaučius]]

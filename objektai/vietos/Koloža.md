@@ -62,5 +62,5 @@ Komentare teigiama, kad 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Koloža
-- Koloža priklause [[objektai/vietos/Pskovas]]
+- Užėmė Koložą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Koloža priklausė [[objektai/vietos/Pskovas]]

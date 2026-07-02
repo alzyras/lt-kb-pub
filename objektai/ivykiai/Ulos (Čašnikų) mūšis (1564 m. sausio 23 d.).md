@@ -179,6 +179,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Maskvėnai]] dalyvavo_musyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)
-- [[objektai/asmenys/Petras Šuiskis]] dalyvavo_musyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Maskvėnai]], [[objektai/asmenys/Petras Šuiskis]]

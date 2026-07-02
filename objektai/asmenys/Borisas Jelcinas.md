@@ -121,7 +121,7 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
     - t-002
 
 ## Ryšiai
-- Borisas Jelcinas sudare_sutarti_su [[objektai/asmenys/Vytautas Landsbergis]]
-- [[objektai/asmenys/Vytautas Landsbergis]] sudare_sutarti_su Borisas Jelcinas
-- Borisas Jelcinas reme [[objektai/grupes/Lietuviai]]
-- Borisas Jelcinas gyne [[objektai/vietos/Rusija]]
+- Sudarė sutartį su: [[objektai/asmenys/Vytautas Landsbergis]]
+- Borisas Jelcinas gynė [[objektai/vietos/Rusija]]
+- Borisas Jelcinas sudarė sutartį su [[objektai/asmenys/Vytautas Landsbergis]]
+- Borisas Jelcinas rėmė [[objektai/grupes/Lietuviai]]

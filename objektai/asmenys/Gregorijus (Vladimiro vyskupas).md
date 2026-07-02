@@ -50,4 +50,4 @@ Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tar
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Bonifacas IX]] paskyre Gregorijus (Vladimiro vyskupas)
+- Paskyrė Gregorijų (Vladimiro vyskupas): [[objektai/asmenys/Bonifacas IX]]

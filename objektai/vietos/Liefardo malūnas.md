@@ -44,4 +44,4 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Pagudėnai]] puole Liefardo malūnas
+- Puolė Liefardo malūną: [[objektai/grupes/Pagudėnai]]

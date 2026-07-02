@@ -831,12 +831,10 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
     - t-029
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] uzeme Brasta
-- [[objektai/grupes/Švedai]] apgule Brasta
-- [[objektai/asmenys/Šach Achmedas]] keliavo_i Brasta
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde_teritorija Brasta
-- [[objektai/vietos/Liubešavas]] priklause Brasta
-- [[objektai/grupes/Lietuvos kariuomenė]] gyne Brasta
-- [[objektai/asmenys/Aleksandras]] keliavo_i Brasta
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde Brasta
-- [[objektai/grupes/Lietuviai]] siunte_i Brasta
+- Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Šach Achmedas]]
+- Apgulė Brastą: [[objektai/grupes/Švedai]]
+- Užėmė Brastą: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Gynė Brastą: [[objektai/grupes/Lietuvos kariuomenė]]
+- Buvo siuntimo vieta: [[objektai/grupes/Lietuviai]]
+- Turėjo priklausinį: [[objektai/vietos/Liubešavas]]

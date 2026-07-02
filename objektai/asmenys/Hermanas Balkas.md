@@ -152,4 +152,4 @@ Hermanas Balkas buvo pirmasis Teutonų ordino magistras Prūsijos žemėje. 1230
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] paskyre Hermanas Balkas
+- Paskyrė Hermanas Balką: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]

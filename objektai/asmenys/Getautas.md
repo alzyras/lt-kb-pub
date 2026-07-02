@@ -54,4 +54,4 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
     - t-001
 
 ## Ryšiai
-- Getautas keliavo_i [[objektai/vietos/Nevėžis]]
+- Getautas keliavo į [[objektai/vietos/Nevėžis]]

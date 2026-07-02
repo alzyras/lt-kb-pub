@@ -110,4 +110,4 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
     - t-003
 
 ## Ryšiai
-- Gerimantas buvo_sunus [[objektai/asmenys/Šventaragis]]
+- Tėvai: [[objektai/asmenys/Šventaragis]]

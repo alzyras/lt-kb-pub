@@ -62,4 +62,4 @@ Tauridės valdovas Edigejus susidraugavo su Vytautu ir pažadėjo ištikimybę, 
     - t-001
 
 ## Ryšiai
-- Edigejus kariavo_pries [[objektai/grupes/Lietuviai]]
+- Edigejus kariavo prieš [[objektai/grupes/Lietuviai]]

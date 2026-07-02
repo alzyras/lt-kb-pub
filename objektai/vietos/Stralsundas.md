@@ -100,6 +100,5 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     - t-003
 
 ## Ryšiai
-- Stralsundas priklause [[objektai/grupes/Hanza]]
-- Stralsundas prekiavo_su [[objektai/grupes/Lenkai]]
-- Stralsundas prekiavo_su [[objektai/grupes/Lietuviai]]
+- Stralsundas prekiavo su [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]]
+- Stralsundas priklausė [[objektai/grupes/Hanza]]

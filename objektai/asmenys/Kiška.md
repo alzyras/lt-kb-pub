@@ -84,5 +84,5 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras]] paskyre Kiška
-- [[objektai/asmenys/Mikalojus Radvila]] buvo_priesas Kiška
+- Priešai: [[objektai/asmenys/Mikalojus Radvila]]
+- Paskyrė Kišką: [[objektai/asmenys/Aleksandras]]

@@ -90,4 +90,4 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
     - t-001
 
 ## Ryšiai
-- Saksų dinastija valde [[objektai/vietos/Lietuva]]
+- Saksų dinastija valdė [[objektai/vietos/Lietuva]]

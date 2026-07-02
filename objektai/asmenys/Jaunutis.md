@@ -236,17 +236,9 @@ Jaunutis po tėvo mirties tapo Vilniaus ir gretimų sričių valdovu, tačiau ka
     - t-006
 
 ## Ryšiai
+- Turėjo priklausinį: [[objektai/vietos/Ašmena]], [[objektai/vietos/Breslauja]], [[objektai/vietos/Ukmergė]]
+- Jaunutis (valdovas, XIV a.) buvo valdovas [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
+- Jaunutis (valdovas, XIV a.) valdė [[objektai/vietos/Ašmena]], [[objektai/vietos/Breslauja]], [[objektai/vietos/Ukmergė]], [[objektai/vietos/Zaslavlis]]
+- Jaunutis (valdovas, XIV a.) keliavo į [[objektai/vietos/Maskva]], [[objektai/vietos/Smolenskas]]
+- Jaunutis (valdovas, XIV a.) gynė [[objektai/vietos/Lietuva]]
 - Jaunutis (valdovas, XIV a.) gyveno [[objektai/vietos/Vilnius]]
-- Jaunutis (valdovas, XIV a.) buvo_valdovas [[objektai/vietos/Vilnius]]
-- Jaunutis (valdovas, XIV a.) valde_teritorija [[objektai/vietos/Breslauja]]
-- [[objektai/vietos/Ašmena]] priklause Jaunutis (valdovas, XIV a.)
-- Jaunutis (valdovas, XIV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Ukmergė]] priklause Jaunutis (valdovas, XIV a.)
-- Jaunutis (valdovas, XIV a.) valde [[objektai/vietos/Ašmena]]
-- Jaunutis (valdovas, XIV a.) valde [[objektai/vietos/Breslauja]]
-- Jaunutis (valdovas, XIV a.) valde [[objektai/vietos/Ukmergė]]
-- Jaunutis (valdovas, XIV a.) valde [[objektai/vietos/Zaslavlis]]
-- [[objektai/vietos/Breslauja]] priklause Jaunutis (valdovas, XIV a.)
-- Jaunutis (valdovas, XIV a.) keliavo_i [[objektai/vietos/Maskva]]
-- Jaunutis (valdovas, XIV a.) keliavo_i [[objektai/vietos/Smolenskas]]
-- Jaunutis (valdovas, XIV a.) gyne [[objektai/vietos/Lietuva]]

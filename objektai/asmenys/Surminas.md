@@ -210,15 +210,11 @@ Surminas buvo Kolainių pilies vadas, 1290 m. su 120 karių narsiai gynęs pilį
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Petras Goštautas]] buvo_brolis Surminas
-- [[objektai/asmenys/Skaldonis]] buvo_brolis Surminas
-- Surminas gyne [[objektai/vietos/Kolainių pilis|Kolainių pilis (pilis)]]
-- Surminas gyne [[objektai/vietos/Kolainiai]]
-- Surminas puole [[objektai/asmenys/Ernekė]]
-- Surminas valde_miesta [[objektai/vietos/Kolainiai]]
-- Surminas dalyvavo_musyje [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]
-- Surminas pastate [[objektai/vietos/Kolainiai]]
-- Surminas dalyvavo_musyje [[objektai/ivykiai/Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)]]
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] paskyre Surminas
-- [[objektai/grupes/Lietuviai]] paskyre Surminas
-- Surminas kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Broliai: [[objektai/asmenys/Petras Goštautas]], [[objektai/asmenys/Skaldonis]]
+- Paskyrė Surminą: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Surminas valdė [[objektai/vietos/Kolainiai]]
+- Surminas pastatė [[objektai/vietos/Kolainiai]]
+- Surminas puolė [[objektai/asmenys/Ernekė]]
+- Surminas gynė [[objektai/vietos/Kolainiai]], [[objektai/vietos/Kolainių pilis|Kolainių pilis (pilis)]]
+- Surminas kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]
+- Surminas dalyvavo mūšyje [[objektai/ivykiai/Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)]], [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]

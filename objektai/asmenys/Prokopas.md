@@ -71,4 +71,4 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Kaributas]] buvo_sajungininkas_su Prokopas
+- Sąjungininkai: [[objektai/asmenys/Kaributas]]

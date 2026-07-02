@@ -133,8 +133,8 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Pamaris
-- [[objektai/grupes/Bremeno pirkliai]] prekiavo_su Pamaris
-- [[objektai/grupes/Slavai]] gyveno Pamaris
-- [[objektai/asmenys/Sventopelkas]] buvo_valdovas Pamaris
-- [[objektai/grupes/Vokiečių ordinas]] valde_teritorija Pamaris
+- Turėjo valdovą: [[objektai/asmenys/Sventopelkas]]
+- Buvo valdoma: [[objektai/grupes/Vokiečių ordinas]]
+- Užėmė Pamarį: [[objektai/grupes/Kryžiuočių ordinas]]
+- Prekiavo su: [[objektai/grupes/Bremeno pirkliai]]
+- Gyvenamoji vieta: [[objektai/grupes/Slavai]]

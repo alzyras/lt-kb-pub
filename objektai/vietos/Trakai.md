@@ -2917,68 +2917,16 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     - t-090
 
 ## Ryšiai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde_miesta Trakai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] mire Trakai
-- [[objektai/grupes/Karaimai]] gyveno Trakai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] gyveno Trakai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde Trakai
-- [[objektai/asmenys/Skirgaila]] valde_miesta Trakai
-- [[objektai/grupes/Totorių pajėgos]] uzeme Trakai
-- [[objektai/asmenys/Šach Achmedas]] gyveno Trakai
-- [[objektai/asmenys/Žygimantas]] uzeme Trakai
-- [[objektai/grupes/Kryžiuočių ordinas]] apgule Trakai
-- [[objektai/grupes/Trakų žydai]] gyveno Trakai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] apgule Trakai
-- [[objektai/grupes/Vytauto šalininkai]] apgule Trakai
-- [[objektai/asmenys/Žygimantas]] mire Trakai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] uzeme Trakai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Trakai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] keliavo_i Trakai
-- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] keliavo_i Trakai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] puole Trakai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] surenge_zygi_i Trakai
-- [[objektai/asmenys/Kazimieras Jogailaitis]] gyveno Trakai
-- [[objektai/grupes/Totoriai]] uzeme Trakai
-- Trakai priklause [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]] keliavo_i Trakai
-- [[objektai/asmenys/Vasilijus Vasiljevičius]] keliavo_i Trakai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_miesta Trakai
-- [[objektai/grupes/Žydai]] gyveno Trakai
-- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] mire Trakai
-- [[objektai/asmenys/Birutė]] keliavo_i Trakai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Trakai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyveno Trakai
-- [[objektai/asmenys/Šich Achmetas]] keliavo_i Trakai
-- [[objektai/grupes/Žemaičiai]] keliavo_i Trakai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyne Trakai
-- [[objektai/vietos/Daugų ežeras]] priklause Trakai
-- [[objektai/asmenys/Kazimieras Jogailaitis]] keliavo_i Trakai
-- [[objektai/asmenys/Skirgaila]] gyveno Trakai
-- [[objektai/grupes/Totoriai]] gyveno Trakai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Trakai
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Trakai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] gyne Trakai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde_teritorija Trakai
-- [[objektai/grupes/Lietuviai]] siunte_i Trakai
-- [[objektai/grupes/Mazovijos kunigaikščiai]] keliavo_i Trakai
-- [[objektai/vietos/Kamiencas]] priklause Trakai
-- [[objektai/vietos/Kamienecas]] priklause Trakai
-- [[objektai/asmenys/Skirgaila]] puole Trakai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Trakai
-- [[objektai/vietos/Belskas]] priklause Trakai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] pastate Trakai
-- [[objektai/grupes/Kazokai]] uzeme Trakai
-- [[objektai/asmenys/Liubartas]] keliavo_i Trakai
-- [[objektai/asmenys/Ona (Vytauto žmona)]] mire Trakai
-- [[objektai/grupes/Rusai]] uzeme Trakai
-- [[objektai/asmenys/Snorro Sturleson]] keliavo_i Trakai
-- [[objektai/grupes/Totoriai]] keliavo_i Trakai
-- [[objektai/asmenys/Ona (Vytauto žmona)]] gyveno Trakai
-- [[objektai/asmenys/Skirgaila]] valde_teritorija Trakai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Trakai
-- [[objektai/asmenys/Šich Achmetas]] gyveno Trakai
-- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] valde_miesta Trakai
-- [[objektai/asmenys/Vladislovas Jogaila]] uzeme Trakai
-- [[objektai/grupes/Kryžiuočių ordinas]] gyne Trakai
-- [[objektai/grupes/Maskvos kunigaikštystė]] keliavo_i Trakai
-- [[objektai/asmenys/Skirgaila]] uzeme Trakai
+- Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Birutė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Liubartas]], [[objektai/grupes/Maskvos kunigaikštystė]], [[objektai/grupes/Mazovijos kunigaikščiai]], [[objektai/asmenys/Snorro Sturleson]], [[objektai/asmenys/Šich Achmetas]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]], [[objektai/asmenys/Vasilijus Vasiljevičius]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/grupes/Žemaičiai]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- Mirties vieta: [[objektai/asmenys/Ona (Vytauto žmona)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- Buvo pastatyta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Puolė Trakai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Skirgaila]]
+- Apgulė Trakai: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/grupes/Vytauto šalininkai]]
+- Užėmė Trakai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Kazokai]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Totorių pajėgos]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]]
+- Gynė Trakai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo siuntimo vieta: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gyvenamoji vieta: [[objektai/grupes/Karaimai]], [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Ona (Vytauto žmona)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Šach Achmedas]], [[objektai/asmenys/Šich Achmetas]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Trakų žydai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/grupes/Žydai]]
+- Turėjo priklausinį: [[objektai/vietos/Belskas]], [[objektai/vietos/Daugų ežeras]], [[objektai/vietos/Kamiencas]], [[objektai/vietos/Kamienecas]]
+- Trakai priklausė [[objektai/vietos/Lietuva]]

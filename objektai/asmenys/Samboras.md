@@ -104,6 +104,6 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
     - t-002
 
 ## Ryšiai
-- Samboras buvo_brolis [[objektai/asmenys/Sventopelkas]]
-- Samboras keliavo_i [[objektai/vietos/Prūsija]]
-- Samboras pastate [[objektai/vietos/Marienverderis]]
+- Broliai: [[objektai/asmenys/Sventopelkas]]
+- Samboras keliavo į [[objektai/vietos/Prūsija]]
+- Samboras pastatė [[objektai/vietos/Marienverderis]]

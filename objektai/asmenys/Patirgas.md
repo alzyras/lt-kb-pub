@@ -58,6 +58,5 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
     - t-001
 
 ## Ryšiai
-- Patirgas buvo_sunus [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Patirgas buvo_sajungininkas_su [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Patirgas buvo_sajungininkas_su [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Sąjungininkai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

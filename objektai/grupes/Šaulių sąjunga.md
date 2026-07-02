@@ -81,5 +81,4 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Voldemarininkai]] buvo_sajungininkas_su Šaulių sąjunga
-- Šaulių sąjunga buvo_sajungininkas_su [[objektai/grupes/Jaunieji tautininkai]]
+- Sąjungininkai: [[objektai/grupes/Jaunieji tautininkai]], [[objektai/grupes/Voldemarininkai]]

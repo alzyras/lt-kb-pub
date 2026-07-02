@@ -48,4 +48,4 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Christmemelio pilis (pilis)
+- Puolė Christmemelio pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]

@@ -145,4 +145,4 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
     - t-004
 
 ## Ryšiai
-- Fotijus keliavo_i [[objektai/vietos/Maskva]]
+- Fotijus keliavo į [[objektai/vietos/Maskva]]

@@ -534,8 +534,7 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
     - t-017
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Kernavė
-- [[objektai/asmenys/Aleksandras Vygantas]] buvo_valdovas Kernavė
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Kernavė
-- [[objektai/grupes/Vytauto šalininkai]] uzeme Kernavė
-- [[objektai/asmenys/Živinbudas]] valde_miesta Kernavė
+- Turėjo valdovą: [[objektai/asmenys/Aleksandras Vygantas]]
+- Buvo valdoma: [[objektai/asmenys/Živinbudas]]
+- Puolė Kernavę: [[objektai/grupes/Kryžiuočių ordinas]]
+- Užėmė Kernavę: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vytauto šalininkai]]

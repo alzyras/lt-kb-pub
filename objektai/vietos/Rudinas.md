@@ -117,4 +117,4 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Martynas iš Golino]] keliavo_i Rudinas
+- Buvo kelionės vieta: [[objektai/asmenys/Martynas iš Golino]]

@@ -184,10 +184,8 @@ Fridrichas Kvicas buvo Vokiečių ordino brolis, minimas 1316–1323 m. kariniuo
     - t-002
 
 ## Ryšiai
-- Fridrichas Kvicas surenge_zygi_i [[objektai/vietos/Bisenė]]
-- Fridrichas Kvicas kariavo_pries [[objektai/grupes/Lietuviai]]
-- Fridrichas Kvicas uzeme [[objektai/vietos/Bisenė]]
-- Fridrichas Kvicas puole [[objektai/vietos/Bisenė]]
-- [[objektai/grupes/Lietuviai]] kariavo_pries Fridrichas Kvicas
-- Fridrichas Kvicas puole [[objektai/grupes/Lietuviai]]
-- Fridrichas Kvicas puole [[objektai/vietos/Pagraudė]]
+- Kariavo prieš: [[objektai/grupes/Lietuviai]]
+- Fridrichas Kvicas puolė [[objektai/vietos/Bisenė]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Pagraudė]]
+- Fridrichas Kvicas užėmė [[objektai/vietos/Bisenė]]
+- Fridrichas Kvicas surengė žygį į [[objektai/vietos/Bisenė]]
+- Fridrichas Kvicas kariavo prieš [[objektai/grupes/Lietuviai]]

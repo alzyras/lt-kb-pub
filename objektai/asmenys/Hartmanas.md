@@ -74,4 +74,4 @@ Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317
     - t-001
 
 ## Ryšiai
-- Hartmanas puole [[objektai/vietos/Pagraudė]]
+- Hartmanas puolė [[objektai/vietos/Pagraudė]]

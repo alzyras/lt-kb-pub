@@ -51,5 +51,5 @@ Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino 
     - t-001
 
 ## Ryšiai
-- Henrikas Tupadelis gyne [[objektai/vietos/Vėluva]]
-- Henrikas Tupadelis kariavo_pries [[objektai/grupes/Lietuviai]]
+- Henrikas Tupadelis gynė [[objektai/vietos/Vėluva]]
+- Henrikas Tupadelis kariavo prieš [[objektai/grupes/Lietuviai]]

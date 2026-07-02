@@ -120,4 +120,4 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
     - t-003
 
 ## Ryšiai
-- Šv. Kazimieras gyne [[objektai/vietos/Lietuva]]
+- Šv. Kazimieras gynė [[objektai/vietos/Lietuva]]

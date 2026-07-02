@@ -77,4 +77,4 @@ Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai a
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)]] siunte_i Petrikovičiai
+- Buvo siuntimo vieta: [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)]]

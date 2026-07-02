@@ -224,9 +224,9 @@ Vytautas Landsbergis 1991 m. sausio 13 d. buvo Aukščiausiosios Tarybos pirmini
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Borisas Jelcinas]] sudare_sutarti_su Vytautas Landsbergis
-- Vytautas Landsbergis sudare_sutarti_su [[objektai/asmenys/Borisas Jelcinas]]
-- [[objektai/grupes/ATAS]] gyne Vytautas Landsbergis
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]] paskyre Vytautas Landsbergis
-- Vytautas Landsbergis keliavo_i [[objektai/vietos/Aušros vartai]]
-- Vytautas Landsbergis gyne [[objektai/vietos/Lietuva]]
+- Gynė Vytautas Landsbergį: [[objektai/grupes/ATAS]]
+- Sudarė sutartį su: [[objektai/asmenys/Borisas Jelcinas]]
+- Paskyrė Vytautas Landsbergį: [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- Vytautas Landsbergis keliavo į [[objektai/vietos/Aušros vartai]]
+- Vytautas Landsbergis gynė [[objektai/vietos/Lietuva]]
+- Vytautas Landsbergis sudarė sutartį su [[objektai/asmenys/Borisas Jelcinas]]

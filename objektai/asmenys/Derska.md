@@ -107,9 +107,8 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
     - t-003
 
 ## Ryšiai
-- Derska puole [[objektai/grupes/Lietuviai]]
-- Derska gyveno [[objektai/vietos/Lietuva]]
-- Derska gyveno [[objektai/vietos/Pagudė]]
-- Derska keliavo_i [[objektai/vietos/Pagudė]]
-- Derska reme [[objektai/grupes/Bartai]]
-- Derska buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Derska keliavo į [[objektai/vietos/Pagudė]]
+- Derska puolė [[objektai/grupes/Lietuviai]]
+- Derska gyveno [[objektai/vietos/Lietuva]], [[objektai/vietos/Pagudė]]
+- Derska rėmė [[objektai/grupes/Bartai]]

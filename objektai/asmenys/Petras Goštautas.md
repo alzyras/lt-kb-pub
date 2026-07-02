@@ -487,14 +487,11 @@ Petras Goštautas tradicijoje siejamas su pranciškonų globa Vilniuje, kataliky
     - t-017
 
 ## Ryšiai
-- Petras Goštautas buvo_brolis [[objektai/asmenys/Surminas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] paskyre Petras Goštautas
-- Petras Goštautas keliavo_i [[objektai/vietos/Tikocinas]]
-- Petras Goštautas keliavo_i [[objektai/vietos/Palenkė]]
-- Petras Goštautas gyne [[objektai/grupes/Pranciškonų ordinas]]
-- Petras Goštautas keliavo_i [[objektai/vietos/Vilnius]]
-- Petras Goštautas siunte_i [[objektai/vietos/Vilnius]]
-- Petras Goštautas mire [[objektai/vietos/Veliuona]]
+- Broliai: [[objektai/asmenys/Surminas]]
+- Paskyrė Petras Goštautą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Petras Goštautas keliavo į [[objektai/vietos/Lenkija]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Tikocinas]], [[objektai/vietos/Vilnius]]
+- Petras Goštautas mirė [[objektai/vietos/Veliuona]]
+- Petras Goštautas pastatė [[objektai/vietos/Vilnius]]
+- Petras Goštautas gynė [[objektai/grupes/Pranciškonų ordinas]]
+- Petras Goštautas siuntė į [[objektai/vietos/Vilnius]]
 - Petras Goštautas gyveno [[objektai/vietos/Krokuva]]
-- Petras Goštautas pastate [[objektai/vietos/Vilnius]]
-- Petras Goštautas keliavo_i [[objektai/vietos/Lenkija]]

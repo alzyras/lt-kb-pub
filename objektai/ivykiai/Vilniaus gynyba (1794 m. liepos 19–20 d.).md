@@ -96,4 +96,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Rusijos kariuomenės korpusas]] dalyvavo_musyje Vilniaus gynyba (1794 m. liepos 19–20 d.)
+- Turėjo dalyvį: [[objektai/grupes/Rusijos kariuomenės korpusas]]

@@ -87,5 +87,5 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
     - t-002
 
 ## Ryšiai
-- Vladislovas iš Opolės valde [[objektai/vietos/Galicija]]
-- [[objektai/vietos/Galicija]] priklause Vladislovas iš Opolės
+- Turėjo priklausinį: [[objektai/vietos/Galicija]]
+- Vladislovas iš Opolės valdė [[objektai/vietos/Galicija]]

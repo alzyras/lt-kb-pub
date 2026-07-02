@@ -49,4 +49,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Šušvė priklause [[objektai/vietos/Lietuva]]
+- Šušvė priklausė [[objektai/vietos/Lietuva]]

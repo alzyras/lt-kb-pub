@@ -50,4 +50,4 @@ Jakovas Zachariničius kartu su Andrejumi Možaiskiu ir Andrejumi Šemiačičium
     - t-001
 
 ## Ryšiai
-- Jakovas Zachariničius surenge_zygi_i [[objektai/vietos/Severskas]]
+- Jakovas Zachariničius surengė žygį į [[objektai/vietos/Severskas]]

@@ -206,7 +206,7 @@ Mstivojus buvo Sventopelko pirmagimis sūnus, minimas kaip taikos sutarties įka
     - t-002
 
 ## Ryšiai
-- Mstivojus buvo_sunus [[objektai/asmenys/Sventopelkas]]
-- Mstivojus buvo_valdovas [[objektai/vietos/Pomeranija]]
-- Mstivojus valde_teritorija [[objektai/vietos/Pomeranija]]
-- Mstivojus uzeme [[objektai/vietos/Pomeranija]]
+- Tėvai: [[objektai/asmenys/Sventopelkas]]
+- Mstivojus buvo valdovas [[objektai/vietos/Pomeranija]]
+- Mstivojus valdė [[objektai/vietos/Pomeranija]]
+- Mstivojus užėmė [[objektai/vietos/Pomeranija]]

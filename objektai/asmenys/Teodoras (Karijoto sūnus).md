@@ -46,5 +46,5 @@ Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro
     - t-001
 
 ## Ryšiai
-- Teodoras (Karijoto sūnus) buvo_sunus [[objektai/asmenys/Karijotas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Teodoras (Karijoto sūnus)
+- Tėvai: [[objektai/asmenys/Karijotas]]
+- Puolė Teodorą (Karijoto sūnus): [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

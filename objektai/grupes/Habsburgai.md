@@ -91,4 +91,4 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
     - t-002
 
 ## Ryšiai
-- Habsburgai buvo_priesas [[objektai/grupes/Jogailaičiai]]
+- Priešai: [[objektai/grupes/Jogailaičiai]]

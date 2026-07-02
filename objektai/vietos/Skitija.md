@@ -56,7 +56,5 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jerim Berdis]] keliavo_i Skitija
-- [[objektai/asmenys/Mikalojus Radvila]] keliavo_i Skitija
-- [[objektai/asmenys/Višnioveckis]] keliavo_i Skitija
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Skitija
+- Buvo kelionės vieta: [[objektai/asmenys/Jerim Berdis]], [[objektai/asmenys/Mikalojus Radvila]], [[objektai/asmenys/Višnioveckis]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

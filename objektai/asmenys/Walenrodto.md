@@ -81,4 +81,4 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Walenrodto
+- Puolė Walenrodto: [[objektai/grupes/Lietuviai]]

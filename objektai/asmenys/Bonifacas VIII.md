@@ -163,5 +163,4 @@ Bonifacas VIII šioje žinių bazės ištraukoje minimas kaip popiežius, susij�
     - t-001
 
 ## Ryšiai
-- Bonifacas VIII (arkivyskupas, XIII–XIV a.) paskyre [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]]
-- Bonifacas VIII (arkivyskupas, XIII–XIV a.) paskyre [[objektai/asmenys/Albrechtas (Romos karalius)]]
+- Bonifacas VIII (arkivyskupas, XIII–XIV a.) paskyrė [[objektai/asmenys/Albrechtas (Romos karalius)]], [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]]

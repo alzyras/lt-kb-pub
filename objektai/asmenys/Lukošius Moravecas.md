@@ -47,4 +47,4 @@ Lukošius Moravecas prie Slučės upės su dviem šimtais pėstininkų užpuolė
     - t-001
 
 ## Ryšiai
-- Lukošius Moravecas dalyvavo_musyje [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės]]
+- Lukošius Moravecas dalyvavo mūšyje [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės]]

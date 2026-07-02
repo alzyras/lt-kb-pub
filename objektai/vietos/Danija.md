@@ -63,4 +63,4 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Hadingas]] buvo_valdovas Danija
+- Turėjo valdovą: [[objektai/asmenys/Hadingas]]

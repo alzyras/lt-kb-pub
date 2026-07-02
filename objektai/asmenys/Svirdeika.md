@@ -54,6 +54,5 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Svirdeika keliavo_i [[objektai/vietos/Įsrutis]]
-- Svirdeika buvo_sajungininkas_su [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Svirdeika buvo_sajungininkas_su [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Sąjungininkai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Svirdeika keliavo į [[objektai/vietos/Įsrutis]]

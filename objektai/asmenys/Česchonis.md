@@ -67,5 +67,5 @@ dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Namas]] priklause Česchonis
+- Turėjo priklausinį: [[objektai/daiktai/Namas]]
 - Česchonis gyveno [[objektai/vietos/Vilnius]]

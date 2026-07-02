@@ -112,6 +112,6 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Sembai]] gyveno Rinava
-- Rinava priklause [[objektai/vietos/Semba]]
-- [[objektai/grupes/Sembai]] puole Rinava
+- Puolė Rinavą: [[objektai/grupes/Sembai]]
+- Gyvenamoji vieta: [[objektai/grupes/Sembai]]
+- Rinava priklausė [[objektai/vietos/Semba]]

@@ -53,5 +53,5 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
     - t-001
 
 ## Ryšiai
-- Bertoldas Briuhavenas surenge_zygi_i [[objektai/vietos/Junigeda]]
-- Bertoldas Briuhavenas keliavo_i [[objektai/vietos/Livonija]]
+- Bertoldas Briuhavenas keliavo į [[objektai/vietos/Livonija]]
+- Bertoldas Briuhavenas surengė žygį į [[objektai/vietos/Junigeda]]

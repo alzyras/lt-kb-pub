@@ -248,5 +248,5 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - t-007
 
 ## Ryšiai
-- [[objektai/grupes/Turkijos kariuomenė]] keliavo_i Chotinas
-- [[objektai/asmenys/Jonas Tarnovskis]] apgule Chotinas
+- Buvo kelionės vieta: [[objektai/grupes/Turkijos kariuomenė]]
+- Apgulė Chotiną: [[objektai/asmenys/Jonas Tarnovskis]]

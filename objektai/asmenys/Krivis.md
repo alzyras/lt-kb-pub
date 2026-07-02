@@ -153,7 +153,4 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
     - t-003
 
 ## Ryšiai
-- Krivis gyveno [[objektai/vietos/Prūsija]]
-- Krivis gyveno [[objektai/vietos/Romovė]]
-- Krivis gyveno [[objektai/vietos/Nadruva]]
-- Krivis gyveno [[objektai/vietos/Lietuva]]
+- Krivis gyveno [[objektai/vietos/Lietuva]], [[objektai/vietos/Nadruva]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Romovė]]

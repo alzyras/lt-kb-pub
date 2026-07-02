@@ -52,4 +52,4 @@ Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mir
     - t-001
 
 ## Ryšiai
-- Gintautas mire [[objektai/vietos/Aukaimis]]
+- Gintautas mirė [[objektai/vietos/Aukaimis]]

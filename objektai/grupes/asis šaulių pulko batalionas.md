@@ -50,4 +50,4 @@ Matusevičiaus Trakų sukilėlių daliniai, palaikomi 2-ojo šaulių pulko batal
     - t-001
 
 ## Ryšiai
-- asis šaulių pulko batalionas puole [[objektai/grupes/Rusai]]
+- asis šaulių pulko batalionas puolė [[objektai/grupes/Rusai]]

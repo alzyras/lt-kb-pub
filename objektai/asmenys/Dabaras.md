@@ -43,4 +43,4 @@ Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Dabaras
+- Puolė Dabarą: [[objektai/grupes/Kryžiuočių ordinas]]

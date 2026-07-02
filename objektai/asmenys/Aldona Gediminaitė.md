@@ -240,6 +240,5 @@ Aldona Gediminaitė buvo Gedimino duktė, 1325 m. ištekinta už Vladislovo Loki
     - t-003
 
 ## Ryšiai
-- Aldona Gediminaitė buvo_dukte [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]] vede Aldona Gediminaitė
-- [[objektai/asmenys/Kazimieras Didysis]] vede Aldona Gediminaitė
+- Sutuoktiniai: [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]], [[objektai/asmenys/Kazimieras Didysis]]
+- Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

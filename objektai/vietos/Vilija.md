@@ -738,6 +738,5 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
     - t-011
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] gyveno Vilija
-- [[objektai/vietos/Paleckio stiklo liejykla prie Vilijos]] priklause Vilija
-- [[objektai/vietos/Barboros rūmai Vilniuje]] priklause Vilija
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]
+- Turėjo priklausinį: [[objektai/vietos/Barboros rūmai Vilniuje]], [[objektai/vietos/Paleckio stiklo liejykla prie Vilijos]]

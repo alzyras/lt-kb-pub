@@ -97,6 +97,6 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
     - t-002
 
 ## Ryšiai
-- Henrikas (Meiseno markgrafas) keliavo_i [[objektai/vietos/Prūsija]]
-- Henrikas (Meiseno markgrafas) reme [[objektai/grupes/Kryžiuočių ordinas]]
-- Henrikas (Meiseno markgrafas) puole [[objektai/vietos/Pamedė]]
+- Henrikas (Meiseno markgrafas) keliavo į [[objektai/vietos/Prūsija]]
+- Henrikas (Meiseno markgrafas) puolė [[objektai/vietos/Pamedė]]
+- Henrikas (Meiseno markgrafas) rėmė [[objektai/grupes/Kryžiuočių ordinas]]

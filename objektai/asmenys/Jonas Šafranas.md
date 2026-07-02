@@ -49,4 +49,4 @@ Būdamas pilnas nemalonės naujiems karūnos politikos vai­ rininkams, kancleri
     - t-001
 
 ## Ryšiai
-- Jonas Šafranas buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -102,4 +102,4 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
     - t-002
 
 ## Ryšiai
-- Lietuvos laisvės armija priklause [[objektai/vietos/Vilnius]]
+- Lietuvos laisvės armija priklausė [[objektai/vietos/Vilnius]]

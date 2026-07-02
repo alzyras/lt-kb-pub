@@ -42,4 +42,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Ronneburgas priklause [[objektai/vietos/Livonija]]
+- Ronneburgas priklausė [[objektai/vietos/Livonija]]

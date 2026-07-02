@@ -77,5 +77,5 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     - t-002
 
 ## Ryšiai
-- Karkuso pilis (pilis, XIII a.) priklause [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Lietuviai]] uzeme Karkuso pilis (pilis, XIII a.)
+- Užėmė Karkuso pilį (pilis, XIII a.): [[objektai/grupes/Lietuviai]]
+- Karkuso pilis (pilis, XIII a.) priklausė [[objektai/vietos/Livonija]]

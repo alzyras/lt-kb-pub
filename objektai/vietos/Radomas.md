@@ -178,5 +178,5 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Rusai]] apgule Radomas
-- [[objektai/asmenys/Šich Achmetas]] keliavo_i Radomas
+- Buvo kelionės vieta: [[objektai/asmenys/Šich Achmetas]]
+- Apgulė Radomą: [[objektai/grupes/Rusai]]

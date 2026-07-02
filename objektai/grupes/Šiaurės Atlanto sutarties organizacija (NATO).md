@@ -144,4 +144,4 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/vietos/Lietuva]] priklause Šiaurės Atlanto sutarties organizacija (NATO)
+- Turėjo priklausinį: [[objektai/vietos/Lietuva]]

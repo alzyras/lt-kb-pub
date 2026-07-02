@@ -139,7 +139,7 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Husitai]] keliavo_i Varėna
-- [[objektai/grupes/Lenkai]] uzeme Varėna
-- Varėna priklause [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lenkai]] valde Varėna
+- Buvo valdoma: [[objektai/grupes/Lenkai]]
+- Buvo kelionės vieta: [[objektai/grupes/Husitai]]
+- Užėmė Varėną: [[objektai/grupes/Lenkai]]
+- Varėna priklausė [[objektai/grupes/Lenkai]]

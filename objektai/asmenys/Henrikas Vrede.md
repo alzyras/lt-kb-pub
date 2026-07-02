@@ -43,4 +43,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Henrikas Vrede gyne [[objektai/asmenys/Karolis IX]]
+- Henrikas Vrede gynė [[objektai/asmenys/Karolis IX]]

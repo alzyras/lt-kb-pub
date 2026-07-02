@@ -77,4 +77,4 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Herbai]] priklause Lenkų bajorai
+- Turėjo priklausinį: [[objektai/daiktai/Herbai]]

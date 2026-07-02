@@ -51,5 +51,5 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
     - t-001
 
 ## Ryšiai
-- Andrius Volanas reme [[objektai/grupes/Vilniaus reformatai ir disidentai]]
 - Andrius Volanas gyveno [[objektai/vietos/Vilnius]]
+- Andrius Volanas rėmė [[objektai/grupes/Vilniaus reformatai ir disidentai]]

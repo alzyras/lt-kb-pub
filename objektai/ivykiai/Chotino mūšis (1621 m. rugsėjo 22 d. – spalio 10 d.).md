@@ -138,4 +138,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas Karolis Katkevičius]] dalyvavo_musyje Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)
+- Turėjo dalyvį: [[objektai/asmenys/Jonas Karolis Katkevičius]]

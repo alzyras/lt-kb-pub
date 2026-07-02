@@ -79,4 +79,4 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
     - t-001
 
 ## Ryšiai
-- Šv. Jono bažnyčia priklause [[objektai/vietos/Vilnius]]
+- Šv. Jono bažnyčia priklausė [[objektai/vietos/Vilnius]]

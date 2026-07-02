@@ -171,6 +171,5 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Ninerikas]] keliavo_i Kulmenzė
-- [[objektai/asmenys/Helmerichas]] buvo_palaidotas Kulmenzė
-- [[objektai/asmenys/Liudvikas]] buvo_palaidotas Kulmenzė
+- Buvo kelionės vieta: [[objektai/asmenys/Ninerikas]]
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Helmerichas]], [[objektai/asmenys/Liudvikas]]

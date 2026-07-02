@@ -158,4 +158,4 @@ periodo_grupes:
     - t-002
 
 ## Ryšiai
-- Fridrichas buvo_sunus [[objektai/asmenys/Feletėjas]]
+- Tėvai: [[objektai/asmenys/Feletėjas]]

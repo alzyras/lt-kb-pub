@@ -68,4 +68,4 @@ Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, kuriame stovė
     - t-001
 
 ## Ryšiai
-- Konradas Lichtenhagenas keliavo_i [[objektai/vietos/Lietuva]]
+- Konradas Lichtenhagenas keliavo į [[objektai/vietos/Lietuva]]

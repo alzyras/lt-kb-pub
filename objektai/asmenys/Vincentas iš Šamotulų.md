@@ -68,4 +68,4 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
     - t-002
 
 ## Ryšiai
-- Vincentas iš Šamotulų siunte_i [[objektai/vietos/Lvovas]]
+- Vincentas iš Šamotulų siuntė į [[objektai/vietos/Lvovas]]

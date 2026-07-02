@@ -79,4 +79,4 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
     - t-002
 
 ## Ryšiai
-- Hugonas Butyras gime [[objektai/vietos/Olandija]]
+- Hugonas Butyras gimė [[objektai/vietos/Olandija]]

@@ -73,4 +73,4 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] uzeme Žąsliai
+- Užėmė Žąsliai: [[objektai/grupes/Lietuviai]]

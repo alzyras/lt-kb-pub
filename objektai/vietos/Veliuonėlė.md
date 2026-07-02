@@ -50,4 +50,4 @@ Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama P
     - t-001
 
 ## Ryšiai
-- Veliuonėlė priklause [[objektai/vietos/Nemunas]]
+- Veliuonėlė priklausė [[objektai/vietos/Nemunas]]

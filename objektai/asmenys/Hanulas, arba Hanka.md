@@ -60,4 +60,4 @@ Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo �
     - t-001
 
 ## Ryšiai
-- Hanulas, arba Hanka valde_miesta [[objektai/vietos/Vilnius]]
+- Hanulas, arba Hanka valdė [[objektai/vietos/Vilnius]]

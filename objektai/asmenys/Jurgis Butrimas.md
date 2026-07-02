@@ -42,4 +42,4 @@ Jurgis Butrimas, turėjęs didelių turtų Žemaitijoje, pasiūlė savo pagalbą
     - t-001
 
 ## Ryšiai
-- Jurgis Butrimas reme [[objektai/grupes/Kryžiuočių ordinas]]
+- Jurgis Butrimas rėmė [[objektai/grupes/Kryžiuočių ordinas]]

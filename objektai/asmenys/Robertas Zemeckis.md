@@ -56,4 +56,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Robertas Zemeckis gime [[objektai/vietos/Čikaga]]
+- Robertas Zemeckis gimė [[objektai/vietos/Čikaga]]

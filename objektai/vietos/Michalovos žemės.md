@@ -68,4 +68,4 @@ Lenki­ jai labai rūpėjo atgauti Pamario, Kulmijos ir Michalovos že­ mės, o
     - t-002
 
 ## Ryšiai
-- Michalovos žemės priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Michalovos žemės priklausė [[objektai/grupes/Kryžiuočių ordinas]]

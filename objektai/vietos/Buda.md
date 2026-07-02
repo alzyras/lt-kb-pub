@@ -74,4 +74,4 @@ Nuo tada Jogaila veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Skirgaila]] keliavo_i Buda
+- Buvo kelionės vieta: [[objektai/asmenys/Skirgaila]]

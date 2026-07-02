@@ -68,4 +68,4 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] puole Sviečė
+- Puolė Sviečę: [[objektai/grupes/Lenkai]]

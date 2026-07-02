@@ -91,5 +91,5 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
     - t-001
 
 ## Ryšiai
-- Stanislovas Goštautas sudare_sutarti_su [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
-- Stanislovas Goštautas keliavo_i [[objektai/vietos/Maskva]]
+- Stanislovas Goštautas keliavo į [[objektai/vietos/Maskva]]
+- Stanislovas Goštautas sudarė sutartį su [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]

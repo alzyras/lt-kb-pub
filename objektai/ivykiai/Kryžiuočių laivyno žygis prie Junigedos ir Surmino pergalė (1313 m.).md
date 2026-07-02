@@ -145,4 +145,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Surminas]] dalyvavo_musyje Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)
+- Turėjo dalyvį: [[objektai/asmenys/Surminas]]

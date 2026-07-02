@@ -266,7 +266,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     - t-007
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] gyveno Daugpilis
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] apgule Daugpilis
-- [[objektai/grupes/Latvijos kariuomenė]] uzeme Daugpilis
-- [[objektai/grupes/11 brigada]] surenge_zygi_i Daugpilis
+- Apgulė Daugpilį: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
+- Užėmė Daugpilį: [[objektai/grupes/Latvijos kariuomenė]]
+- Buvo žygio kryptis: [[objektai/grupes/11 brigada]]
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

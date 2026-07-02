@@ -96,4 +96,4 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
     - t-001
 
 ## Ryšiai
-- Sudimantas gyne [[objektai/vietos/Vilnius]]
+- Sudimantas gynė [[objektai/vietos/Vilnius]]

@@ -103,5 +103,5 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
     - t-001
 
 ## Ryšiai
-- Pilsudskis valde [[objektai/vietos/Lenkija]]
-- Pilsudskis reme [[objektai/grupes/Želigovskininkai]]
+- Pilsudskis valdė [[objektai/vietos/Lenkija]]
+- Pilsudskis rėmė [[objektai/grupes/Želigovskininkai]]

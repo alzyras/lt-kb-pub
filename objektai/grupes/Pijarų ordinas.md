@@ -113,6 +113,5 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     - t-004
 
 ## Ryšiai
-- Pijarų ordinas keliavo_i [[objektai/vietos/Lietuva]]
-- Pijarų ordinas gyveno [[objektai/vietos/Vitebskas]]
-- Pijarų ordinas gyveno [[objektai/vietos/Želviai]]
+- Pijarų ordinas keliavo į [[objektai/vietos/Lietuva]]
+- Pijarų ordinas gyveno [[objektai/vietos/Vitebskas]], [[objektai/vietos/Želviai]]

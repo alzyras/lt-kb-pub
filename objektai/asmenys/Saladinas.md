@@ -104,8 +104,6 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
     - t-003
 
 ## Ryšiai
-- Saladinas buvo_sunus [[objektai/asmenys/Tochtamyšas]]
-- Saladinas buvo_sunus [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas)]]
-- Saladinas buvo_sunus [[objektai/asmenys/Tochtamišas]]
-- Saladinas reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] paskyre Saladinas
+- Tėvai: [[objektai/asmenys/Tochtamišas]], [[objektai/asmenys/Tochtamyšas]], [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas)]]
+- Paskyrė Saladiną: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Saladinas rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

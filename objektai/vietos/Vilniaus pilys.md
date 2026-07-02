@@ -173,4 +173,4 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Daugirdas]] uzeme Vilniaus pilys
+- Užėmė Vilniaus pilį: [[objektai/asmenys/Daugirdas]]

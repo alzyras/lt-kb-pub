@@ -61,6 +61,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
     - t-001
 
 ## Ryšiai
-- Pilypas keliavo_i [[objektai/vietos/Prūsija]]
-- Pilypas puole [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] kariavo_pries Pilypas
+- Kariavo prieš: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Pilypas keliavo į [[objektai/vietos/Prūsija]]
+- Pilypas puolė [[objektai/vietos/Lietuva]]

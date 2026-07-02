@@ -75,4 +75,4 @@ Smotričius yra sena Podolės gyvenvietė, minima jau XII a. 1240 m. ją sunaiki
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] puole Smotričius
+- Puolė Smotričių: [[objektai/grupes/Totoriai]]

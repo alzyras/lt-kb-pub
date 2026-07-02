@@ -53,4 +53,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Lokaičiai]] priklause Marijampolės apskritis
+- Turėjo priklausinį: [[objektai/vietos/Lokaičiai]]

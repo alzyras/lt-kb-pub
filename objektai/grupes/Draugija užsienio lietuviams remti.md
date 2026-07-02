@@ -59,4 +59,4 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
     - t-001
 
 ## Ryšiai
-- Draugija užsienio lietuviams remti reme [[objektai/grupes/Lietuviai]]
+- Draugija užsienio lietuviams remti rėmė [[objektai/grupes/Lietuviai]]

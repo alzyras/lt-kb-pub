@@ -81,4 +81,4 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
     - t-001
 
 ## Ryšiai
-- Lietuvos Respublikos Seimas (seimas) valde [[objektai/vietos/Lietuva]]
+- Lietuvos Respublikos Seimas (seimas) valdė [[objektai/vietos/Lietuva]]

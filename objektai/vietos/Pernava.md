@@ -63,4 +63,4 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
     - t-001
 
 ## Ryšiai
-- Pernava priklause [[objektai/vietos/Livonija]]
+- Pernava priklausė [[objektai/vietos/Livonija]]

@@ -164,6 +164,5 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - t-003
 
 ## Ryšiai
-- Lenkijos kariuomenė keliavo_i [[objektai/vietos/Valakija]]
-- Lenkijos kariuomenė dalyvavo_musyje [[objektai/ivykiai/Zelencų mūšis (1792 m. birželio 18 d.)]]
-- Lenkijos kariuomenė keliavo_i [[objektai/vietos/Volbožas]]
+- Lenkijos kariuomenė keliavo į [[objektai/vietos/Valakija]], [[objektai/vietos/Volbožas]]
+- Lenkijos kariuomenė dalyvavo mūšyje [[objektai/ivykiai/Zelencų mūšis (1792 m. birželio 18 d.)]]

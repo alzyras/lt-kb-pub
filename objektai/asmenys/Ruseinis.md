@@ -52,5 +52,5 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
     - t-001
 
 ## Ryšiai
-- Ruseinis keliavo_i [[objektai/vietos/Baiga]]
-- Ruseinis pastate [[objektai/daiktai/Medinis kryžius]]
+- Ruseinis keliavo į [[objektai/vietos/Baiga]]
+- Ruseinis pastatė [[objektai/daiktai/Medinis kryžius]]

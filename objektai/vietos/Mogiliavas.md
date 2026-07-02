@@ -89,8 +89,8 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] uzeme Mogiliavas
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] valde_miesta Mogiliavas
-- [[objektai/grupes/Rusai]] puole Mogiliavas
-- [[objektai/asmenys/M. K. Pacas]] apgule Mogiliavas
-- Mogiliavas priklause [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- Buvo valdoma: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- Puolė Mogiliavą: [[objektai/grupes/Rusai]]
+- Apgulė Mogiliavą: [[objektai/asmenys/M. K. Pacas]]
+- Užėmė Mogiliavą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Mogiliavas priklausė [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]

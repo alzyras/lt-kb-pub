@@ -178,7 +178,7 @@ Petras I Didysis buvo Maskvos caras, XVIII a. pradžioje siekęs Rusijai prasive
     - t-003
 
 ## Ryšiai
-- Petras I Didysis sudare_sutarti_su [[objektai/asmenys/Augustas II]]
-- Petras I Didysis valde [[objektai/vietos/Rusija]]
-- Petras I Didysis kariavo_pries [[objektai/grupes/Švedai]]
-- Petras I Didysis surenge_zygi_i [[objektai/vietos/Baltija]]
+- Petras I Didysis valdė [[objektai/vietos/Rusija]]
+- Petras I Didysis surengė žygį į [[objektai/vietos/Baltija]]
+- Petras I Didysis kariavo prieš [[objektai/grupes/Švedai]]
+- Petras I Didysis sudarė sutartį su [[objektai/asmenys/Augustas II]]

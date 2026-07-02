@@ -192,4 +192,4 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] uzeme Plockas
+- Užėmė Plocką: [[objektai/grupes/Lietuviai]]

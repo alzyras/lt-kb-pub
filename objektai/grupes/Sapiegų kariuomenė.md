@@ -88,4 +88,4 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos bajorija]] buvo_priesas Sapiegų kariuomenė
+- Priešai: [[objektai/grupes/Lietuvos bajorija]]

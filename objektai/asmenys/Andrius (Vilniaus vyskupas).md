@@ -50,4 +50,4 @@ Vilniaus vyskupas Andrius buvo kilęs iš Vilniaus ir garsėjo šventųjų moksl
     - t-001
 
 ## Ryšiai
-- Andrius (Vilniaus vyskupas) gime [[objektai/vietos/Vilnius]]
+- Andrius (Vilniaus vyskupas) gimė [[objektai/vietos/Vilnius]]

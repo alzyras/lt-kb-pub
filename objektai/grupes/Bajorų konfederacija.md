@@ -79,5 +79,5 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
     - t-002
 
 ## Ryšiai
-- Bajorų konfederacija kariavo_pries [[objektai/grupes/Švedai]]
-- Bajorų konfederacija reme [[objektai/asmenys/Jonas Kazimieras Vaza]]
+- Bajorų konfederacija kariavo prieš [[objektai/grupes/Švedai]]
+- Bajorų konfederacija rėmė [[objektai/asmenys/Jonas Kazimieras Vaza]]

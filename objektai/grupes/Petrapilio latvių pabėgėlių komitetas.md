@@ -43,4 +43,4 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
     - t-001
 
 ## Ryšiai
-- Petrapilio latvių pabėgėlių komitetas (institucija) buvo_sajungininkas_su [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
+- Sąjungininkai: [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]

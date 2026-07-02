@@ -64,4 +64,4 @@ Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuo
     - t-001
 
 ## Ryšiai
-- Ibrahimas kariavo_pries [[objektai/grupes/Lietuviai]]
+- Ibrahimas kariavo prieš [[objektai/grupes/Lietuviai]]

@@ -40,4 +40,4 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
     - t-001
 
 ## Ryšiai
-- Jurgis (Lengvenio sūnus) buvo_sunus [[objektai/asmenys/Lengvenis]]
+- Tėvai: [[objektai/asmenys/Lengvenis]]

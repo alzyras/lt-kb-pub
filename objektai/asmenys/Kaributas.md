@@ -243,14 +243,12 @@ Kaributas buvo Jogailos brolis ir Naugardo Sieversko kunigaikštis, minimas XIV 
     - t-005
 
 ## Ryšiai
-- Kaributas buvo_sunus [[objektai/asmenys/Julijona]]
-- Kaributas keliavo_i [[objektai/vietos/Čekija]]
-- Kaributas kariavo_pries [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- Kaributas reme [[objektai/grupes/Husitai]]
-- Kaributas valde [[objektai/vietos/Severskas]]
-- Kaributas buvo_sajungininkas_su [[objektai/asmenys/Prokopas]]
-- Kaributas buvo_priesas [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Kaributas keliavo_i [[objektai/vietos/Naugardukas]]
-- Kaributas valde [[objektai/vietos/Naugardas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] paskyre Kaributas
-- Kaributas gyne [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Tėvai: [[objektai/asmenys/Julijona]]
+- Priešai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Sąjungininkai: [[objektai/asmenys/Prokopas]]
+- Paskyrė Kaributą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Kaributas valdė [[objektai/vietos/Naugardas]], [[objektai/vietos/Severskas]]
+- Kaributas keliavo į [[objektai/vietos/Čekija]], [[objektai/vietos/Naugardukas]]
+- Kaributas gynė [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Kaributas kariavo prieš [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- Kaributas rėmė [[objektai/grupes/Husitai]]

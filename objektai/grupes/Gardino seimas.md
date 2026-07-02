@@ -129,4 +129,4 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Rusai]] apgule Gardino seimas
+- Apgulė Gardino seimą: [[objektai/grupes/Rusai]]

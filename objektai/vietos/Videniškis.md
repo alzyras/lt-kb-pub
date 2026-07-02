@@ -60,4 +60,4 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/M. Butkievičiaus kavalerijos brigada]] keliavo_i Videniškis
+- Buvo kelionės vieta: [[objektai/grupes/M. Butkievičiaus kavalerijos brigada]]

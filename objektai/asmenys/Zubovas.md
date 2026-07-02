@@ -47,4 +47,4 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
     - t-001
 
 ## Ryšiai
-- Zubovas puole [[objektai/vietos/Liepkalnis]]
+- Zubovas puolė [[objektai/vietos/Liepkalnis]]

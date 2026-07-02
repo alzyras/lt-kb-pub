@@ -115,4 +115,4 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
     - t-002
 
 ## Ryšiai
-- Vyriausiasis Lietuvos tribunolas priklause [[objektai/vietos/Lietuva]]
+- Vyriausiasis Lietuvos tribunolas priklausė [[objektai/vietos/Lietuva]]

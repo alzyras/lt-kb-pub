@@ -52,4 +52,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Rusai]] uzeme Vilijandis
+- Užėmė Vilijandį: [[objektai/grupes/Rusai]]

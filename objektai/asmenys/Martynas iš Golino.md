@@ -576,15 +576,10 @@ Martynas iš Golino šaltiniuose minimas kaip Ordino labui veikęs „krikščio
     - t-016
 
 ## Ryšiai
-- Martynas iš Golino puole [[objektai/grupes/Sūduviai]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Rudinas]]
-- Martynas iš Golino puole [[objektai/vietos/Kaimas]]
-- Martynas iš Golino uzeme [[objektai/vietos/Kaimas]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Torunė]]
-- Martynas iš Golino reme [[objektai/grupes/Kryžiuočių ordinas]]
-- Martynas iš Golino buvo_sajungininkas_su [[objektai/asmenys/Pelužis]]
-- Martynas iš Golino surenge_zygi_i [[objektai/vietos/Sūduva]]
-- Martynas iš Golino uzeme [[objektai/vietos/Sūduva]]
-- Martynas iš Golino puole [[objektai/vietos/Sūduva]]
-- [[objektai/asmenys/Mikalojus Radvila]] reme Martynas iš Golino
-- [[objektai/asmenys/Pelužis]] buvo_sajungininkas_su Martynas iš Golino
+- Sąjungininkai: [[objektai/asmenys/Pelužis]]
+- Rėmė Martynas iš Golino: [[objektai/asmenys/Mikalojus Radvila]]
+- Martynas iš Golino keliavo į [[objektai/vietos/Rudinas]], [[objektai/vietos/Torunė]]
+- Martynas iš Golino puolė [[objektai/vietos/Kaimas]], [[objektai/vietos/Sūduva]], [[objektai/grupes/Sūduviai]]
+- Martynas iš Golino užėmė [[objektai/vietos/Kaimas]], [[objektai/vietos/Sūduva]]
+- Martynas iš Golino surengė žygį į [[objektai/vietos/Sūduva]]
+- Martynas iš Golino rėmė [[objektai/grupes/Kryžiuočių ordinas]]

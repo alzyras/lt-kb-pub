@@ -109,4 +109,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Karaliaus Žygimanto Senojo knygos Vilniaus pilyje priklause [[objektai/asmenys/Žygimantas Senasis]]
+- Karaliaus Žygimanto Senojo knygos Vilniaus pilyje priklausė [[objektai/asmenys/Žygimantas Senasis]]

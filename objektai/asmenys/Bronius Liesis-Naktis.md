@@ -53,4 +53,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Bronius Liesis-Naktis mire [[objektai/vietos/Užpelkiai]]
+- Bronius Liesis-Naktis mirė [[objektai/vietos/Užpelkiai]]

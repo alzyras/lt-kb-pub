@@ -74,7 +74,6 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos bajorija]] buvo_priesas Sapiegos
-- Sapiegos buvo_sajungininkas_su [[objektai/grupes/Švedai]]
-- Sapiegos keliavo_i [[objektai/vietos/Vilnius]]
-- Sapiegos keliavo_i [[objektai/vietos/Viena]]
+- Priešai: [[objektai/grupes/Lietuvos bajorija]]
+- Sąjungininkai: [[objektai/grupes/Švedai]]
+- Sapiegos keliavo į [[objektai/vietos/Viena]], [[objektai/vietos/Vilnius]]

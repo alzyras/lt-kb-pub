@@ -61,4 +61,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/J. Šarauskas]] siunte_i Paobeliai
+- Buvo siuntimo vieta: [[objektai/asmenys/J. Šarauskas]]

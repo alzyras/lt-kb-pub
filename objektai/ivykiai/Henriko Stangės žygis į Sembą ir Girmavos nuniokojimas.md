@@ -118,4 +118,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Hermanas]] dalyvavo_musyje Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas
+- Turėjo dalyvį: [[objektai/asmenys/Hermanas]]

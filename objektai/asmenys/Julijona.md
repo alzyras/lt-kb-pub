@@ -265,9 +265,6 @@ Julijona šaltiniuose pirmiausia siejama su Algirdu, Jogaila ir Tverės valdovų
     - t-008
 
 ## Ryšiai
-- [[objektai/asmenys/Kaributas]] buvo_sunus Julijona
-- [[objektai/asmenys/Karigaila]] buvo_sunus Julijona
-- Julijona buvo_zmona [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Julijona buvo_zmona [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Švitrigaila]] buvo_sunus Julijona
-- [[objektai/asmenys/Paulius Rusdorfas]] reme Julijona
+- Vyrai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Sūnūs: [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Karigaila]], [[objektai/asmenys/Švitrigaila]]
+- Rėmė Julijoną: [[objektai/asmenys/Paulius Rusdorfas]]

@@ -115,6 +115,6 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Teodoras (Karijoto sūnus)]] buvo_sunus Karijotas
-- Karijotas buvo_brolis [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Karijotas valde_miesta [[objektai/vietos/Naugardukas]]
+- Sūnūs: [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
+- Broliai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Karijotas valdė [[objektai/vietos/Naugardukas]]

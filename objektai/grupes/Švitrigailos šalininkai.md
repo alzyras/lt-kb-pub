@@ -82,4 +82,4 @@ tags:
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] kariavo_pries Švitrigailos šalininkai
+- Kariavo prieš: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

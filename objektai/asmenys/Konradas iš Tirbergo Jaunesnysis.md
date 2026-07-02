@@ -137,5 +137,5 @@ Konradas iš Tirbergo Jaunesnysis buvo Prūsijos žemės maršalas ir dvyliktas 
     - t-001
 
 ## Ryšiai
-- Konradas iš Tirbergo Jaunesnysis puole [[objektai/vietos/Sūduva]]
-- Konradas iš Tirbergo Jaunesnysis keliavo_i [[objektai/vietos/Nagutinas]]
+- Konradas iš Tirbergo Jaunesnysis keliavo į [[objektai/vietos/Nagutinas]]
+- Konradas iš Tirbergo Jaunesnysis puolė [[objektai/vietos/Sūduva]]

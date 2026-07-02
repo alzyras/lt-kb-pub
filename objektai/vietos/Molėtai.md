@@ -56,4 +56,4 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] uzeme Molėtai
+- Užėmė Molėtai: [[objektai/grupes/Lenkai]]

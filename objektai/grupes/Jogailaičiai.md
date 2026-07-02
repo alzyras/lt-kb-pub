@@ -158,5 +158,4 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Motiejus Huniadis]] buvo_priesas Jogailaičiai
-- [[objektai/grupes/Habsburgai]] buvo_priesas Jogailaičiai
+- Priešai: [[objektai/grupes/Habsburgai]], [[objektai/asmenys/Motiejus Huniadis]]

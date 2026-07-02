@@ -384,13 +384,8 @@ Drohičinas Lietuvos istorijos šaltiniuose minimas kaip svarbi Palenkės vieta,
     - t-012
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Drohičinas
-- [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]] uzeme Drohičinas
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzeme Drohičinas
-- Drohičinas priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Jurgis Nosuta]] valde_miesta Drohičinas
-- [[objektai/asmenys/Švitrigaila]] puole Drohičinas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Drohičinas
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] uzeme Drohičinas
-- Drohičinas priklause [[objektai/vietos/Mazovija]]
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Drohičinas
+- Buvo valdoma: [[objektai/asmenys/Jurgis Nosuta]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Drohičiną: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Švitrigaila]]
+- Užėmė Drohičiną: [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Drohičinas priklausė [[objektai/vietos/Lietuva]], [[objektai/vietos/Mazovija]]

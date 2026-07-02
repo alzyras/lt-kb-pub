@@ -186,5 +186,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Vytis priklause [[objektai/vietos/Vilnius]]
-- Vytis priklause [[objektai/vietos/Lietuva]]
+- Vytis priklausė [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

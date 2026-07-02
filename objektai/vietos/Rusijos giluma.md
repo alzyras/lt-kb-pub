@@ -43,4 +43,4 @@ Narbuto pastaboje Rusijos gilumoje gyvenantys mordviai iki šiol laikėsi papro�
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Mordviai]] gyveno Rusijos giluma
+- Gyvenamoji vieta: [[objektai/grupes/Mordviai]]

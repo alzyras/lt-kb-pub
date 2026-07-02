@@ -592,8 +592,6 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     - t-022
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Dubysa
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Dubysa
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Dubysa
-- Dubysa priklause [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Dubysa
+- Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Dubysą: [[objektai/grupes/Kryžiuočių ordinas]]
+- Dubysa priklausė [[objektai/vietos/Lietuva]]

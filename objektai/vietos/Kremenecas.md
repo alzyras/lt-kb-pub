@@ -95,4 +95,4 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
     - t-002
 
 ## Ryšiai
-- Kremenecas priklause [[objektai/vietos/Volynija]]
+- Kremenecas priklausė [[objektai/vietos/Volynija]]

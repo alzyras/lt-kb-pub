@@ -43,4 +43,4 @@ Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miesta
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Nerčia]] priklause Rytų Sibiras
+- Turėjo priklausinį: [[objektai/vietos/Nerčia]]

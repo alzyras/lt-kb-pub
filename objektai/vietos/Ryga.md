@@ -677,20 +677,13 @@ Ryga Lietuvos istorijoje minima kaip svarbus prekybos centras prie Dauguvos keli
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Bertoldas]] mire Ryga
-- [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]] keliavo_i Ryga
-- [[objektai/asmenys/Steponas Batoras]] uzkariavo Ryga
-- [[objektai/vietos/Vilnius]] prekiavo_su Ryga
-- Ryga prekiavo_su [[objektai/vietos/Polockas]]
-- Ryga priklause [[objektai/vietos/Švedija]]
-- [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]] keliavo_i Ryga
-- [[objektai/asmenys/Jonas Karolis Katkevičius]] gyne Ryga
-- Ryga priklause [[objektai/grupes/Švedai]]
-- [[objektai/grupes/Domininkonų ordinas]] gyveno Ryga
-- [[objektai/vietos/Livonija]] priklause Ryga
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Ryga
-- [[objektai/vietos/Lietuva]] prekiavo_su Ryga
-- Ryga priklause [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Naugardas]] prekiavo_su Ryga
-- Ryga priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- Ryga prekiavo_su [[objektai/vietos/Lietuva]]
+- Buvo kelionės vieta: [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]], [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]]
+- Mirties vieta: [[objektai/asmenys/Bertoldas]]
+- Puolė Rygą: [[objektai/grupes/Kryžiuočių ordinas]]
+- Gynė Rygą: [[objektai/asmenys/Jonas Karolis Katkevičius]]
+- Prekiavo su: [[objektai/vietos/Lietuva]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Vilnius]]
+- Buvo užkariauta: [[objektai/asmenys/Steponas Batoras]]
+- Gyvenamoji vieta: [[objektai/grupes/Domininkonų ordinas]]
+- Turėjo priklausinį: [[objektai/vietos/Livonija]]
+- Ryga prekiavo su [[objektai/vietos/Lietuva]], [[objektai/vietos/Polockas]]
+- Ryga priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Livonija]], [[objektai/grupes/Švedai]], [[objektai/vietos/Švedija]]

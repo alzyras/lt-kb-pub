@@ -83,4 +83,4 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
     - t-001
 
 ## Ryšiai
-- P. Lukšio rinktinė priklause [[objektai/grupes/Prisikėlimo apygarda]]
+- P. Lukšio rinktinė priklausė [[objektai/grupes/Prisikėlimo apygarda]]

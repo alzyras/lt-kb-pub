@@ -50,4 +50,4 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
     - t-001
 
 ## Ryšiai
-- Jurgis Gedgaudas keliavo_i [[objektai/vietos/Konstanca]]
+- Jurgis Gedgaudas keliavo į [[objektai/vietos/Konstanca]]

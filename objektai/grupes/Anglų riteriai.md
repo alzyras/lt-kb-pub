@@ -55,5 +55,5 @@ Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius
     - t-001
 
 ## Ryšiai
-- Anglų riteriai kariavo_pries [[objektai/grupes/Lietuviai]]
-- Anglų riteriai buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Anglų riteriai kariavo prieš [[objektai/grupes/Lietuviai]]

@@ -174,4 +174,4 @@ periodo_grupes:
     - t-004
 
 ## Ryšiai
-- Romas Kalanta mire [[objektai/vietos/Kaunas]]
+- Romas Kalanta mirė [[objektai/vietos/Kaunas]]

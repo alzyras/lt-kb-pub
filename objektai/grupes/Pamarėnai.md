@@ -82,6 +82,4 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Jotvingiai]] buvo_sajungininkas_su Pamarėnai
-- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Pamarėnai
-- Pamarėnai buvo_sajungininkas_su [[objektai/grupes/Jotvingiai]]
+- Sąjungininkai: [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Lietuviai]]

@@ -56,4 +56,4 @@ Radvilos pajėgos.
     - t-001
 
 ## Ryšiai
-- J. Radvila surenge_zygi_i [[objektai/vietos/Lojevas]]
+- J. Radvila surengė žygį į [[objektai/vietos/Lojevas]]

@@ -75,6 +75,6 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     - t-001
 
 ## Ryšiai
-- Timuras puole [[objektai/asmenys/Tochtamišas]]
-- Timuras reme [[objektai/asmenys/Tochtamišas]]
-- Timuras kariavo_pries [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Timuras puolė [[objektai/asmenys/Tochtamišas]]
+- Timuras kariavo prieš [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Timuras rėmė [[objektai/asmenys/Tochtamišas]]

@@ -54,5 +54,5 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
     - t-001
 
 ## Ryšiai
-- Otonas iš Cedlico siunte_i [[objektai/vietos/Ragainė]]
-- Otonas iš Cedlico surenge_zygi_i [[objektai/vietos/Pieštvė]]
+- Otonas iš Cedlico siuntė į [[objektai/vietos/Ragainė]]
+- Otonas iš Cedlico surengė žygį į [[objektai/vietos/Pieštvė]]

@@ -242,4 +242,4 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
     - t-007
 
 ## Ryšiai
-- [[objektai/vietos/Lietuva]] prekiavo_su Egiptiečiai
+- Prekiavo su: [[objektai/vietos/Lietuva]]

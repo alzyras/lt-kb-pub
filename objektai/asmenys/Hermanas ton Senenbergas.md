@@ -48,4 +48,4 @@ Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuoli
     - t-001
 
 ## Ryšiai
-- Hermanas ton Senenbergas gyne [[objektai/vietos/Kulmas]]
+- Hermanas ton Senenbergas gynė [[objektai/vietos/Kulmas]]

@@ -55,4 +55,4 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
     - t-001
 
 ## Ryšiai
-- Bousas (didikas, XVI a.) buvo_palaidotas [[objektai/vietos/Bouso kapinės]]
+- Bousas (didikas, XVI a.) buvo palaidotas [[objektai/vietos/Bouso kapinės]]

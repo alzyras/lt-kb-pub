@@ -107,4 +107,4 @@ Kolomyja aiškinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nu
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Steponas]] keliavo_i Kolomyja
+- Buvo kelionės vieta: [[objektai/asmenys/Steponas]]

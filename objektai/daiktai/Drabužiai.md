@@ -144,4 +144,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Drabužiai priklause [[objektai/vietos/Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)]]
+- Drabužiai priklausė [[objektai/vietos/Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)]]

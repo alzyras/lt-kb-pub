@@ -50,4 +50,4 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Kaimas]] priklause Loza
+- Turėjo priklausinį: [[objektai/vietos/Kaimas]]

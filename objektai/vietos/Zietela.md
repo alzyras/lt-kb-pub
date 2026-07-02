@@ -49,4 +49,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] gyveno Zietela
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

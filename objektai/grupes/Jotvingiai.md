@@ -440,16 +440,10 @@ Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija �
     - t-016
 
 ## Ryšiai
-- [[objektai/grupes/Vokiečių ordinas]] uzkariavo Jotvingiai
-- Jotvingiai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Jotvingiai
-- Jotvingiai kariavo_pries [[objektai/grupes/Rusai]]
-- Jotvingiai buvo_sajungininkas_su [[objektai/grupes/Pamarėnai]]
-- Jotvingiai puole [[objektai/vietos/Liublinas]]
-- [[objektai/grupes/Pamarėnai]] buvo_sajungininkas_su Jotvingiai
-- [[objektai/vietos/Jotvingija]] priklause Jotvingiai
-- Jotvingiai priklause [[objektai/grupes/Baltai]]
-- Jotvingiai kariavo_pries [[objektai/grupes/Vokiečiai]]
-- Jotvingiai puole [[objektai/vietos/Sandomierius]]
-- Jotvingiai gyveno [[objektai/vietos/Jotvingija]]
-- Jotvingiai gyveno [[objektai/vietos/Suvalkai]]
+- Sąjungininkai: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Pamarėnai]]
+- Buvo užkariauta: [[objektai/grupes/Vokiečių ordinas]]
+- Turėjo priklausinį: [[objektai/vietos/Jotvingija]]
+- Jotvingiai puolė [[objektai/vietos/Liublinas]], [[objektai/vietos/Sandomierius]]
+- Jotvingiai kariavo prieš [[objektai/grupes/Rusai]], [[objektai/grupes/Vokiečiai]]
+- Jotvingiai gyveno [[objektai/vietos/Jotvingija]], [[objektai/vietos/Suvalkai]]
+- Jotvingiai priklausė [[objektai/grupes/Baltai]]

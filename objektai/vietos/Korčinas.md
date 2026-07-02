@@ -66,5 +66,5 @@ atnaujinta: ''
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Korčinas
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] keliavo_i Korčinas
+- Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

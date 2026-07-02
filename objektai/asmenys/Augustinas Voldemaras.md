@@ -510,7 +510,5 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     - t-020
 
 ## Ryšiai
-- Augustinas Voldemaras keliavo_i [[objektai/vietos/Kaunas]]
-- Augustinas Voldemaras keliavo_i [[objektai/vietos/Paryžius]]
-- [[objektai/grupes/Voldemarininkai]] reme Augustinas Voldemaras
-- Augustinas Voldemaras keliavo_i [[objektai/vietos/Ženeva]]
+- Rėmė Augustinas Voldemarą: [[objektai/grupes/Voldemarininkai]]
+- Augustinas Voldemaras keliavo į [[objektai/vietos/Kaunas]], [[objektai/vietos/Paryžius]], [[objektai/vietos/Ženeva]]

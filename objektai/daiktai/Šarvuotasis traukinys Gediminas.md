@@ -164,5 +164,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- Šarvuotasis traukinys Gediminas priklause [[objektai/vietos/Lietuva]]
-- Šarvuotasis traukinys Gediminas priklause [[objektai/vietos/Kaunas]]
+- Šarvuotasis traukinys Gediminas priklausė [[objektai/vietos/Kaunas]], [[objektai/vietos/Lietuva]]

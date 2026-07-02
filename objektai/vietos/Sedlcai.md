@@ -68,6 +68,4 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
     - t-002
 
 ## Ryšiai
-- Sedlcai priklause [[objektai/vietos/Kujavija]]
-- Sedlcai priklause [[objektai/grupes/Dobrynės broliai]]
-- Sedlcai priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Sedlcai priklausė [[objektai/grupes/Dobrynės broliai]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Kujavija]]

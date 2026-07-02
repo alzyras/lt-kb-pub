@@ -46,4 +46,4 @@ Dusburgietis teigia, kad tuo tarpu lietuviai savo dievams kaip auką sudegino br
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Gerhardas, pravarde Rudė
+- Puolė Gerhardas, pravarde Rudę: [[objektai/grupes/Lietuviai]]

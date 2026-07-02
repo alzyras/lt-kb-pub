@@ -151,4 +151,4 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
     - t-004
 
 ## Ryšiai
-- Vasilijus (Maskvos kunigaikštis) kariavo_pries [[objektai/asmenys/Žygimantas]]
+- Vasilijus (Maskvos kunigaikštis) kariavo prieš [[objektai/asmenys/Žygimantas]]

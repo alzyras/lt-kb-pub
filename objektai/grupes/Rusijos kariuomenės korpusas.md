@@ -70,6 +70,6 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
     - t-002
 
 ## Ryšiai
-- Rusijos kariuomenės korpusas puole [[objektai/vietos/Vilnius]]
-- Rusijos kariuomenės korpusas keliavo_i [[objektai/vietos/Vilnius]]
-- Rusijos kariuomenės korpusas dalyvavo_musyje [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)]]
+- Rusijos kariuomenės korpusas keliavo į [[objektai/vietos/Vilnius]]
+- Rusijos kariuomenės korpusas puolė [[objektai/vietos/Vilnius]]
+- Rusijos kariuomenės korpusas dalyvavo mūšyje [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)]]

@@ -70,5 +70,5 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
     - t-001
 
 ## Ryšiai
-- Senasis Kristburgas priklause [[objektai/grupes/Pamedėnai]]
-- [[objektai/grupes/Pamedėnai]] gyveno Senasis Kristburgas
+- Gyvenamoji vieta: [[objektai/grupes/Pamedėnai]]
+- Senasis Kristburgas priklausė [[objektai/grupes/Pamedėnai]]

@@ -86,6 +86,5 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
     - t-002
 
 ## Ryšiai
-- Bona Sforca keliavo_i [[objektai/vietos/Lenkija]]
-- Bona Sforca keliavo_i [[objektai/vietos/Lietuva]]
-- Bona Sforca pastate [[objektai/vietos/Vilnius]]
+- Bona Sforca keliavo į [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]
+- Bona Sforca pastatė [[objektai/vietos/Vilnius]]

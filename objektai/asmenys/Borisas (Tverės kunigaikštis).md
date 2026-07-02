@@ -118,7 +118,7 @@ periodo_grupes:
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Sofija (Švitrigailos žmona)]] buvo_dukte Borisas (Tverės kunigaikštis)
-- Borisas (Tverės kunigaikštis) valde [[objektai/vietos/Tverė]]
+- Dukterys: [[objektai/asmenys/Sofija (Švitrigailos žmona)]]
+- Borisas (Tverės kunigaikštis) valdė [[objektai/vietos/Tverė]]
+- Borisas (Tverės kunigaikštis) keliavo į [[objektai/vietos/Krokuva]]
 - Borisas (Tverės kunigaikštis) gyveno [[objektai/vietos/Podolė]]
-- Borisas (Tverės kunigaikštis) keliavo_i [[objektai/vietos/Krokuva]]

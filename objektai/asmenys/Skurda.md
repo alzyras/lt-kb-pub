@@ -46,4 +46,4 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
     - t-001
 
 ## Ryšiai
-- Skurda keliavo_i [[objektai/vietos/Lietuva]]
+- Skurda keliavo į [[objektai/vietos/Lietuva]]

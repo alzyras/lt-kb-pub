@@ -56,4 +56,4 @@ Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo 
     - t-001
 
 ## Ryšiai
-- Andrius (račius) keliavo_i [[objektai/vietos/Kristburgas]]
+- Andrius (račius) keliavo į [[objektai/vietos/Kristburgas]]

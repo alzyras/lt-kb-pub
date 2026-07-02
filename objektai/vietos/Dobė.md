@@ -54,4 +54,4 @@ Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiem�
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Dobė
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

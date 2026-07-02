@@ -50,4 +50,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Vilhelmas fon Helfelšteinas surenge_zygi_i [[objektai/vietos/Vilnius]]
+- Vilhelmas fon Helfelšteinas surengė žygį į [[objektai/vietos/Vilnius]]

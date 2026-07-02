@@ -158,4 +158,4 @@ K. Škirpa minimas kaip 1919 m. Vilniaus bataliono ir kairiosios kolonos vadas. 
     - t-006
 
 ## Ryšiai
-- K. Škirpa puole [[objektai/vietos/Suvalkai]]
+- K. Škirpa puolė [[objektai/vietos/Suvalkai]]

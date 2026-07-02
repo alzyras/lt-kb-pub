@@ -64,5 +64,5 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
     - t-001
 
 ## Ryšiai
-- Aukštaitija priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Burundajus]] puole Aukštaitija
+- Puolė Aukštaitiją: [[objektai/asmenys/Burundajus]]
+- Aukštaitija priklausė [[objektai/vietos/Lietuva]]

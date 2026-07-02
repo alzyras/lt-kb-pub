@@ -173,5 +173,5 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]] puole Poleksija
-- Poleksija priklause [[objektai/grupes/Lietuviai]]
+- Puolė Poleksiją: [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]
+- Poleksija priklausė [[objektai/grupes/Lietuviai]]

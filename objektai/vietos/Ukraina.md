@@ -320,9 +320,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     - t-008
 
 ## Ryšiai
-- Ukraina priklause [[objektai/vietos/Lenkija]]
-- [[objektai/asmenys/Švitrigaila]] keliavo_i Ukraina
-- Ukraina priklause [[objektai/vietos/Rusija]]
-- [[objektai/grupes/Lietuvių policijos savisaugos batalionai]] puole Ukraina
-- [[objektai/vietos/Voluinė]] priklause Ukraina
-- [[objektai/grupes/Agentai-smogikai]] gyveno Ukraina
+- Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]
+- Puolė Ukrainą: [[objektai/grupes/Lietuvių policijos savisaugos batalionai]]
+- Gyvenamoji vieta: [[objektai/grupes/Agentai-smogikai]]
+- Turėjo priklausinį: [[objektai/vietos/Voluinė]]
+- Ukraina priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Rusija]]

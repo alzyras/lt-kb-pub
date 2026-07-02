@@ -75,6 +75,5 @@ tags:
     - t-002
 
 ## Ryšiai
-- Vyšnivecis priklause [[objektai/grupes/Vyšnioveckiai]]
-- [[objektai/grupes/Vyšnioveckiai]] valde_teritorija Vyšnivecis
-- Vyšnivecis priklause [[objektai/vietos/Voluinė]]
+- Buvo valdoma: [[objektai/grupes/Vyšnioveckiai]]
+- Vyšnivecis priklausė [[objektai/vietos/Voluinė]], [[objektai/grupes/Vyšnioveckiai]]

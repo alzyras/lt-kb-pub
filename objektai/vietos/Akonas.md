@@ -254,8 +254,6 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Otonas]] buvo_palaidotas Akonas
-- [[objektai/asmenys/Henrikas Valpotas]] buvo_palaidotas Akonas
-- [[objektai/asmenys/Hermanas Bartas]] buvo_palaidotas Akonas
-- [[objektai/asmenys/Henrikas Valpotas]] pastate Akonas
-- [[objektai/asmenys/Otonas]] mire Akonas
+- Mirties vieta: [[objektai/asmenys/Otonas]]
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Henrikas Valpotas]], [[objektai/asmenys/Hermanas Bartas]], [[objektai/asmenys/Otonas]]
+- Buvo pastatyta: [[objektai/asmenys/Henrikas Valpotas]]

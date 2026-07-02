@@ -1055,15 +1055,12 @@ periodo_grupes: []
     - t-034
 
 ## Ryšiai
-- Žygimantas Senasis paskyre [[objektai/asmenys/Jonas Hozijus]]
-- Žygimantas Senasis buvo_valdovas [[objektai/vietos/Lenkija]]
-- Žygimantas Senasis buvo_valdovas [[objektai/vietos/Lietuva]]
-- Žygimantas Senasis valde [[objektai/vietos/Lietuva]]
-- Žygimantas Senasis keliavo_i [[objektai/vietos/Vilnius]]
-- [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]] priklause Žygimantas Senasis
-- Žygimantas Senasis paskyre [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Augustas]] buvo_sunus Žygimantas Senasis
-- Žygimantas Senasis buvo_valdovas [[objektai/vietos/Mazovija]]
-- Žygimantas Senasis buvo_priesas [[objektai/grupes/Bajorai]]
+- Sūnūs: [[objektai/asmenys/Augustas]]
+- Priešai: [[objektai/grupes/Bajorai]]
+- Turėjo priklausinį: [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
+- Žygimantas Senasis buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Mazovija]]
+- Žygimantas Senasis valdė [[objektai/vietos/Lietuva]]
+- Žygimantas Senasis keliavo į [[objektai/vietos/Vilnius]]
 - Žygimantas Senasis gyveno [[objektai/vietos/Merkys]]
-- Žygimantas Senasis reme [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- Žygimantas Senasis paskyrė [[objektai/asmenys/Augustas]], [[objektai/asmenys/Jonas Hozijus]]
+- Žygimantas Senasis rėmė [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]

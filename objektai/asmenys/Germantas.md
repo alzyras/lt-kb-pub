@@ -272,11 +272,10 @@ Germantas Lietuvos kronikose vaizduojamas kaip kunigaikščio Šventaragio sūnu
     - t-007
 
 ## Ryšiai
-- [[objektai/asmenys/Giliginas]] buvo_sunus Germantas
-- [[objektai/asmenys/Šventaragis]] paskyre Germantas
-- Germantas buvo_sunus [[objektai/asmenys/Šventaragis]]
-- Germantas mire [[objektai/vietos/Lietuva]]
-- Germantas buvo_sajungininkas_su [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Šventaragis]] buvo_sunus Germantas
-- Germantas buvo_valdovas [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Kryžiuočių ordinas]] sudare_sutarti_su Germantas
+- Sūnūs: [[objektai/asmenys/Giliginas]], [[objektai/asmenys/Šventaragis]]
+- Tėvai: [[objektai/asmenys/Šventaragis]]
+- Sąjungininkai: [[objektai/grupes/Lenkai]]
+- Sudarė sutartį su: [[objektai/grupes/Kryžiuočių ordinas]]
+- Paskyrė Germantą: [[objektai/asmenys/Šventaragis]]
+- Germantas buvo valdovas [[objektai/vietos/Lietuva]]
+- Germantas mirė [[objektai/vietos/Lietuva]]

@@ -233,8 +233,6 @@ Ditrichas, Sembos fogtas 1278–1292 m., šaltiniuose minimas kaip brolis ir kar
     - t-003
 
 ## Ryšiai
-- Ditrichas (Sembos fogtas) puole [[objektai/vietos/Ragainė]]
-- Ditrichas (Sembos fogtas) surenge_zygi_i [[objektai/vietos/Nadruva]]
-- Ditrichas (Sembos fogtas) surenge_zygi_i [[objektai/vietos/Ragainė]]
-- Ditrichas (Sembos fogtas) reme [[objektai/grupes/Sembai]]
-- Ditrichas (Sembos fogtas) reme [[objektai/asmenys/Dargis]]
+- Ditrichas (Sembos fogtas) puolė [[objektai/vietos/Ragainė]]
+- Ditrichas (Sembos fogtas) surengė žygį į [[objektai/vietos/Nadruva]], [[objektai/vietos/Ragainė]]
+- Ditrichas (Sembos fogtas) rėmė [[objektai/asmenys/Dargis]], [[objektai/grupes/Sembai]]

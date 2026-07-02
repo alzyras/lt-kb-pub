@@ -52,4 +52,4 @@ Jono Kuklierio kūno 1920 m.
     - t-001
 
 ## Ryšiai
-- Jonas Kuklieris mire [[objektai/vietos/Vidugiriai]]
+- Jonas Kuklieris mirė [[objektai/vietos/Vidugiriai]]

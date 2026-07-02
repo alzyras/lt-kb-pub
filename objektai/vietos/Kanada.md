@@ -106,5 +106,5 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Huronai]] gyveno Kanada
-- [[objektai/grupes/Lietuviai]] keliavo_i Kanada
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
+- Gyvenamoji vieta: [[objektai/grupes/Huronai]]

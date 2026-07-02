@@ -67,4 +67,4 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Naujasis Gardinas
+- Puolė Naujasis Gardiną: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

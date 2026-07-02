@@ -69,5 +69,5 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
     - t-001
 
 ## Ryšiai
-- Hermanas iš Šenenbergo (karvedys, XIII a.) kariavo_pries [[objektai/grupes/Sūduviai]]
-- Hermanas iš Šenenbergo (karvedys, XIII a.) gyne [[objektai/vietos/Kulmas]]
+- Hermanas iš Šenenbergo (karvedys, XIII a.) gynė [[objektai/vietos/Kulmas]]
+- Hermanas iš Šenenbergo (karvedys, XIII a.) kariavo prieš [[objektai/grupes/Sūduviai]]

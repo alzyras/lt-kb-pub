@@ -52,4 +52,4 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
     - t-001
 
 ## Ryšiai
-- Naujoji Prūsija priklause [[objektai/vietos/Prūsija]]
+- Naujoji Prūsija priklausė [[objektai/vietos/Prūsija]]

@@ -58,4 +58,4 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Rygos vyskupija Rygos Bažnyčia
+- Puolė Rygos vyskupija Rygos Bažnyčią: [[objektai/grupes/Kryžiuočių ordinas]]

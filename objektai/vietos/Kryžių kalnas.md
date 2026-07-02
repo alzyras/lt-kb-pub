@@ -76,6 +76,6 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas Paulius II]] keliavo_i Kryžių kalnas
-- [[objektai/daiktai/Kryžių kalno kryžiai]] priklause Kryžių kalnas
-- Kryžių kalnas priklause [[objektai/vietos/Šiauliai]]
+- Buvo kelionės vieta: [[objektai/asmenys/Jonas Paulius II]]
+- Turėjo priklausinį: [[objektai/daiktai/Kryžių kalno kryžiai]]
+- Kryžių kalnas priklausė [[objektai/vietos/Šiauliai]]

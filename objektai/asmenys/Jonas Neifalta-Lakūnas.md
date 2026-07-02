@@ -99,4 +99,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras Podemanskas-Šarūnas]] reme Jonas Neifalta-Lakūnas
+- Rėmė Jonas Neifalta-Lakūną: [[objektai/asmenys/Aleksandras Podemanskas-Šarūnas]]

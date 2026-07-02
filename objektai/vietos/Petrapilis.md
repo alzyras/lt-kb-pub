@@ -106,6 +106,5 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Čartoriskiai]] siunte_i Petrapilis
-- [[objektai/grupes/Slavofilai]] gyveno Petrapilis
-- [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]] gyveno Petrapilis
+- Buvo siuntimo vieta: [[objektai/grupes/Čartoriskiai]]
+- Gyvenamoji vieta: [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]], [[objektai/grupes/Slavofilai]]

@@ -86,4 +86,4 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
     - t-002
 
 ## Ryšiai
-- Anzelmas (vyskupas, XIII a.) pastate [[objektai/vietos/Brunsbergas]]
+- Anzelmas (vyskupas, XIII a.) pastatė [[objektai/vietos/Brunsbergas]]

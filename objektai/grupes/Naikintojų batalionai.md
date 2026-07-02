@@ -40,5 +40,5 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
     - t-001
 
 ## Ryšiai
-- Naikintojų batalionai priklause [[objektai/grupes/NKVD]]
-- Naikintojų batalionai kariavo_pries [[objektai/grupes/Lietuviai]]
+- Naikintojų batalionai kariavo prieš [[objektai/grupes/Lietuviai]]
+- Naikintojų batalionai priklausė [[objektai/grupes/NKVD]]

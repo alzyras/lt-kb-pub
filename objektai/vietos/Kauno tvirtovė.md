@@ -56,4 +56,4 @@ Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams nusiaubus Li
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Vokiečiai]] uzeme Kauno tvirtovė
+- Užėmė Kauno tvirtovę: [[objektai/grupes/Vokiečiai]]

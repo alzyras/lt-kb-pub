@@ -535,11 +535,8 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     - t-017
 
 ## Ryšiai
-- [[objektai/asmenys/Burnaš Girėjus]] puole Sluckas
-- [[objektai/asmenys/Biti Girėjus]] puole Sluckas
-- [[objektai/grupes/Totoriai]] keliavo_i Sluckas
-- [[objektai/grupes/Totoriai]] puole Sluckas
-- [[objektai/grupes/Totoriai]] surenge_zygi_i Sluckas
-- [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai]] valde_miesta Sluckas
-- [[objektai/grupes/Lietuviai]] siunte_i Sluckas
-- [[objektai/grupes/Rusai]] siunte_i Sluckas
+- Buvo valdoma: [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai]]
+- Buvo kelionės vieta: [[objektai/grupes/Totoriai]]
+- Puolė Slucką: [[objektai/asmenys/Biti Girėjus]], [[objektai/asmenys/Burnaš Girėjus]], [[objektai/grupes/Totoriai]]
+- Buvo siuntimo vieta: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Rusai]]
+- Buvo žygio kryptis: [[objektai/grupes/Totoriai]]

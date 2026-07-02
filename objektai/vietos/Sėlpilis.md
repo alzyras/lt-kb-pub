@@ -64,4 +64,4 @@ Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pil�
     - t-001
 
 ## Ryšiai
-- Sėlpilis priklause [[objektai/vietos/Lietuva]]
+- Sėlpilis priklausė [[objektai/vietos/Lietuva]]

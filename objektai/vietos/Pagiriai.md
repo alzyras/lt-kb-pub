@@ -100,4 +100,4 @@ tags:
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] uzeme Pagiriai
+- Užėmė Pagiriai: [[objektai/grupes/Lenkai]]

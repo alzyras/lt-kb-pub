@@ -81,4 +81,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Giedraičių kautynės
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]]

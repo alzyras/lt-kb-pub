@@ -542,10 +542,8 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     - t-011
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Torunė
-- [[objektai/asmenys/Pipinas]] mire Torunė
-- [[objektai/asmenys/Skomantas]] puole Torunė
-- [[objektai/asmenys/Martynas iš Golino]] keliavo_i Torunė
-- [[objektai/vietos/Pilaitė]] priklause Torunė
-- [[objektai/grupes/Sūduviai]] puole Torunė
-- [[objektai/grupes/Teutonai]] pastate Torunė
+- Buvo kelionės vieta: [[objektai/asmenys/Martynas iš Golino]]
+- Mirties vieta: [[objektai/asmenys/Pipinas]]
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Teutonai]]
+- Puolė Torunę: [[objektai/asmenys/Skomantas]], [[objektai/grupes/Sūduviai]]
+- Turėjo priklausinį: [[objektai/vietos/Pilaitė]]

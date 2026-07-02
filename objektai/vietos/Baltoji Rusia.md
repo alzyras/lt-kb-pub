@@ -148,6 +148,6 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
     - t-001
 
 ## Ryšiai
-- Baltoji Rusia priklause [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Polockas]] priklause Baltoji Rusia
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]] valde_teritorija Baltoji Rusia
+- Buvo valdoma: [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- Turėjo priklausinį: [[objektai/vietos/Polockas]]
+- Baltoji Rusia priklausė [[objektai/vietos/Lietuva]]

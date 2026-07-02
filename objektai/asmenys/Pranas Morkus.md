@@ -63,4 +63,4 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
     - t-001
 
 ## Ryšiai
-- Pranas Morkus buvo_sajungininkas_su [[objektai/asmenys/Tomas Venclova]]
+- Sąjungininkai: [[objektai/asmenys/Tomas Venclova]]

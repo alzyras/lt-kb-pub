@@ -77,6 +77,4 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Petras Bartkus-Žadgaila]] mire Užpelkiai
-- [[objektai/asmenys/Bronius Liesis-Naktis]] mire Užpelkiai
-- [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]] mire Užpelkiai
+- Mirties vieta: [[objektai/asmenys/Bronius Liesis-Naktis]], [[objektai/asmenys/Petras Bartkus-Žadgaila]], [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]]

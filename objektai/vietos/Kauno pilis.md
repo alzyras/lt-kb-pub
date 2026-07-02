@@ -154,8 +154,7 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Kauno pilis (pilis)
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Kauno pilis (pilis)
-- [[objektai/grupes/Kryžiuočių ordinas]] apgule Kauno pilis (pilis)
-- Kauno pilis (pilis) priklause [[objektai/vietos/Kaunas]]
-- Kauno pilis (pilis) priklause [[objektai/vietos/Lietuva]]
+- Puolė Kauno pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]
+- Apgulė Kauno pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]
+- Užėmė Kauno pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]
+- Kauno pilis (pilis) priklausė [[objektai/vietos/Kaunas]], [[objektai/vietos/Lietuva]]

@@ -109,7 +109,4 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
     - t-003
 
 ## Ryšiai
-- Jogailaičių dinastija valde [[objektai/vietos/Lenkija]]
-- Jogailaičių dinastija valde [[objektai/vietos/Lietuva]]
-- Jogailaičių dinastija valde [[objektai/vietos/Vengrija]]
-- Jogailaičių dinastija valde [[objektai/vietos/Čekija]]
+- Jogailaičių dinastija valdė [[objektai/vietos/Čekija]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Vengrija]]

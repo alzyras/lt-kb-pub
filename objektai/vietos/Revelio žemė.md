@@ -98,4 +98,4 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Revelio žemė
+- Puolė Revelio žemę: [[objektai/grupes/Lietuviai]]

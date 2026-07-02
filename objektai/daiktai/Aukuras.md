@@ -196,6 +196,5 @@ Nenurodyta
     - t-007
 
 ## Ryšiai
-- [[objektai/asmenys/Birutė]] buvo_palaidotas Aukuras
-- Aukuras priklause [[objektai/vietos/Aleksotas]]
-- Aukuras priklause [[objektai/vietos/Romovė]]
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Birutė]]
+- Aukuras priklausė [[objektai/vietos/Aleksotas]], [[objektai/vietos/Romovė]]

@@ -305,5 +305,5 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - t-007
 
 ## Ryšiai
+- Vilniaus gyventojai gynė [[objektai/vietos/Vilnius]]
 - Vilniaus gyventojai gyveno [[objektai/vietos/Vilnius]]
-- Vilniaus gyventojai gyne [[objektai/vietos/Vilnius]]

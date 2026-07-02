@@ -147,7 +147,5 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Zemovitas]] buvo_valdovas Mozūrija
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]] puole Mozūrija
-- [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]] buvo_valdovas Mozūrija
-- [[objektai/asmenys/Mozūrų kunigaikštis Henrikas]] buvo_valdovas Mozūrija
+- Turėjo valdovą: [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]], [[objektai/asmenys/Mozūrų kunigaikštis Henrikas]], [[objektai/asmenys/Zemovitas]]
+- Puolė Mozūriją: [[objektai/asmenys/Dovydas (Gardino pilininkas)]]

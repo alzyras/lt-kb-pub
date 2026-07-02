@@ -92,4 +92,4 @@ amziai:
     - t-003
 
 ## Ryšiai
-- [[objektai/vietos/Ragutėniškiai]] priklause Lydos apskritis
+- Turėjo priklausinį: [[objektai/vietos/Ragutėniškiai]]

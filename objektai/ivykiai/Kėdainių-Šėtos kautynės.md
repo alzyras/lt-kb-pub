@@ -194,4 +194,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Kėdainių-Šėtos kautynės
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]]

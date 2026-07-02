@@ -382,23 +382,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] pastate Namas
-- Namas priklause [[objektai/grupes/Savickiai]]
-- Namas priklause [[objektai/asmenys/Česchonis]]
-- Namas priklause [[objektai/grupes/Neliubovičiai]]
-- Namas priklause [[objektai/asmenys/Povilas Piestavičius]]
-- Namas priklause [[objektai/asmenys/Erazmas Bretneris]]
-- Namas priklause [[objektai/grupes/Zalivskiai]]
-- Namas priklause [[objektai/asmenys/Parulis]]
-- Namas priklause [[objektai/asmenys/Cimermanas]]
-- Namas priklause [[objektai/asmenys/Mikalojus Radvila]]
-- Namas priklause [[objektai/asmenys/Sebastijonas Vitinskis]]
-- Namas priklause [[objektai/vietos/Kaunas]]
-- [[objektai/asmenys/Celestinas III]] pastate Namas
-- Namas priklause [[objektai/asmenys/Merkelis Geiša Eljaševičius]]
-- Namas priklause [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/asmenys/Popiežius Celestinas III]] pastate Namas
-- Namas priklause [[objektai/grupes/Teutonai]]
-- Namas priklause [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
-- Namas priklause [[objektai/asmenys/Paulius Bochenas]]
-- Namas priklause [[objektai/vietos/Valerijono bursos]]
+- Buvo pastatyta: [[objektai/asmenys/Celestinas III]], [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]], [[objektai/asmenys/Popiežius Celestinas III]]
+- Namas priklausė [[objektai/asmenys/Cimermanas]], [[objektai/asmenys/Česchonis]], [[objektai/asmenys/Erazmas Bretneris]], [[objektai/vietos/Kaunas]], [[objektai/asmenys/Merkelis Geiša Eljaševičius]], [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]], [[objektai/asmenys/Mikalojus Radvila]], [[objektai/grupes/Neliubovičiai]], [[objektai/asmenys/Parulis]], [[objektai/asmenys/Paulius Bochenas]], [[objektai/asmenys/Povilas Piestavičius]], [[objektai/grupes/Savickiai]], [[objektai/asmenys/Sebastijonas Vitinskis]], [[objektai/grupes/Teutonai]], [[objektai/vietos/Valerijono bursos]], [[objektai/grupes/Vilniaus kapitula]], [[objektai/grupes/Zalivskiai]]

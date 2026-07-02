@@ -52,5 +52,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Užvolgio totoriai puole [[objektai/vietos/Odojevas]]
-- Užvolgio totoriai puole [[objektai/vietos/Riazanė]]
+- Užvolgio totoriai puolė [[objektai/vietos/Odojevas]], [[objektai/vietos/Riazanė]]

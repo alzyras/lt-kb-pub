@@ -54,4 +54,4 @@ Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelt
     - t-001
 
 ## Ryšiai
-- Elbingo pilis (pilis) priklause [[objektai/vietos/Elbingas]]
+- Elbingo pilis (pilis) priklausė [[objektai/vietos/Elbingas]]

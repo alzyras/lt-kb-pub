@@ -138,4 +138,4 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
     - t-005
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] gyne Drevenca
+- Gynė Drevencą: [[objektai/grupes/Kryžiuočių ordinas]]

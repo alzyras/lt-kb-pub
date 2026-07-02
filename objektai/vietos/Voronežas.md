@@ -60,4 +60,4 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] gyveno Voronežas
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

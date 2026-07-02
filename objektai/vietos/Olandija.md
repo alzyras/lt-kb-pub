@@ -85,5 +85,5 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     - t-002
 
 ## Ryšiai
-- Olandija priklause [[objektai/vietos/Vakarų Europa]]
-- [[objektai/asmenys/Hugonas Butyras]] gime Olandija
+- Gimimo vieta: [[objektai/asmenys/Hugonas Butyras]]
+- Olandija priklausė [[objektai/vietos/Vakarų Europa]]

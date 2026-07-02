@@ -74,4 +74,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Juozas Zdebskis (kunigas) keliavo_i [[objektai/vietos/Maskva]]
+- Juozas Zdebskis (kunigas) keliavo į [[objektai/vietos/Maskva]]

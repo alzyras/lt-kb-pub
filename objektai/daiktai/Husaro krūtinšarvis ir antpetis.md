@@ -60,4 +60,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Husaro krūtinšarvis ir antpetis priklause [[objektai/grupes/Abiejų Tautų Respublika]]
+- Husaro krūtinšarvis ir antpetis priklausė [[objektai/grupes/Abiejų Tautų Respublika]]

@@ -67,5 +67,4 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] uzeme Vyžuonos
-- [[objektai/grupes/Vokiečiai]] uzeme Vyžuonos
+- Užėmė Vyžuonos: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vokiečiai]]

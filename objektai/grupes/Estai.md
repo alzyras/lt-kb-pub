@@ -196,5 +196,5 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Kalavijuočių ordinas]] uzkariavo Estai
-- Estai keliavo_i [[objektai/vietos/Baltija]]
+- Buvo užkariauta: [[objektai/grupes/Kalavijuočių ordinas]]
+- Estai keliavo į [[objektai/vietos/Baltija]]

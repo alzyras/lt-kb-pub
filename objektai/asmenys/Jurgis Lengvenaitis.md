@@ -48,5 +48,5 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
     - t-001
 
 ## Ryšiai
-- Jurgis Lengvenaitis keliavo_i [[objektai/vietos/Naugardas]]
-- Jurgis Lengvenaitis buvo_sajungininkas_su [[objektai/asmenys/Švitrigaila]]
+- Sąjungininkai: [[objektai/asmenys/Švitrigaila]]
+- Jurgis Lengvenaitis keliavo į [[objektai/vietos/Naugardas]]

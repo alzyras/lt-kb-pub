@@ -101,4 +101,4 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
     - t-003
 
 ## Ryšiai
-- [[objektai/vietos/Lietuva]] prekiavo_su Finikiečiai
+- Prekiavo su: [[objektai/vietos/Lietuva]]

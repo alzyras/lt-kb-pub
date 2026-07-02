@@ -64,4 +64,4 @@ Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino v
     - t-001
 
 ## Ryšiai
-- Nameisis kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Nameisis kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]

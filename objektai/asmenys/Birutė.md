@@ -440,11 +440,9 @@ Birutė minima kaip Kęstučio žmona, Vytauto motina ir Žemaičių bajoro Vydi
     - t-014
 
 ## Ryšiai
-- Birutė buvo_zmona [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Birutė buvo_dukte [[objektai/asmenys/Vydimantas]]
-- Birutė keliavo_i [[objektai/vietos/Palanga]]
-- Birutė keliavo_i [[objektai/vietos/Gardinas]]
-- Birutė keliavo_i [[objektai/vietos/Trakai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_sunus Birutė
-- Birutė buvo_palaidotas [[objektai/daiktai/Aukuras]]
-- Birutė mire [[objektai/vietos/Palanga]]
+- Vyrai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Sūnūs: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Tėvai: [[objektai/asmenys/Vydimantas]]
+- Birutė keliavo į [[objektai/vietos/Gardinas]], [[objektai/vietos/Palanga]], [[objektai/vietos/Trakai]]
+- Birutė mirė [[objektai/vietos/Palanga]]
+- Birutė buvo palaidotas [[objektai/daiktai/Aukuras]]

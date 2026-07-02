@@ -73,4 +73,4 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
     - t-002
 
 ## Ryšiai
-- Nikolajus Arsenjevas gyne [[objektai/vietos/Vilnius]]
+- Nikolajus Arsenjevas gynė [[objektai/vietos/Vilnius]]

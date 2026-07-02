@@ -87,4 +87,4 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Krasnyj Gorod
+- Užėmė Krasnyj Gorod: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

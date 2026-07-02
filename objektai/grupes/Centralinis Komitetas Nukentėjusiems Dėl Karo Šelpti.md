@@ -147,7 +147,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     - t-005
 
 ## Ryšiai
-- Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) reme [[objektai/grupes/Lietuviai]]
-- Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) siunte_i [[objektai/vietos/Lietuva]]
-- Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) gyne [[objektai/grupes/Lietuviai]]
+- Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) gynė [[objektai/grupes/Lietuviai]]
+- Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) siuntė į [[objektai/vietos/Lietuva]]
 - Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) gyveno [[objektai/vietos/Petrapilis]]
+- Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) rėmė [[objektai/grupes/Lietuviai]]

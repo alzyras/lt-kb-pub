@@ -277,6 +277,6 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/P. Liatukas]] siunte_i Prienai
-- [[objektai/vietos/Ašminta]] priklause Prienai
-- [[objektai/asmenys/A. Žemaitis]] keliavo_i Prienai
+- Buvo kelionės vieta: [[objektai/asmenys/A. Žemaitis]]
+- Buvo siuntimo vieta: [[objektai/asmenys/P. Liatukas]]
+- Turėjo priklausinį: [[objektai/vietos/Ašminta]]

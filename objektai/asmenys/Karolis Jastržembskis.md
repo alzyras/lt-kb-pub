@@ -55,4 +55,4 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
     - t-001
 
 ## Ryšiai
-- Karolis Jastržembskis kariavo_pries [[objektai/asmenys/Suchodolskis]]
+- Karolis Jastržembskis kariavo prieš [[objektai/asmenys/Suchodolskis]]

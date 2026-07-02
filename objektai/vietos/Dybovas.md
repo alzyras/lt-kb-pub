@@ -49,4 +49,4 @@ Narbutas rašė, kad Dybove prie Torunės buvusi senovės prūsų šventykla su 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Dybovas
+- Užėmė Dybovą: [[objektai/grupes/Kryžiuočių ordinas]]

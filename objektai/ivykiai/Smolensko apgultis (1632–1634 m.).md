@@ -158,4 +158,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Rusai]] apgule Smolensko apgultis (1632–1634 m.)
+- Apgulė Smolensko apgultį (1632–1634 m.): [[objektai/grupes/Rusai]]

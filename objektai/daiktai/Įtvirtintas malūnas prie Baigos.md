@@ -62,4 +62,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Įtvirtintas malūnas prie Baigos priklause [[objektai/vietos/Baiga]]
+- Įtvirtintas malūnas prie Baigos priklausė [[objektai/vietos/Baiga]]

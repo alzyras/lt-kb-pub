@@ -517,4 +517,4 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
     - t-004
 
 ## Ryšiai
-- [[objektai/daiktai/Altorius]] priklause Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b
+- Turėjo priklausinį: [[objektai/daiktai/Altorius]]

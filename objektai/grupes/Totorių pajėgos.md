@@ -115,10 +115,6 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
     - t-003
 
 ## Ryšiai
-- Totorių pajėgos uzeme [[objektai/vietos/Borisovas]]
-- Totorių pajėgos puole [[objektai/vietos/Lietuva]]
-- Totorių pajėgos uzeme [[objektai/vietos/Trakai]]
-- Totorių pajėgos uzeme [[objektai/vietos/Vilnius]]
-- Totorių pajėgos priklause [[objektai/asmenys/Edyga]]
-- Totorių pajėgos priklause [[objektai/grupes/Auksinė Orda]]
-- Totorių pajėgos priklause [[objektai/asmenys/Timūr-Kutlukas]]
+- Totorių pajėgos puolė [[objektai/vietos/Lietuva]]
+- Totorių pajėgos užėmė [[objektai/vietos/Borisovas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Totorių pajėgos priklausė [[objektai/grupes/Auksinė Orda]], [[objektai/asmenys/Edyga]], [[objektai/asmenys/Timūr-Kutlukas]]

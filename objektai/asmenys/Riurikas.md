@@ -72,4 +72,4 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
     - t-001
 
 ## Ryšiai
-- Riurikas keliavo_i [[objektai/vietos/Rusija]]
+- Riurikas keliavo į [[objektai/vietos/Rusija]]

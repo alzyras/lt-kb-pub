@@ -220,10 +220,7 @@ Henrikas iš Plockės buvo Prūsijos žemės maršalas, minimas 1314–1320 m. �
     - t-001
 
 ## Ryšiai
-- Henrikas iš Plockės puole [[objektai/vietos/Sizditė]]
-- Henrikas iš Plockės surenge_zygi_i [[objektai/vietos/Medininkai]]
-- Henrikas iš Plockės puole [[objektai/vietos/Bisenė]]
-- Henrikas iš Plockės surenge_zygi_i [[objektai/vietos/Vaikiai]]
-- Henrikas iš Plockės apgule [[objektai/vietos/Bisenė]]
-- Henrikas iš Plockės puole [[objektai/vietos/Medininkai]]
-- Henrikas iš Plockės mire [[objektai/vietos/Medininkai]]
+- Henrikas iš Plockės mirė [[objektai/vietos/Medininkai]]
+- Henrikas iš Plockės puolė [[objektai/vietos/Bisenė]], [[objektai/vietos/Medininkai]], [[objektai/vietos/Sizditė]]
+- Henrikas iš Plockės apgulė [[objektai/vietos/Bisenė]]
+- Henrikas iš Plockės surengė žygį į [[objektai/vietos/Medininkai]], [[objektai/vietos/Vaikiai]]

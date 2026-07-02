@@ -105,4 +105,4 @@ Liejykla lokalizuojama prie Vilniaus pilies ir siejama su Stepono Batoro kariniu
     - t-002
 
 ## Ryšiai
-- Vilniaus ginklų liejykla priklause [[objektai/vietos/Vilnius]]
+- Vilniaus ginklų liejykla priklausė [[objektai/vietos/Vilnius]]

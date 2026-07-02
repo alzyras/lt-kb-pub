@@ -60,4 +60,4 @@ Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas i
     - t-001
 
 ## Ryšiai
-- Burchardas Aremas mire [[objektai/vietos/Dobrynė]]
+- Burchardas Aremas mirė [[objektai/vietos/Dobrynė]]

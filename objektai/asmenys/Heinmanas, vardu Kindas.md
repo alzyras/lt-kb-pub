@@ -41,4 +41,4 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
     - t-001
 
 ## Ryšiai
-- Heinmanas, vardu Kindas mire [[objektai/vietos/Junigeda]]
+- Heinmanas, vardu Kindas mirė [[objektai/vietos/Junigeda]]

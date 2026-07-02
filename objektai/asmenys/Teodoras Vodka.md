@@ -44,4 +44,4 @@ Teodoras Vodka buvo tarp didikų, kurie karaliaus įsakymu su didele pagarba atl
     - t-001
 
 ## Ryšiai
-- Teodoras Vodka keliavo_i [[objektai/vietos/Liublinas]]
+- Teodoras Vodka keliavo į [[objektai/vietos/Liublinas]]

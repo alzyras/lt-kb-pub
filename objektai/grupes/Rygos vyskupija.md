@@ -55,5 +55,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Rygos vyskupija priklause [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
-- Rygos vyskupija priklause [[objektai/vietos/Lietuva]]
+- Rygos vyskupija priklausė [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]

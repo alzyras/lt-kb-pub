@@ -49,4 +49,4 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] pastate Svyrių pilis (pilis)
+- Buvo pastatyta: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]

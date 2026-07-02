@@ -58,4 +58,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Lietuva]] priklause Europos Taryba (institucija)
+- Turėjo priklausinį: [[objektai/vietos/Lietuva]]

@@ -54,6 +54,6 @@ tags:
     - t-001
 
 ## Ryšiai
-- Gerasimas gime [[objektai/vietos/Maskva]]
-- [[objektai/asmenys/Švitrigaila]] puole Gerasimas
+- Puolė Gerasimą: [[objektai/asmenys/Švitrigaila]]
+- Gerasimas gimė [[objektai/vietos/Maskva]]
 - Gerasimas gyveno [[objektai/vietos/Smolenskas]]

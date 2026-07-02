@@ -62,5 +62,5 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
     - t-001
 
 ## Ryšiai
-- Patrikas, arba Patricijus buvo_sunus [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
-- Patrikas, arba Patricijus valde [[objektai/vietos/Naugardas]]
+- Tėvai: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- Patrikas, arba Patricijus valdė [[objektai/vietos/Naugardas]]

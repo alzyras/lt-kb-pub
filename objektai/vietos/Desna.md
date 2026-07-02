@@ -56,5 +56,5 @@ tags:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] uzeme Desna
-- [[objektai/grupes/Baltai]] gyveno Desna
+- Užėmė Desną: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Gyvenamoji vieta: [[objektai/grupes/Baltai]]

@@ -54,4 +54,4 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
     - t-001
 
 ## Ryšiai
-- Liudvikas iš Šipeno buvo_palaidotas [[objektai/vietos/Chełmža]]
+- Liudvikas iš Šipeno buvo palaidotas [[objektai/vietos/Chełmža]]

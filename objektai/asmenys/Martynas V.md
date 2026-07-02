@@ -293,5 +293,5 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
     - t-009
 
 ## Ryšiai
-- Martynas V paskyre [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Martynas V reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Martynas V paskyrė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Martynas V rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

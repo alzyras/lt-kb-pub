@@ -127,10 +127,9 @@ periodo_grupes:
     - t-003
 
 ## Ryšiai
-- Kukovaitis pastate [[objektai/daiktai/Pajautos stabas]]
-- Kukovaitis buvo_sunus [[objektai/asmenys/Pajauta]]
-- Kukovaitis buvo_valdovas [[objektai/vietos/Naugardukas]]
-- Kukovaitis reme [[objektai/asmenys/Skirmantas]]
-- Kukovaitis valde [[objektai/vietos/Lietuva]]
-- Kukovaitis buvo_valdovas [[objektai/vietos/Lietuva]]
-- Kukovaitis siunte_i [[objektai/vietos/Kijevo Rusia]]
+- Tėvai: [[objektai/asmenys/Pajauta]]
+- Kukovaitis buvo valdovas [[objektai/vietos/Lietuva]], [[objektai/vietos/Naugardukas]]
+- Kukovaitis valdė [[objektai/vietos/Lietuva]]
+- Kukovaitis pastatė [[objektai/daiktai/Pajautos stabas]]
+- Kukovaitis siuntė į [[objektai/vietos/Kijevo Rusia]]
+- Kukovaitis rėmė [[objektai/asmenys/Skirmantas]]

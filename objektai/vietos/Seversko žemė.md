@@ -193,6 +193,5 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Šich Achmetas]] puole Seversko žemė
-- [[objektai/vietos/Naugardas]] priklause Seversko žemė
-- [[objektai/vietos/Rylskas]] priklause Seversko žemė
+- Puolė Seversko žemę: [[objektai/asmenys/Šich Achmetas]]
+- Turėjo priklausinį: [[objektai/vietos/Naugardas]], [[objektai/vietos/Rylskas]]

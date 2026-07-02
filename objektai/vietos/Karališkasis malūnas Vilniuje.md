@@ -112,4 +112,4 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     - t-002
 
 ## Ryšiai
-- Karališkasis malūnas Vilniuje priklause [[objektai/vietos/Vilnius]]
+- Karališkasis malūnas Vilniuje priklausė [[objektai/vietos/Vilnius]]

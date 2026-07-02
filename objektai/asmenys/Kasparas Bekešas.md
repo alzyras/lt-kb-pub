@@ -122,4 +122,4 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
     - t-001
 
 ## Ryšiai
-- Kasparas Bekešas buvo_palaidotas [[objektai/vietos/Vilnius]]
+- Kasparas Bekešas buvo palaidotas [[objektai/vietos/Vilnius]]

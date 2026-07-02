@@ -43,4 +43,4 @@ Dusburgietis teigia, kad vėlesnė Romehnen Semboje (jos vak.
     - t-001
 
 ## Ryšiai
-- Romehnen priklause [[objektai/vietos/Semba]]
+- Romehnen priklausė [[objektai/vietos/Semba]]

@@ -48,5 +48,4 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
     - t-001
 
 ## Ryšiai
-- Anastazija (Dobrynės kunigaikštienė) siunte_i [[objektai/vietos/Kopylis]]
-- Anastazija (Dobrynės kunigaikštienė) siunte_i [[objektai/vietos/Petrikovičiai]]
+- Anastazija (Dobrynės kunigaikštienė) siuntė į [[objektai/vietos/Kopylis]], [[objektai/vietos/Petrikovičiai]]

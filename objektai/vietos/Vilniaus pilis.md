@@ -414,5 +414,4 @@ Vilniaus pilis minima kaip valdovų buveinė ir gynybinis centras Vilnelės ir V
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] puole Vilniaus pilis
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Vilniaus pilis
+- Puolė Vilniaus pilį: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

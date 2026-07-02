@@ -365,17 +365,10 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
     - t-014
 
 ## Ryšiai
-- [[objektai/asmenys/Karolis]] puole Junigeda
-- [[objektai/grupes/Lietuviai]] pastate Junigeda
-- [[objektai/asmenys/Bertoldas Briuhavenas]] surenge_zygi_i Junigeda
-- [[objektai/asmenys/Henrikas Cutsvertas]] keliavo_i Junigeda
-- [[objektai/asmenys/Konradas Štangė]] keliavo_i Junigeda
-- [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]] puole Junigeda
-- [[objektai/asmenys/Verneris (Ragainės komtūras)]] puole Junigeda
-- [[objektai/asmenys/Heinmanas, vardu Kindas]] mire Junigeda
-- [[objektai/asmenys/Karolis (didysis magistras)]] gyne Junigeda
-- [[objektai/asmenys/Karolis (didysis magistras)]] puole Junigeda
-- [[objektai/vietos/Veliuona]] priklause Junigeda
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] puole Junigeda
-- [[objektai/grupes/Lietuviai]] gyne Junigeda
-- [[objektai/asmenys/Bertoldas]] puole Junigeda
+- Buvo kelionės vieta: [[objektai/asmenys/Henrikas Cutsvertas]], [[objektai/asmenys/Konradas Štangė]]
+- Mirties vieta: [[objektai/asmenys/Heinmanas, vardu Kindas]]
+- Buvo pastatyta: [[objektai/grupes/Lietuviai]]
+- Puolė Junigedą: [[objektai/asmenys/Bertoldas]], [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]], [[objektai/asmenys/Karolis]], [[objektai/asmenys/Karolis (didysis magistras)]], [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]], [[objektai/asmenys/Verneris (Ragainės komtūras)]]
+- Gynė Junigedą: [[objektai/asmenys/Karolis (didysis magistras)]], [[objektai/grupes/Lietuviai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Bertoldas Briuhavenas]]
+- Turėjo priklausinį: [[objektai/vietos/Veliuona]]

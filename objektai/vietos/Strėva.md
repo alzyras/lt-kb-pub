@@ -224,4 +224,4 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas Lonei]] mire Strėva
+- Mirties vieta: [[objektai/asmenys/Jonas Lonei]]

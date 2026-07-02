@@ -47,4 +47,4 @@ Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančio
     - t-001
 
 ## Ryšiai
-- Stanislovas Jendžejevskis keliavo_i [[objektai/vietos/Maskva]]
+- Stanislovas Jendžejevskis keliavo į [[objektai/vietos/Maskva]]

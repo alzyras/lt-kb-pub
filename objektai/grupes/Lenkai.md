@@ -4259,124 +4259,27 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
     - t-097
 
 ## Ryšiai
-- Lenkai uzeme [[objektai/vietos/Butrimonys]]
-- Lenkai uzeme [[objektai/vietos/Maskva]]
-- Lenkai uzeme [[objektai/vietos/Vilnius]]
-- Lenkai uzeme [[objektai/vietos/Švenčionėliai]]
-- Lenkai uzeme [[objektai/vietos/Želva]]
-- Lenkai uzeme [[objektai/vietos/Dubingiai]]
-- Lenkai uzeme [[objektai/vietos/Marcinkonys]]
-- Lenkai uzeme [[objektai/vietos/Vidiškis]]
-- Lenkai keliavo_i [[objektai/vietos/Krėva]]
-- Lenkai puole [[objektai/grupes/Lietuviai]]
-- Lenkai siunte_i [[objektai/vietos/Lietuva]]
-- Lenkai uzeme [[objektai/vietos/Giedraičiai]]
-- Lenkai valde [[objektai/vietos/Podolė]]
-- [[objektai/grupes/Lietuvos kariuomenė]] buvo_sajungininkas_su Lenkai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Lenkai
-- Lenkai uzeme [[objektai/vietos/Aukštadvaris]]
-- Lenkai uzeme [[objektai/vietos/Molėtai]]
-- Lenkai uzeme [[objektai/vietos/Tauragnai]]
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Lenkai
-- Lenkai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
-- Lenkai puole [[objektai/vietos/Lietuva]]
-- Lenkai puole [[objektai/grupes/Parusėnai]]
-- Lenkai puole [[objektai/vietos/Švenčionėliai]]
-- [[objektai/grupes/Kryžiuočių ordinas]] kariavo_pries Lenkai
-- Lenkai apgule [[objektai/vietos/Belzas]]
-- Lenkai gyne [[objektai/vietos/Kaunas]]
-- Lenkai kariavo_pries [[objektai/grupes/Rusai]]
-- Lenkai puole [[objektai/grupes/Kryžiuočių ordinas]]
-- Lenkai sudare_sutarti_su [[objektai/grupes/Lietuviai]]
-- Lenkai sudare_sutarti_su [[objektai/grupes/Valachai]]
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] kariavo_pries Lenkai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Lenkai
-- Lenkai dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-- [[objektai/daiktai/Herbai]] priklause Lenkai
-- Lenkai keliavo_i [[objektai/vietos/Balnininkai]]
-- Lenkai reme [[objektai/asmenys/J. Pilsudskis]]
-- Lenkai uzeme [[objektai/vietos/Pagiriai]]
-- [[objektai/grupes/Lietuviai]] reme Lenkai
-- [[objektai/grupes/Lietuviai]] sudare_sutarti_su Lenkai
-- [[objektai/grupes/Lietuvos Respublika]] kariavo_pries Lenkai
-- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Lenkai
-- [[objektai/vietos/Kulmas]] priklause Lenkai
-- [[objektai/asmenys/Germantas]] buvo_sajungininkas_su Lenkai
-- Lenkai gyne [[objektai/vietos/Podolė]]
-- Lenkai gyveno [[objektai/vietos/Vilnius]]
-- Lenkai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Lenkai kariavo_pries [[objektai/grupes/Lietuviai]]
-- Lenkai puole [[objektai/grupes/1-oji pėstininkų divizija]]
-- Lenkai puole [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]
-- Lenkai reme [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuviai]] kariavo_pries Lenkai
-- [[objektai/grupes/Lietuvos luomai]] buvo_sajungininkas_su Lenkai
-- [[objektai/asmenys/Liubartas]] puole Lenkai
-- [[objektai/grupes/3-ioji divizija]] kariavo_pries Lenkai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] buvo_sajungininkas_su Lenkai
-- Lenkai kariavo_pries [[objektai/asmenys/Švitrigaila]]
-- Lenkai uzeme [[objektai/vietos/Varėna]]
-- [[objektai/asmenys/Mikalojus Moskoževskis]] gyne Lenkai
-- Lenkai gyne [[objektai/vietos/Vilnius]]
-- Lenkai puole [[objektai/vietos/Prūsija]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_sajungininkas_su Lenkai
-- [[objektai/vietos/Bastūnai]] priklause Lenkai
-- [[objektai/grupes/Kryžiuočių ordinas]] buvo_priesas Lenkai
-- Lenkai gyveno [[objektai/vietos/Kulmas]]
-- Lenkai gyveno [[objektai/vietos/Lubavas]]
-- Lenkai keliavo_i [[objektai/vietos/Vilnius]]
-- Lenkai priklause [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Lenkai
-- [[objektai/grupes/Lietuviai]] puole Lenkai
-- [[objektai/grupes/Parusėnai]] puole Lenkai
-- [[objektai/grupes/Prancūzai]] kariavo_pries Lenkai
-- [[objektai/vietos/Varėna]] priklause Lenkai
-- [[objektai/grupes/Vokiečiai]] puole Lenkai
-- [[objektai/grupes/Bajorai]] priklause Lenkai
-- Lenkai dalyvavo_musyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]
-- Lenkai gyveno [[objektai/vietos/Lietuva]]
-- Lenkai puole [[objektai/vietos/Brandenburgo žemė]]
-- Lenkai puole [[objektai/grupes/Prūsai]]
-- Lenkai puole [[objektai/vietos/Utena]]
-- Lenkai puole [[objektai/vietos/Zarasai]]
-- Lenkai surenge_zygi_i [[objektai/vietos/Prūsija]]
-- Lenkai buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Lenkai dalyvavo_musyje [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
-- Lenkai paskyre [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Lenkai puole [[objektai/vietos/Sviečė]]
-- [[objektai/grupes/Lietuviai]] gyne Lenkai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyne Lenkai
-- Lenkai buvo_priesas [[objektai/grupes/Lietuviai]]
-- Lenkai keliavo_i [[objektai/vietos/Lomža]]
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] kariavo_pries Lenkai
-- Lenkai gyveno [[objektai/vietos/Lubava]]
-- Lenkai keliavo_i [[objektai/vietos/Praha]]
-- Lenkai valde [[objektai/vietos/Bastūnai]]
-- Lenkai valde [[objektai/vietos/Varėna]]
-- Lenkai valde [[objektai/vietos/Volynė]]
-- [[objektai/asmenys/Vileniškis]] gyne Lenkai
-- [[objektai/asmenys/Zigmantas Kaributas]] buvo_sajungininkas_su Lenkai
-- [[objektai/grupes/asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]] kariavo_pries Lenkai
-- [[objektai/asmenys/Cipkevičius]] puole Lenkai
-- [[objektai/grupes/Totoriai]] buvo_sajungininkas_su Lenkai
-- [[objektai/asmenys/Zyndramas iš Moškovicų]] buvo_sajungininkas_su Lenkai
-- [[objektai/asmenys/Šidiškis]] puole Lenkai
-- Lenkai buvo_sajungininkas_su [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai]]
-- Lenkai keliavo_i [[objektai/vietos/Prūsija]]
-- [[objektai/asmenys/Antanas Šukys]] kariavo_pries Lenkai
-- Lenkai keliavo_i [[objektai/vietos/Krokuva]]
-- Lenkai surenge_zygi_i [[objektai/vietos/Maskva]]
-- [[objektai/grupes/Rusai]] kariavo_pries Lenkai
-- Lenkai keliavo_i [[objektai/vietos/Styrė]]
-- Lenkai priklause [[objektai/vietos/Sandomiras]]
-- [[objektai/grupes/9-asis pėstininkų pulkas]] puole Lenkai
-- Lenkai uzeme [[objektai/vietos/Volynė]]
-- [[objektai/grupes/Lietuviai]] buvo_priesas Lenkai
-- [[objektai/grupes/Seradzo lenkų seimas|Seradzo lenkų seimas (seimas)]] priklause Lenkai
-- [[objektai/vietos/Stralsundas]] prekiavo_su Lenkai
-- Lenkai puole [[objektai/vietos/Kaunas]]
-- Lenkai puole [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
-- Lenkai puole [[objektai/vietos/Rusia]]
-- [[objektai/grupes/Jutrzenka]] reme Lenkai
-- [[objektai/grupes/Oswiata]] reme Lenkai
-- [[objektai/grupes/Pochodnia]] reme Lenkai
+- Priešai: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]]
+- Sąjungininkai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Germantas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Lietuvos luomai]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zigmantas Kaributas]], [[objektai/asmenys/Zyndramas iš Moškovicų]]
+- Puolė Lenkai: [[objektai/grupes/9-asis pėstininkų pulkas]], [[objektai/asmenys/Cipkevičius]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Liubartas]], [[objektai/grupes/Parusėnai]], [[objektai/asmenys/Šidiškis]], [[objektai/grupes/Vokiečiai]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Gynė Lenkai: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mikalojus Moskoževskis]], [[objektai/asmenys/Vileniškis]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Kariavo prieš: [[objektai/grupes/3-ioji divizija]], [[objektai/asmenys/Antanas Šukys]], [[objektai/grupes/asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Lietuvos Respublika]], [[objektai/grupes/Prancūzai]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Sudarė sutartį su: [[objektai/grupes/Lietuviai]]
+- Prekiavo su: [[objektai/vietos/Stralsundas]]
+- Rėmė Lenkai: [[objektai/grupes/Jutrzenka]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Oswiata]], [[objektai/grupes/Pochodnia]]
+- Turėjo priklausinį: [[objektai/grupes/Bajorai]], [[objektai/vietos/Bastūnai]], [[objektai/daiktai/Herbai]], [[objektai/vietos/Kulmas]], [[objektai/grupes/Seradzo lenkų seimas|Seradzo lenkų seimas (seimas)]], [[objektai/vietos/Varėna]]
+- Lenkai valdė [[objektai/vietos/Bastūnai]], [[objektai/vietos/Podolė]], [[objektai/vietos/Varėna]], [[objektai/vietos/Volynė]]
+- Lenkai keliavo į [[objektai/vietos/Balnininkai]], [[objektai/vietos/Krėva]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Lomža]], [[objektai/vietos/Praha]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Styrė]], [[objektai/vietos/Vilnius]]
+- Lenkai puolė [[objektai/grupes/1-oji pėstininkų divizija]], [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]], [[objektai/vietos/Brandenburgo žemė]], [[objektai/vietos/Kaunas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Parusėnai]], [[objektai/grupes/Prūsai]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Rusia]], [[objektai/vietos/Sviečė]], [[objektai/vietos/Švenčionėliai]], [[objektai/vietos/Utena]], [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]], [[objektai/vietos/Zarasai]]
+- Lenkai apgulė [[objektai/vietos/Belzas]]
+- Lenkai užėmė [[objektai/vietos/Aukštadvaris]], [[objektai/vietos/Butrimonys]], [[objektai/vietos/Dubingiai]], [[objektai/vietos/Giedraičiai]], [[objektai/vietos/Marcinkonys]], [[objektai/vietos/Maskva]], [[objektai/vietos/Molėtai]], [[objektai/vietos/Pagiriai]], [[objektai/vietos/Švenčionėliai]], [[objektai/vietos/Tauragnai]], [[objektai/vietos/Varėna]], [[objektai/vietos/Vidiškis]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Volynė]], [[objektai/vietos/Želva]]
+- Lenkai gynė [[objektai/vietos/Kaunas]], [[objektai/vietos/Podolė]], [[objektai/vietos/Vilnius]]
+- Lenkai siuntė į [[objektai/vietos/Lietuva]]
+- Lenkai surengė žygį į [[objektai/vietos/Maskva]], [[objektai/vietos/Prūsija]]
+- Lenkai kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Švitrigaila]]
+- Lenkai dalyvavo mūšyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]], [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]], [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
+- Lenkai sudarė sutartį su [[objektai/grupes/Lietuviai]], [[objektai/grupes/Valachai]]
+- Lenkai gyveno [[objektai/vietos/Kulmas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Lubava]], [[objektai/vietos/Lubavas]], [[objektai/vietos/Vilnius]]
+- Lenkai paskyrė [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Lenkai priklausė [[objektai/vietos/Sandomiras]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Lenkai rėmė [[objektai/asmenys/J. Pilsudskis]], [[objektai/grupes/Lietuviai]]

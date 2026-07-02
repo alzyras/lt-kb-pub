@@ -56,4 +56,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Podolės bajorai uzeme [[objektai/vietos/Podolė]]
+- Podolės bajorai užėmė [[objektai/vietos/Podolė]]

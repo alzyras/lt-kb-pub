@@ -104,4 +104,4 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
     - t-002
 
 ## Ryšiai
-- Rygos miestiečiai buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
+- Priešai: [[objektai/grupes/Kryžiuočių ordinas]]

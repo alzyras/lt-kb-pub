@@ -86,4 +86,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Maskvėnai]] dalyvavo_musyje Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas
+- Turėjo dalyvį: [[objektai/grupes/Maskvėnai]]

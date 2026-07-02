@@ -49,4 +49,4 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Eigulių pilis (pilis)
+- Puolė Eigulių pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]

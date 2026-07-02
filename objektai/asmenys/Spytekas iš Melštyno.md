@@ -49,4 +49,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Spytekas iš Melštyno valde_teritorija [[objektai/vietos/Podolė]]
+- Spytekas iš Melštyno valdė [[objektai/vietos/Podolė]]

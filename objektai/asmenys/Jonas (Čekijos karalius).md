@@ -56,4 +56,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Jonas (Čekijos karalius) keliavo_i [[objektai/vietos/Prūsija]]
+- Jonas (Čekijos karalius) keliavo į [[objektai/vietos/Prūsija]]

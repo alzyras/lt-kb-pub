@@ -62,4 +62,4 @@ kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį S
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Ventės ragas
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

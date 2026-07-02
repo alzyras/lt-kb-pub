@@ -68,4 +68,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Pelužis]] puole Pelužio antpuolis per Lietuvos didikų puotą (1286 m.)
+- Puolė Pelužio antpuolis per Lietuvos didikų puotą (1286 m.): [[objektai/asmenys/Pelužis]]

@@ -73,4 +73,4 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Sembai]] paskyre Naudžiotas (karvedys)
+- Paskyrė Naudžiotą (karvedys): [[objektai/grupes/Sembai]]

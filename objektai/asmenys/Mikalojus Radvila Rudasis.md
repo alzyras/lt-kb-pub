@@ -203,6 +203,6 @@ Mikalojus Radvila Rudasis buvo Dubingių ir Biržų kunigaikštis, Vilniaus vaiv
     - t-007
 
 ## Ryšiai
-- Mikalojus Radvila Rudasis reme [[objektai/grupes/Vilniaus pirkliai]]
-- Mikalojus Radvila Rudasis buvo_valdovas [[objektai/vietos/Dubingiai]]
-- Mikalojus Radvila Rudasis kariavo_pries [[objektai/grupes/Maskvėnai]]
+- Mikalojus Radvila Rudasis buvo valdovas [[objektai/vietos/Dubingiai]]
+- Mikalojus Radvila Rudasis kariavo prieš [[objektai/grupes/Maskvėnai]]
+- Mikalojus Radvila Rudasis rėmė [[objektai/grupes/Vilniaus pirkliai]]

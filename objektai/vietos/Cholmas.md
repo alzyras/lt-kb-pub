@@ -50,4 +50,4 @@ Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vl
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Radvilos]] uzeme Cholmas
+- Užėmė Cholmą: [[objektai/grupes/Radvilos]]

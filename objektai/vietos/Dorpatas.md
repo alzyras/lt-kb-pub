@@ -209,9 +209,6 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
     - t-004
 
 ## Ryšiai
-- Dorpatas priklause [[objektai/grupes/Hanza]]
-- [[objektai/grupes/Maskvėnai]] uzeme Dorpatas
-- [[objektai/grupes/Lietuviai]] puole Dorpatas
-- Dorpatas priklause [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Lietuvos kariuomenė]] puole Dorpatas
-- [[objektai/grupes/Maskvėnai]] puole Dorpatas
+- Puolė Dorpatą: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Maskvėnai]]
+- Užėmė Dorpatą: [[objektai/grupes/Maskvėnai]]
+- Dorpatas priklausė [[objektai/grupes/Hanza]], [[objektai/vietos/Livonija]]

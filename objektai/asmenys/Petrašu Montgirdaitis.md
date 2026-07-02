@@ -92,5 +92,5 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Petrašu Montgirdaitis buvo_sajungininkas_su [[objektai/asmenys/Žygimantas]]
-- Petrašu Montgirdaitis surenge_zygi_i [[objektai/vietos/Ašmena]]
+- Sąjungininkai: [[objektai/asmenys/Žygimantas]]
+- Petrašu Montgirdaitis surengė žygį į [[objektai/vietos/Ašmena]]

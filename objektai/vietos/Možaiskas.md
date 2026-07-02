@@ -220,5 +220,5 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Vasilijus]] siunte_i Možaiskas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde Možaiskas
+- Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Vasilijus]]

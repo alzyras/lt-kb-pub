@@ -54,4 +54,4 @@ Serpeiskas aiškinamas kaip Smolensko žemės miestas. Serpeiskas seniau priklau
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Mykolas]] uzeme Serpeiskas
+- Užėmė Serpeiską: [[objektai/asmenys/Mykolas]]

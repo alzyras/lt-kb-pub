@@ -70,8 +70,8 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Želigovskininkai uzeme [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Želigovskininkai
-- Želigovskininkai keliavo_i [[objektai/vietos/Lietuva]]
-- Želigovskininkai puole [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Pilsudskis]] reme Želigovskininkai
+- Kariavo prieš: [[objektai/grupes/Lietuvos kariuomenė]]
+- Rėmė Želigovskininkai: [[objektai/asmenys/Pilsudskis]]
+- Želigovskininkai keliavo į [[objektai/vietos/Lietuva]]
+- Želigovskininkai puolė [[objektai/vietos/Lietuva]]
+- Želigovskininkai užėmė [[objektai/vietos/Vilnius]]

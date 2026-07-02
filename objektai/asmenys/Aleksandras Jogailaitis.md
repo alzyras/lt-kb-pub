@@ -975,21 +975,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     - t-029
 
 ## Ryšiai
-- Aleksandras Jogailaitis mire [[objektai/vietos/Vilnius]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Lenkija]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Lietuva]]
+- Žmonos: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- Sutuoktiniai: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- Priešai: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]], [[objektai/asmenys/Zaberezinskis]]
+- Turėjo priklausinį: [[objektai/daiktai/Malūnas]]
+- Aleksandras Jogailaitis buvo valdovas [[objektai/vietos/Kijevas]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]
+- Aleksandras Jogailaitis keliavo į [[objektai/vietos/Braclavas]], [[objektai/vietos/Parčevas]], [[objektai/vietos/Polockas]], [[objektai/vietos/Rusų žemė]], [[objektai/vietos/Soroka]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
+- Aleksandras Jogailaitis mirė [[objektai/vietos/Vilnius]]
+- Aleksandras Jogailaitis siuntė į [[objektai/vietos/Maskva]]
 - Aleksandras Jogailaitis gyveno [[objektai/vietos/Vilnius]]
-- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Vilnius]]
-- Aleksandras Jogailaitis siunte_i [[objektai/vietos/Maskva]]
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] buvo_zmona Aleksandras Jogailaitis
-- [[objektai/daiktai/Malūnas]] priklause Aleksandras Jogailaitis
-- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Rusų žemė]]
-- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Polockas]]
-- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Vitebskas]]
-- Aleksandras Jogailaitis vede [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Parčevas]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Kijevas]]
-- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Braclavas]]
-- Aleksandras Jogailaitis buvo_priesas [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
-- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Soroka]]
-- Aleksandras Jogailaitis buvo_priesas [[objektai/asmenys/Zaberezinskis]]

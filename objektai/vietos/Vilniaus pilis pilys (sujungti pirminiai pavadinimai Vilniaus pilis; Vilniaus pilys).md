@@ -521,5 +521,5 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
     - t-009
 
 ## Ryšiai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] puole Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)
-- [[objektai/asmenys/Daugirdas]] uzeme Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)
+- Puolė Vilniaus pilis pilį (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Užėmė Vilniaus pilis pilį (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): [[objektai/asmenys/Daugirdas]]

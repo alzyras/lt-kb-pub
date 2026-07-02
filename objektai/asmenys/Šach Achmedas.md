@@ -175,10 +175,7 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     - t-001
 
 ## Ryšiai
-- Šach Achmedas reme [[objektai/grupes/Lietuviai]]
-- Šach Achmedas gyveno [[objektai/vietos/Trakai]]
-- Šach Achmedas keliavo_i [[objektai/vietos/Brasta]]
-- Šach Achmedas mire [[objektai/vietos/Lietuva]]
-- Šach Achmedas gyveno [[objektai/vietos/Kaunas]]
-- Šach Achmedas keliavo_i [[objektai/vietos/Vilnius]]
-- Šach Achmedas gyveno [[objektai/vietos/Vilnius]]
+- Šach Achmedas keliavo į [[objektai/vietos/Brasta]], [[objektai/vietos/Vilnius]]
+- Šach Achmedas mirė [[objektai/vietos/Lietuva]]
+- Šach Achmedas gyveno [[objektai/vietos/Kaunas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Šach Achmedas rėmė [[objektai/grupes/Lietuviai]]

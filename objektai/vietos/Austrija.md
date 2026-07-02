@@ -238,6 +238,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] gime Austrija
-- [[objektai/vietos/Galicija]] priklause Austrija
-- [[objektai/asmenys/Albrechtas (Rudolfo sūnus)]] valde Austrija
+- Buvo valdoma: [[objektai/asmenys/Albrechtas (Rudolfo sūnus)]]
+- Gimimo vieta: [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
+- Turėjo priklausinį: [[objektai/vietos/Galicija]]

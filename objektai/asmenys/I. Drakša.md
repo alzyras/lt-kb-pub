@@ -52,4 +52,4 @@ Drakšos 1991 m. Vienas iš LR seimo rūmuose budėjusių savanorių šaunamųj�
     - t-001
 
 ## Ryšiai
-- I. Drakša pastate [[objektai/daiktai/Savadarbis lygiavamzdis šautuvas]]
+- I. Drakša pastatė [[objektai/daiktai/Savadarbis lygiavamzdis šautuvas]]

@@ -68,4 +68,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Tautinės vėliavos priklause [[objektai/grupes/Prūsai]]
+- Tautinės vėliavos priklausė [[objektai/grupes/Prūsai]]

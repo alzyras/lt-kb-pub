@@ -82,7 +82,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Graikai]] pastate Aukurai
-- [[objektai/grupes/Senovės romėnai]] pastate Aukurai
-- [[objektai/grupes/Romėnai]] pastate Aukurai
-- [[objektai/grupes/Žyniai]] pastate Aukurai
+- Buvo pastatyta: [[objektai/grupes/Graikai]], [[objektai/grupes/Romėnai]], [[objektai/grupes/Senovės romėnai]], [[objektai/grupes/Žyniai]]

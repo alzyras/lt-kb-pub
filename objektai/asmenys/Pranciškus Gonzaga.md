@@ -47,4 +47,4 @@ Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno t
     - t-001
 
 ## Ryšiai
-- Pranciškus Gonzaga buvo_vyras [[objektai/asmenys/Kotryna]]
+- Žmonos: [[objektai/asmenys/Kotryna]]

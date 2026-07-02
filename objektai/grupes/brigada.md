@@ -99,5 +99,5 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Marijampolės batalionas]] priklause brigada
-- brigada keliavo_i [[objektai/vietos/Labanoras]]
+- Turėjo priklausinį: [[objektai/grupes/Marijampolės batalionas]]
+- brigada keliavo į [[objektai/vietos/Labanoras]]

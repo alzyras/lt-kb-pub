@@ -56,5 +56,4 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
     - t-001
 
 ## Ryšiai
-- Virgoličiaus rinktinė keliavo_i [[objektai/vietos/Šiauliai]]
-- Virgoličiaus rinktinė keliavo_i [[objektai/vietos/Kuršėnai]]
+- Virgoličiaus rinktinė keliavo į [[objektai/vietos/Kuršėnai]], [[objektai/vietos/Šiauliai]]

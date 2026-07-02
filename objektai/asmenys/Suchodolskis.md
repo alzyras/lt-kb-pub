@@ -57,4 +57,4 @@ Suchodolskio kavalerijos daliniu.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Karolis Jastržembskis]] kariavo_pries Suchodolskis
+- Kariavo prieš: [[objektai/asmenys/Karolis Jastržembskis]]

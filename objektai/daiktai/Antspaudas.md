@@ -298,6 +298,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- Antspaudas priklause [[objektai/asmenys/Katilas]]
-- Antspaudas priklause [[objektai/vietos/Vilnius]]
-- Antspaudas priklause [[objektai/asmenys/Jonas Lenartaitis Kęsgaila]]
+- Antspaudas priklausė [[objektai/asmenys/Jonas Lenartaitis Kęsgaila]], [[objektai/asmenys/Katilas]], [[objektai/vietos/Vilnius]]

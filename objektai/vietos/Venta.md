@@ -58,4 +58,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Venta priklause [[objektai/vietos/Lietuva]]
+- Venta priklausė [[objektai/vietos/Lietuva]]

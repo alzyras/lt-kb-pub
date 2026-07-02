@@ -65,6 +65,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     - t-002
 
 ## Ryšiai
-- Egidijus (arkivyskupas, XIV a.) buvo_palaidotas [[objektai/vietos/Paryžius]]
-- Egidijus (arkivyskupas, XIV a.) mire [[objektai/vietos/Avinjonas]]
-- [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]] paskyre Egidijus (arkivyskupas, XIV a.)
+- Paskyrė Egidijų (arkivyskupas, XIV a.): [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]
+- Egidijus (arkivyskupas, XIV a.) mirė [[objektai/vietos/Avinjonas]]
+- Egidijus (arkivyskupas, XIV a.) buvo palaidotas [[objektai/vietos/Paryžius]]

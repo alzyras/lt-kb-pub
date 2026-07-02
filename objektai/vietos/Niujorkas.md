@@ -112,5 +112,4 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] gyveno Niujorkas
-- [[objektai/grupes/JAV lietuviai]] gyveno Niujorkas
+- Gyvenamoji vieta: [[objektai/grupes/JAV lietuviai]], [[objektai/grupes/Lietuviai]]

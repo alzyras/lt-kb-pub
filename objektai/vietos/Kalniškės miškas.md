@@ -169,4 +169,4 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/NKVD]] puole Kalniškės miškas
+- Puolė Kalniškės mišką: [[objektai/grupes/NKVD]]

@@ -59,4 +59,4 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
     - t-001
 
 ## Ryšiai
-- Jonas iš Endorfo puole [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
+- Jonas iš Endorfo puolė [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]

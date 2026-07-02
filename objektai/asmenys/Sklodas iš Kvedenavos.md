@@ -78,4 +78,4 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Noliubas]] buvo_sunus Sklodas iš Kvedenavos
+- Sūnūs: [[objektai/asmenys/Noliubas]]

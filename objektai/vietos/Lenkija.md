@@ -4510,88 +4510,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     - t-076
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] puole Lenkija
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Lenkija
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] buvo_valdovas Lenkija
-- [[objektai/asmenys/Steponas Batoras]] buvo_valdovas Lenkija
-- [[objektai/vietos/Niešavos kraštas|Niešavos kraštas (kraštas)]] priklause Lenkija
-- [[objektai/vietos/Ukraina]] priklause Lenkija
-- [[objektai/vietos/Vidurinė Lietuva]] priklause Lenkija
-- [[objektai/vietos/Vilnius]] priklause Lenkija
-- [[objektai/asmenys/Jazbutas]] surenge_zygi_i Lenkija
-- [[objektai/grupes/Jogailaičių dinastija]] valde Lenkija
-- [[objektai/vietos/Opatovas]] priklause Lenkija
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Lenkija
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Lenkija
-- [[objektai/vietos/Naugardas Sieverskas]] priklause Lenkija
-- [[objektai/asmenys/Stasys Raštikis]] keliavo_i Lenkija
-- [[objektai/vietos/Černigovas]] priklause Lenkija
-- [[objektai/asmenys/Žygimantas Senasis]] buvo_valdovas Lenkija
-- [[objektai/asmenys/Konradas]] valde Lenkija
-- [[objektai/grupes/Lietuviai]] surenge_zygi_i Lenkija
-- [[objektai/vietos/Niešava]] priklause Lenkija
-- [[objektai/asmenys/Pukuveras (Lietuvos karalius)]] siunte_i Lenkija
-- [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]] siunte_i Lenkija
-- [[objektai/grupes/Kryžiuočių ordinas]] siunte_i Lenkija
-- [[objektai/asmenys/Pilypas (Fermo vyskupas)]] keliavo_i Lenkija
-- [[objektai/vietos/Didlenkiai]] priklause Lenkija
-- [[objektai/asmenys/Jeronimas]] keliavo_i Lenkija
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Lenkija
-- [[objektai/vietos/Lietuva]] prekiavo_su Lenkija
-- [[objektai/vietos/Marijenburgas]] priklause Lenkija
-- [[objektai/vietos/Mažlenkiai]] priklause Lenkija
-- [[objektai/vietos/Podolė]] priklause Lenkija
-- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]] buvo_valdovas Lenkija
-- [[objektai/grupes/Totoriai]] surenge_zygi_i Lenkija
-- [[objektai/vietos/Vakarų Prūsija]] priklause Lenkija
-- [[objektai/vietos/Varmijos vyskupystė]] priklause Lenkija
-- [[objektai/vietos/Varmė]] priklause Lenkija
-- [[objektai/vietos/Volynė]] priklause Lenkija
-- [[objektai/grupes/Lietuviai]] puole Lenkija
-- [[objektai/asmenys/Mieška]] buvo_valdovas Lenkija
-- [[objektai/grupes/Rusėnai]] gyveno Lenkija
-- [[objektai/asmenys/Skirgaila]] siunte_i Lenkija
-- [[objektai/vietos/Didžioji Lenkija]] priklause Lenkija
-- [[objektai/vietos/Horodlė]] priklause Lenkija
-- Lenkija priklause [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Lietuva]] priklause Lenkija
-- [[objektai/asmenys/Ona Jogailaitė]] gyveno Lenkija
-- [[objektai/vietos/Voluinė]] priklause Lenkija
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] keliavo_i Lenkija
-- [[objektai/asmenys/Davaina]] keliavo_i Lenkija
-- [[objektai/asmenys/Hanulas]] keliavo_i Lenkija
-- [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]] keliavo_i Lenkija
-- [[objektai/vietos/Kijevas]] priklause Lenkija
-- [[objektai/vietos/Palenkė]] priklause Lenkija
-- [[objektai/grupes/Edukacinė Komisija]] priklause Lenkija
-- [[objektai/asmenys/Jazbutas]] puole Lenkija
-- [[objektai/grupes/Kryžiuočių ordinas]] priklause Lenkija
-- [[objektai/vietos/Latgala]] priklause Lenkija
-- [[objektai/grupes/Sūduviai]] surenge_zygi_i Lenkija
-- [[objektai/grupes/Žydai]] gyveno Lenkija
-- [[objektai/asmenys/Bona Sforca]] keliavo_i Lenkija
-- [[objektai/vietos/Šventasis Kryžius]] priklause Lenkija
-- [[objektai/daiktai/Vėliavos]] priklause Lenkija
-- [[objektai/grupes/Lietuvos didikai]] keliavo_i Lenkija
-- [[objektai/grupes/Lietuvių policijos savisaugos batalionai]] puole Lenkija
-- [[objektai/grupes/Livonijos kunigaikštystė]] priklause Lenkija
-- [[objektai/vietos/Prūsija]] priklause Lenkija
-- [[objektai/grupes/Kuršo kunigaikštystė]] priklause Lenkija
-- [[objektai/grupes/Lenkijos karalystės kariuomenė]] keliavo_i Lenkija
-- [[objektai/grupes/Abiejų Tautų Respublika]] priklause Lenkija
-- [[objektai/vietos/Braclavas]] priklause Lenkija
-- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]] priklause Lenkija
-- [[objektai/vietos/Kamenecas]] priklause Lenkija
-- [[objektai/asmenys/Pilsudskis]] valde Lenkija
-- [[objektai/grupes/Poznanės raitininkų eskadronai]] priklause Lenkija
-- [[objektai/asmenys/Ziemovitas]] buvo_valdovas Lenkija
-- [[objektai/asmenys/Švitrigaila]] puole Lenkija
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] valde Lenkija
-- [[objektai/asmenys/Jeronimas Plečkaitis]] keliavo_i Lenkija
-- [[objektai/grupes/Teutonai]] gyne Lenkija
-- [[objektai/vietos/Vilnius]] prekiavo_su Lenkija
-- [[objektai/grupes/Dalomoji Komisija]] gyveno Lenkija
-- [[objektai/grupes/Stačiatikiai]] gyveno Lenkija
-- [[objektai/vietos/Vysla]] priklause Lenkija
-- [[objektai/daiktai/Karūna]] priklause Lenkija
-- [[objektai/asmenys/Petras Goštautas]] keliavo_i Lenkija
+- Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Mieška]], [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]], [[objektai/asmenys/Steponas Batoras]], [[objektai/asmenys/Ziemovitas]], [[objektai/asmenys/Žygimantas Senasis]]
+- Buvo valdoma: [[objektai/grupes/Jogailaičių dinastija]], [[objektai/asmenys/Konradas]], [[objektai/asmenys/Pilsudskis]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Bona Sforca]], [[objektai/asmenys/Davaina]], [[objektai/asmenys/Hanulas]], [[objektai/asmenys/Jeronimas]], [[objektai/asmenys/Jeronimas Plečkaitis]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]], [[objektai/grupes/Lenkijos karalystės kariuomenė]], [[objektai/grupes/Lietuvos didikai]], [[objektai/asmenys/Petras Goštautas]], [[objektai/asmenys/Pilypas (Fermo vyskupas)]], [[objektai/asmenys/Stasys Raštikis]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Puolė Lenkiją: [[objektai/asmenys/Jazbutas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvių policijos savisaugos batalionai]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Gynė Lenkiją: [[objektai/grupes/Teutonai]]
+- Buvo siuntimo vieta: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Pukuveras (Lietuvos karalius)]], [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]], [[objektai/asmenys/Skirgaila]]
+- Buvo žygio kryptis: [[objektai/asmenys/Jazbutas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Sūduviai]], [[objektai/grupes/Totoriai]]
+- Prekiavo su: [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
+- Gyvenamoji vieta: [[objektai/grupes/Dalomoji Komisija]], [[objektai/asmenys/Ona Jogailaitė]], [[objektai/grupes/Rusėnai]], [[objektai/grupes/Stačiatikiai]], [[objektai/grupes/Žydai]]
+- Turėjo priklausinį: [[objektai/grupes/Abiejų Tautų Respublika]], [[objektai/vietos/Braclavas]], [[objektai/vietos/Černigovas]], [[objektai/vietos/Didlenkiai]], [[objektai/vietos/Didžioji Lenkija]], [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]], [[objektai/grupes/Edukacinė Komisija]], [[objektai/vietos/Horodlė]], [[objektai/vietos/Kamenecas]], [[objektai/daiktai/Karūna]], [[objektai/vietos/Kijevas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Kuršo kunigaikštystė]], [[objektai/vietos/Latgala]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Livonijos kunigaikštystė]], [[objektai/vietos/Marijenburgas]], [[objektai/vietos/Mažlenkiai]], [[objektai/vietos/Naugardas Sieverskas]], [[objektai/vietos/Niešava]], [[objektai/vietos/Niešavos kraštas|Niešavos kraštas (kraštas)]], [[objektai/vietos/Opatovas]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Podolė]], [[objektai/grupes/Poznanės raitininkų eskadronai]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Šventasis Kryžius]], [[objektai/vietos/Ukraina]], [[objektai/vietos/Vakarų Prūsija]], [[objektai/vietos/Varmė]], [[objektai/vietos/Varmijos vyskupystė]], [[objektai/daiktai/Vėliavos]], [[objektai/vietos/Vidurinė Lietuva]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Voluinė]], [[objektai/vietos/Volynė]], [[objektai/vietos/Vysla]]
+- Lenkija priklausė [[objektai/grupes/Abiejų Tautų Respublika]]

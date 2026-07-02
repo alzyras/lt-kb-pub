@@ -56,4 +56,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Baltvyžių girios auksinė moneta su riteriu ir lokiu priklause [[objektai/vietos/Baltvyžių girios]]
+- Baltvyžių girios auksinė moneta su riteriu ir lokiu priklausė [[objektai/vietos/Baltvyžių girios]]

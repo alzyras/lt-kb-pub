@@ -169,13 +169,8 @@ amziai:
     - t-002
 
 ## Ryšiai
-- Bermontininkai uzeme [[objektai/vietos/Lietuva]]
-- Bermontininkai keliavo_i [[objektai/vietos/Raseiniai]]
-- [[objektai/grupes/Lietuvos Respublika]] kariavo_pries Bermontininkai
-- [[objektai/grupes/Panevėžio batalionas]] puole Bermontininkai
-- Bermontininkai keliavo_i [[objektai/vietos/Kuršėnai]]
-- Bermontininkai surenge_zygi_i [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Panevėžio batalionas]] kariavo_pries Bermontininkai
-- Bermontininkai uzeme [[objektai/vietos/Kuršėnai]]
-- [[objektai/asmenys/Kazys Ladyga]] puole Bermontininkai
-- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Bermontininkai
+- Puolė Bermontininkai: [[objektai/asmenys/Kazys Ladyga]], [[objektai/grupes/Panevėžio batalionas]]
+- Kariavo prieš: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Lietuvos Respublika]], [[objektai/grupes/Panevėžio batalionas]]
+- Bermontininkai keliavo į [[objektai/vietos/Kuršėnai]], [[objektai/vietos/Raseiniai]]
+- Bermontininkai užėmė [[objektai/vietos/Kuršėnai]], [[objektai/vietos/Lietuva]]
+- Bermontininkai surengė žygį į [[objektai/vietos/Lietuva]]

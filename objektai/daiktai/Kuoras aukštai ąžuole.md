@@ -72,4 +72,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Teutonai]] pastate Kuoras aukštai ąžuole
+- Buvo pastatyta: [[objektai/grupes/Teutonai]]

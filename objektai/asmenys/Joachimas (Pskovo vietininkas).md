@@ -77,4 +77,4 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
     - t-001
 
 ## Ryšiai
-- Joachimas (Pskovo vietininkas) sudare_sutarti_su [[objektai/asmenys/Švitrigaila]]
+- Joachimas (Pskovo vietininkas) sudarė sutartį su [[objektai/asmenys/Švitrigaila]]

@@ -76,4 +76,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Kryžių kalno kryžiai priklause [[objektai/vietos/Kryžių kalnas]]
+- Kryžių kalno kryžiai priklausė [[objektai/vietos/Kryžių kalnas]]

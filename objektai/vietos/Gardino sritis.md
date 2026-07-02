@@ -40,4 +40,4 @@ Apie VIII-IX amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų G
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Slavai]] keliavo_i Gardino sritis
+- Buvo kelionės vieta: [[objektai/grupes/Slavai]]

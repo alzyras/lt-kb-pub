@@ -57,4 +57,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Švitrigaila]] dalyvavo_musyje Karas tarp Švitrigailos ir Žygimanto Kęstutaičio
+- Turėjo dalyvį: [[objektai/asmenys/Švitrigaila]]

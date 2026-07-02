@@ -40,4 +40,4 @@ Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs da
     - t-001
 
 ## Ryšiai
-- Hadingas buvo_valdovas [[objektai/vietos/Danija]]
+- Hadingas buvo valdovas [[objektai/vietos/Danija]]

@@ -167,4 +167,4 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Mikalojus Radvila II]] pastate Bernardinų bažnyčia Vilniuje
+- Buvo pastatyta: [[objektai/asmenys/Mikalojus Radvila II]]

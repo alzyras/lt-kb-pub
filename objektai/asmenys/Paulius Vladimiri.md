@@ -65,5 +65,4 @@ Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių 
     - t-001
 
 ## Ryšiai
-- Paulius Vladimiri gyne [[objektai/vietos/Lietuva]]
-- Paulius Vladimiri gyne [[objektai/grupes/Lietuviai]]
+- Paulius Vladimiri gynė [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]]

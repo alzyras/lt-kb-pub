@@ -95,4 +95,4 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
     - t-003
 
 ## Ryšiai
-- Švento Jurgio pilis (pilis, XIII a.) priklause [[objektai/vietos/Karšuva]]
+- Švento Jurgio pilis (pilis, XIII a.) priklausė [[objektai/vietos/Karšuva]]

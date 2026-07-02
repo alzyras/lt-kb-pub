@@ -130,4 +130,4 @@ amziai:
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas)
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

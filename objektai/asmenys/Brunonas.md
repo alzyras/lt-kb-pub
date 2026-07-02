@@ -153,8 +153,6 @@ Brunonas šaltiniuose minimas keliais skirtingais kontekstais: kaip vokiečių v
     - t-004
 
 ## Ryšiai
-- Brunonas puole [[objektai/grupes/Lietuviai]]
-- Brunonas keliavo_i [[objektai/vietos/Prieglius]]
-- Brunonas puole [[objektai/vietos/Treiderės upė]]
-- Brunonas mire [[objektai/vietos/Lietuva]]
-- Brunonas mire [[objektai/vietos/Rusija]]
+- Brunonas keliavo į [[objektai/vietos/Prieglius]]
+- Brunonas mirė [[objektai/vietos/Lietuva]], [[objektai/vietos/Rusija]]
+- Brunonas puolė [[objektai/grupes/Lietuviai]], [[objektai/vietos/Treiderės upė]]

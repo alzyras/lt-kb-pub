@@ -69,4 +69,4 @@ Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė k
     - t-001
 
 ## Ryšiai
-- Senda Berenson-Abbot gime [[objektai/vietos/Vilnius]]
+- Senda Berenson-Abbot gimė [[objektai/vietos/Vilnius]]

@@ -81,4 +81,4 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras I]] buvo_sajungininkas_su Adomas Jurgis Čartoriskis
+- Sąjungininkai: [[objektai/asmenys/Aleksandras I]]

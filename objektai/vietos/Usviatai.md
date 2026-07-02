@@ -54,5 +54,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Kristupas Radvila]] uzeme Usviatai
-- [[objektai/asmenys/Radvila]] uzeme Usviatai
+- Užėmė Usviatai: [[objektai/asmenys/Kristupas Radvila]], [[objektai/asmenys/Radvila]]

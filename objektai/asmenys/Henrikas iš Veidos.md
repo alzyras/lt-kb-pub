@@ -94,6 +94,6 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
     - t-001
 
 ## Ryšiai
-- Henrikas iš Veidos keliavo_i [[objektai/vietos/Prūsija]]
-- Henrikas iš Veidos valde [[objektai/vietos/Prūsija]]
-- Henrikas iš Veidos kariavo_pries [[objektai/grupes/Pamedėnai]]
+- Henrikas iš Veidos valdė [[objektai/vietos/Prūsija]]
+- Henrikas iš Veidos keliavo į [[objektai/vietos/Prūsija]]
+- Henrikas iš Veidos kariavo prieš [[objektai/grupes/Pamedėnai]]

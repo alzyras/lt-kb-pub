@@ -83,4 +83,4 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
     - t-001
 
 ## Ryšiai
-- Auktuolyčiai priklause [[objektai/vietos/Nadruva]]
+- Auktuolyčiai priklausė [[objektai/vietos/Nadruva]]

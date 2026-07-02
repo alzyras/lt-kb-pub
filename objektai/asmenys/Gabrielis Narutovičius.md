@@ -49,4 +49,4 @@ Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo k
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Stanislovas Narutavičius]] buvo_brolis Gabrielis Narutovičius
+- Broliai: [[objektai/asmenys/Stanislovas Narutavičius]]

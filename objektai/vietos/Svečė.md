@@ -118,5 +118,5 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Sventopelkas]] pastate Svečė
-- [[objektai/asmenys/Sventopelkas]] gyne Svečė
+- Buvo pastatyta: [[objektai/asmenys/Sventopelkas]]
+- Gynė Svečę: [[objektai/asmenys/Sventopelkas]]

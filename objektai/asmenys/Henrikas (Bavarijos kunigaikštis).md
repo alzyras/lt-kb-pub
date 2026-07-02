@@ -58,4 +58,4 @@ Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydi
     - t-001
 
 ## Ryšiai
-- Henrikas (Bavarijos kunigaikštis) pastate [[objektai/vietos/Bajerburgas]]
+- Henrikas (Bavarijos kunigaikštis) pastatė [[objektai/vietos/Bajerburgas]]

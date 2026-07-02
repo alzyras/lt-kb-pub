@@ -59,4 +59,4 @@ susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji
     - t-001
 
 ## Ryšiai
-- Žydų Hapoelio klubas keliavo_i [[objektai/vietos/Kaunas]]
+- Žydų Hapoelio klubas keliavo į [[objektai/vietos/Kaunas]]

@@ -75,4 +75,4 @@ tags:
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Čartoriskiai]] valde_teritorija Klevanė
+- Buvo valdoma: [[objektai/grupes/Čartoriskiai]]

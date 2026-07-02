@@ -111,4 +111,4 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
     - t-003
 
 ## Ryšiai
-- Ceklis priklause [[objektai/grupes/Kuršiai]]
+- Ceklis priklausė [[objektai/grupes/Kuršiai]]

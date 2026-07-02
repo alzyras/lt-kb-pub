@@ -234,9 +234,8 @@ Fridrichas II šioje žinių bazėje iškyla kaip imperatorius, susijęs su Ordi
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Konradas]] buvo_sunus Fridrichas II
-- Fridrichas II paskyre [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
-- Fridrichas II reme [[objektai/grupes/Kryžiuočių ordinas]]
-- Fridrichas II paskyre [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kryžius]] priklause Fridrichas II
-- [[objektai/grupes/Venedai]] reme Fridrichas II
+- Sūnūs: [[objektai/asmenys/Konradas]]
+- Rėmė Fridrichas II: [[objektai/grupes/Venedai]]
+- Turėjo priklausinį: [[objektai/daiktai/Kryžius]]
+- Fridrichas II paskyrė [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Fridrichas II rėmė [[objektai/grupes/Kryžiuočių ordinas]]

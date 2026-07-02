@@ -1268,36 +1268,16 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
     - t-041
 
 ## Ryšiai
-- [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]] buvo_sunus Mindaugas (valdovas, XIII a.)
-- Mindaugas (valdovas, XIII a.) buvo_sunus [[objektai/asmenys/Maukoldas]]
-- Mindaugas (valdovas, XIII a.) buvo_vyras [[objektai/asmenys/Morta]]
-- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Cesys]]
-- Mindaugas (valdovas, XIII a.) valde [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Morta]] buvo_zmona Mindaugas (valdovas, XIII a.)
-- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Semba]]
-- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Embutė]]
-- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Mazovija]]
-- Mindaugas (valdovas, XIII a.) surenge_zygi_i [[objektai/vietos/Kuršas]]
-- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Kuršas]]
-- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Prūsija]]
-- Mindaugas (valdovas, XIII a.) surenge_zygi_i [[objektai/vietos/Livonija]]
-- Mindaugas (valdovas, XIII a.) valde_miesta [[objektai/vietos/Slanimas]]
-- Mindaugas (valdovas, XIII a.) valde_miesta [[objektai/vietos/Valkaviskas]]
-- [[objektai/grupes/Rusai]] reme Mindaugas (valdovas, XIII a.)
-- [[objektai/asmenys/Gedvydas]] kariavo_pries Mindaugas (valdovas, XIII a.)
-- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Livonija]]
-- Mindaugas (valdovas, XIII a.) valde_miesta [[objektai/vietos/Polockas]]
-- [[objektai/asmenys/Tautvilas]] kariavo_pries Mindaugas (valdovas, XIII a.)
-- Mindaugas (valdovas, XIII a.) puole [[objektai/grupes/Kryžiuočių ordinas]]
-- Mindaugas (valdovas, XIII a.) uzeme [[objektai/vietos/Brianskas]]
-- Mindaugas (valdovas, XIII a.) uzeme [[objektai/vietos/Černigovas]]
-- [[objektai/asmenys/Andrius Štirlandas]] buvo_sajungininkas_su Mindaugas (valdovas, XIII a.)
-- Mindaugas (valdovas, XIII a.) buvo_sajungininkas_su [[objektai/grupes/Rusai]]
-- Mindaugas (valdovas, XIII a.) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Mindaugas (valdovas, XIII a.) uzeme [[objektai/vietos/Gardino žemė]]
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] buvo_priesas Mindaugas (valdovas, XIII a.)
-- Mindaugas (valdovas, XIII a.) kariavo_pries [[objektai/grupes/Vokiečiai]]
-- Mindaugas (valdovas, XIII a.) siunte_i [[objektai/vietos/Brianskas]]
-- Mindaugas (valdovas, XIII a.) uzeme [[objektai/vietos/Kuršas]]
-- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Lovičius]]
-- Mindaugas (valdovas, XIII a.) valde [[objektai/vietos/Kuršas]]
+- Žmonos: [[objektai/asmenys/Morta]]
+- Sūnūs: [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
+- Tėvai: [[objektai/asmenys/Maukoldas]]
+- Priešai: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
+- Sąjungininkai: [[objektai/asmenys/Andrius Štirlandas]], [[objektai/grupes/Rusai]]
+- Kariavo prieš: [[objektai/asmenys/Gedvydas]], [[objektai/asmenys/Tautvilas]]
+- Rėmė Mindaugą (valdovas, XIII a.): [[objektai/grupes/Rusai]]
+- Mindaugas (valdovas, XIII a.) valdė [[objektai/vietos/Kuršas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Polockas]], [[objektai/vietos/Slanimas]], [[objektai/vietos/Valkaviskas]]
+- Mindaugas (valdovas, XIII a.) puolė [[objektai/vietos/Cesys]], [[objektai/vietos/Embutė]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Kuršas]], [[objektai/vietos/Livonija]], [[objektai/vietos/Lovičius]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Semba]]
+- Mindaugas (valdovas, XIII a.) užėmė [[objektai/vietos/Brianskas]], [[objektai/vietos/Černigovas]], [[objektai/vietos/Gardino žemė]], [[objektai/vietos/Kuršas]]
+- Mindaugas (valdovas, XIII a.) siuntė į [[objektai/vietos/Brianskas]]
+- Mindaugas (valdovas, XIII a.) surengė žygį į [[objektai/vietos/Kuršas]], [[objektai/vietos/Livonija]]
+- Mindaugas (valdovas, XIII a.) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vokiečiai]]

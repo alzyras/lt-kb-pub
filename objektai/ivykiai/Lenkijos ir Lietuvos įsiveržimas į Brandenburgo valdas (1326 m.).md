@@ -80,4 +80,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] surenge_zygi_i Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)
+- Buvo žygio kryptis: [[objektai/grupes/Lietuvos kariuomenė]]

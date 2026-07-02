@@ -250,11 +250,10 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     - t-007
 
 ## Ryšiai
-- [[objektai/asmenys/Zemislovas]] valde Lenčica
-- [[objektai/asmenys/Konradas]] buvo_valdovas Lenčica
-- [[objektai/asmenys/Gedgaudas]] keliavo_i Lenčica
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] uzeme Lenčica
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Lenčica
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] keliavo_i Lenčica
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Lenčica
-- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] surenge_zygi_i Lenčica
+- Turėjo valdovą: [[objektai/asmenys/Konradas]]
+- Buvo valdoma: [[objektai/asmenys/Zemislovas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Gedgaudas]], [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- Puolė Lenčicą: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Užėmė Lenčicą: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

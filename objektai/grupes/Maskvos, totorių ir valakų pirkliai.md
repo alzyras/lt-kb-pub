@@ -59,6 +59,6 @@ Maskvos, totorių ir valakų pirkliai, kaskart vis gausiau atvykstantys į Vilni
     - t-001
 
 ## Ryšiai
-- Maskvos, totorių ir valakų pirkliai keliavo_i [[objektai/vietos/Vilnius]]
+- Maskvos, totorių ir valakų pirkliai keliavo į [[objektai/vietos/Vilnius]]
+- Maskvos, totorių ir valakų pirkliai prekiavo su [[objektai/vietos/Vilnius]]
 - Maskvos, totorių ir valakų pirkliai gyveno [[objektai/vietos/Vilnius]]
-- Maskvos, totorių ir valakų pirkliai prekiavo_su [[objektai/vietos/Vilnius]]

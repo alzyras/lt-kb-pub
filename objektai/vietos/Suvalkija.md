@@ -60,5 +60,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- Suvalkija priklause [[objektai/vietos/Lenkijos karalystė]]
-- Suvalkija priklause [[objektai/vietos/Suvalkai]]
+- Suvalkija priklausė [[objektai/vietos/Lenkijos karalystė]], [[objektai/vietos/Suvalkai]]

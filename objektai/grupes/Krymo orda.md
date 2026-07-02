@@ -147,5 +147,5 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
     - t-004
 
 ## Ryšiai
-- Krymo orda puole [[objektai/vietos/Kijevas]]
-- Krymo orda keliavo_i [[objektai/vietos/Vilnius]]
+- Krymo orda keliavo į [[objektai/vietos/Vilnius]]
+- Krymo orda puolė [[objektai/vietos/Kijevas]]

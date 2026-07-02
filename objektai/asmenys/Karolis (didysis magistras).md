@@ -84,7 +84,7 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
     - t-002
 
 ## Ryšiai
-- Karolis (didysis magistras) pastate [[objektai/vietos/Kristmemelis]]
-- Karolis (didysis magistras) keliavo_i [[objektai/vietos/Kristmemelis]]
-- Karolis (didysis magistras) gyne [[objektai/vietos/Junigeda]]
-- Karolis (didysis magistras) puole [[objektai/vietos/Junigeda]]
+- Karolis (didysis magistras) keliavo į [[objektai/vietos/Kristmemelis]]
+- Karolis (didysis magistras) pastatė [[objektai/vietos/Kristmemelis]]
+- Karolis (didysis magistras) puolė [[objektai/vietos/Junigeda]]
+- Karolis (didysis magistras) gynė [[objektai/vietos/Junigeda]]

@@ -45,4 +45,4 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     - t-001
 
 ## Ryšiai
-- Santoko pilis Dobrine priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Santoko pilis Dobrine priklausė [[objektai/grupes/Kryžiuočių ordinas]]

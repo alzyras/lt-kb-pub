@@ -46,4 +46,4 @@ Puolimą pradėjo I brigada, jos svarbiausias uždavinys buvo pralaužti bolšev
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/I brigada]] puole Naujasodė
+- Puolė Naujasodę: [[objektai/grupes/I brigada]]

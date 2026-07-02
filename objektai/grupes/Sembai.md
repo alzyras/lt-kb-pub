@@ -946,33 +946,19 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     - t-025
 
 ## Ryšiai
-- Sembai puole [[objektai/vietos/Fišhauzenas]]
-- Sembai gyveno [[objektai/vietos/Rinava]]
-- Sembai paskyre [[objektai/asmenys/Naudžiotas|Naudžiotas (karvedys)]]
-- Sembai paskyre [[objektai/asmenys/Glanda]]
-- Sembai siunte_i [[objektai/vietos/Baiga]]
-- Sembai uzkariavo [[objektai/vietos/Kapsteta]]
-- Sembai priklause [[objektai/grupes/Baltai]]
-- Sembai uzeme [[objektai/vietos/Kapsteta]]
-- Sembai gyveno [[objektai/vietos/Rytprūsiai]]
-- Sembai puole [[objektai/vietos/Rinava]]
-- Sembai puole [[objektai/vietos/Paštuvos valsčius]]
-- [[objektai/grupes/Kryžiuočių ordinas]] kariavo_pries Sembai
-- Sembai dalyvavo_musyje [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]
-- Sembai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
-- Sembai keliavo_i [[objektai/vietos/Birka (Švedijos uostas)]]
-- Sembai puole [[objektai/vietos/Vonsdorfas]]
-- [[objektai/asmenys/Henrikas Stange]] kariavo_pries Sembai
-- [[objektai/asmenys/Henrikas Ulenbušas]] kariavo_pries Sembai
-- Sembai puole [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
-- [[objektai/vietos/Girmava]] priklause Sembai
-- [[objektai/grupes/Nadruviai]] kariavo_pries Sembai
-- Sembai puole [[objektai/vietos/Bisenė]]
-- Sembai puole [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]
-- Sembai surenge_zygi_i [[objektai/vietos/Medininkai]]
-- Sembai surenge_zygi_i [[objektai/vietos/Vaikiai]]
-- [[objektai/grupes/Skalviai]] buvo_priesas Sembai
-- [[objektai/asmenys/Engelbertas I]] puole Sembai
-- [[objektai/asmenys/Ditrichas (Sembos fogtas)]] reme Sembai
-- Sembai puole [[objektai/ivykiai/Grafo iš Barbio žygis į Sembą ir pralaimėjimas]]
-- Sembai puole [[objektai/grupes/Skalviai]]
+- Priešai: [[objektai/grupes/Skalviai]]
+- Sąjungininkai: [[objektai/grupes/Lietuviai]]
+- Puolė Sembai: [[objektai/asmenys/Engelbertas I]]
+- Kariavo prieš: [[objektai/asmenys/Henrikas Stange]], [[objektai/asmenys/Henrikas Ulenbušas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Nadruviai]]
+- Rėmė Sembai: [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
+- Turėjo priklausinį: [[objektai/vietos/Girmava]]
+- Sembai keliavo į [[objektai/vietos/Birka (Švedijos uostas)]]
+- Sembai puolė [[objektai/vietos/Bisenė]], [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]], [[objektai/vietos/Fišhauzenas]], [[objektai/ivykiai/Grafo iš Barbio žygis į Sembą ir pralaimėjimas]], [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]], [[objektai/vietos/Paštuvos valsčius]], [[objektai/vietos/Rinava]], [[objektai/grupes/Skalviai]], [[objektai/vietos/Vonsdorfas]]
+- Sembai užėmė [[objektai/vietos/Kapsteta]]
+- Sembai siuntė į [[objektai/vietos/Baiga]]
+- Sembai surengė žygį į [[objektai/vietos/Medininkai]], [[objektai/vietos/Vaikiai]]
+- Sembai dalyvavo mūšyje [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]
+- Sembai gyveno [[objektai/vietos/Rinava]], [[objektai/vietos/Rytprūsiai]]
+- Sembai paskyrė [[objektai/asmenys/Glanda]], [[objektai/asmenys/Naudžiotas|Naudžiotas (karvedys)]]
+- Sembai priklausė [[objektai/grupes/Baltai]]
+- Sembai užkariavo [[objektai/vietos/Kapsteta]]

@@ -113,4 +113,4 @@ amziai:
     - t-002
 
 ## Ryšiai
-- Stepono Batoro vengrų kariuomenė surenge_zygi_i [[objektai/vietos/Velikije Lūki]]
+- Stepono Batoro vengrų kariuomenė surengė žygį į [[objektai/vietos/Velikije Lūki]]

@@ -121,4 +121,4 @@ periodo_grupes:
     - t-003
 
 ## Ryšiai
-- Elžbieta (Žygimanto Augusto žmona) mire [[objektai/vietos/Vilnius]]
+- Elžbieta (Žygimanto Augusto žmona) mirė [[objektai/vietos/Vilnius]]

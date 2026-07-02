@@ -403,9 +403,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Pranciškonų ordinas]] pastate Kryžius
-- Kryžius priklause [[objektai/vietos/Trakų pilis|Trakų pilis (pilis)]]
-- Kryžius priklause [[objektai/vietos/Krokuva]]
-- Kryžius priklause [[objektai/asmenys/Fridrichas II]]
-- Kryžius priklause [[objektai/asmenys/Hermanas]]
-- Kryžius priklause [[objektai/vietos/Elbingas]]
+- Buvo pastatyta: [[objektai/grupes/Pranciškonų ordinas]]
+- Kryžius priklausė [[objektai/vietos/Elbingas]], [[objektai/asmenys/Fridrichas II]], [[objektai/asmenys/Hermanas]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Trakų pilis|Trakų pilis (pilis)]]

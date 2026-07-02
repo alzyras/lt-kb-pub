@@ -111,5 +111,5 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
     - t-001
 
 ## Ryšiai
-- Engelhardas Rabė uzeme [[objektai/vietos/Maišiagala]]
-- Engelhardas Rabė surenge_zygi_i [[objektai/vietos/Vilnius]]
+- Engelhardas Rabė užėmė [[objektai/vietos/Maišiagala]]
+- Engelhardas Rabė surengė žygį į [[objektai/vietos/Vilnius]]

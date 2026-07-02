@@ -54,4 +54,4 @@ Dusburgietis teigia, kad apie Mikalojų IV, popiežių, bei karalių Rudolfą ir
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Krikščionys]] gyveno Tripolis
+- Gyvenamoji vieta: [[objektai/grupes/Krikščionys]]

@@ -82,4 +82,4 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Volkoviskas
+- Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

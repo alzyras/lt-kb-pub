@@ -52,4 +52,4 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
     - t-001
 
 ## Ryšiai
-- Gedvydas kariavo_pries [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- Gedvydas kariavo prieš [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

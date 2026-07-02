@@ -70,4 +70,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lenkijos kariuomenė]] dalyvavo_musyje Zelencų mūšis (1792 m. birželio 18 d.)
+- Turėjo dalyvį: [[objektai/grupes/Lenkijos kariuomenė]]

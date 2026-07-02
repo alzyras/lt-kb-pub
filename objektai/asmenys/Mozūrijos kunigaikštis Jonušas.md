@@ -50,5 +50,5 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     - t-001
 
 ## Ryšiai
-- Mozūrijos kunigaikštis Jonušas vede [[objektai/asmenys/Danuta]]
-- Mozūrijos kunigaikštis Jonušas buvo_valdovas [[objektai/vietos/Mozūrija]]
+- Sutuoktiniai: [[objektai/asmenys/Danuta]]
+- Mozūrijos kunigaikštis Jonušas buvo valdovas [[objektai/vietos/Mozūrija]]

@@ -135,8 +135,8 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Mingaila]] puole Polockiečiai
-- Polockiečiai surenge_zygi_i [[objektai/vietos/Gorodecas]]
-- Polockiečiai keliavo_i [[objektai/vietos/Gorodecas]]
-- [[objektai/asmenys/Mingaila]] kariavo_pries Polockiečiai
-- Polockiečiai reme [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Puolė Polockiečiai: [[objektai/asmenys/Mingaila]]
+- Kariavo prieš: [[objektai/asmenys/Mingaila]]
+- Polockiečiai keliavo į [[objektai/vietos/Gorodecas]]
+- Polockiečiai surengė žygį į [[objektai/vietos/Gorodecas]]
+- Polockiečiai rėmė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

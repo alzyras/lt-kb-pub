@@ -61,4 +61,4 @@ Rohačevas minimas Aleksandro 1492.IX.27 instrukcijoje. Rohačevas lokalizuojama
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Maskvėnai]] uzeme Rohačevas
+- Užėmė Rohačevą: [[objektai/grupes/Maskvėnai]]

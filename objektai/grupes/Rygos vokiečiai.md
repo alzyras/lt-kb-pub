@@ -45,4 +45,4 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
     - t-001
 
 ## Ryšiai
-- Rygos vokiečiai buvo_sajungininkas_su [[objektai/asmenys/Tautvilas]]
+- Sąjungininkai: [[objektai/asmenys/Tautvilas]]

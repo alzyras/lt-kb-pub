@@ -53,4 +53,4 @@ Algirdui vedant vienintelę Vitebsko kunigaikščio sosto įpėdinę, dukterį M
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] vede Marija (Vitebsko sosto įpėdinė)
+- Sutuoktiniai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

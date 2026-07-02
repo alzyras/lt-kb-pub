@@ -92,4 +92,4 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     - t-003
 
 ## Ryšiai
-- Henne reme [[objektai/grupes/Vokiečiai]]
+- Henne rėmė [[objektai/grupes/Vokiečiai]]

@@ -59,4 +59,4 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
     - t-001
 
 ## Ryšiai
-- Kodrūnas uzeme [[objektai/vietos/Baiga]]
+- Kodrūnas užėmė [[objektai/vietos/Baiga]]

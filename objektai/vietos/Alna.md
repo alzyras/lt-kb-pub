@@ -73,4 +73,4 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Alna
+- Užėmė Alną: [[objektai/grupes/Kryžiuočių ordinas]]

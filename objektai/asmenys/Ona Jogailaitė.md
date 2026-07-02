@@ -347,5 +347,5 @@ Ona Jogailaitė 1571 m. Žygimanto Augusto testamente įvardijama kaip karalait�
     - t-007
 
 ## Ryšiai
-- [[objektai/daiktai/Rykai]] priklause Ona Jogailaitė
+- Turėjo priklausinį: [[objektai/daiktai/Rykai]]
 - Ona Jogailaitė gyveno [[objektai/vietos/Lenkija]]

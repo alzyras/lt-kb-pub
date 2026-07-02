@@ -109,4 +109,4 @@ Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vi
     - t-001
 
 ## Ryšiai
-- Kauno Vilniaus pirklių prekių sandėlis priklause [[objektai/vietos/Vilnius]]
+- Kauno Vilniaus pirklių prekių sandėlis priklausė [[objektai/vietos/Vilnius]]

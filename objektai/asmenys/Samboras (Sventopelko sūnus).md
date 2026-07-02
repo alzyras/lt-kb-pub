@@ -95,5 +95,5 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
     - t-003
 
 ## Ryšiai
-- Samboras (Sventopelko sūnus) buvo_sunus [[objektai/asmenys/Sventopelkas]]
-- Samboras (Sventopelko sūnus) buvo_brolis [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]
+- Tėvai: [[objektai/asmenys/Sventopelkas]]
+- Broliai: [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]

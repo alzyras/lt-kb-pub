@@ -138,8 +138,7 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
     - t-003
 
 ## Ryšiai
-- Vasilijus keliavo_i [[objektai/vietos/Maskva]]
-- Vasilijus siunte_i [[objektai/vietos/Možaiskas]]
-- Vasilijus buvo_valdovas [[objektai/vietos/Maskva]]
-- Vasilijus paskyre [[objektai/asmenys/Mykolas Glinskis]]
-- Vasilijus siunte_i [[objektai/vietos/Maskva]]
+- Vasilijus buvo valdovas [[objektai/vietos/Maskva]]
+- Vasilijus keliavo į [[objektai/vietos/Maskva]]
+- Vasilijus siuntė į [[objektai/vietos/Maskva]], [[objektai/vietos/Možaiskas]]
+- Vasilijus paskyrė [[objektai/asmenys/Mykolas Glinskis]]

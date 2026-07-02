@@ -95,6 +95,6 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Hanulas keliavo_i [[objektai/vietos/Lenkija]]
-- Hanulas reme [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Hanulas valde_miesta [[objektai/vietos/Vilnius]]
+- Hanulas valdė [[objektai/vietos/Vilnius]]
+- Hanulas keliavo į [[objektai/vietos/Lenkija]]
+- Hanulas rėmė [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

@@ -79,5 +79,5 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]] vede Danuta
-- Danuta buvo_dukte [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Sutuoktiniai: [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]]
+- Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

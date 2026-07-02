@@ -69,4 +69,4 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
     - t-002
 
 ## Ryšiai
-- Steinavas buvo_priesas [[objektai/asmenys/Glapas]]
+- Priešai: [[objektai/asmenys/Glapas]]

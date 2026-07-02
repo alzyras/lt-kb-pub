@@ -48,4 +48,4 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] uzeme Paberžė
+- Užėmė Paberžę: [[objektai/grupes/Lietuviai]]

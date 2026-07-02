@@ -52,4 +52,4 @@ tags:
     - t-002
 
 ## Ryšiai
-- Ghillebert de Lannoy keliavo_i [[objektai/vietos/Galvės ežero salos pilis|Galvės ežero salos pilis (pilis)]]
+- Ghillebert de Lannoy keliavo į [[objektai/vietos/Galvės ežero salos pilis|Galvės ežero salos pilis (pilis)]]

@@ -66,4 +66,4 @@ tags:
     - t-002
 
 ## Ryšiai
-- asis pėstininkų Pilėnų Kunigaikščio Margio pulkas kariavo_pries [[objektai/grupes/Lenkai]]
+- asis pėstininkų Pilėnų Kunigaikščio Margio pulkas kariavo prieš [[objektai/grupes/Lenkai]]

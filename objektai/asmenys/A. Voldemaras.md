@@ -286,6 +286,5 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
     - t-004
 
 ## Ryšiai
-- A. Voldemaras keliavo_i [[objektai/vietos/Paryžius]]
-- [[objektai/grupes/Voldemarininkai]] reme A. Voldemaras
-- A. Voldemaras keliavo_i [[objektai/vietos/Zarasai]]
+- Rėmė A. Voldemarą: [[objektai/grupes/Voldemarininkai]]
+- A. Voldemaras keliavo į [[objektai/vietos/Paryžius]], [[objektai/vietos/Zarasai]]

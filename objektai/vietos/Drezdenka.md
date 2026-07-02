@@ -45,4 +45,4 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     - t-001
 
 ## Ryšiai
-- Drezdenka priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Drezdenka priklausė [[objektai/grupes/Kryžiuočių ordinas]]

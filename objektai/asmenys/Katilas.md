@@ -41,4 +41,4 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
     - t-001
 
 ## Ryšiai
-- [[objektai/daiktai/Antspaudas]] priklause Katilas
+- Turėjo priklausinį: [[objektai/daiktai/Antspaudas]]

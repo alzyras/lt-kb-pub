@@ -136,4 +136,4 @@ amziai:
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/P. Lukšio rinktinė]] priklause Prisikėlimo apygarda
+- Turėjo priklausinį: [[objektai/grupes/P. Lukšio rinktinė]]

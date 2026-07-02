@@ -806,19 +806,11 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
     - t-020
 
 ## Ryšiai
-- [[objektai/grupes/Žemaičiai]] puole Kuršas
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] surenge_zygi_i Kuršas
-- [[objektai/asmenys/Burchardas iš Hornhauzeno]] mire Kuršas
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Kuršas
-- [[objektai/vietos/Alsunga]] priklause Kuršas
-- [[objektai/grupes/Lietuviai]] puole Kuršas
-- [[objektai/asmenys/Fridrichas Ketleris]] buvo_valdovas Kuršas
-- [[objektai/vietos/Piltenė]] priklause Kuršas
-- [[objektai/grupes/Lybiai]] gyveno Kuršas
-- [[objektai/asmenys/Henrikas Botelis]] mire Kuršas
-- [[objektai/vietos/Alūkšta]] priklause Kuršas
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] uzeme Kuršas
-- [[objektai/vietos/Heilsbergas]] priklause Kuršas
-- [[objektai/vietos/Karšuva]] priklause Kuršas
-- [[objektai/asmenys/Vidmantas iš Kuršo]] gyveno Kuršas
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] valde Kuršas
+- Turėjo valdovą: [[objektai/asmenys/Fridrichas Ketleris]]
+- Buvo valdoma: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- Mirties vieta: [[objektai/asmenys/Burchardas iš Hornhauzeno]], [[objektai/asmenys/Henrikas Botelis]]
+- Puolė Kuršą: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/grupes/Žemaičiai]]
+- Užėmė Kuršą: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- Buvo žygio kryptis: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- Gyvenamoji vieta: [[objektai/grupes/Lybiai]], [[objektai/asmenys/Vidmantas iš Kuršo]]
+- Turėjo priklausinį: [[objektai/vietos/Alsunga]], [[objektai/vietos/Alūkšta]], [[objektai/vietos/Heilsbergas]], [[objektai/vietos/Karšuva]], [[objektai/vietos/Piltenė]]

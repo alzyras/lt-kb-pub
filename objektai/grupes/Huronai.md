@@ -46,5 +46,4 @@ Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvi
     - t-001
 
 ## Ryšiai
-- Huronai gyveno [[objektai/vietos/Kanada]]
-- Huronai gyveno [[objektai/vietos/Šiaurės Amerika Kanada]]
+- Huronai gyveno [[objektai/vietos/Kanada]], [[objektai/vietos/Šiaurės Amerika Kanada]]

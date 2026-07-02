@@ -40,4 +40,4 @@ Livonijos ponai buvo Jogailos kariuomenėje, kai Jogaila pasitiko Kęstutį su �
     - t-001
 
 ## Ryšiai
-- Livonijos ponai buvo_sajungininkas_su [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Sąjungininkai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

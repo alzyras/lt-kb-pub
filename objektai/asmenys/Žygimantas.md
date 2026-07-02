@@ -437,30 +437,23 @@ tags:
     - t-008
 
 ## Ryšiai
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] buvo_sunus Žygimantas
-- Žygimantas uzeme [[objektai/vietos/Trakai]]
-- Žygimantas uzeme [[objektai/vietos/Vilnius]]
-- Žygimantas mire [[objektai/vietos/Trakai]]
-- [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]] kariavo_pries Žygimantas
-- Žygimantas keliavo_i [[objektai/vietos/Ašmena]]
-- Žygimantas puole [[objektai/vietos/Ašmena]]
-- Žygimantas buvo_palaidotas [[objektai/vietos/Vilnius]]
-- Žygimantas buvo_sunus [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Žygimantas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Žygimantas paskyre [[objektai/asmenys/Jurgis Nosuta]]
-- Žygimantas dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-- Žygimantas kariavo_pries [[objektai/asmenys/Švitrigaila]]
-- Žygimantas puole [[objektai/asmenys/Švitrigaila]]
-- Žygimantas siunte_i [[objektai/vietos/Lietuva]]
-- Žygimantas surenge_zygi_i [[objektai/vietos/Ašmena]]
-- Žygimantas keliavo_i [[objektai/vietos/Radaškovičiai]]
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] buvo_sajungininkas_su Žygimantas
-- [[objektai/asmenys/Petrašu Montgirdaitis]] buvo_sajungininkas_su Žygimantas
-- Žygimantas buvo_priesas [[objektai/asmenys/Švitrigaila]]
-- Žygimantas valde_miesta [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Smolenskiečiai]] reme Žygimantas
-- Žygimantas buvo_brolis [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vladislovas Varnietis]] reme Žygimantas
-- Žygimantas keliavo_i [[objektai/vietos/Gardinas]]
-- Žygimantas buvo_sajungininkas_su [[objektai/asmenys/Švitrigaila]]
-- Žygimantas pastate [[objektai/vietos/Pabaiskas]]
+- Sūnūs: [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Broliai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Priešai: [[objektai/asmenys/Švitrigaila]]
+- Sąjungininkai: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Petrašu Montgirdaitis]], [[objektai/asmenys/Švitrigaila]]
+- Kariavo prieš: [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]]
+- Rėmė Žygimantą: [[objektai/grupes/Smolenskiečiai]], [[objektai/asmenys/Vladislovas Varnietis]]
+- Žygimantas buvo valdovas [[objektai/vietos/Lietuva]]
+- Žygimantas valdė [[objektai/vietos/Vilnius]]
+- Žygimantas keliavo į [[objektai/vietos/Ašmena]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Radaškovičiai]]
+- Žygimantas mirė [[objektai/vietos/Trakai]]
+- Žygimantas buvo palaidotas [[objektai/vietos/Vilnius]]
+- Žygimantas pastatė [[objektai/vietos/Pabaiskas]]
+- Žygimantas puolė [[objektai/vietos/Ašmena]], [[objektai/asmenys/Švitrigaila]]
+- Žygimantas užėmė [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Žygimantas siuntė į [[objektai/vietos/Lietuva]]
+- Žygimantas surengė žygį į [[objektai/vietos/Ašmena]]
+- Žygimantas kariavo prieš [[objektai/asmenys/Švitrigaila]]
+- Žygimantas dalyvavo mūšyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- Žygimantas paskyrė [[objektai/asmenys/Jurgis Nosuta]]

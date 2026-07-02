@@ -48,4 +48,4 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Veliuonos pilis (pilis)
+- Puolė Veliuonos pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]

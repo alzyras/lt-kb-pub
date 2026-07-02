@@ -60,4 +60,4 @@ Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­ re Trakuose, todėl
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Maskvos žemės
+- Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

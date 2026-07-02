@@ -221,10 +221,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     - t-003
 
 ## Ryšiai
-- Užnemunė priklause [[objektai/vietos/Prūsija]]
-- Užnemunė priklause [[objektai/vietos/Augustavo gubernija]]
-- Užnemunė priklause [[objektai/vietos/Rusija]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Užnemunė
-- Užnemunė priklause [[objektai/vietos/Lenkijos karalystė]]
-- Užnemunė priklause [[objektai/vietos/Varšuvos kunigaikštystė]]
-- [[objektai/asmenys/Jonas Basanavičius]] gime Užnemunė
+- Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gimimo vieta: [[objektai/asmenys/Jonas Basanavičius]]
+- Užnemunė priklausė [[objektai/vietos/Augustavo gubernija]], [[objektai/vietos/Lenkijos karalystė]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Rusija]], [[objektai/vietos/Varšuvos kunigaikštystė]]

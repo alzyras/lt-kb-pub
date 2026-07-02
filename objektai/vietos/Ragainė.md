@@ -848,24 +848,11 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     - t-024
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Ragainė
-- Ragainė priklause [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Otonas iš Bergo]] siunte_i Ragainė
-- [[objektai/asmenys/Otonas iš Cedlico]] siunte_i Ragainė
-- [[objektai/asmenys/Bertoldas]] valde Ragainė
-- [[objektai/asmenys/Ditrichas iš Ezbeko]] gyne Ragainė
-- [[objektai/asmenys/Ditrichas iš Ezbeko]] siunte_i Ragainė
-- [[objektai/asmenys/Draika]] keliavo_i Ragainė
-- [[objektai/asmenys/Ditrichas (Sembos fogtas)]] puole Ragainė
-- Ragainė priklause [[objektai/vietos/Skalva]]
-- [[objektai/vietos/Skalvių pilis|Skalvių pilis (pilis, XIII a.)]] priklause Ragainė
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] gyne Ragainė
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] valde Ragainė
-- [[objektai/asmenys/Ditrichas (Sembos fogtas)]] surenge_zygi_i Ragainė
-- [[objektai/asmenys/Pinas]] keliavo_i Ragainė
-- Ragainė priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Aleksandras Karijotaitis]] puole Ragainė
-- [[objektai/daiktai/Žuvų tvenkinys Ragainės pilyje|Žuvų tvenkinys Ragainės pilyje (pilis)]] priklause Ragainė
-- [[objektai/asmenys/Draika]] siunte_i Ragainė
-- [[objektai/grupes/Lietuviai]] surenge_zygi_i Ragainė
-- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Ragainė
+- Buvo valdoma: [[objektai/asmenys/Bertoldas]], [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
+- Buvo kelionės vieta: [[objektai/asmenys/Draika]], [[objektai/asmenys/Pinas]]
+- Puolė Ragainę: [[objektai/asmenys/Aleksandras Karijotaitis]], [[objektai/asmenys/Ditrichas (Sembos fogtas)]], [[objektai/grupes/Lietuviai]]
+- Gynė Ragainę: [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]], [[objektai/asmenys/Ditrichas iš Ezbeko]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Ditrichas iš Ezbeko]], [[objektai/asmenys/Draika]], [[objektai/asmenys/Otonas iš Bergo]], [[objektai/asmenys/Otonas iš Cedlico]]
+- Buvo žygio kryptis: [[objektai/asmenys/Ditrichas (Sembos fogtas)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]]
+- Turėjo priklausinį: [[objektai/vietos/Skalvių pilis|Skalvių pilis (pilis, XIII a.)]], [[objektai/daiktai/Žuvų tvenkinys Ragainės pilyje|Žuvų tvenkinys Ragainės pilyje (pilis)]]
+- Ragainė priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Skalva]]

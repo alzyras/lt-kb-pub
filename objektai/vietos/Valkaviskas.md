@@ -104,4 +104,4 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] valde_miesta Valkaviskas
+- Buvo valdoma: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

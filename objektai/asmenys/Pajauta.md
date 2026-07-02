@@ -94,7 +94,7 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
     - t-002
 
 ## Ryšiai
-- Pajauta buvo_dukte [[objektai/asmenys/Kernius]]
-- [[objektai/asmenys/Kukovaitis]] buvo_sunus Pajauta
-- Pajauta buvo_zmona [[objektai/asmenys/Živinbudas]]
-- [[objektai/asmenys/Živinbudas]] vede Pajauta
+- Vyrai: [[objektai/asmenys/Živinbudas]]
+- Sutuoktiniai: [[objektai/asmenys/Živinbudas]]
+- Sūnūs: [[objektai/asmenys/Kukovaitis]]
+- Tėvai: [[objektai/asmenys/Kernius]]

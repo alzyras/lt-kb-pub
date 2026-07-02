@@ -109,4 +109,4 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] uzeme Butrimonys
+- Užėmė Butrimonį: [[objektai/grupes/Lenkai]]

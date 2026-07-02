@@ -312,4 +312,4 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
     - t-011
 
 ## Ryšiai
-- Antakalnis priklause [[objektai/vietos/Vilnius]]
+- Antakalnis priklausė [[objektai/vietos/Vilnius]]

@@ -146,8 +146,7 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
     - t-002
 
 ## Ryšiai
-- Abraomas Kulvietis keliavo_i [[objektai/vietos/Vilnius]]
-- Abraomas Kulvietis keliavo_i [[objektai/vietos/Prūsija]]
-- [[objektai/asmenys/Albrechtas]] reme Abraomas Kulvietis
+- Rėmė Abraomas Kulvietį: [[objektai/asmenys/Albrechtas]]
+- Abraomas Kulvietis keliavo į [[objektai/vietos/Prūsija]], [[objektai/vietos/Vilnius]]
+- Abraomas Kulvietis pastatė [[objektai/vietos/Vilnius]]
 - Abraomas Kulvietis gyveno [[objektai/vietos/Vilnius]]
-- Abraomas Kulvietis pastate [[objektai/vietos/Vilnius]]

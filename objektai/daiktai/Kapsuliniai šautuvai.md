@@ -74,4 +74,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Kapsuliniai šautuvai priklause [[objektai/grupes/Rusai]]
+- Kapsuliniai šautuvai priklausė [[objektai/grupes/Rusai]]

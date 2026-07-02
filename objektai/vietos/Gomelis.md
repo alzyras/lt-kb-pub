@@ -74,5 +74,5 @@ Uzos upė įteka į Sožą truputį žemiau Gomelio. Apie 1447 m. Švitrigaila g
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/I. Zolotarenko]] apgule Gomelis
-- [[objektai/asmenys/Švitrigaila]] valde Gomelis
+- Buvo valdoma: [[objektai/asmenys/Švitrigaila]]
+- Apgulė Gomelį: [[objektai/asmenys/I. Zolotarenko]]

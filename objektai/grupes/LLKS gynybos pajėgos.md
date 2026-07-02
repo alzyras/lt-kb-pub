@@ -50,4 +50,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- LLKS gynybos pajėgos priklause [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- LLKS gynybos pajėgos priklausė [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]

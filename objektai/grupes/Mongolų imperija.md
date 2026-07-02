@@ -102,5 +102,5 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Auksinė Orda]] priklause Mongolų imperija
-- Mongolų imperija uzkariavo [[objektai/vietos/Kijevas]]
+- Turėjo priklausinį: [[objektai/grupes/Auksinė Orda]]
+- Mongolų imperija užkariavo [[objektai/vietos/Kijevas]]

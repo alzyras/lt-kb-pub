@@ -100,5 +100,5 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Liubartas]] valde_miesta Karačevas
-- [[objektai/asmenys/Skirmantas]] uzeme Karačevas
+- Buvo valdoma: [[objektai/asmenys/Liubartas]]
+- Užėmė Karačevą: [[objektai/asmenys/Skirmantas]]

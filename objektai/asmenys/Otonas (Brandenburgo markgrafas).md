@@ -62,4 +62,4 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
     - t-001
 
 ## Ryšiai
-- Otonas (Brandenburgo markgrafas) surenge_zygi_i [[objektai/vietos/Prūsija]]
+- Otonas (Brandenburgo markgrafas) surengė žygį į [[objektai/vietos/Prūsija]]

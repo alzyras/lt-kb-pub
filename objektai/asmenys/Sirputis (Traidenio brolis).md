@@ -90,4 +90,4 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
     - t-001
 
 ## Ryšiai
-- Sirputis (Traidenio brolis) buvo_brolis [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
+- Broliai: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

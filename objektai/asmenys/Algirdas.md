@@ -2003,92 +2003,31 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
     - t-055
 
 ## Ryšiai
-- [[objektai/asmenys/Narimantas Gediminaitis]] buvo_brolis Algirdas (Lietuvos valdovas)
-- Algirdas (Lietuvos valdovas) surenge_zygi_i [[objektai/vietos/Maskva]]
-- Algirdas (Lietuvos valdovas) buvo_sunus [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- [[objektai/asmenys/Andrius Algirdaitis]] buvo_sunus Algirdas (Lietuvos valdovas)
-- [[objektai/asmenys/Marija (Algirdo žmona)]] buvo_zmona Algirdas (Lietuvos valdovas)
-- Algirdas (Lietuvos valdovas) gyne [[objektai/vietos/Pskovas]]
-- Algirdas (Lietuvos valdovas) paskyre [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
-- Algirdas (Lietuvos valdovas) puole [[objektai/vietos/Brianskas]]
-- Algirdas (Lietuvos valdovas) valde [[objektai/vietos/Krėva]]
-- Algirdas (Lietuvos valdovas) valde [[objektai/vietos/Vitebskas]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Podolė]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] buvo_sunus Algirdas (Lietuvos valdovas)
-- [[objektai/asmenys/Karijotas]] buvo_brolis Algirdas (Lietuvos valdovas)
+- Žmonos: [[objektai/asmenys/Julijona]], [[objektai/asmenys/Julijona Vitebskietė]], [[objektai/asmenys/Marija (Algirdo žmona)]]
+- Sutuoktiniai: [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė)]]
+- Sūnūs: [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Dimitras Kaributas]], [[objektai/asmenys/Dmitrijus Kaributas]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Karigaila]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]], [[objektai/asmenys/Vladimiras (Algirdo sūnus)]], [[objektai/asmenys/Vladimiras Algirdaitis]], [[objektai/asmenys/Vladislovas Jogaila]]
+- Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Broliai: [[objektai/asmenys/Karijotas]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Narimantas Gediminaitis]]
+- Priešai: [[objektai/grupes/Maskvos kunigaikštystė]]
+- Sąjungininkai: [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Patirgas]], [[objektai/asmenys/Svirdeika]]
+- Kariavo prieš: [[objektai/asmenys/Dmitrijus]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Sudarė sutartį su: [[objektai/asmenys/Dimitrijus]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Rėmė Algirdą (Lietuvos valdovas): [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Algirdas (Lietuvos valdovas) buvo valdovas [[objektai/vietos/Vitebskas]]
+- Algirdas (Lietuvos valdovas) valdė [[objektai/vietos/Brasta]], [[objektai/vietos/Kijevo Rusia]], [[objektai/vietos/Krėva]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Možaiskas]], [[objektai/vietos/Podolė]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
+- Algirdas (Lietuvos valdovas) keliavo į [[objektai/ivykiai/Algirdo žygiai į Maskvą]], [[objektai/vietos/Kanevas]], [[objektai/vietos/Maskva]], [[objektai/vietos/Pasveikinimo kalva]]
+- Algirdas (Lietuvos valdovas) buvo palaidotas [[objektai/daiktai/Laužas]], [[objektai/vietos/Maišiagala]]
+- Algirdas (Lietuvos valdovas) pastatė [[objektai/vietos/Vitebskas]]
+- Algirdas (Lietuvos valdovas) puolė [[objektai/vietos/Brianskas]], [[objektai/vietos/Kremlius]], [[objektai/vietos/Prūsija]], [[objektai/grupes/Totoriai]], [[objektai/vietos/Vėluva]], [[objektai/vietos/Želva]]
+- Algirdas (Lietuvos valdovas) apgulė [[objektai/vietos/Kremlius]], [[objektai/vietos/Maskva]]
+- Algirdas (Lietuvos valdovas) užėmė [[objektai/vietos/Desna]], [[objektai/vietos/Dniepras]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Mogiliavas]], [[objektai/vietos/Mstislavlis]], [[objektai/vietos/Podolė]], [[objektai/vietos/Toropiec]]
+- Algirdas (Lietuvos valdovas) gynė [[objektai/vietos/Pskovas]], [[objektai/grupes/Tverės kunigaikštystė]], [[objektai/vietos/Vilnius]]
+- Algirdas (Lietuvos valdovas) siuntė į [[objektai/vietos/Vilnius]]
+- Algirdas (Lietuvos valdovas) surengė žygį į [[objektai/ivykiai/Algirdo žygiai į Maskvą]], [[objektai/vietos/Deimena]], [[objektai/vietos/Maskva]], [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]], [[objektai/vietos/Nadruva]], [[objektai/vietos/Rusia]], [[objektai/vietos/Rusia Rusios žemės]]
+- Algirdas (Lietuvos valdovas) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Mongolai]], [[objektai/grupes/Totoriai]]
+- Algirdas (Lietuvos valdovas) dalyvavo mūšyje [[objektai/ivykiai/Algirdo žygiai į Maskvą]], [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]], [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- Algirdas (Lietuvos valdovas) sudarė sutartį su [[objektai/asmenys/Dimitrijus]]
 - Algirdas (Lietuvos valdovas) gyveno [[objektai/vietos/Paneriai]]
-- Algirdas (Lietuvos valdovas) paskyre [[objektai/asmenys/Petras Goštautas]]
-- Algirdas (Lietuvos valdovas) reme [[objektai/grupes/Karijotaičiai]]
-- Algirdas (Lietuvos valdovas) uzeme [[objektai/vietos/Toropiec]]
-- [[objektai/asmenys/Julijona]] buvo_zmona Algirdas (Lietuvos valdovas)
-- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]] buvo_sunus Algirdas (Lietuvos valdovas)
-- [[objektai/asmenys/Vladimiras (Algirdo sūnus)]] buvo_sunus Algirdas (Lietuvos valdovas)
-- [[objektai/asmenys/Vladimiras Algirdaitis]] buvo_sunus Algirdas (Lietuvos valdovas)
-- [[objektai/asmenys/Vladislovas Jogaila]] buvo_sunus Algirdas (Lietuvos valdovas)
-- Algirdas (Lietuvos valdovas) kariavo_pries [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Dimitras Kaributas]] buvo_sunus Algirdas (Lietuvos valdovas)
-- [[objektai/asmenys/Julijona Vitebskietė]] buvo_zmona Algirdas (Lietuvos valdovas)
-- Algirdas (Lietuvos valdovas) sudare_sutarti_su [[objektai/asmenys/Dimitrijus]]
-- Algirdas (Lietuvos valdovas) surenge_zygi_i [[objektai/vietos/Nadruva]]
-- Algirdas (Lietuvos valdovas) uzeme [[objektai/vietos/Mstislavlis]]
-- Algirdas (Lietuvos valdovas) vede [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė)]]
-- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] buvo_brolis Algirdas (Lietuvos valdovas)
-- Algirdas (Lietuvos valdovas) uzeme [[objektai/vietos/Kijevas]]
-- [[objektai/asmenys/Karigaila]] buvo_sunus Algirdas (Lietuvos valdovas)
-- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] buvo_sunus Algirdas (Lietuvos valdovas)
-- Algirdas (Lietuvos valdovas) siunte_i [[objektai/vietos/Vilnius]]
-- Algirdas (Lietuvos valdovas) apgule [[objektai/vietos/Maskva]]
-- Algirdas (Lietuvos valdovas) dalyvavo_musyje [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
-- Algirdas (Lietuvos valdovas) uzeme [[objektai/vietos/Podolė]]
-- Algirdas (Lietuvos valdovas) valde [[objektai/vietos/Lietuva]]
-- Algirdas (Lietuvos valdovas) valde_miesta [[objektai/vietos/Krėva]]
-- Algirdas (Lietuvos valdovas) valde_miesta [[objektai/vietos/Vilnius]]
-- Algirdas (Lietuvos valdovas) valde_miesta [[objektai/vietos/Vitebskas]]
-- [[objektai/asmenys/Dimitrijus]] sudare_sutarti_su Algirdas (Lietuvos valdovas)
-- [[objektai/asmenys/Dmitrijus Kaributas]] buvo_sunus Algirdas (Lietuvos valdovas)
-- Algirdas (Lietuvos valdovas) buvo_priesas [[objektai/grupes/Maskvos kunigaikštystė]]
-- Algirdas (Lietuvos valdovas) gyne [[objektai/vietos/Vilnius]]
-- Algirdas (Lietuvos valdovas) puole [[objektai/vietos/Prūsija]]
-- Algirdas (Lietuvos valdovas) surenge_zygi_i [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
-- Algirdas (Lietuvos valdovas) uzeme [[objektai/vietos/Mogiliavas]]
-- Algirdas (Lietuvos valdovas) kariavo_pries [[objektai/grupes/Mongolai]]
-- Algirdas (Lietuvos valdovas) keliavo_i [[objektai/vietos/Maskva]]
-- Algirdas (Lietuvos valdovas) surenge_zygi_i [[objektai/vietos/Rusia]]
-- Algirdas (Lietuvos valdovas) surenge_zygi_i [[objektai/vietos/Rusia Rusios žemės]]
-- Algirdas (Lietuvos valdovas) surenge_zygi_i [[objektai/vietos/Deimena]]
-- Algirdas (Lietuvos valdovas) keliavo_i [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Vitebskas]]
-- Algirdas (Lietuvos valdovas) puole [[objektai/grupes/Totoriai]]
-- Algirdas (Lietuvos valdovas) valde [[objektai/vietos/Kijevo Rusia]]
-- Algirdas (Lietuvos valdovas) buvo_sajungininkas_su [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Algirdas (Lietuvos valdovas) surenge_zygi_i [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
-- Algirdas (Lietuvos valdovas) dalyvavo_musyje [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]
-- Algirdas (Lietuvos valdovas) keliavo_i [[objektai/vietos/Kanevas]]
-- Algirdas (Lietuvos valdovas) puole [[objektai/vietos/Kremlius]]
-- Algirdas (Lietuvos valdovas) uzeme [[objektai/vietos/Desna]]
-- Algirdas (Lietuvos valdovas) uzkariavo [[objektai/vietos/Kijevas]]
-- Algirdas (Lietuvos valdovas) uzkariavo [[objektai/vietos/Volynė]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/asmenys/Dmitrijus]] kariavo_pries Algirdas (Lietuvos valdovas)
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] reme Algirdas (Lietuvos valdovas)
-- Algirdas (Lietuvos valdovas) dalyvavo_musyje [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
-- Algirdas (Lietuvos valdovas) keliavo_i [[objektai/vietos/Pasveikinimo kalva]]
-- [[objektai/asmenys/Svirdeika]] buvo_sajungininkas_su Algirdas (Lietuvos valdovas)
-- [[objektai/grupes/Kryžiuočių ordinas]] sudare_sutarti_su Algirdas (Lietuvos valdovas)
-- Algirdas (Lietuvos valdovas) buvo_palaidotas [[objektai/vietos/Maišiagala]]
-- Algirdas (Lietuvos valdovas) gyne [[objektai/grupes/Tverės kunigaikštystė]]
-- Algirdas (Lietuvos valdovas) valde [[objektai/vietos/Brasta]]
-- Algirdas (Lietuvos valdovas) valde [[objektai/vietos/Možaiskas]]
-- [[objektai/grupes/Kryžiuočių ordinas]] kariavo_pries Algirdas (Lietuvos valdovas)
-- [[objektai/asmenys/Patirgas]] buvo_sajungininkas_su Algirdas (Lietuvos valdovas)
-- Algirdas (Lietuvos valdovas) pastate [[objektai/vietos/Vitebskas]]
-- [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]] buvo_sajungininkas_su Algirdas (Lietuvos valdovas)
-- Algirdas (Lietuvos valdovas) buvo_palaidotas [[objektai/daiktai/Laužas]]
-- Algirdas (Lietuvos valdovas) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Algirdas (Lietuvos valdovas) reme [[objektai/grupes/Stačiatikiai]]
-- Algirdas (Lietuvos valdovas) uzeme [[objektai/vietos/Dniepras]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] buvo_sajungininkas_su Algirdas (Lietuvos valdovas)
-- Algirdas (Lietuvos valdovas) puole [[objektai/vietos/Vėluva]]
-- Algirdas (Lietuvos valdovas) apgule [[objektai/vietos/Kremlius]]
-- Algirdas (Lietuvos valdovas) reme [[objektai/grupes/Pranciškonų ordinas]]
-- Algirdas (Lietuvos valdovas) puole [[objektai/vietos/Želva]]
+- Algirdas (Lietuvos valdovas) paskyrė [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Petras Goštautas]]
+- Algirdas (Lietuvos valdovas) rėmė [[objektai/grupes/Karijotaičiai]], [[objektai/grupes/Pranciškonų ordinas]], [[objektai/grupes/Stačiatikiai]]
+- Algirdas (Lietuvos valdovas) užkariavo [[objektai/vietos/Kijevas]], [[objektai/vietos/Volynė]]

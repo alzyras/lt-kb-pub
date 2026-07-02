@@ -3307,54 +3307,18 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - t-100
 
 ## Ryšiai
-- [[objektai/vietos/Karo muziejaus sodelis]] priklause Kaunas
-- [[objektai/grupes/Lenkijos karalystės kariuomenė]] uzeme Kaunas
-- [[objektai/asmenys/Emmanuel Levinas]] gime Kaunas
-- Kaunas priklause [[objektai/grupes/Hanza]]
-- [[objektai/grupes/Kryžiuočių ordinas]] apgule Kaunas
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Kaunas
-- [[objektai/asmenys/Juozas Urbšys]] keliavo_i Kaunas
-- [[objektai/grupes/Vokiečiai]] uzeme Kaunas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Kaunas
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Kaunas
-- [[objektai/asmenys/Augustinas Voldemaras]] keliavo_i Kaunas
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Kaunas
-- [[objektai/grupes/Lenkai]] gyne Kaunas
-- [[objektai/grupes/Lietuviai]] gyne Kaunas
-- [[objektai/daiktai/Pramonės ir prekybos rūmai Kaune]] priklause Kaunas
-- [[objektai/daiktai/Prisikėlimo bažnyčia Kaune]] priklause Kaunas
-- [[objektai/daiktai/„Pienocentro“ pastatas Kaune]] priklause Kaunas
-- [[objektai/vietos/Aleksotas]] priklause Kaunas
-- [[objektai/grupes/Lietuviai]] gyveno Kaunas
-- [[objektai/asmenys/Vinrichas fon Kniprodė]] surenge_zygi_i Kaunas
-- [[objektai/daiktai/Namas]] priklause Kaunas
-- [[objektai/grupes/Vokiečiai]] puole Kaunas
-- [[objektai/grupes/Lietuvos kariuomenė]] gyne Kaunas
-- [[objektai/asmenys/Sungaila]] valde_miesta Kaunas
-- [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]] priklause Kaunas
-- Kaunas priklause [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Kazokai]] uzeme Kaunas
-- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Kaunas
-- [[objektai/asmenys/Petras Kubiliūnas]] siunte_i Kaunas
-- [[objektai/vietos/Prisikėlimo bažnyčia]] priklause Kaunas
-- [[objektai/grupes/Rusai]] uzeme Kaunas
-- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]] gyveno Kaunas
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] pastate Kaunas
-- [[objektai/grupes/Žydų Hapoelio klubas]] keliavo_i Kaunas
-- Kaunas priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Zigmantas Sierakauskas]] keliavo_i Kaunas
-- [[objektai/asmenys/Šach Achmedas]] gyveno Kaunas
-- [[objektai/asmenys/Juozas Tumas-Vaižgantas]] gyveno Kaunas
-- [[objektai/grupes/Rusijos kariuomenė]] uzeme Kaunas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Kaunas
-- [[objektai/asmenys/Boucicaut]] keliavo_i Kaunas
-- [[objektai/daiktai/Paminklas Žuvusiems už Lietuvos laisvę]] priklause Kaunas
-- [[objektai/vietos/Polockas]] prekiavo_su Kaunas
-- [[objektai/grupes/Tauro apygarda]] gyveno Kaunas
-- [[objektai/asmenys/Benediktas Makras]] keliavo_i Kaunas
-- [[objektai/vietos/Pažaislio vienuolyno ansamblis]] priklause Kaunas
-- [[objektai/asmenys/Romas Kalanta]] mire Kaunas
-- [[objektai/vietos/Vilnius]] prekiavo_su Kaunas
-- [[objektai/grupes/Vokiečiai]] gyveno Kaunas
-- [[objektai/grupes/Lenkai]] puole Kaunas
-- [[objektai/daiktai/Šarvuotasis traukinys Gediminas]] priklause Kaunas
+- Buvo valdoma: [[objektai/asmenys/Sungaila]]
+- Buvo kelionės vieta: [[objektai/asmenys/Augustinas Voldemaras]], [[objektai/asmenys/Benediktas Makras]], [[objektai/asmenys/Boucicaut]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Juozas Urbšys]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zigmantas Sierakauskas]], [[objektai/grupes/Žydų Hapoelio klubas]]
+- Gimimo vieta: [[objektai/asmenys/Emmanuel Levinas]]
+- Mirties vieta: [[objektai/asmenys/Romas Kalanta]]
+- Buvo pastatyta: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Kauną: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Vokiečiai]]
+- Apgulė Kauną: [[objektai/grupes/Kryžiuočių ordinas]]
+- Užėmė Kauną: [[objektai/grupes/Kazokai]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkijos karalystės kariuomenė]], [[objektai/grupes/Rusai]], [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Vokiečiai]]
+- Gynė Kauną: [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Petras Kubiliūnas]]
+- Buvo žygio kryptis: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vinrichas fon Kniprodė]]
+- Prekiavo su: [[objektai/vietos/Polockas]], [[objektai/vietos/Vilnius]]
+- Gyvenamoji vieta: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]], [[objektai/asmenys/Juozas Tumas-Vaižgantas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Šach Achmedas]], [[objektai/grupes/Tauro apygarda]], [[objektai/grupes/Vokiečiai]]
+- Turėjo priklausinį: [[objektai/vietos/Aleksotas]], [[objektai/vietos/Karo muziejaus sodelis]], [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]], [[objektai/daiktai/Namas]], [[objektai/daiktai/Paminklas Žuvusiems už Lietuvos laisvę]], [[objektai/vietos/Pažaislio vienuolyno ansamblis]], [[objektai/daiktai/Pramonės ir prekybos rūmai Kaune]], [[objektai/vietos/Prisikėlimo bažnyčia]], [[objektai/daiktai/Prisikėlimo bažnyčia Kaune]], [[objektai/daiktai/Šarvuotasis traukinys Gediminas]], [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
+- Kaunas priklausė [[objektai/grupes/Hanza]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lietuva]]

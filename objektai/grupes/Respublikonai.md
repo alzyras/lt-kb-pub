@@ -89,4 +89,4 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
     - t-001
 
 ## Ryšiai
-- Respublikonai keliavo_i [[objektai/vietos/Vilnius]]
+- Respublikonai keliavo į [[objektai/vietos/Vilnius]]

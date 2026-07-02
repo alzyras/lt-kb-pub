@@ -50,4 +50,4 @@ Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai a
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)]] siunte_i Kopylis
+- Buvo siuntimo vieta: [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)]]

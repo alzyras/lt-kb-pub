@@ -54,4 +54,4 @@ Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­ nios bei valios vedė Elžb
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] vede Elžbieta Granauskaitė
+- Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

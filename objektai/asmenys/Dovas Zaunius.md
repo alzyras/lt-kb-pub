@@ -60,4 +60,4 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
     - t-001
 
 ## Ryšiai
-- Dovas Zaunius keliavo_i [[objektai/vietos/Ženeva]]
+- Dovas Zaunius keliavo į [[objektai/vietos/Ženeva]]

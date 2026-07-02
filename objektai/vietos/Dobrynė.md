@@ -405,15 +405,7 @@ Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukšč
     - t-011
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Dobrynė
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Dobrynė
-- [[objektai/asmenys/Dovydas]] surenge_zygi_i Dobrynė
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] puole Dobrynė
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] surenge_zygi_i Dobrynė
-- [[objektai/grupes/Lietuvos kariuomenė]] surenge_zygi_i Dobrynė
-- [[objektai/asmenys/Dovydas]] puole Dobrynė
-- [[objektai/grupes/Lietuviai]] puole Dobrynė
-- [[objektai/grupes/Lietuviai]] surenge_zygi_i Dobrynė
-- [[objektai/grupes/Lietuviai]] uzeme Dobrynė
-- [[objektai/asmenys/Ziemovitas]] surenge_zygi_i Dobrynė
-- [[objektai/asmenys/Burchardas Aremas]] mire Dobrynė
+- Mirties vieta: [[objektai/asmenys/Burchardas Aremas]]
+- Puolė Dobrynę: [[objektai/asmenys/Dovydas]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]]
+- Užėmė Dobrynę: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Dovydas]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Ziemovitas]]

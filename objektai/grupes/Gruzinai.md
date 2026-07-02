@@ -51,9 +51,5 @@ Dusburgietis teigia, kad apie tai, kaip totoriai nukovė 10 tūkstančių sarac�
     - t-001
 
 ## Ryšiai
-- Gruzinai surenge_zygi_i [[objektai/vietos/Sirija]]
-- Gruzinai surenge_zygi_i [[objektai/vietos/Palestina]]
-- [[objektai/grupes/Totoriai]] buvo_sajungininkas_su Gruzinai
-- [[objektai/grupes/Armėnai]] buvo_sajungininkas_su Gruzinai
-- Gruzinai buvo_sajungininkas_su [[objektai/grupes/Armėnai]]
-- Gruzinai buvo_sajungininkas_su [[objektai/grupes/Totoriai]]
+- Sąjungininkai: [[objektai/grupes/Armėnai]], [[objektai/grupes/Totoriai]]
+- Gruzinai surengė žygį į [[objektai/vietos/Palestina]], [[objektai/vietos/Sirija]]

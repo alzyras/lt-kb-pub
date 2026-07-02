@@ -51,4 +51,4 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
     - t-001
 
 ## Ryšiai
-- Jonas Laskis keliavo_i [[objektai/vietos/Vilnius]]
+- Jonas Laskis keliavo į [[objektai/vietos/Vilnius]]

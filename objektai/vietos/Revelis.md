@@ -223,7 +223,5 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Revelis
-- [[objektai/grupes/Pskoviečiai]] puole Revelis
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]] puole Revelis
-- [[objektai/grupes/Lietuviai]] surenge_zygi_i Revelis
+- Puolė Revelį: [[objektai/asmenys/Dovydas (Gardino pilininkas)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Pskoviečiai]]
+- Buvo žygio kryptis: [[objektai/grupes/Lietuviai]]

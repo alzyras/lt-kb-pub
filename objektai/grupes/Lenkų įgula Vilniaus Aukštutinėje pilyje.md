@@ -224,5 +224,5 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     - t-004
 
 ## Ryšiai
-- Lenkų įgula Vilniaus Aukštutinėje pilyje gyne [[objektai/vietos/Vilnius]]
-- Lenkų įgula Vilniaus Aukštutinėje pilyje valde_miesta [[objektai/vietos/Vilnius]]
+- Lenkų įgula Vilniaus Aukštutinėje pilyje valdė [[objektai/vietos/Vilnius]]
+- Lenkų įgula Vilniaus Aukštutinėje pilyje gynė [[objektai/vietos/Vilnius]]

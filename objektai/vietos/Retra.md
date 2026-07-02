@@ -42,4 +42,4 @@ Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie
     - t-001
 
 ## Ryšiai
-- Retra priklause [[objektai/grupes/Herulai]]
+- Retra priklausė [[objektai/grupes/Herulai]]

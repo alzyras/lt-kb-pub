@@ -54,4 +54,4 @@ Gosievskio pajėgas.
     - t-001
 
 ## Ryšiai
-- V. Gosievskis uzeme [[objektai/vietos/Lojevas]]
+- V. Gosievskis užėmė [[objektai/vietos/Lojevas]]

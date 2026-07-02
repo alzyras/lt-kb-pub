@@ -117,5 +117,4 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
     - t-001
 
 ## Ryšiai
-- Kuršo kunigaikštystė priklause [[objektai/vietos/Lietuva]]
-- Kuršo kunigaikštystė priklause [[objektai/vietos/Lenkija]]
+- Kuršo kunigaikštystė priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

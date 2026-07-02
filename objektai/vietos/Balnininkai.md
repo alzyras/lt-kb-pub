@@ -44,4 +44,4 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] keliavo_i Balnininkai
+- Buvo kelionės vieta: [[objektai/grupes/Lenkai]]

@@ -131,4 +131,4 @@ B. Kolyška buvo sukilėlių karininkas, kuriam Z. Sierakauskas pavedė vadovaut
     - t-001
 
 ## Ryšiai
-- B. Kolyška kariavo_pries [[objektai/grupes/Rusai]]
+- B. Kolyška kariavo prieš [[objektai/grupes/Rusai]]

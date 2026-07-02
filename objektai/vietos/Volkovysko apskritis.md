@@ -43,5 +43,4 @@ Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskr
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Budinai]] gyveno Volkovysko apskritis
-- [[objektai/grupes/Gelonai]] gyveno Volkovysko apskritis
+- Gyvenamoji vieta: [[objektai/grupes/Budinai]], [[objektai/grupes/Gelonai]]

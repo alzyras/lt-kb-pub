@@ -117,10 +117,9 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Surminas]] gyne Kolainiai
-- [[objektai/asmenys/Surminas]] valde_miesta Kolainiai
-- [[objektai/asmenys/Surminas]] pastate Kolainiai
-- [[objektai/asmenys/Ernekė]] keliavo_i Kolainiai
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] puole Kolainiai
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Kolainiai
-- [[objektai/asmenys/Jonas iš Vienos]] keliavo_i Kolainiai
+- Buvo valdoma: [[objektai/asmenys/Surminas]]
+- Buvo kelionės vieta: [[objektai/asmenys/Ernekė]], [[objektai/asmenys/Jonas iš Vienos]]
+- Buvo pastatyta: [[objektai/asmenys/Surminas]]
+- Puolė Kolainiai: [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
+- Užėmė Kolainiai: [[objektai/grupes/Kryžiuočių ordinas]]
+- Gynė Kolainiai: [[objektai/asmenys/Surminas]]

@@ -224,15 +224,10 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] reme Karijotaičiai
-- Karijotaičiai pastate [[objektai/vietos/Bakotos pilis|Bakotos pilis (pilis)]]
-- Karijotaičiai pastate [[objektai/vietos/Kameneco pilis|Kameneco pilis (pilis)]]
-- Karijotaičiai gyne [[objektai/vietos/Podolė]]
-- Karijotaičiai pastate [[objektai/vietos/Smotričo pilis|Smotričo pilis (pilis)]]
-- Karijotaičiai keliavo_i [[objektai/vietos/Podolė]]
-- Karijotaičiai pastate [[objektai/vietos/Kamenecas]]
-- Karijotaičiai pastate [[objektai/vietos/Bakota]]
-- Karijotaičiai pastate [[objektai/vietos/Smotryč]]
-- Karijotaičiai kariavo_pries [[objektai/grupes/Totoriai]]
-- Karijotaičiai valde_teritorija [[objektai/vietos/Podolė]]
+- Rėmė Karijotaičiai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Karijotaičiai valdė [[objektai/vietos/Podolė]]
+- Karijotaičiai keliavo į [[objektai/vietos/Podolė]]
+- Karijotaičiai pastatė [[objektai/vietos/Bakota]], [[objektai/vietos/Bakotos pilis|Bakotos pilis (pilis)]], [[objektai/vietos/Kamenecas]], [[objektai/vietos/Kameneco pilis|Kameneco pilis (pilis)]], [[objektai/vietos/Smotričo pilis|Smotričo pilis (pilis)]], [[objektai/vietos/Smotryč]]
+- Karijotaičiai gynė [[objektai/vietos/Podolė]]
+- Karijotaičiai kariavo prieš [[objektai/grupes/Totoriai]]
 - Karijotaičiai gyveno [[objektai/vietos/Podolė]]

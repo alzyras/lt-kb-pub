@@ -217,7 +217,6 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     - t-004
 
 ## Ryšiai
-- Aukščiausiosios Tarybos rūmai (institucija) priklause [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/ATAS]] gyne Aukščiausiosios Tarybos rūmai (institucija)
-- [[objektai/asmenys/Vytautas Žukas]] gyne Aukščiausiosios Tarybos rūmai (institucija)
-- [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]] priklause Aukščiausiosios Tarybos rūmai (institucija)
+- Gynė Aukščiausiosios Tarybos rūmai (institucija): [[objektai/grupes/ATAS]], [[objektai/asmenys/Vytautas Žukas]]
+- Turėjo priklausinį: [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]
+- Aukščiausiosios Tarybos rūmai (institucija) priklausė [[objektai/vietos/Vilnius]]

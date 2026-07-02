@@ -109,4 +109,4 @@ tags:
     - t-003
 
 ## Ryšiai
-- Didžioji Lietuvos kunigaikštystė priklause [[objektai/vietos/Lenkija]]
+- Didžioji Lietuvos kunigaikštystė priklausė [[objektai/vietos/Lenkija]]

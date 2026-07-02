@@ -47,4 +47,4 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] kariavo_pries Kolomanas
+- Kariavo prieš: [[objektai/grupes/Totoriai]]

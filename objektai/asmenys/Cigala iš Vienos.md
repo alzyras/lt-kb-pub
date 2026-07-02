@@ -66,4 +66,4 @@ Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius,
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas Čarnkovskis]] buvo_priesas Cigala iš Vienos
+- Priešai: [[objektai/asmenys/Jonas Čarnkovskis]]

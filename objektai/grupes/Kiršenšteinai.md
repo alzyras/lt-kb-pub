@@ -91,4 +91,4 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
     - t-001
 
 ## Ryšiai
-- Kiršenšteinai valde [[objektai/vietos/Raudonė]]
+- Kiršenšteinai valdė [[objektai/vietos/Raudonė]]

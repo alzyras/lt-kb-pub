@@ -317,5 +317,5 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
     - t-008
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] gyveno Paneriai
-- Paneriai priklause [[objektai/grupes/Vilniaus kapitula]]
+- Gyvenamoji vieta: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Paneriai priklausė [[objektai/grupes/Vilniaus kapitula]]

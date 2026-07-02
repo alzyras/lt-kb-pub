@@ -98,6 +98,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]] uzeme Vizna
-- [[objektai/grupes/Lietuviai]] puole Vizna
-- [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]] valde Vizna
+- Buvo valdoma: [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]]
+- Puolė Vizną: [[objektai/grupes/Lietuviai]]
+- Užėmė Vizną: [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]

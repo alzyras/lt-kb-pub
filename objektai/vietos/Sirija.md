@@ -117,7 +117,4 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Totoriai]] surenge_zygi_i Sirija
-- [[objektai/grupes/Armėnai]] surenge_zygi_i Sirija
-- [[objektai/grupes/Gruzinai]] surenge_zygi_i Sirija
-- [[objektai/grupes/Mongolai]] surenge_zygi_i Sirija
+- Buvo žygio kryptis: [[objektai/grupes/Armėnai]], [[objektai/grupes/Gruzinai]], [[objektai/grupes/Mongolai]], [[objektai/grupes/Totoriai]]

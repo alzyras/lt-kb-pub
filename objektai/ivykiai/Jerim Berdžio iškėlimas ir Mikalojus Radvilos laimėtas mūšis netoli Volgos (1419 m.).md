@@ -114,4 +114,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Mikalojus Radvila]] dalyvavo_musyje Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)
+- Turėjo dalyvį: [[objektai/asmenys/Mikalojus Radvila]]

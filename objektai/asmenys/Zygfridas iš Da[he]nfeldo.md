@@ -76,4 +76,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Zygfridas iš Da[he]nfeldo dalyvavo_musyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- Zygfridas iš Da[he]nfeldo dalyvavo mūšyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]

@@ -70,4 +70,4 @@ Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių
     - t-001
 
 ## Ryšiai
-- Vilius keliavo_i [[objektai/vietos/Italija]]
+- Vilius keliavo į [[objektai/vietos/Italija]]

@@ -40,4 +40,4 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
     - t-001
 
 ## Ryšiai
-- Jurgis (Sviatoslavo sūnus) buvo_sunus [[objektai/asmenys/Sviatoslavas]]
+- Tėvai: [[objektai/asmenys/Sviatoslavas]]

@@ -65,5 +65,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Pilypavo mūšis (1656 m. spalio 22 d.)
-- [[objektai/grupes/Švedai]] dalyvavo_musyje Pilypavo mūšis (1656 m. spalio 22 d.)
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Švedai]]
