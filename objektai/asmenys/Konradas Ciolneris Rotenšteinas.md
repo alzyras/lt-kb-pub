@@ -183,4 +183,3 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
 
 ## Ryšiai
 - Konradas Ciolneris Rotenšteinas puole [[objektai/vietos/Lietuva]]
-- Konradas Ciolneris Rotenšteinas keliavo_i [[objektai/vietos/Kaunas]]

@@ -57,6 +57,7 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1580 metais ant kalno prie Vilnelės Kasparo Bekešo kapui buvo pastatytas apvalaus bokšto pavidalo paminklas.
 - susijęs iš Vilnius: Vilnius tuo metu tapo vienu gražiausių Rytų Europos miestų ir turėjo daug ponų rūmų.
 - susijęs iš Vilnius: Vilniuje ponai prisistatė daugybę rūmų, o miestas tapo vienu gražiausių Rytų Europos miestų.
+- susijęs iš Vilnius: Narbuto minima knygelė eilėmis pasakojo 1748 ir 1749 m. Vilniuje įvykusių gaisrų istoriją.
 ## Reikšmingi paminėjimai
 
 - c-001

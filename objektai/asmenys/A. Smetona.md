@@ -8,6 +8,11 @@ datos:
   - '1944 m.'
 date_start: '1918'
 date_end: '1944'
+description: 'A. Smetonos kelias nuo Tarybos veikėjo iki autoritarinio prezidento: 1926–1940 m. valdžios stiprinimas, opozicija ir okupacijos krizė.'
+socialDescription: 'Trumpa A. Smetonos biografijos ir politinio vaidmens apžvalga: III Seimo paleidimas, autoritarinio valdymo įtvirtinimas ir 1940 m. krizė.'
+seo_atnaujinta: '2026-07-02T19:20:23.352588+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad. Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln.
+A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politinė veikla siejama su valstybės kūrimu, autoritarinio valdymo įtvirtinimu ir tautinės kultūros prioritetais. 1927 m. jis paleido III Seimą, 1928 m. nauja konstitucija sustiprino prezidento galias, o demokratiją Lietuvoje aiškino kaip dar neįsitvirtinusią tradiciją. 1940 m. birželio 15 d. sovietų ultimatumo akivaizdoje A. Smetonos siūlymą priešintis ginklu palaikė tik du ministrai.
 
 ## Teiginiai
 
@@ -490,7 +495,6 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - susijęs iš [[objektai/grupes/Antano Smetonos lituanistikos institutas.md#claim-t-19633|Antano Smetonos lituanistikos institutas]]: 1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.
 - susijęs iš [[objektai/grupes/Antantė.md#claim-t-19634|Antantė]]: Antantės šalys pareikalavo, kad Vokietija leistų panaudoti savo dalinius bolševizmui stabdyti.
 - susijęs iš [[objektai/grupes/Liaudies vyriausybė.md#claim-t-19798|Liaudies vyriausybė]]: 1940 m. birželio 17 d. sudaryta marionetinė Liaudies vyriausybė, į kurią įėjo A. Smetonos valdymą kritikavę inteligentai.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179247|Lietuviai]]: Per nepilnus du nepriklausomybės dešimtmečius Lietuva tapo aiškiai lietuviška ir nebesutapatinama su Lenkija ar Rusija.
 - susijęs iš [[objektai/grupes/Oswiata.md#claim-t-19959|Oswiata]]: Oswiata („Apšvieta“) buvo lenkų kultūros organizacija, padėjusi švietimui ir gavusi pinigų iš Lenkijos.
 - susijęs iš [[objektai/grupes/Raudonoji armija.md#claim-t-78432|Raudonoji armija]]: Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė jaunimo politines nuostatas.
 - susijęs iš [[objektai/grupes/SSRS kariuomenė.md#claim-t-183184|SSRS kariuomenė]]: V. Molotovas J. Urbšiui pareiškė, kad SSRS kariuomenė įžygiuos į Lietuvą nepriklausomai nuo Lietuvos atsakymo.

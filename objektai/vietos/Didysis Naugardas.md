@@ -7,6 +7,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -22,13 +23,13 @@ date_start: '1000'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'X'
+  - 'XXI'
 tags:
   - kunigaikštis
   - miestas
   - vieta
-amziai:
-  - 'X'
-  - 'XXI'
 ---
 # Didysis Naugardas
 
@@ -37,7 +38,6 @@ amziai:
 Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas. Naugardą.
 
 ## Teiginiai
-
 <a id="claim-t-179774"></a>
 - t-001
   global_id: t-179774
@@ -54,7 +54,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - t-002
   global_id: t-179775
   teiginys: '1428 m. Vytautas surengė paskutinį savo žygį į Didįjį Naugardą ir paėmė iš jo 10 000 rublių kontribuciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Didysis Naugardas; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] surengė žygį į Didysis Naugardas'
   temporaliniai_duomenys: 'įvykio data: 1428 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -338,6 +339,25 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   ryšio_subjekto_parinkimas: Didysis Naugardas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=16
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didysis Naugardas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188685"></a>
+- t-022
+  global_id: t-188685
+  teiginys: 'Narbutas rašo, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija palaikė ryšius su Naugardo slavais, bet sudarė atskirą valstybę.'
+  pagrindžia:
+    - c-020
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 786116-786880; hash=ba93f61924720b13684ea8d6f36f796f7a51fbf95f3d648f3eb558075159f17a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: surenge_zygi_i -> Didysis Naugardas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Didysis Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Vytautas surengė žygį į Didįjį Naugardą.
 - susijęs iš [[objektai/ivykiai/Vytauto karas su Pskovu (1426 m. rugpjūtis).md#claim-t-186735|Vytauto karas su Pskovu (1426 m. rugpjūtis)]]: Per abu Vytauto karus su Pskovu Didysis Naugardas laikėsi neutraliteto.
 - susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis, turtingesnėmis gyvenvietėmis.
 - susijęs iš Pskovas: Pskovas ir Didysis Naugardas anksčiau už Vilnių virto tankiai gyvenamomis ir turtingomis prekybinėmis gyvenvietėmis.
@@ -352,7 +372,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - susijęs iš Maskva: 1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą.
 - susijęs iš Pskovas: Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -688,6 +707,32 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+- c-020
+  santrauka: 'Narbutas rašo, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija palaikė ryšius su Naugardo slavais, bet sudarė atskirą valstybę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Apie juos senovės Graikijos
+    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
+    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
+    ir paties Herodoto išvardytų.
+    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
+    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
+    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
+    atskirą valstybę. Vėliau iš skandinavų legendų arba iš gana
+    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
+    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
+    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
+    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
+    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
+    mokėjo gana neblogai gintis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-022
 
 ## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Didysis Naugardas
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzkariavo Didysis Naugardas

@@ -52,7 +52,6 @@ amziai:
 - susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas.md#claim-t-66324|Vyriausiasis Lietuvos išlaisvinimo komitetas]]: 1943 m. gegužę–birželį gestapas suėmė šešis iš devynių Vyriausiojo Lietuvos išlaisvinimo komiteto vadovybės narių.
 - susijęs iš [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis).md#claim-t-20194|Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]: 1943 m. lietuvių pogrindis boikotavo vokiečių okupacinės valdžios agitaciją lietuviams stoti į SS batalioną.
 - susijęs iš [[objektai/ivykiai/Lietuvių konferencija Kaune (1943 m. balandžio 5 d.).md#claim-t-75128|Lietuvių konferencija Kaune (1943 m. balandžio 5 d.)]]: Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją.
-- susijęs iš Kaunas: 1943 m. kovo viduryje gestapas, keršydamas už boikotą, uždarė Kauno ir Vilniaus universitetus.
 - susijęs iš [[objektai/zodynas/generaliniai tarėjai.md#claim-t-183426|generaliniai tarėjai]]: Vokiečių valdžia vietoje Laikinosios vyriausybės ministrų lietuvių administracijos vadovais paskyrė generalinius tarėjus.
 - susijęs iš [[objektai/zodynas/generaliniai tarėjai.md#claim-t-75549|generaliniai tarėjai]]: Generaliniai tarėjai prižiūrėjo lietuvių administraciją ir buvo pavaldūs generaliniam tarėjui Petrui Kubiliūnui.
 ## Reikšmingi paminėjimai

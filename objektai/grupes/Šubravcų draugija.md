@@ -40,7 +40,6 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - susijusios vietos:
 
 ## Teiginiai
-
 <a id="claim-t-55109"></a>
 - t-001
   global_id: t-55109
@@ -126,11 +125,29 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
   sprendimo_priezastis: gap::groups
+
+- t-007
+  teiginys: 'Šubravcų tradicijų tęsėju sumanytame leidinyje „Wizerunki i Roztrząsania Naukowe“ rašė buvę Vilniaus universiteto profesoriai, mokslininkai ir literatai.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 107179-107576; hash=fdb5eebd584aa8cf0678d9f973b8dc79fcedd85b2b4d0a7c84dbfde452ee8f4b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šubravcų draugija: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=92
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų draugija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Janas Chodzka.md#claim-t-87698|Janas Chodzka]]: Janas Chodzka priklausė Vilniaus šubravcų draugijai ir joje pasivadino Vaižgantu.
 - susijęs iš [[objektai/asmenys/Jokūbas Šimkevičius.md#claim-t-87709|Jokūbas Šimkevičius]]: Jokūbas Šimkevičius, Vilniaus šubravcų draugijos narys, pasivadino Perkūnu.
 - susijęs iš [[objektai/asmenys/Kazimieras Kontrimas.md#claim-t-87751|Kazimieras Kontrimas]]: Kazimieras Kontrimas, priklausęs Vilniaus šubravcų draugijai, pasirinko senovės lietuvių dievybės Pokliaus vardą.
 - susijęs iš [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai.md#claim-t-54737|Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]: Šubravcų kodeksas smerkė girtavimą ir azartinius žaidimus, o XII straipsnis reikalavo, kad narys kauptų nuosavą biblioteką.
 - susijęs iš [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai.md#claim-t-54738|Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]: Šubravcų draugijos kodekse narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų.
+- susijęs iš [[objektai/paprociai/Šubravcų mitologinių pseudonimų ir tyrimo prievolės praktika.md#claim-t-189953|Šubravcų mitologinių pseudonimų ir tyrimo prievolės praktika]]: Šubravcų draugijos nariai prie „Wiadomošci Brukowe“ rinkosi senovės lietuvių mitologijos pseudonimus ir rinko medžiagą apie tuos personažus.
 - susijęs iš [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais.md#claim-t-187830|Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]: Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus.
 - susijęs iš [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais.md#claim-t-55171|Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]: Išstudijavę Jano Lasickio knygą, Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.
 - susijęs iš [[objektai/paprociai/Šubravcų satyrinė spaudos kritika.md#claim-t-54739|Šubravcų satyrinė spaudos kritika]]: Šubravcų laikraštis Wiadomości brukowe satyriškai vaizdavo kilmingųjų kasdienybę, kritikavo baudžiavą, obskurantizmą ir tradicionalizmą.
@@ -142,11 +159,13 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-87702|Janas Lasickis]]: Jano Lasickio knygą apie žemaičių ir kitų tautų dievus išstudijavę Vilniaus šubravcai pasivadino senovės lietuvių dievybių vardais.
 - susijęs iš [[objektai/asmenys/Juozapas Zavadskis.md#claim-t-87736|Juozapas Zavadskis]]: Šubravcų draugijoje Juozapas Zavadskis buvo pasivadinęs senovės lietuvių dievybės Svaistiko vardu.
 - susijęs iš [[objektai/autoriai/Janas Lasickis Joh. Lasicius.md#claim-t-88066|Janas Lasickis Joh. Lasicius]]: Šubravcų draugijos nariai, išstudijavę Jano Lasickio knygą apie žemaičių dievus, pasivadino senovės lietuvių dievybių vardais.
+- susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113355|Vilniaus universitetas]]: Po 1830-1831 m. sukilimo Vilniaus universitetas buvo uždarytas.
+- susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113361|Vilniaus universitetas]]: Po 1830-1831 m. sukilimo uždarius Vilniaus universitetą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus.
+- susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-188357|Vilniaus universitetas]]: Leidinyje „Wizerunki i Roztrząsania Naukowe“ rašė aštuoniolika buvusių Vilniaus universiteto profesorių.
 - susijęs iš [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose.md#claim-t-55168|Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]: Filantropinių organizacijų ir susivienijimų nariai aptardavo visuomenės būklę ir tardavosi dėl konkrečių bei numatomų tikslų.
 - susijęs iš [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose.md#claim-t-81871|Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]: Vilniuje legalios filantropinės organizacijos ir susivienijimai aptardavo visuomenės būklę ir reformų tikslus.
 - susijęs iš Spectator: Anglijoje leidžiamo žurnalo Spectator tradicijas.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -207,6 +226,25 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+- c-004
+  santrauka: 'Šubravcų tradicijų tęsėju sumanytame leidinyje „Wizerunki i Roztrząsania Naukowe“ rašė buvę Vilniaus universiteto profesoriai, mokslininkai ir literatai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    „Wizerunki i Roz­
+    trząsania Naukowe“ puslapiuose anonimiškumas buvo įpras­
+    tas reiškinys. Šio leidinio, kuris buvo sumanytas kaip šubravcų
+    tradicijų tęsėjas, autoriai buvo aštuoniolika buvusių Vilniaus
+    universiteto profesorių, aštuoni su šia įstaiga nesusiję moksli­
+    ninkai ir devyniolika literatų, kurių dauguma buvo to univer­
+    siteto absolventai. Sunku tarp jų būtų pažinti recenzijos auto­
+    rių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 - Šubravcų draugija gyveno [[objektai/vietos/Vilnius]]

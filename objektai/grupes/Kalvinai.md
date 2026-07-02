@@ -77,7 +77,6 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
 - susijęs iš Sluckas: Slucke buvo įkurta protestantų mokykla, o pradžios mokyklų buvo beveik kiekvienoje protestantų parapijoje.
 - susijęs iš Sluckas: Slucke buvo įkurta protestantų mokykla.
 - susijęs iš Vilnius: Mikalojus Radvila Juodasis Lukiškėse pastatė kalvinų bažnyčią ir traukė į ją vilniečius.
-- susijęs iš Vilnius: Karalius Vilniuje užkirto kelią piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.
 ## Reikšmingi paminėjimai
 
 - c-001

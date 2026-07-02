@@ -39,7 +39,7 @@ atnaujinta: ''
 - susijęs iš Kanevas: Gediminui užėmus Kijevą, Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pilys pasidavė nugalėtojui.
 - susijęs iš Kanevas: XVI a. vidurio Kanevo pilies aprašo padavime sakoma, kad Kanevą su Čerkasais įkūrė Gediminas.
 - susijęs iš Slepovrodis: Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas]]: Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185495|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
 - susijęs iš [[objektai/ivykiai/Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo.md#claim-t-185604|Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo]]: Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų.
 - susijęs iš [[objektai/ivykiai/Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo.md#claim-t-185605|Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo]]: Ostrogiškis su sąjungininkais už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.

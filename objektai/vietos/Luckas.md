@@ -786,6 +786,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - susijęs iš [[objektai/ivykiai/Lucko suvažiavimas.md#claim-t-75251|Lucko suvažiavimas]]: Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione ir į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano.
 - susijęs iš [[objektai/ivykiai/Vytauto puolimas į Vilnių (1389 m.).md#claim-t-95969|Vytauto puolimas į Vilnių (1389 m.)]]: 1389 m. Vytautas, Lucke surinkęs savo šalininkus, puolė Vilnių, bet turėjo pasitraukti ir antrą kartą bėgti pas kryžiuočius.
 - susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31499|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: Pasak Ivinskio, 1398 m. žygio metu paimti karaimai, berods, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
+- susijęs iš [[objektai/ivykiai/Švitrigailos 1451 m. privilegija ir ankstesnių Vytauto bei Algirdo privilegijų patvirtinimas dėl Ostapo Kropotkovo herbo.md#claim-t-189638|Švitrigailos 1451 m. privilegija ir ankstesnių Vytauto bei Algirdo privilegijų patvirtinimas dėl Ostapo Kropotkovo herbo (privilegija, XIV–XV a.)]]: Narbutas mini Švitrigailos 1451 m. vasario 18 d. Lucke datuotą privilegiją, kuria patvirtinta Ostapo Kropotkovo kilmė ir herbas.
 - susijęs iš [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose.md#claim-t-55158|Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]: Pasak Strijkovskio, 1429 m. Lucko suvažiavime Vytautas vieną auksu aptaisytą tauro ragą įteikė Zigmantui kaip didžią dovaną.
 - susijęs iš [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos.md#claim-t-184349|Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]: Nuo Astravo taikos metų Vytautas ir Jogaila, savo tėvų pavyzdžiu, per 36 metus bendrai veikė (iki Lucko suvažiavimo 1429).
 - susijęs iš [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos.md#claim-t-28929|Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]: Nuo Astravo taikos metų Vytautas ir Jogaila, savo tėvų pavyzdžiu, per 36 metus bendrai veikė (iki Lucko suvažiavimo 1429).
@@ -814,9 +815,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - susijęs iš [[objektai/asmenys/Chudandachas.md#claim-t-34713|Chudandachas]]: Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.
 - susijęs iš [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis).md#claim-t-93196|Feodoras (Ostrogo kunigaikštis)]]: Ostrogo kunigaikštis Feodoras 1396 m. iš Vytauto priėmė privilegiją, tvirtinusią ir išplėtusią jo žemes.
 - susijęs iš [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis).md#claim-t-93197|Feodoras (Ostrogo kunigaikštis)]]: 1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, patvirtinusią ir išplėtusią jo žemes.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176329|Gediminas]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po sapno pastatydino Aukštutinę mūro pilį ir medinę pilį, pavadintą Vilniumi.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176370|Gediminas]]: Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui, siedami jį su medžiokle Šventaragio slėnyje ir geležinio vilko sapnu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176400|Gediminas]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas medžioklės metu Šventaragio slėnyje sapnavo geležinį vilką.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176329|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po sapno pastatydino Aukštutinę mūro pilį ir medinę pilį, pavadintą Vilniumi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176370|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui, siedami jį su medžiokle Šventaragio slėnyje ir geležinio vilko sapnu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176400|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas medžioklės metu Šventaragio slėnyje sapnavo geležinį vilką.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184273|Jogaila (kunigaikštis, XIV–XV a.)]]: Lucke Zigmantas pasiūlė Jogailai karūnuoti Vytautą, kuris buvo suvažiavimo šeimininkas.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184733|Jogaila (kunigaikštis, XIV–XV a.)]]: Iš Lucko grįžęs į Lenkiją, Jogaila Korčine sukvietė seimą, kad luomai nuspręstų, kaip priešintis Vytauto siekiams.
 - susijęs iš [[objektai/asmenys/Jonas Hlebavičius.md#claim-t-87391|Jonas Hlebavičius]]: Polocko vaivada Jonas Hlebavičius 1542 m. Vilniuje dalyvavo tarp karaliaus Žygimanto rašto liudininkų.
@@ -826,11 +827,14 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - susijęs iš [[objektai/asmenys/Jurgis Astikaitis.md#claim-t-87475|Jurgis Astikaitis]]: 1542 m. Vilniuje duotame rašte raikytojas Jurgis Astikaitis dalyvavo tarp Lietuvos Didžiosios Kunigaikštystės pareigūnų.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103043|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, kardinolas ir buvęs Vilniaus bei Krokuvos vyskupas, mirė Romoje 1600 m.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103055|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Inocento IX ir Klemenso VIII elektorius, iš pradžių Vilniaus, vėliau Krokuvos vyskupas.
+- susijęs iš [[objektai/asmenys/Krunevičius.md#claim-t-190177|Krunevičius]]: Narbutas nurodė, kad Malachovskis pateikė žinių apie Gedimino suteiktą herbą Krunevičiui, bet šaltinis jam buvo neaiškus.
 - susijęs iš [[objektai/asmenys/Levas (Haličo kunigaikštis).md#claim-t-40306|Levas (Haličo kunigaikštis)]]: Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.
 - susijęs iš [[objektai/asmenys/Liubartas Gediminaitis.md#claim-t-30353|Liubartas Gediminaitis]]: Liubartas Gediminaitis mirė apie 1385 m.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184773|Liubartas]]: Liubartas ir Pisimantas iš šiaurinės Rusios buvo pakviesti į pagalbą su savo pulkais.
 - susijęs iš [[objektai/asmenys/Machmetas.md#claim-t-96027|Machmetas]]: Machmetas pasiuntė savo sūnų auklėtis į Vytauto Didžiojo dvarą ir rėmė Vytauto žygius į Pskovą bei Naugardą.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184794|Mykolas (Žygimanto sūnus)]]: Mykolas, sužinojęs apie Kazimiero kelionę iš Bresto į Vilnių, paliko Trakų pilį ir su 500 raitelių patraukė į Mazoviją.
+- susijęs iš [[objektai/asmenys/Neseckis.md#claim-t-190189|Neseckis]]: Narbutas nurodo, kad Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui.
+- susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-190235|Ostapas Kropotkovas]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
 - susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186158|Pisimantas]]: Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai.
 - susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173217|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179641|Skirgaila]]: Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Vilnių.
@@ -856,6 +860,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176682|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto laikais Lietuvos Didžioji Kunigaikštystė buvo itin galinga, o jo galią jautė visas regionas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176738|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Lucko suvažiavimas Lietuvos istorijoje siejamas su Vytauto vainikavimo planu, kurį rėmė Zigmantas I ir Vokiečių ordinas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176742|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas nustojo mokėti duoklę mongolams, panaikino dalinių kunigaikštijų sistemą, paskyrė vietininkus ir sutelkė realią valdžią LDK savo rankose.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-188647|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas Vytautą įvardija kaip Kęstučio ir kunigaikštienės Birutės sūnų, kartu su Patriku, Tautvila, Sigaila ir Danute.
 - susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114075|Zigmantas I]]: 1429 m. sausio 9–29 d. Lucko suvažiavime Zigmantas I susitiko su Vytautu ir Jogaila aptarti Vidurio ir Rytų Europos politikos.
 - susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114076|Zigmantas I]]: Zigmantas I rėmė Vytauto vainikavimo planą, kuriuo siekta regione sukurti atsvarą Lenkijai.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176876|Zigmantas Liuksemburgietis]]: Lucke Zigmantas Liuksemburgietis pasiūlė Jogailai karūnuoti suvažiavimo šeimininką Vytautą.
@@ -947,7 +952,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - susijęs iš Kijevas: 1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą perdavė Skirgailai.
 - susijęs iš Kremenecas: Karaliaus vadas Šafranecas prie Kremeneco smarkiai sumušė įsibrovėlius.
 - susijęs iš Krokuva: Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai.
-- susijęs iš Lietuva: Zigmantas siūlė Jogailai karūnuoti Vytautą, nes Vytautas buvo nusipelnęs Lietuvai įvesdamas joje krikščionybę.
 - susijęs iš Melnikas: Lietuvos metraštyje Mstislavas, Lucko ir Pinsko kunigaikštis, kariavo su Skirmantu, norėdamas išguiti jį iš Brastos, Melniko, Gardino ir Naugarduko.
 - susijęs iš Mielnikas: 1384 m. vasarą Vytautas gavo dalį tėvo valdų, įskaitant Palenkę su Drohičinu ir Mielniku.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Pasakojime apie Vilniaus įkūrimą Gediminas atvyko į Šventaragio slėnį, kur Vilnios upė įteka į Viliją.
@@ -957,6 +961,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - susijęs iš Ovručas: Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama sąjungininkams skriaudų, ir priartėjo prie Ovručo.
 - susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko bažnyčia buvo pastatyta Šventosios Trejybės, Mergelės Marijos Ėmimo į dangų, šv. Egidijaus ir šv. Jurgio garbei.
 - susijęs iš Plikieji kalnai: Strijkovskio pasakojime Gediminas medžiojo girioje tarp kalnų, kurie vadinti Plikaisiais.
+- susijęs iš Podbužo dvaras: Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas Ostapui Kropotkovui už nuopelnus kare su totoriais.
 - susijęs iš Podolė: 1395 m. Vytautas paskyrė savo vietininką Podolėje.
 - susijęs iš Porchovas: Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 1000 rublių už belaisvius.
 - susijęs iš Roma: Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą.
@@ -1733,7 +1738,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-044
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] uzeme Luckas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzeme Luckas
 - Luckas priklause [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Švitrigaila]] mire Luckas
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Luckas
@@ -1744,7 +1749,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_miesta Luckas
 - [[objektai/grupes/Totoriai]] puole Luckas
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] valde Luckas
-- [[objektai/asmenys/Gediminas]] keliavo_i Luckas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] keliavo_i Luckas
 - [[objektai/asmenys/Edyga]] puole Luckas
 - Luckas priklause [[objektai/asmenys/Boleslovas Švitrigaila]]
 - [[objektai/asmenys/Zigmantas I]] keliavo_i Luckas

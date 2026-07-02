@@ -48,8 +48,7 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89348|Žiemgaliai]]: Pietines žiemgalių ir sėlių sritis asimiliavo lietuviai.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89353|Žiemgaliai]]: Lietuviai asimiliavo pietines žiemgalių ir sėlių sritis.
 - susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188223|Latviai]]: Pasak Stenderio, latviai kiekvieną deivę vadino motina, o dievą - tėvu, todėl mitus siejo su vyriškąja ir moteriškąja dievybės lytimis.
 - susijęs iš [[objektai/posakiai/Liet’gola Lethi vel Lethigalli.md#claim-t-184359|Liet’gola Lethi vel Lethigalli]]: Nestoro kronikoje tikrieji latviai vadinti „Liet’gola“, o Latvijos Henrikas juos įvardijo kaip „Lethi vel Lethigalli“.
 ## Reikšmingi paminėjimai
 

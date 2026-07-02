@@ -552,12 +552,14 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš [[objektai/grupes/Graikų katalikų bažnyčia.md#claim-t-74119|Graikų katalikų bažnyčia]]: Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172117|Jėzuitų ordinas]]: Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172118|Jėzuitų ordinas]]: 1575 m. Mikalojus Kristupas Radvila-Našlaitėlis perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-188198|Jėzuitų ordinas]]: 1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė kunigą Jokūbą Lencicijų su dviem bičiuliais misionieriais.
 - susijęs iš [[objektai/grupes/LDK Ponų Taryba.md#claim-t-187765|LDK Ponų Taryba (institucija, XV a.)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš LDK Ponų Tarybos.
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72361|Latvių Tautos Taryba (institucija)]]: Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją.
 - susijęs iš [[objektai/grupes/Miestelėnų luomas.md#claim-t-34347|Miestelėnų luomas]]: Vytauto laikais miestelėnų luomo pagrindai buvo padėti miestams suteikiant pirmąsias savivaldybes, vadintas magdeburgijomis.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187739|Ponų taryba (institucija)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš Ponų tarybos.
 - susijęs iš [[objektai/grupes/Vilniaus konfederacija.md#claim-t-20071|Vilniaus konfederacija]]: Vilniaus konfederacija 1792 m. birželio 25 d. pritarė Targovicos konfederacijai.
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117316|Vokiečiai]]: Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus.
+- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-188358|Vokiečiai]]: Narbutas rašė, kad senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“ ir „Belewitt“.
 - susijęs iš [[objektai/grupes/Škotai.md#claim-t-86839|Škotai]]: Škotijos savanoriai kartu su anglais ir prancūzais papildė vokiečių riterių būrius Karaliaučiuje.
 - susijęs iš [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.).md#claim-t-78620|Ketverių metų seimas (1788–1792 m.)]]: Ketverių metų seimas 1791 m. gegužės 3 d. priėmė konstituciją ir kitus įstatymus, turėjusius reformuoti valstybę bei atsikratyti Rusijos protektorato.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186650|Parčevo seimas (seimas, XV a.)]]: Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis.
@@ -584,7 +586,6 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš Dubrovno pavietas: Dubrovno pavietas atiteko Vilniaus katedrai ir kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš Gardinas: Kovo mėnesį karalius, padedamas Skirgailos, šturmu užėmė Vytauto valdos sostine vadintą Gardiną.
 - susijęs iš Gardinas: Kovo mėnesį karalius, padedamas Skirgailos, šturmu užėmė Vytauto valdos sostine vadintą Gardiną.
-- susijęs iš Gardinas: Gardine atsirado jėzuitų kolegija, funduota Smolensko vyskupo Isaikovskio ir kitų rėmėjų.
 - susijęs iš Gardinas: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną.
 - susijęs iš Gniezno diecezija: Vilniaus katedrai skirtų pajamų dalimi buvo turtinga Klodovo klebonija Gniezno diecezijoje.
 - susijęs iš Gorodnica: Gorodnica buvo ypač garsus Tizenhauzo Gardine pastatytas pramonės priemiestis.

@@ -76,7 +76,6 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
 - susijęs iš [[objektai/asmenys/Karolis (Provanso grafas ir Sicilijos karalius).md#claim-t-60040|Karolis (Provanso grafas ir Sicilijos karalius)]]: 1265 m. popiežius Klemensas IV apvainikavo Karolį Sicilijos karaliumi.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179384|Livonijos ordinas]]: 1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą.
 - susijęs iš [[objektai/posakiai/„šviesaus atminimo valdovu“.md#claim-t-77863|„šviesaus atminimo valdovu“]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“.
-- susijęs iš Žemaitija: Po Mindaugo krikšto Žemaitija buvo prarasta kaip etninės Lietuvos dalis, o ordinų pavojus neišnyko.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -86,6 +86,7 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - susijęs iš [[objektai/autoriai/Kamiński A.md#claim-t-91930|Kamiński A]]: A. Kamińskio „Jaćwież“ cituojamas prie teiginio, kad Zilijos valsčius galėjo aprėpti Raigardo apylinkes ir eiti link Augustavo.
 - susijęs iš [[objektai/grupes/Galindai.md#claim-t-65157|Galindai]]: Galindų žemė driekėsi į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179285|Lietuviai]]: Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190600|Lietuviai]]: Narbutas mirusiųjų deginimą kildino iš indų ir teigė, kad vėlyvojoje lietuvių stabmeldystėje jis taikytas tik žymesniems žmonėms.
 - susijęs iš [[objektai/ivykiai/Dobrynės kunigaikštystės apiplėšimas ir 70 lietuvių žūtis (1300 m.).md#claim-t-62769|Dobrynės kunigaikštystės apiplėšimas ir 70 lietuvių žūtis (1300 m.)]]: Brolių kariuomenė nukovė 70 lietuvių, išgelbėjo daug belaisvių krikščionių, o likę lietuviai bėgdami prarado daug žmonių ir arklių.
 - susijęs iš [[objektai/posakiai/kur akys veda, kur kojos neša.md#claim-t-59120|kur akys veda, kur kojos neša]]: Po brolių smūgio lietuvių kariuomenę apėmė baimė, ir ji pabėgo kur akys veda, kur kojos neša, prarasdama daug žmonių bei arklių.
 - susijęs iš Rusų Maskvos sąvadas: Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjusius vokiečius dideliame mūšyje nugalėjo Lietuva.

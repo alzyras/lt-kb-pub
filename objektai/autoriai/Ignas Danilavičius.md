@@ -3,19 +3,19 @@ tipas: autorius
 pavadinimas: 'Ignas Danilavičius'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos: []
 date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai: []
+periodo_grupes: []
 tags:
   - autorius
   - diplomatas
   - dokumentas
-amziai:
-  - 'D'
-periodo_grupes: []
 ---
 # Ignas Danilavičius
 
@@ -24,7 +24,6 @@ periodo_grupes: []
 Čia reikia paminėti labai kritišką Igną Danilavičių (Danilowicz)^37 , kuris pirmasis sudarė Lietuvos istorijai reikalingų dokumentų ar jų santraukų (regestų) rinkinį lenkų kalba, pradedant nuo Herodoto. Janulaitis : Ignas Danilavičius, Kaunas 1932.
 
 ## Teiginiai
-
 <a id="claim-t-81908"></a>
 - t-001
   global_id: t-81908
@@ -86,10 +85,28 @@ periodo_grupes: []
   ryšio_subjekto_parinkimas: Ignas Danilavičius: owner_note_path, author, gap=0
   ryšio_targeto_parinkimas: Danilavičius: mention_match, author, gap=6
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ignas Danilavičius" parinktas kaip owner_note_path. Targetas "Danilavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188404"></a>
+- t-004
+  global_id: t-188404
+  teiginys: 'Ignotas Danilavičius dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas krašto praeities studijomis.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 6622-7113; hash=fb5448ba5e2b681869e28619c93fb8cc0725870ad338f7ce55859a6ae7e73823; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ignas Danilavičius: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ignas Danilavičius" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/zodynas/regestai.md#claim-t-28625|regestai]]: Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų arba jų santraukų, vadinamų regestais, rinkinį.
 - susijęs iš [[objektai/zodynas/regestas regestai.md#claim-t-28626|regestas regestai]]: Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų arba jų santraukų, vadinamų regestais, rinkinį.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -145,3 +162,23 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-004
+  santrauka: 'Ignotas Danilavičius dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas krašto praeities studijomis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Išsamesnėms krašto praeities studijoms istoriką galė­
+    jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
+    „Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­
+    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
+    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
+    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
+    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
+    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
+    kus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004

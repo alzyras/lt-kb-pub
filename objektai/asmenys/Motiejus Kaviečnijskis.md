@@ -39,7 +39,6 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 - susijęs iš Sąrašas visų nuostolių Lietuvos monetas keičiant į lenkiškus pinigus (1570 m.): 1570 m. nuostolių sąraše nurodyta, kad už talerius, Lenkijoje vertintus po 30 grašių, Lietuvoje mokėta po 25 lietuviškus grašius.
 - susijęs iš Lenkija: 1570 m. sąraše nurodyta, kad už talerį Lenkijoje mokėta po 30 grašių, o Lietuvoje - po 25 lietuviškus grašius.
 - susijęs iš Lenkija: 1570 m. sąraše nurodyta, kad už talerį Lenkijoje mokėta po 30 grašių, o Lietuvoje - po 25 lietuviškus grašius.
-- susijęs iš Lietuva: 1570 m. Lietuvos monetos buvo keičiamos į lenkiškus pinigus, fiksuojant dėl to patirtus nuostolius.
 - susijęs iš Varšuva: 1570 m. birželio 1 d. Motiejus Kaviečnijskis atsiuntė talerius į Varšuvą; Lietuvoje už juos mokėta po 25 lietuviškus grašius.
 - susijęs iš Varšuva: 1570 m. birželio 1 d. Motiejus Kaviečnijskis atsiuntė talerius į Varšuvą.
 - susijęs iš [[objektai/zodynas/florinas, zlotas, grašis ir denaras.md#claim-t-86470|florinas, zlotas, grašis ir denaras]]: Motiejus Kaviečnijskis į Varšuvą atsiuntė talerius, už kuriuos Lietuvoje mokėta po 25 lietuviškus grašius.

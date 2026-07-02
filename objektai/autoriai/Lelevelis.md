@@ -46,7 +46,7 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
   ryšio_subjekto_parinkimas: Lelevelis: owner_note_path, author, gap=0
   ryšio_targeto_parinkimas: Rusai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lelevelis" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Joachimas Lelevelis.md#claim-t-78033|Joachimas Lelevelis]]: Po caro administracijos tyrimo politiškai nepatikimu laikytas Joachimas Lelevelis buvo pašalintas iš profesorių.
+- susijęs iš [[objektai/asmenys/Joachimas Lelevelis.md#claim-t-78033|Joachimas Lelevelis (istorikas, XVIII–XIX a.)]]: Po caro administracijos tyrimo politiškai nepatikimu laikytas Joachimas Lelevelis buvo pašalintas iš profesorių.
 - susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-63305|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis buvo tarp politiškai nepatikimų profesorių, išvarytų iš universiteto.
 - susijęs iš [[objektai/autoriai/Jokimas Lelevelis.md#claim-t-184351|Jokimas Lelevelis]]: Jokimas Lelevelis parašė Aug.
 - susijęs iš [[objektai/autoriai/Jokimas Lelevelis.md#claim-t-29204|Jokimas Lelevelis]]: Jokimas Lelevelis savo gausiuose veikaluose nemažai rašė apie Didžiosios Lietuvos Kunigaikštystės istoriją.

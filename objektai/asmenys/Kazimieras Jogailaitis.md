@@ -10,6 +10,11 @@ datos:
   - '1492 m.'
 date_start: '1436'
 date_end: '1492'
+description: 'Kazimieras Jogailaitis – 1440 m. išrinktas Lietuvos didysis kunigaikštis, siejamas su Vilniaus teisėmis ir 1440–1492 m. pereinamuoju laikotarpiu.'
+socialDescription: 'Kazimieras Jogailaitis: Lietuvos didysis kunigaikštis, Vilniaus teisių atnaujintojas ir pereinamojo 1440–1492 m. laikotarpio valdovas.'
+seo_atnaujinta: '2026-07-02T19:20:23.369370+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). Kazimiero karaliavimas Lenkijoje ir jo santykiai su.
+Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikščiu, o jo laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu. Valdydamas jis stiprino Vilniaus miesto teises: 1441 m. atnaujino Magdeburgo teises ir atleido vilniečius nuo muito Lietuvoje. 1492 m. Kazimieras mirė susirgęs kelyje iš Vilniaus į Trakus.
 
 ## Teiginiai
 

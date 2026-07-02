@@ -37,6 +37,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   ryšio_targeto_parinkimas: Europa: mention_match, place, gap=59
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skandinavija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/B. Nerman.md#claim-t-30569|B. Nerman]]: B. Nermanas 1929 m. Stokholme paskelbė darbą apie Skandinavijos ir Rytų Baltijos ryšius vėlyvajame geležies amžiuje.
+- susijęs iš [[objektai/autoriai/Lukas Davidas.md#claim-t-190318|Lukas Davidas]]: Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės šventyklą ir Krivių Krivaitį laikė gotų ar Skandinavijos švedų papročio sekimu.
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86992|Laivai, valtys, sieliai ir plaustai]]: Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179488|Laivai]]: Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.
 - susijęs iš [[objektai/daiktai/Šakutė.md#claim-t-13465|Šakutė]]: Šakutė tuo metu buvo nežinoma Lietuvoje ir Skandinavijos šalyse.
@@ -46,6 +47,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - susijęs iš [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse.md#claim-t-87177|Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]: Normanai ilgainiui ėmėsi prekybos ir atvėrė jos kelius per Lietuvą, suomių ir slavų kraštus nuo Skandinavijos iki Graikijos.
 - susijęs iš Žemaitija: Balińskis Žemaitijoje Milžinų Kapais vadintus didžiulius pilkapius laikė Skandinavijos įtakos Lietuvoje liudijimu.
 - susijęs iš [[objektai/asmenys/Bona Sforca.md#claim-t-173127|Bona Sforca]]: Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, o Žygimantą Augustą išugdė Renesanso dvasia.
+- susijęs iš [[objektai/asmenys/Lukas Davidas.md#claim-t-190107|Lukas Davidas]]: Narbutas nurodo, kad Lukas Davidas prūsus kildino iš gotų ir Romonės šventyklą su Krivių Krivaičiu siejo su gotų ar švedų papročiu.
 - susijęs iš [[objektai/asmenys/Snorro Sturleson.md#claim-t-87575|Snorro Sturleson]]: Snorro Sturlesonas, 1179 m. Islandijoje gimęs keliautojas, rinko žinias Norvegijos ir Šiaurės istorijai.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183581|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį.
 - susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-30554|Adomas Bremenietis]]: Adomas Bremenietis 1072-1076 m. veikalo „Gesta Hammaburgensis ecclesiae pontificum“ ketvirtoje knygoje pateikė žinių apie prūsus.

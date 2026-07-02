@@ -107,8 +107,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Zygfridas iš Da[he]nfeldo.md#claim-t-80728|Zygfridas iš Da[he]nfeldo]]: Zygfridas iš Da[he]nfeldo 1348 m. dalyvavo Strėvos mūšyje kaip Ordino maršalas.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179715|Švitrigaila]]: 1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino.
 - susijęs iš [[objektai/autoriai/Giovanni Villani.md#claim-t-88057|Giovanni Villani]]: Giovanni Villani nurodytas kaip šaltinis apie anglų bombardų panaudojimą 1346 m. rugpjūčio 26 d. mūšyje prie Kreši.
-- susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172867|J. Dlugošas]]: J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje rikiavo lietuvių kariuomenę pulkais ir daliniais.
-- susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172878|J. Dlugošas]]: J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje lietuvių kariuomenę paskirstė raitelių pulkais ir daliniais.
 - susijęs iš [[objektai/autoriai/J. G. Vachteris Wächter.md#claim-t-88010|J. G. Vachteris Wächter]]: J. G. Vachterio germanų kalbos žodyne žodis „Hof“ aiškintas kaip dvaro arba ūkio pastatų sąvoka.
 - susijęs iš [[objektai/daiktai/Aukso balnai.md#claim-t-186845|Aukso balnai]]: Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo žirgų su aukso balnais tarp kitų brangių dovanų.
 - susijęs iš [[objektai/daiktai/Brangenybės, auksas, sidabras ir papuošalai.md#claim-t-87047|Brangenybės, auksas, sidabras ir papuošalai]]: Per Vilniaus gaisrą didysis kunigaikštis neteko žirgų ir brangenybių, o miestiečių įvertinta žala siekė iki 60 tūkstančių sidabro luitų.
@@ -123,10 +121,12 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Korano giminė.md#claim-t-187779|Korano giminė]]: Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduojama kaip neapsakomas kraujo praliejimas.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179255|Lietuviai]]: 1300 m. šeši tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami, imdami belaisvius ir degindami turtą.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190599|Lietuviai]]: Narbutas rašė, kad lietuvių laidotuvių giesmės vadinamos raudomis ir skambėjo visose lietuvių genties tautose.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169700|Lietuvos Didžioji Kunigaikštystė]]: 1564 m. pradžioje į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės Maskvos kariuomenės.
 - susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89173|Pomeranai]]: Sventopelkas drąsino saviškius, teigdamas, kad pomeranai ir prūsai galės visiems laikams nusikratyti teutonų jungo.
 - susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89174|Pomeranai]]: Magistras, broliai ir kunigaikštis Kazimieras devynias dienas bei naktis niokojo Pomeranijos žemę plėšimais ir gaisrais.
 - susijęs iš [[objektai/grupes/Rusai.md#claim-t-117248|Rusai]]: Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko.
+- susijęs iš [[objektai/grupes/Triznų giminė.md#claim-t-189503|Triznų giminė]]: Narbutas nurodė, kad Lietuvoje gyveno garsi Triznų giminė.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172840|Vilniaus miestiečių luomas]]: Vilniaus gyventojai įvertino, kad gaisras didžiajam kunigaikščiui padarė iki 60 tūkstančių sidabro luitų žalą.
 - susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
 - susijęs iš [[objektai/ivykiai/Brolių ir Livonijos pagalbos pergalė prieš sembus Bečių (Pabečių) valsčiuje.md#claim-t-62756|Brolių ir Livonijos pagalbos pergalė prieš sembus Bečių (Pabečių) valsčiuje]]: Livonijos broliams atskubėjus į Bečių valsčių, brolių kariuomenė nugalėjo sembus, paėmė į nelaisvę moteris ir vaikus bei sudegino kiemus.
@@ -172,8 +172,9 @@ Nenurodyta
 - susijęs iš Strėvos upė: Prie Strėvos upės susirėmė stabmeldžių ir krikščionių pajėgos.
 - susijęs iš Tikocinas: Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.
 - susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.
-- susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
 - susijęs iš Vilnius: Laiško kopijoje pranešama, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.
+- susijęs iš [[objektai/zodynas/Anapilis Anafielas.md#claim-t-189274|Anapilis Anafielas]]: Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas neprieinamas kalnas, į kurį turėjo kopti vėlės.
+- susijęs iš [[objektai/zodynas/Trizna.md#claim-t-189183|Trizna]]: Narbutas nurodė, kad Lietuvoje gyveno garsi Triznų giminė.
 - susijęs iš [[objektai/zodynas/bombarda.md#claim-t-86584|bombarda]]: Bombarda buvo Vokietijoje neseniai išrastas ir Lietuvoje dar nežinomas šaunamasis ginklas.
 - susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-113626|gurguolė]]: Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išdrykusi per dvi mylias.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70313|rotmistras]]: Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.

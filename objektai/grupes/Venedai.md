@@ -65,6 +65,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Venedai" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59857|Fridrichas II]]: Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį perleido magistrui Hermanui, kuris ją pasiuntė į Elbingo pilį.
 - susijęs iš [[objektai/autoriai/Sakso Gramatiko.md#claim-t-91954|Sakso Gramatiko]]: Manoma, kad Sakso Gramatiko Danijos istorijoje minimi Rutheni greičiausiai buvo venedai.
+- susijęs iš [[objektai/grupes/Pabaltijo slavai.md#claim-t-189459|Pabaltijo slavai]]: Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip diplomatinę kalbą.
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59860|Fridrichas II]]: Popiežius Honorijus III ir imperatorius Fridrichas II slaptų nesutarimų sprendimą patikėjo broliui Hermanui.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89824|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Dusburgietis vaizduoja Hermaną kaip pagrindinį Ordino sustiprėjimo ir iškilimo veikėją.
@@ -72,8 +73,10 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89828|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Fridrichas II perleido Hermanui šventojo kryžiaus dalį, o šis ją nusiuntė į Elbingo pilį.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89831|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanas iš Zalcos atsisakė spręsti popiežiaus Honorijaus III ir imperatoriaus Fridricho II slaptų nesutarimų bylą.
 - susijęs iš [[objektai/asmenys/Popiežius Honorijus III.md#claim-t-60416|Popiežius Honorijus III]]: Popiežius Honorijus III ir imperatorius Fridrichas II patikėjo broliui Hermanui spręsti jų slaptų nesutarimų bylą.
+- susijęs iš [[objektai/asmenys/Sambūrius.md#claim-t-190117|Sambūrius]]: Narbutas venedų runų užrašą aiškino kaip lotynišką frazę „Immolavit Sambūrius dux Kracho olitori“.
 - susijęs iš [[objektai/daiktai/Šventojo kryžiaus relikvija.md#claim-t-59714|Šventojo kryžiaus relikvija]]: Imperatorius Fridrichas II Šventojo kryžiaus relikviją perdavė magistrui, kuris ją nusiuntė į Elbingo pilį Prūsijoje.
 - susijęs iš [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį.md#claim-t-62959|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]: Imperatorius Fridrichas II perdavė Hermanui didelę Šventojo Kryžiaus relikvijos dalį, o Hermanas ją išsiuntė į Elbingo pilį.
+- susijęs iš [[objektai/posakiai/Kurcho, optimo maximo.md#claim-t-189563|Kurcho, optimo maximo]]: Narbutas „Kurcho, optimo maximo“ aiškino kaip analogiją romėniškų medalių užrašui „IOVI OPTIMO MAXIMO“.
 - susijęs iš Elbingo pilis (pilis): Į Elbingo pilį buvo pasiųsta imperatoriaus Fridricho II magistrui perduota didelė šventojo kryžiaus dalis.
 ## Reikšmingi paminėjimai
 

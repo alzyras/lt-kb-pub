@@ -147,6 +147,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179287|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78379|Lietuvos totoriai]]: Lietuvos totoriai naudodavo rytietiškas strėlines ir buvo ginkluoti lanku, kardu bei skydu.
 - susijęs iš [[objektai/paprociai/Bajoriškųjų lengvatų suteikimas paliečiant petį kardu.md#claim-t-185911|Bajoriškųjų lengvatų suteikimas paliečiant petį kardu]]: Aleksandras ir Šich Achmetas suteikė bajoriškųjų lengvatų karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams, paliesdami jų petį kardu.
+- susijęs iš [[objektai/paprociai/Laidotuvių palyda su kardų žvanginimu ir Pykuolio varymo šūksniais.md#claim-t-189925|Laidotuvių palyda su kardų žvanginimu ir Pykuolio varymo šūksniais]]: Narbutas aprašo laidotuvių paprotį, kai mirusįjį lydintys raiti giminaičiai ir bičiuliai žvangindavo kardais ir šūksniais vydavo Pykuolį.
 - susijęs iš [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu.md#claim-t-87226|Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]: 1419 m. Vilniaus pilyje Vytautas didžiosios ordos chanu paskelbė Betsabutą, uždėdamas kepurę, apsiausdamas apsiaustu ir prisegdamas kardą.
 - susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
@@ -155,15 +156,18 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Bogdanas Maskevičius.md#claim-t-186186|Bogdanas Maskevičius]]: Bogdanas Maskevičius su kitais sužeistais pulkų vadais prasiskynė kelią per ginkluotus būrius ir išvengė nelaisvės ar mirties.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54964|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89713|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05173|Gediminas]]: Gediminas buvo apibūdintas ne tik kaip karys, bet ir kaip valstybininkas, veikęs diplomatija.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176384|Gediminas]]: Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05173|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas buvo apibūdintas ne tik kaip karys, bet ir kaip valstybininkas, veikęs diplomatija.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176384|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui.
 - susijęs iš [[objektai/asmenys/Ivanas (Maskvos valdovas).md#claim-t-185945|Ivanas (Maskvos valdovas)]]: Ivano įsakymu į nelaisvę atvestas Konstantinas buvo kankinamas ir surakintas grandinėmis.
 - susijęs iš [[objektai/asmenys/Ivanas Jacyničius.md#claim-t-186212|Ivanas Jacyničius]]: Ivanas Jacyničius buvo vienas iš sužeistų pulkų vadų, kurie prasiskynė kelią per ginkluotus būrius ir išvengė nelaisvės ar mirties.
 - susijęs iš [[objektai/asmenys/Jonas XXIII.md#claim-t-176499|Jonas XXIII]]: Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą.
+- susijęs iš [[objektai/asmenys/Juozapas Ignotas Kraševskis.md#claim-t-190035|Juozapas Ignotas Kraševskis]]: Anot Kraševskio, mirusįjį palietę žmonės lietuvių laidojimo papročiuose tapdavo „nešvarūs“.
 - susijęs iš [[objektai/asmenys/Jurgis Valavičius.md#claim-t-186225|Jurgis Valavičius]]: Jurgis Valavičius su kitais sužeistais pulkų vadais prasiskynė kelią per ginkluotus būrius ir išvengė nelaisvės ar mirties.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179644|Skirgaila]]: Skirgaila buvo apibūdintas kaip didelis girtuoklis, smarkus žmogus ir geras chirurgas.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176877|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis dažnai klausė Vytauto apie karūnacijos terminą ir skatino jį negaišti.
+- susijęs iš [[objektai/autoriai/Juozapas Ignacas Kraševskis.md#claim-t-190432|Juozapas Ignacas Kraševskis]]: Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“.
 - susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-08294|Karinė ginkluotė]]: Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę.
+- susijęs iš [[objektai/daiktai/Mėnesį perkertantis kalavijas.md#claim-t-189646|Mėnesį perkertantis kalavijas]]: Narbutas perteikė latvių pasakojimą, kad Saulė aštriu kardu perkirto Mėnesį už meilę Aušrinei.
 - susijęs iš [[objektai/grupes/Klevo kuopa.md#claim-t-40924|Klevo kuopa]]: 1945 m. Kazimieras Kontrimas-Tėvas vadovavo Kretingos apskrities partizanų Klevo kuopai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178788|Kryžiuočių ordinas]]: Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes Prūsijoje, Žiemgalius ir Kuršius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178827|Kryžiuočių ordinas]]: Vytautą nuo sostinės dažnai atitraukdavo karai su Rusios kunigaikščiais, totorių chanais ir kryžiuočiais.
@@ -178,6 +182,7 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę.md#claim-t-185541|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]: Po Vedrošos mūšio nelaisvės ar mirties išvengė Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius.
 - susijęs iš [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje.md#claim-t-87237|Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]: Vytautas globojo pirklius, o Vilniaus prekyba išsiplėtė su Prūsijos, Livonijos, Pskovo, Naugardo ir Maskvos miestais.
 - susijęs iš [[objektai/posakiai/Damoklo kardas tikrai pakibo ant unijos.md#claim-t-35967|Damoklo kardas tikrai pakibo ant unijos (unija)]]: 1430 m. kovą Jogailos pašaukti lenkai susivažiavo į Jedlną ieškoti paramos unijai, kuriai kilo pavojus dėl Vytauto veiksmų.
+- susijęs iš J. I. Kraševskio veikalas apie Lietuvą: Narbutas nurodo, kad, anot Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“.
 - susijęs iš Bobro upė: Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė karo stovyklą priešo žygiui stabdyti.
 - susijęs iš Dorpato vyskupija: Lietuvių pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš Vilnius: Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo.

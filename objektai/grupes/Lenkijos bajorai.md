@@ -37,7 +37,13 @@ Tačiau kai ši jo nelaisvė gana ilgai užsi­ tęsė, apie tai pasklido žinia
   ryšio_subjekto_parinkimas: Lenkijos bajorai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=9
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos bajorai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-188248|Lenkai]]: Narbutas aiškino, kad kai kurie lietuviški herbai įėjo į Lenkijos herbynus tikriausiai persikėlus jais besinaudojusioms šeimoms.
+- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-188282|Lietuvos bajorija]]: Narbutas teigė, kad keli aiškiai lietuviški herbai pateko į Lenkijos herbynus veikiausiai atsikėlus juos naudojusioms šeimoms.
+- susijęs iš [[objektai/ivykiai/Herbų vienovės įvedimas Horodlės seime 1413 m.md#claim-t-189622|Herbų vienovės įvedimas Horodlės seime 1413 m (seimas, XV a.)]]: 1413 m. Horodlės seime Lenkijos bajorai, Lietuvos ir Lenkijos unijos ženklan, suteikė savo herbus lietuvių bajorams ir įvedė herbų vienovę.
 - susijęs iš [[objektai/ivykiai/Vilniaus-Radomo susitarimas.md#claim-t-66976|Vilniaus-Radomo susitarimas]]: 1401 m. po ilgų derybų pasiektą Vilniaus-Radomo susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkijos bajorai.
+- susijęs iš Horodlė: 1413 m. Horodlės seime lenkų bajorai suteikė savo herbus lietuvių bajorams kaip abiejų tautų susijungimo ženklą.
+- susijęs iš Lenkija: Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.
+- susijęs iš Lenkija: Narbutas spėjo, kad kai kurie lietuviški herbai į Lenkijos herbynus pateko atsikėlus jais besinaudojusioms šeimoms.
 - susijęs iš Varka: Lenkijos bajorai Varkoje nusprendė reikalauti paleisti karalių, o nesėkmės atveju rengti žygį į Lietuvą.
 ## Reikšmingi paminėjimai
 

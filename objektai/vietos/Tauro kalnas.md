@@ -4,6 +4,7 @@ pavadinimas: 'Tauro kalnas'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1429 m.'
   - '1794 m.'
@@ -12,14 +13,14 @@ date_start: '1429'
 date_end: '2004'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
+  - 'XXI'
 tags:
   - miestas
   - sukilimas
   - tauta
   - valstybė
-amziai:
-  - 'XV'
-  - 'XXI'
 ---
 # Tauro kalnas
 
@@ -28,7 +29,6 @@ amziai:
 Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyta rusų artilerija.
 
 ## Teiginiai
-
 <a id="claim-t-84850"></a>
 - t-001
   global_id: t-84850
@@ -79,8 +79,26 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   ryšio_targeto_parinkimas: Aukštutinė pilis: mention_match, place, gap=22
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tauro kalnas" parinktas kaip owner_note_path. Targetas "Aukštutinė pilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
-## Reikšmingi paminėjimai
+<a id="claim-t-188837"></a>
+- t-004
+  global_id: t-188837
+  teiginys: 'Narbutas pasakoja, kad Gediminas nukovė taurą ant kalno, vėliau vadinto Tauro kalnu, o Lizdeika po nakvynės Šventaragio miške išaiškino jo sapną.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 530732-531380; hash=97caa508b909e2bacc1a3385aa1b1aec07eb3e0c18af3d04c0fd51121ab0300d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lizdeika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tauro kalnas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lizdeika: mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tauro kalnas" parinktas kaip owner_note_path. Targetas "Lizdeika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasakojime Tauro kalnu vadintas kalnas, ant kurio Gediminas medžiodamas pašovė ir pribaigė didžiulį taurą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -109,13 +127,11 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
     vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukštutinę mūro pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -149,13 +165,11 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
     XI Knyga, sk.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'Bychovco kronika pasakoja, kad Vytautas įkasė patrankas Tauro kalne, pavadintame pagal Gedimino nudėtą taurą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -176,9 +190,34 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
     nes apėmė baimė.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Narbutas pasakoja, kad Gediminas nukovė taurą ant kalno, vėliau vadinto Tauro kalnu, o Lizdeika po nakvynės Šventaragio miške išaiškino jo sapną.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    304
+
+    ## Puslapis 304
+
+    tinai turi išaugti į didelį miestą, kadangi tą nuostabiai skati­
+    no ir vietos padėtis.
+    Lizdeika išaiškino sapną Gediminui po to, kai jis, nukovęs
+    didžiulį taurą ant aukščiausio kalno, stūksančio Antakalnio
+    link, -  išmanantys tėvynės istoriją dabar jį vadina Tauro kal­
+    nu -  nakvojo šventajame miške prie Vilnios ir Neries santa­
+    kos, vadintame Šventaragiu; jam prisisapnavo, kad matęs mil­
+    žinišką vilką, visą šarvuotą geležiniais šarvais, o jo viduje stau­
+    gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
+    kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
+    čiui -  kas nors panašaus prisisapnuotų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004

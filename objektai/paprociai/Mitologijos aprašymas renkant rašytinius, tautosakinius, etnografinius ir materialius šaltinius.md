@@ -36,30 +36,60 @@ Nenurodyta.
 Nenurodyta.
 
 ## Teiginiai
-
-<a id="claim-t-187833"></a>
-- t-001
-  global_id: t-187833
-  teiginys: 'Narbutas pratarmėje rašo mitologijos tomui medžiagą sėmęsis iš rašytinių paminklų ir per trisdešimt metų sukaupęs papročių, prietarų, padavimų bei dainų rinkinį.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys pilnai perteikia Narbuto pratarmėje nurodytą medžiagos kilmę ir trisdešimties metų rinkimą. Palikta autoriaus atribucija, nes kalbama apie jo paties metodinį pasakojimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Lietuva'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-187834"></a>
-- t-002
-  global_id: t-187834
-  teiginys: 'Įžangos autorius nurodo, kad T. Narbutas mitologijos duomenis rinko iš rašytinių istorijų, mokslinių tyrimų, žmonių padavimų, dainų ir paminklų liekanų.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Narbuto mitologijos šaltinių rinkimą ir atribuuoja jį įžangos autoriui. Šaltinių sąrašas neplečiamas už citatos ribų.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Francas Bopas|Francas Bopas]]; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
+<a id="claim-t-188390"></a>
+- t-003
+  global_id: t-188390
+  teiginys: 'Įžangos autorius nurodo, kad T. Narbutas mitologijos duomenis rinko iš rašytinių istorijų, mokslinių tyrimų, padavimų, dainų ir paminklų liekanų.'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 37444-38704; hash=acd408d4e359c4f71b25a461b1ffeb866390fe9fb7bd3ea1d126ba4c57cad813; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md
+  ryšio_patikimumas: susije_su -> Francas Bopas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Francas Bopas: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius" parinktas kaip owner_note_path. Targetas "Francas Bopas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- t-004
+  teiginys: 'Narbutas pratarmėje rašo mitologijos tomui medžiagą sėmęsis iš rašytinių paminklų ir per trisdešimt metų sukaupęs papročių, padavimų bei dainų rinkinį.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 152934-153686; hash=ce14526c1d108728b221bd87c1fae13089aec1e9600e13dbc6f32dad8ae804ac; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md
+  ryšio_patikimumas: susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius" parinktas kaip owner_note_path. Targetas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- t-005
+  teiginys: 'Narbutas rašo mitologijos tomo medžiagą rinkęs iš rašytinių paminklų nuo Šiaurės sagų iki Kojalavičiaus veikalų.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 152934-153686; hash=ce14526c1d108728b221bd87c1fae13089aec1e9600e13dbc6f32dad8ae804ac; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius" parinktas kaip owner_note_path. Targetas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Įžangos autorius nurodo, kad T. Narbutas mitologijos duomenis rinko iš rašytinių istorijų, mokslinių tyrimų, padavimų, dainų ir paminklų liekanų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Naudojamų šaltinių atranka ir vertinimu T. Narbutas irgi
@@ -83,15 +113,15 @@ Nenurodyta.
     elio Lindės, Peterio Boleno, Franco Bopo ir daugelio kitų dar­
     bais, archeologų radiniais, savo ir kitų kraštotyrininkų surink­
     ta tautosaka, etnografine medžiaga.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 - c-002
-  santrauka: 'Narbutas pratarmėje rašo mitologijos tomui medžiagą sėmęsis iš rašytinių paminklų ir per trisdešimt metų sukaupęs papročių, prietarų, padavimų bei dainų rinkinį.'
+  santrauka: 'Narbutas pratarmėje rašo mitologijos tomui medžiagą sėmęsis iš rašytinių paminklų ir per trisdešimt metų sukaupęs papročių, padavimų bei dainų rinkinį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek
@@ -106,10 +136,11 @@ Nenurodyta.
     kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
     privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
     logija yra raktas seniausiajai tautų istorijai pažinti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
+    - t-005

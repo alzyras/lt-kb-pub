@@ -103,6 +103,7 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-78665|Karinė ginkluotė]]: Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai.
 - susijęs iš [[objektai/daiktai/Skydas.md#claim-t-111285|Skydas]]: Martynas, priešams miegant, vieną po kito išvogė jų skydus, kalavijus ir ietis.
 - susijęs iš [[objektai/daiktai/Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslas.md#claim-t-59716|Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslas]]: Sūduviai iš Lenkijos išsivežė Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslą ir ketino mėtyti į jį ietis.
+- susijęs iš [[objektai/grupes/Kęsgailų giminė.md#claim-t-188220|Kęsgailų giminė]]: Jonas Lenartaitis Kęsgailą prie 1490 m. Trakų pavieto bajorų sutarties prispaudė antspaudą su bėgančio ietį laikančio žmogaus atvaizdu.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187462|Algirdo žygis į Maskvą]]: Algirdas, anot šaltinio, pareiškė turįs palikti šlovės ženklą ir atrėmė savo ietį į Maskvos miesto sieną.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187464|Algirdo žygis į Maskvą]]: Lietuvos metraštis teigia, kad Po susitarimo su Maskvos didžiuoju kunigaikščiu Algirdas atrėmė ietį į Maskvos sieną kaip savo žygio ženklą.
 - susijęs iš [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!.md#claim-t-09667|Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]: Algirdas Maskvos valdovo pasiuntiniui pareiškė, kad per Velykas bus Maskvoje ir atrems ietį į Kremliaus sieną.
@@ -114,11 +115,13 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173145|Dovydas (Gardino pilininkas)]]: Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173146|Dovydas (Gardino pilininkas)]]: Lapkričio 21 d. Gardino pilininkas Dovydas su galinga kariuomene įsibrovė į Mazoviją ir nusiaubė Pultuską bei 130 kaimų.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-184058|Dovydas (Gardino pilininkas)]]: Dovydas, Gardino pilininkas, lapkričio 21 d. įsibrovė į Mazoviją ir nusiaubė Plocko vyskupo Pultuską.
+- susijęs iš [[objektai/asmenys/Jonas Lenartaitis Kęsgaila.md#claim-t-190231|Jonas Lenartaitis Kęsgaila]]: Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, kurią sudarė Trakų pavieto bajorai.
 - susijęs iš [[objektai/asmenys/Margalis (Margirius ).md#claim-t-39597|Margalis (Margirius )]]: 1329 m. lietuvių didikas Margalis dvikovoje susirėmė su Čekijos karaliumi Jonu Liuksemburgiečiu.
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79107|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79109|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
 - susijęs iš [[objektai/asmenys/Ulrichas von Jungingenas.md#claim-t-184286|Ulrichas von Jungingenas]]: Ulrichas von Jungingenas nukrito nuo arklio ir mirė.
 - susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78379|Lietuvos totoriai]]: Lietuvos totoriai naudodavo rytietiškas strėlines ir buvo ginkluoti lanku, kardu bei skydu.
+- susijęs iš [[objektai/grupes/Pabaltijo slavai.md#claim-t-189460|Pabaltijo slavai]]: Pasak Narbuto cituojamo Tado Volianskio, žąsis ant antspaudo priminė būrimą, kuriam Pabaltijo slavai naudojo žirgą.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187457|Algirdo žygis į Maskvą]]: Lietuvos metraštis pasakoja, kad Algirdas, atsakydamas į grasinimą, pažadėjo būti Maskvoje per Velykas.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187458|Algirdo žygis į Maskvą]]: Lietuvos metraštis pasakoja, kad po susitarimo Maskvos didysis kunigaikštis susitiko su Algirdu ir dovanojo jam daug aukso, sidabro, perlų ir kailių.
@@ -135,6 +138,7 @@ Nenurodyta
 - susijęs iš Algirdo ir Dimitrijaus taikos sutartis: Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.
 - susijęs iš Možaiskas: Pagal taikos sąlygas Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.
 - susijęs iš Pasveikinimo kalva: Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
+- susijęs iš Trakų pavietas arba vaivadija: Jonas Lenartaitis Kęsgaila prispaudė antspaudą prie 1490 m. sutarties, kurią sudarė Trakų pavieto, arba vaivadijos, bajorai.
 - susijęs iš Ugros upė: Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upės.
 - susijęs iš [[objektai/zodynas/margutis.md#claim-t-185407|margutis]]: Rusai nuo senų laikų Velykų dieną dovanodavo vienas kitam margutį kaip bičiuliškumo ženklą.
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-184630|metropolitas]]: Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė.

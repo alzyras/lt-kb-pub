@@ -68,7 +68,7 @@ Nuo tada Jogaila veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko
   ryšio_subjekto_parinkimas: Buda: owner_note_path, place
   ryšio_targeto_parinkimas: Romos karalius: mention_match, thing, gap=23
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Buda" parinktas kaip owner_note_path. Targetas "Romos karalius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
+- susijęs iš [[objektai/asmenys/Šakjamunis.md#claim-t-190224|Šakjamunis]]: Narbutas Šakjamunį apibūdino kaip tautos mokytoją, išminčių ir įstatymų leidėją, kuriame įsikūnijo indų Buda.
 ## Reikšmingi paminėjimai
 
 - c-001

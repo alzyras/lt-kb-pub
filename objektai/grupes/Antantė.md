@@ -135,7 +135,6 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
 - susijęs iš [[objektai/paprociai/Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą.md#claim-t-20817|Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą]]: 1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.
 - susijęs iš 1920 m. liepos 12 d. taika su Sovietų Rusija: 1920 m. liepos 5–16 d. Spa konferencijoje didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai, ir Varšuva su tuo sutiko.
 - susijęs iš Lietuvos ir Sovietų Rusijos taikos sutartis (1920 m. liepos 12 d.): 1920 m. liepą Vilnių Lietuvai perdavė bolševikai, o ne lenkai.
-- susijęs iš Kaunas: Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, greitosiomis kūrė Lietuvos karines pajėgas.
 - susijęs iš Kaunas: 1919 m. rugsėjo 26 d. tūkstančiai žmonių Kaune susirinko prie rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.
 - susijęs iš Lenkija: Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.
 - susijęs iš Lenkija: Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.

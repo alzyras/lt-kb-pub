@@ -62,8 +62,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=17
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Saulė" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Šarvai.md#claim-t-176218|Šarvai]]: Ordino riterius, šarvuotus metaliniais šarvais, atvirame lauke kepino karšta liepos mėnesio saulė.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184905|Žygimantas]]: Karalius Žygimantas pirmas perbrido ir perplaukė upę, be nuostolių pervesdamas visus raitelius.
 - susijęs iš [[objektai/autoriai/V. Pisani.md#claim-t-31042|V. Pisani]]: V. Pisani parašė darbą „Il paganesimo balto-slavo“, paskelbtą leidinyje „Storia delle religioni“.
 - susijęs iš [[objektai/autoriai/W. Schmidt.md#claim-t-31071|W. Schmidt]]: W. Schmidt parašė veikalus „Ursprung und Werden der Religion“ ir „Der Ursprung der Gottesidee“.

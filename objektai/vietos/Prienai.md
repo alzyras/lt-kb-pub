@@ -4,6 +4,7 @@ pavadinimas: 'Prienai'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1919 m.'
   - '1936 m.'
@@ -12,13 +13,13 @@ date_start: '1919'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - popiežius
   - vieta
   - vyskupas
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Prienai
 
@@ -27,7 +28,6 @@ amziai:
 Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai palankus.
 
 ## Teiginiai
-
 <a id="claim-t-69030"></a>
 - t-001
   global_id: t-69030
@@ -77,6 +77,36 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   ryšio_subjekto_parinkimas: Prienai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Alytus: mention_match, place, gap=13
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prienai" parinktas kaip owner_note_path. Targetas "Alytus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-183802"></a>
+- t-004
+  global_id: t-183802
+  teiginys: 'Narbutas rašo ties Prienais, Nemuno pusračio vingyje, pastebėjęs piliakalnį, vadintą Krono-kilpinie, arba Kruonio kilpa.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 243816-244319; hash=1263a9a1b43ded250dece0d58029d00b62c1af0d318668bd4477a209636f8b5e; match=exact
+  sprendimo_priezastis: auto
+<a id="claim-t-183803"></a>
+- t-005
+  global_id: t-183803
+  teiginys: 'Narbutas rašo matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus, važiuodamas per Išlaužą.'
+  pagrindžia:
+    - c-007
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 648468-648986; hash=e57cb3c1bf7eca7e8e776002897872ca2324b164b4a0d7de1727083d6d90dc01; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> NKGB: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prienai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: NKGB: mention_match, group, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prienai" parinktas kaip owner_note_path. Targetas "NKGB" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39623|P. Liatukas]]: P. Liatukas vasario 8 d. įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.
 - susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39622|P. Liatukas]]: P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną.
 - susijęs iš Ašminta: 1947 m. liepos 17 d. Prienų apskrities Ašmintos kaime MGB grupė apsupo partizanų bunkerį, kuriame slėpėsi 7 Birutės ir Geležinio Vilko rinktinės partizanai.
@@ -86,6 +116,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 - susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49491|V. Grigaliūnas-Glovackis]]: Vasario 8 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.
 - susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49492|V. Grigaliūnas-Glovackis]]: 1859 m. vasario 3 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną saugoti.
 - susijęs iš Alytus: Bolševikų pajėgos planavo persikelti per Nemuną Alytuje ir Prienuose, kad galėtų pulti Kauną iš pietų.
+- susijęs iš Nemunas: Narbutas rašė matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus per Išlaužą.
 - susijęs iš [[objektai/asmenys/A. Žemaitis.md#claim-t-39988|A. Žemaitis]]: Netoli Birštono Zaskevičiaus kariai sutiko A. Žemaičio vadovaujamą 1-ojo pėstininkų pulko 2-ąją kuopą, vykusią paremti Jiezno puolimo.
 - susijęs iš [[objektai/asmenys/Arkadij Kruglov.md#claim-t-183730|Arkadij Kruglov]]: Prie durų stovėjęs Prienų NKGB tardytojas Arkadijus Kruglovas paleido automato seriją.
 - susijęs iš [[objektai/asmenys/Arkadij Kruglov.md#claim-t-39347|Arkadij Kruglov]]: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
@@ -103,7 +134,6 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 - susijęs iš Vigrai: 1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.
 - susijęs iš [[objektai/asmenys/A. Žemaitis.md#claim-t-39988|A. Žemaitis]]: Netoli Birštono Zaskevičiaus kariai sutiko A. Žemaičio vadovaujamą 1-ojo pėstininkų pulko 2-ąją kuopą, vykusią paremti Jiezno puolimo.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti miestą iš pietų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -260,6 +290,46 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Narbutas rašo ties Prienais, Nemuno pusračio vingyje, pastebėjęs piliakalnį, vadintą Krono-kilpinie, arba Kruonio kilpa.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Už Tilžės, žemiau Vingio (Winge) dvaro, prie
+    Sancinės, kur Nemunas išsišakoja į dvi atšakas -  Giliją ir Rus­
+    nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­
+    kalnis, vietinių vadinamas Kroniszkas -  Pilnis, tai yra Kruonio
+    (Kronu) pilimi. Ties Prienais, kur Nemunas daro pusračio vingį,
+    pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
+    Kronu). Tai rodo, kad vietos gyventojai kadaise Nemuną tik­
+    rai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi-
+    17 Stender.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-007
+  santrauka: 'Narbutas rašo matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus, važiuodamas per Išlaužą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šiuo atveju, kadangi tokių atsitikimų dažniausiai
+    pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­
+    džių šakelių ir jį kasmet tam tikrą dieną kas nors padegdavo;
+    sako, kad tai būdavo daroma niekam nematant. Vieną tokį
+    laužą pats mačiau kairiajame Nemuno krante, prie kelio iš
+    Kauno į Prienus, važiuodamas per Išlaužą. Jis yra kairiojoje
+    kelio pusėje, pamiškėje, prie pat vieškelio; kiekvienas žmo­
+    gus, išsaugojęs vietinį dievobaimingumą, eidamas pro laužą,
+    turi rūpestingai užmesti ant jo kokią nors šakelę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
 

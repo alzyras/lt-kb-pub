@@ -119,6 +119,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 - susijęs iš Žydai Lietuvoje: „Žydai Lietuvoje“ yra vienas iš paminėtų Janulaičio raštų, išleistų 1923 m.
 - susijęs iš Gardinas: XVIII a. tribunolas rinkdavosi tik Vilniuje ir Gardine.
 - susijęs iš Vilnius: 1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje.
+- susijęs iš Vilnius: Pasakojama, kad į Vilniaus bažnyčią suvežtą Saurų dvaro biblioteką ir rankraščius sargas už rublį leisdavo išgabenti.
 - susijęs iš [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės.md#claim-t-86481|lotyniškos teismo ir dokumentų formulės]]: LDK Vyriausiasis Tribunolas priėmė Pabaisko bažnyčios fundacijos dokumentą ir pavedė jį įrašyti į Tribunolo viešąsias knygas.
 ## Reikšmingi paminėjimai
 

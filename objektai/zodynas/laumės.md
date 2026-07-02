@@ -48,6 +48,7 @@ Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deiv�
   ryšio_subjekto_parinkimas: laumės: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Aisčiai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "laumės" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/autoriai/Nežinomas Jėzuitų ordino narys.md#claim-t-190397|Nežinomas Jėzuitų ordino narys]]: Narbutas mini nežinomo jėzuito sukompiliuotą rankraštinę Bažnyčios istoriją, saugotą privataus dvarininko bibliotekoje.
 - susijęs iš [[objektai/zodynas/žyniai vaidilos raganos.md#claim-t-183487|žyniai vaidilos raganos]]: „Pirmines“ šventvietes turėjo sergėti žyniai, vaidilos arba raganos.
 - susijęs iš [[objektai/zodynas/žyniai vaidilos raganos.md#claim-t-22357|žyniai vaidilos raganos]]: Žyniai, vaidilos ir raganos turėjo sergėti „pirmines“ šventvietes.
 ## Reikšmingi paminėjimai

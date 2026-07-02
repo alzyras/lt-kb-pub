@@ -51,7 +51,6 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 - susijęs iš Karšuvos žemė: Karšuvos žemė buvo pietvakarių Žemaitijoje ir pietuose apie Nemuno bei Mituvos santaką siekė Nemuną.
 - susijęs iš Medraba: Medrabos pilis galėjusi būti Meškininkų piliakalnyje, į šiaurės vakarus nuo Jurbarko kairiajame Mituvos krante.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178928|Kryžiuočių ordinas]]: Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
 - susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66529|Durbės mūšis (1260 m.)]]: 1260 m. Livonijos ir Prūsijos broliai su stipriomis kariuomenėmis susirinko nugabenti maisto Švento Jurgio pilies broliams.
 - susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66821|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.
 - susijęs iš Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts: H. ir G. Mortensenų veikalas minimas tarp darbų, kuriuose Kolainių pilies ieškota toliau į rytus už Bisenės.

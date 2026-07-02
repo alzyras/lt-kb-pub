@@ -58,13 +58,18 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Patranka Hidra.md#claim-t-39187|Patranka Hidra]]: Patrankos „Hidra“ laibgalis dekoruotas Hidra, o drūtgalis - karūna, Vyčiu, Gediminaičių stulpais ir 1564 m. Žygimanto Augusto įrašu.
 - susijęs iš [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais.md#claim-t-75347|Sąjūdžio ženklas su Gedimino stulpais]]: Sąjūdžio ženklą su Gedimino stulpais sukūrė dailininkai Giedrius Reimeris ir Algimantas Nasvytis.
 - susijęs iš [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais.md#claim-t-75348|Sąjūdžio ženklas su Gedimino stulpais]]: Sąjūdžio ženklą su Gedimino stulpais kūrė Giedrius Reimeris ir Algimantas Nasvytis.
+- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-188187|Gediminaičių dinastija]]: Prie Kauno rastoje senovinėje lietuviškoje monetoje Narbutas vienoje pusėje nurodė Gediminaičių Stulpų herbą ir neaiškią raidę.
 - susijęs iš Stemmata Polonica: XVI a. vidurio herbyne „Stemmata Polonica“, saugomame Paryžiuje, pavaizduoti Gedimino stulpai ir Jogailos kryžius.
+- susijęs iš Druskininkų kapavietė: 1841 metais prie Druskininkų tik ką atkastoje kapavietėje rasta moneta, kurios vienoje pusėje buvo pavaizduoti Gediminaičių Stulpai.
+- susijęs iš Kaunas: Prie Kauno rastos senovinės lietuviškos monetos vienoje pusėje buvo Gediminaičių Stulpai ir neaiški raidė.
+- susijęs iš Nemunas: Narbutas minėjo medinį tiltą, jungusį abu Nemuno krantus ir laikytą ant tokiu pačiu būdu pastatytų stulpų.
 - susijęs iš [[objektai/zodynas/denariukas.md#claim-t-34255|denariukas]]: 1387-1390 m. atsiradę lietuviški denariukai kursavo greta kitų pinigų ir turėjo ieties galo bei Gedimino stulpų vaizdus.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92963|Herbai]]: Gedimino stulpai ir Jogailos kryžius XVI a. viduryje buvo pavaizduoti herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-10728|Lietuvos pinigai]]: Kapomis vadintus Lietuvos pinigus greičiausiai liejo ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176215|Vėliavos]]: XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje.
 - susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-23309|Lietuvos Persitvarkymo Sąjūdis]]: Pradiniame etape Sąjūdis iš esmės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų etapais siejo tik laisvos Lietuvos siekis.
 - susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67160|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.
+- susijęs iš Kaunas: Romas Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -94,3 +99,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Stulpai priklause [[objektai/grupes/Gediminaičių dinastija]]

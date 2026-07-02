@@ -218,13 +218,11 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     68 PABAISKO (UKMERGĖS) MUSIS 1435 m. rugsėjo 1 d.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -257,13 +255,11 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     MASKVA — Piedimias T Kan?
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: '1435 m. gruodžio 31 d. Vladislovas Jogailaitis su Žygimantu Kęstutaičiu ir Ordino magistru Rusdorfu sudarė Bresto taiką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -281,13 +277,11 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     rius neprivers šios sutarties sulaužyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
   santrauka: 'Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -323,13 +317,11 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     suns personaline unija.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-004
-
 - c-005
   santrauka: 'Vengrijos seime daugelis rėmė Jono brolį Vladislovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -354,13 +346,11 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     vengrai lengva ranka apgavo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-005
-
 - c-006
   santrauka: 'Po pergalės Vladislovas Jogailaitis pasiūlė broliui Jonui tartis dėl santarvės sudarymo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -375,13 +365,11 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     neficiją Sileziją.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-006
-
 - c-007
   santrauka: 'Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -397,13 +385,11 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     tingos Ivano pinklės.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-007
-
 - c-008
   santrauka: 'Karalius Vladislovas atkakliai ragino valdovą nusileisti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -421,13 +407,11 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     valdovo prielankumą ateityje.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-008
-
 - c-009
   santrauka: 'Į valdovų susitikimą karalius Vladislovas ir jo duktė Ona atvažiavo važiuoti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -448,10 +432,9 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     Romos imperijai.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-009
 

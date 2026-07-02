@@ -185,4 +185,4 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
 
 ## Ryšiai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Ovručas
-- [[objektai/asmenys/Gediminas]] surenge_zygi_i Ovručas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] surenge_zygi_i Ovručas

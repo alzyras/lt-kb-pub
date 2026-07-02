@@ -6,29 +6,31 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1219 m.'
   - '1248 m.'
   - '1307 m.'
   - '1320 m.'
   - '1340 m.'
+  - '1354 m.'
   - '1413 m.'
   - '1431 m.'
   - '1447 m.'
-  - '1452 m.'
+  - '1451 m.'
   - '2026 m.'
 date_start: '1219'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+  - 'XXI'
 tags:
   - karalius
   - privilegija
   - valstybė
   - vieta
-amziai:
-  - 'XIII'
-  - 'XXI'
 ---
 # Voluinė
 
@@ -37,7 +39,6 @@ amziai:
 Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyta sritis, kaip Vladimiro vyskupijos vieta ir kaip viena tankiau apgyventų bei su Kijevo prekyba susietų žemių.
 
 ## Teiginiai
-
 <a id="claim-t-112336"></a>
 - t-001
   global_id: t-112336
@@ -301,7 +302,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - t-024
   global_id: t-112363
   teiginys: '1447 m. privilegijoje Kazimieras įsipareigojo išlaikyti Lietuvą Vytauto laikų ribose, kad Podolė su Voluine liktų Lietuvai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Podolė'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Podolė'
+  semantiniai_rysiai: 'Voluinė priklausė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1431 m.; įvykio data: 1447 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -358,14 +360,34 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   ryšio_subjekto_parinkimas: Voluinė: llm_allowed_candidate, place
   ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
   ryšio_paaiskinimas: Voluinės vaivadija įtraukta į sričių sąrašą, kurios buvo prijungtos prie Lenkijos.
+
+<a id="claim-t-188871"></a>
+- t-027
+  global_id: t-188871
+  teiginys: 'Švitrigailos privilegijos nuoraše nurodyta, kad Ostapui Kropotkovui herbas duotas kartu su Podbužo dvaru Voluinėje.'
+  pagrindžia:
+    - c-021
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 722798-723397; hash=291850f35b0755cabfabaf557fcc6a765f26d86d90922507e2c3252ff4fedc6d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai sako, kad Podolė turėjo likti Lietuvai.
 - susijęs iš [[objektai/asmenys/Boleslovas.md#claim-t-89676|Boleslovas]]: Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/paprociai/Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje.md#claim-t-87156|Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje]]: Gediminas užmezgė ryšius su krikščioniškąja Europa, globojo pranciškonus ir dominikonus, o Vilniuje leido kurtis atėjūnams iš Vokietijos ir Lenkijos.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
 - susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-183553|Konstantinas Ostrogiškis]]: Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93460|Liubartas]]: Liubartas per kovas su lenkais atlaikė Voluinę.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93461|Liubartas]]: Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113909|Mindaugas (valdovas, XIII a.)]]: 1248 m. Mindaugui kilo grėsminga opozicija, sudaryta iš jo brolvaikių, Livonijos ordino ir Voluinės.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113913|Mindaugas (valdovas, XIII a.)]]: Mindaugas 1219 m. kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine.
+- susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-190235|Ostapas Kropotkovas]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
 - susijęs iš [[objektai/asmenys/Rumbautas.md#claim-t-87848|Rumbautas]]: Rumbautas buvo lietuvių didikas, patekęs į nelaisvę paskutiniame kare Voluinėje ir Jogailos išlaisvintas bei atsiųstas Švitrigailai į Vilnių.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121176|Tautvilas]]: 1249 m. Mindaugas iš savo sūnėno Tautvilo atėmė valdas, o Tautvilas, remiamas Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
 - susijęs iš [[objektai/asmenys/Teobaldas fon Betmanas Holvegas.md#claim-t-26429|Teobaldas fon Betmanas Holvegas]]: Teobaldas fon Betmanas Holvegas 1916 m. balandį Reichstage pareiškė, kad Vokietija negrąžins Rusijai žmonių, gyvenančių nuo Baltijos jūros iki Voluinės pelkių.
@@ -381,6 +403,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - susijęs iš Olyka: Olyka Voluinėje kartu su Nesvyžiumi buvo vienos Radvilų šeimos šakos centras.
 - susijęs iš Palenkė: Kazimiero laikais tankiau gyventa tik tikrojoje Lietuvoje, Palenkėje, Voluinėje ir Podolės Braclavo srityje.
 - susijęs iš Palenkė: Kazimiero laikais Palenkė buvo tarp tankiau gyvenamų Lietuvos sričių kartu su tikrąja Lietuva, Voluine ir Podolės Braclavo sritimi.
+- susijęs iš Podbužo dvaras: Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas Ostapui Kropotkovui už nuopelnus kare su totoriais.
 - susijęs iš Podolė: 1447 m. privilegijoje Kazimieras pasižadėjo išlaikyti Lietuvą Vytauto laikų ribose, todėl Podolė su Voluine turėjo likti Lietuvai.
 - susijęs iš Slavuta: Slavuta buvo viena iš Voluinės vietovių, kuriose Sanguškos sukūrė savo tėvonijas.
 - susijęs iš Vyšnivecis: Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje.
@@ -404,6 +427,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - susijęs iš [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas.md#claim-t-78196|Leibgvardijos lietuviškasis pėstininkų pulkas]]: Leibgvardijos lietuviškojo pėstininkų pulko atsarginės dalys buvo prie Vilniaus, o pagrindinė dalis slopino sukilimą Lenkijoje.
 - susijęs iš [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas.md#claim-t-78197|Leibgvardijos lietuviškasis pėstininkų pulkas]]: Leibgvardijos lietuviškasis pėstininkų pulkas sudarė dalį kautynėms paruoštos Rusijos kariuomenės pagrindo.
 - susijęs iš [[objektai/ivykiai/Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.).md#claim-t-86893|Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)]]: Gediminas įsakė pastatyti mūrinę pilį ant kalno prie Vilnelės ir Vilijos santakos ir iš Trakų perkėlė ten savo buveinę.
+- susijęs iš [[objektai/ivykiai/Švitrigailos 1451 m. privilegija ir ankstesnių Vytauto bei Algirdo privilegijų patvirtinimas dėl Ostapo Kropotkovo herbo.md#claim-t-189638|Švitrigailos 1451 m. privilegija ir ankstesnių Vytauto bei Algirdo privilegijų patvirtinimas dėl Ostapo Kropotkovo herbo (privilegija, XIV–XV a.)]]: Narbutas mini Švitrigailos 1451 m. vasario 18 d. Lucke datuotą privilegiją, kuria patvirtinta Ostapo Kropotkovo kilmė ir herbas.
 - susijęs iš [[objektai/paprociai/Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje.md#claim-t-87156|Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje]]: Gediminas užmezgė ryšius su krikščioniškąja Europa, globojo pranciškonus ir dominikonus, o Vilniuje leido kurtis atėjūnams iš Vokietijos ir Lenkijos.
 - susijęs iš [[objektai/paprociai/Žemių kunigaikščių veiksmų derinimas konfederacijoje.md#claim-t-54375|Žemių kunigaikščių veiksmų derinimas konfederacijoje]]: Voluinės ir Lietuvos kunigaikščių sutartyje Mindaugas buvo paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.
 - susijęs iš [[objektai/paprociai/Žemių kunigaikščių veiksmų derinimas konfederacijoje.md#claim-t-54376|Žemių kunigaikščių veiksmų derinimas konfederacijoje]]: 1219 m. Voluinės ir Lietuvos kunigaikščių sutartis buvo sudaryta ir dėl plėšiamųjų žygių į Lenkiją.
@@ -418,8 +442,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - susijęs iš Didžioji Lenkija: 1431 m. Didžiojoje Lenkijoje kilo karas su Kryžiuočių ordinu.
 - susijęs iš Drohičinas: Lietuvos metraštyje pasakojama, kad Erdvilas rado Drohičiną Batu nusiaubtą ir sunaikintą, vėliau jį atstatė ir jame kunigaikščiavo.
 - susijęs iš Drohičinas: Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis.
-- susijęs iš Gardinas: Vytauto laikais Gardine, Naugarduke, Melnike ir Lucke imta statyti pilis toli nuo etninės Lietuvos.
-- susijęs iš Gardinas: Vytauto laikais Gardine, Juodosios Rusios LDK žemėje, imta statyti gotikines pilis.
 - susijęs iš Gardinas: Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
 - susijęs iš Haličas: Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje.
 - susijęs iš Haličas: Gedimino ar Algirdo laikais Haličas buvo Lietuvos politinėje įtakoje.
@@ -461,6 +483,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183482|tėvonija]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-22336|tėvonija]]: Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas.
 - susijęs iš [[objektai/zodynas/ulonai.md#claim-t-86620|ulonai]]: Lietuvos totoriai tarnavo specialiuose raitininkų pulkuose, vadinamuose totorių ulonų pulkais.
+- susijęs iš Podbužo dvaras: Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas Ostapui Kropotkovui už nuopelnus kare su totoriais.
 - susijęs iš Ostrohas: Iš Voluinės Ostroho kilo riurikaitiškos, „ukrainietiškos“ kilmės kunigaikščiai Ostrogiškiai.
 - susijęs iš Vyšnivecis: Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje.
 - susijęs iš Vyšnivecis: Vyšnioveckiai sukūrė tėvoniją Vyšnivecyje, Voluinėje.
@@ -469,7 +492,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183482|tėvonija]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-22336|tėvonija]]: Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -862,6 +884,26 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+- c-021
+  santrauka: 'Švitrigailos privilegijos nuoraše nurodyta, kad Ostapui Kropotkovui herbas duotas kartu su Podbužo dvaru Voluinėje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
+    metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
+    Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas),
+    kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys
+    strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du
+    pusmėnuliai, žiūrintys vienas į kitą, ant šalmo -  riterio kepurė, o abipus
+    du erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
+    Podbužo dvam Voluinėje už nuopelnus kare su totoriais. Datuotas Vil­
+    niuje 1354 melų mgpjūčio 7 dieną.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-027
 
 ## Ryšiai
 - [[objektai/asmenys/Švitrigaila]] valde Voluinė
@@ -869,10 +911,11 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - [[objektai/vietos/Luckas]] priklause Voluinė
 - Voluinė priklause [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Boleslovas]] valde Voluinė
-- [[objektai/asmenys/Gediminas]] uzeme Voluinė
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzeme Voluinė
 - Voluinė priklause [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Chodkevičiai]] valde Voluinė
 - [[objektai/grupes/Radvilos]] valde Voluinė
+- [[objektai/vietos/Podbužo dvaras]] priklause Voluinė
 - Voluinė priklause [[objektai/vietos/Ukraina]]
 - [[objektai/vietos/Vyšnivecis]] priklause Voluinė
 - [[objektai/daiktai/Pilys]] priklause Voluinė

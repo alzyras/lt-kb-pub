@@ -166,10 +166,9 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101712|Stasys Raštikis]]: Stasys Raštikis pareiškė, kad Lietuvos kariuomenė kovos, jei gaus tokį įsakymą.
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101715|Stasys Raštikis]]: Stasys Raštikis vyriausybės posėdyje pareiškė, kad kariuomenė kovos, jei gaus tokį įsakymą.
 - susijęs iš [[objektai/autoriai/Canaparius.md#claim-t-30580|Canaparius]]: Canaparius, šv. Adalberto biografas, 999 m. pirmasis paminėjo tikrąjį prūsų vardą, kalbėdamas apie „Pruzzorum fines“.
+- susijęs iš [[objektai/autoriai/Francua Žozefas Noelis.md#claim-t-190297|Francua Žozefas Noelis]]: Francua Žozefo Noelio 1803 m. Paryžiuje išleistas mitologinis žodynas buvo istoriko Šaurų dvaro bibliotekoje.
 - susijęs iš [[objektai/autoriai/Giovanni Villani.md#claim-t-88057|Giovanni Villani]]: Giovanni Villani nurodytas kaip šaltinis apie anglų bombardų panaudojimą 1346 m. rugpjūčio 26 d. mūšyje prie Kreši.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172937|M. Strijkovskis Stryjkowski]]: Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172887|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis apsiriko rašydamas, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su kariuomene įsibrovė į Lietuvą.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172903|Motiejus Strijkovskis (kronikininkas)]]: Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.
 - susijęs iš [[objektai/daiktai/Rittersverderio pilis ir laikini įtvirtinimai.md#claim-t-87034|Rittersverderio pilis ir laikini įtvirtinimai]]: Laikini įtvirtinimai buvo pastatyti iš statybai skirtų medžiagų, kad gintųsi, kol atvyks raiteliai.
 - susijęs iš [[objektai/daiktai/Sklandytuvai.md#claim-t-19592|Sklandytuvai]]: Kaune lietuviai konstravo karo ir sporto lėktuvus, lengvuosius bombonešius ir gamino sportui skirtus sklandytuvus.
 - susijęs iš [[objektai/grupes/Flandrai.md#claim-t-62997|Flandrai]]: Prancūzų ir flandrų kautynėse abi šalys prarado daug užmuštųjų.
@@ -231,8 +230,10 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - susijęs iš Praha: Prancūzai priėmė kvietimą į dvikovą ir pasirinko Prahą kautynių vieta.
 - susijęs iš Ruro kraštas (kraštas): Vakaruose vyko ginčai dėl nesumokėtų Vokietijos reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą.
 - susijęs iš Ruro kraštas (kraštas): Vakaruose vyko ginčai dėl nesumokėtų Vokietijos reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą.
+- susijęs iš Rusija: T. Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare, o mūšyje prie Abo miesto buvo kontūzytas.
 - susijęs iš Stabina: Lietuvos vyriausybė pasiūlė laikiną demarkacijos liniją, kuri turėjo eiti per Grabovą, Augustavą ir Stabiną.
 - susijęs iš Vilnius: 1812 m. rugsėjo 22 d. Michałas Balińskis įstojo į Vilniaus universiteto Fizikos ir matematinių mokslų fakultetą.
+- susijęs iš [[objektai/zodynas/Aitvaras viršgulis.md#claim-t-189112|Aitvaras viršgulis]]: Narbutas cituoja F. Noelį, kad demonografai išgalvojo viršgulius Incubi ir apačgulius Succubi, kankinančius žmones per miegą.
 - susijęs iš [[objektai/zodynas/Status quo.md#claim-t-22026|Status quo]]: 1939 m. pradžioje britams ir prancūzams negarantuojant Klaipėdos status quo, Lietuva be pagalbos nebegalėjo jos išlaikyti.
 - susijęs iš [[objektai/zodynas/Suverenitetas.md#claim-t-05586|Suverenitetas]]: Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.
 - susijęs iš [[objektai/zodynas/Suverenitetas.md#claim-t-10898|Suverenitetas]]: Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte.

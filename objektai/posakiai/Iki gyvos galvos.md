@@ -50,6 +50,7 @@ Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio 
 - susijęs iš Stepono Batoro patvirtinta sutartis tarp Martyno Paleckio ir Vilniaus miesto dėl stiklo liejyklos: 1583 metų Varšuvos seime Vilniaus miestas ir Martynas Paleckis sudarė sutartį dėl stiklo liejyklos ir stiklo supirkimo teisių.
 - susijęs iš Kaunas: Šach Achmedas buvo iki gyvos galvos įkalintas Kauno kalėjime.
 - susijęs iš Kaunas: Šach Achmedas buvo iki gyvos galvos įkalintas Kauno kalėjime.
+- susijęs iš Kaunas: Kadangi Kauno priemiestis vadinosi Aleksotu, Narbutas lietuviškosios Aleksotos grožį apdainuojančias dainas siejo su Kauno apylinkėmis.
 - susijęs iš Lietuva: Iki taikos tarp Lietuvos žemių ir Prūsijos kryžiuočių kasmet per Kalėdas turėjo būti mokama šimtas grivinų.
 - susijęs iš Lietuva: Aleksandro planai žlugo, nes totoriai netrukus su didelėmis pajėgomis įsiveržė į Lietuvą.
 - susijęs iš Lietuva: Aleksandras pasiuntė į Maskvą pasiuntinius parvežti didžiosios kunigaikštytės Elenos į Lietuvą.

@@ -1,0 +1,56 @@
+---
+tipas: vieta
+pavadinimas: 'Ditva'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+sukurta: ''
+atnaujinta: ''
+---
+# Ditva
+
+## Santrauka
+
+Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairiojo Ditvos kranto, o dešiniajame krante jų nebuvę.
+
+## Teiginiai
+<a id="claim-t-188987"></a>
+- t-001
+  global_id: t-188987
+  teiginys: 'Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairiojo Ditvos kranto, o dešiniajame krante jų nebuvę.'
+  pagrindžia:
+    - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 313596-314060; hash=834de43b0d9f2eef90bb95ae7dcbcd10a6c610a93df636207cc28218cae01799; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Upės (Oppen) kaimas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ditva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Upės (Oppen) kaimas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditva" parinktas kaip owner_note_path. Targetas "Upės (Oppen) kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Lietuva: Lietuvai ir Lenkijai seimų konstitucijos buvo rašomos atskirai, o vienos valstybės konstitucija kitoje negaliojo be specialaus priėmimo.
+- susijęs iš Lietuva: Narbutas rašė, kad tarakonai buvo paplitę Lydoje iki kairiojo Ditvos kranto, bet jų nebuvo tikrojoje Lietuvoje.
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairiojo Ditvos kranto, o dešiniajame krante jų nebuvę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tai galima pastebėti iš to, kas išdėstyta,
+    ir iš kai kurių žmonių pasakojimų. Kaip tik tokie bjaurūs vabz­
+    džiai yra tarakonai, kurie Lydoje ir jos apylinkėse iki pat kai­
+    riojo Ditvos kranto yra visuotinai paplitę ir labai įkyrėję; o tos
+    upės dešiniajame krante, kaip ir visoje tikrojoje Lietuvoje, ku­
+    rios pietinės sienos siekė tą upę, niekur jų nėra.
+    Kaukai (Kaukie)
+    Tai buvusios mitinės pabaisos arba siaubą keliantys neūžau­
+    gos, naktimis gąsdinantys žmones.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

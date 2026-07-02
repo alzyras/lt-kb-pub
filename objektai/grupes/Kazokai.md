@@ -166,6 +166,7 @@ amziai:
 - susijęs iš [[objektai/asmenys/Leontijus Bennigsenas.md#claim-t-40305|Leontijus Bennigsenas]]: Gen. mjr. Leontijus Bennigsenas trimis kavalerijos pulkais ir kazokų pulko parama atakavo M. Frankovskio vadovaujamus lietuvių įtvirtinimus.
 - susijęs iš [[objektai/asmenys/Merlinas.md#claim-t-39605|Merlinas]]: Mjr. Merlinas buvo pasiųstas per Viešintas Šimonių link su pusantros kuopos pėstininkų ir 70 kazokų.
 - susijęs iš [[objektai/asmenys/Petro Sahaidačnij.md#claim-t-40394|Petro Sahaidačnij]]: Petro Sahaidačnij vadovavo apie 25 tūkst. Ukrainos kazokų, prisijungusių prie J. K. Chodkevičiaus pajėgų.
+- susijęs iš [[objektai/asmenys/Piotr Kunasowicz Sahaidaczny.md#claim-t-190198|Piotr Kunasowicz Sahaidaczny]]: Narbutas Piotrą Kunasowiczių Sahaidaczny mini kaip kazokų atamaną, kurio tėvas turėjo ukrainiečių slavų krikšto vardą Kūnas.
 - susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78166|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
 - susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78167|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
 - susijęs iš [[objektai/grupes/Janičarai.md#claim-t-40893|Janičarai]]: Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą.
@@ -250,6 +251,7 @@ amziai:
 - susijęs iš Vitebskas: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
 - susijęs iš Vitebskas: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
 - susijęs iš Vitebskas: Mykolas Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko.
+- susijęs iš [[objektai/zodynas/Slenkstis Slynksnis-Perlevenu.md#claim-t-189179|Slenkstis Slynksnis-Perlevenu]]: Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų dievaitį ir žemdirbio nuosavybės globėją.
 - susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40035|Antoine Gramont]]: Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187925|A. Vijūkas Kojelavičius]]: Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187930|A. Vijūkas Kojelavičius]]: Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.

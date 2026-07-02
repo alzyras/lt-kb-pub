@@ -156,7 +156,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   ryšio_subjekto_parinkimas: Notanga: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=40
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notanga" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179265|Lietuviai]]: 1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175112|Sūduviai-jotvingiai]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-183903|Sūduviai-jotvingiai]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-183900|Sūduviai]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
@@ -167,7 +166,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-175175|ginklanešys]]: Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė.
 - susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-184004|ginklanešys]]: Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė.
 - susijęs iš [[objektai/asmenys/Vytenis (Lietuvos karalius).md#claim-t-39419|Vytenis (Lietuvos karalius)]]: 1311 m. per Užgavėnes Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179265|Lietuviai]]: 1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markos valdovas).md#claim-t-60263|Ditrichas (Meiseno markos valdovas)]]: 1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Holdenštetės.md#claim-t-60120|Fridrichas iš Holdenštetės]]: Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais ir ginklanešiais nusiaubė Saldavos valsčių Notangoje.
 - susijęs iš [[objektai/asmenys/Gadikas.md#claim-t-184066|Gadikas]]: Gadikas buvo Notangos žemės pakraščio vadas, nužudytas kartu su dviem sūnumis ir daugybe kitų žmonių.
@@ -183,7 +181,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš [[objektai/asmenys/Vytenis (Lietuvos karalius).md#claim-t-39419|Vytenis (Lietuvos karalius)]]: 1311 m. per Užgavėnes Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.
 - susijęs iš [[objektai/asmenys/Zigfridas iš Rechbergo.md#claim-t-60473|Zigfridas iš Rechbergo]]: 1296 m. žiemą Baigos komtūras Zigfridas iš Rechbergo iš Notangos patraukė link Lietuvos ir priėjo Gardino pilį.
 - susijęs iš [[objektai/autoriai/Beckherrn C.md#claim-t-60548|Beckherrn C]]: C. Beckherrnas nagrinėjo pilaitę prie įėjimo į Notangą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179265|Lietuviai]]: 1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-183890|Notangai]]: 1317 m. žiemą brolis Henrikas su broliais ir Sembos bei Notangos kariais žygiavo prieš Vaikių valsčių.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78400|Notangai]]: 1317 m. žiemą brolis Henrikas su broliais ir Sembos bei Notangos kariais žygiavo prieš Vaikių valsčių.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78404|Notangai]]: 1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį ir sudegino abu jos papilius.
@@ -428,11 +425,9 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-007
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] puole Notanga
 - [[objektai/grupes/Sūduviai]] puole Notanga
 - Notanga priklause [[objektai/vietos/Prūsija]]
 - [[objektai/asmenys/Vytenis (Lietuvos karalius)]] puole Notanga
-- [[objektai/grupes/Lietuviai]] surenge_zygi_i Notanga
 - [[objektai/grupes/Unzatrapio žemės gyventojai]] puole Notanga
 - [[objektai/asmenys/Fridrichas iš Holdenštetės]] puole Notanga
 - [[objektai/vietos/Kroicburgas]] priklause Notanga

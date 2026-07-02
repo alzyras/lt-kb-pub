@@ -43,23 +43,26 @@ Tekste jos siejamos su viešu išplakimu.
 - susiję įvykiai:
 
 ## Teiginiai
-
-<a id="claim-t-187814"></a>
-- t-001
-  global_id: t-187814
+- t-002
   teiginys: '1850 m. pasakojime rykštės minimos kaip priemonė, kuria viešai išplaktas Teodoro Narbuto sūnus Liudvikas.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie rykštes ir aiškiai nurodo Liudviko Narbuto išplakimą. Motyvų ar papildomų vertinimų nepridėta.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kaukazas; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1850 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie rykštes ir aiškiai nurodo Liudviko Narbuto išplakimą. Motyvų ar papildomų vertinimų nepridėta.'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 19289-19589; hash=5c275f45edc93edaeb7b340b3403a2c22d914a2c9b74cc85914ba4ae4292383a; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
+  ryšio_patikimumas: keliavo_i -> Kaukazas: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Liudvikas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaukazas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Liudvikas buvo išsiųstas į Kaukazą.
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1850 m. pasakojime rykštės minimos kaip priemonė, kuria viešai išplaktas Teodoro Narbuto sūnus Liudvikas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     1850 m. Vilniaus gimnazijoje suėmė T. Narbuto sūnų Liud­
@@ -67,13 +70,14 @@ Tekste jos siejamos su viešu išplakimu.
     ti slaptą organizaciją, jis tardomas ir kalinamas. Viešai išplak­
     tą rykštėmis, sūnų išsiunčia eiliniu kareiviu į Kaukaze veikian­
     čią rusų armiją. Tai buvo didelis smūgis tėvui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

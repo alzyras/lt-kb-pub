@@ -206,7 +206,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184410|Kazimieras Didysis]]: 1325 m. Gedimino duktė Aldona (Ona) buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimo Kazimiero III Didžiojo.
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184413|Kazimieras Didysis]]: 1325 m. Gedimino dukters Aldonos ir būsimojo Kazimiero Didžiojo jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.
 - susijęs iš [[objektai/asmenys/Aldona Ona.md#claim-t-39997|Aldona Ona]]: Aldona Ona 1325 m. buvo ištekinta už Lenkijos sosto įpėdinio Kazimiero, Lokietkos sūnaus.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184702|Gediminas]]: Pasiuntiniai Lietuvoje prašė Gedimino dukters Aldonos rankos Kazimierui, o sutarta giminystė turėjo užtikrinti taiką.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184702|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasiuntiniai Lietuvoje prašė Gedimino dukters Aldonos rankos Kazimierui, o sutarta giminystė turėjo užtikrinti taiką.
 - susijęs iš [[objektai/asmenys/Kazimieras (Lokietkos sūnus).md#claim-t-30329|Kazimieras (Lokietkos sūnus)]]: Lokietkos sūnus Kazimieras 1325 m. taikos sutartį sutvirtino vedybomis su Gedimino dukterimi Aldona.
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184417|Kazimieras Didysis]]: Kazimieras 1325 m. buvo sutuoktas su Gedimino dukra Aldona Ona ir tuo metu buvo Lenkijos sosto įpėdinis.
 - susijęs iš [[objektai/asmenys/Lokietka.md#claim-t-40309|Lokietka]]: 1325 m. Lokietkos sūnus Kazimieras vedė Gedimino dukrą Aldoną Oną, taip stiprindamas Gedimino suartėjimą su Lenkija.
@@ -217,7 +217,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184525|Lenkai]]: Lenkai pasiuntė į Lietuvą pasiuntinius prašyti Gedimino dukters Aldonos rankos Lenkijos valdovui Kazimierui.
 - susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija.md#claim-t-66537|Gedimino sąjunga su Lenkija]]: Ivinskis nurodo, kad 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.
 - susijęs iš [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.).md#claim-t-100024|Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]: 1325 m. Gedimino ir Vladislovo Lokietkos taikos sutartis buvo sutvirtinta Kazimiero ir Aldonos vedybomis.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05176|Gediminas]]: Anų laikų akimis Gedimino religinis pakantrumas buvo nuostabus.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05176|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Anų laikų akimis Gedimino religinis pakantrumas buvo nuostabus.
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184410|Kazimieras Didysis]]: 1325 m. Gedimino duktė Aldona (Ona) buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimo Kazimiero III Didžiojo.
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184413|Kazimieras Didysis]]: 1325 m. Gedimino dukters Aldonos ir būsimojo Kazimiero Didžiojo jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184414|Kazimieras Didysis]]: Kazimieras III Dobrynės žemę buvo atidavęs Vladislovui iš Opolės.
@@ -345,6 +345,6 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
     - t-003
 
 ## Ryšiai
-- Aldona Gediminaitė buvo_dukte [[objektai/asmenys/Gediminas]]
+- Aldona Gediminaitė buvo_dukte [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]] vede Aldona Gediminaitė
 - [[objektai/asmenys/Kazimieras Didysis]] vede Aldona Gediminaitė

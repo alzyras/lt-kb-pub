@@ -128,7 +128,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
 - susijęs iš Stralsundas: Stralsundas buvo vienas Hanzos miestų, suteikusių lietuvių ir lenkų pirkliams panašias privilegijas.
 - susijęs iš Nemuno žiotys: Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176872|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis kurstė popiežių, ordinus, Hanzos miestus ir Vokietijos kunigaikščius kariauti su Vytautu.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172085|Dominikonų ordinas]]: 1323 m. notaro parengtas Gedimino laiškų dominikonams, pranciškonams ir Hanzos miestams dokumentas buvo Karaliaučiaus Slaptajame archyve.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112510|Domininkonų ordinas]]: 1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams.

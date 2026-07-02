@@ -252,13 +252,11 @@ amziai:
     jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-006
-
 - c-002
   santrauka: 'Lietuvos aukštosios mokyklos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų programose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -271,13 +269,11 @@ amziai:
     išsiplėtė knygų, periodinės spaudos leidyba, šalies bibliotekų tinklas.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   santrauka: '2004 m. Lietuva buvo priimta į Europos Sąjungą ir Šiaurės Atlanto sutarties organizaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -294,13 +290,11 @@ amziai:
     sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -318,13 +312,11 @@ amziai:
     ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-005
-
 - c-005
   santrauka: 'Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose pripažintas Baltijos valstybių tikslas tapti ES narėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -338,13 +330,11 @@ amziai:
     tapti ES narėmis.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-006
   santrauka: 'Lietuvai tapus ES nare, Lietuvoje įsigaliojo Europos Sąjungos nuostatos šalių narių gyventojams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -354,13 +344,11 @@ amziai:
     ventojų atžvilgiu. Visų šalių narių piliečiai kartu yra ir ES piliečiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-007
-
 - c-007
   santrauka: 'Įstojusi į ES Lietuva galėjo Briuselyje reikšti savo poziciją ir turėjo savo komisarą bei 12 europarlamentarų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -375,13 +363,11 @@ amziai:
     esant nesaugią.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-008
   santrauka: '2004 m. Lietuva tapo Europos Sąjungos ir NATO nare.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -393,13 +379,11 @@ amziai:
     Ir dar labai svarbu žinoti – 2004 m. Lietuva tapo ES ir NATO nare.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-009
-
 - c-009
   santrauka: '2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -417,13 +401,11 @@ amziai:
     atvejais sutapus, jų kolektyvinė galia gali gerokai padidėti.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-008
-
 - c-010
   santrauka: '2004 m. gegužės 1 d. Lietuva įstojo į Europos Sąjungą ir įgijo teisę kurti savo bei žemyno ateitį su kitomis demokratinėmis valstybėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -436,10 +418,9 @@ amziai:
     kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-010
 

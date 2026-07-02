@@ -113,8 +113,8 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Užpelkių kautynės.md#claim-t-39139|Užpelkių kautynės]]: 1949 m. rugpjūčio 13 d. Radviliškio rajono Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
 - susijęs iš LLKS deklaracija (1949 m. vasario 16 d.): Laurynas Mingėlas-Džiugas po = j Užpelkių kautynių buvo sunkiai sužeistas ir apie metus gydėsi Miknių sodyboje įrengtame bunkeryje (tame pačiame, kur buvo pasirašyta 1949 m. vasario 16 d. LLKS Deklaracija).
 - susijęs iš Ariogala: 1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške.
+- susijęs iš Ariogala: Narbutas Ariogalos pavadinimą kildina iš keliautojų posakio „E-ira galas, nėra galo“, ištarto susidūrus su kliūtimis miškuose.
 - susijęs iš Daugėliškių miškas: 1950 m. liepos 22 d. Daugėliškių miške MGB 208-ojo pulko kareiviai puolė partizanų bunkerį, per puolimą žuvo 5 partizanai.
-- susijęs iš Kaunas: 1943 m. kovo viduryje gestapas, keršydamas už boikotą, uždarė Kauno ir Vilniaus universitetus.
 - susijęs iš Lesčiai: 1950 m. liepos 22 d. Lesčių kaimo rajone, Daugėliškių miške, MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.
 - susijęs iš Prancūzija: Jonas Žemaitis-Vytautas 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje.
 - susijęs iš Prancūzija: Jonas Žemaitis-Vytautas 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje, o vėliau buvo išrinktas LLKS Tarybos prezidiumo pirmininku.

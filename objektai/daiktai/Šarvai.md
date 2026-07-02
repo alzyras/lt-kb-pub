@@ -105,6 +105,7 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-10151|Karinė ginkluotė]]: XIII-XIV a. Lietuvos raitininko karinė ginkluotė galėjo apimti Desiukiškių tipo kalaviją, žieduočio šarvus ir krūtinšarvį.
 - susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-10153|Karinė ginkluotė]]: XIV a. Europos karinėje ginkluotėje plito lakštiniai šarvai, tačiau dėl brangumo plačiai naudoti ir žieduočio šarvai.
 - susijęs iš [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai.md#claim-t-40733|Kristupo Mikalojaus Radvilos Perkūno šarvai]]: Kristupo Mikalojaus Radvilos Perkūno šarvai datuojami XVI-XVII a.
+- susijęs iš [[objektai/posakiai/dievų valia visi turi be ginklų ir be jokių šarvų užpulti Mazovijos šalį.md#claim-t-189558|dievų valia visi turi be ginklų ir be jokių šarvų užpulti Mazovijos šalį]]: Narbuto pasakojime pranašė paskelbė, kad dievų valia krašto vyrai be ginklų ir šarvų turi pulti Mazoviją, kur jų laukiąs didelis laimikis.
 - susijęs iš [[objektai/asmenys/Mergelė Marija.md#claim-t-59892|Mergelė Marija]]: Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113885|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113886|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.
@@ -114,6 +115,7 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas.md#claim-t-09538|Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]: Didesnė ginkluotės dalis galėjo būti valstybės saugoma, prieš operacijas išduodama kariams, o po jų grąžinama.
 - susijęs iš [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas.md#claim-t-09539|Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]: Po operacijų išduota ginkluotė turėjo būti grąžinama.
 - susijęs iš [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas.md#claim-t-09540|Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]: Panaši valstybinės ginkluotės saugojimo, išdavimo ir grąžinimo praktika buvo taikoma Kryžiuočių ordine.
+- susijęs iš Mazovija: Narbutas pasakojo, kad pranašė paskelbė dievų valią be ginklų pulti Mazoviją, kur esą laukė didelis laimikis.
 - susijęs iš Tikocinas: Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.
 - susijęs iš [[objektai/zodynas/husarai.md#claim-t-49272|husarai]]: Husarai buvo XVI a. Lietuvoje atsiradusi vengriško tipo lengvoji kavalerija.
 - susijęs iš [[objektai/zodynas/husarai.md#claim-t-49274|husarai]]: Vengrijoje ir vėliau Europoje husarais vadinta lengvoji kavalerija, dėvėjusi vengriško stiliaus drabužius.

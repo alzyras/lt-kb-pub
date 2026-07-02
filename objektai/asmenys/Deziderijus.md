@@ -59,10 +59,9 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
     jo niokoti Romos ir popiežiaus valdas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
 

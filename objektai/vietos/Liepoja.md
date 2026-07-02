@@ -80,6 +80,7 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - susijęs iš Klaipėda: Lietuvos delegacija buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją.
 - susijęs iš Palanga: Sukilėliai planavo užimti Palangos ir Liepojos uostus.
 - susijęs iš Palanga: Sukilėliai planavo užimti Palangos ir Liepojos uostus.
+- susijęs iš Šventoji tarp Palangos ir Liepojos: Tarp Palangos ir Liepojos minima Šventoji (Šwięta) yra upė, įtekanti į jūrą.
 - susijęs iš [[objektai/asmenys/Jurgis Šaulys.md#claim-t-19033|Jurgis Šaulys]]: Jurgis Šaulys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/grupes/Parusėnai.md#claim-t-07846|Parusėnai]]: Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.
@@ -90,12 +91,14 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - susijęs iš Gardinas: Užsienio lietuvių atstovai siūlė į „Lithuania Propria“ ribas įtraukti Gardino apskritį.
 - susijęs iš Kauno gubernija: 1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.
 - susijęs iš Londonas: Zigmantą Sierakauską, ginklų ir savanorių iš Londono.
+- susijęs iš Palanga: Jucevičiaus nuomone, prie Palangos gyvenę lietuviai žvejai Atrimpą vadino „Dzivsvits“.
 - susijęs iš Raseiniai: Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras.
 - susijęs iš Slanimas: 1917 m. Berno konferencijoje Slanimo apskritis įtraukta į etnografiniu principu siūlytą Lietuvos teritoriją.
 - susijęs iš Sudeikiai: Sukilimo pradžioje Raseinių apskrityje buvo sudegintas Sudeikių dvaras.
 - susijęs iš Valkaviskas: Valkavisko apskritis buvo įtraukta į Lietuvos teritorijos projektą, grindžiamą „Lithuania Propria“ ribomis.
 - susijęs iš Valkaviskas: 1917 m. Berno konferencijoje Valkavisko apskritis buvo priskirta planuotos Lietuvos teritorijai „Lithuania Propria“ ribose.
 - susijęs iš Vilniaus gubernija: 1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis.
+- susijęs iš Žemaitija: Narbutas pastebi, kad Žemaitijoje Šventosios vardu, regis, vadinti dar keli mažesni upeliai.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101582|etnografinės ribos etnografinis principas]]: 1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.
 ## Reikšmingi paminėjimai
 

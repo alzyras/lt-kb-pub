@@ -4,6 +4,7 @@ pavadinimas: 'Vilniaus universitetas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1569 m.'
   - '1579 m.'
@@ -60,7 +61,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 - susijusios vietos:
 
 ## Teiginiai
-
 <a id="claim-t-113352"></a>
 - t-001
   global_id: t-113352
@@ -99,7 +99,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   global_id: t-113355
   teiginys: 'Po 1830-1831 m. sukilimo Vilniaus universitetas buvo uždarytas.'
   sudarymo_pagrindimas: 'Citata tiesiogiai remia faktą apie universiteto uždarymą, o pradinėje formuluotėje yra puslapio triukšmo.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]'
   temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai remia faktą apie universiteto uždarymą, o pradinėje formuluotėje yra puslapio triukšmo.'
@@ -162,7 +162,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   global_id: t-113361
   teiginys: 'Po 1830-1831 m. sukilimo uždarius Vilniaus universitetą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]'
   temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -320,6 +320,25 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   ryšio_subjekto_parinkimas: Vilniaus universitetas: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=71
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus universitetas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188357"></a>
+- t-019
+  global_id: t-188357
+  teiginys: 'Leidinyje „Wizerunki i Roztrząsania Naukowe“ rašė aštuoniolika buvusių Vilniaus universiteto profesorių.'
+  pagrindžia:
+    - c-014
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 107179-107576; hash=fdb5eebd584aa8cf0678d9f973b8dc79fcedd85b2b4d0a7c84dbfde452ee8f4b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus universitetas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=66
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus universitetas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45453|Vilniaus universiteto įkūrimas (1579 m.)]]: Naujoji mokykla vadinosi Academia et Universitas Vilnensis Societatis Iesu, arba Vilniaus Jėzaus draugijos akademija ir universitetas.
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45454|Vilniaus universiteto įkūrimas (1579 m.)]]: 1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas.md#claim-t-71777|Vilniaus universiteto įkūrimas]]: 1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.
@@ -331,7 +350,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 - susijęs iš Vilnius: 1579 m. popiežius Grigalius XIII patvirtino Vilniaus kolegiją universitetu.
 - susijęs iš Vilnius: Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -597,3 +615,22 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+- c-014
+  santrauka: 'Leidinyje „Wizerunki i Roztrząsania Naukowe“ rašė aštuoniolika buvusių Vilniaus universiteto profesorių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    „Wizerunki i Roz­
+    trząsania Naukowe“ puslapiuose anonimiškumas buvo įpras­
+    tas reiškinys. Šio leidinio, kuris buvo sumanytas kaip šubravcų
+    tradicijų tęsėjas, autoriai buvo aštuoniolika buvusių Vilniaus
+    universiteto profesorių, aštuoni su šia įstaiga nesusiję moksli­
+    ninkai ir devyniolika literatų, kurių dauguma buvo to univer­
+    siteto absolventai. Sunku tarp jų būtų pažinti recenzijos auto­
+    rių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-019

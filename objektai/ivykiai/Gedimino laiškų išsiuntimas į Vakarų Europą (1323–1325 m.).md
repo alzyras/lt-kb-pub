@@ -64,8 +64,8 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Vilnius; llm_object: Lietuva'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176327|Gediminas]]: Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu ir rodo nuoseklią Lietuvos europėjimo programą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176365|Gediminas]]: Gedimino laiškai Liubekui, Bremenui, Kelnui, kitiems Europos miestams ir vienuolių ordinams turėjo platų tarptautinį atgarsį.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176327|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu ir rodo nuoseklią Lietuvos europėjimo programą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176365|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino laiškai Liubekui, Bremenui, Kelnui, kitiems Europos miestams ir vienuolių ordinams turėjo platų tarptautinį atgarsį.
 - susijęs iš [[objektai/autoriai/Dreyer.md#claim-t-88055|Dreyer]]: Dreyerio veikale buvo paskelbtas Gedimino laiškas Šiaurės Vokietijos pajūrio miestams.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179215|Lietuviai]]: Dėl lietuvių diduomenės ir paprastų žmonių nenoro keisti senojo gyvenimo būdo siūlyta pirmiau pasiųsti į Lietuvą pasiuntinius.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108323|Pranciškonų ordinas]]: 1323 m. gegužės 26 d. trys Gedimino laiškai buvo pasiųsti Saksų provincijos pranciškonams, dominikonams ir Hanzos miestams.

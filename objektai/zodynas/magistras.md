@@ -195,6 +195,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-60083|Anonas (didysis magistras)]]: Didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje.
 - susijęs iš [[objektai/asmenys/Bertoldas Briuhavenas.md#claim-t-186098|Bertoldas Briuhavenas]]: Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59879|Bertoldas, vadinamas Briuhavenu]]: 1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.
+- susijęs iš [[objektai/asmenys/Boleslovas Kreivaburnis.md#claim-t-190137|Boleslovas Kreivaburnis]]: Narbutas nurodo kronikininkų liudijimą, kad Boleslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti Romovės ąžuolą.
 - susijęs iš [[objektai/asmenys/Brunonas.md#claim-t-184682|Brunonas]]: Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.
 - susijęs iš [[objektai/asmenys/Burchardas Aremas.md#claim-t-186187|Burchardas Aremas]]: Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas ir trisdešimt ordino riterių.
 - susijęs iš [[objektai/asmenys/Burchardas Harenas.md#claim-t-186188|Burchardas Harenas]]: Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsirengė į karą prieš Lietuvą.
@@ -217,8 +218,8 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87501|Fridrichas fon Vildenbergas]]: Krašto magistras Fridrichas fon Vildenbergas su 150 Ordino riterių nuvedė kariuomenę į Vaikius Žemaitijoje.
 - susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87502|Fridrichas fon Vildenbergas]]: 1324 m. Mevėje magistras Fridrichas fon Vildenbergas liepė parengti mažesniųjų brolių laiško nuorašą.
 - susijęs iš [[objektai/asmenys/Gardolfas.md#claim-t-60282|Gardolfas]]: Halberštato vyskupas Gardolfas buvo tarp Vokietijos dvasininkų ir didikų, svarstusių ką tik įsteigtos ligoninės ateitį.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176341|Gediminas]]: Balińskio nuomone, Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176355|Gediminas]]: Balińskis teigė, kad laiškai popiežiui, ordinams ir Vokietijos miestams buvo parašyti ne Gedimino žinia ar valia.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176341|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskio nuomone, Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176355|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis teigė, kad laiškai popiežiui, ordinams ir Vokietijos miestams buvo parašyti ne Gedimino žinia ar valia.
 - susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89791|Glapas]]: Glapas, Varmių vadas, turėjo valdinį Steinavą, kurį labai mėgo ir daug kartų gelbėjo iš mirtino pavojaus.
 - susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60021|Gotfridas Hohenlohė]]: 1302 m. didysis magistras Gotfridas Hohenlohė su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbinge atsisakė pareigų.
 - susijęs iš [[objektai/asmenys/Gotfridas Lindenas.md#claim-t-87508|Gotfridas Lindenas]]: Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną su Redigeriu Elneriu užimti Vilniaus.
@@ -312,6 +313,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90026|Sventopelkas]]: Šiame gabale Sventopelkas siejamas su taikos atnaujinimu, nauju jos sulaužymu ir Santyro pilies pastatymu.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90042|Sventopelkas]]: Sventopelkas sutelkė kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius.
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60069|Tirskas]]: Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais artimaisiais pasidavė tikėjimui ir Ordino broliams.
+- susijęs iš [[objektai/asmenys/Treteris.md#claim-t-190078|Treteris]]: Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir teigė, kad Vinrichas Kniprodė 1351–1355 m. įsakė jį nukirsti.
 - susijęs iš [[objektai/asmenys/Trinta.md#claim-t-60448|Trinta]]: Trinta kartu su Govina, Stanta ir Misinu rengė notangų žygį, per kurį Stanta įsibrovė į Bartenšteino pilį.
 - susijęs iš [[objektai/asmenys/Ulrichas fon Jungingenas.md#claim-t-183764|Ulrichas fon Jungingenas]]: Žalgirio mūšyje žuvo didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 riterių ir tūkstančiai karių.
 - susijęs iš [[objektai/asmenys/Ulrichas fon Jungingenas.md#claim-t-40481|Ulrichas fon Jungingenas]]: Žalgirio mūšyje žuvo didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 riterių ir tūkstančiai karių.
@@ -327,6 +329,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64232|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Didysis magistras Verneris iš Orzelno ėmėsi restauruoti Kryžiuočių ordiną.
 - susijęs iš [[objektai/asmenys/Vilhelmas (vengrų karvedys).md#claim-t-60464|Vilhelmas (vengrų karvedys)]]: Vengrų karvedžiui Vilhelmui naktį pasirodė Švenčiausioji Mergelė ir įspėjo jį pasitraukti iš siaubiamos žemės.
 - susijęs iš [[objektai/asmenys/Vilhelmas Fiurstenbergas.md#claim-t-186087|Vilhelmas Fiurstenbergas]]: Viljandyje magistras Vilhelmas Fiurstenbergas pateko į priešų rankas.
+- susijęs iš [[objektai/asmenys/Vinrichas Kniprodė.md#claim-t-188645|Vinrichas Kniprodė]]: Narbutas, remdamasis Treteriu, rašo, kad Vinrichas Kniprodė vyskupo Jono I prašymu įsakė nukirsti garbintą ąžuolą.
 - susijęs iš [[objektai/asmenys/Vinrichas Kniprodė.md#claim-t-87590|Vinrichas Kniprodė]]: Vinrichas Kniprodė 1365 metais su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.
 - susijęs iš [[objektai/asmenys/Vinrichas fon Kniprodė.md#claim-t-80702|Vinrichas fon Kniprodė]]: 1362 m. Kauno pilies žygiui vadovavo didysis Ordino magistras Vinrichas fon Kniprodė.
 - susijęs iš [[objektai/asmenys/Volfgeris.md#claim-t-60468|Volfgeris]]: Pasau vyskupas Volfgeris buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės steigimo ir patvirtinimo.
@@ -341,8 +344,8 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183852|Žygimantas Augustas (arkivyskupas, XVI a.)]]: 1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje.
 - susijęs iš [[objektai/autoriai/Hennenberger C.md#claim-t-64604|Hennenberger C]]: C. Hennenbergeris rašė apie Brandenburgo pilies vietą Pokarviuose prie Aismarių.
 - susijęs iš [[objektai/autoriai/Hermanas Vartbergė.md#claim-t-171495|Hermanas Vartbergė]]: Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.
-- susijęs iš [[objektai/autoriai/Ignacas Onacevičius.md#claim-t-81904|Ignacas Onacevičius]]: Ignacas Onacevičius pateikė pastabų, kuriomis M. Balinskis rėmėsi taisydamas žygio į Vilnių aprašymą.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172916|M. Strijkovskis Stryjkowski]]: Stryjkowskis nurodė, kad Švitrigaila piliai užimti pasinaudojo rusų vienuolių, vadintų čiornais, išdavyste.
+- susijęs iš [[objektai/autoriai/Treteris.md#claim-t-190357|Treteris]]: Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ąžuolo pasakojimą.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172965|Vygandas Marburgietis]]: Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172967|Vygandas Marburgietis]]: Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172970|Vygandas Marburgietis]]: Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų.
@@ -393,6 +396,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179123|Kryžiuočių ordinas]]: 1385 m. didžiojo magistro Konrado Ciolnerio žygis buvo paskutinis Ordino smūgis pagoniškai Lietuvai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184492|Kryžiuočių ordinas]]: Po kelių sėkmingų žygių prieš kryžiuočius prūsų padėtis sustiprėjo, nes jiems buvo pasirengę padėti lietuvių ir žemaičių būriai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184501|Kryžiuočių ordinas]]: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama nusiaubė Lietuvą, sunaikindamas Ariogalos, Pernaravos ir Labūnavos žemes.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-190568|Kryžiuočių ordinas]]: Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179185|Lenkai]]: Lenkijos vyrai stojo į kovą su įsiveržusia prūsų kariuomene, bet prūsai privertė lenkus bėgti ir išžudė daugybę žmonių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179301|Lietuviai]]: 1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179345|Lietuviai]]: Lietuviai žygiavo pirmieji ir prie Gilgenburgo užpuolė bei paėmė miestelį.
@@ -629,6 +633,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš Lietuva: Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą ir pasiekė Trakus.
 - susijęs iš Lietuva: Riterių magistras Konradas su savo ir svetimšalių kariuomene pavasario pabaigoje patraukė į Lietuvą.
 - susijęs iš Lietuva: Livonijos atstovai seime nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
+- susijęs iš Lietuva: Narbutas rašė, kad lietuvių genties ikijungtuviniai papročiai skyrėsi pagal tautą, vietos aplinkybes ir laiką.
 - susijęs iš Liubekas: Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.
 - susijęs iš Liubekas: Bremeno ir Liubeko miestiečiai, pirmieji Teutonų ordino steigėjai, padovanojo Henrikui Valpotui Akono ligoninę su jos išmaldomis ir gėrybėmis.
 - susijęs iš Livonija: 1302 m. didysis magistras Gotfridas su 50 brolių per Prūsiją atvyko į Livoniją.
@@ -755,6 +760,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš Štarkenbergas: Teutonų ordino didysis magistras Anonas įsakė pastatyti Štarkenbergo pilį Osos pakrantėje.
 - susijęs iš Švento Jurgio pilis (pilis, XIII a.): 1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams.
 - susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86453|Arkikomtūras]]: Arkikomtūras Redigeris Elneris kartu su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.
+- susijęs iš [[objektai/zodynas/Užuotas ąžuolas.md#claim-t-189120|Užuotas ąžuolas]]: Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieglaudą, kurią, kronikininkų liudijimu, puolant Prūsiją bandė sunaikinti Boleslovas Kreivaburnis.
 - susijęs iš [[objektai/zodynas/antifona kolekta liturginės valandos.md#claim-t-58892|antifona kolekta liturginės valandos]]: 1309 m. magistras Zigfridas nurodė broliams vienuoliams po liturginių valandų giedoti antifoną ir kolektą.
 - susijęs iš [[objektai/zodynas/apsiaustis.md#claim-t-38742|apsiaustis]]: Pavėluota Marienburgo, Ordino sostinės ir tvirtovės, apsiaustis nedavė rezultatų.
 - susijęs iš [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai.md#claim-t-58844|atsimetėliai naujakrikščiai atsimetėliai]]: Sventopelkas paskatino Prūsijos žemės naujakrikščius atsimesti nuo tikėjimo.

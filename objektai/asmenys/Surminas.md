@@ -290,6 +290,6 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 - Surminas dalyvavo_musyje [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]
 - Surminas pastate [[objektai/vietos/Kolainiai]]
 - Surminas dalyvavo_musyje [[objektai/ivykiai/Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)]]
-- [[objektai/asmenys/Vytenis]] paskyre Surminas
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] paskyre Surminas
 - [[objektai/grupes/Lietuviai]] paskyre Surminas
 - Surminas kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]

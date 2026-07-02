@@ -104,12 +104,12 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 - susijęs iš Klaipėda: Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes.
 - susijęs iš Mituva: 1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą Georgenburgo, arba Jurbarko, pilį.
 - susijęs iš Klaipėda: Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181472|Petras Dusburgietis]]: Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178899|Kryžiuočių ordinas]]: Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176116|Žemaičiai]]: Zenonas Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir Mindaugo karines pajėgas prieš Ordiną.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176119|Žemaičiai]]: Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o prieš Durbės mūšį ir jame mini lietuvius arba pagonis.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176149|Žemaičiai]]: Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o prieš Durbės mūšį ir jame mini lietuvius arba pagonis.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176157|Žemaičiai]]: Z. Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir karaliaus Mindaugo karines pajėgas prieš Ordiną.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-188370|Žemaičiai]]: Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daug kaimiečių nepažino krikščioniško tikėjimo tiesų.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89343|Žiemgaliai]]: 1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai negalėjo įveikti.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89357|Žiemgaliai]]: 1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė.
 - susijęs iš Eilėtoji Livonijos kronika: Eiliuotoji Livonijos kronika prie Skuodo mūšio mini žemaičius, o Durbės mūšio išvakarėse ir mūšyje - lietuvius arba pagonis.
@@ -123,6 +123,8 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 - susijęs iš Žiemgala: 1259-1260 m. žiemą Žiemgaloje buvo pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė.
 - susijęs iš Žiemgala: 1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė.
 - susijęs iš [[objektai/zodynas/donacija.md#claim-t-32772|donacija]]: Mindaugo donacijos kryžiuočiams suteikė tik formalią teisę į užrašytas sritis, kurias jie galėjo užvaldyti tik savo jėga.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176119|Žemaičiai]]: Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o prieš Durbės mūšį ir jame mini lietuvius arba pagonis.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-188370|Žemaičiai]]: Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daug kaimiečių nepažino krikščioniško tikėjimo tiesų.
 - susijęs iš Durbė: Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės.
 - susijęs iš Klaipėda: Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės.
 - susijęs iš Klaipėda: Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes.

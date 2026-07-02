@@ -78,8 +78,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-- susijęs iš Karaliaučius: Vytauto laikais Lietuva užmezgė gyvus prekybos ryšius su ordino centrais Karaliaučiumi ir Dancigu.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176162|Žemaičiai]]: Žemaičiai vieną kartą pardavė Dancigui 50 laukinių stumbrų odų.
+- susijęs iš Karaliaučius: Vytauto laikais Lietuva užmezgė gyvus prekybos ryšius su ordino centrais Karaliaučiumi ir Dancigu.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176143|Žemaičiai]]: 1404 m. taikos politika laikinai apribojo Žemaičių prekybą, bet vėliau jie atgavo teises prekiauti su Aukštaičiais ir pardavinėjo prekes Dancigui.
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179519|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: W. Ziesemeris buvo pokarinių laikų vokiečių istorikas, pažinojęs Karaliaučiaus ir Dancigo archyvus.
 - susijęs iš [[objektai/autoriai/Thunert, E.md#claim-t-31016|Thunert, E]]: E. Thunertas 1886 m. Dancige paskelbė darbą apie 1410-1411 m. Lenkijos ir Vokiečių ordino karą.
@@ -99,7 +99,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-05154|Aldona Gediminaitė]]: Aldona šiame šaltinyje tiesiogiai vadinama Gedimino dukterimi.
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97304|Aldona Gediminaitė]]: 1325 m. sutartį tarp Lietuvos ir Vladislovo Lokietkos sutvirtino Aldonos Gediminaitės ir Kazimiero jungtuvės.
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97313|Aldona Gediminaitė]]: 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176352|Gediminas]]: Matydamas užsitęsiančią kovą su kryžiuočiais, Gediminas talkininku pasirinko Lenkijos valdovą Vladislovą Lokietką.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176352|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Matydamas užsitęsiančią kovą su kryžiuočiais, Gediminas talkininku pasirinko Lenkijos valdovą Vladislovą Lokietką.
 - susijęs iš [[objektai/asmenys/Henrikas von Plauenas.md#claim-t-176405|Henrikas von Plauenas]]: Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.
 - susijęs iš [[objektai/asmenys/Kazimieras (Lokietkos sūnus).md#claim-t-30329|Kazimieras (Lokietkos sūnus)]]: Lokietkos sūnus Kazimieras 1325 m. taikos sutartį sutvirtino vedybomis su Gedimino dukterimi Aldona.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-184378|Vladislovas Lokietka]]: Gediminas, matydamas užsitęsiančią kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje.
@@ -186,6 +186,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - t-003
 
 ## Ryšiai
-- [[objektai/vietos/Lietuva]] prekiavo_su Dancigas
 - [[objektai/grupes/Žemaičiai]] prekiavo_su Dancigas
+- [[objektai/vietos/Lietuva]] prekiavo_su Dancigas
 - [[objektai/vietos/Karaliaučius]] prekiavo_su Dancigas

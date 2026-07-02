@@ -46,6 +46,10 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
   ryšio_subjekto_parinkimas: Vilniaus miesto vartai: llm_allowed_candidate, place
   ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
   ryšio_paaiskinimas: Objektas įvardytas kaip Vilniaus miesto vartai, tad ryšys su Vilniumi pagrįstas, nors nėra pagrindinis teiginio veiksmas.
+- susijęs iš Kaunas: Narbutas nurodo, kad tarp Kauno ir Vilkijos, prie Zapyškio, tekėjo upelis, kadaise vadintas Upinės, o vėliau Išganytojo upeliu.
+- susijęs iš Vilkija: Kairiajame Nemuno krante tarp Kauno ir Vilkijos buvo Zapyškis, prie kurio tekėjo upelis, kadaise vadintas Upinės, vėliau Išganytojo vardu.
+- susijęs iš Zapyškis: Narbutas Zapyškį apibūdina kaip mažą miestelį kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, kadaise vadinto Upinės, o jo metu - Išganytojo vardu.
+- susijęs iš [[objektai/zodynas/Upinė.md#claim-t-189185|Upinė]]: Narbutas rašė, kad prie Zapyškio tekėjęs mažas upelis anksčiau vadintas Upinės upeliu, o vėliau - Išganytojo vardu.
 - susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-55047|Mūro sienos ir miesto sienos]]: 1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, o negalintiems jos statyti - tverti statinių tvorą.
 - susijęs iš [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora.md#claim-t-87063|Vilniaus miesto mūro siena, vartai ir statinių tvora]]: 1505 metais karalius nurodė Vilniaus miestą apjuosti mūro siena, o negalintiems jos statyti leido tverti statinių tvorą.
 - susijęs iš [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora.md#claim-t-87064|Vilniaus miesto mūro siena, vartai ir statinių tvora]]: Vilniaus miestiečiai prie miesto vartų turėjo dieną ir naktį eiti sargybą.

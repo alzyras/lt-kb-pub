@@ -3,8 +3,15 @@ tipas: vieta
 pavadinimas: 'Pamedė'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+datos:
+  - '1247 m.'
+date_start: '1247'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
 tags:
   - kraštas
   - ordinas
@@ -18,7 +25,6 @@ tags:
 Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaikštijų (Kulmo, Pamedės, Varmijos ir Sembos), bet ordino galybės laikais nesusipratimų dėl to nebekildavo, nes vyskupais būdavo skiriami tik ordino nariai.
 
 ## Teiginiai
-
 <a id="claim-t-116516"></a>
 - t-001
   global_id: t-116516
@@ -116,14 +122,55 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
   ryšio_paaiskinimas: Citata tiesiogiai sako, kad pagudėnų suburta kariuomenė užpuolė Elbingo pilį.
+
+<a id="claim-t-188799"></a>
+- t-006
+  global_id: t-188799
+  teiginys: '1247 m. kryžiuočiai jau valdė Pamedę, bet, Narbuto aiškinimu, dėl kovų neturėjo pakankamai laiko jos vidaus tvarkai ir krikščionybei įtvirtinti.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 305024-305524; hash=0e6139b766649c82e4dce6766ada659c9c5e4e8c7a52f6216fb686a0216178bf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: valde -> Pamedė: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pamedė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo kryžiuočių valdymą Pamedėje.
+<a id="claim-t-188800"></a>
+- t-007
+  global_id: t-188800
+  teiginys: 'Narbuto pasakojime pamedėnai turėjo prisiekti nebepriimti krikščionių tikėjimo ir ginti senąjį tikėjimą net mirties kaina.'
+  pagrindžia:
+    - c-007
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 306074-306469; hash=9d3dd81bb83b1317b6f08cd313a5cf846abf214739779e6d27a772f95f1648b6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pamedėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pamedė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pamedėnai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pamedė" parinktas kaip owner_note_path. Targetas "Pamedėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188211|Kryžiuočių ordinas]]: 1247 m. kryžiuočiai jau valdė Pamedę, bet dėl kovų neturėjo pakankamai laiko jos vidaus sutvarkymui.
 - susijęs iš [[objektai/paprociai/Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos.md#claim-t-62712|Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)]]: Antrosios atskalūnybės metais Ordino broliai sudegino Spitenbergo pilį Pamedėje ir pasitraukė, nes nebegalėjo joje priešintis prūsams.
+- susijęs iš Schützo Prūsijos kronika: Narbutas, remdamasis Prūsijos kronikomis, pasakoja, kad 1247 m. Pamedėje aitvarai esą viešai rodydavosi žmonių pavidalu.
+- susijęs iš [[objektai/asmenys/Sviatopelkas.md#claim-t-190213|Sviatopelkas]]: Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų Prūsijos provincijų gyventojų kovas su kryžiuočiais.
+- susijęs iš Pamarys: 1247 m. Pamario kunigaikščio Sviatopelko remiamos kovos, Narbuto aiškinimu, trukdė kryžiuočiams tvarkyti Pamedę ir įtvirtinti krikščionybę.
 - susijęs iš [[objektai/asmenys/Henrikas (Meiseno markgrafas).md#claim-t-63617|Henrikas (Meiseno markgrafas)]]: Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.
 - susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66828|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas įsiveržė į Pamedės ir Kulmo žemes, jas siaubė, sugriovė daugumą pilių ir išžudė 4 tūkstančius krikščionių.
 - susijęs iš Aliamas: Pamedės valsčius Aliamas 1250 m. minėtas forma Alyem prie Nogato ir siejamas su vėlesniu Štumu.
 - susijęs iš [[objektai/asmenys/Albrechtas (Pamedės vyskupas).md#claim-t-60229|Albrechtas (Pamedės vyskupas)]]: Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-60083|Anonas (didysis magistras)]]: Didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje.
 - susijęs iš [[objektai/asmenys/Burchardas iš Magdeburgo.md#claim-t-60097|Burchardas iš Magdeburgo]]: Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių.
-- susijęs iš [[objektai/asmenys/Darsgaitis.md#claim-t-187915|Darsgaitis]]: Narbutas išnašoje Darsgaitį vadina Pamedės provincijos kriviu, kuris 1227 m. atvyko į kryžiuočių kariuomenę tartis dėl taikos.
+- susijęs iš [[objektai/asmenys/Darsgaitis.md#claim-t-187915|Darsgaitis]]: Narbutas Darsgaitį vadina senovės prūsų Pamedės provincijos kriviu, kuris 1227 m. atvyko į kryžiuočių kariuomenę tartis dėl taikos.
 - susijęs iš [[objektai/asmenys/Henrikas (Meiseno markgrafas).md#claim-t-63617|Henrikas (Meiseno markgrafas)]]: Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.
 - susijęs iš [[objektai/asmenys/Jodokas.md#claim-t-60336|Jodokas]]: Šventas Jodokas ėmė daryti stebuklus Prūsijoje, Pamedės vyskupystėje.
 - susijęs iš [[objektai/asmenys/Mata.md#claim-t-60057|Mata]]: Mata buvo kilmingas Pamedės vyras ir Pipino sūnus, iki mirties drąsiai gynęs Kristaus tikėjimą.
@@ -131,6 +178,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - susijęs iš [[objektai/asmenys/Rudolfas (Pamedės vyskupas).md#claim-t-60428|Rudolfas (Pamedės vyskupas)]]: Rudolfas, Pamedės vyskupas, Osos pakrantėje pastatė miestą, vardu Bišofsverderis.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90060|Treniota]]: Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamedę, o jo pajėgos paėmė Birgelavos pilį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178857|Kryžiuočių ordinas]]: Kryžiuočių ordino broliai Pamedėje atstatė Kristburgo pilį naujoje vietoje ir paliko joje daug karių.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188211|Kryžiuočių ordinas]]: 1247 m. kryžiuočiai jau valdė Pamedę, bet dėl kovų neturėjo pakankamai laiko jos vidaus sutvarkymui.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89170|Pagudėnai]]: Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis nusiaubė Pagudę bei Pamedę.
 - susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-66557|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Henrikas Meiseno markgrafas 1236 m. atvyko į Prūsiją ir niokojo Pamedę.
 - susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-66558|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Pamedėje Henrikas, Meiseno markgrafas, puolė Reisių valsčių, naikino pilis ir privertė pamedėnus pasiduoti tikėjimui bei broliams.
@@ -144,7 +192,9 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - susijęs iš [[objektai/paprociai/Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos.md#claim-t-62712|Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)]]: Antrosios atskalūnybės metais Ordino broliai sudegino Spitenbergo pilį Pamedėje ir pasitraukė, nes nebegalėjo joje priešintis prūsams.
 - susijęs iš [[objektai/posakiai/po šiai dienai tebestovi apleista.md#claim-t-59151|po šiai dienai tebestovi apleista]]: Posakis „po šiai dienai tebestovi apleista“ vartojamas apibūdinant Spitenbergo pilį Pamedėje.
 - susijęs iš Olivos kronika: Senojoje Olivos kronikoje aiškiau aprašytas Dusburgiečio minimas Pamedės niokojimas.
+- susijęs iš Schützo Prūsijos kronika: Narbutas, remdamasis Prūsijos kronikomis, pasakoja, kad 1247 m. Pamedėje aitvarai esą viešai rodydavosi žmonių pavidalu.
 - susijęs iš Karaliaučius: Karaliaučiaus karališkos bibliotekos tekstas 1540 m. sausio 16 d. pradėtas perrašinėti iš Pamedės vyskupui P. Speratui priklausiusios knygos.
+- susijęs iš Pamarys: 1247 m. Pamario kunigaikščio Sviatopelko remiamos kovos, Narbuto aiškinimu, trukdė kryžiuočiams tvarkyti Pamedę ir įtvirtinti krikščionybę.
 - susijęs iš Spitenbergas: Spitenbergas buvo maža kryžiuočių pilis, kurios tikslesnė vieta Pamedėje nenustatyta.
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78419|Pamedėnai]]: Pamedės Reisių valsčiuje gyvenę pamedėnai buvo puolami grobimais, gaisrais ir kraujo praliejimu.
 - susijęs iš [[objektai/asmenys/Albrechtas (Prūsijos hercogas).md#claim-t-60230|Albrechtas (Prūsijos hercogas)]]: Karaliaučiaus karališkos bibliotekos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį jo šeimininką.
@@ -163,6 +213,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-184132|Sventopelkas]]: Prieš mirtį Sventopelkas sušaukė savo sūnus ir patarė jiems niekada nesipriešinti Ordino broliams.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90022|Sventopelkas]]: 1246 m. karo pasakojime Dusburgietis Sventopelkui priskiria kovinę kalbą ir didelius nuostolius.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90036|Sventopelkas]]: Prieš mirtį Sventopelkas sušaukė savo sūnus ir patarė jiems niekada nesipriešinti Ordino broliams.
+- susijęs iš [[objektai/asmenys/Sviatopelkas.md#claim-t-190213|Sviatopelkas]]: Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų Prūsijos provincijų gyventojų kovas su kryžiuočiais.
 - susijęs iš [[objektai/daiktai/Prūsijos hercogo Albrechto herbas.md#claim-t-59703|Prūsijos hercogo Albrechto herbas]]: Karaliaučiaus kronikos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį nuorašo šeimininką.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178876|Kryžiuočių ordinas]]: 1233 m. magistras ir Kryžiuočių ordino broliai Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178898|Kryžiuočių ordinas]]: Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje.
@@ -199,7 +250,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - susijęs iš Spitenbergas: Pamedės žemėje buvusią Spitenbergo pilį broliai sudegino ir paliko per antrąją atskalūnybę.
 - susijęs iš Zirgūna: Zirgūnos upe plukdydami atsargas Kristburgo broliams, broliai ir jų tarnai dažnai prarasdavo krovinius ir gyvybes.
 - susijęs iš Štarkenbergas: Teutonų ordino didysis magistras Anonas įsakė pastatyti Štarkenbergo pilį Osos pakrantėje.
-- susijęs iš Žemaitija: Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58798|pilėnas pilėnai]]: Didysis magistras Anonas pažadėjo gausiai aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga.
 - susijęs iš [[objektai/asmenys/Burchardas iš Magdeburgo.md#claim-t-60097|Burchardas iš Magdeburgo]]: Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių.
@@ -211,7 +261,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66828|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas įsiveržė į Pamedės ir Kulmo žemes, jas siaubė, sugriovė daugumą pilių ir išžudė 4 tūkstančius krikščionių.
 - susijęs iš Spitenbergas: Spitenbergas buvo maža kryžiuočių pilis, kurios tikslesnė vieta Pamedėje nenustatyta.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Pamedės žemėje buvusią Spitenbergo pilį antrosios atskalūnybės metais broliai sudegino ir paliko dėl prūsų antpuolių bei reikmenų stokos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -307,8 +356,47 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-006
+  santrauka: '1247 m. kryžiuočiai jau valdė Pamedę, bet, Narbuto aiškinimu, dėl kovų neturėjo pakankamai laiko jos vidaus tvarkai ir krikščionybei įtvirtinti.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Moteris, suviliota
+    šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
+    Įdomią smulkmeną apie tuos dievaičius mums paliko Prū­
+    sijos kronikos . 1247 metais, kai kryžiuočiai jau valdė Pame-
+    dę ir tenykščius žmones lyg ir atvertė į krikščionių tikėjimą,
+    vis dėlto dėl nuolatinių sumaiščių ir kovų su kitų provincijų
+    gyventojais, remiamais Pamario kunigaikščio Sviatopelko, jie,
+    matyt, neturėjo pakankamai laiko pasirūpinti Pamedės vidaus
+    sutvarkymu bei atverstos tautos tikėjimo įtvirtinimu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Narbuto pasakojime pamedėnai turėjo prisiekti nebepriimti krikščionių tikėjimo ir ginti senąjį tikėjimą net mirties kaina.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šie sakė, kad aukštieji dievai užsiundę tas
+    piktas dvasias kaip bausmę už atsisakymą šlovės ir tikėjimo.
+    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
+    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
+    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
+    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
+    mi, bet gins savo senąjį tikėjimą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] valde Pamedė
 - [[objektai/vietos/Spitenbergas]] priklause Pamedė
 - [[objektai/grupes/Kryžiuočių ordinas]] puole Pamedė
 - [[objektai/asmenys/Sventopelkas]] surenge_zygi_i Pamedė

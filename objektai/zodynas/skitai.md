@@ -157,7 +157,6 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
 - susijęs iš [[objektai/asmenys/Ibrahimas.md#claim-t-186112|Ibrahimas]]: Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuose prieš lietuvių žemes.
 - susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185964|Jonas Olbrachtas]]: 1489 m. Jonas Olbrachtas sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su skitais.
 - susijęs iš [[objektai/asmenys/Jurga (pasienio seniūnas).md#claim-t-186222|Jurga (pasienio seniūnas)]]: Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
-- susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184906|Žygimantas]]: Žygimantas, praradęs viltį sudaryti taiką, išsiuntė skitams sutartą atlygį, kad šie sulaikytų priešą jo žemėje.
 - susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-184486|Krymo totoriai]]: Krymo skitai išdrąsėjo, kai jiems į pagalbą atėjo Ibrahimo vedami turkai, skitų išpuoliais grindę kelią turkų galybei.
 - susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-184487|Krymo totoriai]]: Krymo skitai netikėtai įsiveržė Dyklaukiais, apiplėšė dideles apygardas ir išsivežė grobį, kai lietuviai neturėjo sutelktos kariuomenės.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184531|Lenkai]]: Lenkai įtarė lietuvius ir karalių dėl Podolės nuniokojimo, teigdami, kad lietuviai sukurstė skitus prieš lenkus.

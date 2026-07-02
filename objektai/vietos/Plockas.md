@@ -80,7 +80,7 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184546|Lietuviai]]: Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-184058|Dovydas (Gardino pilininkas)]]: Dovydas, Gardino pilininkas, lapkričio 21 d. įsibrovė į Mazoviją ir nusiaubė Plocko vyskupo Pultuską.
 - susijęs iš [[objektai/asmenys/Dovydas.md#claim-t-82261|Dovydas]]: Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176332|Gediminas]]: Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo, dar vadinto Vanka.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176332|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo, dar vadinto Vanka.
 - susijęs iš [[objektai/asmenys/Henrikas (Plocko vyskupas).md#claim-t-186042|Henrikas (Plocko vyskupas)]]: Henrikas, Zemovito sūnus ir Plocko vyskupas, buvo parinktas vadovauti karaliaus pasiuntinybei pas Vytautą.
 - susijęs iš [[objektai/asmenys/Mykolas (Kijevo vyskupas).md#claim-t-87921|Mykolas (Kijevo vyskupas)]]: 1386 m. Kijevo vyskupas Mykolas kartu su Plocko vyskupu Stanislovu pašventino Šv. Jono bažnyčią.
 - susijęs iš [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis).md#claim-t-87880|Venceslavas (Mazovijos ir Plocko kunigaikštis)]]: Venceslavas tuo tarpsniu valdė Mazoviją ir Plocką, o 1321 m. sudarė sutartį su kryžiuočių Ordinu.
@@ -95,6 +95,7 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
 - susijęs iš [[objektai/asmenys/Bonislavas (Mazovijos kunigaikštis ).md#claim-t-87639|Bonislavas (Mazovijos kunigaikštis )]]: Gedimino laiškų rašytojas dviejuose laiškuose Mazovijos kunigaikštį vadino Bonislavu, nors Balińskis tokio kunigaikščio nerado.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173145|Dovydas (Gardino pilininkas)]]: Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173146|Dovydas (Gardino pilininkas)]]: Lapkričio 21 d. Gardino pilininkas Dovydas su galinga kariuomene įsibrovė į Mazoviją ir nusiaubė Pultuską bei 130 kaimų.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
 - susijęs iš [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis).md#claim-t-87685|Henrikas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182807|Jogaila (kunigaikštis, XIV–XV a.)]]: Vladislovo Jogailos lėšomis pradėtą statyti Šv. Jono bažnyčią užbaigė Vytautas.
 - susijęs iš [[objektai/asmenys/Sofija (Vytauto duktė).md#claim-t-184830|Sofija (Vytauto duktė)]]: Sofija, Vytauto duktė, tekėjo už Maskvos kunigaikščio Vasilijaus, o Vytautas Marienburge surengė jai dideles palydėtuves.

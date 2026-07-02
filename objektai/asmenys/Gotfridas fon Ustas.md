@@ -27,7 +27,7 @@ Gal todėl, kad daugybė Ordino riterių, būtent, Ordino kunigas Jonas Rygietis
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Liubekas; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Ryga; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176340|Gediminas]]: Balińskis darė išvadą, kad Gedimino vardu naudotas antspaudas nebuvo tikras ir buvo suklastotas.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176340|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis darė išvadą, kad Gedimino vardu naudotas antspaudas nebuvo tikras ir buvo suklastotas.
 ## Reikšmingi paminėjimai
 
 - c-001

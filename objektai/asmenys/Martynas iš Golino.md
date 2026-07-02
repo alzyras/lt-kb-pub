@@ -561,7 +561,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš „Wiadomość o funduszu i dochodach Szpitala i Probostwa Św. Trójcy w Wilnie będącego“: „Wiadomość o funduszu i dochodach Szpitala i Probostwa Św. Trójcy w Wilnie będącego“ buvo duota 1789 m. rugsėjo 21 d.
 - susijęs iš Bobruiskas: Bobruiske atsirado jėzuitų kolegija, įkurta Triznos fundacijos pagrindu.
 - susijęs iš Brasta: Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.
-- susijęs iš Gardinas: Gardine atsirado jėzuitų kolegija, funduota Smolensko vyskupo Isaikovskio ir kitų rėmėjų.
 - susijęs iš Gedimino kalnas: Jogailos pastatyta Šv. Martyno bažnyčia Aukštutinėje pilyje ant Gedimino kalno išbuvo iki XV amžiaus.
 - susijęs iš Inovroclavas: Vienas iš trijų į Vilnių pakviestų lenkų tapytojų buvo Vaitiekus Chelminskis iš Inovroclavo.
 - susijęs iš Karaliaučius: 1547 m. Martyno Mažvydo „Katekizmas“ buvo išspausdintas Karaliaučiuje ir skirtas lietuviams bei Lietuvai.

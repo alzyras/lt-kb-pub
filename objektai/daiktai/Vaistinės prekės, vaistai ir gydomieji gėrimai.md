@@ -121,7 +121,9 @@ Nenurodyta
 - susijęs iš [[objektai/posakiai/„jeigu Sacharos dykumoje būtų įvestas socializmas...“.md#claim-t-26653|„jeigu Sacharos dykumoje būtų įvestas socializmas...“]]: Komandinės, planinės ekonomikos neefektyvumas buvo pašiepiamas formule apie socializmą Sacharos dykumoje ir smėlio deficitą.
 - susijęs iš [[objektai/posakiai/„jeigu Sacharos dykumoje būtų įvestas socializmas...“.md#claim-t-26905|„jeigu Sacharos dykumoje būtų įvestas socializmas...“]]: Posakiu apie socializmą Sacharos dykumoje šaipytasi iš komandinės planinės ekonomikos neefektyvumo ir SSRS deficito.
 - susijęs iš Kazimiero Jogailaičio testamentas: Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir prašė lietuvių paskelbti Aleksandrą Lietuvos valdovu.
+- susijęs iš Lydos kraštas (kraštas): Lydos krašto Rodūnios parapijoje Narbutas minėjo netoli vienas kito buvusius Leliušių ir Lelionių kaimus.
 - susijęs iš Nacionalinė M. Mažvydo biblioteka: Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios medicinos pagalbos ir medicininio vadovavimo punktą.
+- susijęs iš Rodūnios parapija: Narbutas Rodūnios parapiją mini kaip Lydos krašto vietą, kur netoli vienas kito buvo Leliušių ir Lelionių kaimai.
 - susijęs iš [[objektai/zodynas/farmacinės lotyniškos sąvokos vaistinės kronikoje.md#claim-t-86524|farmacinės lotyniškos sąvokos vaistinės kronikoje]]: Vaistininkai, ruošdami preparatus pagal pareigas ir gydydami žmones, didindavo vaistinės pajamas.
 - susijęs iš [[objektai/zodynas/špitolė prieglauda.md#claim-t-86430|špitolė prieglauda]]: Pastatytai prieglaudai turėjo būti skiriama dalis tilto mokesčio ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.
 - susijęs iš [[objektai/asmenys/Albinas Kubilius-Rūgštymas.md#claim-t-39996|Albinas Kubilius-Rūgštymas]]: 1949 m. spalio 24 d. MGB agentui V. Kučiui panaudojus spec. preparatus, buvo suimtas Albinas Kubilius-Rūgštymas.
@@ -131,6 +133,8 @@ Nenurodyta
 - susijęs iš Anykščių valsčius: 1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje.
 - susijęs iš Butkiškio vienkiemis: 1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Butkiškio vienkiemyje.
 - susijęs iš Jovaišų sodyba: 1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie štabo bunkerio Jovaišų sodyboje.
+- susijęs iš Leliušiai: Narbutas Leliušių kaimą mini kaip vieną iš dviejų netoli vienas kito esančių kaimų Lydos krašto Rodūnios parapijoje.
+- susijęs iš Trakų apskritis: Narbutas mini, kad Trakų apskrityje, ponų Gorskių dvare, buvo Lelionių milžinkapis.
 - susijęs iš Žemaitija: Žemaitijoje, pasak Kojelavičiaus, tuo metu priešų nebuvo, bet kaimus niokojo nuodingi kirminai.
 - susijęs iš [[objektai/zodynas/deficitas talonai.md#claim-t-70104|deficitas talonai]]: Sovietmečio Lietuvoje trūko maisto produktų, butų, medicinos reikmenų ir vaistų, o baldams, indams ir televizoriams įsigyti reikėjo talonų.
 ## Reikšmingi paminėjimai

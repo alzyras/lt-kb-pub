@@ -3,19 +3,20 @@ tipas: autorius
 pavadinimas: 'S. Daukantas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1848 m.'
 date_start: '1848'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
-  - mokslininkas
 amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+tags:
+  - autorius
+  - mokslininkas
 ---
 # S. Daukantas
 
@@ -32,7 +33,6 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 - raštai
 
 ## Teiginiai
-
 <a id="claim-t-45651"></a>
 - t-001
   global_id: t-45651
@@ -44,6 +44,32 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citatos sakiniu.'
   pagrindžia:
     - c-001
+
+- t-004
+  teiginys: 'S. Daukantas atsiuntė Teodorui Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną“ - Lietuvos bajorų giminių genealogijų rinkinį.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 18904-19222; hash=93883c8f20e08b538835355c6a1c2afe3e97191e62c7eb4908695f1bcbb7bd91; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Daukantas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Daukantas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- t-005
+  teiginys: 'S. Daukantas „Darbų“ pratarmėje rašė, kad kūrinį skyrė ne mokytiems vyrams, o motinoms, pasakojančioms vaikams apie protėvius.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 91787-92038; hash=6f56820921ae47c3eeea97d7de63a68c6846c5c8ab859f000926d9db7221b80c; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105707|Simonas Daukantas]]: Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105708|Simonas Daukantas]]: Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“.
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105709|Simonas Daukantas]]: P. Malevskis buvo tiesioginis istoriko Simono Daukanto viršininkas Lietuvos Metrikos padalinyje prie Senato Trečiojo departamento.
@@ -52,22 +78,29 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105712|Simonas Daukantas]]: Simono Daukanto tiesioginis viršininkas buvo Lietuvos Metrikos padalinio vadovas Pranciškus Malevskis.
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105713|Simonas Daukantas]]: Simoną Daukantą įkvėpė suvokimas, kad tautos ateičiai būtina tautos atmintis, todėl jis raštu įamžino Lietuvos praeitį.
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105714|Simonas Daukantas]]: Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188636|Teodoras Narbutas]]: 1858 m. „Teka Wilenska“ puslapiuose Teodoras Narbutas davė atkirtį Stanislovo Mikuckio kaltinimams.
 - susijęs iš [[objektai/autoriai/B. Vanagienė.md#claim-t-187795|B. Vanagienė]]: B. Vanagienė parengė Simono Daukanto „Raštų“ pirmo tomo tekstą.
+- susijęs iš [[objektai/autoriai/D. Poška.md#claim-t-188399|D. Poška]]: Narbutas rašo, kad D. Poškai buvo žinomi S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ ir spėta, jog Poška galėjo juos persirašyti.
 - susijęs iš [[objektai/autoriai/J. Talmantas.md#claim-t-64648|J. Talmantas]]: J. Talmantas redagavo 1935 m. Kaune išleistą Simono Daukanto veikalą „Būdas senovės lietuvių Kalnėnų ir Žemaičių“.
 - susijęs iš [[objektai/autoriai/Pajautos, Konstancijos Skirmuntaitės.md#claim-t-100134|Pajautos, Konstancijos Skirmuntaitės]]: Pajautos, Konstancijos Skirmuntaitės, vadovėlinio tipo knygutėje dėmesys sutelktas į lietuvių tautos žygius iki Vytauto Didžiojo mirties.
 - susijęs iš [[objektai/autoriai/Simonas Stanevičius.md#claim-t-169894|Simonas Stanevičius]]: Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, laikomu kone tautinio kultūrinio sąjūdžio himnu ar manifestu.
+- susijęs iš [[objektai/autoriai/V. Merkys.md#claim-t-188484|V. Merkys]]: V. Merkys sudarė S. Daukanto „Raštų“ 1-ąjį tomą ir parašė šio tomo įvadą bei paaiškinimus.
 - susijęs iš [[objektai/autoriai/kun. Antano Šmulkščio.md#claim-t-100130|kun. Antano Šmulkščio]]: Kun. Antano Šmulkščio vadovėlinio tipo knygutėje daugiausia dėmesio skirta lietuvių tautos žygiams iki Vytauto Didžiojo mirties.
 - susijęs iš [[objektai/grupes/Aušrininkai.md#claim-t-05242|Aušrininkai]]: Aušrininkai siejami su Simono Daukanto pradėto tautinio ir istorinio palikimo tęsiniu iki nepriklausomybės metų.
 - susijęs iš [[objektai/grupes/Aušrininkai.md#claim-t-80795|Aušrininkai]]: Aušrininkai Lietuvoje sekė Simono Daukanto vykdytu romantiniu tautinės istorijos nusistatymu.
 - susijęs iš [[objektai/grupes/Aušrininkai.md#claim-t-80796|Aušrininkai]]: Aušrininkai ir jų tautinio palikimo tęsėjai iki nepriklausomybės metų sekė Simono Daukanto istoriniu nusistatymu.
+- susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-187872|Baltarusiai]]: Baltarusiai įtraukiami į Istorinės Lietuvos, arba Lietuvos Didžiosios Kunigaikštystės, politinio, socialinio ir kultūrinio paveldo arealą.
 - susijęs iš [[objektai/grupes/Sakalo bendrovė.md#claim-t-35760|Sakalo bendrovė]]: Vytauto Didžiojo 500 metų jubiliejaus proga „Sakalo“ bendrovė išleido plačią monografiją apie Vytautą Didįjį.
 - susijęs iš [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba.md#claim-t-67138|Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]: Lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“.
 - susijęs iš [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai.md#claim-t-75404|Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]: Vyskupas Motiejus Valančius savo pirmąjį inauguracinį pamokslą sakė ir lietuviškai, ir lenkiškai.
 - susijęs iš [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai.md#claim-t-75407|Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]: Vyskupas Motiejus Valančius pirmąjį inauguracinį pamokslą sakė lietuviškai ir lenkiškai.
+- susijęs iš [[objektai/posakiai/Tasai ponas Volianskis šiandien yra žymiausias archeologas.md#claim-t-189590|Tasai ponas Volianskis šiandien yra žymiausias archeologas]]: Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neišaiškintų paminklų šifruotoju ir geranorišku tautiečiu.
 - susijęs iš Lietuvių tautos istorija: Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvoje stigo veikalų apie krašto istoriją nuo seniausių laikų.
 - susijęs iš Šlovė žemaičių: Eilėraštis „Šlovė žemaičių“ laikytas kone šio sąjūdžio himnu ar poetiniu manifestu.
 - susijęs iš Juodoji jūra: Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros ir Dunojaus.
 - susijęs iš Juodoji jūra: Uksinė jūra Daukanto tekste tapatinama su Juodąja jūra.
+- susijęs iš Lietuva: 1506 m. rugpjūtį ties Kłecku pasiekta Lietuvos pergalė užkirto Krymo ordai kelią į artimiausias valstybės vaivadijų sostines.
+- susijęs iš Lietuva: Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie tuvos palikimą.
 - susijęs iš [[objektai/zodynas/Medė.md#claim-t-70028|medė]]: Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės.
 - susijęs iš [[objektai/zodynas/Meldžionys.md#claim-t-07679|meldžionys]]: Meldžionys Daukanto aiškinime atėjo iš Teutonijos į Žemaičius, Parusius ir Žemgalius krikštydami kardu.
 - susijęs iš [[objektai/zodynas/Vartavodamos.md#claim-t-07754|vartavodamos]]: Vartavodamos Daukanto tekste vartojamas kalbant apie javų pirkimą pigiai ir pardavimą brangiai.
@@ -77,24 +110,28 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 - susijęs iš [[objektai/asmenys/Mikalojus Malinovskis.md#claim-t-87554|Mikalojus Malinovskis]]: Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu.
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186516|Teodoras Narbutas]]: Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos praeities veikalų buvo nedaug.
 - susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64505|A. Alekna]]: Prof. A. Alekna peržiūrėjo ir patikrino apie Vytautą Didįjį išleistą plačią monografiją.
-- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-187954|Albertas Vijūkas-Kojalavičius]]: Įvadinis tekstas Alberto Vijūko-Kojalavičiaus „Herbyną“ apibūdina kaip Lietuvos bajorų giminių genealogijų rinkinį.
+- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-187954|Albertas Vijūkas-Kojalavičius]]: S. Daukantas T. Narbutui atsiuntė Alberto Vijūko-Kojalavičiaus „Herbyną“, Lietuvos bajorų giminių genealogijų rinkinį.
 - susijęs iš [[objektai/autoriai/Ignas Danilavičius.md#claim-t-81909|Ignas Danilavičius]]: Ignas Danilavičius M. Balinskio pratarmėje paminėtas tarp istorikų, padėjusių istoriniais dokumentais.
 - susijęs iš [[objektai/autoriai/Laurynas Ivinskis.md#claim-t-113486|Laurynas Ivinskis]]: Laurynas Ivinskis buvo žemaičių bajoras ir lietuviškų kalendorių leidėjas, gyvenęs 1808–1881 m.
 - susijęs iš [[objektai/autoriai/Laurynas Ivinskis.md#claim-t-113487|Laurynas Ivinskis]]: M. Balinskis Gazeta Warszawska straipsniuose supažindino skaitytojus su Lauryno Ivinskio kalendoriais.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182792|Michał Baliński Mykolas Balinskis]]: Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m.
 - susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55013|Mykolas Balinskis]]: Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m.
-- susijęs iš [[objektai/autoriai/T. Narbutas.md#claim-t-186292|T. Narbutas]]: S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų.
-- susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-187872|Baltarusiai]]: Įvadiniame straipsnyje baltarusiai priskiriami Lietuvos Didžiosios Kunigaikštystės politinio, socialinio ir kultūrinio paveldo arealui.
+- susijęs iš [[objektai/autoriai/T. Narbutas.md#claim-t-186292|Teodoras Narbutas]]: S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų.
 - susijęs iš [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis.md#claim-t-183126|Etninių lietuvių tautinis kultūrinis sąjūdis]]: Simono Daukanto ir Simono Stanevičiaus aplinkos inteligentai laikomi etninių lietuvių tautinio kultūrinio sąjūdžio pradininkais.
 - susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-187882|Lietuvos bajorija]]: Įvadinio straipsnio autorius XVI–XVIII a. lietuvį istorinėje Lietuvoje apibrėžia kaip bajorą, gynusį politines laisves ir Lietuvos Statuto teises.
 - susijęs iš [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas.md#claim-t-54747|Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]: Istorikų darbai buvo aptarinėjami bajorų pobūviuose.
 - susijęs iš [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas.md#claim-t-54748|Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]: Privačiose kolekcijose buvo kaupiami archeologiniai radiniai ir meno objektai.
+- susijęs iš [[objektai/paprociai/Protėvių darbų pasakojimas vaikams motinų lūpomis.md#claim-t-189935|Protėvių darbų pasakojimas vaikams motinų lūpomis]]: S. Daukantas „Darbų“ pratarmėje rašė motinoms, kurios vaikams pasakodavo bočių ir prabočių darbus, bet be raštų dažnai apsirikdavo.
+- susijęs iš [[objektai/posakiai/Aš ne dėl mokytų vyrų ir galvočių.md#claim-t-189575|Aš ne dėl mokytų vyrų ir galvočių]]: S. Daukantas „Darbų“ pratarmėje rašė, kad kūrinį skyrė ne mokytiems vyrams, o motinoms, pasakojančioms vaikams protėvių darbus.
 - susijęs iš [[objektai/posakiai/mokytiems vyrams išnagrinėti.md#claim-t-31561|mokytiems vyrams išnagrinėti]]: Daukantas daug painių klausimų paliko, jo paties žodžiais, „mokytiems vyrams išnagrinėti“.
 - susijęs iš [[objektai/posakiai/„Šlovė žemaičių“.md#claim-t-77862|„Šlovė žemaičių“]]: Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, vadinamu kone žemaičių sąjūdžio himnu ar poetiniu manifestu.
 - susijęs iš Būdas senovės lietuvių Kalnėnų ir Žemaičių: S. Daukanto „Būdas senovės lietuvių Kalnėnų ir Žemaičių“ buvo išleistas Kaune 1935 m., redaguotas J. Talmanto.
 - susijęs iš Būdas senovės lietuvių Kalnėnų ir Žemaičių: S. Daukantas „Būde senovės lietuvių Kalnėnų ir Žemaičių“ vaizdingai aprašė, kaip iš miško buvo gaunama visokeriopa nauda.
 - susijęs iš Būdas senovės lietuvių, žemaičių ir kalnėnų: Simonas Daukantas išleido beletrizuotą etninių lietuvių kultūros studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“.
+- susijęs iš Darbai senųjų lietuvių ir žemaičių: Manoma, kad S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ tuo metu jau buvo parašyti ir buvo žinomi D. Poškai.
+- susijęs iš Darbai senųjų lietuvių ir žemaičių: S. Daukantas „Darbų“ pratarmėje rašė kūrinį skyręs ne mokytiems vyrams, o motinoms, pasakojančioms vaikams apie protėvių darbus.
 - susijęs iš Darbai žemaičių ir lietuvių: Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“, kai Lietuvos praeities tyrimų dar buvo nedaug.
+- susijęs iš Herbynas: Simonas Daukantas atsiuntė Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną“, Lietuvos bajorų giminių genealogijų rinkinį.
 - susijęs iš Lauryno Ivinskio kalendoriai: M. Balinskis Gazeta Warszawska straipsniuose skaitytojams pristatė Lauryno Ivinskio kalendorius.
 - susijęs iš Lietuvių tautos istorija: 1835 m. pasirodė pirmasis Teodoro Narbuto „Lietuvių tautos istorijos“ tomas.
 - susijęs iš Šlovė žemaičių: Simono Stanevičiaus poezijos knygoje išspausdintas eilėraštis „Šlovė žemaičių“ laikytas etninių lietuvių tautinio kultūrinio sąjūdžio poetiniu manifestu.
@@ -102,10 +139,10 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 - susijęs iš Gniezno: Daukanto aprašytame sausumos kelyje į Romą Cydova minima greta Gniezno.
 - susijęs iš Karaliaučius: Iš Karaliaučiaus ir kitų archyvų Onacevičius buvo prisirankiojęs daug šaltinių.
 - susijęs iš Žemaitija: Daukantas savo jaunystės laikų Žemaitijos kaimo kultūrinį paveikslą perkėlė į senuosius laikus.
+- susijęs iš [[objektai/zodynas/Mokyti vyrai ir galvočiai.md#claim-t-189231|Mokyti vyrai ir galvočiai]]: S. Daukantas „Darbų“ pratarmėje rašė, kad kūrinį skyrė ne mokytiems vyrams ir galvočiams, o motinoms, pasakojančioms vaikams protėvių darbus.
 - susijęs iš [[objektai/zodynas/tautinis atgimimas.md#claim-t-05466|tautinis atgimimas]]: Daukanto istorijos darbai šiame šaltinyje vertinami kaip reikšmingi tautinio atgimimo laikotarpiu.
 - susijęs iš [[objektai/zodynas/tautinė sąmonė.md#claim-t-47945|tautinė sąmonė]]: Daukantas lietuvių tautinės sąmonės raidai davė reikšmingų paskatų.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -124,3 +161,36 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'S. Daukantas atsiuntė Teodorui Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną“ - Lietuvos bajorų giminių genealogijų rinkinį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pradžia jau buvo padaryta:
+    išleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-
+    jūko-Kojalavičiaus „Herbyną“ -  Lietuvos bajorų giminių ge­
+    nealogijų rinkinį. Bet istorijos šaltinių leidimas nejudėjo iš vie­
+    tos. Nusivylęs T. Narbutu ir negavęs jam nusiųsto „Herbyno“,
+    S. Daukantas nutraukė su juo santykius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-003
+  santrauka: 'S. Daukantas „Darbų“ pratarmėje rašė, kad kūrinį skyrė ne mokytiems vyrams, o motinoms, pasakojančioms vaikams apie protėvius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Galbūt geriausiai šį faktą paaiškintų paties
+    S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­
+    kytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba
+    savo vaikams darbus jų bočių prabočių papasakoti, o be raštų
+    daug kartų apsirinka“12.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005

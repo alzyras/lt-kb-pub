@@ -65,12 +65,14 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš Lubava: Pavyslyje, ypač Kulmo ir Lubavo srityse, gyventojai buvo mišrūs: lenkai ir prūsai.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96080|Baltai]]: Kronikoje vaizduojamu laikotarpiu prūsai, lietuviai ir latviai priskiriami baltams, siejamiems kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169587|Latviai]]: Kronikoje vaizduojamu laikotarpiu latviai, lietuviai ir prūsai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188221|Latviai]]: Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu ir padavimu apie supykusio Likimo plakamos žemės drebėjimą.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179278|Lietuviai]]: Kronikoje vaizduojamu laikotarpiu lietuviai, prūsai ir latviai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.
 - susijęs iš Barta: Petro Dusburgiečio kronikoje Barta ir Plikoji Barta priskiriamos vienai iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Galinda: Petro Dusburgiečio kronikoje Galinda įvardyta kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Nadruva: Petro Dusburgiečio kronikoje Nadruva minima kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Nemunas: Tyrimų duomenimis, Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į jo valstybę patekusį plotą nuo Vyslos iki Nemuno.
 - susijęs iš Nemunas: Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.
+- susijęs iš Nemunas: Narbutas 1805 m. Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, matė labai seną mūro pilį.
 - susijęs iš Notanga: Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Pagudė: Petro iš Dusburgo kronikoje Pagudė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Pamedė: Petro iš Dusburgo kronikoje Pamedė įtraukta į vienuolikos atskirų Prūsijos žemių sąrašą.
@@ -78,6 +80,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš Plikoji Barta: Petro Dusburgiečio kronikoje Plikoji Barta minima kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Prūsija: Petro iš Dusburgo kronikoje Prūsijos žemė skirstoma į 11 atskirų žemių.
 - susijęs iš Prūsija: Petro iš Dusburgo kronikoje Prūsijos vardu politine prasme vadintas Ordino užkariautas plotas nuo Vyslos iki Nemuno.
+- susijęs iš Prūsija: Narbutas rašo, kad Prūsijos kronikininkai šiuo vardu siejo dievintą senovės kunigaikštį Vaidevutį.
+- susijęs iš Prūsija: Narbutas rašo, kad Prūsijos kronikininkai burtininkams priskyrė ateities pranašavimą liejant ištirpintą vašką į šaltą vandenį.
 - susijęs iš Skalva: Petro iš Dusburgo kronikoje Skalva priskirta vienai iš 11 Prūsijos žemės dalių.
 - susijęs iš Sūduva: Petro iš Dusburgo kronikoje Sūduva minima kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Varmė: Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių.

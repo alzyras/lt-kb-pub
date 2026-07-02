@@ -66,6 +66,8 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
   ryšio_targeto_parinkimas: Baltai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auksinė" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Friederici W.md#claim-t-60700|Friederici W]]: W. Friederici darbas „Über die Lage Romow’s...“ cituojamas siejant Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen su Kriviu ir Romuva.
+- susijęs iš [[objektai/daiktai/Baltvyžių girios auksinė moneta su riteriu ir lokiu.md#claim-t-189656|Baltvyžių girios auksinė moneta su riteriu ir lokiu]]: Baltvyžių girios auksinę monetą Narbutas priskyrė vietos tautai ir vertino kaip meistriškai nukaltą Romos cezarių laikų stiliumi.
+- susijęs iš [[objektai/daiktai/Spero Palemono auksinė moneta ir Švėkšnos lobis.md#claim-t-189650|Spero Palemono auksinė moneta ir Švėkšnos lobis]]: Narbutas nusipirko auksinę monetą, kuri, jo žiniomis, apie 1814–1815 m. buvo rasta Švėkšnos klebonijos sode.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-05238|Auksinė Orda]]: Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-12354|Auksinė Orda]]: Tamerlano smūgis išvijo Tochtamyšą, o Auksinėje Ordoje buvo pasodintas naujas valdovas.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-92025|Auksinė Orda]]: Jonas III sudarė sąjungą su Perekopo chanu ir sunaikino Auksinę Ordą.
@@ -77,6 +79,8 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 - susijęs iš W. Friederici, Über die Lage Romow’s: W. Friederici darbe minimas bandymas sieti Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen su Kriviu ir Romove arba Romuva.
 - susijęs iš Aukskalių piliakalnis: Aukskalių piliakalnis yra buvusių Obeliškių apylinkėse, į pietvakarius nuo Įsruties, Auksinės žemupyje.
 - susijęs iš Norkyčiai: Senieji Norkyčiai buvo Auksinės vingyje, 6–7 km žemiau minimos vietos, o vėliau gyvenvietė perkelta 2 km į šiaurę.
+- susijęs iš Švėkšna: Narbutas rašo, kad 1814 ar 1815 m. Švėkšnos klebonijos sode rastą auksinių monetų lobį pasisavino tarnas.
+- susijęs iš Žemaitija: Narbutas rašo, kad 1814 ar 1815 m. Švėkšnoje, Žemaitijoje, rastą auksinių monetų lobį pasisavino tarnas.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54948|Barbora Radvilaitė]]: Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54950|Barbora Radvilaitė]]: 1547 m. rugsėjo 10 d. Barbora, dar kaip Stanislovienė Goštautienė, išdavė slavišką pakvitavimą.
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54982|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) buvo atskirai dovanojamas žiede įtvirtintas aštrus deimantas.

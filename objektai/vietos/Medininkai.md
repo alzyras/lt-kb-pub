@@ -179,7 +179,6 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59867|Henrikas iš Plockės]]: 1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių.
 - susijęs iš [[objektai/asmenys/Henrikas Rutėnas.md#claim-t-60318|Henrikas Rutėnas]]: Henrikas Rutėnas žuvo 1314 m. apie vasario 2 d. užsitęsusioje kovoje prie Sizditės pilies Medininkų valsčiuje.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175090|Sembai]]: 1314 m. maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179300|Lietuviai]]: 1316 m. Medininkų valsčiuje Ragainės broliai, persekiojami 200 lietuvių, sudegino du kaimus ir paėmė į nelaisvę moteris bei vaikus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -209,4 +208,3 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 - [[objektai/asmenys/Henrikas iš Plockės]] mire Medininkai
 - [[objektai/asmenys/Henrikas Rutėnas]] mire Medininkai
 - [[objektai/grupes/Sembai]] surenge_zygi_i Medininkai
-- [[objektai/grupes/Lietuviai]] gyne Medininkai

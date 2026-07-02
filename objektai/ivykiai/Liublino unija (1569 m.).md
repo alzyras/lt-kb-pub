@@ -4,24 +4,23 @@ pavadinimas: 'Liublino unija (1569 m.)'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1386 m.'
   - '1569 m.'
-  - '1576 m.'
-  - '1586 m.'
   - '1795 m.'
 date_start: '1386'
 date_end: '1795'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XVIII'
 tags:
   - bajorija
   - diplomatas
   - ivykis
   - karalius
-amziai:
-  - 'XIV'
-  - 'XVIII'
 ---
 # Liublino unija (1569 m.)
 
@@ -46,7 +45,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-169842"></a>
 - t-001
   global_id: t-169842
@@ -278,6 +276,26 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Lenkija: llm_allowed_candidate, place
   ryšio_targeto_parinkimas: Abiejų Tautų Respublika: llm_allowed_candidate, group
   ryšio_paaiskinimas: Citata tiesiogiai sieja Lenkiją su jungtine Abiejų Tautų Respublika.
+
+<a id="claim-t-188373"></a>
+- t-014
+  global_id: t-188373
+  teiginys: 'Narbutas lietuvių politinę ir kultūrinę raidą apžvelgė nuo seniausių laikų iki 1569 m. Liublino unijos.'
+  pagrindžia:
+    - c-011
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 10053-10357; hash=1d8472d19397a11d6c830e5a41081508515ec5dfbdcc71f60e75371d1ad746d2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liublinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liublino unija (1569 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Liublinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liublino unija (1569 m.)" parinktas kaip owner_note_path. Targetas "Liublinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Abiejų tautų seimas.md#claim-t-189511|Abiejų tautų seimas (seimas, XVI a.)]]: Narbutas abiejų tautų seimą tapatino su Liublino unija ir siejo jį su tų metų pabaiga.
 - susijęs iš [[objektai/posakiai/„Šventos santuokos“.md#claim-t-183516|„Šventos santuokos“]]: „Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.
 - susijęs iš [[objektai/posakiai/„Šventos santuokos“.md#claim-t-67328|„Šventos santuokos“]]: „Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.
 - susijęs iš Liublino unijos aktas (1569 m.): 1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.
@@ -289,7 +307,6 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178841|Kryžiuočių ordinas]]: 1410 m. Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną.
 - susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Liublino unijos metu lenkai ir Žygimantas Augustas spaudė LDK atstovus, siekdami panaikinti valstybingumą ir atplėšti teritorijų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -492,3 +509,19 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+- c-011
+  santrauka: 'Narbutas lietuvių politinę ir kultūrinę raidą apžvelgė nuo seniausių laikų iki 1569 m. Liublino unijos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
+    dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai
+    savarankiškos LDK egzistavimo pabaiga. T. Narbutas, sekda­
+    mas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­
+    litiniams įvykiams ir pagal juos suskirstė veikalo turinį6.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014

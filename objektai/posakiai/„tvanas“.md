@@ -87,6 +87,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 - susijęs iš [[objektai/grupes/Unitų bažnyčia unitai.md#claim-t-101480|Unitų bažnyčia unitai]]: Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms.
 - susijęs iš Rusija: XVII–XVIII a. Rusijos ir Švedijos karai prisidėjo prie Rusijos kišimosi į Lenkijos ir Lietuvos vidaus reikalus.
 - susijęs iš Švedija: Valdant Vazų dinastijai Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija 1654–1667 metais.
+- susijęs iš Švedija: Narbutas Švediją ir Daniją pateikė kaip kraštus, kuriuose prie didžiųjų šventyklų susirinkdavo gausios žmonių minios.
 ## Reikšmingi paminėjimai
 
 - c-001

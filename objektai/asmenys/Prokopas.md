@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Prokopas'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -16,7 +17,6 @@ tags:
 Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su čekų vadu Prokopu, ka­ riavo su Zigmantu, bet husitų eilėms retėjant, pradėjo derybas su popiežium ir už tą buvo išvytas iš Čekijos.
 
 ## Teiginiai
-
 <a id="claim-t-35268"></a>
 - t-001
   global_id: t-35268
@@ -36,8 +36,26 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   ryšio_targeto_parinkimas: Zigmantas (Romos imperatorius): llm_allowed_candidate, person
   ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Kaributas kariavo prieš Zigmantą.
 
-## Reikšmingi paminėjimai
+<a id="claim-t-188604"></a>
+- t-002
+  global_id: t-188604
+  teiginys: 'Narbutas Prokopą vaizduoja kaip Polocko kunigaikščio patikėtinį ir išdaviką, kurį Treniota pasiuntė į Polocką po Tautvilos nužudymo.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 361981-362619; hash=5d73ace79a00eea919dcbea90725c61ea1efbf8ce97d48f82c477ff7a6516a31; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: siunte_i -> Polockas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad Treniota pasiuntė Prokopą į Polocką.
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -55,6 +73,28 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Narbutas Prokopą vaizduoja kaip Polocko kunigaikščio patikėtinį ir išdaviką, kurį Treniota pasiuntė į Polocką po Tautvilos nužudymo.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
+    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
+    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
+    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
+    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
+    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
+    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
+    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­
+    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
+    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
+    imtus bajorus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 - [[objektai/asmenys/Kaributas]] buvo_sajungininkas_su Prokopas

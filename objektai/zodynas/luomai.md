@@ -135,7 +135,7 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - susijęs iš [[objektai/zodynas/luomas.md#claim-t-169919|luomas]]: Valdovas prašė būsimo įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal aprašytą tvarką.
 - susijęs iš [[objektai/zodynas/luomas.md#claim-t-184620|luomas]]: Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo.
 - susijęs iš [[objektai/zodynas/luomas.md#claim-t-184621|luomas]]: Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas]]: Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
 - susijęs iš [[objektai/asmenys/Jurgis Chodkevičius.md#claim-t-184746|Jurgis Chodkevičius]]: Bresto seimo pradžioje Jurgis Chodkevičius paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184750|Kazimieras Jogailaitis]]: Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/ivykiai/Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas.md#claim-t-185798|Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas]]: Kol karalius buvo išvykęs, Bogdanas smarkiai nuniokojo Rusią, sudegino kelis miestus ir daugybę bažnyčių.

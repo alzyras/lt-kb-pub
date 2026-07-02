@@ -62,10 +62,9 @@ Krokuvos vaivada Jaranda iš Brudzevo buvo įtrauktas į senato pasiuntinybę, i
     gimantą į Lietuvos didžiuosius kunigaikščius.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
 

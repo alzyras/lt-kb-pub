@@ -5,16 +5,17 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos: []
 date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
 amziai: []
 periodo_grupes: []
+tags:
+  - asmuo
 ---
 # Jadvyga
 
@@ -23,7 +24,6 @@ periodo_grupes: []
 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.
 
 ## Teiginiai
-
 <a id="claim-t-176407"></a>
 - t-001
   global_id: t-176407
@@ -106,6 +106,25 @@ periodo_grupes: []
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]'
   pagrindžia:
     - c-005
+
+<a id="claim-t-188538"></a>
+- t-006
+  global_id: t-188538
+  teiginys: 'Narbutas vaizduoja, kad Lenkijos karalienės Jadvygos santuoka su Vladislovu per vieną dieną pasiekė Lietuvos krikščioninimo lūžį.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 704054-704726; hash=2a9bac7b75e3f46fd4b125ce692a66ee575142a7c9f32a0ec66bc4174c793bc5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jadvyga: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186714|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogailos krikštas įvyko 1386 m. vasario 15 d., jungtuvės su Jadvyga vasario 18 d., o vainikavimas kovo 4 d.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186715|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą ir kovo 4 d. vainikuotas Lenkijos karaliumi.
 - susijęs iš Jadvygos laiškas Vytautui (1398 m.): 1398 m. Jadvygos laišku Vytautui reikalauta mokėti metinį činšą už Lietuvos ir Rusijos žemes, laikytas jos kraičiu.
@@ -125,6 +144,7 @@ periodo_grupes: []
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173238|Vladislovas Jogaila]]: Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186714|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogailos krikštas įvyko 1386 m. vasario 15 d., jungtuvės su Jadvyga vasario 18 d., o vainikavimas kovo 4 d.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186715|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą ir kovo 4 d. vainikuotas Lenkijos karaliumi.
+- susijęs iš [[objektai/ivykiai/Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai.md#claim-t-189604|Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai (krikštas, XIII–XIV a.)]]: Narbutas Mindaugo–1386 m. laikotarpį užbaigia Lietuvos krikščionybės įvedimu, Jogailos vedybomis su Jadvyga ir tautos vertimu krikštytis.
 - susijęs iš [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.).md#claim-t-35878|Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]: 1421 m. Jogailos dukra Jadvyga buvo sužieduota su devynerių metų Brandenburgo markgrafo sūnumi Fridriku.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.).md#claim-t-28877|Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.)]]: 1393 m. Vytauto ir Skirgailos ginčui spręsti Jogaila ir Jadvyga nuvyko į Vilnių.
 - susijęs iš Jadvygos laiškas Vytautui (1398 m.): 1398 m. Jadvygos laišku Vytautui reikalauta mokėti metinį činšą už Lietuvos ir Rusijos žemes, laikytas jos kraičiu.
@@ -179,7 +199,6 @@ periodo_grupes: []
 - susijęs iš Jadvygos laiškas Vytautui (1398 m.): 1398 m. Jadvygos laišku Vytautui reikalauta mokėti metinį činšą už Lietuvos ir Rusijos žemes, laikytas jos kraičiu.
 - susijęs iš Jadvygos laiškas Vytautui (1398 m.): Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusijos žemės, kurias Jogaila valdė prieš ją vesdamas, buvusios užrašytos jai kraičiu, todėl reikalavo iš Vytauto metinio činšo.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1388–1389 m. Algirdaitis dviem raštais prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -268,6 +287,29 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Narbutas vaizduoja, kad Lenkijos karalienės Jadvygos santuoka su Vladislovu per vieną dieną pasiekė Lietuvos krikščioninimo lūžį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pasakiau „stebuklingu būdu“, kadangi apaš­
+    tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
+    kinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių
+    riterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus
+    patrauklumas. Lenkijos karalienės Jadvygos ranka, paduota
+    Vladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­
+    rius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija
+    jo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­
+    nyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie
+    didžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri
+    jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
+    džių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 - Jadvyga keliavo_i [[objektai/vietos/Vilnius]]

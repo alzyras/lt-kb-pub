@@ -176,13 +176,11 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'JAV buvo viena iš šalių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -197,13 +195,11 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     Šveicarijoje, Vatikane.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
-
 - c-003
   santrauka: 'JAV įvestos imigracijos kvotos skatino neprasigyvenusius smulkius mažažemius valstiečius emigruoti daugiausia į Pietų Amerikos šalis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -216,13 +212,11 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-006
-
 - c-004
   santrauka: '1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -236,14 +230,12 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     bėgėlių bei tremtinių).
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-004
     - t-001
-
 - c-005
   santrauka: 'JAV veikė didžiausia lietuvių išeivijos dalis ir svarbiausios organizacijos: ALT, PLB bei iš Europos persikėlęs VLIK.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -258,13 +250,11 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     riausiasis Lietuvos išlaisvinimo komitetas (VLIK).
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-007
-
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -277,10 +267,9 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     tuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-005
     - t-008

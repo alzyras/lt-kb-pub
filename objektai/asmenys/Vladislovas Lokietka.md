@@ -190,12 +190,14 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   ryšio_subjekto_parinkimas: Vladislovas Lokietka: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=10
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Lokietka" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176333|Gediminas]]: Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176333|Gediminas]]: Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176333|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176333|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40516|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus.
 - susijęs iš [[objektai/asmenys/Aleksandras Narimantaitis.md#claim-t-186175|Aleksandras Narimantaitis]]: Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
 - susijęs iš [[objektai/asmenys/Andrius Kopernikas.md#claim-t-87483|Andrius Kopernikas]]: Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.
 - susijęs iš [[objektai/asmenys/Fabianas (Varmės vyskupas).md#claim-t-87666|Fabianas (Varmės vyskupas)]]: Fabianas buvo Varmės vyskupas, kurio išrinkimą Žygimantas sutiko pripažinti galiojančiu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188533|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas, remdamasis Strijkovskiu, mini, kad 1302 m. Gediminas suteikė herbą Krunevičiui.
+- susijęs iš [[objektai/asmenys/Jeronimas Prahiškis.md#claim-t-190013|Jeronimas Prahiškis]]: Narbutas cituoja žinią, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis rašė apie pirmųjų sutiktų lietuvių žalčių garbinimą.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113836|Julijona (Vytauto žmona)]]: 1426 m. Julijona jau metus sirgo, o ligai paūmėjus, pasak laiško, visiškai negalėjo valgyti.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113840|Julijona (Vytauto žmona)]]: 1426 m. Julijona jau metus sirgo, o jos liga buvo taip paūmėjusi, kad ji visiškai negalėjo valgyti.
 - susijęs iš [[objektai/asmenys/Jurgis Narimantaitis.md#claim-t-186119|Jurgis Narimantaitis]]: Lenkijos karalius Kazimieras paliko visą Belzo kunigaikštystę Jurgiui Narimantaičiui.
@@ -205,6 +207,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - susijęs iš [[objektai/autoriai/Johannes Voigt Foigtas.md#claim-t-87937|Johannes Voigt Foigtas]]: Foigtas Marienburgo istorijoje rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo sergančiai žmonai Julijonai.
 - susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186819|Karūna]]: Komentare nurodoma, kad šiame šaltinyje minima legenda, kad Vytauto vainikas buvo sulydytas į Krokuvos vyskupų mitrą; Šiame gabale Vytauto karūna minima kaip vėlyvesnių politinių pretenzijų ir atminties objektas.
 - susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86737|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu.
+- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio žalčių sunaikinimas ir viešas sudeginimas.md#claim-t-189628|Jeronimo Prahiškio žalčių sunaikinimas ir viešas sudeginimas]]: Narbutas rašo, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis pirmuosius sutiktus lietuvius siejo su žalčių garbinimu.
 - susijęs iš [[objektai/ivykiai/Lietuvos ginkluota pagalba Prūsijai prieš Boleslovą Narsųjį.md#claim-t-185815|Lietuvos ginkluota pagalba Prūsijai prieš Boleslovą Narsųjį]]: Speros valdymo metais lietuviai kelis kartus siuntė ginkluotą pagalbą Prūsijai, kai ją puldinėjo Lenkijos karalius Boleslovas Narsusis.
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186763|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono atvykimas į Kolomyją datuojamas 1485 m. rugsėjo 6-12 d.
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186764|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje datuojama 1485 m. rugsėjo 15 d.
@@ -409,9 +412,9 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     - t-010
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] buvo_sajungininkas_su Vladislovas Lokietka
-- Vladislovas Lokietka buvo_sajungininkas_su [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] buvo_sajungininkas_su Vladislovas Lokietka
+- Vladislovas Lokietka buvo_sajungininkas_su [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Vladislovas Lokietka kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
 - Vladislovas Lokietka puole [[objektai/vietos/Kulmas]]
-- [[objektai/asmenys/Gediminas]] reme Vladislovas Lokietka
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] reme Vladislovas Lokietka
 - Vladislovas Lokietka surenge_zygi_i [[objektai/vietos/Kulmas]]

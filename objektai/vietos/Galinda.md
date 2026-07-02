@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Galinda'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,7 +18,6 @@ tags:
 Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad olštiną) vakaruose iki Nagutino (Negocino) ir Snervų ežerų rytuose (rytinė siena su jotvingiais nėra aiški; galindų žemės galėjo būti ir už šių ežerų, iki Lego upės); siena su Barta ėjo kiek į šiaurę nuo dab.
 
 ## Teiginiai
-
 <a id="claim-t-58550"></a>
 - t-001
   global_id: t-58550
@@ -57,12 +57,32 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   ryšio_subjekto_parinkimas: Galindai: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Galinda: llm_allowed_candidate, place
   ryšio_paaiskinimas: Formuluotė „galindų žemės“ leidžia sieti galindus su Galindos teritorija, bet tai nėra tiesioginė gyvenimo vietos formuluotė.
+
+<a id="claim-t-188692"></a>
+- t-003
+  global_id: t-188692
+  teiginys: 'Narbutas pasakojo, kad supykdyti kaimynai nuniokojo Galindą taip, jog kraštas daugeliui metų liko beveik negyvenamas.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 533129-533482; hash=11ce05ef6e749162c8c332c43db964609281b637de8aae5f5ecf2e95f05abb6f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krikščionys: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Galinda: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krikščionys: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Galinda" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91904|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.
 - susijęs iš [[objektai/posakiai/Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis.md#claim-t-89590|Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis]]: Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos kaimyninės gentys įsibrovė į Galindą.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59953|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.
 - susijęs iš [[objektai/autoriai/J. Poverskis.md#claim-t-64635|J. Poverskis]]: J. Poverskis manė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60508|Powierski J]]: J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.
 - susijęs iš [[objektai/grupes/Galindai.md#claim-t-183881|Galindai]]: Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui.
+- susijęs iš [[objektai/grupes/Galindai.md#claim-t-188186|Galindai]]: Narbutas pasakojo, kad po galindų žygio krikščionys juos išmušė, o supykdyti kaimynai nuniokojo Galindą beveik iki negyvenamos šalies.
 - susijęs iš [[objektai/grupes/Galindai.md#claim-t-65156|Galindai]]: Dusburgiečio pasakojime galindų pagausėjo tiek, kad jų žemė nebegalėjo jų išmaitinti.
 - susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91904|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.
 - susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91905|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Manoma, kad Galindos žemės nusiaubimą daugiausia lėmė XI-XIII a. pradžios pasienio karai, ypač su Lenkija.
@@ -76,6 +96,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš [[objektai/posakiai/Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą.md#claim-t-59099|Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą]]: Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui.
 - susijęs iš [[objektai/posakiai/Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis.md#claim-t-89591|Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis]]: Pabėgę belaisviai krikščionims pranešė, kad netikėlių kariuomenė neturėjo ginklų ir kitų gynimosi priemonių.
 - susijęs iš [[objektai/posakiai/daugindamiesi kaip grybai po lietaus.md#claim-t-59086|daugindamiesi kaip grybai po lietaus]]: Dusburgietis rašė, kad galindai, daugindamiesi kaip grybai po lietaus, perpildė savo žemę ir nebegalėjo joje išsimaitinti.
+- susijęs iš [[objektai/posakiai/dievų valia visi turi be ginklų ir be jokių šarvų užpulti Mazovijos šalį.md#claim-t-189558|dievų valia visi turi be ginklų ir be jokių šarvų užpulti Mazovijos šalį]]: Narbuto pasakojime pranašė paskelbė, kad dievų valia krašto vyrai be ginklų ir šarvų turi pulti Mazoviją, kur jų laukiąs didelis laimikis.
 - susijęs iš Bartenšteinas: Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš Bartenšteinas: Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš Brunsbergas: Pasak Dusburgiečio, kai kurių teigimu Varmėje ilgainiui buvo pastatytos Brunsbergo ir Heilsbergo pilys.
@@ -88,7 +109,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58820|šeimyna familia domus]]: Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59953|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Petro Dusburgiečio kronikoje Galinda įvardyta kaip viena iš vienuolikos Prūsijos žemės dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -124,6 +144,24 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Narbutas pasakojo, kad supykdyti kaimynai nuniokojo Galindą taip, jog kraštas daugeliui metų liko beveik negyvenamas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šie, patikėję žynės žodžiu, tuojau sutelkė
+    vyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,
+    baisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.
+    Tačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­
+    sus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­
+    niokojo, kad Galinda daugeliui metų paliko beveik negyve­
+    nama.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 - [[objektai/grupes/Sūduviai]] puole Galinda

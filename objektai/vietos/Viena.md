@@ -7,20 +7,22 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
+  - '1405 m.'
   - '1683 m.'
   - '1936 m.'
   - '2026 m.'
-date_start: '1683'
+date_start: '1405'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
+  - 'XXI'
 tags:
   - mūšis
   - vieta
-amziai:
-  - 'XVII'
-  - 'XXI'
 ---
 # Viena
 
@@ -29,7 +31,6 @@ amziai:
 Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.
 
 ## Teiginiai
-
 <a id="claim-t-91446"></a>
 - t-001
   global_id: t-91446
@@ -94,22 +95,46 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   ryšio_subjekto_parinkimas: Viena: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=88
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viena" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188848"></a>
+- t-006
+  global_id: t-188848
+  teiginys: 'Narbutas rašė, kad Jeronimas, vykdamas per Lenkiją į Vieną, lenkų kunigams neatskleidė Viklifo raštų naujienos.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 712165-712684; hash=34a105bedd82f732eb0e0fd0bb1bd34701f52b75d9fad654bfd0abd846cf643b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Viena: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viena" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60005|Albrechtas iš Hageno]]: 1317 m. žygyje Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, kai vienas ginklanešys nukrito nuo žirgo.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176307|Algirdas (Lietuvos valdovas)]]: Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.
 - susijęs iš [[objektai/asmenys/B. Kolyška.md#claim-t-40054|B. Kolyška]]: Z. Sierakauskas B. Kolyškai pavedė vadovauti vienai sukilėlių kariuomenės kolonai.
 - susijęs iš [[objektai/asmenys/Balys Gajauskas.md#claim-t-18846|Balys Gajauskas]]: Sovietinė valdžia Balį Gajauską teisė kaip vieną iš disidentų, prieš kuriuos taikė represijas.
 - susijęs iš [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas).md#claim-t-60250|Bernardas (Šv. Teofrido vienuolyno abatas)]]: Bernardas, Šv. Teofrido vienuolyno abatas, 1324 m. buvo popiežiaus Jono XXII pasiųstas į Livoniją kaip legatas.
+- susijęs iš [[objektai/asmenys/Bolloysos.md#claim-t-190138|Bolloysos]]: Narbutas polemikoje mini Bolloysos kaip vieną vyriausiųjų žynių vardų, kurie kritikui kėlė įtarimą ir skambėjo neprūsiškai.
 - susijęs iš [[objektai/asmenys/Cigala iš Vienos.md#claim-t-186191|Cigala iš Vienos]]: Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius, atėmė imperatoriaus laišką ir paleido Cigalą.
 - susijęs iš [[objektai/asmenys/Dmitrijus Michailovičius.md#claim-t-87653|Dmitrijus Michailovičius]]: Rusios didysis kunigaikštis Dmitrijus Michailovičius buvo vedęs vieną iš Gedimino dukterų ir 1326 m. spalio 15 d. nužudytas totorių chano Uzbeko įsakymu.
+- susijęs iš [[objektai/asmenys/Dusburgietis.md#claim-t-190144|Dusburgietis]]: Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranašautoją, kurios pranašystėmis buvo tikima.
 - susijęs iš [[objektai/asmenys/Fiodoras Ostrogiškis.md#claim-t-186037|Fiodoras Ostrogiškis]]: Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti Podolę.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176337|Gediminas]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-183532|Gediminas]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176337|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-183532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188526|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad 1329 m. Lietuvos didysis kunigaikštis Gediminas, puldamas vieną iš kryžiuočių pilių, buvo nukautas šaunamuoju ginklu.
 - susijęs iš [[objektai/asmenys/Gerhardas.md#claim-t-60121|Gerhardas (valdovas)]]: Gerhardas gyveno Marienburgo pilyje ir prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis bei karo pabūklų meistras.
 - susijęs iš [[objektai/asmenys/Geroldzekas iš Švabijos.md#claim-t-87679|Geroldzekas iš Švabijos]]: 1322 m. žiemą grafas Geroldzekas iš Švabijos vedė vieną iš atskirų kryžiuočių ekspedicijos į Prūsiją pulkų.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113787|Goštautas (vyskupas, XV a.)]]: Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
+- susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190004|Henenbergeris]]: Narbutas rašo, kad Henenbergeris apie 1584 metus tikino pats matęs senų vienaakių žmonių, siejamų su šventos upės poveikiu.
 - susijęs iš [[objektai/asmenys/Henrikas iš Kunceno.md#claim-t-59974|Henrikas iš Kunceno]]: Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui ir vienuolyne pranoko kitus brolius dorybėmis.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176430|Jadvyga Jogailienė]]: Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes.
+- susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-188538|Jadvyga]]: Narbutas vaizduoja, kad Lenkijos karalienės Jadvygos santuoka su Vladislovu per vieną dieną pasiekė Lietuvos krikščioninimo lūžį.
 - susijęs iš [[objektai/asmenys/Jonas iš Vienos.md#claim-t-60348|Jonas iš Vienos]]: Jonas iš Vienos kartu su Ragainės komtūru Erneke ir 25 ginklanešiais laivais išplaukė Lietuvos link.
 - susijęs iš [[objektai/asmenys/Jonas Čarnkovskis.md#claim-t-186218|Jonas Čarnkovskis]]: Jonas Čarnkovskis vadovavo Lenkijos pasienio kelių apsaugai ir suėmė Cigalą iš Vienos bei Zigmantą Rotą.
 - susijęs iš [[objektai/asmenys/Julijonas Dausprungas.md#claim-t-186050|Julijonas Dausprungas]]: Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip vienas iš kilmingųjų italų vadų, kurio giminės herbas buvo Kentauras.
@@ -129,49 +154,60 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54979|Ona Jogailaitė]]: Karalaitė Ona (Ona Jogailaitė) testamente paskelbta viena iš valdų, dvarų ir kito turto paveldėtojų.
 - susijęs iš [[objektai/asmenys/Palačinskas.md#claim-t-80742|Palačinskas]]: Eilinis Palačinskas bolševikų štabe nudūrė vieną komisarą.
 - susijęs iš [[objektai/asmenys/Papildomi mažesnio konteksto kandidatai iš vienos citatos.md#claim-t-87924|Papildomi mažesnio konteksto kandidatai iš vienos citatos]]: Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyzdžiu kitiems?
+- susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-188603|Patrikas (kunigaikštis, XIV a.)]]: Narbutas Patriką įvardija kaip vieną iš Kęstučio sūnų, gimusių iš žmonos, kurią Kęstutis, jo pasakojimu, vedė Naujuosiuose Trakuose.
 - susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90005|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184426|Petras I Didysis]]: Petro I Rusija buvo viena iš stiprėjančių centralizuotų valstybių, grasinusių Lenkijai ir Lietuvai.
 - susijęs iš [[objektai/asmenys/Plihta.md#claim-t-87833|Plihta]]: 1322 m. žiemą Plihta su broliu iš Čekijos vedė vieną kryžiuočių ekspedicijos į Prūsiją pulką.
 - susijęs iš [[objektai/asmenys/Sarkis.md#claim-t-60064|Sarkis]]: Nelaisvėje Sarkis sutraukė pančius, nužudė vieną brolį ir tris ginklanešius, nukirto kitam ranką ir žuvo kovoje.
+- susijęs iš [[objektai/asmenys/Sigaila arba Žygimantas.md#claim-t-190208|Sigaila arba Žygimantas]]: Narbutas Sigailą, arba Žygimantą, mini kaip vieną iš Kęstučio ir jo žmonos sūnų.
+- susijęs iš [[objektai/asmenys/Skiparas.md#claim-t-190240|Skiparas]]: Skiparas, citatoje pateiktas kaip Skipor, 1483 metais prispaudė vieną iš aštuonių antspaudų su žalčiais.
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101709|Stasys Raštikis]]: Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai.
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101714|Stasys Raštikis]]: Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai.
+- susijęs iš [[objektai/asmenys/Stecevičius.md#claim-t-190245|Stecevičius]]: Stecevičius 1609 metais prispaudė vieną iš Narbuto aprašytų antspaudų su žalčiais.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90039|Sventopelkas]]: Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų.
 - susijęs iš [[objektai/asmenys/Traidenis (Mazovijos kunigaikštis, 1325 m.).md#claim-t-87870|Traidenis (Mazovijos kunigaikštis, 1325 m.)]]: Traidenis 1325 m. viešpatavo vienoje iš Mazovijos žemių kartu su kunigaikščiu Ziemovitu.
 - susijęs iš [[objektai/asmenys/V. Vitkauskas.md#claim-t-19300|V. Vitkauskas]]: Kariuomenės vadas generolas V. Vitkauskas motyvavo, kad Lietuva viena negali rimčiau pasipriešinti sovietų karinei mašinai.
+- susijęs iš [[objektai/asmenys/Valatkevičius.md#claim-t-190248|Valatkevičius]]: Valatkevičius (Wotodkiewicz) 1513 metais prispaudė vieną iš Narbuto aprašytų aštuonių antspaudų su žalčiais.
 - susijęs iš [[objektai/asmenys/Valdas Adamkus.md#claim-t-64206|Valdas Adamkus]]: Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Adamkus, ir po 2000 m. Seimo rinkimų, kuriuose nė vienai partijai nepavyko pasiekti įtikinamos pergalės, todėl atėjo nauja koalicinių vyriausybių era.
 - susijęs iš [[objektai/asmenys/Viktoras Petkus.md#claim-t-19314|Viktoras Petkus]]: Sovietinė valdžia suėmė ir nuteisė Viktorą Petkų kaip vieną iš disidentų.
 - susijęs iš [[objektai/asmenys/Vladislovas (Mykolo Balinskio sūnus).md#claim-t-87885|Vladislovas (Mykolo Balinskio sūnus)]]: Vladislovo savižudybė buvo viena iš nelaimių šeimoje, pagreitinusių M. Balinskio sugrįžimą į Lietuvą 1848 m.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176705|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautui priskiriama pirmoji vienos Žemaitijos bažnyčios fundacija po krikščionybės įvedimo.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176748|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184885|Vytenis]]: Lietuvai atsigavus po smūgio, Vytenis vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184885|Vytenis (valdovas, XIII–XIV a.)]]: Lietuvai atsigavus po smūgio, Vytenis vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176855|Zbignievas Olesnickis]]: Zbignievas Olesnickis pasisiūlė būti vienu iš lenkų atstovų, vykusių kartu su Jogaila į Lietuvą.
 - susijęs iš [[objektai/asmenys/Zigmantas Rotas.md#claim-t-186270|Zigmantas Rotas]]: Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėmė imperatoriaus laišką ir paleido juos laisvėn.
+- susijęs iš [[objektai/asmenys/Zubas.md#claim-t-190249|Zubas]]: Narbutas IV lentelėje nurodo, kad Zubas 1480 m. prispaudė vieną iš aštuonių antspaudų su žalčiais.
+- susijęs iš [[objektai/asmenys/Čeplė.md#claim-t-190250|Čeplė]]: Narbutas IV lentelėje nurodo, kad Čeplė 1541 m. prispaudė vieną iš aštuonių antspaudų su žalčiais.
 - susijęs iš [[objektai/asmenys/Čupurva.md#claim-t-87897|Čupurva]]: 1396 m. Vilniuje Čupurva minėtas kaip viena iš dvaro maršalkų, dalyvavusių akto sudaryme.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179697|Švitrigaila]]: Švitrigaila su didžiuoju magistru turėjo nutraukti Vilniaus apgultį, kai vienuolis išdavė jų sumanymą pilies įgulai.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179719|Švitrigaila]]: Švitrigailos bandymas užimti Vilnių žlugo, kai vienuolis išdavė jo sumanymą pilies įgulos vadui.
 - susijęs iš [[objektai/autoriai/Aldona Bieliūnienė.md#claim-t-183340|Aldona Bieliūnienė]]: Aldona Bieliūnienė buvo viena iš 2011 m. antrojo papildyto leidinio „Lietuva žemėlapiuose“ sudarytojų.
-- susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-187936|Antanas Marcinovskis]]: Įvado autorė Antaną Marcinovskį vadina Vilniaus literatu, redaktoriumi, spaustuvės savininku ir vienu ryškiausių to meto intelektualų.
+- susijęs iš [[objektai/autoriai/Beli (Bayle).md#claim-t-190414|Beli (Bayle)]]: Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip vieną iš naudotų šaltinių.
 - susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45612|Grigorijus Camblakas]]: Grigorijus Camblakas buvo vienas žymiausių to meto stačiatikybės teologų.
 - susijęs iš [[objektai/autoriai/Irena Katilienė.md#claim-t-55007|Irena Katilienė]]: Irena Katilienė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių.
 - susijęs iš [[objektai/autoriai/Irena Zujienė.md#claim-t-26474|Irena Zujienė]]: Irena Zujienė buvo viena iš knygos „The history of Lithuania before 1795“ vertėjų.
 - susijęs iš [[objektai/autoriai/J. Jakštas.md#claim-t-100099|J. Jakštas]]: J. Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje viduramžių istorijoje, kurią docento teisėmis dėstė Vilniaus universitete 1940–1944 m.
 - susijęs iš [[objektai/autoriai/Józef Wolff.md#claim-t-11263|Józef Wolff]]: Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.
 - susijęs iš [[objektai/autoriai/Jūratė Dalia Baronienė.md#claim-t-55008|Jūratė Dalia Baronienė]]: Jūratė Dalia Baronienė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių.
+- susijęs iš [[objektai/autoriai/Kasparas Hennenbergeris.md#claim-t-190305|Kasparas Hennenbergeris]]: Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų vienaakių žmonių prie Šventainės upės.
 - susijęs iš [[objektai/autoriai/M. Tumler.md#claim-t-30851|M. Tumler]]: M. Tumleris 1955 m. Vienoje išleido veikalą „Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400“.
 - susijęs iš [[objektai/autoriai/Ona Slavėnaitė.md#claim-t-55018|Ona Slavėnaitė]]: Ona Slavėnaitė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių.
 - susijęs iš [[objektai/autoriai/P. Pakarklis.md#claim-t-97208|P. Pakarklis]]: P. Pakarklis plėtojo mintį, kad Pavyslio, Rytprūsių ir Lietuvos gyventojus siejo bendra kalba, tikyba ir politinis vienetas.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188463|Petras Dusburgietis]]: Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną prūsų moterį pranašautoją.
 - susijęs iš [[objektai/autoriai/V. O. Ključevskis.md#claim-t-97231|V. O. Ključevskis]]: V. O. Ključevskis platų rytinių slavų kolonizavimąsi laikė viena būdingiausių jų istorijos raidos žymių.
 - susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75431|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.
 - susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75432|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.
 - susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75434|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.
 - susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75437|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.
 - susijęs iš [[objektai/daiktai/Akademijos spaustuvės spaudmenys, popierius ir knygų egzemplioriai.md#claim-t-87069|Akademijos spaustuvės spaudmenys, popierius ir knygų egzemplioriai]]: Akademijos spaustuvė nuo kiekvienos naujai išspausdintos knygos turėjo duoti po vieną egzempliorių Lietuvos kancleriams ir Viešajai bibliotekai.
+- susijęs iš [[objektai/daiktai/Buthas.md#claim-t-189677|Buthas]]: Narbutas Buthą aprašo kaip paprasto dvasininko ar vaidilos teisėjo galią žymėjusią ąžuolinę lazdą su kreiva šaka ir vienu kutu.
 - susijęs iš [[objektai/daiktai/Pistoletas.md#claim-t-40752|Pistoletas]]: Lenkas negalėjo panaudoti pistoleto, nes viena ranka laikė pavadžius, o kita kardą.
 - susijęs iš [[objektai/daiktai/Pjūklai.md#claim-t-59701|Pjūklai]]: Kaimiečiai pjūklais papjovė medžius miškuose, kad grįžtančius vengrus užgriūtų vienas kitą parbloškiantys medžiai.
 - susijęs iš [[objektai/daiktai/Seidokas.md#claim-t-08328|Seidokas]]: Kareiviui į kapą dėjo seidoką arba svilksnį kaip vieną iš įkapių.
 - susijęs iš [[objektai/daiktai/Vaikių pilis ir aplinkiniai pastatai.md#claim-t-87095|Vaikių pilis ir aplinkiniai pastatai]]: Vaikių krašte šventoji giria, netoliese stovėjusi pilis ir aplinkiniai pastatai per vieną naktį buvo sudeginti iki pamatų.
 - susijęs iš [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje.md#claim-t-87016|Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]: 1390 m. Vilniaus apgultyje vienai iš trijų miesto pilių, vadintai Krautuvių pilimi, vadovavo Jogailos brolis Kazimieras Karigaila.
 - susijęs iš [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje.md#claim-t-87067|Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]: 1394 m. Švitrigaila mėgino užimti Vilnių, įkalbėdamas vienuolius padegti du medinius bokštus puolimo metu.
+- susijęs iš [[objektai/daiktai/Šaurų dvaro muziejaus eksponatai.md#claim-t-189705|Šaurų dvaro muziejaus eksponatai]]: Rusijos valdžiai sekvestravus Šaurų dvarą, jo muziejaus eksponatai, knygos ir archyvai buvo suvežti į vieną Vilniaus bažnyčią.
 - susijęs iš [[objektai/grupes/Amerikos lietuvių taryba.md#claim-t-23465|Amerikos lietuvių taryba (institucija)]]: Amerikos lietuvių taryba, įsteigta 1940 m., buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų.
 - susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88522|Armėnai]]: LDK katalikai armėnai buvo laikomi viena iš „tarpininkaujančių mažumų“.
 - susijęs iš [[objektai/grupes/Bajorijos konfederacija.md#claim-t-72035|Bajorijos konfederacija]]: Varšuvoje susidariusi bajorijos konfederacija siekė sujungti visas buvusios Respublikos žemes į vieną kūną.
@@ -196,12 +232,15 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/grupes/NKGB.md#claim-t-65924|NKGB]]: Tigras pirmaisiais šūviais nukovė tris NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir dar vieną rusų karininką.
 - susijęs iš [[objektai/grupes/Oginskiai.md#claim-t-19958|Oginskiai]]: XVI a. Oginskiai buvo viena iš įtakingų rusėnų kilmės giminių, laikiusių save LDK piliečiais.
 - susijęs iš [[objektai/grupes/Pasaulio lietuvių bendruomenė.md#claim-t-19960|Pasaulio lietuvių bendruomenė]]: Pasaulio lietuvių bendruomenė buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188319|Prūsai]]: Narbutas rašo, kad kitas tautinis prūsų herbas vaizdavo dvi karališkas karūnas vieną virš kitos, o apatinė karūna buvo apversta.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-190617|Prūsai]]: Narbutas prūsus laiko vienos kilties ir vienos genties broliais su Lietuva.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74905|Rusėnai]]: LDK rusėnai save vadino rusais, suvokė kaip vieną etninę grupę ir Lietuvos valdovą laikė savu valdovu.
 - susijęs iš [[objektai/grupes/Rytas.md#claim-t-01471|Rytas]]: Vilniuje įkurta švietimo draugija „Rytas“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų.
 - susijęs iš [[objektai/grupes/Rytas.md#claim-t-182921|Rytas]]: Vilniuje veikęs „Rytas“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.
 - susijęs iš [[objektai/grupes/Sanguškos.md#claim-t-183181|Sanguškos]]: Sanguškos kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
 - susijęs iš [[objektai/grupes/Sanguškos.md#claim-t-20002|Sanguškos]]: Sanguškos kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
 - susijęs iš [[objektai/grupes/Saulė.md#claim-t-168658|Saulė]]: „Saulė“ buvo viena iš trijų ypatingos reikšmės švietimo draugijų greta Vilniaus „Ryto“ ir Marijampolės „Žiburio“.
+- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-188339|Skandinavai]]: Narbutas primena, kad skandinavų mitologijoje Išminties šaltinį valdo Mimiras, o Igdrasilis jame maitina vieną savo šaknį.
 - susijęs iš [[objektai/grupes/Sluckiai.md#claim-t-183182|Sluckiai]]: Sluckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
 - susijęs iš [[objektai/grupes/Sluckiai.md#claim-t-20013|Sluckiai]]: Sluckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74926|Sovietų Sąjunga]]: Sovietų Sąjungos vykdytos deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių po 1940 m. okupacijos ir 1944 m. reokupacijos.
@@ -230,6 +269,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-66534|Dviejų pilių sugriovimas ir Pipino žūtis]]: Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.
 - susijęs iš [[objektai/ivykiai/Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo).md#claim-t-62272|Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo)]]: 1300 m. rudenį 75 lietuviai įsibrovė į Varmės vyskupystės Glotavos valsčių ir sudegino vieną kaimą.
 - susijęs iš [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.).md#claim-t-185574|Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]: Mūšiui ilgai nesikreipiant nė į vieną pusę, Mikalojus Radvila smogė priešams į sparną ir nulėmė pergalę.
+- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio šventojo miško kirtimas.md#claim-t-189626|Jeronimo Prahiškio šventojo miško kirtimas]]: Narbutas pasakoja, kad Jeronimas Prahiškis, liepęs iškirsti šventąjį mišką, pirmas kirviu nukirto vieną aukščiausių medžių.
 - susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-59180|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų.
 - susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu.md#claim-t-185590|Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]: Kernavės susirinkime dėl Vaišvilko valdžios abi ginčo pusės triukšmavo ir užsipuldinėjo viena kitą.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.).md#claim-t-05299|Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]: XI a. rusų metraščiai mini tik du lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija.
@@ -282,6 +322,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Michał Baliński, Vilniaus miesto istorija (2007 m.): Įvade Vilnius apibūdinamas kaip beveik du amžius buvusi vienos galingiausių Šiaurės Europos šalių sostinė ir vėlesnis mokslo bei vyriausiosios valdžios centras Lietuvoje.
 - susijęs iš Ostromiro evangelija: Ostromiro evangelija buvo viena iš XI a. surašytų evangelijų, kurias turėjo Lietuvos valdiniai.
 - susijęs iš Pranešimas apie Prūsijos užkariavimą: „Pranešimo apie Prūsijos užkariavimą“ XVI a. nuorašas aptiktas Ordino archyve Vienoje.
+- susijęs iš Stenderio „Lettische Grammatik“: Narbutas cituoja Stenderio prisiminimą, kad jaunystėje dėl „tokio bergždžio būrimo“ nekaltai nubaustas vienas žmogus.
 - susijęs iš Tumler M. Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400 mit einem Abriss der Geschichte des Ordens von 1400 bis zur neuesten Zei: M. Tumlerio „Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400“ išleista Vienoje 1954 m.
 - susijęs iš Turovo evangelija: Turovo evangelija buvo viena iš XI a. surašytų evangelijų, minimų greta Ostromiro evangelijos.
 - susijęs iš Vašingtono sutartis: Vašingtono sutarties 5-asis straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus vieną Aljanso narę.
@@ -310,6 +351,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Drahočynas: Drahočynas buvo viena iš krikščioniškų Trakų kunigaikštijos sričių, kurių magistrai pasižadėjo nepulti.
 - susijęs iš Drahočynas: Drahočyno apylinkėse buvo minima Mozūrijos siena kaip viena kraštutinių valstybės ribų.
 - susijęs iš Drohičinas: Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl kurių vokiečiai sutiko laikytis taikos.
+- susijęs iš Druskininkų kapavietė: 1841 metais prie Druskininkų tik ką atkastoje kapavietėje rasta moneta, kurios vienoje pusėje buvo pavaizduoti Gediminaičių Stulpai.
 - susijęs iš Galinda: Petro Dusburgiečio kronikoje Galinda įvardyta kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Geranainys: Geranainyse veikė viena iš pijarų įkurtų mokyklų.
 - susijęs iš Gercike: Gercikė buvo viena iš Dauguvos pilių, patekusių į lietuvių įtakos sferą.
@@ -326,6 +368,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Jūros upė: Jūros upės krantu siena pasislinko vieną mylią į šiaurę, o Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui.
 - susijęs iš Kaltinėnai: 1416 metais Vytautas Kaltinėnuose pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių.
 - susijęs iš Kaltinėnai: Kaltinėnai buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai sudarė taiką su Vytautu ir ordinu.
+- susijęs iš Kaunas: Prie Kauno rastos senovinės lietuviškos monetos vienoje pusėje buvo Gediminaičių Stulpai ir neaiški raidė.
 - susijęs iš Kelmė: 1416 m. Vytautas Kelmėje pastatė vieną iš aštuonių Žemaitijos parapinių bažnyčių.
 - susijęs iš Kelmė: Vytautas Kelmėje pastatė vieną iš Žemaitijos bažnyčių, priklausiusių plačiam jo statytų bažnyčių tinklui.
 - susijęs iš Knituva: Knituva buvo viena iš septynių Žemaičių aukštumos sričių, kurių 31 atstovas darė taiką su Vytautu ir ordinu.
@@ -335,6 +378,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Krokuva: Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.
 - susijęs iš Kukenois: Kukenois buvo viena iš Dauguvos pilių, patekusių į lietuvių įtakos sferą.
 - susijęs iš Lauksodis: Lauksodyje veikė viena iš mažesnių jėzuitų mokyklų.
+- susijęs iš Leliušiai: Narbutas Leliušių kaimą mini kaip vieną iš dviejų netoli vienas kito esančių kaimų Lydos krašto Rodūnios parapijoje.
 - susijęs iš Lenkijos karalystė: Testamente Lenkijos Karalystei ir Lietuvos Didžiajai Kunigaikštystei palikta meilė, santarvė ir vienybė.
 - susijęs iš Lietuva: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
 - susijęs iš Lietuva: Lietuvai ir Lenkijai seimų konstitucijos buvo rašomos atskirai, o vienos valstybės konstitucija kitoje negaliojo be specialaus priėmimo.
@@ -356,7 +400,9 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas grįžo į Naugarduką, įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno.
 - susijęs iš Naujasis Kvidzinas: Naujasis Kvidzinas prie Kauno buvo viena iš trijų Vytauto valdžioje buvusių pilių, kurias turėjo sunaikinti.
 - susijęs iš Nesvyžius: Myro pilis prie Nesvyžiaus laikoma viena iš gotikinių LDK cerkvių stiliaus analogijų rezidencijų architektūroje.
+- susijęs iš Nevėžio šventykla: Narbutas prie Nevėžio mini šventyklą kaip vieną iš istorijoje žinomų kalnų aukurų ar šventyklų vietų.
 - susijęs iš Notanga: Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Obelių kapinynas: Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro muziejuje.
 - susijęs iš Olyka: Olyka Voluinėje kartu su Nesvyžiumi buvo vienos Radvilų šeimos šakos centras.
 - susijęs iš Ortelsburgas: Ortelsburgo apskritis buvo viena pietinės Prūsijos dalių, kurių lietuviai pasižadėjo nebepuldinėti.
 - susijęs iš Pagudė: Petro iš Dusburgo kronikoje Pagudė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.
@@ -399,8 +445,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Vysla: Kronikos įvade Vyslos žemupys nurodomas kaip viena Kryžiuočių ordino ekspansijos į baltų žemes ploto riba.
 - susijęs iš Vysla: Prūsijos žemės aprašyme Vysla minima kaip viena iš Prūsijos ribų.
 - susijęs iš Vyšnivecis: Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje.
-- susijęs iš Šaurų dvaras: Rusijos valdžia sekvestravo Šaurų dvarą, o jo knygas, archyvus ir muziejaus eksponatus suvežė į vieną Vilniaus bažnyčią.
 - susijęs iš Šeduva: Šeduvoje jėzuitai buvo įkūrę vieną iš mažesnių mokyklų.
+- susijęs iš Šventasis miškas prie Tenenio upės: Hartknochas šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje, iš kurių viena įteka į Rusnės įlanką.
 - susijęs iš Žemaitija: Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai.
 - susijęs iš [[objektai/zodynas/Kolektyvinės savigynos teisė.md#claim-t-183434|Kolektyvinės savigynos teisė]]: Vašingtono sutarties 5-ajame straipsnyje garantuojama individualios ar kolektyvinės savigynos teisė, užpuolus vieną Aljanso narę.
 - susijęs iš [[objektai/zodynas/Kolektyvinės savigynos teisė.md#claim-t-21996|Kolektyvinės savigynos teisė]]: Kolektyvinės savigynos teisė reiškia, kad ginkluoto puolimo prieš vieną Aljanso narę atveju kitos narės ateina jai į pagalbą.
@@ -420,10 +466,14 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58780|papilys]]: 1293 m. magistras užpuolė Junigedos pilį ir sudegino du jos papilius: vieną ant kalno, kitą slėnyje.
 - susijęs iš [[objektai/zodynas/patrimonia S. Petri.md#claim-t-28598|patrimonia S. Petri]]: Patrimonia S. Petri tuo metu buvo tapusi ne viena Europos šalis.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-182966|pavietas]]: Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo po vieną pakamorę žemės ribų byloms spręsti.
+- susijęs iš [[objektai/zodynas/prigimtinė religija.md#claim-t-188505|prigimtinė religija]]: Narbutas prigimtine religija vadino pirmykštį tikėjimą viena aukščiausiąja Esybe.
+- susijęs iš [[objektai/zodynas/religija prigimtinė religija.md#claim-t-189326|religija prigimtinė religija]]: Narbutas prigimtine religija vadino pirmykštį tikėjimą viena aukščiausiąja Esybe.
 - susijęs iš [[objektai/zodynas/Žemlionis.md#claim-t-70425|žemlionis]]: Žemlioniu vadintas kiemas, karo metu pagal turimą žemę išleidęs vieną ar kelis raitus kareivius.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185333|žygūnas]]: Jedlnioje lenkų seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai neprasmuktų nė viena kryptimi.
 - susijęs iš [[objektai/asmenys/A. Chlapovskis.md#claim-t-39465|A. Chlapovskis]]: Gen. A. Gelgaudas pavedė gen. A. Chlapovskiui organizuoti sukilėlių kariuomenės atsitraukimą.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77979|A. Smetona]]: 1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.
+- susijęs iš [[objektai/asmenys/Abraomas.md#claim-t-188508|Abraomas]]: Senovės Rytų legendose Abraomui priskiriamas kipariso, eglės ir kedro pasodinimas.
+- susijęs iš [[objektai/asmenys/Abraomas.md#claim-t-188509|Abraomas]]: Narbutas perteikia Izidoro pasakojimą, kad Mamrės lygumose matytas šventu laikytas ąžuolas, po kuriuo Abraomas statęs palapines.
 - susijęs iš [[objektai/asmenys/Adomas Jakštas-Dambrauskas.md#claim-t-18757|Adomas Jakštas-Dambrauskas]]: 1902 m. Adomas Jakštas-Dambrauskas lenkiškai išleido knygelę apie jaunosios lietuvių kartos siekius ir programą.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60004|Albrechtas iš Hageno]]: Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
@@ -455,6 +505,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Berlevinas.md#claim-t-60247|Berlevinas]]: Naujasis maršalas brolis Berlevinas pasipriešino Ditricho siūlymui pulti likusią priešų kariuomenės dalį prie pelkės.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59880|Bertoldas, vadinamas Briuhavenu]]: 1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.
 - susijęs iš [[objektai/asmenys/Bertoldas.md#claim-t-87485|Bertoldas]]: Dvasininkas Bertoldas buvo smurtu paimtas ir žiauriai nužudytas savo namuose Rygos mieste.
+- susijęs iš [[objektai/asmenys/Blinde.md#claim-t-190086|Blinde]]: Narbutas pasakoja legendą, kad moteris Blindė galėjo gimdyti iš įvairių kūno dalių, o žemės pavydas ją pavertė blindės medžiu.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184679|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas Viznoje laikė lietuvių įgulą, nors mozūrai ir kryžiuočiai tuo metu buvo sudarę sąjungą.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-89678|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščionių ir lietuvių.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-89680|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas po Vytenio įsiveržimo į Lenkiją sudarė laikinas paliaubas tarp krikščionių ir lietuvių.
@@ -480,6 +531,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184432|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.
 - susijęs iš [[objektai/asmenys/Ernekė.md#claim-t-60112|Ernekė]]: Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link.
 - susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-169963|Ernestas Galvanauskas]]: Ernestas Galvanauskas planavo paruošti Klaipėdos akcijos politinę apsaugą ir diplomatinę gynybą.
+- susijęs iš [[objektai/asmenys/Filimeras.md#claim-t-190149|Filimeras]]: Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, išėjusiomis į rytus valdant Filimerui arba kiek vėliau.
 - susijęs iš [[objektai/asmenys/Flekenšteinas.md#claim-t-60275|Flekenšteinas]]: Brolis Flekenšteinas iš Reino krašto į Brandenburgo pilį atgabeno Viešpaties kryžiaus atskalą.
 - susijęs iš [[objektai/asmenys/Fransua Miteranas.md#claim-t-46038|Fransua Miteranas]]: Prancūzijos prezidentas Fransua Miteranas surengė pirmąjį vizitą į Lietuvą.
 - susijęs iš [[objektai/asmenys/Fransua Miteranas.md#claim-t-46039|Fransua Miteranas]]: Prancūzijos prezidentas Fransua Miteranas surengė pirmąjį vizitą į Lietuvą.
@@ -490,17 +542,18 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Gadikas.md#claim-t-184066|Gadikas]]: Gadikas buvo Notangos žemės pakraščio vadas, nužudytas kartu su dviem sūnumis ir daugybe kitų žmonių.
 - susijęs iš [[objektai/asmenys/Gadikas.md#claim-t-60281|Gadikas]]: Gadikas buvo Notangos žemės pakraščio vadas, nužudytas kartu su dviem sūnumis ir daugybe kitų žmonių.
 - susijęs iš [[objektai/asmenys/Gebhardas iš Manstfeldo.md#claim-t-60284|Gebhardas iš Manstfeldo]]: Brolis Gebhardas iš Manstfeldo įmetė Viešpaties kryžiaus atskalą į ugnį, iš kurios ji iššoko daugelio žmonių akyse.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176334|Gediminas]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis yra pirmas autentiškas paliudijimas, kad Vilnius jau buvo Gedimino sostinė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176336|Gediminas]]: Popiežiaus legatai išsiuntė pasiuntinybę pas Gediminą ištirti, ar lietuvių karalius su savo žmonėmis nori priimti krikštą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176339|Gediminas]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo Gedimino sostinė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176346|Gediminas]]: Gediminas, matydamas kryžiuočius kuriantis priešais jo Veliuonos pilį, nusprendė juos iš ten išvyti.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176354|Gediminas]]: Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176363|Gediminas]]: Gediminas pranciškonams rašė pasiuntęs laišką popiežiui Jonui ir laukiantis jo pasiuntinių.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176376|Gediminas]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176381|Gediminas]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176334|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis yra pirmas autentiškas paliudijimas, kad Vilnius jau buvo Gedimino sostinė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176336|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Popiežiaus legatai išsiuntė pasiuntinybę pas Gediminą ištirti, ar lietuvių karalius su savo žmonėmis nori priimti krikštą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176339|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo Gedimino sostinė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176346|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, matydamas kryžiuočius kuriantis priešais jo Veliuonos pilį, nusprendė juos iš ten išvyti.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176354|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176361|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Šv. Kryžiaus ir dominikonų bažnyčių griuvėsiai Vilniuje buvo laikomi Gedimino palankumo krikščionybei atminimu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176363|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas pranciškonams rašė pasiuntęs laišką popiežiui Jonui ir laukiantis jo pasiuntinių.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176376|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176381|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188527|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas nurodo, kad Gediminas gimė 1257 m. iš pirmosios Vytenio žmonos.
 - susijęs iš [[objektai/asmenys/Gedūnas.md#claim-t-60016|Gedūnas]]: Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos tėvas, gerai žinojęs Sembos karių galią.
 - susijęs iš [[objektai/asmenys/Gerhardas.md#claim-t-60122|Gerhardas (valdovas)]]: Gerhardas, išsigandęs perspėjimo dėl savo gyvenimo būdo, atvyko į Prūsiją ir davė įžadus Teutonų ordinui.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184705|Germantas]]: Germantas sudarė sąjungą su lenkais, nes siekė visomis jėgomis pulti rusus.
@@ -510,6 +563,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89791|Glapas]]: Glapas, Varmių vadas, turėjo valdinį Steinavą, kurį labai mėgo ir daug kartų gelbėjo iš mirtino pavojaus.
 - susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89792|Glapas]]: Varmių vadas Glapas, gavęs pabėgusios prūsės pranešimą, su daugybe karių atvyko ir užėmė pilį.
 - susijęs iš [[objektai/asmenys/Grigalius IX.md#claim-t-79023|Grigalius IX]]: Popiežius Grigalius IX su kardinolų taryba 1235 m. nutarė suvienyti gyvus išlikusius Kristaus karių brolijos brolius su kryžiuočiais.
+- susijęs iš [[objektai/asmenys/Gvaželutis.md#claim-t-190154|Gvaželutis]]: Narbutas nurodo, kad Gvaželutis gimė 1295 metais kaip Vytenio ir jo antrosios žmonos sūnus.
+- susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190097|Hartknochas]]: Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje.
 - susijęs iš [[objektai/asmenys/Hartmanas iš Heldrungeno.md#claim-t-59966|Hartmanas iš Heldrungeno]]: Hartmanas iš Heldrungeno kartu su Konradu, Ditrichu iš Gruningeno ir keliais namiškiais buvo Teneburgo pilyje.
 - susijęs iš [[objektai/asmenys/Helvigas iš Goldbacho.md#claim-t-60024|Helvigas iš Goldbacho]]: Pagudėnai ginkluoti užpuolė Kristburgo komtūrą Helvigą iš Goldbacho, Elbingo komtūrą ir jų padėjėjus bei išsivarė juos į nelaisvę.
 - susijęs iš [[objektai/asmenys/Henrikas (Varmės vyskupas).md#claim-t-184077|Henrikas (Varmės vyskupas)]]: 1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur kronikos metu jie tebestovėjo.
@@ -550,7 +605,10 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/J. Stalinas.md#claim-t-101641|J. Stalinas]]: J. Stalino laikais okupacinė valdžia stengėsi fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-12173|Jadvyga Jogailienė]]: Lenkų karalaitė Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila.
 - susijęs iš [[objektai/asmenys/Jaranda iš Brudzevo.md#claim-t-186214|Jaranda iš Brudzevo (vyskupas)]]: Krokuvos vaivada Jaranda iš Brudzevo buvo įtrauktas į senato pasiuntinybę, išsiųstą į Lietuvą pas Žygimantą.
+- susijęs iš [[objektai/asmenys/Jargallo.md#claim-t-190229|Jargallo]]: Narbutas mini kritiko teiginį, kad Jargallo, Jaygello ir Pomoloys esą aiškiai lietuviški vardai.
+- susijęs iš [[objektai/asmenys/Jaygello.md#claim-t-190230|Jaygello]]: Narbutas mini kritiko teiginį, kad Jaygello, Jargallo ir Pomoloys esą aiškiai lietuviški vardai.
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170049|Jekaterina II]]: Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.
+- susijęs iš [[objektai/asmenys/Jeronimas Prahiškis.md#claim-t-190016|Jeronimas Prahiškis]]: Narbutas pasakoja, kad Jeronimas Prahiškis ilgai mokė žmones tikėjimo paslapčių ir liepė iškirsti šventąjį mišką.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183536|Jogaila (kunigaikštis, XIV–XV a.)]]: Pagal 1385 m. Krėvos sutartį su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184276|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila suprato, kad laisva paveldima Lietuvos karalija padėtų jam tvirtai laikytis Lenkijoje ir išlaikyti dinastijos teises.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184278|Jogaila (kunigaikštis, XIV–XV a.)]]: Istoriškai reikšmingas Vytauto veikimas prasidėjo Kęstučio kovos su Jogaila metu.
@@ -558,6 +616,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184722|Jogaila (kunigaikštis, XIV–XV a.)]]: Prieš Kęstučio kariuomenę stojęs Jogaila numanė, kad kova pareikalaus didelių aukų, todėl pirmiau bandė veikti žodžiais.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184723|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184733|Jogaila (kunigaikštis, XIV–XV a.)]]: Iš Lucko grįžęs į Lenkiją, Jogaila Korčine sukvietė seimą, kad luomai nuspręstų, kaip priešintis Vytauto siekiams.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188544|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas aprašo autorių, giriantį Vladislovą Jogailą, jo brolius ir jų nuolankumą bažnyčiai dėl lietuvių atvertimo.
 - susijęs iš [[objektai/asmenys/Johanas Gotfrydas Herderis.md#claim-t-75882|Johanas Gotfrydas Herderis]]: Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio ir kitų vokiečių romantikų mintys apie tautos dvasią liaudies kalboje ir kultūroje.
 - susijęs iš [[objektai/asmenys/Jonas (Sarginio sūnus).md#claim-t-60343|Jonas (Sarginio sūnus)]]: Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186048|Jonas Gornostajus]]: Lietuvos raštininkas Jonas Gornostajus karaliaus vardu atsakė į prašymus dėl valachų pasiuntinių ir Severino Norvedo.
@@ -571,6 +630,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113831|Julijona (Vytauto žmona)]]: Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už atsiųstus gėrimus.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113832|Julijona (Vytauto žmona)]]: Vytauto žmona Julijona, Algimanto Alšėniškio duktė, išpažino graikų apeigų tikėjimą ir turėjo koplyčią Trakų pilyje.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113834|Julijona (Vytauto žmona)]]: Algimanto Alšėniškio duktė Julijona išpažino graikų apeigų tikėjimą ir Trakų pilyje turėjo koplyčią.
+- susijęs iš [[objektai/asmenys/Julijona Vitebskietė.md#claim-t-190105|Julijona Vitebskietė]]: Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaikinta Ragučio maldykla Didžiojoje gatvėje.
 - susijęs iš [[objektai/asmenys/Julijus Cezaris.md#claim-t-60034|Julijus Cezaris (vyskupas)]]: Gajus Julijus Cezaris buvo Romos valstybės veikėjas, karvedys ir rašytojas, gyvenęs 102 arba 100-44 m. pr. m. e.
 - susijęs iš [[objektai/asmenys/Juodutis.md#claim-t-60352|Juodutis]]: Juodutis buvo Naudžioto, sembų valstiečių išrinkto karvedžio, tėvas.
 - susijęs iš [[objektai/asmenys/Juozapas Ignas Kraševskis.md#claim-t-87433|Juozapas Ignas Kraševskis]]: Juozapas Ignas Kraševskis beveik tuo pat metu kaip M. Balinskis rašė savo Vilniaus miesto istoriją.
@@ -583,6 +643,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Kantigirdas.md#claim-t-60153|Kantigirdas]]: Kantigirdas buvo kilmingasis, kurio globai pateko antrą kartą į nelaisvę paimtas brolis Liudvikas.
 - susijęs iš [[objektai/asmenys/Kantigirdas.md#claim-t-60154|Kantigirdas]]: Brolis Liudvikas iš Libencelės pas magistrą Konradą atsivedė Kantigirdą, kurio anksčiau buvo paimtas į nelaisvę.
 - susijęs iš [[objektai/asmenys/Kanutas.md#claim-t-87747|Kanutas]]: Apie 880 m. Danijoje viešpatavęs karalius Kanutas įsakė dėl nederliaus kas trečią žmogų išvaryti iš valsčiaus visiems laikams.
+- susijęs iš [[objektai/asmenys/Karalius Kazimieras (1483 m. privilegijos davėjas).md#claim-t-190123|Karalius Kazimieras (1483 m. privilegijos davėjas)]]: Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katinas lietuviams buvo Lietuvos simbolis.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-184099|Kazimieras (Kujavijos kunigaikštis)]]: Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti iš Lenkijos besitraukiančių lietuvių.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63803|Kazimieras (Kujavijos kunigaikštis)]]: Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63804|Kazimieras (Kujavijos kunigaikštis)]]: Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti iš Lenkijos besitraukiančių lietuvių.
@@ -605,7 +666,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89922|Konradas, vardu Divelis]]: Petras Dusburgietis Konradą, vardu Divelį, mini tarp krikščionių plėšikautojų, kurių žygius vadino nuostabiais ir nepaprastais.
 - susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89923|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
 - susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89924|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93428|Kristijonas]]: Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.
+- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189973|Kristoforas Hartknochas]]: Hartknochas pagal senus duomenis šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje netoli Rusnės įlankos.
+- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189981|Kristoforas Hartknochas]]: Narbutas kritikavo Hartknochą, kad šis prūsų laiko skaičiavimą naktimis kildino iš spėjimų apie gotų mėgdžiojimą.
 - susijęs iš [[objektai/asmenys/Kristupas Radvila Perkūnas.md#claim-t-79100|Kristupas Radvila Perkūnas]]: Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene.
 - susijęs iš [[objektai/asmenys/Kudaras iš Sūduvos.md#claim-t-60372|Kudaras iš Sūduvos]]: Kudaras iš Sūduvos Dusburgiečio kronikoje minimas tarp krikščionių plėšikautojų, garsėjusių žygiais.
 - susijęs iš [[objektai/asmenys/Kurauskas.md#claim-t-80738|Kurauskas]]: Eilinis Kurauskas per kautynes paruošinėjo granatas, kurias pasakotojas metė į gulinčius bolševikus.
@@ -615,7 +677,9 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184767|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Henrikas Ekersbergas ietimi smogė Kęstučio arkliui iš šono, nubloškė Kęstutį nuo žirgo, ir Kęstutis pateko į priešų rankas.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184771|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis žinojo, kad Jogailos kariuomenė pranoksta jo pajėgas ginkluote ir karių skaičiumi.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184772|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
+- susijęs iš [[objektai/asmenys/Laurynas Gucevičius.md#claim-t-188577|Laurynas Gucevičius]]: Narbutas rašo, kad Šulcas tarp mirusio architekto Lauryno Gucevičiaus popierių aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.
 - susijęs iš [[objektai/asmenys/Laurynas Zaremba.md#claim-t-186139|Laurynas Zaremba]]: Senatas pasiuntė Lauryną Zarembą į Lietuvą su pasiuntinybe, įgaliota kelti Žygimantą Lietuvos didžiuoju kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Leicis.md#claim-t-190179|Leicis]]: Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merkinės valsčiaus valstiečių maištininkų vadu.
 - susijęs iš [[objektai/asmenys/Liudolfas.md#claim-t-186141|Liudolfas]]: Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado protą ir netrukus mirė.
 - susijęs iš [[objektai/asmenys/Liudvikas XVI.md#claim-t-19111|Liudvikas XVI]]: 1793 m. sausio 21 d. Prancūzijoje buvo nukirsdintas Liudvikas XVI, o sausio 23 d. Rusija ir Prūsija įvykdė antrąjį LLV padalijimą.
 - susijęs iš [[objektai/asmenys/Liudvikas iš Libencelės.md#claim-t-184110|Liudvikas iš Libencelės]]: Liudvikas iš Libencelės, būdamas nelaisvėje, į Kristaus tikėjimą atvertė tūkstantį šešis šimtus abiejų lyčių sūduvių.
@@ -646,6 +710,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113907|Mindaugas (valdovas, XIII a.)]]: Mindaugas sukūrė ankstyvosios Lietuvos valstybę, kuri suteikė galimybę išlikti lietuvių tautai.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113927|Mindaugas (valdovas, XIII a.)]]: Mindaugas sukūrė Lietuvos valstybę, kuri suteikė lietuvių tautai galimybę išlikti ir vėliau perimti Vakarų civilizaciją.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113930|Mindaugas (valdovas, XIII a.)]]: Dalis jotvingių žemių įėjo į Mindaugo valstybės sudėtį.
+- susijęs iš [[objektai/asmenys/Mnelea ir Rolandas.md#claim-t-190186|Mnelea ir Rolandas]]: Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba mirusiųjų dievus.
 - susijęs iš [[objektai/asmenys/Motiejus (Vilniaus vyskupas).md#claim-t-87446|Motiejus (Vilniaus vyskupas)]]: Vilniaus vyskupui Motiejui ir jo įpėdiniams buvo dovanotas dvaras Medininkų valsčiuje.
 - susijęs iš [[objektai/asmenys/Motiejus Kločka.md#claim-t-186070|Motiejus Kločka]]: Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi.
 - susijęs iš [[objektai/asmenys/Motiejus iš Blonios.md#claim-t-87794|Motiejus iš Blonios]]: Motiejus iš Blonios, Gniezno kanauninkas ir rūmų daktaras, iš Krokuvos atvyko gydyti sergančio Aleksandro.
@@ -653,6 +718,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184803|Mykolas Glinskis]]: Mykolas Glinskis gailėjosi savo veiksmų ir per giminaitį laišku paprašė karaliaus atleidimo.
 - susijęs iš [[objektai/asmenys/Mykolas Küchmeisteris.md#claim-t-184376|Mykolas Küchmeisteris]]: Mykolas Küchmeisteris įsikūrė Friedeburgo pilyje prie Dubysos kaip Ordino vietininkas vaitas.
 - susijęs iš [[objektai/asmenys/Mykolas Tromba.md#claim-t-35257|Mykolas Tromba]]: Kanauninkas Mykolas Trombas buvo siunčiamas pas popiežių, bet Vokietijoje jį sulaikė Habsburgai.
+- susijęs iš [[objektai/asmenys/Mykolas Šulcas.md#claim-t-190054|Mykolas Šulcas]]: Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.
 - susijęs iš [[objektai/asmenys/N. Chruščiovas.md#claim-t-19166|N. Chruščiovas]]: N. Chruščiovo laikais bažnyčia buvo diskredituojama ir morališkai spaudžiama, nors iš trėmimų vietų grįžo 130 kunigų.
 - susijęs iš [[objektai/asmenys/Nakaimas iš Pagudės.md#claim-t-60392|Nakaimas iš Pagudės]]: Nakaimas iš Pagudės minimas tarp krikščionių plėšikautojų, kurių žygius Dusburgietis vadino nuostabiais ir nepaprastais.
 - susijęs iš [[objektai/asmenys/Naudžiotas.md#claim-t-60179|Naudžiotas (karvedys)]]: Po 14 dienų Naudžiotas Karaliaučiaus pilyje atskleidė atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus.
@@ -661,6 +727,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-184116|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
 - susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-60182|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
 - susijęs iš [[objektai/asmenys/Nodamas.md#claim-t-60395|Nodamas]]: Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais ir atsisėdo Nemuno pakrantėje, siekdamas apgauti brolius.
+- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-188599|Odoakras]]: Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvusi upė Ross arba Russ vėliau vadinta Wessel.
 - susijęs iš [[objektai/asmenys/Ona (Vytauto žmona).md#claim-t-87923|Ona (Vytauto žmona)]]: Vytauto žmona Ona, Smolensko kunigaikštytė, išpažino graikų apeigų tikėjimą ir prieš Lietuvos krikštą turėjo koplyčią Trakų pilyje.
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54981|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) turėjo būti atiduotas kraitis ir tūkstantis raudonųjų vengriškų zlotų auksu.
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54983|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) buvo dovanojami karalienės Barboros apdarai, vežimai, virtuvės rykai ir manta.
@@ -677,16 +744,20 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90006|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.
 - susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90007|Petras Atsiskyrėlis]]: Pasak Dusburgiečio, Petrui Atsiskyrėliui sapne pasirodęs Jėzus Kristus įpareigojo jį kreiptis į popiežių ir Vakarų valdovus dėl Šventosios Žemės išvadavimo.
 - susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90008|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje.
+- susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190023|Petras Dusburgietis]]: Apie vieną iš jų tokį pasakojimą paliko Dusburgietis.
 - susijęs iš [[objektai/asmenys/Petras Timofiejevas Mstislavliškis.md#claim-t-87831|Petras Timofiejevas Mstislavliškis]]: 1575 m. Vilniuje Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino leidinį „Cztėry Ewangelje“.
 - susijęs iš [[objektai/asmenys/Petras Šuiskis.md#claim-t-40393|Petras Šuiskis]]: Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.
 - susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59996|Pipinas]]: Pamedės kilmingasis Pipinas gyveno pilaitėje ir su būriais puldinėjo iš pilies išėjusius krikščionis.
 - susijęs iš [[objektai/asmenys/Pomandas.md#claim-t-60194|Pomandas]]: Dusburgietis Pomandą vaizduoja kaip kilnų, prūsų gerbtą vyrą, neseniai priėmusį krikščionių tikėjimą.
+- susijęs iš [[objektai/asmenys/Pomoloys.md#claim-t-190237|Pomoloys]]: Narbutas nurodo kritiką, kuris Pomoloys vardą, drauge su Jaygello ir Jargallo, laikė aiškiai lietuvišku, ginčydamas vyriausiųjų žynių sąrašą.
 - susijęs iš [[objektai/asmenys/Popiežius Honorijus II.md#claim-t-60415|Popiežius Honorijus II]]: Popiežius Honorijus II 1218 m. organizavo didelį kryžiaus žygį į Prūsiją.
 - susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173214|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Povilas ginčijosi su Vilniaus vaitu, tarėjais ir miestiečių bendrija dėl turguje bei miesto aikštėje buvusių mėsinių.
 - susijęs iš [[objektai/asmenys/Povyda.md#claim-t-60417|Povyda]]: Povyda netrukus išvadavo Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho ir jų padėjėjus iš pagudėnų nelaisvės.
 - susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
 - susijęs iš [[objektai/asmenys/Prutenis.md#claim-t-60419|Prutenis]]: Vienoje XV a. tradicijoje Prūsijos pradžia buvo siejama su Pruteniu ir Videvučiu.
+- susijęs iš [[objektai/asmenys/Pulokolovskis.md#claim-t-190205|Pulokolovskis]]: Magistrato valdininkas Pulokolovskis 1818 m. Kaune, valydamas Perkūno namais vadintus griuvėsius, rado įmūrytą bronzinę statulėlę.
 - susijęs iš [[objektai/asmenys/Puzinienė iš Oginskių.md#claim-t-87840|Puzinienė iš Oginskių]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
+- susijęs iš [[objektai/asmenys/Rimvydas.md#claim-t-190113|Rimvydas]]: 1483 m. karaliaus Kazimiero privilegijoje bajoras Rimvydas gavo žemę prie Merkio už Merkinės valsčiaus valstiečių maišto nuslopinimą.
 - susijęs iš [[objektai/asmenys/Riurikas.md#claim-t-87845|Riurikas]]: Riurikas su variagais, autoriaus nuomone, į Rusiją galėjo būti atblokštas Petro Olai „Danų kronikoje“ aprašyto įvykio.
 - susijęs iš [[objektai/asmenys/Ruseinis.md#claim-t-60199|Ruseinis]]: Kilmingas sūduvis Ruseinis su visa šeimyna atvyko pas Baigos komtūrą ir netrukus leidosi pakrikštijamas.
 - susijęs iš [[objektai/asmenys/Russdorfas.md#claim-t-35271|Russdorfas]]: Russdorfas buvo numatytos sąjungos su Vytautu ir Zigmantu dalyvis; ši sąjunga turėjo būti nukreipta prieš Lenkiją.
@@ -709,7 +780,9 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90018|Sventopelkas]]: Sventopelkas sutelkė savo kariuomenę ir Prūsijos naujakrikščius keršyti broliams dėl jų užimtos pamedėnų pilies.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90028|Sventopelkas]]: Sventopelkas pastatė Svečės pilį ir kelis kartus kariavo prieš brolius bei Kazimierą.
 - susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40452|T. Dambrava]]: T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.
+- susijęs iš [[objektai/asmenys/Tadas Čackis.md#claim-t-190018|Tadas Čackis]]: Narbutas klaidinga vadina Tado Čackio nuomonę, kad lietuviai germanų pavyzdžiu laiką skaičiavo naktimis, o ne dienomis.
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186511|Teodoras Narbutas]]: Teodoras Narbutas rašydavo apie istorinius įvykius ir be atitinkamos faktografinės bazės.
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188641|Teodoras Narbutas]]: Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje per vadinamąjį Suomijos karą.
 - susijęs iš [[objektai/asmenys/Tigras.md#claim-t-40465|Tigras]]: Tigras pirmaisiais šūviais nukovė tris buvusius NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir rusą karininką.
 - susijęs iš [[objektai/asmenys/Tochtamyšas.md#claim-t-184841|Tochtamyšas]]: Tochtamyšas, negalėdamas įveikti Kerim Berdžio, su svarbiausiais savo šalininkais pabėgo pas Vytautą.
 - susijęs iš [[objektai/asmenys/Tochtamyšas.md#claim-t-184842|Tochtamyšas]]: Tochtamyšas Vilniuje buvo Vytauto priimtas, gavo paramos pažadą ir buvo paskelbtas Užvolgio skitų chanu.
@@ -718,6 +791,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Trobius.md#claim-t-186082|Trobius]]: Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis bus pavaldus Lietuvos didžiajam kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Vaclovas Pragiečius.md#claim-t-184287|Vaclovas Pragiečius]]: Vaclovas Pragiečius išsprendė Vytauto, Jogailos ir Ordino ginčą Lietuvos nenaudai.
 - susijęs iš [[objektai/asmenys/Vaclovas Pragiečius.md#claim-t-34764|Vaclovas Pragiečius]]: Vaclovas Pragietis ginčą tarp Vytauto, Jogailos ir Ordino išsprendė Lietuvos nenaudai, atiduodamas Žemaitiją kryžiuočiams.
+- susijęs iš [[objektai/asmenys/Vainius.md#claim-t-190216|Vainius]]: Pasak Narbuto, Vainius gimė 1296 metais kaip Lietuvos didžiojo kunigaikščio Vytenio sūnus iš antrosios žmonos.
 - susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-87412|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Vilniaus vyskupas Vaitiekus Taboras ragino ir rėmė miestiečius, apjuosusius Vilnių mūro pylimu.
 - susijęs iš [[objektai/asmenys/Valerijonas (raštininkas).md#claim-t-87465|Valerijonas (raštininkas)]]: Valerijonas pasirašė 1533 m. spalio 23 d. Vilniuje rašytą dokumentą.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114001|Valerijonas Protasevičius (vyskupas)]]: 1579 m. kovo 6 d. Valerijonas Protasevičius fundacijos teise užrašė Akademijai ir kolegijai tris mūrinius namus.
@@ -731,6 +805,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Vilhelmas Habsburgas.md#claim-t-64242|Vilhelmas Habsburgas]]: Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila.
 - susijęs iš [[objektai/asmenys/Vincentas iš Šamotulų.md#claim-t-186088|Vincentas iš Šamotulų]]: Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.
 - susijęs iš [[objektai/asmenys/Vinrichas von Kniprodė.md#claim-t-117890|Vinrichas von Kniprodė]]: Vinricho von Kniprodės valdymo laikais Prūsų ordino valstybė Europoje kėlė nusistebėjimą ir pasigėrėjimą.
+- susijęs iš [[objektai/asmenys/Vitolfas.md#claim-t-190119|Vitolfas]]: Narbutas pasakoja legendą, kad Vitolfas po žirgo praradimo grįžo su kariuomene, nugalėjo slibiną Pukį ir susitaikė su karaliumi.
 - susijęs iš [[objektai/asmenys/Vladislovas IV.md#claim-t-87592|Vladislovas IV]]: Karalienė Bona ir Vladislovas IV Veliuonos kleboniją taip gausiai apdovanojo turtais, kad ji tapo reikšmingiausia Žemaitijoje.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173247|Vladislovas Jogaila]]: Vladislovas Jogaila Vilniuje įsakė statyti Šv. Martyno ir Šv. Jono bažnyčias.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184859|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais.
@@ -742,7 +817,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176717|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Sausio 19 d. prie Gardino Ordino komtūras sudarė sutartį su Vytautu.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176732|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po suvažiavimo Vytautas įsitikino, kad su Lenkija geruoju nesusitars, ir laukė karūnos kaip valstybės laisvės ženklo.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184874|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Stovėdamas su raitija vienoje vietoje, Vytautas kasdien vis labiau juto maisto stoką.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184888|Vytenis]]: Vytenis pats atvedė pagrindines jėgas prie Karksio, po apsupties įsiveržė į įtvirtinimus ir paėmė pilį.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184888|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis pats atvedė pagrindines jėgas prie Karksio, po apsupties įsiveržė į įtvirtinimus ir paėmė pilį.
 - susijęs iš [[objektai/asmenys/Zbignevas Olesnickis.md#claim-t-184893|Zbignevas Olesnickis (vyskupas)]]: Senatas į pasiuntinybę Lietuvoje paskyrė vyskupą Zbignevą Olesnickį, Jarandą iš Brudzevo, Joną iš Lichino, Lauryną Zarembą ir kitus.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176849|Zbignievas Olesnickis]]: Jogaila Zbignievo Olesnickio ir lenkų ponų užsispyrimą laikė didžiausia kliūtimi Vytauto karūnacijai.
 - susijęs iš [[objektai/asmenys/Zborovskis.md#claim-t-186267|Zborovskis]]: Kunigaikščių dukterį išsivežus Dimitrui, jos motina maldavo lenkų didikus užtarti, ypač Kališo vaivadą Zborovskį.
@@ -752,6 +827,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Zigmantas Herberšteinas.md#claim-t-40547|Zigmantas Herberšteinas]]: Diplomatas Zigmantas Herberšteinas vėliau aprašė mūšį ir perteikė Čeliadnino žodžius apie Lietuvos kariuomenės persikėlimą.
 - susijęs iš [[objektai/asmenys/Štaubemelis.md#claim-t-60475|Štaubemelis]]: Štaubemelis minimas tarp krikščionių plėšikautojų, kurių žygius Dusburgietis vadino nuostabiais ir nepaprastais.
 - susijęs iš [[objektai/asmenys/Štenkelis iš Bentheimo.md#claim-t-60476|Štenkelis iš Bentheimo]]: Štenkelis iš Bentheimo Pokarviuose įsiveržė į notangų rikiuotę ir grįždamas buvo nukautas.
+- susijęs iš [[objektai/asmenys/Šulcas.md#claim-t-190251|Šulcas]]: Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Gucevičiaus popieriuose aptiko rankraštį apie Mildos šventyklos padavimą.
 - susijęs iš [[objektai/asmenys/Šv. Stanislovas.md#claim-t-64437|Šv. Stanislovas]]: Jogailos pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.
 - susijęs iš [[objektai/asmenys/Šventoji Barbora.md#claim-t-60080|Šventoji Barbora]]: Dusburgiečio pasakojime sena moteris broliams sakė, kad šventosios Barboros palankumas padėjo jiems laimėti.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179733|Švitrigaila]]: Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas.
@@ -760,6 +836,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/autoriai/A. Veryha-Darevskis.md#claim-t-71488|A. Veryha-Darevskis]]: A. Veryha-Darevskis nurodomas kaip veikalo „Lietuvos mokesčiai“ autorius.
 - susijęs iš [[objektai/autoriai/Al'-Idrisi.md#claim-t-30556|Al''-Idrisi]]: Al''-Idrisi, remdamasis pirklių, keliautojų ir piligrimų žiniomis, „Rogero knygoje“ minėjo rytų Pabaltijį ir galimai Kauną.
 - susijęs iš [[objektai/autoriai/Antanas Kulakauskas.md#claim-t-26605|Antanas Kulakauskas]]: Redaktoriaus žodyje Antanas Kulakauskas pristatomas kaip Vytauto Didžiojo universiteto profesorius, parašęs III skyrių apie lietuvių gyvenimą Rusijos imperijoje 1795-1915 m.
+- susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-187936|Antanas Marcinovskis]]: Įvado autorė Antaną Marcinovskį apibūdina kaip Vilniaus literatą, redaktorių, spaustuvės savininką ir ryškų to meto intelektualą.
 - susijęs iš [[objektai/autoriai/August von Kotzebue.md#claim-t-87940|August von Kotzebue]]: Kotzebue rašinyje „Switrigail“ gynė Švitrigailą, vaizduodamas jį kaip herojų ir didį žmogų.
 - susijęs iš [[objektai/autoriai/August von Kotzebue.md#claim-t-87944|August von Kotzebue]]: Michałas Balińskis Kotzebue „Prūsijos istoriją“ vadino geriausiu dokumentų vertės paliudijimu.
 - susijęs iš [[objektai/autoriai/Augustas Liudvigas Šleceris.md#claim-t-184465|Augustas Liudvigas Šleceris]]: Augustas Liudvigas Šleceris 1776 m. išleido veikalą apie Lietuvą kaip buvusią savarankišką valstybę.
@@ -768,7 +845,13 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45609|Grigorijus Camblakas]]: Vytautas paskyrė Grigorijų Camblaką į 1415 m. įkurtą LDK stačiatikių metropoliją.
 - susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45610|Grigorijus Camblakas]]: 1415 m. Vytautas įkūrė LDK stačiatikių metropoliją ir paskyrė Grigorijų Camblaką jos metropolitu.
 - susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45611|Grigorijus Camblakas]]: 1415 m. Vytautas įkūrė LDK stačiatikių metropoliją ir paskyrė Grigorijų Camblaką jos metropolitu.
+- susijęs iš [[objektai/autoriai/Izidoras.md#claim-t-190429|Izidoras]]: Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygumose matė ąžuolą, žmonių laikytą šventu.
+- susijęs iš [[objektai/autoriai/J. Lasickis.md#claim-t-188417|Jonas Lasickis]]: Narbutas rašo, kad Lasickis pateikė eiliuotos maldos pradžią apie žiemos išvarymą ir pavasario parnešimą.
+- susijęs iš [[objektai/autoriai/J. Lasickis.md#claim-t-188420|Jonas Lasickis]]: Narbutas Lasickį vadina šių apeigų liudytoju ir teigia, kad Lasickis pridūrė apie atpildą už tikėjimą.
 - susijęs iš [[objektai/autoriai/Jakštas, J.md#claim-t-71517|Jakštas, J]]: J. Jakštas paskelbė studiją apie Vokiečių ordiną ir Lietuvą Vytenio bei Gedimino laikais ir nagrinėjo Jogailos bei Vytauto kovas su Ordinu.
+- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188432|Kristupas Hartknochas]]: Narbutas rašo, kad Hartknochas pagal senus duomenis prie Žemaitijos sienos lokalizavo garsų šventąjį mišką.
+- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188434|Kristupas Hartknochas]]: Narbutas kritikuoja Hartknochą dėl neapsisprendimo, kurią iš kelių Prūsijos vietovių laikyti tikrąja Romove.
+- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-190631|Kristupas Hartknochas]]: Narbutas kritikuoja Hartknochą, kad šis prūsų laiko skaičiavimą naktimis siejo su gotų mėgdžiojimu remdamasis spėliojimais.
 - susijęs iš [[objektai/autoriai/Kazimieras Semenavičius.md#claim-t-23231|Kazimieras Semenavičius]]: K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.
 - susijęs iš [[objektai/autoriai/Kazimieras Semenavičius.md#claim-t-23233|Kazimieras Semenavičius]]: Kazimieras Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.
 - susijęs iš [[objektai/autoriai/Kotzebue.md#claim-t-88072|Kotzebue]]: Michałas Balińskis Kotzebue Prūsijos istoriją vadino geriausiu paliudijimu apie Foigto pirmtako darbą.
@@ -776,21 +859,26 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/autoriai/Liudvika Gedgaudienė-Didžiulienė.md#claim-t-64707|Liudvika Gedgaudienė-Didžiulienė]]: Liudvika Gedgaudienė-Didžiulienė užrašuose mini į Salas atėjusius tris didelius Lietuvos kariuomenės pulkus.
 - susijęs iš [[objektai/autoriai/M. Perlbachas.md#claim-t-175146|M. Perlbachas]]: M. Perlbachas nagrinėtas aiškinant Dusburgiečio pasakojimo ryšį su 1230 ir 1232 metų popiežiaus bulėmis.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172930|M. Strijkovskis Stryjkowski]]: Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172907|Motiejus Strijkovskis (kronikininkas)]]: Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182790|Michał Baliński Mykolas Balinskis]]: M. Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis.
 - susijęs iš [[objektai/autoriai/Mindaugas Tamošaitis.md#claim-t-26608|Mindaugas Tamošaitis]]: Mindaugas Tamošaitis apibendrino įvykius nuo 1940 m. okupacijų iki Lietuvos narystės Europos Sąjungoje 2004 m.
 - susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55011|Mykolas Balinskis]]: Vytautas Berenis apibūdino Mykolą Balinskį kaip kruopštų, pedantišką istoriką, vengusį rašyti be faktografinės bazės.
+- susijęs iš [[objektai/autoriai/Okolskis.md#claim-t-190398|Okolskis]]: Narbutas nesutinka su Okolskio aiškinimu, kad „Paparona“ kilusi iš „Parta Roma“, ir laiko šį žodį lietuvišku.
 - susijęs iš [[objektai/autoriai/Petras Olai.md#claim-t-88039|Petras Olai]]: Petras Olai „Danų kronikoje“ aprašė įvykį, siejamą su Riuriko variagų kelione į Rusiją ir Palemono draugų atvykimu į Lietuvą.
 - susijęs iš [[objektai/autoriai/Raimundas Lopata.md#claim-t-23254|Raimundas Lopata]]: Raimundas Lopata buvo tarp mokslininkų, tyrusių istorijos politikos problemas.
+- susijęs iš [[objektai/autoriai/Sirvydas.md#claim-t-190404|Sirvydas]]: Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką žodį „nukrypęs“.
+- susijęs iš [[objektai/autoriai/T. Narbutas.md#claim-t-188481|Teodoras Narbutas]]: T. Narbutas korespondencijoje minėjo neįvardytą Lydos mokytoją, vertusį LTI į rusų kalbą.
 - susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-63356|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Tacitas veikale „Germania“ aisčiams paskyrė skyrelį ir trumpai aprašė jų gyvenimą, tikybą bei gintarą.
+- susijęs iš [[objektai/autoriai/Tadas Čackis.md#claim-t-190301|Tadas Čackis]]: Narbutas klaidinga vadino Čackio nuomonę, kad lietuviai germanų pavyzdžiu laiką skaičiavę naktimis, o ne dienomis.
 - susijęs iš [[objektai/autoriai/V. Kamantauskas.md#claim-t-96058|V. Kamantauskas]]: V. Kamantauskas parengė „Kirčiuotą lietuvių literatūros chrestomatiją“, kurios kirčius patikrino Pr. Skardžius.
 - susijęs iš [[objektai/autoriai/V. O. Ključevskis.md#claim-t-97230|V. O. Ključevskis]]: V. O. Ključevskis platų rytinių slavų kolonizavimąsi laikė svarbiausiu rusų istorijos periodizacijos rodikliu.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172965|Vygandas Marburgietis]]: Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172967|Vygandas Marburgietis]]: Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172978|Vygandas Marburgietis]]: Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.
+- susijęs iš [[objektai/autoriai/Vytautas Berenis.md#claim-t-188487|Vytautas Berenis (istorikas, XX–XXI a.)]]: Vytautas Berenis Teodorą Narbutą pavadino lietuvių mitologijos tėvu ir nepagydomu svajotoju bei romantiku.
 - susijęs iš [[objektai/autoriai/Walsinghamas.md#claim-t-88085|Walsinghamas]]: Walsinghamas savo kronikoje 1390 m. Vilniaus užėmimo garbę priskyrė Derbio grafui ir nurodė apie 4 000 užmuštų bei sužeistų lietuvių.
 - susijęs iš [[objektai/daiktai/1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius.md#claim-t-87107|1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius]]: Vilniaus graikų unitų metropolijos zakristijoje matytas 1575 m. „Cztėry Ewangelje“ egzempliorius buvo puikiai išsilaikęs.
 - susijęs iš [[objektai/daiktai/Akademijos observatorijos prietaisai.md#claim-t-81838|Akademijos observatorijos prietaisai]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
+- susijęs iš [[objektai/daiktai/Amžinosios ugnies aukuras, ąžuolinės malkos ir pelenai.md#claim-t-189718|Amžinosios ugnies aukuras, ąžuolinės malkos ir pelenai]]: Amžinosios ugnies aukurą Narbutas vaizduoja stovėjus Perkūno šventykloje Romovėje ir buvus kūrenamą ąžuolinėmis malkomis.
 - susijęs iš [[objektai/daiktai/Antspaudai.md#claim-t-86982|Antspaudai]]: Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.
 - susijęs iš [[objektai/daiktai/Arbaletas.md#claim-t-64900|Arbaletas]]: Sembų puolimo metu vienas Ordino brolis, gindamas pilį, paliko įtemptą arbaletą ir pabėgo.
 - susijęs iš [[objektai/daiktai/Balta marška.md#claim-t-59678|Balta marška]]: Atsivertęs pabūklų meistras į Prūsiją atsivežė baltą maršką, kuria jį buvo užkloję kaip numirėlį.
@@ -801,6 +889,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai.md#claim-t-75316|Daugiapakopės raketos ir raketų brėžiniai]]: K. Semenavičius citatoje vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.
 - susijęs iš [[objektai/daiktai/Didysis Lietuvos antspaudas.md#claim-t-19514|Didysis Lietuvos antspaudas]]: Po Liublino unijos LDK išlaikė atskirą iždą, kariuomenę, teismus ir Trečiojo Lietuvos Statuto įformintą teisinę sistemą.
 - susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-08288|Dievų stabai]]: Per metines viešas aukas žmonės meldėsi prie šėtroje stovinčio aukuro ir dievo stabo.
+- susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-188381|Dievų stabai]]: Narbutas rašė, kad Lietuvai priimant krikščionybę dievų stabai buvo labiausiai naikinami, ypač kryžiuočių ir kalavijuočių riterių.
 - susijęs iš [[objektai/daiktai/Gedimino antspaudas.md#claim-t-81846|Gedimino antspaudas]]: Gediminas savo karališkuoju antspaudu sutvirtino laišką, kuriame žadėjo pasiuntiniams nustatyti tarpusavio taiką.
 - susijęs iš [[objektai/daiktai/Gedimino pastatytos pranciškonų ir dominikonų bažnyčios.md#claim-t-87077|Gedimino pastatytos pranciškonų ir dominikonų bažnyčios]]: Gediminas nurodė pastatęs dvi pranciškonų bažnyčias Vilniuje ir Naugarduke bei trečią dominikonų bažnyčią.
 - susijęs iš [[objektai/daiktai/Halka.md#claim-t-35504|Halka]]: Halka buvo didelė patranka, kurią vos patraukdavo 20 porų arklių.
@@ -813,9 +902,11 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92965|Herbai]]: Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus.
 - susijęs iš [[objektai/daiktai/Išsaugotos Toros.md#claim-t-19534|Išsaugotos Toros]]: Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų.
 - susijęs iš [[objektai/daiktai/Juosta ir apyvaras su mazgais.md#claim-t-59686|Juosta ir apyvaras su mazgais]]: Sudarę sandėrį ar sutartį, žmonės dienas iki susitarimo vykdymo žymėdavo įkirtomis medyje arba mazgais apyvaruose ar juostoje.
+- susijęs iš [[objektai/daiktai/Kalnėnų blindės gėlių vainikai ir kryžius.md#claim-t-189722|Kalnėnų blindės gėlių vainikai ir kryžius]]: Narbutas 1805 m. Kalnėnų kaime matė gėlių vainikais papuoštą blindę, prie kurios kunigai buvo liepę prikalti kryžių.
 - susijęs iš [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai.md#claim-t-87049|Karališkosios vaistinės vaistai ir gydomieji gėrimai]]: Didžioji iš Krokuvos pargabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.
 - susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-08294|Karinė ginkluotė]]: Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę.
 - susijęs iš [[objektai/daiktai/Karo pabūklai.md#claim-t-59688|Karo pabūklai]]: Brolis Gerhardas anksčiau garsėjo kaip gabus račius ir didelis karo pabūklų meistras.
+- susijęs iš [[objektai/daiktai/Katinas kaip stabmeldiškosios laisvės ženklas.md#claim-t-189724|Katinas kaip stabmeldiškosios laisvės ženklas]]: Narbutas 1483 m. Kazimiero privilegijoje katino įteikimą karaliui aiškino kaip stabmeldiškosios laisvės ženklą.
 - susijęs iš [[objektai/daiktai/Klėtis.md#claim-t-08298|Klėtis]]: Klėtis buvo pakelta ant trinkų ar akmenų, grįsta ir lubota lentomis dėl sausumo.
 - susijęs iš [[objektai/daiktai/Krikšto vandens indas.md#claim-t-59690|Krikšto vandens indas (krikštas, XIII a.)]]: 1298 m. užpuolus Straisbergą, vienas lietuvis išniekino krikšto vandens indą, pridergdamas į jį.
 - susijęs iš [[objektai/daiktai/Kuorai.md#claim-t-183979|Kuorai]]: Brandenburgo pilyje broliai ir jų šeimyna gynėsi mediniame kuore nuo prūsų puldinėjimų.
@@ -823,14 +914,19 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86991|Laivai, valtys, sieliai ir plaustai]]: Petro Olai kronikoje pasakojama, kad apie 880 metus Danijos tremtiniai valtimis persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12318|Lietuvos pinigai]]: Vytauto laikais Jogailos ir Vytauto rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai.
 - susijęs iš [[objektai/daiktai/Medinis kryžius.md#claim-t-59693|Medinis kryžius]]: Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje.
+- susijęs iš [[objektai/daiktai/Miecionikas.md#claim-t-189731|Miecionikas]]: Narbutas Miecioniką apibūdino kaip senovės lietuvių gėrimą, kurį ypač gėrė kunigai, moterys ir ligoniai.
 - susijęs iš [[objektai/daiktai/Mūrinė pilis.md#claim-t-87115|Mūrinė pilis]]: Mūrinė pilis pastatyta ant žmonių paaukštinto kalno Vilnelės ir Vilijos santakoje.
 - susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89428|Mūro sienos ir miesto sienos]]: 1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga.
+- susijęs iš [[objektai/daiktai/Nijolės žalvarinė dėžutė ir sidabrinis medalionas.md#claim-t-189691|Nijolės žalvarinė dėžutė ir sidabrinis medalionas]]: Narbutas medalione aprašo vyrą, vainiką teikiančią moterį žynės drabužiais, ąžuolo šaką su trimis gilėmis, žaltį ir užrašus Poklus, Nijota.
 - susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-183980|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
 - susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-59696|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
 - susijęs iš [[objektai/daiktai/Pančiai.md#claim-t-59698|Pančiai]]: Sarkis pirmąją nelaisvės naktį sutraukė pančius, kuriais buvo pririštas prie medžio.
+- susijęs iš [[objektai/daiktai/Pergrubės stabas arba figūra.md#claim-t-189738|Pergrubės stabas arba figūra]]: Narbutas Pergrubės figūrą sieja su antikine Flora ir slavų Siewa, ją vaizduodamas kaip nuogą jauną mergaitę su gėlių vainiku, obuoliu ir vynuogių keke.
 - susijęs iš [[objektai/daiktai/Pranciškonų kankinių palaidojimo vietos koplyčia.md#claim-t-19583|Pranciškonų kankinių palaidojimo vietos koplyčia]]: XVI a. pradžioje Vilniuje dviejų pranciškonų palaidojimo vietoje pradėta statyti koplyčia.
 - susijęs iš [[objektai/daiktai/Romuva kaip Perkūno šventykla.md#claim-t-87093|Romuva kaip Perkūno šventykla]]: Romuva buvo laikoma Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindine buveine.
 - susijęs iš [[objektai/daiktai/Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai.md#claim-t-87003|Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai]]: Prie Rūdninkų, Mendzižečės link, buvo aptvertas žvėrynas, kuriame veisėsi daug briedžių ir stirnų.
+- susijęs iš [[objektai/daiktai/Senovės prūsų monetos.md#claim-t-189662|Senovės prūsų monetos]]: Narbutas trečiąją senovės prūsų monetą aprašo kaip plačiojo grašio atmainą su karūnuota moterimi ir raidėmis CESTIANUS.
+- susijęs iš [[objektai/daiktai/Sietelis ir avių kirpimo žirklės.md#claim-t-189746|Sietelis ir avių kirpimo žirklės]]: Narbutas mini būrimą iš sietelio, sukamo ant avių kirpimo žirklių, ypač vagies paieškų burtininkavimo kontekste.
 - susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-183981|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
 - susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-59705|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
 - susijęs iš [[objektai/daiktai/Skydas.md#claim-t-111285|Skydas]]: Martynas, priešams miegant, vieną po kito išvogė jų skydus, kalavijus ir ietis.
@@ -851,15 +947,19 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-184602|Vėliavos]]: Herulai, tapę Romos sąjungininkais ir pagalbine kariuomene, daugelį amžių karo tarnyboje gynė romėnų vėliavas.
 - susijęs iš [[objektai/daiktai/Šarvai.md#claim-t-176218|Šarvai]]: Ordino riterius, šarvuotus metaliniais šarvais, atvirame lauke kepino karšta liepos mėnesio saulė.
 - susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78695|Šarvuotasis traukinys Gediminas]]: 1920 m. sausį Kauno geležinkelio dirbtuvėse pradėtas statyti pirmasis Lietuvos kariuomenės šarvuotasis traukinys „Gediminas“.
+- susijęs iš [[objektai/daiktai/Šventųjų medžių puošmenos.md#claim-t-189760|Šventųjų medžių puošmenos]]: Narbutas rašė, kad šventuosius medžius buvo įprasta puošti trofėjais, gėlių girliandomis ir degančiais žibintais.
 - susijęs iš [[objektai/grupes/ATAS.md#claim-t-40832|ATAS]]: 1991 m. sausio 13 d. Vytautą Landsbergį saugojo ATAS pareigūnai.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80773|Abiejų Tautų Respublika]]: Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80776|Abiejų Tautų Respublika]]: Oficialus Liublino unijos sukurtos jungtinės valstybės pavadinimas buvo Abiejų Tautų Respublika.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80782|Abiejų Tautų Respublika]]: Abiejų Tautų Respublika per Gdanską aprūpino Vakarus javais ir sukūrė religinės tolerancijos bei bajoriškosios demokratijos tradiciją.
 - susijęs iš [[objektai/grupes/Abiejų Tautų konfederacija.md#claim-t-19623|Abiejų Tautų konfederacija]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją.
+- susijęs iš [[objektai/grupes/Alanai.md#claim-t-189466|Alanai]]: Narbutas rašė, kad alanai, jo laikyti senaisiais kai kurių Lietuvos sričių klajokliais, burdavo iš karklo šakų.
 - susijęs iš [[objektai/grupes/Algimanto apygarda.md#claim-t-78162|Algimanto apygarda]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, o per Šimonių girios apgultį žuvo beveik visa apygardos vadovybė.
 - susijęs iš [[objektai/grupes/Anglų riteriai.md#claim-t-86788|Anglų riteriai]]: Anglų riteriai ne kartą kartu su kryžiuočiais dalyvavo kryžiaus žygiuose prieš pagonimis laikytus lietuvius.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96078|Baltai]]: Mindaugas siekė padaryti Lietuvą bendrąja baltų valstybe, apimančia šiaurines ir pietvakarines baltų žemes.
+- susijęs iš [[objektai/grupes/Barstukai.md#claim-t-189448|Barstukai]]: Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų klojimų ir neša juos palankesniems ūkininkams.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88530|Bartai]]: Per pilies puolimą brolis Arnoldas Krofas arbaleto strėle peršovė bartų vadui Divanui kaklą, o po Divano žūties kiti pasitraukė.
+- susijęs iš [[objektai/grupes/Bavarijos kunigaikščio kariuomenė.md#claim-t-189513|Bavarijos kunigaikščio kariuomenė]]: XIV a. pradžioje Bavarijos kunigaikščio kariuomenė dalyvavo kryžiuočių žygyje, per kurį prieš apgultą pilį pastatyti Fridburgas ir Bajerburgas.
 - susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-168143|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Dėl partijų kovų Centraliniame Komitete kilo ginčų, ir trys kairiųjų pažiūrų nariai iš jo išstojo.
 - susijęs iš [[objektai/grupes/Chasidai.md#claim-t-169573|Chasidai]]: Chasidai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir nuoširdų tikėjimą bei sušvelninti buitį normuojančius įstatymus.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65111|Dobrynės broliai]]: Kristaus karių ordino broliai buvo burti žemei ginti Prūsijos vyskupo Kristijono ir didikų patariamo kunigaikščio iniciatyva.
@@ -874,12 +974,17 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/grupes/Edukacinė Komisija.md#claim-t-107742|Edukacinė Komisija]]: Edukacinė komisija sumodernino ir supasaulietino mokymo programą, įvesdama gamtos ir tiksliųjų mokslų disciplinas.
 - susijęs iš [[objektai/grupes/Elbingo miestiečiai.md#claim-t-183880|Elbingo miestiečiai]]: Kai Elbingo miestiečiai per daug nutolo nuo miesto, pagudėnai iš pasalos atkirto jiems kelią atgal.
 - susijęs iš [[objektai/grupes/Elbingo miestiečiai.md#claim-t-62994|Elbingo miestiečiai]]: Pagudėnų persekiojami Elbingo miestiečiai pasitraukė į Liefardo malūną, kuris buvo įtvirtintas tarsi pilis.
+- susijęs iš [[objektai/grupes/Galai druidai.md#claim-t-189514|Galai druidai]]: Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas panašumą bendra senovės religijų ir tautų kilme.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-12361|Gediminaičių dinastija]]: Vytauto laikais viena rytinių kunigaikštijų dalis buvo valdoma Gediminaičių greta Riurikaičių ir kitų lietuvių kilmės kunigaikščių.
+- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-188187|Gediminaičių dinastija]]: Prie Kauno rastoje senovinėje lietuviškoje monetoje Narbutas vienoje pusėje nurodė Gediminaičių Stulpų herbą ir neaiškią raidę.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96112|Gediminaičių dinastija]]: Dalį kunigaikštijų valdė Gediminaičiai, o kitas valdė Riurikaičiai ir įvairūs lietuvių kilmės kunigaikščiai.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-184474|Gotai]]: Gotai drauge su dalimi alanų ir hunais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.
+- susijęs iš [[objektai/grupes/Gotai.md#claim-t-188191|Gotai]]: Narbutas Rosės upės vardą Kijevo gubernijoje siejo su lietuvių gentimis, kurios esą išėjo į rytus su gotais Filimero valdymo metu ar kiek vėliau.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116684|Hanza]]: 1416 m. Hanzos vadovybė įsikišo, kai Dorpatas uždraudė prekybą su Naugardu, bet turėjo sutikti su Dorpato draudimu.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116691|Hanza]]: Gediminas per rygiečius kreipėsi į Hanzos miestus ir kvietė amatininkus, pirklius, žemdirbius bei riterius vykti į Lietuvą.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-184477|Herulai]]: Kojelavičius spėjo, kad alanai arba herulai, ilgėdamiesi taikos, galėjo pirmieji pasitraukti iš tėvynės į karo neniokotas žemes.
+- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188192|Herulai]]: Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis.
+- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188193|Herulai]]: Narbutas rašė, kad Vokietijoje, kur po Odoakro žūties įsikūrė herulai, buvo upė Ross arba Russ, vėliau vadinta Wessel.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-86794|Herulai]]: Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.
 - susijęs iš [[objektai/grupes/Hunai.md#claim-t-185449|Hunai]]: Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172099|Husitai]]: Husitai ne kartą naudojosi Vytauto globa.
@@ -898,6 +1003,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/grupes/Ketverių metų seimas.md#claim-t-182896|Ketverių metų seimas]]: Ketverių metų seimas veikė ištisus ketverius metus ir per tą laiką pakeitė visą valstybės santvarką.
 - susijęs iš [[objektai/grupes/Kiršenšteinai.md#claim-t-86799|Kiršenšteinai]]: Kiršenšteinų giminė, vėliau gavusi pilietybę, keletą šimtmečių valdė Raudonės pilį.
 - susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-184481|Krikščionys]]: Po ilgai trukusio atkaklaus mūšio krikščionys buvo sumušti, o jų kilmingieji pateko į nelaisvę arba žuvo.
+- susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-188205|Krikščionys]]: Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05262|Krymo chanatas]]: Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05263|Krymo chanatas]]: Nuo 1478 m. Krymo chanatas buvo Turkijos vasalas.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178824|Kryžiuočių ordinas]]: Pasak Petro Dusburgiečio, Mergelė Marija broliui Hermanui skundėsi, kad Teutonų ordino broliai kalba apie pasaulio tuštybę.
@@ -918,6 +1024,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184490|Kryžiuočių ordinas]]: Mūšyje Livonijos kariuomenė buvo sutriuškinta, žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir 150 ordino riterių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184507|Kryžiuočių ordinas]]: 1418 m. Veliuonos susitikimas nedavė naudos, nes kryžiuočiai atmetė taikos sąlygas ir reikalavo visos Žemaitijos.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184508|Kryžiuočių ordinas]]: Medžiodamas prie Veliuonos karalius vos nepakliuvo į kryžiuočių pasalą, kurią surengė Rastenburgo komtūras.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188208|Kryžiuočių ordinas]]: XIV a. pradžioje kryžiuočiai apgulė Veliuonos pilį, o negalėdami jos paimti priešais pastatė Fridburgą ir Bajerburgą.
 - susijęs iš [[objektai/grupes/Kunigaikščio Margio rinktinė.md#claim-t-40958|Kunigaikščio Margio rinktinė]]: 1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
 - susijęs iš [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė.md#claim-t-183656|Kuršo ir Žiemgalos kunigaikštystė]]: Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.
 - susijęs iš [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė.md#claim-t-38968|Kuršo ir Žiemgalos kunigaikštystė]]: Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.
@@ -930,6 +1037,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184533|Lenkai]]: Lenkų seimas susirinko Parčeve, o lietuvių seimas Breste; po ginčų nutarta susitikti Lomžoje.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184534|Lenkai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos kare prieš turkus.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184535|Lenkai]]: Aleksandras Vilniuje užbaigė lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-188250|Lenkai]]: Aprašomoje vietoje viena iš trijų mūrinių šventyklų buvo lenkų, o dvi kitos - rusinų apeigoms.
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78201|Lenkijos kariuomenė]]: Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo.
 - susijęs iš [[objektai/grupes/Lenkijos senatas.md#claim-t-184537|Lenkijos senatas]]: Lenkijos senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperatoriaus sumanymams jis nusileistų Lietuvos ir Lenkijos priešui.
 - susijęs iš [[objektai/grupes/Lenkijos senatas.md#claim-t-184539|Lenkijos senatas]]: Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu.
@@ -940,22 +1048,24 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/grupes/Lenčicos seimas.md#claim-t-185452|Lenčicos seimas (seimas)]]: Lenčicos seimas buvo sušauktas karaliui atleidus kryžiuočių žygūną.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179219|Lietuviai]]: XIII-XIV a. rašytiniai šaltiniai ir karai su ordino riteriais rodo, kad pagonys lietuviai buvo pasiekę palyginti aukštą kultūros lygį.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179220|Lietuviai]]: Pasak Petro Dusburgiečio, lietuviai ir kiti tose žemėse gyvenę žmonės aukas degino vietose, kurias laikė šventomis.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179225|Lietuviai]]: 1897 m. surašymo duomenimis, dabartinės Lietuvos ribose be Klaipėdos krašto gyveno apie 2,7 mln. žmonių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179230|Lietuviai]]: Lietuvių kariuomenė grįžo į mūšį tuo metu, kai sėkmė jau sviro kryžiuočių pusėn.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179239|Lietuviai]]: Aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų Kersovu vadintoje Lenkijos žemės dalyje ir pasitraukė su dideliu grobiu.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179242|Lietuviai]]: Mindaugo sukurta valstybė sudarė sąlygas lietuvių tautai išlikti ir vėliau perimti Vakarų civilizaciją.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179248|Lietuviai]]: Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užgriuvo Prūsiją.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179257|Lietuviai]]: Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179275|Lietuviai]]: Lietuvių kariuomenės sugrįžimas į mūšį tada, kai laimė sviro kryžiuočiams, laikytas nepaprastu karo taktikos reiškiniu.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179283|Lietuviai]]: Lietuviai kaip tauta, anot šaltinio, Europoje Lietuvos vardu tapo žinomi tik X amžiuje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179296|Lietuviai]]: 1303 m. 50 plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę ar nukovė daug krikščionių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179301|Lietuviai]]: 1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179308|Lietuviai]]: Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užpuolė kraštą ir nužudė arba į nelaisvę išsivedė 6-8 tūkst. gyventojų.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179309|Lietuviai]]: Sūduviai, siekdami atkeršyti už priespaudą, pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179322|Lietuviai]]: Henrikas Tupadelis balistos strėle nukovė kilmingą ir galingą lietuvių vadą per Vėluvos pilies apgultį.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179339|Lietuviai]]: 1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184545|Lietuviai]]: Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį atidavė Konradui.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184548|Lietuviai]]: Lietuviai atrėmė priešo puolimą, persekiojo kryžiuočius ir privertė juos bėgti.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188253|Lietuviai]]: Narbutas manė, kad lietuviai į daugiadievystę ėjo tuo pačiu keliu kaip helenai, nes juos siejo kilmė ir panaši religija.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188264|Lietuviai]]: Narbutas katino kaip lietuvių laisvės simbolio įrodymą siejo su 1483 m. Kazimiero privilegija bajorui Rimvydui.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188279|Lietuviai]]: Narbutas spėjo, kad Rusos upės vardą Naugardo gubernijoje galėjo duoti variagų atgabenta lietuvių tautos kolonija.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190613|Lietuviai]]: Narbutas pasakojo, kad jo tarnai lietuviai Bogušo eilėse girdėjo nuostabiai perteiktą harmoningą žodžių skambesį.
 - susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50697|Lietuvių bajorija]]: Pirmą kartą pabėgęs pas Ordiną Vytautas sulaukė nemažai bajorų iš Lietuvos ir Žemaičių paramos.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169684|Lietuvos Didžioji Kunigaikštija]]: XVI a. Vytauto kultas Lietuvoje stiprėjo ieškant ideologinės atramos prieš Lenkijos hegemonijos planus.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169703|Lietuvos Didžioji Kunigaikštystė]]: Žygimantas Augustas, pasigailėjęs Lietuvos Didžiosios Kunigaikštystės pavaldinių, paskelbė lietuviškos monetos vertės taisyklę.
@@ -996,9 +1106,15 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108316|Pranciškonų ordinas]]: 1323 m. Gedimino laiškai buvo rašyti dominikonų, Mažesniųjų brolių, arba pranciškonų, ordinams ir Hanzos miestams.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108328|Pranciškonų ordinas]]: Gedimino laiškai buvo rašyti dominikonams, pranciškonams ir Hanzos miestams.
 - susijęs iš [[objektai/grupes/Prancūzijos steigiamasis susirinkimas.md#claim-t-19967|Prancūzijos steigiamasis susirinkimas]]: 1791 m. vasarą Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui apie kitą tautą Europoje.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188298|Prūsai]]: Narbutas spėja, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti lietuvių tautos kolonija, siejama su prūsų kolonistais Naugarde.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188299|Prūsai]]: Narbutas Prūsuose mini Šventainės upę, įtekančią į Peise ties Baičių kaimu; seniau ji vadinosi Galbė, o kaimas - Narpissa.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188307|Prūsai]]: Narbutas, remdamasis Hartknochu, nurodo garsų prūsų šventąjį mišką prie Žemaitijos sienos, dviejų upių santakoje netoli Rusnės įlankos.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188312|Prūsai]]: Narbutas rašo, kad aukojant arklius prūsai pirmenybę teikdavo širmiems, o kitos lietuvių genties tautos rinkdavosi kitokio plauko arklius.
 - susijęs iš [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md#claim-t-89176|Prūsijos naujakrikščiai atsimetėliai]]: Prūsijos naujakrikščiai dalyvavo kariuomenėje, kuri buvo padalyta į dvi dalis pulti pilį iš priekio ir iš kitos pusės.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74889|Radvilos]]: Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.
+- susijęs iš [[objektai/grupes/Romos katalikų bažnyčia.md#claim-t-189449|Romos katalikų bažnyčia]]: Narbutas Romos katalikų bažnyčios dvasininkijai Lenkijoje ir Lietuvoje priskyrė slaptą priežastį slėpti pakartotinį krikštijimą.
 - susijęs iš [[objektai/grupes/Sambiai.md#claim-t-188047|Sambiai]]: Narbutas prie „didžiųjų“ lietuvių dievų priskyrė dievus, kuriuos M. Strijkovskis siejo su lietuviais, žemaičiais, sambiais, latviais ir prūsais.
+- susijęs iš [[objektai/grupes/Samojedai.md#claim-t-189500|Samojedai]]: Narbutas samojedus laikė paskutiniais Šiaurės Europos stabmeldžiais ir rašė, kad XVII a. prie Baltosios jūros jie garbino dangaus kūnus.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175081|Sembai]]: Sembai nukankino Teutonų ordino kunigą, atsiųstą jų krikštyti, suspaudę jam kaklą dviem kartimis.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175086|Sembai]]: Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175103|Sembai]]: Per kautynes krito daugiau kaip trys tūkstančiai sembų ir kitų prūsų tą pačią dieną, kai prieš metus vyko Pokarvių kautynės.
@@ -1024,9 +1140,11 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/grupes/Trakų žydai.md#claim-t-86716|Trakų žydai]]: Trakų žydai Žygimanto Senojo akivaizdoje prašė patvirtinti Vytauto privilegijoje jiems suteiktas teises ir laisves.
 - susijęs iš [[objektai/grupes/Tridento Sinodas.md#claim-t-86829|Tridento Sinodas]]: Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti amžiną seminariją.
 - susijęs iš [[objektai/grupes/Tumo Vaižganto rinktinė.md#claim-t-41183|Tumo Vaižganto rinktinė]]: 1950 m. lapkričio 25 d. Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
+- susijęs iš [[objektai/grupes/Ukrainiečiai.md#claim-t-188356|Ukrainiečiai]]: Narbutas aiškino, kad ukrainiečių Rosės upės vardas kilo iš kadaise ten gyvenusių lietuvių genties tautų.
 - susijęs iš [[objektai/grupes/Unzatrapio žemės gyventojai.md#claim-t-63281|Unzatrapio žemės gyventojai]]: Unzatrapio žemės vyrai kartu su komtūro kariuomene įsiveržė į Notangos pakraštį ir jį nuniokojo plėšdami bei degindami.
 - susijęs iš [[objektai/grupes/Valerijono Bursos studentų bendrija.md#claim-t-55070|Valerijono Bursos studentų bendrija]]: Valerijono Bursos studentų bendrijoje galėjo gyventi studentai nepriklausomai nuo tautybės.
 - susijęs iš [[objektai/grupes/Valerijono Bursos studentų bendrija.md#claim-t-55071|Valerijono Bursos studentų bendrija]]: Studentų bendrijoje turėjo būti prefektas arba senjoras, prižiūrintis pamaldumo, garbingumo ir broliškos santarvės laikymąsi.
+- susijęs iš [[objektai/grupes/Varšuvos Mokslo bičiulių draugija.md#claim-t-188107|Varšuvos Mokslo bičiulių draugija]]: 1820 m. grafas bronzinę apie šešių colių aukščio statulėlę nusiuntė į Varšuvos Mokslo bičiulių draugiją.
 - susijęs iš [[objektai/grupes/Vazų dinastija.md#claim-t-75016|Vazų dinastija]]: Vazų dinastijos pradžia Lietuvos istorijos skirstyme buvo siejama su 1587 metais.
 - susijęs iš [[objektai/grupes/Vengrai.md#claim-t-184586|Vengrai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos prasidėjus karui prieš turkus.
 - susijęs iš [[objektai/grupes/Vengrai.md#claim-t-66254|Vengrai]]: Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių.
@@ -1062,6 +1180,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-62738|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: Per 1294 m. žiemos žygį Paštuvos ir Gaižuvos valsčius puolusi kariuomenė vidurnaktį ginkluota perėjo Nemuną ledu.
 - susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92925|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.
 - susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92926|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems savo herbus.
+- susijęs iš [[objektai/ivykiai/1848 m. T. Narbuto „Naujosios mitologijos“ rankraščio parengimas.md#claim-t-189613|1848 m. T. Narbuto „Naujosios mitologijos“ rankraščio parengimas]]: 1848 m. „Lietuvių mitologijos“ rankraštis tyrime vadinamas T. Narbuto „Naująja mitologija“ ir siejamas su beveik netyrinėtu jo rankraštiniu palikimu.
 - susijęs iš [[objektai/ivykiai/Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.).md#claim-t-75089|Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.)]]: Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
 - susijęs iš [[objektai/ivykiai/Antrasis Marienverderio miesto sugriovimas.md#claim-t-62196|Antrasis Marienverderio miesto sugriovimas (miestas)]]: Prūsai po ilgų kovų vėl iš pagrindų sugriovė Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba nužudė.
 - susijęs iš [[objektai/ivykiai/Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas.md#claim-t-185690|Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas]]: Antrosios Smolensko apgulties metu priešas pabūklais sugriovė didelę gynybinės sienos dalį.
@@ -1149,7 +1268,9 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/ivykiai/Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga).md#claim-t-75151|Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga)]]: 1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į Vilnių.
 - susijęs iš [[objektai/ivykiai/Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga).md#claim-t-75152|Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga)]]: Vilniaus, istorinės sostinės, atgavimas buvo šviesus įvykis niūrioje Lietuvos priklausomybės nuo SSRS situacijoje.
 - susijęs iš [[objektai/ivykiai/Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga).md#claim-t-75153|Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga)]]: 1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į Vilnių.
+- susijęs iš [[objektai/ivykiai/Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai.md#claim-t-189603|Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai (krikštas, XIII–XIV a.)]]: Narbutas rašo, kad Vladislovo Jogailos ir jo brolių rūpesčiu Bažnyčia Lietuvoje priėmė 5 635 500 atverstų stabmeldžių.
 - susijęs iš [[objektai/ivykiai/Lietuvos pasiūlymas vadovauti Goro provincijos atkūrimo grupei Afganistane (2004 m. pabaiga).md#claim-t-20351|Lietuvos pasiūlymas vadovauti Goro provincijos atkūrimo grupei Afganistane (2004 m. pabaiga)]]: 2004 m. pabaigoje Lietuvai pasiūlyta vadovauti Goro provincijos atkūrimo grupei Afganistane.
+- susijęs iš [[objektai/ivykiai/Lietuvos pašaukimas priimti katalikų tikėjimą 1387 m.md#claim-t-189608|Lietuvos pašaukimas priimti katalikų tikėjimą 1387 m]]: Narbutas rašo, kad Vladislovo Jogailos ir jo brolių rūpesčiu Bažnyčia Lietuvoje priėmė 5 635 500 atverstų stabmeldžių.
 - susijęs iš [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.).md#claim-t-75192|Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]: Lietuvos pirmininkavimas ES vertintas kaip galimybė priminti pasauliui Lietuvos praeitį ir jos vietą Europoje.
 - susijęs iš [[objektai/ivykiai/Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje.md#claim-t-20405|Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje (unija)]]: Abiejų Tautų Respublikos bendras Seimas buvo aukščiausia šalia valdovo valdžios institucija ir rinko karalių.
 - susijęs iš [[objektai/ivykiai/Lubavos žemės apiplėšimas ir 65 lietuvių žūtis (1302 m.).md#claim-t-62383|Lubavos žemės apiplėšimas ir 65 lietuvių žūtis (1302 m.)]]: 1302 m. iš Lietuvos atvykę plėšikautojai užpuolė penkis Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.
@@ -1279,6 +1400,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos.md#claim-t-54209|Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]: Abiejų Tautų Respublika sukūrė religinės tolerancijos, bajoriškosios demokratijos ir teisinę tradiciją, davusią Lietuvos Statutus ir 1791 m. konstituciją.
 - susijęs iš [[objektai/paprociai/Apkaltintųjų mėginimas verdančiu vandeniu.md#claim-t-62104|Apkaltintųjų mėginimas verdančiu vandeniu]]: 1321 m. Slavijos žemėse trys nuodijimu apkaltinti vyrai buvo įmesti į verdantį vandenį, du žuvo, o trečias išliko gyvas.
 - susijęs iš [[objektai/paprociai/Arklio auka ir švento plauko arklių perdavimas žyniui.md#claim-t-187997|Arklio auka ir švento plauko arklių perdavimas žyniui]]: Narbutas arklio auką sieja su sėkmingu grobiamuoju žygiu ir trečdalio grobio skyrimu dievams.
+- susijęs iš [[objektai/paprociai/Arklio auka ir švento plauko arklių perdavimas žyniui.md#claim-t-188387|Arklio auka ir švento plauko arklių perdavimas žyniui]]: Narbutas arklio aukos apeigoje mini pagrobto arklio nujodinimą, Krivių Krivaičio papjovimą ir sudeginimą ant laužo.
 - susijęs iš [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme.md#claim-t-71791|Bajorų dalyvavimas svarbiausių aktų sudaryme]]: Horodlės suvažiavimo nutarimai buvo surašyti valdovų ir abiejų valstybių bajorų dokumentuose.
 - susijęs iš [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai.md#claim-t-01934|Bendri Lietuvos ir Lenkijos seimai]]: Susitarimu siekta įkurti jungtinę valstybę su bendru seimu, bendra valdovo rinkimo vieta, bendra apsauga ir bendrais pinigais.
 - susijęs iš [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai.md#claim-t-01937|Bendri Lietuvos ir Lenkijos seimai]]: Akte numatyti bendri seimai ir bendra karaliaus elekcija, tačiau jų vykdymo tvarka turėjo būti nustatyta vėliau.
@@ -1311,11 +1433,13 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/paprociai/Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų.md#claim-t-67117|Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų]]: Prieš pradėdami karą senovės kalnėnai ir žemaičiai pirmiausia klausdavo žynių apie būsimą laimę.
 - susijęs iš [[objektai/paprociai/Kasdienis maudymasis pirtyse iš pagarbos dievams.md#claim-t-89446|Kasdienis maudymasis pirtyse iš pagarbos dievams]]: Kai kurie prūsai iš pagarbos savo dievams kasdien maudėsi pirtyse, o kiti pirties kęste nekentė.
 - susijęs iš [[objektai/paprociai/Kasdienis maudymasis pirtyse iš pagarbos dievams.md#claim-t-89447|Kasdienis maudymasis pirtyse iš pagarbos dievams]]: Kai kurie iš pagarbos savo dievams kasdien maudydavosi pirtyse, o kiti pirties labai nemėgo.
+- susijęs iš [[objektai/paprociai/Katino kaip stabmeldiškos laisvės ženklo naudojimas.md#claim-t-189836|Katino kaip stabmeldiškos laisvės ženklo naudojimas]]: Narbutas 1483 m. Kazimiero privilegijoje rado pasakojimą, kad Leicis karaliui padavė katiną kaip stabmeldiškosios laisvės ženklą.
 - susijęs iš [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto.md#claim-t-183988|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]: Kilmingas sūduvis Ruseinis bematant leidosi apkrikštijamas su visa savo šeimyna.
 - susijęs iš [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto.md#claim-t-59737|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]: Kilmingas sūduvis Ruseinis su savo namais ir šeimyna atvyko pas Baigos komtūrą, norėdamas išklausyti pamaldų.
 - susijęs iš [[objektai/paprociai/Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas.md#claim-t-77937|Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas]]: Klaipėdos krašto vokiečių nacių organizacijos varė antivalstybinę propagandą, ruošėsi sukilimui ir krašto prijungimui prie Vokietijos, terorizavo lietuvių susirinkimus ir puldinėjo žydus.
 - susijęs iš [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos.md#claim-t-183989|Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]: Martynas nukovė dešimt vyrų pirtyje, pagrobė arklių, gyvulių ir kitų daiktų, o moteris bei vaikus išsivarė į nelaisvę.
 - susijęs iš [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos.md#claim-t-59740|Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]: Martynas nukovė dešimt vyrų pirtyje, pagrobė arklių, gyvulių ir kitų daiktų, o moteris bei vaikus išsivarė į nelaisvę.
+- susijęs iš [[objektai/paprociai/Krivio valios ir potvarkių klausymas.md#claim-t-189924|Krivio valios ir potvarkių klausymas]]: Narbutas aiškina, kad Dusburgietis galėjo perdėti Nadruvos krivio valdžią, tačiau tai nepaneigia krivio institucijos buvimo.
 - susijęs iš [[objektai/paprociai/Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika.md#claim-t-87296|Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika]]: 1322 m. kryžiuočių žygio į Vaikius Žemaitijoje tikslai buvo belaisvių ėmimas, krašto niokojimas ir plėšikavimas.
 - susijęs iš [[objektai/paprociai/Kuopose renkami kunigai ir karo vadai.md#claim-t-07788|Kuopose renkami kunigai ir karo vadai]]: Į kuopas suėjęs svietas rinkdavo žynius arba kunigus iš dorų, išmintingų ir patyrusių vyrų.
 - susijęs iš [[objektai/paprociai/Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas.md#claim-t-87297|Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas]]: Rugpjūtį lietuviai prie Vėluvos sudegino šešis kaimus ir nužudė kryžiuotį Fridrichą fon Quitzą su 36 kariais.
@@ -1332,15 +1456,18 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/paprociai/Maldininko įžadų vykdymas Prūsijoje.md#claim-t-183992|Maldininko įžadų vykdymas Prūsijoje]]: Kryžininkas iš Meiseno per vienus metus Prūsijoje įvykdė maldininko įžadus ir mirė kelyje grįždamas į tėvynę.
 - susijęs iš [[objektai/paprociai/Maldininko įžadų vykdymas Prūsijoje.md#claim-t-62693|Maldininko įžadų vykdymas Prūsijoje]]: Kryžininkas iš Meiseno per vienus metus Prūsijoje įvykdė maldininko įžadus ir mirė kelyje grįždamas į tėvynę.
 - susijęs iš [[objektai/paprociai/Maro aukų laidojimas Šv. Roko vienuolių eremitų rankomis.md#claim-t-01992|Maro aukų laidojimas Šv. Roko vienuolių eremitų rankomis]]: Vienas Šv. Roko vienuolis eremitas nuo 1708 m. liepos iki 1709 m. Velykų palaidojo 22 862 lavonus.
+- susijęs iš [[objektai/paprociai/Metinė sumestinė auka ir ožio jaučio aukojimo apeiga.md#claim-t-189768|Metinė sumestinė auka ir ožio jaučio aukojimo apeiga]]: Narbutas metinę sumestinę auką aprašo kaip metų pabaigos švenčių apeigą, per kurią keli kaimai surinkdavo gėrybių jaučiui ir ožiui pirkti.
 - susijęs iš [[objektai/paprociai/Moterų tvirtovių gynyba vyrams išvykus.md#claim-t-59808|Moterų tvirtovių gynyba vyrams išvykus]]: Vyrams išvykus, moterys prisisegdavo kalavijus, stodavo ant sienų ir savo drąsa apgindavo tvirtoves nuo praradimo.
 - susijęs iš [[objektai/paprociai/Našlių ištekinimas už tarnų Kulme po mūšio.md#claim-t-62696|Našlių ištekinimas už tarnų Kulme po mūšio (mūšis)]]: Dvi moterys, eidamos į bažnyčią, aikštėje pamatė kauliukais žaidžiantį stiprų ir gražaus gymio tarną.
 - susijęs iš [[objektai/paprociai/Našlių ištekinimas už tarnų Kulme po mūšio.md#claim-t-62697|Našlių ištekinimas už tarnų Kulme po mūšio (mūšis)]]: Po mūšio Kulmo vyskupas įpareigojo visas našles tekėti už savo tarnų, nes Kulmo mieste buvo išžudyti vyrai.
+- susijęs iš [[objektai/paprociai/Pranašų patarimo klausimas prieš pradėdami darbus.md#claim-t-189857|Pranašų patarimo klausimas prieš pradėdami darbus]]: Narbutas vaizdavo lietuvius kaip prieš darbus pranašų patarimo klausdavusius žmones, o Krivių Krivaitį vadino gyvu orakulu.
 - susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-183827|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: Žygimantas Augustas įsakė Lietuvos ir Lenkijos pavaldiniams lietuvišką monetą priimti už nustatytą lenkiškų grašių vertę.
 - susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-87183|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: 1572 m. įsakymas numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą.
 - susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-87184|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: 1572 m. Žygimantas Augustas įsakė lietuvišką monetą imti nustatyta verte, o atsisakiusiesiems ją priimti numatė dešimties lenkiškų grivinų baudą.
 - susijęs iš [[objektai/paprociai/Privalomas naujai išspausdintų knygų egzempliorių davimas kancleriams ir Viešajai bibliotekai.md#claim-t-87282|Privalomas naujai išspausdintų knygų egzempliorių davimas kancleriams ir Viešajai bibliotekai]]: Karališkosios spaustuvės privilegija įpareigojo nuo kiekvienos naujai išspausdintos knygos duoti po egzempliorių Lietuvos kancleriams ir Viešajai bibliotekai.
 - susijęs iš [[objektai/paprociai/Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą.md#claim-t-185887|Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą (kraštas)]]: Kryžiuočiai Nojerverderyje ir Ritersverderyje paliko savo įgulą, o Vytautas Marienburge įkurdino savo karius.
 - susijęs iš [[objektai/paprociai/Sekmadieninis kaimo žmonių linksminimasis ir šokiai.md#claim-t-62715|Sekmadieninis kaimo žmonių linksminimasis ir šokiai]]: Vieną sekmadienį aplinkinių Vartenbergo kaimų žmonės linksminosi ir šoko, kai juos netikėtai užpuolė kariuomenė iš Sūduvos.
+- susijęs iš [[objektai/paprociai/Smurtinės mirties aukų laidojimas radimo vietoje ir šakelių laužo palaikymas.md#claim-t-189897|Smurtinės mirties aukų laidojimas radimo vietoje ir šakelių laužo palaikymas]]: Narbutas rašo, kad miške rastų smurtinės mirties aukų kapai būdavę pridengiami šakelių laužu, kurį kasmet slapta padegdavę.
 - susijęs iš [[objektai/paprociai/Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje.md#claim-t-77953|Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje]]: Pranciškus Skorina, pirmasis Lietuvos spaustuvininkas, 1517–1519 m. Prahoje išspausdino „Rusėnų Bibliją“, o 1522 m. įkūrė spaustuvę Vilniuje.
 - susijęs iš [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą.md#claim-t-09578|Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]: Žmones į Salas telkė bažnyčios varpų skambėjimas.
 - susijęs iš [[objektai/paprociai/Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą.md#claim-t-185892|Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas)]]: Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo, ir sušaukė seimą Lenčicoje.
@@ -1348,9 +1475,11 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/paprociai/Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė.md#claim-t-09550|Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė]]: XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė.
 - susijęs iš [[objektai/paprociai/Traukimas į žiemos stovyklas artėjant žiemai.md#claim-t-185897|Traukimas į žiemos stovyklas artėjant žiemai]]: Artėjant žiemai kariams reikėjo traukti į žiemos stovyklas, nes šis metas krašte laikytas netinkamu karui.
 - susijęs iš [[objektai/paprociai/Tvirtovių atstatymas grąžinant išblaškytus žemdirbius.md#claim-t-185908|Tvirtovių atstatymas grąžinant išblaškytus žemdirbius]]: Lietuviai siekė atstatyti tvirtoves, kad sutramdytų priešą ir susigrąžintų nuolatinės grėsmės išblaškytus žemdirbius.
+- susijęs iš [[objektai/paprociai/Upinės upelio gydomieji plovimai ir audeklų kabinimas.md#claim-t-189942|Upinės upelio gydomieji plovimai ir audeklų kabinimas]]: Narbutas rašo, kad prie Zapyškio tekėjęs Upinės, vėliau Išganytojo, upelis, prie kurio per šventes žmonės melsdavosi ir plaudavo negaluojančias kūno dalis.
 - susijęs iš [[objektai/paprociai/Valdovo pomirtinis kultas su medine statula, Vestos giraite ir amžinąja ugnimi.md#claim-t-185901|Valdovo pomirtinis kultas su medine statula, Vestos giraite ir amžinąja ugnimi]]: Po valdovo mirties jo garbei pastatyta medinė statula, o jai nugriuvus toje vietoje užaugusi giraitė paskirta Vestai.
 - susijęs iš [[objektai/paprociai/Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą.md#claim-t-185864|Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą]]: Kernavės didikų sueigoje Giliginas buvo paskelbtas Lietuvos valdovu, o rūmų maršalas jam įteikė kalaviją ir lazdą.
 - susijęs iš [[objektai/paprociai/Valerijono bursos studentų maitinimas ir maldos už fundatorių.md#claim-t-87231|Valerijono bursos studentų maitinimas ir maldos už fundatorių]]: 1579 m. kovo 6 d. Vilniaus vyskupas Valerijonas Protasevičius užrašė Akademijai tris mūrinius namus studentų maitinimui ir maldoms už fundatorių.
+- susijęs iš [[objektai/paprociai/Vaškiniu rutuliuku ir sieteliu atliekami vagies paieškos burtai.md#claim-t-189876|Vaškiniu rutuliuku ir sieteliu atliekami vagies paieškos burtai]]: Vagies paieškos burtuose buvo stebimas vaško rutuliuko judėjimas ir sukimasis.
 - susijęs iš [[objektai/paprociai/Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje.md#claim-t-55159|Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje]]: Antakalnyje, dabartinės Šv. Petro bažnyčios vietoje, stovėjo medinė šventovė, pašvęsta visiems lietuvių dievams.
 - susijęs iš [[objektai/paprociai/Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje.md#claim-t-81869|Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje]]: Antakalnio šventovėje, skirtoje lietuvių dievams, dvasininkai ketvirtadienio vakarais statydavo ir degindavo vaško žvakes.
 - susijęs iš [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo.md#claim-t-62723|Vestuvių puotos girtavimas iki užmigimo]]: Lietuvos kilmingieji per vestuves nusigėrė ir sugulė ilsėtis, o užpuolikai tada nužudė 70 kunigaikščių su šeimininku.
@@ -1362,10 +1491,12 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu.md#claim-t-54746|Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]: Viešiesiems reikalams Vilniaus magistratas galėjo naudoti tik senąjį miesto antspaudą su šv. Kristoforo atvaizdu ant raudono lako.
 - susijęs iš [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka.md#claim-t-87310|Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]: Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.
 - susijęs iš [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje.md#claim-t-87237|Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]: Vytautas globojo pirklius, o Vilniaus prekyba išsiplėtė su Prūsijos, Livonijos, Pskovo, Naugardo ir Maskvos miestais.
+- susijęs iš [[objektai/paprociai/Vyšnių medelių globėjo Kiraičio aukos.md#claim-t-189950|Vyšnių medelių globėjo Kiraičio aukos]]: Narbutas Kiraitį apibūdina kaip dievaitį, saugojusį prie ežero buvusios pilies vyšnių medelius, kuriam aukota sviedžiant papjautus gaidžius į medį.
 - susijęs iš [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys.md#claim-t-67234|Vėlyvos santuokos, kraitis ir vestuvių sutartys]]: Mergaitės iki ištekėjimo dirbo ir krovė kraitį, o nuotakos ieškojo ne turtingų, bet narsių vyrų.
 - susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67239|Įkaitų davimas kaip sutarties garantija (sutartis)]]: Unzatrapio, Gundavos ir Angetetos pilių žmonės atsiuntė įkaitų ir pasidavė krikščionių tikėjimui bei broliams.
 - susijęs iš [[objektai/paprociai/Žirgų plauko spalvos tabu iš pagarbos dievams.md#claim-t-62180|Žirgų plauko spalvos tabu iš pagarbos dievams]]: Žiokos valsčiuje gyvenęs prūsas Dargis nepakentė baltų žirgų, o Sembos fogtas Ditrichas mėgino jį atpratinti nuo šio prietaro.
 - susijęs iš [[objektai/paprociai/Žydų kelionių, laidotuvių lydėjimo, kapinių ir mokyklos apsauga.md#claim-t-87294|Žydų kelionių, laidotuvių lydėjimo, kapinių ir mokyklos apsauga]]: Krikščionis, padaręs žalą žydų kapinėse ar jas užpuolęs, turėjo būti nubaustas pagal žemės paprotį ir netekti turto iždo naudai.
+- susijęs iš [[objektai/paprociai/Žynių laikini ir pastovūs aukurai miškuose, prie vandenų ir turgavietėse.md#claim-t-189959|Žynių laikini ir pastovūs aukurai miškuose, prie vandenų ir turgavietėse]]: Narbutas rašo, kad žemesnės kategorijos žyniai miškuose, prie vandenų ir turgavietėse įsirengdavo laikinus ar pastovius aukurus aukoms.
 - susijęs iš [[objektai/posakiai/Atveskite man kunigą, nes švenčiausioji Marija, nors kiekvieną dieną esu ją maldose to prašęs, neleidžia man numirti, kol nebūsiu išpažinęs.md#claim-t-59082|Atveskite man kunigą, nes švenčiausioji Marija, nors kiekvieną dieną esu ją maldose to prašęs, neleidžia man numirti, kol nebūsiu išpažinęs]]: 1302 m. Perudžoje nukirsta plėšiko galva paprašė atvesti kunigą, nes Marija neleido jam mirti neišpažinus nuodėmių.
 - susijęs iš [[objektai/posakiai/Damoklo kardas tikrai pakibo ant unijos.md#claim-t-35967|Damoklo kardas tikrai pakibo ant unijos (unija)]]: 1430 m. kovą Jogailos pašaukti lenkai susivažiavo į Jedlną ieškoti paramos unijai, kuriai kilo pavojus dėl Vytauto veiksmų.
 - susijęs iš [[objektai/posakiai/Dar šiandien sembai bus išžudyti.md#claim-t-184026|Dar šiandien sembai bus išžudyti]]: Tą pačią dieną, kai prieš metus įvyko Pokarvių kautynės, žuvo daugiau nei trys tūkstančiai sembų ir kitų prūsų.
@@ -1375,11 +1506,13 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/posakiai/Man liūdna, kad mano mielieji sūnūs.md#claim-t-59127|Man liūdna, kad mano mielieji sūnūs]]: Petras Dusburgietis pasakoja, kad Mergelei Marijai nuliūdus ji broliui Hermanui priekaištavo dėl Teutonų ordino brolių kalbų.
 - susijęs iš [[objektai/posakiai/Matyt, tas magistras labai storas, jeigu jam reikia tokios skylės ir negali įeiti pro kitus vartus kaip kiti krikščionys.md#claim-t-59129|Matyt, tas magistras labai storas, jeigu jam reikia tokios skylės ir negali įeiti pro kitus vartus kaip kiti krikščionys]]: Moteris pašiepė magistrą, kai šis į miestą įėjo tik išlaužus sienoje 30 uolekčių ilgio spragą.
 - susijęs iš [[objektai/posakiai/Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo.md#claim-t-54760|Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo]]: Lietuviškame vertime pažadas suformuluotas kaip taika, apie kokią krikščionys niekados nė negalvojo.
+- susijęs iš [[objektai/posakiai/O wakar wakaratij.md#claim-t-189555|O wakar wakaratij]]: Narbutas posakį „O wakar wakaratij“ pateikia kaip Rėzos rinkinio dainos pradžią Naujosios Prūsijos, arba Prūsų Lietuvos, tarme.
 - susijęs iš [[objektai/posakiai/Omnia regna subiacent celesti regi Jesu Christo.md#claim-t-86869|Omnia regna subiacent celesti regi Jesu Christo]]: 1323 m. laiške vartota formulė, kad visos karalystės paklūsta dangiškajam karaliui Jėzui Kristui.
 - susijęs iš [[objektai/posakiai/Pasiimk šį savo dievo paveikslą.md#claim-t-89599|Pasiimk šį savo dievo paveikslą]]: Skomantas mirties patale pasakojo, kad prieš atsivertimą pakėlė ir nuvalė pagrobtą Marijos bei jos sūnaus paveikslą.
 - susijęs iš [[objektai/posakiai/Pasiimk šį savo dievo paveikslą.md#claim-t-89600|Pasiimk šį savo dievo paveikslą]]: Dusburgietis Skomanto atsivertimą vaizduoja kaip perėjimą nuo Dievo bažnyčios persekiojimo prie krikščionių vado vaidmens.
 - susijęs iš [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris.md#claim-t-86870|Promittimus et spondemus sub fide et honore nostris]]: Formule „promittimus et spondemus sub fide et honore nostris“ Vilnius su kitais miestais įsipareigojo rūpintis amžinosios taikos laikymusi.
 - susijęs iš [[objektai/posakiai/Pusę darbo padaro tasai, kas netrunka jo imtis.md#claim-t-59158|Pusę darbo padaro tasai, kas netrunka jo imtis]]: Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės.
+- susijęs iš [[objektai/posakiai/Sukūrimas tautinės mitologijos.md#claim-t-189599|Sukūrimas tautinės mitologijos]]: Posakis „Sukūrimas tautinės mitologijos“ cituojamas kaip bendro patriotinio reikalo grandis, kai mitologija laikyta tautinės kultūros dalimi.
 - susijęs iš [[objektai/posakiai/Tikiu dievą tėvą, visagalį.md#claim-t-59161|Tikiu dievą tėvą, visagalį]]: Brolis Henrikas ištarė „Tikiu dievą tėvą, visagalį“ ir kitus Apaštalų tikėjimo išpažinimo žodžius, kai buvo raginamas išpažinti žydų tikėjimą.
 - susijęs iš [[objektai/posakiai/Trečią dieną mirsi ir džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris į amžinas linksmybes.md#claim-t-59163|Trečią dieną mirsi ir džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris į amžinas linksmybes]]: Kronikos stebuklo pasakojime Mergelė Marija sužeistam Kulmo pilėnui pranašavo, kad jis mirs trečią dieną ir jo siela nuskris į amžinas linksmybes.
 - susijęs iš [[objektai/posakiai/Vardan Viešpaties Amen Amžinai dalykų atminčiai.md#claim-t-86852|Vardan Viešpaties Amen Amžinai dalykų atminčiai]]: Formulė „Vardan Viešpaties Amen Amžinai dalykų atminčiai“ siejama su Žygimanto Senojo raštu, patvirtinusiu Trakų žydų privilegiją.
@@ -1422,8 +1555,9 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš 1325 m. Gedimino sutartis su Łokietka: 1325 m. Vilniuje Gedimino sutartimi su Łokietka susitarta bendromis jėgomis kovoti su Prūsijos ordinu.
 - susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino.
 - susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Narbuto pasakojime pagal 1331 m. rugsėjo 17 d. sutartį prie Bartenšteino buvo sunaikintos Fridburgo ir Bajerburgo pilys.
+- susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Pagal 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino, Fridburgo ir Bajerburgo pilys buvo sunaikintos.
 - susijęs iš 1383 m. Jogailos laiškas didžiajam magistrui: 1383 m. laiške Jogaila sutiko vilkinti taikos sutartį su Mazovija, jei būtų grąžintos Vilniaus žmonių prekės ir išlaisvinti pirkliai.
-- susijęs iš 1483 metų karaliaus Kazimiero privilegija Rimvydui: Narbutas 1483 m. karaliaus Kazimiero privilegijoje Rimvydui, rašytoje rusų kalba ant pergamento, ieškojo katino kaip Lietuvos simbolio įrodymo.
+- susijęs iš 1483 metų karaliaus Kazimiero privilegija Rimvydui: Narbutas 1483 m. karaliaus Kazimiero privilegijoje Rimvydui rado įrodymą, kad katinas lietuviams buvęs Lietuvos simbolis.
 - susijęs iš 1579 m. kovo 6 d. Valerijono Protasevičiaus fundacijos užrašymas Akademijai ir Collegio: 1579 m. kovo 6 d. Vilniaus vyskupas Valerijonas Protasevičius fundacijos teise užrašė Akademijai ir Collegio tris mūrinius namus.
 - susijęs iš 1920 m. liepos 12 d. taika su Sovietų Rusija: Lietuviai sutiko įrašyti Adolfo Jofės prašytą nuostatą, kad Lietuva ir Sovietų Rusija niekuomet nebuvo karo padėtyje.
 - susijęs iš 1920 m. liepos 12 d. taika su Sovietų Rusija: Lietuviai sutiko įrašyti Adolfo Jofės prašytą nuostatą, kad Lietuva ir Sovietų Rusija niekuomet nebuvo karo padėtyje.
@@ -1445,6 +1579,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Generalinis potvarkis dėl lietuviškų monetų: Žygimantas Augustas įsakė lietuviškus grašius imti po pustrečio lenkiško grašio už du lietuviškus grašius.
 - susijęs iš Geschichte von Litauen als einem eigenen Grossfürstentume: „Geschichte von Litauen als einem eigenen Grossfürstentume“ buvo paskelbta „Fortsetzung der Allgemeinen Welthistorie“ 50-ajame tome.
 - susijęs iš Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę: 1523 m. išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ Vytauto laikus rodė kaip idealą.
+- susijęs iš Gucevičiaus popieriuose rastas rankraštis apie Mildos šventyklą: Pasak Narbuto, Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.
 - susijęs iš Henriko iš Hohenlohės pranešimas: Henriko iš Hohenlohės pranešime minimi Liubeko pirkliai, padėję maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą.
 - susijęs iš Henriko iš Hohenlohės pranešimas: Henriko iš Hohenlohės pranešime prūsų pasiuntinių vardai pateikti kaip Petraten, Preroch ir Thorandt.
 - susijęs iš Ivano laiškas karaliui su Livonijos valdovo titulu: Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu.
@@ -1471,6 +1606,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Prūsijos žemės kronika: Petras Dusburgas Prūsijos žemės kronikoje nurodė Žemaitijoje buvus net 70 tokių „karaliukų“.
 - susijęs iš Ptolomėjaus iš Lukos Analai: 1314 m. kovo 1 d. prie Karpantra, kur buvo Romos kurija, pasirodė trys saulės.
 - susijęs iš Rogero knyga: „Rogero knygos“ skyriuje apie rytų Pabaltijį Al-Idrisi, pasak Ivinskio, jau buvo paminėjęs Kauną.
+- susijęs iš Rėzos „Dainos“: Narbutas iš Rėzos „Dainų“ pateikė dainą Naujosios Prūsijos, arba Prūsų Lietuvos, tarme.
 - susijęs iš SSRS ir Lietuvos savitarpio pagalbos sutartis (1939 m. spalio 10 d.): Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.
 - susijęs iš SSRS ir Vokietijos slaptasis protokolas (1941 m. sausio 10 d.): 1941 m. sausio 10 d. slaptuoju protokolu SSRS iš Vokietijos už 7,5 mln. aukso dolerių nusipirko pietvakarines lietuvių žemes.
 - susijęs iš SSRS ultimatumas Lietuvai (1940 m. birželio 14 d.): Generolai V. Vitkauskas ir S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.
@@ -1489,6 +1625,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Vilniaus kapitulos archyvo rankraščiai: Vilniaus kapitulos archyvo rankraščiuose minimas Žygimanto Senojo raštas Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikciją.
 - susijęs iš Vulfstano pasakojimas: Vulfstano pasakojime Aismarės vadinamos Estmere.
 - susijęs iš Vytautas Didysis 1350-1430 (1930 m.): Leidinio rengėjai siekė sugrupuoti istorikų surinktus faktus lietuvio akimis ir objektyvumo laikytis tiek, kiek leido faktų pažinimas.
+- susijęs iš Vytauto Berenio ir Norberto Vėliaus įvadiniai straipsniai Teodoro Narbuto LTI leidinyje: Įvadiniuose straipsniuose Vytautas Berenis ir Norbertas Vėlius išsamiai aptarė „Lietuvių mitologijai“ tekusią mokslinę kritiką.
 - susijęs iš Walsinghamo kronika: Walsinghamo kronika 1390 m. Vilniaus užėmimo garbę priskyrė Derbio grafui ir nurodė apie 4 000 užmuštų bei sužeistų lietuvių.
 - susijęs iš Z. Ivinskis, Salyno taika: Z. Ivinskio „Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351-353 puslapiuose.
 - susijęs iš Šešerių metų paliaubų sutartis tarp Lietuvos ir Maskvos: Lietuva ir Maskva vargais negalais sutarė dėl šešerių metų paliaubų, kurios Lietuvai buvo sudarytos prastomis sąlygomis.
@@ -1506,6 +1643,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Antakalnis: Antakalnyje, dabartinės Šv. Petro bažnyčios vietoje, minima medinė visiems lietuvių dievams pašvęsta šventovė.
 - susijęs iš Apulija: Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų žemių, tad didysis magistras su taryba ir persikėlė į vieną tokią dovanotąją žemę — į Apuliją (pietų Italijoj).
 - susijęs iš Ariogala: Ariogalos apylinkės buvo laikomos pagonims svarbia vietove, siejama su Romuva, Perkūno šventykla ir Krivių Krivaičio buveine.
+- susijęs iš Ariogala: Narbutas rašo, kad Liutauro sūnus Vytenis, gimęs 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocko kunigaikštystę.
 - susijęs iš Aukaimio pilis (pilis): Į Aukaimio pilies apylinkes įsibrovę broliai jas nuniokojo degindami ir plėšdami, paėmė belaisvių ir pasitraukė su grobiu.
 - susijęs iš Aukaimio pilis (pilis): 1292 m. kryžiuočiai, grįždami nuo Junigėdos, teriojo 1291 m. sudegintos Aukaimio pilies sritį.
 - susijęs iš Aukaimio pilis (pilis): 1300 m. Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus.
@@ -1520,6 +1658,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Belichovas: Belichovo pilis stovėjo Osos pakrantėje ir priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.
 - susijęs iš Berlynas: Vienos bibliotekos rankraštis, datuojamas XVII a. ar vėlesniu laiku, buvo nurašytas nuo Berlyno teksto.
 - susijęs iš Bernardinų gatvė: 1579 m. kovo 6 d. Vilniaus vyskupas Protasevičius Akademijai ir kolegijai užrašė tris mūrinius namus, iš jų vieną Bernardinų gatvėje.
+- susijęs iš Biarmija: Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lietuvių žemėje ir kad senovės lietuviai naudojosi tomis raidėmis.
 - susijęs iš Birgelava: Treniota su talkininkais subūrė iki 30000 vyrų ir dalį jų pasiuntė į Kulmo žemę, kur buvo paimta Birgelavos pilis.
 - susijęs iš Birgelava: Į Kulmo žemę įsibrovę kariai paėmė Birgelavos pilį ir pagrobė joje buvusius gyvulius bei mantą.
 - susijęs iš Birgelava: Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.
@@ -1532,6 +1671,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Chełmža: Skomantui priartėjus prie Chełmžos, lenkų karys Ninerikas įsigavo į miestą ir pažadėjo jį išduoti Skomantui.
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.
 - susijęs iš Deltuva: Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų .
+- susijęs iš Deltuva: Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos.
 - susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Naugardą ir Pskovą.
 - susijęs iš Dniepras: Plinijus du kartus minėjo neurus, pas kuriuos prasideda Dniepras, dar vadintas Borysthenu.
 - susijęs iš Dniepras: Dniepras, dar vadintas Borysthenu, buvo minimas kaip prasidedantis pas neurus.
@@ -1542,14 +1682,19 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Dramenava: Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė belaisvių ir išžudė daug žmonių.
 - susijęs iš Dramenava: Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą ir grįžo su dideliu grobiu.
 - susijęs iš Druckas: Petro Šuiskio vadovaujama kariuomenė iš Polocko traukė į Drucką, kur turėjo susijungti su Baziliaus Serebriano pajėgomis.
+- susijęs iš Drujos apylinkė: Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą.
+- susijęs iš Drujos apylinkės ir Druja: Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą.
+- susijęs iš Druskininkų pilkapynas: Narbutas mini chemiko raštelį, kuriame teigta, kad 1819 metais Druskininkų vandenyje aptikta bromo, bet pats šios žinios nepatvirtino.
 - susijęs iš Dubingių valsčius: Rašelė minima kaip viena iš upių prie Lakajų ežero Dubingių valsčiuje.
 - susijęs iš Dubrovna: 1562 m. maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo ir Dubrovnos apylinkes.
 - susijęs iš Eimsutis: Eimsučio pilis šaltinyje minima kaip castrum Hemsot, o jos vieta siejama su dabartine Pšečna netoli Kulmenzės.
 - susijęs iš Elbingas: 1273 m. pagudėnai paslėpė kariuomenę miške netoli Elbingo ir pasala atkirto miestiečiams kelią į miestą.
 - susijęs iš Elbingas: Žiemą daugiau kaip 60 tūkstančių karių atžygiavo į Elbingą, bet ginčas malūne vos nesuardė žygio.
 - susijęs iš Elbingas: Dusburgietis Elbingo brolių išsigelbėjimą aiškina stebuklu, kai prūsų kariuomenė vietoje mažo kryžiuočių būrio išvydo didžiulę kariuomenę.
+- susijęs iš Eliziejaus laukai: Narbutas aiškino, kad kūnui sunykus žmogaus šešėlis išsivaduoja ir gali skristi į Eliziejaus laukus.
 - susijęs iš Europa: Vilnius buvo vadinamas vienos galingiausių Šiaurės Europos šalių sostine ir svarbiausiu Lietuvos mokslo bei valdžios centru.
 - susijęs iš Ežeronis: Projekte Lietuvos siena nuo Druskininkų turėjo eiti per Ežeronis ligi Volios.
+- susijęs iš Fridburgas: XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pasistatė Fridburgą ir Bajerburgą.
 - susijęs iš Gaižuvos valsčius: 1294 m. žiemą viena Ordino kariuomenės dalis patraukė į Gaižuvos valsčių ir kartu su kita dalimi nusiaubė Gaižuvą bei Paštuvą.
 - susijęs iš Gardinas: 1801 m. Lietuvos gubernija padalyta į Lietuvos Vilniaus ir Lietuvos Gardino gubernijas.
 - susijęs iš Gardinas: 1917 m. Berno konferencijoje Lietuvos teritorijai siūlyta priskirti Balstogės, Gardino, Slanimo ir Valkavisko apskritis.
@@ -1571,22 +1716,23 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Goras: 2004 m. pabaigoje Lietuvai pasiūlyta vadovauti Afganistano Goro provincijos atkūrimo grupei.
 - susijęs iš Gostininas: Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui.
 - susijęs iš Gotesverderis: Kryžiuočiai prie Nemuno, beveik priešais Kauną, pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.
+- susijęs iš Graikija: Narbutas vaizduoja Graikijos ir senosios Romos dievus kaip persikėlusius į Lietuvos kraštus ir susiliejusius su vietos tikyba.
 - susijęs iš Grajevo: Lietuvos ribos buvo pravestos per Grajevo ir Ragordo ežerus, Vištyčio ežerą, Leipūnos ir Širvintos upes iki Šešupės.
 - susijęs iš Imsrė: 1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą Georgenburgo (Jurbarko) pilį.
 - susijęs iš Ispanija: Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos.
 - susijęs iš Ispanija: 1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo.
 - susijęs iš Italija: Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.
 - susijęs iš Italija: Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.
+- susijęs iš Italija: Narbutas teigė, kad gotai lietuviams būtų primetę ne iš Italijos miestų išguitą romėnų stabmeldystę, o krikščionybę arba šiaurės asų religiją.
+- susijęs iš Išlaužas: Narbutas rašė matęs kapo laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus, važiuodamas per Išlaužą.
 - susijęs iš Jedlno: Jedlnos nutarimuose lenkai pasirinko Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios bei pritarimo.
 - susijęs iš Jeruzalė: Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.
 - susijęs iš Jotvingija: 1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.
 - susijęs iš Junigeda: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą ir su juo plaukė pulti Junigedos pilies.
 - susijęs iš Juodosios jūros sritis: Prieš Algirdo mirtį plati rytų Europos valstybė pietuose apėmė Podoliją, nusitęsusią link Juodosios jūros srities stepių.
-- susijęs iš Jurbarkas: Apgriautos pilies plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.
-- susijęs iš Jurbarkas: 1259 m. prie Nemuno buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti.
-- susijęs iš Jurbarkas: Aprašomu metu apgriuvusios sienos ir bokštų plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.
 - susijęs iš Kaidanovas: Lietuvos metraštyje Kaidanovas vaizduojamas kaip vieta prie Skirmanto sienos, kur jis pasitiko chano pajėgas.
 - susijęs iš Kaidanovas: Lietuvos metraštyje pasakojama, kad Kaidanove Skirmantas pasitiko chano pajėgas, jas sumušė ir nukovė patį chaną.
+- susijęs iš Kalnėnai: Narbutas rašo, kad 1805 m. vieną sekmadienį Kalnėnuose prie vainikais papuoštos blindės matė besimeldžiančias ir besikalbančias moteris.
 - susijęs iš Kaniūkai: Kolona pro Kaniūkų ir Pakalnių kaimus turėjo veržtis Utenos kryptimi.
 - susijęs iš Karaliaučius: 1323 m. notaro parengtas Gedimino laiškų dokumentas buvo saugomas Karaliaučiaus slaptajame archyve.
 - susijęs iš Karaliaučius: Autentiškas 1323 m. notaro parengtas Gedimino laiškų dokumentas buvo Karaliaučiaus slaptajame archyve.
@@ -1598,11 +1744,17 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Karšuvos sritis: 1259 m. Karšuvos srityje prie Mituvos ir Imsrės žiočių Livonijos ir Prūsų kryžiuočiai statė bendrą Georgenburgo pilį.
 - susijęs iš Karšuvos žemė: Burchardas iš Hornhauzeno patvarkė, kad Karšuvos žemėje ant švento Jurgio kalno būtų pastatyta pilis.
 - susijęs iš Karšuvos žemė: 1259 m. Karšuvos žemėje ant švento Jurgio kalno buvo pastatyta pilis, kurią saugojo Prūsijos ir Livonijos įgula.
+- susijęs iš Kaunas: Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią.
+- susijęs iš Kaunas: Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią lietuvių tautos religinę ir tautinę dvasią.
+- susijęs iš Kaunas: 1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir ėmė siaubti kraštą.
+- susijęs iš Kaunas: 1385 metų rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną.
+- susijęs iš Kaunas: Romas Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą.
+- susijęs iš Kaunas: Narbutas rašo, kad prie kelio iš Kauno į Prienus, važiuodamas per Išlaužą, kairiajame Nemuno krante matė kapą dengusį laužą.
 - susijęs iš Kauno VII fortas: TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte.
 - susijęs iš Kauno VII fortas: TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte.
 - susijęs iš Kauno gubernija: 1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.
-- susijęs iš Kernavė: Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą.
-- susijęs iš Kernavė: Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.
+- susijęs iš Kernavė: XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės.
+- susijęs iš Kernavė: Narbutas aiškino, kad iki Vilniaus įkūrimo XIII a. Kernavėje buvusi valstybės sostinė, vyriausiojo žynio buveinė ir šventykla.
 - susijęs iš Kersovas: Aštuoni šimtai Lietuvos raitelių Kersovu vadinamoje Lenkijos žemės dalyje nuniokojo 10 kaimų.
 - susijęs iš Kijevas: Gediminas, užkariavimais pasiekęs žemes už Kijevo, įsakė pastatyti pilį Vilniuje ir perkėlė savo buveinę iš Trakų.
 - susijęs iš Kijevo žemės: Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes.
@@ -1663,15 +1815,13 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Lietuva: XX a. Lietuva apsisprendė atkurti valstybę etnografiniu principu kaip lietuviškai kalbančią Lietuvą.
 - susijęs iš Lietuva: Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu.
 - susijęs iš Lietuva: 1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.
-- susijęs iš Lietuva: Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.
 - susijęs iš Lietuva: Pasak citatos, Lietuvos vardas Europai tapo žinomas tik X amžiuje.
 - susijęs iš Lietuva: Lietuvos delegacija pareiškė nepripažįstanti Zigmanto didžiuoju kunigaikščiu, nes jis buvo išrinktas be lietuvių.
 - susijęs iš Lietuva: Mindaugo karūnacija užbaigė Lietuvos valstybės susikūrimą, nes Lietuvą pripažino to meto pasaulis.
-- susijęs iš Lietuva: Tačiau lietuviai visą laiką reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pasienyje.
-- susijęs iš Lietuva: Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.
 - susijęs iš Lietuva: Pavasario pradžioje kariuomenės buvo išvestos į Lietuvą ir pirmiausia puolė Kauną.
 - susijęs iš Lietuva: Sugriovus pilis, žemdirbiai palikdavo kaimus, o priešas leisdavosi vis toliau į Lietuvos gilumą.
 - susijęs iš Lietuva: Andrejus Kurbskis, nepakęsdamas Ivano žiaurumo, su visa šeimyna persikėlė į Lietuvą.
+- susijęs iš Lietuva: Narbutas teigė lietuvių žemėje aptikęs Biarmijos raidyno pėdsakų, rodančių, kad senovės lietuviai naudojosi tomis raidėmis.
 - susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
 - susijęs iš Livonija: Petro iš Dusburgo kronikos nuorašas buvo Livonijos Roneburgo pilies bažnyčioje.
 - susijęs iš Livonija: Po 1183 m. žygio į Rusios žemes lietuviai kasmet rengė po vieną ar du žygius ne tik į Rusią, bet ir į Lenkiją bei Livoniją.
@@ -1679,6 +1829,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Lotynų Amerika: Iš Lotynų Amerikos plukdomas auksas prisidėjo prie Ispanijos ir Portugalijos lyderystės praradimo, nes neskatino plėtoti jų miestų ir ekonomikos.
 - susijęs iš Lubava: 1303 m. penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę ir apiplėšė daug kaimų.
 - susijęs iš Luckas: Po senato posėdžio karalius skubiai išvyko iš Lucko, net neatsisveikinęs su imperatoriumi.
+- susijęs iš Lužitėnų kraštas (kraštas): Narbutas Lužitėnų kraštą mini tarp vietovių, kuriose rasta panašiais ženklais pažymėtų akmenų, jo laikytų deivės Velionos aukurais.
+- susijęs iš Lydos apskritis: Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su Ragučio žynių moterų pavadinimu.
 - susijęs iš Madridas: XVI–XVII a. Madridas tebespinduliavo katalikybės ir barokinės architektūros bei dailės šviesą iki Meksikos ir Paragvajaus.
 - susijęs iš Maišiagala: Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.
 - susijęs iš Marienverderis: Prūsai antrą kartą sugriovė atstatytą Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba nužudė.
@@ -1691,6 +1843,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Mazovija: Prūsijos žemę iš vienos pusės ribojo Mazovijos kunigaikštystė.
 - susijęs iš Medininkų valsčius: 1314 m. brolis Henrikas su Sembos ir Notangos vyrais įsiveržė į Medininkų valsčių, jį nusiaubė ir paėmė ar nužudė 700 žmonių.
 - susijęs iš Mendzižečės giria: Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.
+- susijęs iš Merkinės valsčius: Narbutas nurodė, kad 1483 m. Kazimiero privilegijoje Merkinės valsčiaus valstiečių maišto nuslopinimas minimas kaip atpildo Rimvydui pagrindas.
 - susijęs iš Minskas: Baziliaus Serebriano ir Petro Šuiskio vadovaujamos pajėgos turėjo susijungti Drucke ir pulti Minsko, Naugarduko bei Vilniaus kryptimi.
 - susijęs iš Minskas: Į Lietuvą įsiveržusi totorių kariuomenė užėmė Minską ir kitas vietoves, tarp jų Borisovą, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.
 - susijęs iš Minskas: 1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.
@@ -1700,15 +1853,21 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Nalšėnai: Vaišvilkui imant Nalšėnų pilis, Nalšėnų Daumantas pabėgo į Pskovą su šeima, bajorais ir palydovais.
 - susijęs iš Narva: Ties Narva Estijoje buvo visiškai sunaikinta caro kariuomenė.
 - susijęs iš Naugardas ir Pskovas: Naugardą ir Pskovą aplankyti vykusiems pasiuntiniams buvo leista pereiti sienas be tikrinimo.
+- susijęs iš Naugardas: Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti variagų atgabenta lietuvių kolonija.
+- susijęs iš Naugardas: Senyvo amžiaus Vytautas kariavo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai patirtas skriaudas.
+- susijęs iš Naugardas: 1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai.
 - susijęs iš Naugardukas: Kunigaikščių Baziliaus Serebriano ir Petro Šuiskio pajėgos planavo pulti Minsko, Naugarduko ir Vilniaus kryptimi.
 - susijęs iš Naugardukas: Gediminas prašė atsiųsti keturis brolius prie Vilniuje ir Naugarduke pastatytų bažnyčių.
 - susijęs iš Naugardukas: Gediminas teigė pastatęs pranciškonų bažnyčias Vilniuje ir Naugarduke.
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad po Vytauto pergalės Dokudove kunigaikštis Kaributas su šeima pabėgo į Naugarduką.
 - susijęs iš Nemunas: Kronikos įvade Kryžiuočių ordino ekspansijos plotas apibūdinamas kaip siekęs nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio.
 - susijęs iš Nemunas: Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.
+- susijęs iš Nemunas: Per šešerius metus lietuviai, gyvenę Nemuno pakrantėje nuo Neries upės iki Lamatos žemės, buvo priversti laikytis taikos su krikščionimis.
 - susijęs iš Nemunas: Nepajėgęs užimti pilies, priešas pasitraukė į už vienos mylios esančias Nemuno salas ir pastatė ten naujas pilis.
+- susijęs iš Nemunas: Narbutas rašė matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus per Išlaužą.
 - susijęs iš Notanga: Kariuomenė per Notangos kraštą įžengė į priešų žemę ir Prūsijos centre pasirinko stovyklos vietą.
 - susijęs iš Notanga: Komtūro kariuomenė įsibrovė į taikos sutarčių nepripažinusį Notangos pakraštį, jį nuniokojo ir nužudė vadą Gadiką su dviem sūnumis.
+- susijęs iš Nočia: Narbutas rašo, kad prie Nočios miestelio atsitiktinai atkastame kape rastas akmeninis kirvukas iš kietos geležies.
 - susijęs iš Olandija: XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.
 - susijęs iš Pabečiai: Broliai su kariuomene patraukė prieš Pabečių valsčių, nusiaubė Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių.
 - susijęs iš Pabečiai: Po žygių prieš kaimyninius valsčius broliai patraukė su kariuomene prieš Pabečių valsčių.
@@ -1722,6 +1881,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Perudža: 1302 metais Perudžoje buvo nukirsdintas plėšikas, kuris, pasak kronikos, gerbė mergelę Mariją.
 - susijęs iš Peštvė: Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta.
 - susijęs iš Pieštvė: Kryžiuočiai per vieną žygį sugriovė Pieštvės ir Veliuonos pilis, o Pieštvės gynėjai pilį atidavė be kovos.
+- susijęs iš Pilies kalnas Vilniuje (pilis): Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies kalne iš saulėtekio pusės.
 - susijęs iš Pina: Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas.
 - susijęs iš Pina: Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas.
 - susijęs iš Plockas: Nuniokojus Lenkijos žemę, kunigaikščiui prie Vyslos liko viena pilis, vadinama Plocku.
@@ -1735,6 +1895,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Prancūzija: Katalikybė sudarė prielaidą Italijos ir Ispanijos baroko kultūrai plisti Prancūzijoje.
 - susijęs iš Prancūzija: Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.
 - susijęs iš Prancūzija: XVII–XVIII a. Italijos ir Ispanijos baroko kultūra plito katalikiškoje Prancūzijoje, Bavarijoje ir Flandrijoje.
+- susijęs iš Prienai: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
 - susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo grąžinti Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.
 - susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo, kad Vokiečių Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.
 - susijęs iš Prūsija: 1325 m. Vilniuje Gediminas ir Lokietka sudarė sutartį bendromis jėgomis kovoti su Prūsijos ordinu.
@@ -1748,17 +1909,25 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Ragainė: 1289 m. brolis Meinhardas Nemuno pakrantėje pastatė Landeshutės pilį, kuri vėliau vadinta Ragaine.
 - susijęs iš Ragainė: 1299 m. Brandenburgo komtūras Kanonas papildė kariuomenę stipriu Ragainės būriu ir laivais nuplukdė ją į Lietuvos gilumą.
 - susijęs iš Ragordo ežerai: Siena buvo pravesta nuo Mozūrijos sienos į Grajevo ir Ragordo ežerus, toliau per Vištyčio ežerą ir upes iki Nemuno.
+- susijęs iš Ragutėniškiai: Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su jo aptartu moterų žynių Ragutienių pavadinimu.
 - susijęs iš Raseiniai: Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
 - susijęs iš Rastenburgas: Veliuonoje pasilikęs karalius medžiodamas vos išvengė Rastenburgo komtūro surengtų kryžiuočių pasalų.
 - susijęs iš Romainiai: Balińskio manymu, po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai tikriausiai buvo perkelti iš Romainių į Vilnių.
 - susijęs iš Romintės giria: Nadruvos pietryčiuose, Pisos intako Romintės (dab.
 - susijęs iš Romovė Romuva: Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta apskritai nebeatsekama.
 - susijęs iš Romovė Romuva: Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta apskritai nebeatsekama.
+- susijęs iš Romovė: Narbutas nurodo, kad Dusburgietis Romovę aprašė kaip kadaise buvusį šventą miestą ir krivio buveinę.
+- susijęs iš Romuniškiai: Narbutas, remdamasis Hartknochu, Romuniškius mini Žemaitijoje, už sienos nuo Prūsijos Romučių kaimo prie Tenenio upės.
 - susijęs iš Romuva: Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine.
+- susijęs iš Romučiai: Hartknochas Narbuto perteikime Romučių kaimo apylinkėse prie Tenenio upės lokalizavo garsų šventąjį mišką prie Žemaitijos sienos.
+- susijęs iš Rosė (Ross) upė Kijevo gubernijoje: Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą iš ten kadaise gyvenusių lietuvių genties tautų.
+- susijęs iš Rosė: Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė vardą gavusia iš lietuvių genties tautų.
+- susijęs iš Rusa (Russ) upė Naugardo gubernijoje: Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upei vardą davė variagų atgabenta lietuvių tautos kolonija.
 - susijęs iš Rusnė: Nustačius sieną, Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui trijų mylių atstumu nuo Nemuno ir marių.
 - susijęs iš Rytų Prūsija: Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmečio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prūsijos, lietuvių vadinamos Mažąja Lietuva, nevaldė.
 - susijęs iš Rytų Prūsija: Versalyje Lietuvos delegacija kėlė Rytų Prūsijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą.
 - susijęs iš Rytų Prūsija: Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmečio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prūsijos, lietuvių vadinamos Mažąja Lietuva, nevaldė.
+- susijęs iš Rytų Sibiras: Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas.
 - susijęs iš Rūdninkų giria: Rūdninkų medžionė priklausė daugiau kaip 3000 valakų Mendzižečės giriai, kuri buvo smarkiai nuniokota.
 - susijęs iš Rževas: Iki Algirdo mirties Lietuvos valstybė šiaurės rytuose siekė Volgos aukštupių ties Rževu.
 - susijęs iš Saksonija: Saksonija buvo nuo Lenkijos netolima teritorija.
@@ -1790,6 +1959,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Trakai: Jogaila siekė pirmiausia pašalinti Trakuose gyvenusį Kęstutį, nes šis trukdė jo valdžios planams.
 - susijęs iš Trakai: Jogaila atleido Vytautui ir jo šalininkams, paėmė ištikimybės priesaiką ir grąžino Vytautui Trakus bei Gardiną.
 - susijęs iš Trakai: Trakų žydai prašė patvirtinti Aleksandro, arba Vytauto, suteiktas teises, laisves ir privilegijas.
+- susijęs iš Upinės upelis Išganytojo upelis: Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante prie Zapyškio, tarp Kauno ir Vilkijos.
 - susijęs iš Vaistotpilis: Vaistotpilis buvo Bartos žemėje, Gubros pakrantėje stovėjusi brolių pilis.
 - susijęs iš Valerijono Bursa (sujungti pirminiai pavadinimai Valerijono bursos; Valerijono Bursa): 1579 m. Vilniaus vyskupas Protasevičius nustatė, kad Akademijai užrašyti namai būtų vadinami Valerijono bursomis.
 - susijęs iš Valerijono Bursa (sujungti pirminiai pavadinimai Valerijono bursos; Valerijono Bursa): Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.
@@ -1805,6 +1975,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Veliuona: Veliuonoje abi šalys turėjo tartis, ar pratęsti sudarytą susitarimą, ar sudaryti amžiną taiką.
 - susijęs iš Veliuona: Pasibaigus susitikimui karalius kurį laiką pasiliko Veliuonoje pailsėti, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.
 - susijęs iš Vidurio Europa: Katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos.
+- susijęs iš Vilkija: Kairiajame Nemuno krante tarp Kauno ir Vilkijos buvo Zapyškis, prie kurio tekėjo upelis, kadaise vadintas Upinės, vėliau Išganytojo vardu.
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Gediminas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos upių santakoje.
 - susijęs iš Vilniaus gubernija: 1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis.
 - susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus katedros bažnyčioje ties šventovės viduriu buvo Šventojo Kryžiaus altorius.
@@ -1849,6 +2020,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Vilnius: Pirmasis autentiškas Vilniaus kaip miesto ir Gedimino sostinės paliudijimas siejamas su 1323 m. spalio 2 d. Vilniuje pasirašyta sutartimi.
 - susijęs iš Vilnius: Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo.
 - susijęs iš Vilnius: Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
+- susijęs iš Vilnius: Narbutas spėjo, kad Vilniuje kunigaikščių pelenai turėtų būti pakasti Pilies kalno rytinėje pusėje.
 - susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
 - susijęs iš Vingrių šaltiniai: Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
 - susijęs iš Vitebskas: 1562 m. maskvėnai nusiaubė Vitebsko apylinkes, o lietuviai atsakydami nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje.
@@ -1870,6 +2042,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Vėluva: Rugpjūtį lietuviai pasiekė Vėluvos apylinkes, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais.
 - susijęs iš Vėluva: Rugpjūtį lietuviai prasigavo iki Vėluvos apylinkių, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais.
 - susijęs iš Vėluva: Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė.
+- susijęs iš Zapyškis: Narbutas Zapyškį apibūdina kaip mažą miestelį kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, kadaise vadinto Upinės, o jo metu - Išganytojo vardu.
 - susijęs iš Zaslavlis: Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno.
 - susijęs iš Zilija: Konradas iš Tirbergo su Ordino kariuomene įsiveržė į Sūduvos valsčių Ziliją ir jį nusiaubė.
 - susijęs iš Šešupė: Vytauto nustatytos Lietuvos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.
@@ -1882,43 +2055,56 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš Šv. Dvasios prieglauda Vilniuje: Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.
 - susijęs iš Šv. Jono akademijos spaustuvė: Akademijos kolegija 1631 m. įgijo sklypą ir mūrinį namą, kurį vėliau pavertė spaustuve.
 - susijęs iš Šventaragio slėnis: Skirgaila Šventaragio slėnyje surengė karališkas šermenis ir laidotuves savo dėdei Kęstučiui.
+- susijęs iš Šventasis miškas prie Tenenio upės: Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, bet nelaimingiesiems veikiausiai ne.
 - susijęs iš Švento Jurgio pilis (pilis, XIII a.): Burchardas iš Hornhauzeno, būdamas Livonijos žemės magistru, pasirūpino Švento Jurgio pilies statyba Karšuvoje.
 - susijęs iš Švento Jurgio pilis (pilis, XIII a.): Švento Jurgio pilis 1259 m. pastatyta Karšuvos žemėje ant švento Jurgio kalno Livonijos ir Prūsijos brolių lėšomis bei darbu.
 - susijęs iš Švento Jurgio pilis (pilis, XIII a.): 1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams.
 - susijęs iš Žemaitija: Bendros sukilimo vadovybės Lietuvoje nebuvo, daug „vyriausybių“ veikė konkrečios apskrities teritorijoje, o viena tokių „vyriausybių“ pasiskelbė Žemaitijos vyriausybe.
 - susijęs iš Žemaitija: Vytautui priskiriama bažnyčios fundacija buvo laikoma viena pirmųjų bažnyčių Žemaitijoje po krikščionybės įvedimo.
+- susijęs iš Žemaitija: 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai.
 - susijęs iš Žemaitija: Žemaitijoje, pasak Kojelavičiaus, tuo metu priešų nebuvo, bet kaimus niokojo nuodingi kirminai.
+- susijęs iš Žemaitija: Narbutas teigia turėjęs Žemaitijoje nuo akmens perpieštą užrašą, kuriame atpažino kelias biarmiškas raides.
+- susijęs iš Žemutinė Saksonija: Narbutas rašo, kad Žemutinėje Saksonijoje buvo akmenų su ženklais, panašiais į rastus Lietuvos, Pamario ir lužitėnų kraštuose.
 - susijęs iš Žgvižda: Žgvižda buvo Rūdninkų girios dalis, nuo Rūdninkų nutolusi apie pusantros mylios Miedzyrzeczo link.
 - susijęs iš Žirnajos upelis: Priešingos kariuomenės viena kitą pastebėjo šiauriau Žirnajų ežero, ties vieta, kur išteka Žirnajos upelis.
 - susijęs iš Žirnajų ežeras: Švitrigailos ir Ordino pajėgos prie Žirnajų ežero judėjo vakarine pakrante, o Žygimanto kariuomenė traukė rytine ežero puse.
 - susijęs iš „Lietūkio“ garažas: 1941 m. birželio 27 d. „Lietūkio“ garaže vyko žydų žudynės.
 - susijęs iš [[objektai/zodynas/Alkos ir romuvos.md#claim-t-06172|Alkos ir romuvos]]: Pasakojimas apie vieną vyriausiąją Romuvą laikomas viduramžių rašytojų prasimanymu.
 - susijęs iš [[objektai/zodynas/Alkos ir romuvos.md#claim-t-06173|Alkos ir romuvos]]: Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų.
+- susijęs iš [[objektai/zodynas/Budintoja Varpas Paparona.md#claim-t-189284|Budintoja Varpas Paparona]]: Narbutas žodį Paparona laikė grynai lietuvišku sargyboje stovinčio kariškio pavadinimu, o ne kilusiu iš Parta Roma.
+- susijęs iš [[objektai/zodynas/Dangaus kūnų sudievinimas.md#claim-t-189146|Dangaus kūnų sudievinimas]]: Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo manymu, kilo kai kurie anksčiau aptarti lietuvių dievaičiai.
 - susijęs iš [[objektai/zodynas/Dvilaukė sistema.md#claim-t-184355|Dvilaukė sistema]]: Dvilaukė sistema atsirado iš lydiminės žemdirbystės, kai nulaisintas lydimas ilgai turėjo pūdymauti.
 - susijęs iš [[objektai/zodynas/Dvilaukė sistema.md#claim-t-32749|Dvilaukė sistema]]: Dvilaukė sistema atsirado, kai apžėlęs lydimas virsdavo ganykla, o naujas lydimas buvo daromas kitoje miško ar pamiškės vietoje.
 - susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
 - susijęs iš [[objektai/zodynas/Ermyderiai.md#claim-t-69996|ermyderiai]]: Ermyderiai žemėje, vandenyje ir ore rodo pasaulyje buvusias atmainas, apie kurias raštai tyli.
 - susijęs iš [[objektai/zodynas/Ermyderiai.md#claim-t-69998|ermyderiai]]: Ermyderiai apibūdina žemės, vandens ir oro reiškinius, liudijančius pasaulio atmainas.
 - susijęs iš [[objektai/zodynas/Feodalinė visuomenė lenas vienvaldystė.md#claim-t-86580|Feodalinė visuomenė lenas vienvaldystė]]: Jogailos valdymo pradžioje Lietuvoje ėmė irti feodalinės visuomenės pamatai, kuriuos buvo gebėjęs išlaikyti Gediminas.
+- susijęs iš [[objektai/zodynas/Fetišas fetišai.md#claim-t-189262|Fetišas fetišai]]: Narbutas į senosios lietuvių religijos vaizdą įtraukė 22 „paslaptingąsias dievybes“ ir fetišus.
 - susijęs iš [[objektai/zodynas/Kerzono linija.md#claim-t-44059|Kerzono linija]]: Projekte Lietuvos siena turėjo eiti Kerzono linija iki Nemuno, o Suvalkų krašte ji buvo nustatyta Suvalkų sutartyje kaip demarkacijos linija.
 - susijęs iš [[objektai/zodynas/Kerzono linija.md#claim-t-44060|Kerzono linija]]: Projekte Lietuvos siena turėjo eiti Kerzono linija iki Nemuno, o Suvalkų krašte ji buvo nustatyta Suvalkų sutartyje kaip demarkacijos linija.
 - susijęs iš [[objektai/zodynas/Kristaus kariai.md#claim-t-58855|Kristaus kariai]]: Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde.
 - susijęs iš [[objektai/zodynas/Lažas.md#claim-t-70014|lažas]]: `Lažas` siejamas su baudžiavos įvedimu ir laikomas lenkišku žodžiu.
+- susijęs iš [[objektai/zodynas/Lietuva Lietwii kaip laisvės ženklas.md#claim-t-189117|Lietuva Lietwii kaip laisvės ženklas]]: Narbutas 1483 m. Kazimiero privilegiją Rimvydui laikė įrodymu, kad katinas lietuviams buvo stabmeldiškosios laisvės, arba Lietwii, ženklas.
 - susijęs iš [[objektai/zodynas/Lietuviška Lietuva.md#claim-t-75571|Lietuviška Lietuva]]: Lietuviška Lietuva, nors tarpais buvo be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu.
 - susijęs iš [[objektai/zodynas/Marčelga.md#claim-t-07656|marčelga]]: Marčelga buvo jaunojo palydos vyresnysis arba gaspadorius, taip vadintas todėl, kad martavo marčią.
 - susijęs iš [[objektai/zodynas/Medė.md#claim-t-70028|medė]]: Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės.
+- susijęs iš [[objektai/zodynas/Obelijos.md#claim-t-189234|Obelijos]]: Narbutas Obelijomis vadina senąsias vietas Tikrojoje Lietuvoje, kur būdavo dedami sudegintų žmonių pelenai.
 - susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-184631|Ordino brolis]]: Mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, vadinamų broliais.
 - susijęs iš [[objektai/zodynas/Pilininkas.md#claim-t-89572|Pilininkas]]: Surminas, Kolainių pilininkas, sušaukė pilėnus tartis, kaip apgauti pro pilį plaukiančius Ordino brolius.
 - susijęs iš [[objektai/zodynas/Planinė ekonomika.md#claim-t-183452|Planinė ekonomika]]: Planinės ekonomikos metais Lietuvos visuomenėje tikėta, kad perėmus gamybą bus galima ją paskirstyti pagal poreikius ir valstybė suklestės.
 - susijęs iš [[objektai/zodynas/Planinė ekonomika.md#claim-t-22013|Planinė ekonomika]]: Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad perėmus gamybą ją bus galima paskirstyti pagal poreikius.
 - susijęs iš [[objektai/zodynas/Restitucija.md#claim-t-22021|Restitucija]]: Įtvirtindama demokratines vertybes Lietuva siekė vykdyti religinio turto restituciją ir grąžinti žydų kultūros vertybes.
+- susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189139|Romovė Romuva Romow]]: Narbutas rašė, kad Dusburgietis Romovę vaizdavo kaip kadaise Prūsijoje buvusį šventą miestą ir krivio buveinę.
+- susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189140|Romovė Romuva Romow]]: Narbutas teigė, kad paskutiniais stabmeldystės amžiais Romovių būta keliose vietose ir jose gyveno atskiri kriviai.
 - susijęs iš [[objektai/zodynas/Sanctuarium.md#claim-t-86616|Sanctuarium]]: Veliuonos aukštutinio miestelio gotikinės mūro bažnyčios mažesnioji dalis buvo vadinama Sanctuarium.
 - susijęs iš [[objektai/zodynas/Stigavoja.md#claim-t-70051|stigavoja]]: Žodis „stigavoja“ citatose vartojamas pasakų ir senovės raštininkų liudijimams nusakyti.
 - susijęs iš [[objektai/zodynas/Sutartinės.md#claim-t-07663|sutartinės]]: Sutartinės vadintos dainomis, kurias sueigose dainuodavo atlieptinai.
 - susijęs iš [[objektai/zodynas/Suverenitetas.md#claim-t-10899|Suverenitetas]]: 1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą.
 - susijęs iš [[objektai/zodynas/Suverenitetas.md#claim-t-10900|Suverenitetas]]: Suvereniteto sąvoka taikoma ir Lietuvos teisėms į Vilniaus sritį.
+- susijęs iš [[objektai/zodynas/Upinė.md#claim-t-189185|Upinė]]: Narbutas rašė, kad prie Zapyškio tekėjęs mažas upelis anksčiau vadintas Upinės upeliu, o vėliau - Išganytojo vardu.
 - susijęs iš [[objektai/zodynas/Variagai.md#claim-t-55272|Variagai]]: Riurikas ir jo variagai, Balinskio aiškinimu, į Rusią galėjo būti atblokšti Petro Olai aprašyto įvykio.
 - susijęs iš [[objektai/zodynas/Variagai.md#claim-t-82105|Variagai]]: Petro Olai „Danų kronikoje“ aprašytas įvykis siejamas su Riuriko ir jo variagų pasitraukimu į Rusiją.
+- susijęs iš [[objektai/zodynas/Varpas Gumbi Paparona.md#claim-t-189257|Varpas Gumbi Paparona]]: Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimiečių kariškiui sargyboje apibūdinti.
 - susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108561|administracinė linija demarkacijos linija]]: 1919 m. birželio 18 d. „Maršalo Fošo“ demarkacijos liniją lenkai ignoravo, o Antantė vengė pripažinti naujas valstybes.
 - susijęs iš [[objektai/zodynas/alanai.md#claim-t-185378|alanai]]: Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į karų neniokojamas, įsikurti tinkamas žemes.
 - susijęs iš [[objektai/zodynas/amžina vergovė amžini vergai.md#claim-t-58890|amžina vergovė amžini vergai]]: Per Lenkijos žemės antpuolius moterys ir vaikai buvo išvaryti į amžiną vergovę.
@@ -1952,6 +2138,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101586|federacija federacinė valstybė]]: Po unijos LDK išlaikė atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą.
 - susijęs iš [[objektai/zodynas/federacija konfederacinė valstybė unitarinė valstybė.md#claim-t-22144|federacija konfederacinė valstybė unitarinė valstybė]]: LDK turėjo atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą.
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82058|feodalizmas]]: Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs.
+- susijęs iš [[objektai/zodynas/fetišai.md#claim-t-189358|fetišai]]: Narbutas savo senosios lietuvių religijos vaizdinyje prie dievų, deivių, pusdievių ir sudievintų dangaus kūnų priskyrė ir fetišus.
 - susijęs iš [[objektai/zodynas/fizikas rūmų daktaras Leibarzt.md#claim-t-86526|fizikas rūmų daktaras Leibarzt]]: Aleksandrui kelerius metus sirgus, iš Krokuvos atvyko Motiejus iš Blonios, vadintas fiziku arba rūmų daktaru.
 - susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86417|fundacija]]: Vytautui priskirta viena pirmųjų po krikščionybės įvedimo Žemaitijos bažnyčių fundacijų.
 - susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-175170|ginklanešiai]]: 1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.
@@ -2009,6 +2196,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/zodynas/vora.md#claim-t-184651|vora]]: Girdila pasisiūlė siaurais miškų takais vesti kareivių voras, kad netikėtai užkluptų Aukaimio pilį.
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-183486|zonderkomanda]]: Viena Tautinės darbo apsaugos bataliono kuopa buvo padaryta zonderkomanda ir liepos 4 bei 6 dienomis dalyvavo 3 000 žydų žudynėse Kauno VII forte.
 - susijęs iš [[objektai/zodynas/įgula.md#claim-t-185372|įgula]]: Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus.
+- susijęs iš [[objektai/zodynas/Šventasis miškas miškelis.md#claim-t-189212|Šventasis miškas miškelis]]: Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, o nelaimingiesiems tikriausiai ne.
+- susijęs iš [[objektai/zodynas/Šventasis miškelis šventasis miškas.md#claim-t-189216|Šventasis miškelis šventasis miškas]]: Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, o nelaimingiesiems tikriausiai ne.
 - susijęs iš [[objektai/zodynas/šeimynykštis famulus.md#claim-t-58885|šeimynykštis famulus]]: Brolis Gerhardas prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis.
 - susijęs iš [[objektai/zodynas/šeimynykštis.md#claim-t-58947|šeimynykštis]]: Brolis Gerhardas prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis.
 - susijęs iš [[objektai/zodynas/šturmovcai.md#claim-t-42530|šturmovcai]]: Šturmovcai savo nesėkmę aiškino tuo, kad buvo atvežti tiesiai iš bolševikų fronto ir puolė taip pat kaip bolševikus.
@@ -2016,7 +2205,6 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/zodynas/žvėrynas Karaliaus daržas.md#claim-t-86632|žvėrynas Karaliaus daržas]]: Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186360|Mikalojus Radvila]]: Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Po sąjungos su Austrija turkai puolė Austriją ir pasiekė Vieną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -2110,6 +2298,26 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Narbutas rašė, kad Jeronimas, vykdamas per Lenkiją į Vieną, lenkų kunigams neatskleidė Viklifo raštų naujienos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,
+    apie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė
+    nelaiminguosius Viklifo raštus. Tenai nors tarėsi su Husu, sa­
+    vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,
+    šiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-
+    skleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo
+    įtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­
+    joje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte
+    apie tai net neužsiminęs.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 - [[objektai/asmenys/Mikalojus Radvila]] keliavo_i Viena

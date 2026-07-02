@@ -154,6 +154,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54936|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82183|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.
 - susijęs iš [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris).md#claim-t-87690|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]: Vilniaus vaivados ir karaliaus kanclerio Hlebavičiaus plytinė buvo prie Vilniaus, už Vilijos upės, greta fabrikui skirto sklypo.
+- susijęs iš [[objektai/asmenys/Konstantinas Sirvydas.md#claim-t-188566|Konstantinas Sirvydas (kunigas, XVII a.)]]: Konstantinas Sirvydas savo žodyne Vilijos upę lotyniškai vadino Vilia, o lietuviškai Nerimi.
 - susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87405|Martynas Paleckis]]: 1547 m. gegužės 22 d. privilegija Martynui Paleckiui steigti fabriką skyrė sklypą prie Vilniaus už Vilijos upės.
 - susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87406|Martynas Paleckis]]: Martynas Paleckis iš karaliaus gavo sklypą prie Vilniaus už Vilijos ir leidimą steigti pirmąjį miesto stiklo fabriką.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87364|Ulrikas Hozijus]]: Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis.
@@ -161,6 +162,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87367|Ulrikas Hozijus]]: Ulrikas Hozijus greitai ir rūpestingai pastatė tiltą per Vilijos upę prie Vilniaus savo didelėmis lėšomis.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173313|Žygimantas Senasis]]: Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tiltą per Viliją prie Vilniaus.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173320|Žygimantas Senasis]]: 1536 m. rugpjūčio 6 d. Žygimantas Senasis suteikė privilegiją rinkti muitą už perėjimą tiltu per Viliją.
+- susijęs iš [[objektai/autoriai/Konstantinas Sirvydas.md#claim-t-190292|Konstantinas Sirvydas (kunigas)]]: Narbutas rašo, kad kunigas Sirvydas savo žodyne Vilijos upę lietuviškai vadina Nerimi.
 - susijęs iš [[objektai/autoriai/Lindenblattas Joannes von der Pusilie.md#claim-t-88028|Lindenblattas Joannes von der Pusilie]]: Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.
 - susijęs iš [[objektai/autoriai/Lindenblattas Johannes Lindenblatt.md#claim-t-87977|Lindenblattas Johannes Lindenblatt]]: Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.
 - susijęs iš [[objektai/autoriai/Lindenblattas Johannes Lindenblatt.md#claim-t-87980|Lindenblattas Johannes Lindenblatt]]: Vygandas ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria.
@@ -170,6 +172,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - susijęs iš [[objektai/daiktai/Medžioklių trobelės.md#claim-t-87086|Medžioklių trobelės]]: Prie Vilnios buvusios pirmykštės gyvenvietės trobelės palei krantą tęsėsi iki Vilijos.
 - susijęs iš [[objektai/daiktai/Mūrinė pilis.md#claim-t-87115|Mūrinė pilis]]: Mūrinė pilis pastatyta ant žmonių paaukštinto kalno Vilnelės ir Vilijos santakoje.
 - susijęs iš [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra.md#claim-t-54728|Tiltai, jazai ir vandens infrastruktūra]]: Hozijus gavo teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos, o vėliau per upę iškilo mūrinis tiltas.
+- susijęs iš [[objektai/daiktai/Vilijos krovininiai laivai strungai.md#claim-t-189753|Vilijos krovininiai laivai strungai]]: Narbutas Vilijos krovininius laivus strungus vadino dideliais upiniais laivais, kuriems su jūrų laivais lyginti trūko tik stiebų ir kylio.
 - susijęs iš [[objektai/daiktai/Vilijos tiltas su pirklų būdelėmis ir stoginėmis.md#claim-t-87096|Vilijos tiltas su pirklų būdelėmis ir stoginėmis]]: 1529 m. Albertas Goštautas gavo karaliaus leidimą per Viliją nutiesti akmeninį arba plytinį tiltą su pirklių būdelėmis ar stoginėmis.
 - susijęs iš [[objektai/daiktai/Vilijos tiltas su pirklų būdelėmis ir stoginėmis.md#claim-t-87097|Vilijos tiltas su pirklų būdelėmis ir stoginėmis]]: Karalius leido Hozijui pastatyti tiltą per Viliją vietoje nepatogios perkėlos ir imti nustatytą mokestį iš pravažiuojančiųjų.
 - susijęs iš [[objektai/grupes/Venedai.md#claim-t-86773|Venedai]]: Hanoverio žemėje prie Elbės žemupio gyvenusių venedų kalboje žodis „Vilija“ reiškė valią.
@@ -185,9 +188,11 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86882|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: 1536 m. privilegija uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86883|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Žygimantas Senasis visiems laikams paskyrė Vilijos tilto mokestį Švč. Trejybės prieglaudai ir joje gyvenantiems vargšams.
 - susijęs iš [[objektai/paprociai/Amžinosios Gabijos ugnies ir Perkūno kulto apeigos Šventaragio slėnyje.md#claim-t-87200|Amžinosios Gabijos ugnies ir Perkūno kulto apeigos Šventaragio slėnyje]]: Šventaragio slėnyje tarp Vilijos ir Vilnelės degė amžinoji ugnis Gabija, kurią lietuviai labai garbino.
+- susijęs iš [[objektai/posakiai/Rzeko, ktdrędy lz} poniesiesz moję.md#claim-t-189548|Rzeko, ktdrędy lz} poniesiesz moję]]: Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipimosi į Vilijos upę pradžią.
 - susijęs iš 1390 m. Vladislovo Jogailos privilegija Vilniaus kapitulai dėl Panerių: 1390 m. Vladislovo Jogailos privilegijoje, kuria dovanoti Paneriai, Vilija pavadinta Vigilia.
 - susijęs iš 1390 m. Vladislovo Jogailos privilegija Vilniaus kapitulai dėl Panerių: 1390 m. privilegija Vilniaus kapitulai leido imti kas dešimtą žuvį, sugautą karaliaus tvenkiniuose Vilijos upėje.
 - susijęs iš 1547 m. Žygimanto Augusto privilegija Martynui Paleckiui dėl stiklo liejyklos: 1547 m. Martynas Paleckis gavo žemės sklypą už Vilijos ir leidimą steigti stiklo liejyklą bei Vilniuje pardavinėti lenkišką stiklą.
+- susijęs iš K. Sirvydo žodynas: Narbutas nurodo, kad kunigas Sirvydas savo žodyne Vilijos upę lotyniškai vadino Vilia, o lietuviškai Nerimi.
 - susijęs iš Latopisiec Litwy i Kronika Ruška: „Latopisiec Litewski“ mūšio vietą nurodo prie Vilijos upės, ties Horodoku, vietovėje, vadintoje Weyiszczuszki.
 - susijęs iš Lindenblatt Jahrbücher: Lindenblatt Jahrbücher kryžiuočių persikėlimą per Viliją datavo rugpjūčio 28 d., o priartėjimą prie Vilniaus - rugsėjo 4 d.
 - susijęs iš Senovinis Lietuvos kelių aprašymas Kryžiuočių archyve: Senoviniame Lietuvos kelių aprašyme Kryžiuočių archyve dažnai minima Nerige yra dabartinė Vilija.
@@ -258,6 +263,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Nuo tvirtovės prie Vilnios palei krantą pažemiais trobelės tęsėsi iki Vilijos.
+- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Narbutas Vilnios, arba Vilnelės, vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus.
+- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Narbutas Vilnią apibūdino kaip kadaise laivybai tikusią, sraunią, vingiuotą ir akmenuoto dugno upę, priešindamas ją giliai Vilijai.
 - susijęs iš Vilnia ir Vilija: Pasakojime Vilnios ir Vilijos vardai kildinami iš kunigaikščio Viliaus vardo.
 - susijęs iš Vilnia: Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
@@ -301,8 +308,9 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - susijęs iš [[objektai/zodynas/plaustai.md#claim-t-86608|plaustai]]: Plaustais vadinti perkėlimai per Vilijos upę buvo uždrausti tarp Verkių ir Panerių kaimų.
 - susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86451|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Šventaragio vardas aiškintas lietuviškais žodžiais „šventas ragas“, siejant juos su aukuru ir kyšuliu tarp Vilijos bei Vilnios.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54935|Aleksandras Jogailaitis]]: 1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį.
+- susijęs iš [[objektai/asmenys/Bazilijus Bonifacas Jakimavičius.md#claim-t-190062|Bazilijus Bonifacas Jakimavičius]]: Narbutas Jakimavičiaus žodžius laikė pagrindu įtraukti naują objektą į savo deivių rinkinį.
 - susijęs iš [[objektai/asmenys/Fričinskis.md#claim-t-87677|Fričinskis]]: Pilaitė prie Vilniaus tuo metu priklausė buvusiam agronomijos instituto direktoriui Fričinskiui.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176391|Gediminas]]: Gediminas, pasak Balińskio, plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus ir ant kalno statydino mūro tvirtovę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176391|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, pasak Balińskio, plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus ir ant kalno statydino mūro tvirtovę.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87426|Germantas]]: Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182811|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila siekė Lenkijos sosto ir ketino sukurti naują galingą valstybę Šiaurės Europoje.
 - susijęs iš [[objektai/asmenys/Jonas (Vilniaus vyskupas).md#claim-t-87713|Jonas (Vilniaus vyskupas)]]: Vilniaus vyskupas Jonas 1533 m. liepos 26 d. Vilniuje dalyvavo kaip karaliaus Žygimanto rašto liudininkas.
@@ -318,6 +326,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173241|Vladislovas Jogaila]]: Jogaila siekė Lenkijos sosto ir sumanė sukurti naują galingą valstybę Šiaurės Europoje.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173244|Vladislovas Jogaila]]: 1390 m. Vladislovas Jogaila Vilniaus kapitulai suteikė privilegiją, kuria dovanojo Panerius.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173247|Vladislovas Jogaila]]: Vladislovas Jogaila Vilniuje įsakė statyti Šv. Martyno ir Šv. Jono bažnyčias.
+- susijęs iš [[objektai/autoriai/Bazilis Bonifacas Jakimavičius.md#claim-t-190363|Bazilis Bonifacas Jakimavičius]]: Narbutas poeto Jakimavičiaus žodžius laikė pagrindu papildyti lietuvių deivių rinkinį nauju objektu.
 - susijęs iš [[objektai/autoriai/Jornandesas.md#claim-t-88069|Jornandesas]]: Jornandesas Vyslos žiotyse gyvenusiai tautai suteikė vidivarijų vardą.
 - susijęs iš [[objektai/autoriai/Thunmanas.md#claim-t-88082|Thunmanas]]: Thunmano tyrinėjimus ir prielaidas apie lietuvių tautos kilmę Balinskis laikė panašiausiais į tiesą.
 - susijęs iš [[objektai/daiktai/1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas.md#claim-t-87106|1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas]]: 1547 m. gegužės 22 d. Paleckiui duota privilegija turėjo prikabintą Lietuvos Didžiosios Kunigaikštystės antspaudą.
@@ -342,7 +351,6 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - susijęs iš [[objektai/grupes/Vilniaus pirkliai.md#claim-t-172857|Vilniaus pirkliai]]: Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.
 - susijęs iš [[objektai/grupes/Viršilų giminė.md#claim-t-86832|Viršilų giminė]]: Pilaitėje buvusi kunigaikščių pilis vėliau buvo dovanota Viršilų giminei.
 - susijęs iš [[objektai/grupes/Škotai.md#claim-t-86839|Škotai]]: Škotijos savanoriai kartu su anglais ir prancūzais papildė vokiečių riterių būrius Karaliaučiuje.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176123|Žemaičiai]]: Žemaičiai buvo viena iš šešių pagrindinių lietuvių tautos atšakų.
 - susijęs iš [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje.md#claim-t-54485|Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]: Šventaragio slėnyje iki krikščioniškojo tikėjimo įvedimo degė Gabija vadinta amžinoji ugnis Perkūno garbei.
 - susijęs iš [[objektai/paprociai/Gyvenviečių prie upių vardijimas su priešdėliu „pa-“.md#claim-t-87269|Gyvenviečių prie upių vardijimas su priešdėliu „pa-“]]: Lietuvoje buvo paplitęs paprotys gyvenvietes prie upių vadinti prie upės pavadinimo pridedant priešdėlį „pa-“.
 - susijęs iš [[objektai/paprociai/Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika.md#claim-t-87299|Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika]]: Balińskio aiškinimu, Germantas Šventaragio slėnyje vertė miškus lydimais ir plėtė senovinę Vilniaus gyvenvietę Vilnios pakrantėse.
@@ -369,6 +377,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - susijęs iš Vytauto 1398 m. laiškas Prūsijos ordinui dėl pagalbos statant pilis: 1398 m. laiške Vytautas žadėjo Prūsijos ordinui pagalbą statant dvi pilis.
 - susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Baltijos jūra: Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
+- susijęs iš Baltijos jūra: Narbutas čeltyčias apibūdino kaip Baltijos jūros vandenų nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse.
 - susijęs iš Belvederis: Belvederiu vadintas Juzefo Mianovskio užmiesčio namas stovėjo spėjamoje senosios liejyklos vietoje.
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Kaunas: Didžiojo kunigaikščio Aleksandro įsakymu Vilniaus miestiečių laivams su prekėmis buvo garantuota laisva laivyba Vilija iki Kauno ir atgal.
@@ -377,10 +386,12 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - susijęs iš Kauno Vilniaus pirklių prekių sandėlis: Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.
 - susijęs iš Kernavė: Iš Žemutinės pilies vedęs kelias prie kelto per Viliją šakojosi į Kernavę, senąją Lietuvos sostinę, ir Ukmergės pilį.
 - susijęs iš Kernavė: Draudimas statyti per upę mažus tiltelius galiojo nuo Nemenčinės dvaro iki Kernavės miestelio.
+- susijęs iš Kernavė: Narbutas cituoja aiškinimą, kad Neries deivės aukurai buvę įvairiose pakrantės vietose, pirmiausia Kernavėje prie Neriškių miško.
 - susijęs iš Livonija: Caras siekė įgyti Livoniją, kuri tuo metu buvo suskaldyta tarp kelių valstybių.
 - susijęs iš Lukiškės: Ankstyvojo Vilniaus aprašyme Lukiškėse šventų girių kryptimi buvo išsibarsčiusios vienišos trobos.
 - susijęs iš Nemunas: 1398 m. Vytauto laiške Nemunas minėtas apibrėžiant ruožą iki vietos, kur į jį įteka Strėva.
 - susijęs iš Nemunas: Vytautas laiške Prūsijos ordinui žadėjo pagalbą statant dvi pilis išilgai Nemuno iki Strėvos žiočių.
+- susijęs iš Neris: Narbutas cituoja apostrofą Vilijos upei, kurioje Neris prašoma pranešti dievams lyrinio kalbėtojo kančias ir sielvartą.
 - susijęs iš Paneriai: 1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai buvo dovanojami Paneriai.
 - susijęs iš Paneriai: Vilija buvo vadinama Nerimi kaimuose, priklausiusiuose Zubiškių palivarkui ir Paneriams Trakų apskrityje.
 - susijęs iš Paneriai: Balińskis Panerių pavadinimą siejo su įspūdžiu, kad tarp aukštų kalnų tekanti Neris atrodo tarsi panirusi.
@@ -392,8 +403,6 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - susijęs iš Totorių vartai: Michałas Balińskis Totorių vartų pavadinimą siejo su totoriais, kurie, jo manymu, pirmiausia buvo įsikūrę Lukiškėse.
 - susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir vaško dirbtuvės laisvę.
 - susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę.
-- susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį.
-- susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį.
 - susijęs iš Verkiai: Valdovo draudimas neleido naudoti plaustų per Nerį tarp Verkių kaimo ir Panerių kaimo.
 - susijęs iš Verkiai: Per Viliją tarp Verkių ir Panerių buvo uždrausta naudoti plaustus perkėlimui.
 - susijęs iš Vilnelė: 1522 m. prie Vilnelės iškilo popieriaus malūnas.
@@ -425,8 +434,11 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - susijęs iš Žemaitija: Žemaitija, siekusi Baltijos jūrą, apibūdinta kaip lietuvių genties centras, išsaugojęs gryniausius savo padermės bruožus.
 - susijęs iš Žemaitija: Vilniaus ir dalies Gardino gubernijų kraštas laikytas dviejų lietuvių padermių, Žemaitijos ir aukštutinės Lietuvos, gyvenviete.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį.
+- susijęs iš [[objektai/zodynas/Strungai Strungas.md#claim-t-189333|Strungai Strungas]]: Narbutas Vilija plaukiojusius krovininius laivus strungais kildino iš lietuviško žodžio „Strungas“ ir vaizdavo juos kaip upinių laivų milžinus.
 - susijęs iš [[objektai/zodynas/Vidivarijai nomen gentile nomen sociale.md#claim-t-86577|Vidivarijai nomen gentile nomen sociale]]: Vidivarijų vardas, Jornandeso duotas tautai prie Vyslos žiočių, aiškintas kaip įvairių tautų sambūrio nomen sociale.
 - susijęs iš [[objektai/zodynas/Vidivarijai.md#claim-t-54798|Vidivarijai]]: Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas.
+- susijęs iš [[objektai/zodynas/Vylius Wilius.md#claim-t-189258|Vylius Wilius]]: Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia ir perfidia lietuviškai atitinka Vylius (Wilius).
+- susijęs iš [[objektai/zodynas/Vylius Wilius.md#claim-t-189259|Vylius Wilius]]: Narbutas Vylingosios vardą veikiau sieja su Vilnia, kurią apibūdina kaip kadaise laivybai tikusią, sraunią ir vingiuotą upę.
 - susijęs iš [[objektai/zodynas/Zabójnica.md#claim-t-86630|Zabójnica]]: 1492 m. Aleksandras suteikė Vilniui teisę laikyti vaško dirbtuvę, vadintą Zabójnica, ir panaikino daugumą privačių dirbtuvių.
 - susijęs iš [[objektai/zodynas/amžinoji ugnis Gabija.md#claim-t-86510|amžinoji ugnis Gabija]]: Šventaragio slėnyje degė lietuvių garbinama amžinoji ugnis Gabija.
 - susijęs iš [[objektai/zodynas/jazai.md#claim-t-86590|jazai]]: Valdiniams uždrausta per Vilijos upę nuo Nemenčinės dvaro iki Kernavės statyti mažus tiltelius, vadinamus jazais.

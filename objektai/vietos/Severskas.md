@@ -137,7 +137,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   ryšio_subjekto_parinkimas: Mykolas: llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Serpeiskas: llm_allowed_candidate, place
   ryšio_paaiskinimas: Serpeiskas įtrauktas į Mykolo paimtų vietų sąrašą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas]]: Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97460|Kaributas]]: Kaributas, valdęs Seversko kunigaikštystę, sukėlė maištus Rusioje ir nepripažino Kęstučio viršenybės.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184752|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis skubiai patraukė į Severską, atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184798|Mykolas (Žygimanto sūnus)]]: 1448 m. Mykolas su skitais įsiveržė į Severską ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.
@@ -159,11 +159,14 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186016|Skirmantas]]: Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.
 - susijęs iš [[objektai/asmenys/Vaitiekus Kiočka.md#claim-t-186262|Vaitiekus Kiočka]]: Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-184915|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantui Kęstutaičiui atvykus iš Seversko į Lietuvą, prie jo neraginami rinkosi didikai ir bajorai.
+- susijęs iš [[objektai/autoriai/Swięcki.md#claim-t-190457|Swięcki]]: Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš Seversko žemės.
 - susijęs iš [[objektai/grupes/Seversko kunigaikščiai.md#claim-t-185437|Seversko kunigaikščiai]]: Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos.
+- susijęs iš [[objektai/grupes/Triznų giminė.md#claim-t-189504|Triznų giminė]]: Narbutas išnašoje nurodė, kad Triznų giminė yra kilusi iš Seversko žemės.
 - susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186785|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Seversko Naugardą ir Starodubą Aukso ordos totoriai puolė 1501 m. rugsėjį, iki spalio 7 d.
 - susijęs iš [[objektai/ivykiai/Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę.md#claim-t-185699|Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę]]: Brianskas dėl rusų išdavystės buvo be vargo užimtas, o netrukus prie išdavikų prisidėjo visa Seversko žemė.
 - susijęs iš [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską.md#claim-t-185592|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]: Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.
 - susijęs iš [[objektai/ivykiai/Mykolo ir skitų įsiveržimas į Severską bei Kazimiero atsakomasis žygis (1448 m.).md#claim-t-185755|Mykolo ir skitų įsiveržimas į Severską bei Kazimiero atsakomasis žygis (1448 m.)]]: 1448 m. Mykolui su skitais įsiveržus į Severską, Kazimieras atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.
+- susijęs iš Swięcki, Opis starožytnej Polski: Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dėl Triznų giminės kilmės iš Seversko žemės.
 - susijęs iš Kijevas: Užkariavus Kijevą, Volynę ir didelę Seversko dalį, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje.
 - susijęs iš Kijevo žemės: Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes.
 - susijęs iš Mozyrius: Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.
@@ -175,13 +178,14 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
 - susijęs iš Seversko žemė: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė: Černigovas, Starodubas, Naugardas ir Rylskas.
 - susijęs iš Seversko žemė: Šich Achmetas su šimtu tūkstančių raitelių užpuolė Seversko žemę ir siaubė nuo Lietuvos prie Maskvos perėjusių didikų valdas.
 - susijęs iš Seversko žemė: Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.
+- susijęs iš Seversko žemė: Swięckio veikale nurodoma, kad Triznų giminė yra kilusi iš Seversko žemės.
 - susijęs iš Seversko žemė: Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė Ordoje kilęs badas ir maras.
 - susijęs iš Seversko žemės: Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes bei sudaryti uniją.
 - susijęs iš Volynė: Gediminas, užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir didelę Seversko dalį, išplėtė lietuvių valdų ribas ligi Putivlio.
 - susijęs iš Volynė: Vilniaus seime lenkų atstovai reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes prieš sudarant uniją.
 - susijęs iš Černigovas: Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo.
 - susijęs iš [[objektai/asmenys/Fiodoras Grigorovičius.md#claim-t-186201|Fiodoras Grigorovičius]]: Lietuvos raštininkas Fiodoras Grigorovičius su Stanislovu Strumila Petravičiumi derėjosi su Ivanu dėl skriaudų atlyginimo.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas]]: Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
 - susijęs iš [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas).md#claim-t-186221|Juozapas (Konstantinopolio patriarchas)]]: Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184770|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis Žemaitijoje surinko kariuomenę, persikėlė per Nerį, susijungė su Vytautu ir pradėjo pulti Trakus.
 - susijęs iš [[objektai/asmenys/Olegas (Riazanės kunigaikštis).md#claim-t-87808|Olegas (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
@@ -388,7 +392,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] keliavo_i Severskas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] keliavo_i Severskas
 - [[objektai/asmenys/Kaributas]] valde Severskas
 - [[objektai/asmenys/Kazimieras Jogailaitis]] keliavo_i Severskas
 - [[objektai/asmenys/Mykolas]] puole Severskas
@@ -396,7 +400,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
 - Severskas priklause [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Skirmantas]] uzeme Severskas
 - [[objektai/asmenys/Šich Achmetas]] puole Severskas
-- [[objektai/asmenys/Gediminas]] uzkariavo Severskas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzkariavo Severskas
 - [[objektai/asmenys/Jakovas Zachariničius]] surenge_zygi_i Severskas
 - [[objektai/asmenys/Šich Achmetas]] surenge_zygi_i Severskas
 - [[objektai/asmenys/Andrejus Možaiskis]] surenge_zygi_i Severskas

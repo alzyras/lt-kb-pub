@@ -35,7 +35,7 @@ Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus n
   ryšio_subjekto_parinkimas: Gurka: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Simeonas: mention_match, person, gap=35
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gurka" parinktas kaip owner_note_path. Targetas "Simeonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
+- susijęs iš [[objektai/autoriai/Bandkė.md#claim-t-190413|Bandkė]]: Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su slavų Gurovidu, bet Narbutas šį aiškinimą atmetė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,9 +53,8 @@ Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus n
     neįprastą vietą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

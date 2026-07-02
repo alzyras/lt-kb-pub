@@ -3,6 +3,7 @@ tipas: daiktas
 pavadinimas: 'Dievų stabai'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -33,7 +34,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-08287"></a>
 - t-001
   global_id: t-08287
@@ -73,8 +73,69 @@ Nenurodyta
   ryšio_targeto_parinkimas: Aukuras: mention_match, thing, gap=16
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dievų stabai" parinktas kaip owner_note_path. Targetas "Aukuras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
+<a id="claim-t-188380"></a>
+- t-003
+  global_id: t-188380
+  teiginys: 'Luno Heliogabalo stabas, Aurelijus Antonino pastatytas Romos Kapitolijuje, buvo didžiulis juodas akmuo, laikytas iš dangaus nukritusiu meteoritu.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 417806-418310; hash=c488b69b2bbcd935adc23437d5d79e7d10cc319fc0670c8229394eb435c97658; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: pastate -> Dievų stabai: 0.76
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aurelijus Antoninas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dievų stabai: llm_allowed_candidate, thing
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Aurelijus Antoninas pastatė stabą; objekto pastaba yra platesnė dievų stabų kategorija.
+<a id="claim-t-188381"></a>
+- t-004
+  global_id: t-188381
+  teiginys: 'Narbutas rašė, kad Lietuvai priimant krikščionybę dievų stabai buvo labiausiai naikinami, ypač kryžiuočių ir kalavijuočių riterių.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 449735-450162; hash=99caf8184bfc55f8f1f65c135e1828faf8f622cc5a66451c4bb84fa57264cfcc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalavijuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dievų stabai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kalavijuočių ordinas: mention_match, group, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dievų stabai" parinktas kaip owner_note_path. Targetas "Kalavijuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188382"></a>
+- t-005
+  global_id: t-188382
+  teiginys: 'Narbutas spėjo, kad minėtame panteone galėjo būti dievų stabų rinkinys, nors smulkmenų apie jį neturėta.'
+  pagrindžia:
+    - c-005
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 475434-475638; hash=ddbdcd8117e2a64c11b5a37bcddd0a35a9ec02a82bd0712cbd55281cb8439c77; match=exact
+  sprendimo_priezastis: auto
+<a id="claim-t-188383"></a>
+- t-006
+  global_id: t-188383
+  teiginys: 'Narbutas teigė, kad tikėjimo vadovai veikė visuomenę nešiodamiesi Pokliaus stabuką ir pranašaudami dievų bausmes bei dovanas.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 502685-503195; hash=d9595a4bf9768213fd50d707b540c6079fc7ecb9d1264043853a4f16910f7482; match=exact
+  sprendimo_priezastis: auto
+- susijęs iš Upsala: Narbutas Upsalos šventovę lygino su Romove, nes joje, remiantis Adomu Bremenietiu, stovėjo trijų vyriausiųjų dievų stabai.
+- susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190039|Adomas Bremenietis]]: Narbutas cituoja Adomą Bremenietį apie Upsalos žynius, kurie esą buvo įpratę tarnauti piktosioms dvasioms.
+- susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-188394|Adomas Bremenietis]]: Narbutas citavo Adomą Bremenietį apie Upsalos žynius: „de sacerdotibus, qui ad Ubsolam Daemonibus astare solebant“.
+- susijęs iš [[objektai/autoriai/Maksimas Tirėjietis.md#claim-t-190439|Maksimas Tirėjietis]]: Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais Jupiterio stabais iš ąžuolo.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -107,6 +168,90 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Luno Heliogabalo stabas, Aurelijus Antonino pastatytas Romos Kapitolijuje, buvo didžiulis juodas akmuo, laikytas iš dangaus nukritusiu meteoritu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Luno Heliogabalo stabas, kurį
+    Aurelijus Antoninas pastatė Romoje, ant Kapitolijaus kalno,
+    buvo didžiulis juodas akmuo, apie kurį manyta, kad jis nukri­
+    tęs iš dangaus (akmuo -  meteoritas).
+    Vėlgi buvo dievybių, kurioms nekūrė nei stabų, nei atvaiz­
+    dų; dažnai dievo vardas, parašytas ant lentos arba iškaltas ak­
+    menyje, atstodavo jų atvaizdą. Kartais adoracijos objektas bū­
+    davo austinė uždanga, pakabinta šventykloje priešais kokį nors
+    sienos įdubimą; dažniausiai tai būdavo slaptosiose šventyklo­
+    se.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Narbutas rašė, kad Lietuvai priimant krikščionybę dievų stabai buvo labiausiai naikinami, ypač kryžiuočių ir kalavijuočių riterių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šios rūšies paminklai buvo labiausiai naikinami Lietuvai
+    priimant krikščionių tikėjimą; ypač atvertėjai -  kryžiuočių ir
+    kalavijuočių riteriai griovė, naikino, skandino viską, kas tik nors
+    kiek buvo susiję su stabmeldiškųjų dievų vaizdavimu. Mūsų
+    upės, ežerai ir pelkės ne vienoje vietoje slepia dievų stabus iš
+    akmens ir metalo.
+    Prilvico stabai saugomi Raceburgo bibliotekoje ir Nauja­
+    jame Brandenburge, Sponholco kabinete**.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Narbutas spėjo, kad minėtame panteone galėjo būti dievų stabų rinkinys, nors smulkmenų apie jį neturėta.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    273
+
+    ## Puslapis 273
+
+    įtvirtinimai18. Kalnas, arba Kolnas; etimologinė Kol prasmė -
+    kalnas, iškili vieta. Tačiau smulkmenų apie tą panteoną ne­
+    turime; reikėtų manyti, kad jame turėjo būti stabų rinkinys.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Narbutas teigė, kad tikėjimo vadovai veikė visuomenę nešiodamiesi Pokliaus stabuką ir pranašaudami dievų bausmes bei dovanas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Politinė padėtis jau buvo
+    nepalanki senajai religinei santvarkai, todėl tikėjimo galvos
+    autoritetas pamažu turėjo silpnėti15.
+    Vis dėlto jie darė didelę įtaką visuomenės mąstymui -  ar
+    tai nešiodamiesi užantyje baisios išvaizdos Pokliaus stabuką,
+    ar tai pranašaudami baisius dalykus, bausmes ir dovanas, ku­
+    rias galį atsiųsti dievai, su kuriais jie kuo artimiausiai bendraują;
+    pagaliau įtikinėdami žmones, kad mirusiųjų vėlės galinčios pa­
+    sirodyti, ir kitokiais panašiais prasimanymais. Mat sumanęs
+    14 Schütz.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+
 ## Pastabos
 
 - tekste stabas minimas tik greta aukuro, be atskiro aprašymo ar formos detalės.
+
+## Ryšiai
+- Dievų stabai priklause [[objektai/vietos/Upsala]]
+- [[objektai/asmenys/Aurelijus Antoninas]] pastate Dievų stabai

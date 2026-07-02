@@ -195,7 +195,7 @@ amziai:
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59960|Fridrichas Kvicas]]: Broliai Hartmanas ir Fridrichas Kvicas su 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59955|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.
 - susijęs iš [[objektai/asmenys/Gardolfas.md#claim-t-60282|Gardolfas]]: Halberštato vyskupas Gardolfas buvo tarp Vokietijos dvasininkų ir didikų, svarstusių ką tik įsteigtos ligoninės ateitį.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
 - susijęs iš [[objektai/asmenys/Gotfridas Lindenas.md#claim-t-87509|Gotfridas Lindenas]]: Ordino maršalas Gotfridas Lindenas sudegino Semeliškes Trakų paviete ir, nepajėgęs staiga užimti Vilniaus, grįžo plėšti apylinkių.
 - susijęs iš [[objektai/asmenys/Hartmanas.md#claim-t-60299|Hartmanas]]: 1317 m. brolis Hartmanas su Fridrichu Kvicu ir 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.
 - susijęs iš [[objektai/asmenys/Henrikas (Brabanto kunigaikštis).md#claim-t-60305|Henrikas (Brabanto kunigaikštis)]]: Brabanto kunigaikštis Henrikas dalyvavo valdovų pasitarime dėl naujai įsteigtos ligoninės patvirtinimo ir tuo metu vadovavo kariuomenei.

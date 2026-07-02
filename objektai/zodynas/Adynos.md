@@ -22,7 +22,6 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
 - Dalis pavadinimų turi sinonimines poras, bet pats paros skirstymo modelis aiškus.
 
 ## Teiginiai
-
 <a id="claim-t-07721"></a>
 - t-001
   global_id: t-07721
@@ -40,7 +39,6 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |

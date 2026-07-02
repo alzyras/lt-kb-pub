@@ -149,6 +149,7 @@ Nenurodyta
 - susijęs iš Vilnius: 1920 m. spalio 9 d. Liucijanas Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
 - susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108562|administracinė linija demarkacijos linija]]: 1920 m. spalio 7 d. Suvalkų susitarime nustatyta kariuomenių demarkacijos linija paliko Vilnių Lietuvos pusėje.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101665|Juzefas Pilsudskis]]: Pagal Juzefą Pilsudskį Vilnių turėjo užimti ne Lenkijos kariuomenė, o Liucjano Želigovskio daliniai.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-188249|Lenkai]]: Narbutas nurodė dokumentinius įrodymus, kad XVI a. teismuose nuosprendžiai sakyti lietuviškai, o knygose rašyti rusiškai, lotyniškai arba lenkiškai.
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78205|Lenkijos kariuomenė]]: Pagal Juzefą Pilsudskį Vilnių užėmė ne Lenkijos kariuomenė, o Lucjano Żeligowskio vadovaujami Vilnijos daliniai.
 - susijęs iš [[objektai/grupes/Želigovskininkai.md#claim-t-20114|Želigovskininkai]]: Po Liucjano Želigovskio akcijos Lietuvai reikėjo stabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją.
 - susijęs iš [[objektai/posakiai/„nei karo, nei taikos“.md#claim-t-20922|„nei karo, nei taikos“]]: Po 1922 m. sausį Vilniaus krašte surengtų rinkimų Vidurinė Lietuva formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ padėtyje.

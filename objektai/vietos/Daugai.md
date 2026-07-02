@@ -87,6 +87,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     - c-003
 - susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179455|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: 1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę.
 - susijęs iš Alovė: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD 220-uoju pasienio pulku.
+- susijęs iš Daugų ežeras: Narbutas rašo, kad Daugų ežeras Trakų apskrityje garsėjo daugeliu padavimų apie šventais laikytus ežerus.
 - susijęs iš Varčios miškas: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.
 - susijęs iš [[objektai/grupes/MVD.md#claim-t-41082|MVD]]: 1946 m. buvo visiškai sunaikinta Daugų MVD įgula.
 - susijęs iš [[objektai/ivykiai/Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.).md#claim-t-37193|Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)]]: 1919 m. balandžio pradžioje Lietuvos karinė vadovybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti Vilnių ir pirmiau nei lenkai jį užimti.

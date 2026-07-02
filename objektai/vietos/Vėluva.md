@@ -7,6 +7,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1230 m.'
@@ -24,13 +25,13 @@ date_start: '1230'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+  - 'XXI'
 tags:
   - miestas
   - pilis
   - vieta
-amziai:
-  - 'XIII'
-  - 'XXI'
 ---
 # Vėluva
 
@@ -39,7 +40,6 @@ amziai:
 Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m..
 
 ## Teiginiai
-
 <a id="claim-t-99858"></a>
 - t-001
   global_id: t-99858
@@ -55,8 +55,8 @@ amziai:
   global_id: t-99859
   teiginys: '1347 m. spalio pradžioje lietuvių karalius priėjo Vėluvą, o lietuviai tyliai įėję sudegino miestą.'
   sudarymo_pagrindimas: 'Pradinis sakinys buvo per ilgas; paliktas aiškus, citata paremtas faktas apie Vėluvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Ragainė; llm_object: Vėluva'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Vėluva; [[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Vėluva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Ragainė; llm_object: Vėluva; llm_object: Ragainė'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Vėluva'
   temporaliniai_duomenys: 'įvykio data: 1347 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys buvo per ilgas; paliktas aiškus, citata paremtas faktas apie Vėluvą.'
@@ -226,7 +226,7 @@ amziai:
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bf0d0827aa768fce70a57a293f28d7be1975c858872c4aea7d9935cb104aa734; match=fallback; occurrences=0
+  saltinio_vieta: 409594-410069; hash=d63516141fc6d32bf555168ed1ddd042214b0cab67d49535d2f52b43cd428681; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: puole -> Vėluva: 0.82
   ryšio_patikimumo_lygis: aukstas
@@ -234,7 +234,7 @@ amziai:
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lietuviai įėję sudegino miestą Vėluvos kontekste.
+  ryšio_paaiskinimas: Citata aprašo lietuvių veiksmą prieš Vėluvą ir miesto sudeginimą.
 
 <a id="claim-t-185213"></a>
 - t-013
@@ -257,11 +257,29 @@ amziai:
   ryšio_subjekto_parinkimas: Vėluva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Angerburgas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėluva" parinktas kaip owner_note_path. Targetas "Angerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+<a id="claim-t-188873"></a>
+- t-014
+  global_id: t-188873
+  teiginys: 'Narbutas cituoja liudijimą, kad Vėluvos miesto taryba galėjo patvirtinti nugriuvusio medžio buvusią dvidešimt septynių uolekčių apimtį prie žemės.'
+  pagrindžia:
+    - c-011
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 409594-410069; hash=d63516141fc6d32bf555168ed1ddd042214b0cab67d49535d2f52b43cd428681; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: puole -> Vėluva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai aprašo lietuvių karinį veiksmą prieš Vėluvą.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175106|Sūduviai-jotvingiai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89234|Sūduviai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175115|Sūduviai-jotvingiai]]: Stipri prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175125|Sūduviai-jotvingiai]]: Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179257|Lietuviai]]: Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89224|Skalviai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175115|Sūduviai-jotvingiai]]: Stipri prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175125|Sūduviai-jotvingiai]]: Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė.
@@ -272,6 +290,7 @@ amziai:
 - susijęs iš Prieglius: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/asmenys/Maudelis.md#claim-t-60386|Maudelis]]: Maudelis buvo Vėluvos pilininko Tirsko sūnus.
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60069|Tirskas]]: Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais artimaisiais pasidavė tikėjimui ir Ordino broliams.
+- susijęs iš [[objektai/autoriai/Šiucas.md#claim-t-190324|Šiucas]]: Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdamas apie ąžuolą netoli Vėluvos.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179257|Lietuviai]]: Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179322|Lietuviai]]: Henrikas Tupadelis balistos strėle nukovė kilmingą ir galingą lietuvių vadą per Vėluvos pilies apgultį.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65939|Nadruviai]]: Nadruviai, skalviai ir sūduviai įsibrovė į Sembą, ją nusiaubė ir pastatė Vėluvos pilį gynybai nuo brolių ir sembų.
@@ -289,6 +308,7 @@ amziai:
 - susijęs iš [[objektai/ivykiai/Vėluvos pilies apsiaustis ir apgulties nutraukimas.md#claim-t-62957|Vėluvos pilies apsiaustis ir apgulties nutraukimas (pilis)]]: Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė dviem apgulos mašinomis.
 - susijęs iš Semba: Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113898|Mindaugas (valdovas, XIII a.)]]: 1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179257|Lietuviai]]: Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.
 - susijęs iš 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentas: M. Tepenas nurodė, kad Dusburgietis rėmėsi 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentu apie lietuvių žygius.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59959|Fridrichas Kvicas]]: 1323 metais Vėluvos valsčiuje lietuviai nužudė brolį Fridrichą Kvicą, vadintą drąsiu ir narsiu kariu.
 - susijęs iš [[objektai/asmenys/Fridrichas fon Quitzas.md#claim-t-87676|Fridrichas fon Quitzas]]: Lietuviai prie Vėluvos nužudė įtakingą kryžiuotį Fridrichą fon Quitzą ir trisdešimt šešis jo karius.
@@ -342,11 +362,9 @@ amziai:
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175194|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. mūšio lauke sutriuškino kryžiuočius.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175132|Sūduviai-jotvingiai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
 - susijęs iš Semba: Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179322|Lietuviai]]: Henrikas Tupadelis balistos strėle nukovė kilmingą ir galingą lietuvių vadą per Vėluvos pilies apgultį.
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60069|Tirskas]]: Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais artimaisiais pasidavė tikėjimui ir Ordino broliams.
 - susijęs iš Naujosios Prūsijos žemės kronika: Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -553,6 +571,25 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+- c-011
+  santrauka: 'Narbutas cituoja liudijimą, kad Vėluvos miesto taryba galėjo patvirtinti nugriuvusio medžio buvusią dvidešimt septynių uolekčių apimtį prie žemės.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Anksčiau, kai tas medis žaliavo ir turėjo žievę, jis
+    prie žemės buvo dvidešimt septynių uolekčių apimties (vadi­
+    nasi, skersmuo buvo beveik devynios uolektys!); paliudyti tai
+    ir išduoti matų pažymėjimą gali gerbiamoji Vėluvos miesto
+    taryba; aš pats turiu šito įrodym iĮ su tos tarybos antspaudu.
+    Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
+    jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
+    išrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] apgule Vėluva

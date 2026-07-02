@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Vytenis'
+pavadinimas: 'Vytenis (valdovas, XIII–XIV a.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -8,31 +8,39 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1268 m.'
-  - '1341 m.'
-date_start: '1268'
-date_end: '1341'
+  - '1232 m.'
+  - '1283 m.'
+date_start: '1232'
+date_end: '1283'
+variantai:
+  - 'Vytenis'
+aliases:
+  - 'Vytenis'
+description: 'Vytenis – XIII–XIV a. Lietuvos valdovas, siejamas su kovomis prieš Ordiną, žygiais į Lenkiją ir Kristmemelio apgultimi 1315 m.'
+socialDescription: 'Vytenis šaltiniuose vaizduojamas kaip Lietuvos valdovas, kariavęs su Ordinu, puolęs Kristmemelį ir siejamas su krikšto derybų pradžia.'
+seo_atnaujinta: '2026-07-02T19:20:23.331775+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'true'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 tags:
   - asmuo
   - mūšis
-amziai:
-  - 'XIII'
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 ---
-# Vytenis
+# Vytenis (valdovas, XIII–XIV a.)
 
 ## Santrauka
 
-Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą. Vytenis pradėjo valdyti Lietuvą greičiausiai 1295 m., nes 1294 m. dar tebebuvo gyvas jo tėvas.
+Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis prieš Vokiečių ordiną, žygiais į Lenkiją ir Lietuvos krikšto derybų laikotarpio pradžia. 1315 m. rugsėjį jis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais. Šaltiniuose dėl Vytenio kilmės, valdymo pradžios ir mirties datos pateikiama nevienoda informacija.
 
 ## Teiginiai
-
 <a id="claim-t-176814"></a>
 - t-001
   global_id: t-176814
@@ -502,6 +510,27 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
   ryšio_paaiskinimas: Citata tiesiogiai pateikia Vytenį kaip Traidenio sūnų.
+
+<a id="claim-t-188651"></a>
+- t-034
+  global_id: t-188651
+  teiginys: 'Narbuto pasakojime Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocką.'
+  pagrindžia:
+    - c-025
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 362620-363124; hash=0c321c6e4db0c2f2d7087b2ddacef5c4d11e60a7e70bad1c82c742eb01f98b25; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Traidenis (valdovas, XIII a.): 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Vytenio kilmės ryšį su Traideniu.
+- susijęs iš Polockas: Vytenio ir Gedimino brolis Vainys valdė Polocką.
+- susijęs iš Polockas: Vainys buvo vienas iš brolių ir valdė Polocką.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59881|Bertoldas, vadinamas Briuhavenu]]: Karaliaučiaus komtūras Bertoldas pavedė Henrikui Cutsvertui su kariuomene traukti link Lietuvos ir siaubti Vytenio žemes.
 - susijęs iš [[objektai/autoriai/Barzdaitis J.md#claim-t-60675|Barzdaitis J]]: Barzdaitis Vytenio epizodą siejo su raginimu lietuviams ir pavergtiems prūsams laikytis senosios religijos ir kovoti prieš Ordiną.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102852|Dusburgas]]: Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė, kad jis surengė žygį į Livoniją.
@@ -561,6 +590,7 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
 - susijęs iš Drohičinas: Lietuvos metraštyje pasakojama, kad Erdvilas rado Drohičiną Batu nusiaubtą ir sunaikintą, vėliau jį atstatė ir jame kunigaikščiavo.
 - susijęs iš Drohičinas: Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis.
 - susijęs iš Kristmemelis: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puldinėjo su dviem apgulos mašinomis bei daugybe šaulių.
+- susijęs iš Kumanų žemė: Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, iš kurios Vytenis vėliau grįžo į Polocką.
 - susijęs iš Lenčica: Vytenis su 1800 raitelių įsiveržė į Lenčicos kraštą ir netikėtu antpuoliu užėmė Lenčicos miestą.
 - susijęs iš Lukovas: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.
 - susijęs iš Polockas: Vytenio ir Gedimino brolis Vainys valdė Polocką.
@@ -568,6 +598,7 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
 - susijęs iš Prūsija: Vytenio pulkai beveik tris mėnesius niokojo Prūsiją, kurią siaubė žudynės ir gaisrai.
 - susijęs iš Sandomierius: 1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.
 - susijęs iš Sandomiras: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę ir siaubė jos kaimus bei dvarus.
+- susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
 - susijęs iš [[objektai/zodynas/ekspansija.md#claim-t-70130|ekspansija]]: Ekspansija čia reiškia Lietuvos plėtimąsi į rytus.
 - susijęs iš [[objektai/zodynas/ekspansija.md#claim-t-70131|ekspansija]]: Lietuvos ekspansija rytuose prasidėjo dar Mindaugo valdymo laikais.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184628|maršalas]]: Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu.
@@ -575,7 +606,6 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
 - susijęs iš [[objektai/zodynas/ponai.md#claim-t-186928|ponai]]: Kronikos vaizdinyje „ponai“ perkeliami ir į ankstyvesnius laikus kaip valdovų rinkėjai bei patarėjai.
 - susijęs iš [[objektai/zodynas/popiežiaus legatas.md#claim-t-86569|popiežiaus legatas]]: Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1149,39 +1179,66 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   patikimumo_saltinis: ai
   pagrindžia:
     - t-033
+- c-025
+  santrauka: 'Narbuto pasakojime Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocką.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Todėl Jonas, išvaduodamas nuo nelaimės Po­
+    locko ponus, išjojo į Naugardą ir ten tapo vienuoliu. O Lietu­
+    vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
+    niotos mirties, nusiuntė Liutaurą užimti Polocko, kad šis val­
+    dytų jį kaip vietininkas. Liutauro sūnus Vytenis, gimęs 1232
+    metais Žemaitijoje, gyveno Ariogaloje; jis išgarsėjo rusų ka­
+    ruose su totoriais, buvo paimtas į nelaisvę, buvo Batu stovyk­
+    loje, Kumanų žemėje, pagaliau grįžo ir valdė Polocko kuni­
+    gaikštystę kartu su savo tėvu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-034
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] buvo_brolis Vytenis
-- Vytenis apgule [[objektai/vietos/Kristmemelis]]
-- Vytenis buvo_sunus [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
-- Vytenis surenge_zygi_i [[objektai/vietos/Livonija]]
-- Vytenis puole [[objektai/vietos/Kristmemelis]]
-- Vytenis puole [[objektai/grupes/Kryžiuočių ordinas]]
-- Vytenis puole [[objektai/vietos/Lenkija]]
-- Vytenis puole [[objektai/grupes/Lenkai]]
-- Vytenis buvo_valdovas [[objektai/vietos/Lietuva]]
-- Vytenis puole [[objektai/vietos/Varmė]]
-- Vytenis surenge_zygi_i [[objektai/vietos/Sandomiras]]
-- Vytenis keliavo_i [[objektai/vietos/Livonija]]
-- Vytenis puole [[objektai/vietos/Lukovas]]
-- Vytenis dalyvavo_musyje [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]
-- Vytenis puole [[objektai/vietos/Prūsija]]
-- Vytenis puole [[objektai/vietos/Semba]]
-- Vytenis valde_miesta [[objektai/vietos/Polockas]]
-- Vytenis puole [[objektai/vietos/Natanga]]
-- Vytenis keliavo_i [[objektai/vietos/Lenkija]]
-- Vytenis puole [[objektai/vietos/Kujavija]]
-- Vytenis uzeme [[objektai/vietos/Lenčica]]
-- Vytenis kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Vytenis puole [[objektai/vietos/Lenčica]]
-- Vytenis surenge_zygi_i [[objektai/vietos/Lenčica]]
-- Vytenis buvo_sajungininkas_su [[objektai/grupes/Rygiečiai]]
-- Vytenis keliavo_i [[objektai/vietos/Mazovija]]
-- Vytenis paskyre [[objektai/asmenys/Surminas]]
-- Vytenis puole [[objektai/vietos/Sandomiras]]
-- Vytenis surenge_zygi_i [[objektai/vietos/Prūsija]]
-- Vytenis uzeme [[objektai/vietos/Drohičinas]]
-- Vytenis kariavo_pries [[objektai/grupes/Lenkai]]
-- Vytenis kariavo_pries [[objektai/asmenys/Pilypas]]
-- Vytenis paskyre [[objektai/grupes/Pranciškonų ordinas]]
-- Vytenis uzeme [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.)]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] buvo_brolis Vytenis (valdovas, XIII–XIV a.)
+- Vytenis (valdovas, XIII–XIV a.) apgule [[objektai/vietos/Kristmemelis]]
+- Vytenis (valdovas, XIII–XIV a.) buvo_sunus [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
+- Vytenis (valdovas, XIII–XIV a.) buvo_sunus [[objektai/asmenys/Liutauras]]
+- Vytenis (valdovas, XIII–XIV a.) gime [[objektai/vietos/Žemaitija]]
+- Vytenis (valdovas, XIII–XIV a.) surenge_zygi_i [[objektai/vietos/Livonija]]
+- Vytenis (valdovas, XIII–XIV a.) puole [[objektai/vietos/Kristmemelis]]
+- Vytenis (valdovas, XIII–XIV a.) puole [[objektai/grupes/Kryžiuočių ordinas]]
+- Vytenis (valdovas, XIII–XIV a.) puole [[objektai/vietos/Lenkija]]
+- Vytenis (valdovas, XIII–XIV a.) gyveno [[objektai/vietos/Ariogala]]
+- Vytenis (valdovas, XIII–XIV a.) puole [[objektai/grupes/Lenkai]]
+- Vytenis (valdovas, XIII–XIV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Vytenis (valdovas, XIII–XIV a.) puole [[objektai/vietos/Varmė]]
+- Vytenis (valdovas, XIII–XIV a.) surenge_zygi_i [[objektai/vietos/Sandomiras]]
+- Vytenis (valdovas, XIII–XIV a.) keliavo_i [[objektai/vietos/Livonija]]
+- Vytenis (valdovas, XIII–XIV a.) puole [[objektai/vietos/Lukovas]]
+- Vytenis (valdovas, XIII–XIV a.) dalyvavo_musyje [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]
+- Vytenis (valdovas, XIII–XIV a.) puole [[objektai/vietos/Prūsija]]
+- Vytenis (valdovas, XIII–XIV a.) puole [[objektai/vietos/Semba]]
+- Vytenis (valdovas, XIII–XIV a.) valde [[objektai/vietos/Polockas]]
+- Vytenis (valdovas, XIII–XIV a.) valde_miesta [[objektai/vietos/Polockas]]
+- Vytenis (valdovas, XIII–XIV a.) puole [[objektai/vietos/Natanga]]
+- Vytenis (valdovas, XIII–XIV a.) keliavo_i [[objektai/vietos/Lenkija]]
+- Vytenis (valdovas, XIII–XIV a.) puole [[objektai/vietos/Kujavija]]
+- Vytenis (valdovas, XIII–XIV a.) uzeme [[objektai/vietos/Lenčica]]
+- Vytenis (valdovas, XIII–XIV a.) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Vytenis (valdovas, XIII–XIV a.) puole [[objektai/vietos/Lenčica]]
+- Vytenis (valdovas, XIII–XIV a.) surenge_zygi_i [[objektai/vietos/Lenčica]]
+- Vytenis (valdovas, XIII–XIV a.) buvo_sajungininkas_su [[objektai/grupes/Rygiečiai]]
+- Vytenis (valdovas, XIII–XIV a.) keliavo_i [[objektai/vietos/Mazovija]]
+- Vytenis (valdovas, XIII–XIV a.) paskyre [[objektai/asmenys/Surminas]]
+- Vytenis (valdovas, XIII–XIV a.) puole [[objektai/vietos/Sandomiras]]
+- Vytenis (valdovas, XIII–XIV a.) surenge_zygi_i [[objektai/vietos/Prūsija]]
+- Vytenis (valdovas, XIII–XIV a.) uzeme [[objektai/vietos/Drohičinas]]
+- Vytenis (valdovas, XIII–XIV a.) kariavo_pries [[objektai/grupes/Lenkai]]
+- Vytenis (valdovas, XIII–XIV a.) gyveno [[objektai/vietos/Kumanų žemė]]
+- Vytenis (valdovas, XIII–XIV a.) kariavo_pries [[objektai/asmenys/Pilypas]]
+- Vytenis (valdovas, XIII–XIV a.) paskyre [[objektai/grupes/Pranciškonų ordinas]]
+- Vytenis (valdovas, XIII–XIV a.) uzeme [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.)]]
+- Vytenis (valdovas, XIII–XIV a.) gime [[objektai/vietos/Lietuva]]
+- Vytenis (valdovas, XIII–XIV a.) gyveno [[objektai/vietos/Lietuva]]

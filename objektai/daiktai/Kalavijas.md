@@ -98,6 +98,7 @@ Nenurodyta
 - susijęs iš Plockas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.
 - susijęs iš Raudonė: Raudonėje buvo rastas XIII a. kalavijas.
 - susijęs iš Sochačevas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį sunaikino ugnimi ir kalaviju.
+- susijęs iš Vendeno pilis (pilis): Narbutas rašė, kad Dangerutis buvo Livonijos riterių suimtas ir surakintas Vendeno pilyje, kur nusidūrė savo kalaviju.
 - susijęs iš Vilnius: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė, nusiaubę kraštą ugnimi ir kalaviju.
 - susijęs iš [[objektai/zodynas/Kristaus kariai.md#claim-t-58855|Kristaus kariai]]: Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184627|maršalas]]: Rūmų maršalas Kernavėje įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą.
@@ -106,7 +107,7 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Brunonas.md#claim-t-89681|Brunonas]]: Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų.
 - susijęs iš [[objektai/asmenys/Dobeslavas Skoračevskis.md#claim-t-80710|Dobeslavas Skoračevskis]]: Dobeslavas Skoračevskis buvo Ordino pasiuntinys, atvykęs pas Jogailą į stovyklą derėtis dėl taikos.
 - susijęs iš [[objektai/asmenys/Engelbertas I.md#claim-t-60110|Engelbertas I]]: Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184702|Gediminas]]: Pasiuntiniai Lietuvoje prašė Gedimino dukters Aldonos rankos Kazimierui, o sutarta giminystė turėjo užtikrinti taiką.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184702|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasiuntiniai Lietuvoje prašė Gedimino dukters Aldonos rankos Kazimierui, o sutarta giminystė turėjo užtikrinti taiką.
 - susijęs iš [[objektai/asmenys/Helvigas fon Goldbachas.md#claim-t-186208|Helvigas fon Goldbachas]]: Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą.
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-184712|Henrikas Cutsvertas]]: Henrikas Cutsvertas vadovavo užpakalinei vorai ir ietimi persmeigė lietuvių kunigaikštį Jazbutą.
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59918|Henrikas Cutsvertas]]: Jazbutui sužeidus Henriko Cutsverto žirgą, Henrikas Cutsvertas įniršęs perdūrė Jazbutą ietimi.
@@ -118,7 +119,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Jonas Trizna.md#claim-t-186115|Jonas Trizna]]: Jonas Trizna su kitais karvedžiais patrankų ugnimi ir išpuoliais privertė priešą atsisakyti pilies puolimo.
 - susijęs iš [[objektai/asmenys/Kodrūnas.md#claim-t-60356|Kodrūnas]]: Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59932|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, vyskupo Kristijono ir kai kurių didikų patartas, savo žemei ginti ėmė burti Kristaus karius.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93428|Kristijonas]]: Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184767|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Henrikas Ekersbergas ietimi smogė Kęstučio arkliui iš šono, nubloškė Kęstutį nuo žirgo, ir Kęstutis pateko į priešų rankas.
 - susijęs iš [[objektai/asmenys/Leopoldas (Austrijos erchercogas).md#claim-t-186233|Leopoldas (Austrijos erchercogas)]]: Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbietos vestuvių puotoje.
 - susijęs iš [[objektai/asmenys/Lešekas.md#claim-t-186061|Lešekas]]: Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su turimais didikais leidosi persekioti priešą.
@@ -139,8 +139,10 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Teodoras.md#claim-t-79203|Teodoras]]: 1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.
 - susijęs iš [[objektai/asmenys/Trobius.md#claim-t-186082|Trobius]]: Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis bus pavaldus Lietuvos didžiajam kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-184853|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Kojelavičius pasakoja, kad Vaitiekus Taboras meldė Dievo laiminti valstybę, ragino kunigaikštį sekti prosenelių keliu ir uždėjo jam valdžios vainiką.
+- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
+- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-184855|Vladislovas]]: Gediminas padėjo Vladislovui kariauti su Brandenburgo markgrafu Voldemaru.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184884|Vytenis]]: Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184884|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172866|J. Dlugošas]]: J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po pasiuntinio vizito Jogailos stovykloje.
 - susijęs iš [[objektai/autoriai/P. Tarasenka.md#claim-t-71551|P. Tarasenka]]: P. Tarasenka 1929 m. Kaune išleido veikalą „Lietuvos archeologijos medžiaga“.
 - susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-08294|Karinė ginkluotė]]: Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę.
@@ -150,8 +152,9 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179115|Kryžiuočių ordinas]]: Per Vilniaus apsuptį kryžiuočių kariaunoje plito ligos, nes ji stovyklavo po atviru dangumi ir buvo nusilpusi.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184501|Kryžiuočių ordinas]]: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama nusiaubė Lietuvą, sunaikindamas Ariogalos, Pernaravos ir Labūnavos žemes.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184525|Lenkai]]: Lenkai pasiuntė į Lietuvą pasiuntinius prašyti Gedimino dukters Aldonos rankos Lenkijos valdovui Kazimierui.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184546|Lietuviai]]: Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus.
+- susijęs iš [[objektai/grupes/Livonijos riteriai.md#claim-t-189479|Livonijos riteriai]]: Narbutas pasakoja, kad Livonijos riteriai Dangerutį sugavo klasta arba pasaloje ir laikė surakintą Vendeno pilyje.
+- susijęs iš [[objektai/grupes/Persai.md#claim-t-189425|Persai]]: Narbutas mini, kad senovės persai turėjo karingą dievaitį Kaousą.
 - susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89172|Pomeranai]]: Prie Svečės pilies broliai nukovė tūkstantį penkis šimtus Pomeranijos vyrų.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175092|Sembai]]: Sembai paliko kuorus prie Karaliaučiaus, pasitraukė ir pastojo kelią maldininkų kariuomenei.
 - susijęs iš [[objektai/ivykiai/Baigos pilies užėmimas (1239 m.).md#claim-t-62203|Baigos pilies užėmimas (1239 m.)]]: 1239 m. broliai su ginklanešiais užėmė Baigos pilį, dalį žmonių paėmė į nelaisvę, kitus išžudė ir apsigyveno pilyje.
@@ -171,6 +174,7 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę.md#claim-t-185834|Vytauto šalininkų žygis į Riazanę]]: Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.).md#claim-t-185668|Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]: Švitrigaila prie Okos susijungė su skitų ir maskvėnų kariuomene ir užkirto Vytautui kelią į Vasilijaus valdas.
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.).md#claim-t-185790|Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.)]]: Vytenis, sutelkęs didesnę nei įprasta kariuomenę, užpuolė lenkų kraštą, nuniokojo Lukovo apylinkes ir įsiveržė į Sandomiro žemę.
+- susijęs iš [[objektai/paprociai/Karo dievo stabo nešimas kariuomenės priešakyje ir laikymas šventykloje.md#claim-t-189922|Karo dievo stabo nešimas kariuomenės priešakyje ir laikymas šventykloje]]: Narbutas spėjo, kad Kovo statulėlė karo metu būdavo nešama ant ieties kariuomenės priešakyje, o taikos metais stovėdavo šventykloje.
 - susijęs iš [[objektai/paprociai/Ordino karo religinio įprasminimo praktika.md#claim-t-67174|Ordino karo religinio įprasminimo praktika]]: Petras iš Dusburgo užkariavimus ir žudynes „viešpaties kare“ aukštino, Ordino riterių ginklams suteikdamas šventumo aureolę.
 - susijęs iš [[objektai/paprociai/Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių.md#claim-t-185884|Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių]]: Polocko liaudis perdavė valdžią trisdešimčiai senelių, o žmonės varinio varpo dūžiais buvo kviečiami į viešas sueigas aikštėje.
 - susijęs iš [[objektai/paprociai/Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės.md#claim-t-185862|Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės]]: Vytautui tylint, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą.
@@ -193,12 +197,16 @@ Nenurodyta
 - susijęs iš Aukaimis: Ragainės broliai užpuolė miegančius Aukaimio papilio pilėnus ir sudegino papilį iki pamatų.
 - susijęs iš Baiga: Prie Baigos atplaukusi Ordino kariuomenė, padedama pilies vado Kodrūno, užgrobė prūsų pilį.
 - susijęs iš Baiga: 1239 m. broliai, padedami Baigos pilies vado Kodrūno, užgrobė prūsų pilį ir apsigyveno Baigoje.
+- susijęs iš Daugpilis: Narbutas Gercikos pilį prie Dauguvos tapatino su dabartiniu Daugpiliu.
+- susijęs iš Dauguva: Narbutas Gercikos pilį prie Dauguvos tapatino su dabartiniu Daugpiliu.
+- susijęs iš Gercikos pilis (pilis): Narbutas Gercikos pilį prie Dauguvos vadina rusų kunigaikščio Visvaldžio sostine ir sieja ją su dabartiniu Daugpiliu.
 - susijęs iš Heilsbergas: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
 - susijęs iš Karaliaučius: Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas.
 - susijęs iš Karšuva: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
 - susijęs iš Kirsnava: Brolis Fridrichas, grįždamas su grobiu iš Kirsnavos valsčiaus, buvo priešų nukautas kartu su 30 vyrų.
 - susijęs iš Kuršas: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
 - susijęs iš Lietuva: Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą ir pasiekė Trakus.
+- susijęs iš Lietuva: Narbutas rašė, kad lietuvių genties ikijungtuviniai papročiai skyrėsi pagal tautą, vietos aplinkybes ir laiką.
 - susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir grįžo į Prūsiją bei Livoniją.
 - susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją.
 - susijęs iš Lukovas: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.
@@ -216,6 +224,7 @@ Nenurodyta
 - susijęs iš Trakai: Vytautas su žemaičiais ir Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė.
 - susijęs iš Zavichostas: Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto.
 - susijęs iš Žemaitija: Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
+- susijęs iš [[objektai/zodynas/Mėnuo Lėlė Mėnulė.md#claim-t-189162|Mėnuo Lėlė Mėnulė]]: Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, nakties karalių ir laiko tarpsnių valdovą, antrą po Saulės.
 - susijęs iš [[objektai/zodynas/artilerijos pasala.md#claim-t-42432|artilerijos pasala]]: Per Oršos mūšį atsitraukianti kariuomenė atviliojo priešą į artilerijos pasalą.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185342|skitai]]: Priešas, neįveikęs pilies, apiplėšė apylinkę ir patraukė į Skitiją.
 - susijęs iš [[objektai/zodynas/sueiga.md#claim-t-185413|sueiga]]: Žmonės buvo kviečiami varinio varpo dūžiais į sueigas aikštėje svarstyti svarbiausių reikalų.

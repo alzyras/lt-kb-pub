@@ -35,11 +35,14 @@ Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi 
   ryšio_subjekto_parinkimas: Hunai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Gotai: mention_match, group, gap=32
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hunai" parinktas kaip owner_note_path. Targetas "Gotai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
+- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-184474|Gotai]]: Gotai drauge su dalimi alanų ir hunais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.
 - susijęs iš Dauguva: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš Dauguva: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
+- susijęs iš Vysla: Narbutas mitologiniame aiškinime siejo Krivių Krivaičio valdžios ribas su žemėmis nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,3 +65,6 @@ Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/Baltai]] gyne Hunai

@@ -3,6 +3,13 @@ tipas: autorius
 pavadinimas: 'Jerošinas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+variantai:
+  - 'Jerošinas'
+  - 'Jerošinas (arkivyskupas)'
+aliases:
+  - 'Jerošinas'
+  - 'Jerošinas (arkivyskupas)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,7 +25,6 @@ tags:
 Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jerošinas, garantuoti, kad niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­ jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir popiežiui, ir kad, tikėdamas savo. Panašių pasakų prirašė ir išsiuntinėjo tieka, kad pasiekė net popie­ žių Joną ir privertė jį pasiųsti du legatus į Livoniją." Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­ tams bei popiežiui.
 
 ## Teiginiai
-
 <a id="claim-t-88046"></a>
 - t-001
   global_id: t-88046
@@ -56,6 +62,25 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
   ryšio_subjekto_parinkimas: Rygos miestiečiai: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
   ryšio_paaiskinimas: Citatoje Rygos gyventojai aprašomi kaip konfliktuojantys su Ordino broliais.
+
+<a id="claim-t-188408"></a>
+- t-003
+  global_id: t-188408
+  teiginys: 'Narbutas spėja, kad Jerošinas apie krivį turėjo daugiau žinių, nes vadino jį Obriste Ewarte.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 738490-738877; hash=5595883806e6f7c47ac8ea82a6cdf6e3fd62bbf55f81ceca43f163936ca223ae; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krivis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jerošinas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Krivis: mention_match, person, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jerošinas" parinktas kaip owner_note_path. Targetas "Krivis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172868|J. Dlugošas]]: Petro Dusburgiečio leidinio įvade J. Dlugošas pristatomas kaip autorius, savo Lenkijos istorijos „Analuose, arba kronikose“ panaudojęs Mikalojaus iš Jerošino vertimą.
 - susijęs iš [[objektai/autoriai/Jerošinas Jeroschin.md#claim-t-88021|Jerošinas Jeroschin]]: Jerošinas teigė, kad Gediminas per pasiuntinius neigė savo valia siuntęs laiškus miestams, šalims ar popiežiui.
 - susijęs iš [[objektai/autoriai/Jerošinas Jeroschin.md#claim-t-88022|Jerošinas Jeroschin]]: Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.
@@ -65,15 +90,18 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
 - susijęs iš Mikalojaus iš Jerošino Prūsijos žemės kronika: Mikalojaus iš Jerošino vertimas padėjo Dusburgiečio kronikai ir jos mintims plačiau paplisti tarp Ordino brolių ir istoriografijoje.
 - susijęs iš Kimelis: Dusburgietis Kimelį vadino Kymel, o Jerošinas - Kimel ir nurodė pilį buvus prie Nemuno.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54969|Fridrichas (Rygos arkivyskupas)]]: Dusburgo citatoje Jonas XXII pasiuntė du legatus į Livoniją Fridricho ir Rygos miestiečių prašymu.
+- susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190024|Petras Dusburgietis]]: Narbutas svarsto, kad Petras Dusburgietis galėjo nežinoti, kaip apibūdinti krivį, arba kad jo tekstas apie krivį buvo nepilnas.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102844|Dusburgas]]: Dusburgas trumpai paminėjo, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102856|Dusburgas]]: Dusburgas trumpai užsiminė, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus.
 - susijęs iš [[objektai/autoriai/Epitomatorius.md#claim-t-88045|Epitomatorius]]: Epitomatorius nurodė, kad Rygos miestiečiai ir arkivyskupas skelbė apie lietuvių ir rutėnų valdovų norą priimti krikštą.
+- susijęs iš [[objektai/autoriai/Hugo Gracijus.md#claim-t-190428|Hugo Gracijus]]: Narbutas krivio kaip aukščiausiojo teisėjo apibūdinimą siejo su Hugo Gracijaus veikalu „Historia Gottorum“.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181471|Petras Dusburgietis]]: Petro Dusburgiečio „Prūsijos žemės kronikos“ ištrauka „Rūstus Dievo žmonių likimas“ pateikta apie Durbės mūšį.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188465|Petras Dusburgietis]]: Narbutas svarstė, kad Dusburgietis galėjo nežinoti, kaip apibūdinti krivį, arba jo tekstas apie krivį galėjo būti nepilnas.
 - susijęs iš [[objektai/grupes/Rygos miestiečiai.md#claim-t-81605|Rygos miestiečiai]]: Rygos miestiečiai ir jų arkivyskupas skelbė žinią, esą Gediminas su saviškiais noriai priimtų krikštą ir tikėjimą.
 - susijęs iš [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas.md#claim-t-87158|Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]: Jerošino teigimu, Rygos arkivyskupas ir miestiečiai pajūrio miestuose bei popiežiui platino žinią, kad Gediminas norėjęs krikštytis.
 - susijęs iš 1781 m. vokiškas Dusburgiečio kronikos vertimas: 1781 m. Dusburgiečio kronika iš Karaliaučiaus karališkosios bibliotekos lotyniškojo teksto buvo išversta į vokiečių kalbą.
 - susijęs iš Vilnius: 7-ojo dešimtmečio), vertimas dabar saugomas Vilniuje78.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Jerošinas teigė, kad Gediminas per pasiuntinius neigė savo valia siuntęs laiškus miestams, šalims ar popiežiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -125,3 +153,21 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Narbutas spėja, kad Jerošinas apie krivį turėjo daugiau žinių, nes vadino jį Obriste Ewarte.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Aiškiai matyti, kad
+    jam žodis quidam (vienas, kažkoks) pasirodė esąs nepa­
+    kankamas, tačiau jis nesugebėjo jo deramai papildyti, kadangi
+    jo nobilior beveik nieko daugiau nepasako. Tačiau Jerošinas
+    tuo klausimu, matyt, turėjo jau daugiau žinių, nes krivį vadina
+    Obriste Ewarte (aukščiausiasis teisėjas), kuo krivis iš tikrųjų ir
+    buvo, nes, pasak Hugo Gracijaus (Grabus. Historia Gottorum.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

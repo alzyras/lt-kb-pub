@@ -115,8 +115,8 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad žemaičiai sudarė sutartį su Ordinu.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46010|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46011|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.
-- susijęs iš [[objektai/asmenys/Henrikas IV.md#claim-t-30261|Henrikas IV]]: Būsimasis Anglijos karalius Henrikas IV dalyvavo žygyje kaip Lancasterio grafas Derby ir paliko smulkias jo sąskaitas.
 - susijęs iš Gardinas: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.
+- susijęs iš [[objektai/asmenys/Henrikas IV.md#claim-t-30261|Henrikas IV]]: Būsimasis Anglijos karalius Henrikas IV dalyvavo žygyje kaip Lancasterio grafas Derby ir paliko smulkias jo sąskaitas.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46010|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46011|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63621|Henrikas VI]]: Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą.

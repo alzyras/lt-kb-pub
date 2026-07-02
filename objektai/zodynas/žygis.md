@@ -81,7 +81,7 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179663|Skirgaila]]: Skirgaila neturėjo visos valdžios valstybėje, nes Vilnių Jogaila pasiliko sau.
 - susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185993|Vasilijus (Maskvos kunigaikštis)]]: Po Vasilijaus valdų nusiaubimo Vasilijus turėjo prašyti taikos ir pažadėti neremti Švitrigailos.
 - susijęs iš [[objektai/asmenys/Vilhelmas fon Helfelšteinas.md#claim-t-80724|Vilhelmas fon Helfelšteinas]]: 1402 m. viduryje didžiojo komtūro Vilhelmo fon Helfelšteino vadovaujami kryžiuočiai Nemunu ir Nerimi patraukė į Vilnių.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176846|Vytenis]]: Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176846|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176872|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis kurstė popiežių, ordinus, Hanzos miestus ir Vokietijos kunigaikščius kariauti su Vytautu.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-184297|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis pabijojo, kad Vytautas neįsitvirtintų Čekijoje ir jos neperimtų.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179707|Švitrigaila]]: Po sėkmingo žygio Švitrigaila sudarė ilgalaikes paliaubas su karaliumi.
@@ -108,8 +108,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187725|Lietuvos kariuomenė]]: Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179369|Livonijos ordinas]]: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš didįjį Kalavijuočių ordino magistrą Firstembergą.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171440|Totoriai]]: 1506 m. vasarą totoriai įsiveržė į LDK valdas, nesitikėdami nesėkmės.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176140|Žemaičiai]]: Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą ir nužudė apie 70 žmonių.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176161|Žemaičiai]]: Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių ir jį sudegino.
 - susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-05289|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: 1370 m. rudenį Algirdas po dešimties dienų prie Maskvos sudarė paliaubas su Dimitru Doniečiu.
 - susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186765|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad aptariamas žygis gali būti siejamas su Rumelijos vietininko Ali-pašos žygiu į Moldaviją 1485 m. vasarą.
 - susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-184232|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Po Kauno susitarimo Ordinas atskiru dokumentu pažadėjo Vytautui mirus globoti Oną ir ginti jos teises į jos dalį.
@@ -137,6 +135,7 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - susijęs iš 1552 m. Vilniaus miesto Wielkierz Wilkirz: 1552 m. Vilniaus miesto valdžia ir piliečiai sudarė Wilkirzą, kad pagal Magdeburgo teisę būtų ribojamas valdininkų piktnaudžiavimas mokesčiais.
 - susijęs iš Eilėtoji Livonijos kronika: 1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.
 - susijęs iš Lietuvos metraštis (Bychovco kronika): Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą.
+- susijęs iš Lietuvos metraštis (Bychovco kronika): Narbutas cituoja Bychovco kroniką, kurioje rašoma, kad deginant lietuvių kunigaikštį ar didiką prie kūno dėdavo lūšies arba lokio nagus.
 - susijęs iš Švitrigailos sutartis su Didžiuoju Naugardu: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila saugumo ir prekybos laisvės sutartį.
 - susijęs iš Didysis Naugardas: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl saugumo ir prekybos laisvės.

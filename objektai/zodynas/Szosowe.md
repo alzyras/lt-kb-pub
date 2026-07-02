@@ -64,6 +64,7 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 - susijęs iš [[objektai/grupes/Vilniaus pirkliai.md#claim-t-172850|Vilniaus pirkliai]]: Buvo pageidaujama, kad Vilniaus miestiečiai ir pirkliai neprieštaraudami apskaičiuotų ir sumokėtų muitus.
 - susijęs iš Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas): Torunės seime dėl ginčų su Gdansku nebuvo nustatytos rinkliavos, tačiau Batoras vėliau įsakė tuojau pat rinkti muitus.
 - susijęs iš Torunė: Torunės seime dėl ginčų su Gdansku ir kitų nesutarimų nebuvo numatyta nustatyti jokių rinkliavų.
+- susijęs iš Vilnius: Narbutas senajame Vilniaus miesto herbe matė milžiną Alcį, žengiantį per vandenį su moterimi ant pečių.
 - susijęs iš [[objektai/zodynas/Czopowe.md#claim-t-86520|Czopowe]]: Czopowe buvo svaigalų mokestis, kurį Batoras reikalavo išreikalauti iš Vilniaus miestiečių.
 - susijęs iš [[objektai/zodynas/luomas.md#claim-t-169921|luomas]]: Batoras teigė muitus įsakęs rinkti ne luomų teisėms varžyti, o dėl Livonijos ir Lietuvos sienų gynybos poreikių.
 - susijęs iš [[objektai/zodynas/muitas thelonea.md#claim-t-86424|muitas thelonea]]: Vilniaus miestiečiams ir pirkliams buvo nurodyta mokėti muito, čopės ir šoso rinkliavas.

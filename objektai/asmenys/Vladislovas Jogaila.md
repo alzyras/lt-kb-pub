@@ -8,6 +8,11 @@ datos:
   - '1418 m.'
 date_start: '1380'
 date_end: '1418'
+description: 'Vladislovas Jogaila siejamas su Vilniaus katedros pripažinimu, bažnyčių statyba, miesto gynyba ir santykiais su Vytautu.'
+socialDescription: 'Jogailos veikla Vilniuje: katedros pripažinimas, bažnyčių statyba, miesto gynyba ir Lietuvos valdžios klausimai.'
+seo_atnaujinta: '2026-07-02T19:20:23.348919+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge­ dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios. Didžiulė politinė permaina, atėjusi per Jogailą su Lietuvos krikštu ir sąjunga su Lenkija, vėliau greitas Lietuvos vasalų virtimas turtingiausia aristokratija - visa tai Vilniaus mies­ tiečiams nesuteikė nei progos, nei palankaus meto įgyti daugiau laisvių. Juk randama, kad Vilniaus kapitulai 1390 metais Vladislovo Jo­ gailos duotoje privilegijoje, kuria do­ vanojami Paneriai, Vilija yra pava­ dinta Vigilia: obstaculum in superiori parte nostri obstaculi, in fluvio Vigilia situati [aukštutinėje dalyje mūsų už­.
+Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, religiniais ir kariniais įvykiais XIV–XV a. sandūroje. Šaltiniuose minimi jo veiksmai Vilniuje: prašymas pripažinti Vilnių miestu ir Šv. Stanislovo bažnyčią katedra, bažnyčių statyba, pilies įgulų stiprinimas ir miesto sargybos tvarka. Taip pat išryškėja Jogailos santykiai su Vytautu, Vilniaus vyskupu Andriumi ir Lietuvos valdžios paveldėjimo klausimais.
 
 ## Teiginiai
 
@@ -447,6 +452,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176718|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas siekė Lietuvos karaliaus karūnos, tačiau tam priešinosi Vladislovas Jogaila ir Lenkijos senatas.
 - susijęs iš [[objektai/grupes/Lenkų didžponiai.md#claim-t-86801|Lenkų didžponiai]]: Lenkų didžponių patarimu Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108317|Pranciškonų ordinas]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko pranciškoną Andrių iš Vasilevo.
+- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio pasiuntimas į Lietuvą 1392 m.md#claim-t-189624|Jeronimo Prahiškio pasiuntimas į Lietuvą 1392 m]]: 1392 m. Vladislovas Jogaila nusiuntė Jeronimą Prahiškį į Lietuvą pas Vytautą su laišku skelbti krikščionių tikėjimo.
 - susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54449|Lietuvos krikštas Vilniuje (1387 m.)]]: 1387 m. sausį Vladislovas Jogaila atvyko į Gedimino sostinę kartu su Jadvyga, dvasininkais, kunigaikščiais ir didikais.
 - susijęs iš [[objektai/ivykiai/Vilniaus suvažiavimas ir priesaika dėl Lietuvos grįžimo Jogailai (1401 m.).md#claim-t-86963|Vilniaus suvažiavimas ir priesaika dėl Lietuvos grįžimo Jogailai (1401 m.)]]: 1401 m. Vilniaus suvažiavime Lietuvos ir Rusios didikai prisiekė, kad po Vytauto mirties Lietuva grįš Jogailai ir Lenkijai.
 - susijęs iš [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.).md#claim-t-54697|Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]: Magdeburgo teisių suteikimu Jogaila siekė vilioti svetimtaučius kurtis Vilniuje, bet privilegiją ribojo miestiečių pavaldumas Vilniaus seniūnui.
@@ -459,9 +465,11 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - susijęs iš [[objektai/asmenys/Bodzanta.md#claim-t-82243|Bodzanta (arkivyskupas, XIV a.)]]: Gniezno arkivyskupas Bodzanta iškilmingai pašventino Stanislovo katedrą, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176417|Jadvyga Jogailienė]]: Karalienė Jadvyga Vilniaus Šv. Stanislovo katedrą apdovanojo brangiais rykais ir kita manta iš savo lobyno.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176434|Jadvyga Jogailienė]]: Karalienė Jadvyga iš savo lobyno apdovanojo pašventintą Vilniaus bažnyčią brangiais rykais ir kita manta.
+- susijęs iš [[objektai/asmenys/Jeronimas Prahiškis.md#claim-t-190013|Jeronimas Prahiškis]]: Narbutas cituoja žinią, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis rašė apie pirmųjų sutiktų lietuvių žalčių garbinimą.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182803|Jogaila (kunigaikštis, XIV–XV a.)]]: Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179654|Skirgaila]]: Jogaila paskyrė Skirgailą savo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu, pavaldžiu karaliaus valdžiai.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179666|Skirgaila]]: Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu, pavaldžiu karališkajai valdžiai.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188545|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas rašo, kad Vladislovas Jogaila į Konstancos susirinkimą pasiuntė Teodorą Lenką skųsti kryžiuočių žiaurumų.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188546|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas rašo, kad 1392 metais Vladislovas Jogaila pasiuntė Jeronimą Prahiškį pas Vytautą skelbti Lietuvoje krikščionių tikėjimo.
+- susijęs iš [[objektai/asmenys/Teodoras Lenkas.md#claim-t-190246|Teodoras Lenkas]]: Vladislovas Jogaila pasiuntė dominikoną Teodorą Lenką į Konstancos susirinkimą išdėstyti skundų prieš kryžiuočius.
 - susijęs iš [[objektai/asmenys/Vaidila.md#claim-t-87462|Vaidila]]: Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179717|Švitrigaila]]: Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179722|Švitrigaila]]: Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu nuvyko pas magistrą į Marienburgą.
@@ -469,6 +477,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - susijęs iš [[objektai/grupes/Lietuvos kunigaikščiai ir didikai.md#claim-t-86760|Lietuvos kunigaikščiai ir didikai]]: Lietuvių ir lenkų kunigaikščiai bei didikai dalyvavo iškilmingai pašventinant Vilniaus Šv. Stanislovo katedrą.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108324|Pranciškonų ordinas]]: Pirmuoju Vilniaus diecezijos vyskupu Jogaila išrinko Andrių iš Vasilevo Važilą, Mažesniųjų brolių ordino vienuolį.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176080|Vilniaus kapitula]]: Vladislovas Jogaila paveldėjimo teise perdavė katedrai ir Vilniaus kapitulai Panerius bei kitas mažesnes pajamas.
+- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio žalčių sunaikinimas ir viešas sudeginimas.md#claim-t-189628|Jeronimo Prahiškio žalčių sunaikinimas ir viešas sudeginimas]]: Narbutas rašo, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis pirmuosius sutiktus lietuvius siejo su žalčių garbinimu.
+- susijęs iš [[objektai/ivykiai/Teodoro Lenko pasiuntinybė į Konstancos susirinkimą su skundais prieš kryžiuočius.md#claim-t-189637|Teodoro Lenko pasiuntinybė į Konstancos susirinkimą su skundais prieš kryžiuočius]]: Jogaila į Konstancos susirinkimą pasiuntė dominikoną Teodorą Lenką, kad šis išdėstytų skundus prieš kryžiuočius.
 - susijęs iš [[objektai/paprociai/Bažnyčių steigimas buvusiose pagonių kulto vietose.md#claim-t-87202|Bažnyčių steigimas buvusiose pagonių kulto vietose]]: Vilniaus Šv. Stanislovo katedra, Šv. Martyno ir Šv. Jono bažnyčios laikytos įkurtomis buvusiose pagonių apeigų vietose.
 - susijęs iš [[objektai/paprociai/Bažnyčių steigimas buvusiose pagonių kulto vietose.md#claim-t-87203|Bažnyčių steigimas buvusiose pagonių kulto vietose]]: Krikščionių bažnyčias buvo raginama steigti ten, kur anksčiau stovėjo pagonių šventyklos ar šventos giraitės.
 - susijęs iš [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos.md#claim-t-87216|Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]: Jogailos sukviestame Vilniaus suvažiavime Lietuvos ir Rusios didikai prisiekė ištikimybę ir pagalbą kovoje prieš bendrą priešą.
@@ -1024,6 +1034,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 ## Ryšiai
 - Vladislovas Jogaila buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Vladislovas Jogaila paskyre [[objektai/asmenys/Skirgaila]]
+- Vladislovas Jogaila siunte_i [[objektai/vietos/Lietuva]]
+- Vladislovas Jogaila siunte_i [[objektai/vietos/Konstanca]]
 - Vladislovas Jogaila valde [[objektai/vietos/Lietuva]]
 - Vladislovas Jogaila keliavo_i [[objektai/vietos/Vilnius]]
 - Vladislovas Jogaila keliavo_i [[objektai/vietos/Lietuva]]

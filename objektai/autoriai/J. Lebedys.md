@@ -1,29 +1,34 @@
 ---
 tipas: autorius
-pavadinimas: 'J. Lebedys'
+pavadinimas: 'Jurgis Lebedys'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1957 m.'
+  - '1967 m.'
 date_start: '1957'
-date_end: ''
+date_end: '1967'
+variantai:
+  - 'J. Lebedys'
+aliases:
+  - 'J. Lebedys'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+tags:
+  - autorius
 ---
-# J. Lebedys
+# Jurgis Lebedys
 
 ## Santrauka
 
 Lebedžio, Vilnius 1957, 31-35 p.
 
 ## Teiginiai
-
 <a id="claim-t-30687"></a>
 - t-001
   global_id: t-30687
@@ -44,8 +49,26 @@ Lebedžio, Vilnius 1957, 31-35 p.
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=86
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Lebedys" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
-## Reikšmingi paminėjimai
+<a id="claim-t-188424"></a>
+- t-002
+  global_id: t-188424
+  teiginys: 'Jurgis Lebedys parengė 1967 m. Vilniuje išleistus Simono Stanevičiaus „Raštus“.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 28302-28383; hash=fc9c45f4a0dcba919dc657ed83fd098ee8a86f85c95d21b42c8108ac428e5ed8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Lebedys: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Lebedys" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -70,3 +93,16 @@ Lebedžio, Vilnius 1957, 31-35 p.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Jurgis Lebedys parengė 1967 m. Vilniuje išleistus Simono Stanevičiaus „Raštus“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    9 Žr .-.Stanevičius S. Raštai / Parengė Jurgis Lebedys. -  V, 1967. -
+    P. 216-303.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002

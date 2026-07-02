@@ -181,6 +181,7 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184527|Lenkai]]: Kazimieras su žymiaisiais lenkų didikais viešėjo Sandomire, kai karalius Vladislovas buvo išvykęs iš Lenkijos.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179272|Lietuviai]]: Lietuviai ir lenkai įsakė savo kariuomenių būriams rengti puolimus, kad nukreiptų dėmesį nuo savęs.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179330|Lietuviai]]: Tuo metu lietuviai puolė iš Žemaitijos, o lenkai – netoli Sviečės.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190606|Lietuviai]]: Narbutas nurodė, kad cituojamas autorius pateikė kai kurių lietuvių mitologijos sričių smulkius aprašymus.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108326|Pranciškonų ordinas]]: Andrius Vosylius Jastrzębiecas, dar būdamas pranciškonų kunigas, kurį laiką gyveno Vilniuje prie Algirdo.
 - susijęs iš [[objektai/grupes/ojo fuzilierių regimento.md#claim-t-80650|ojo fuzilierių regimento]]: Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.).md#claim-t-185575|Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)]]: Po Motiejaus Korvino mirties vengrai pakvietė Joną Olbrachtą į Vengrijos karalystės sostą.

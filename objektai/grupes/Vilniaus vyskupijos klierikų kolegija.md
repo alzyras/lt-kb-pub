@@ -223,6 +223,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1580 metais ant kalno prie Vilnelės Kasparo Bekešo kapui buvo pastatytas apvalaus bokšto pavidalo paminklas.
 - susijęs iš Vilnius: Vilnius tuo metu tapo vienu gražiausių Rytų Europos miestų ir turėjo daug ponų rūmų.
 - susijęs iš Vilnius: Vilniuje ponai prisistatė daugybę rūmų, o miestas tapo vienu gražiausių Rytų Europos miestų.
+- susijęs iš Vilnius: Narbuto minima knygelė eilėmis pasakojo 1748 ir 1749 m. Vilniuje įvykusių gaisrų istoriją.
 - susijęs iš [[objektai/zodynas/klierikų kolegija seminarija.md#claim-t-86475|klierikų kolegija seminarija]]: Vilniaus seminarijai prašyta karaliaus Stepono globos ir gynybos, kad ji galėtų nuolat gyvuoti ir klestėti.
 - susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72703|mokytojų seminarija]]: 1864 m. Molodečne įsteigta mokytojų seminarija negalėjo parengti pakankamai mokytojų Lietuvos ir baltarusių švietimo apygardoms.
 - susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72704|mokytojų seminarija]]: 1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus ir dėstė lietuvių kalbą.

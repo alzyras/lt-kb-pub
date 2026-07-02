@@ -447,6 +447,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - susijęs iš [[objektai/autoriai/A. Mierzyński.md#claim-t-71486|A. Mierzyński]]: A. Mierzyńskis parengė „Źródła do mytologii litewskiej“ I–II tomus, išleistus Varšuvoje 1892 ir 1896 m.
 - susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojelavičius.md#claim-t-184458|Albertas Vijūkas-Kojelavičius]]: Albertas Vijūkas-Kojelavičius 1677 m. mirė Varšuvoje.
 - susijęs iš [[objektai/autoriai/Ignacas Onacevičius.md#claim-t-81906|Ignacas Onacevičius]]: Profesorius Onacevičius 1823 m. Varšuvoje išleido Albertrandžio rankraščiais paremtą veikalą „Stepono Batoro valdymas“.
+- susijęs iš [[objektai/autoriai/Ignotas Benediktas Rakoveckis.md#claim-t-190393|Ignotas Benediktas Rakoveckis]]: Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ išėjo Varšuvoje 1820–1828 m. dviem tomais.
 - susijęs iš [[objektai/autoriai/Kryczyński, St.md#claim-t-29246|Kryczyński, St]]: St. Kryczyński 1938 m. Varšuvoje paskelbė istorinę-etnografinę monografiją „Tatarzy litewscy“.
 - susijęs iš [[objektai/autoriai/Kuczyński, S. M.md#claim-t-29370|Kuczyński, S. M]]: S. M. Kuczyński 1936 m. Varšuvoje išleido veikalą „Antymoskiewska inicjatywa Litwy w drugiej połowie XIV wieku“.
 - susijęs iš [[objektai/autoriai/Laskowski, O.md#claim-t-30786|Laskowski, O]]: O. Laskowskis 1929 m. Varšuvoje išleido išsamų strateginį tyrinėjimą „Grunwald“.
@@ -454,12 +455,14 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - susijęs iš [[objektai/autoriai/M. Poliakuvna.md#claim-t-64725|M. Poliakuvna]]: M. Poliakuvna 1968 m. Vroclave, Varšuvoje ir Krokuvoje išleido darbą „Kronika Piotra z Dusburga“.
 - susijęs iš [[objektai/autoriai/M. Poliakuvna.md#claim-t-64727|M. Poliakuvna]]: M. Poliakuvna parašė darbą „Zanik ludności pruskiej“, paskelbtą 1958 m. Varšuvoje leidinyje „Pomorze średniowieczne“.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172904|Motiejus Strijkovskis (kronikininkas)]]: Motiejaus Strijkovskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ 1846 m. išleista Varšuvoje.
+- susijęs iš [[objektai/autoriai/Majevskis.md#claim-t-190438|Majevskis]]: Narbutas nurodo Majevskio studiją apie Indijos budinų hierarchiją, paskelbtą 1827 m. Varšuvos rinkinyje „Zbior rozpraw“.
 - susijęs iš [[objektai/autoriai/Mierzyński A.md#claim-t-60756|Mierzyński A]]: Mierzyński A. 1896 m. Varšuvoje paskelbė antrąją „Źródła do mytologii litewskiej“ dalį apie XIV ir XV amžius.
 - susijęs iš [[objektai/autoriai/O. Laskowski.md#claim-t-30882|O. Laskowski]]: O. Laskowski 1929 m. Varšuvoje paskelbė išsamų strateginį tyrinėjimą „Grunwald“.
 - susijęs iš [[objektai/autoriai/St. Kryczyński.md#claim-t-29602|St. Kryczyński]]: St. Kryczyńskis 1938 m. Varšuvoje paskelbė istorinę-etnografinę Lietuvos totorių monografiją „Tatarzy litewscy“.
 - susijęs iš [[objektai/autoriai/St. M. Kuczyński.md#claim-t-30994|St. M. Kuczyński]]: St. M. Kuczyński 1955 m. Varšuvoje paskelbė veikalą „Wielka wojna z Zakonem Krzyżackim w latach 1409-11“.
 - susijęs iš [[objektai/autoriai/St. M. Kuczyński.md#claim-t-30995|St. M. Kuczyński]]: St. M. Kuczyński 1936 m. Varšuvoje paskelbė darbą „Antymoskiewska inicjatywa Litwy w drugiej połowie XIV wieku“.
 - susijęs iš [[objektai/autoriai/Stryjkowski M.md#claim-t-64852|Stryjkowski M]]: M. Stryjkowskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ pirmasis tomas išleistas Varšuvoje 1846 m.
+- susijęs iš [[objektai/autoriai/Suroveckis.md#claim-t-190456|Suroveckis]]: Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdintoje 1812 m. Varšuvoje.
 - susijęs iš [[objektai/autoriai/T. Lehr-Splawiński.md#claim-t-31013|T. Lehr-Splawiński]]: T. Lehr-Splawińskis 1947 m. Varšuvoje paskelbė veikalą „Język polski. Pochodzenie, powstanie, rozwój“.
 - susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23259|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
 - susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23260|Tadas Korsakas]]: Tadas Korsakas žuvo ginant Varšuvą.
@@ -468,6 +471,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - susijęs iš [[objektai/daiktai/Lenkijos ir Lietuvos Valstybės žemėlapis.md#claim-t-64955|Lenkijos ir Lietuvos Valstybės žemėlapis]]: XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapyje, saugotame Varšuvos karalių pilyje, buvo matyti ir LDK sienos.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179141|Lenkai]]: Lenkai pasipiktino lietuvių siūlomu projektu ir reikalavo derybas grįsti 1501 m. Melniko bei 1564 m. Varšuvos receso aktais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179271|Lietuviai]]: Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažins Lietuvą su sostine Vilniumi.
+- susijęs iš [[objektai/grupes/Varšuvos Mokslo bičiulių draugija.md#claim-t-188107|Varšuvos Mokslo bičiulių draugija]]: 1820 m. grafas bronzinę apie šešių colių aukščio statulėlę nusiuntė į Varšuvos Mokslo bičiulių draugiją.
+- susijęs iš [[objektai/grupes/Varšuvos Mokslo bičiulių draugija.md#claim-t-188108|Varšuvos Mokslo bičiulių draugija]]: Narbutas rašė, kad Varšuvos Mokslo bičiulių draugijos nuomonei apie statulėlę nepritarė visi mokslininkai net Varšuvoje.
 - susijęs iš [[objektai/grupes/Varšuvos konfederacinis seimas.md#claim-t-01516|Varšuvos konfederacinis seimas (seimas)]]: Varšuvos konfederacinis seimas pripažino Rusijai teisę prižiūrėti, kad nebūtų pakeistos kardinalinės teisės.
 - susijęs iš [[objektai/grupes/Varšuvos lietuvių studentų draugija „Lietuva“.md#claim-t-20060|Varšuvos lietuvių studentų draugija „Lietuva“]]: Varšuvos lietuvių studentų draugija „Lietuva“ įsteigė 1889 m. pradėtą leisti žurnalą „Varpas“, plėtojusį „Aušros“ idėjas.
 - susijęs iš [[objektai/grupes/Varšuvos nacionalinis muziejus.md#claim-t-20061|Varšuvos nacionalinis muziejus]]: Vilniaus klasicizmo paroda Varšuvos nacionaliniame muziejuje veikė nuo 1999 m. gruodžio iki 2000 m. sausio.
@@ -516,6 +521,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - susijęs iš Smolka, St., Szkice historyczne: St. Smolkos „Szkice historyczne“ pirmoji serija buvo išleista Varšuvoje 1882 m.
 - susijęs iš Sokolovski, Dr. Pr. Aug., Dzieje Polski, tom. II: Dr. Pr. Aug. Sokolovskio „Dzieje Polski“ antrasis tomas buvo išleistas Varšuvoje 1900 m.
 - susijęs iš Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa, 1846: M. Stryjkowskio kronikos tomas išleistas Varšuvoje 1846 m.
+- susijęs iš Suroveckio studija „Rocznik Towarzystwa Przyjaciol Nauk“ leidinyje: Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Suroveckio studijoje, paskelbtoje 1812 m. Varšuvoje.
 - susijęs iš Szacherska S. M. Opoctwo cysterskie w Szpetalu a misja pruska: S. M. Szacherskos veikalas „Opoctwo cysterskie w Szpetalu a misja pruska“ išleistas Varšuvoje 1960 m.
 - susijęs iš Słownik starożytności słowiańskich 6 t., 1962—1980: „Słownik starożytności słowiańskich“ sudaro šeši tomai, leisti 1962–1980 m. Vroclave, Varšuvoje ir Krokuvoje.
 - susijęs iš Varpas: „Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“.
@@ -576,7 +582,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - susijęs iš [[objektai/autoriai/J. Pochodowicz.md#claim-t-30695|J. Pochodowicz]]: J. Pochodowicz buvo vienas „Bibliografia Regionu Białostockiego“ redaktorių.
 - susijęs iš [[objektai/autoriai/Jakubovskij, A. J.md#claim-t-54121|Jakubovskij, A. J]]: A. J. Jakubovskij su B. D. Grekovu 1950 m. Maskvoje-Leningrade išleido veikalą „Zolotaja Orda i ee padenije“.
 - susijęs iš [[objektai/autoriai/Jakubovskij, A. J.md#claim-t-54122|Jakubovskij, A. J]]: A. J. Jakubovskij su B. D. Grekovu parašė veikalą „Zolotaja Orda i ee padenije“, išleistą Maskvoje ir Leningrade 1950 m.
-- susijęs iš [[objektai/autoriai/Ksaveras Bogušas.md#claim-t-26607|Ksaveras Bogušas]]: 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.
+- susijęs iš [[objektai/autoriai/Ksaveras Bogušas.md#claim-t-26607|Ksaveras Bogušas (kunigas, XIX a.)]]: 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.
 - susijęs iš [[objektai/autoriai/U. Lewicka.md#claim-t-31019|U. Lewicka]]: U. Lewicka kartu su J. Pochodowicz redagavo „Bibliografia Regionu Białostockiego“ pirmąjį tomą.
 - susijęs iš [[objektai/grupes/Bajorijos konfederacija.md#claim-t-72035|Bajorijos konfederacija]]: Varšuvoje susidariusi bajorijos konfederacija siekė sujungti visas buvusios Respublikos žemes į vieną kūną.
 - susijęs iš [[objektai/grupes/Dembinskio rinktinė.md#claim-t-72057|Dembinskio rinktinė]]: Rusams atgabenus į Lietuvą daugiau kariuomenės, Dembinskio rinktinei tapo nebeįmanoma kariauti.
@@ -589,6 +595,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179166|Lenkai]]: Vytautas mirė 1430 m. spalio 30 d. Trakuose, gedint Lietuvai ir lenkams, kuriuos jis buvo vedęs į pergalingus mūšius.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179190|Lenkai]]: Kantoninės Lietuvos atveju Vilniaus regionas galėjo tapti lenkų ir lietuvių nacionalizmų konflikto židiniu kalbos pagrindu.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179208|Lenkai]]: Santykiai su Lenkija gerėjo, nes per pusę šimtmečio Vilniaus demografinė padėtis pasikeitė lietuvių naudai.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190574|Lietuviai]]: Narbutas vertino lietuvius kaip mažiau apsišvietusius, bet rašė, kad jie pažino medžių dievybes ir saugojo vertingus medžius.
 - susijęs iš [[objektai/grupes/Lietuvos dailės muziejus.md#claim-t-19859|Lietuvos dailės muziejus]]: Lietuvos dailės muziejuje 2000 m. kovą–rugsėjį vyko paroda „Vilniaus klasicizmas“.
 - susijęs iš [[objektai/grupes/Lietuvos seimas (XVI a.).md#claim-t-01408|Lietuvos seimas (XVI a.)]]: Prieš bendrąjį unijos seimą sušauktame Lietuvos seime unijos klausimas nepasistūmėjo.
 - susijęs iš [[objektai/grupes/Mokslo bičiulių draugija.md#claim-t-45131|Mokslo bičiulių draugija]]: 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.
@@ -596,8 +603,6 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - susijęs iš [[objektai/grupes/Mokslo bičiulių draugija.md#claim-t-45133|Mokslo bičiulių draugija]]: Mokslo bičiulių draugijos išleistoje Ksavero Bogušo knygelėje teigta, kad lietuvių kalba tinkama aukštajai kultūrai.
 - susijęs iš [[objektai/grupes/Stepono Batoro vengrų kariuomenė.md#claim-t-86828|Stepono Batoro vengrų kariuomenė]]: Gabrielis Bekešas Skornatas buvo Stepono Batoro vengrų pulkų vadas ir ištikimai tarnavo valdovui bei Respublikai.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172830|Vilniaus miestiečių luomas]]: 1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
-- susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113355|Vilniaus universitetas]]: Po 1830-1831 m. sukilimo Vilniaus universitetas buvo uždarytas.
-- susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113361|Vilniaus universitetas]]: Po 1830-1831 m. sukilimo uždarius Vilniaus universitetą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus.
 - susijęs iš [[objektai/grupes/Vilniui vaduoti sąjunga.md#claim-t-183196|Vilniui vaduoti sąjunga]]: Po Lietuvos ir Lenkijos diplomatinių santykių atkūrimo buvo paleista 700 000 narių turėjusi patriotinė Vilniui vaduoti sąjunga.
 - susijęs iš [[objektai/grupes/Vilniui vaduoti sąjunga.md#claim-t-20077|Vilniui vaduoti sąjunga]]: Priėmus Lenkijos ultimatumą paleista 700 000 narių turėjusi patriotinė Vilniui vaduoti sąjunga.
 - susijęs iš [[objektai/ivykiai/1792 m. LLV ir Rusijos karas.md#claim-t-71721|1792 m. LLV ir Rusijos karas]]: 1792 m. birželio 14 d. Vilnius buvo atiduotas be kovos, o liepos 24 d. atėjo žinia apie Stanislovo Augusto kapituliaciją.
@@ -638,6 +643,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-87184|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: 1572 m. Žygimantas Augustas įsakė lietuvišką monetą imti nustatyta verte, o atsisakiusiesiems ją priimti numatė dešimties lenkiškų grivinų baudą.
 - susijęs iš [[objektai/posakiai/Lietuvos reikalų neleidusi sutvarkyti laiko stoka.md#claim-t-67270|Lietuvos reikalų neleidusi sutvarkyti laiko stoka]]: Išvykdamas iš Vilniaus caras Aleksandras I Oginskiui pareiškė, kad Lietuvos reikalų neleido sutvarkyti laiko stoka.
 - susijęs iš [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris.md#claim-t-86870|Promittimus et spondemus sub fide et honore nostris]]: Formule „promittimus et spondemus sub fide et honore nostris“ Vilnius su kitais miestais įsipareigojo rūpintis amžinosios taikos laikymusi.
+- susijęs iš [[objektai/posakiai/Sukūrimas tautinės mitologijos.md#claim-t-189599|Sukūrimas tautinės mitologijos]]: Posakis „Sukūrimas tautinės mitologijos“ cituojamas kaip bendro patriotinio reikalo grandis, kai mitologija laikyta tautinės kultūros dalimi.
 - susijęs iš [[objektai/posakiai/„Marsz na Kowno“ „Marš į Kauną“.md#claim-t-104218|„Marsz na Kowno“ „Marš į Kauną“]]: 1938 m. kovo 19 d. Lietuvai priėmus Lenkijos ultimatumą, Lenkijos miestų gatvėse skanduota „Marsz na Kowno“ („Marš į Kauną“).
 - susijęs iš [[objektai/posakiai/„Marsz na Kowno“ „Marš į Kauną“.md#claim-t-104219|„Marsz na Kowno“ „Marš į Kauną“]]: Po Lietuvos priimto Lenkijos ultimatumo tūkstančiai žmonių Lenkijos miestų gatvėse skandavo „Marsz na Kowno“ („Marš į Kauną“).
 - susijęs iš [[objektai/posakiai/„Marsz na Kowno“ „Marš į Kauną“.md#claim-t-26650|„Marsz na Kowno“ „Marš į Kauną“]]: 1938 m. Lenkijos ultimatumo Lietuvai kontekste Lenkijos miestų gatvėse skanduota „Marsz na Kowno“.

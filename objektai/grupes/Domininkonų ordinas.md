@@ -225,7 +225,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-005
 - susijęs iš Gardinas: Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.
 - susijęs iš [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.).md#claim-t-05292|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]: Gediminas laiškuose kvietė į Lietuvą amatininkus ir pirklius, kolonistams žadėjo lengvatų, o pranciškonų ir domininkonų prašė atsiųsti vienuolių.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113787|Goštautas (vyskupas, XV a.)]]: Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
 - susijęs iš [[objektai/ivykiai/Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje.md#claim-t-186717|Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje]]: Lietuvių nekrikščionių masinis krikštijimas katalikais vyko Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje.
 - susijęs iš [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas.md#claim-t-35959|Vytauto bažnyčių statymas ir vienuolynų steigimas]]: Vytautas Lietuvoje statė ne tik bažnyčias, bet ir vienuolynus.

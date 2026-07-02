@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Neris'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '2013 m.'
@@ -11,12 +12,12 @@ date_start: '2013'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XXI'
 tags:
   - upė
   - valstybė
   - vieta
-amziai:
-  - 'XXI'
 ---
 # Neris
 
@@ -25,7 +26,6 @@ amziai:
 Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais buvo tarp Nemuno ir Neries upių.
 
 ## Teiginiai
-
 <a id="claim-t-119183"></a>
 - t-001
   global_id: t-119183
@@ -121,6 +121,25 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   ryšio_subjekto_parinkimas: Neris: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuviai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neris" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+<a id="claim-t-188790"></a>
+- t-007
+  global_id: t-188790
+  teiginys: 'Narbutas cituoja apostrofą Vilijos upei, kurioje Neris prašoma pranešti dievams lyrinio kalbėtojo kančias ir sielvartą.'
+  pagrindžia:
+    - c-005
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 259646-260233; hash=c174925d3f7696ece8ef599ae97b50c376d89c912cabe95be0c64fa958ce852a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bokštai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Neris: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bokštai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neris" parinktas kaip owner_note_path. Targetas "Bokštai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184770|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis Žemaitijoje surinko kariuomenę, persikėlė per Nerį, susijungė su Vytautu ir pradėjo pulti Trakus.
 - susijęs iš [[objektai/asmenys/Kūnas.md#claim-t-186134|Kūnas]]: Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dubysa, Nevėžis ir Neris.
 - susijęs iš Lietauka: Labiausiai paplitusi versija Lietuvos vardą kildino iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.
@@ -133,17 +152,22 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - susijęs iš Prūsija: Prūsijos dokumentuose Vilija XIII amžiuje buvo vadinama Nerimi arba Neria.
 - susijęs iš [[objektai/zodynas/Vilija Vigilia Neris Nerige.md#claim-t-86447|Vilija Vigilia Neris Nerige]]: Vilija seniau vadinta Neris arba Neria, nes, autoriaus manymu, upė išrausė gilią vagą ir suformavo aukštas smėlingas pakrantes.
 - susijęs iš [[objektai/asmenys/Erazmas Bretneris.md#claim-t-87660|Erazmas Bretneris]]: Vilniaus burmistras ir auksakalys Erazmas Bretneris 1546 m. testamentu skyrė savo namą Švč. Trejybės špitolei.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188543|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas atmeta nuomonę, kad Šventosios vardas kilo iš lietuvių krikštijimo jos vandeniu Jogailai atvertus tautą.
 - susijęs iš [[objektai/asmenys/Mechmet Girėjus.md#claim-t-186148|Mechmet Girėjus]]: Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir grįžo su dideliu grobiu.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188280|Lietuviai]]: Narbutas atmetė nuomonę, kad Šventoji prie Ukmergės taip pavadinta dėl Jogailos laikų lietuvių krikšto.
 - susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185752|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus, Mengli Girėjaus sūnus, smarkiai ir plačiai nusiaubė Lietuvą.
 - susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185753|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
 - susijęs iš [[objektai/paprociai/Valdovų deginimo ir laidojimo apeigos Šventaragyje.md#claim-t-185856|Valdovų deginimo ir laidojimo apeigos Šventaragyje]]: Pasak Kojelavičiaus, Šventaragis paprašė Germanto po jo mirties skirti Neries ir Vilnios santakos lygumą valdovams deginti ir pelenams laidoti.
+- susijęs iš [[objektai/posakiai/Rzeko, ktdrędy lz} poniesiesz moję.md#claim-t-189548|Rzeko, ktdrędy lz} poniesiesz moję]]: Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipimosi į Vilijos upę pradžią.
 - susijęs iš 1546 m. Erazmo Bretnerio testamentas: 1546 m. Vilniaus burmistras ir auksakalys Erazmas Bretneris testamentu paskyrė savo namą Švč. Trejybės špitolei.
 - susijęs iš Akademinės Šv. Jono Kolegijos Vaistinės kronika: 1546 m. būsimos Akademinės Šv. Jono kolegijos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.
 - susijęs iš Kernavė: Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.
+- susijęs iš Kernavė: Narbutas cituoja aiškinimą, kad Neries deivės aukurai buvę įvairiose pakrantės vietose, pirmiausia Kernavėje prie Neriškių miško.
+- susijęs iš Subačiaus priemiestis: Narbutas cituoja kūrinio pavadinimą, kuriame 1749 m. birželio 8 d. Vilniaus gaisras siejamas su Subačiaus priemiesčiu ir Gregoravičiaus dvareliu.
+- susijęs iš Užupis: Narbuto cituojamame kūrinio pavadinime 1748 m. birželio 11 d. Vilniaus gaisras priskirtas Rubino kaltei ir alaus daryklai Užupyje.
 - susijęs iš Verkiai: Valdovo draudimas neleido naudoti plaustų per Nerį tarp Verkių kaimo ir Panerių kaimo.
 - susijęs iš Šeškinės laukas: Skirgaila su savo kariuomenės pulkais persikėlė per Nerį ir apsistojo Šeškinės lauke.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Per mūšius prie Vilniaus plačiai išsiliejusi Neris ir vandens pilni grioviai trukdė galutinai laimėti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -228,3 +252,27 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - t-006
     - t-005
     - t-003
+- c-005
+  santrauka: 'Narbutas cituoja apostrofą Vilijos upei, kurioje Neris prašoma pranešti dievams lyrinio kalbėtojo kančias ir sielvartą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Iš jo paimtos eilutės, arba kreipimasis (apostrofa) į Vilijos
+    upę, liečia mūsų dalyką:
+    Rzeko, ktdrędy lz}> poniesiesz moję,
+    Zmieszane z twemi czystemi wodami;
+    Rozgioš me skargi, rozgloš niepokoje...
+    Niech twoja Neris (a) i bogam oznami,
+    Pod ktorych wladzą są morskie zamęty,
+    Cierpienia moję i žal nieujęty.
+    Powiedz przešliczne boztwo Wiliej rzeki
+    Nimfom (b) twym siostrom, boginiom podwodnym:
+    25 Štai šio nedidelio kūrinėlio pavadinimas: „Ašaringas vaizdas
+    baisybių, su širdies skausmu apdainuotas elegiškomis eilėmis apie jo
+    Karališkosios Malonybės Vilniaus miesto dukartinį sudeginimą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007

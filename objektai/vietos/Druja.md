@@ -84,9 +84,13 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druja" parinktas kaip owner_note_path. Targetas "Vamzdžiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Eustachijus (raštininkas).md#claim-t-87662|Eustachijus (raštininkas)]]: Raštininkas Eustachijus pasirašė 1538 m. rugsėjo 1 d. Žygimanto Augusto laišką dėl Drujos vandens tiekimo į Vilnių.
 - susijęs iš [[objektai/asmenys/Kiščina (Vitebsko vaivadienė).md#claim-t-87756|Kiščina (Vitebsko vaivadienė)]]: Kiščina, Vitebsko vaivadienė, buvo įspėta nestabdyti į Vilnių vamzdžiais vedamo vandens iš Drujos upės.
-- susijęs iš [[objektai/daiktai/Drujos žalvarinės statulėlės su užrašu Triopa.md#claim-t-187979|Drujos žalvarinės statulėlės su užrašu Triopa]]: Vėlius nurodo, kad Narbutas lietuvių Kabirų atitikmenį grindė Drujos apylinkėje rastomis trimis tarpusavy sujungtomis žalvarinėmis statulėlėmis ir užrašu „Triopa“.
+- susijęs iš [[objektai/daiktai/Drujos žalvarinės statulėlės su užrašu Triopa.md#claim-t-187979|Drujos žalvarinės statulėlės su užrašu Triopa]]: Vėlius nurodė, kad Narbutas lietuvių Kabirus grindė prie Drujos rastomis trimis sujungtomis žalvarinėmis statulėlėmis ir užrašu „Triopa“.
 - susijęs iš 1538 m. Žygimanto Augusto laiškas Kiščinai dėl Drujos vandens: 1538 m. rugsėjo 1 d. Žygimantas Augustas laišku įspėjo Kiščiną nestabdyti vandens, vamzdžiais vedamo į miestą iš Drujos upės Paplaujoje.
 - susijęs iš Žygimanto Senojo privilegijos dėl Drujos vandens (1534 ir 1535 m.): Miesto archyve buvo Žygimanto Senojo privilegijos dėl Drujos vandens, datuotos 1534 m. liepos 4 d. ir 1535 m. liepos 17 d.
+- susijęs iš Drujos apylinkė: 1811 metais Drujos apylinkėse, nusausinto ežero dugne, rastos trys žalvarinės statulėlės ant trikampės žalvarinės lentos.
+- susijęs iš Drujos apylinkė: Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą.
+- susijęs iš Drujos apylinkės ir Druja: 1811 metais Drujos apylinkėse, nusausinto ežero dugne, rastos trys žalvarinės statulėlės ant trikampės žalvarinės lentos.
+- susijęs iš Drujos apylinkės ir Druja: Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą.
 - susijęs iš [[objektai/grupes/Sapiegų kariuomenė.md#claim-t-78446|Sapiegų kariuomenė]]: M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su visa likusia kariuomene.
 - susijęs iš [[objektai/grupes/Sapiegų kariuomenė.md#claim-t-78448|Sapiegų kariuomenė]]: Sapiegų kariuomenės dalies gynyba sutrukdė respublikonams persekioti besitraukiančius Sapiegų giminės senjorus.
 - susijęs iš [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika.md#claim-t-185748|Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]: Ordino magistras Ketleris ir Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
@@ -97,6 +101,7 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
 - susijęs iš Bychovo tvirtovė: Etmonas, iždininkas ir maršalas paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, tačiau iš tikrųjų traukėsi į Kuršą.
 - susijęs iš Kuršas: Sapiegų etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą, iš Vilniaus pasitraukė į Kuršą, Bauskę ir Mintaują.
 - susijęs iš Lietuva: Livonijos atstovai seime nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
+- susijęs iš Lietuva: Narbutas nurodė, kad rankraštis baigiasi pagyrimu lietuvių tautos svetingumui, darbštumui ir namų gyvenimo dorybėms.
 - susijęs iš Livonija: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Ludza: Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmis.
 - susijęs iš Mintauja: Etmonas, iždininkas ir maršalas, paskleidę gandą apie kelionę į Drują bei Bychovo tvirtovę, iš tikrųjų traukėsi į Bauskę ir Mintaują.
@@ -107,7 +112,6 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
 - susijęs iš Vilnius: Sapiegų etmonas, iždininkas ir maršalas po nakvynės Vilniuje iš tikrųjų pasitraukė į Kuršą, Bauskę ir Mintaują.
 - susijęs iš Želvos ežerai: Rytinė Lietuvos teritorijos linija buvo vedama per Drivietų, Želvos ir Oziraičių ežerus.
 - susijęs iš Želvos ežerai: Lietuvos rytinė teritorijos linija buvo vedama per Želvos ežerus.
-- susijęs iš [[objektai/daiktai/Drujos žalvarinės statulėlės su užrašu Triopa.md#claim-t-187979|Drujos žalvarinės statulėlės su užrašu Triopa]]: Vėlius nurodo, kad Narbutas lietuvių Kabirų atitikmenį grindė Drujos apylinkėje rastomis trimis tarpusavy sujungtomis žalvarinėmis statulėlėmis ir užrašu „Triopa“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -172,6 +176,3 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   pagrindžia:
     - t-003
     - t-004
-
-## Ryšiai
-- [[objektai/daiktai/Drujos žalvarinės statulėlės su užrašu Triopa]] priklause Druja

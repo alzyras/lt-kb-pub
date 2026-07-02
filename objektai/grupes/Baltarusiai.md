@@ -19,7 +19,6 @@ tags:
 – baltarusiai, rusai ir ukrainiečiai kartu sudėjus. Ji propagavo autonominės Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų tautų kalbos turėtų valstybinį statusą.
 
 ## Teiginiai
-
 <a id="claim-t-187870"></a>
 - t-001
   global_id: t-187870
@@ -49,23 +48,21 @@ tags:
 <a id="claim-t-187872"></a>
 - t-003
   global_id: t-187872
-  teiginys: 'Įvadiniame straipsnyje baltarusiai priskiriami Lietuvos Didžiosios Kunigaikštystės politinio, socialinio ir kultūrinio paveldo arealui.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Subjektas susietas su LDK paveldo arealu, kaip tiesiogiai nurodo citata. Nepridėta platesnių teiginių apie baltarusių vaidmenį ar tapatybę.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Aušrininkai|Aušrininkai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Baltarusiai|Baltarusiai]] priklausė Lietuva'
+  teiginys: 'Baltarusiai įtraukiami į Istorinės Lietuvos, arba Lietuvos Didžiosios Kunigaikštystės, politinio, socialinio ir kultūrinio paveldo arealą.'
   pagrindžia:
-    - c-002
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 2605-3074; hash=a128300b4d7629bf2389c1341e5def6cae04c8636e560291d37df73c1e2891b2; match=exact
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: priklause -> Lietuva: 0.62
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Baltarusiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Baltarusiai įtraukiami į istorinės Lietuvos paveldo arealą, todėl ryšys su Lietuva pagrįstas, bet apibūdinimas konceptualus.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltarusiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltarusiai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169696|Lietuvos Didžioji Kunigaikštija]]: Po antrojo Abiejų Tautų Respublikos padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74906|Rusėnai]]: LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.
 - susijęs iš [[objektai/ivykiai/Antrasis LLV padalijimas.md#claim-t-20165|Antrasis LLV padalijimas]]: Po antrojo LLV padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
@@ -132,7 +129,6 @@ tags:
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169932|rusėnų kalba LDK raštų kalba]]: Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba.
 - susijęs iš [[objektai/zodynas/senalietuviai jaunalietuviai.md#claim-t-26556|senalietuviai jaunalietuviai]]: Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino litvinais arba senalietuviais, bet dauguma jų integravosi į lenkų tautą.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -153,25 +149,6 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Įvadiniame straipsnyje baltarusiai priskiriami Lietuvos Didžiosios Kunigaikštystės politinio, socialinio ir kultūrinio paveldo arealui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata
-    trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie­
-    tuvos palikimą. Juk Lietuvos istorija -  tai ne vien pagoniškas
-    tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
-    jorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė
-    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,
-    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
-    tūrinio paveldo arealas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -195,7 +172,25 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-004
+  santrauka: 'Baltarusiai įtraukiami į Istorinės Lietuvos, arba Lietuvos Didžiosios Kunigaikštystės, politinio, socialinio ir kultūrinio paveldo arealą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata
+    trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie­
+    tuvos palikimą. Juk Lietuvos istorija -  tai ne vien pagoniškas
+    tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
+    jorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė
+    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,
+    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
+    tūrinio paveldo arealas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 - Baltarusiai gyveno [[objektai/vietos/Polesė]]
-- Baltarusiai priklause [[objektai/vietos/Lietuva]]

@@ -75,7 +75,7 @@ Terminas vartojamas kaip pradžia, nuo kurios Vilniaus universitete kilo lietuvi
   ryšio_subjekto_parinkimas: lituanistinis sąjūdis: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=59
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "lituanistinis sąjūdis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
+- susijęs iš Lituanistinis sąjūdis XIX a. pradžioje: XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus universiteto studentų ir profesorių.
 ## Reikšmingi paminėjimai
 
 - c-001

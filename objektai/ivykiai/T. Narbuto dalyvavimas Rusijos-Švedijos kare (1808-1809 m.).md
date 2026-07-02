@@ -43,36 +43,42 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-187805"></a>
-- t-001
-  global_id: t-187805
-  teiginys: 'Dalyvaudamas 1808-1809 m. Rusijos-Švedijos kare, T. Narbutas buvo kontūzytas mūšyje prie Abo miesto ir vėliau apkurto.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys išskleidžia karo kontekstą, mūšį prie Abo ir vėlesnį apkurtimą. Jis paremtas citata ir neprideda nepatvirtintų aplinkybių.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_place: Rusija; mentioned_place: Tilžė'
-  temporaliniai_duomenys: 'įvykio data: 1807 m.; įvykio data: 1808-1809; įvykio data: 1809 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys išskleidžia karo kontekstą, mūšį prie Abo ir vėlesnį apkurtimą. Jis paremtas citata ir neprideda nepatvirtintų aplinkybių.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-187806"></a>
-- t-002
-  global_id: t-187806
+- t-003
   teiginys: 'T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys tiesiogiai nusako T. Narbuto dalyvavimą kare ir turi aiškų subjektą bei predikatą. Papildomos detalės apie kontūziją neįtraukiamos.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_place: Rusija; mentioned_place: Tilžė'
-  temporaliniai_duomenys: 'įvykio data: 1807 m.; įvykio data: 1808-1809; įvykio data: 1809 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiesiogiai nusako T. Narbuto dalyvavimą kare ir turi aiškų subjektą bei predikatą. Papildomos detalės apie kontūziją neįtraukiamos.'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 5972-6239; hash=db3d47279b2d612d473e01d8ce7b114e4fa9bcd3794c3a30fd6f42fab870416d; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Rusija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.)" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- t-004
+  teiginys: 'Dalyvaudamas 1808-1809 m. Rusijos-Švedijos kare, T. Narbutas buvo kontūzytas mūšyje prie Abo miesto ir vėliau apkurto.'
+  pagrindžia:
+    - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 5972-6239; hash=db3d47279b2d612d473e01d8ce7b114e4fa9bcd3794c3a30fd6f42fab870416d; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Rusija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.)" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
@@ -80,14 +86,15 @@ Nenurodyta
     butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
     Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
     siliepė sveikatai -  jis apkurto.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-001
+    - t-003
+    - t-004
+
 ## Data ir vieta
 
 Data: 1808-1809 m.

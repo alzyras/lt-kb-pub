@@ -34,6 +34,11 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
   ryšio_targeto_parinkimas: Europa: mention_match, place, gap=58
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaukazas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187969|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: Po tardymo, kalinimo ir viešo nuplakimo Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaze veikusią Rusijos armiją.
+- susijęs iš [[objektai/autoriai/Malte-Brunas.md#claim-t-190441|Malte-Brunas]]: Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško aiškinimo „plikasis kalnas“.
+- susijęs iš [[objektai/autoriai/Rosliakovas.md#claim-t-190451|Rosliakovas]]: Gydytojas Rosliakovas apie 1809 m. surašė nenurodyto Kaukazo dialekto rankraštinį žodynėlį.
+- susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187969|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: Po tardymo, kalinimo ir viešo nuplakimo Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaze veikusią Rusijos armiją.
+- susijęs iš Malte-Bruno „Vocabulaire de mots génériques“: Narbutas Malte-Brunui priskiria nuomonę, kad Kaukazo pavadinimas išvedamas iš prūsiško „Khohkasp“ – plikojo kalno.
+- susijęs iš Rosliakovo apie 1809 m. sudarytas Kaukazo dialekto rankraštinis žodynėlis: Narbutas Rosliakovo apie 1809 m. sudarytą Kaukazo dialekto rankraštinį žodynėlį siejo su Kaspijos jūros pavadinimo aiškinimu.
 - susijęs iš Pietų Rusija: Indoeuropiečiai į Europą greičiausiai atkeliavo per Pietų Rusijos stepes ir Kaukazą.
 - susijęs iš [[objektai/autoriai/Robert Gordon Latham.md#claim-t-75425|Robert Gordon Latham]]: Robert Gordon Latham veikale „Descriptive Ethnology“ teigė, kad sanskrito giminingumas su lietuvių kalba yra ypač didelis.
 - susijęs iš [[objektai/daiktai/Rykštės.md#claim-t-187814|Rykštės]]: 1850 m. pasakojime rykštės minimos kaip priemonė, kuria viešai išplaktas Teodoro Narbuto sūnus Liudvikas.
@@ -53,6 +58,7 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 - susijęs iš Pietų Rusija: Virvelinės keramikos kultūros šaknų ieškoma Pietų Rusijoje.
 - susijęs iš Vilnius: Prancūzijos nacionalinis geografijos institutas Europos centro statmenį nustatė 25 km į šiaurę nuo Vilniaus.
 - susijęs iš Vilnius: Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad geografinis Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.
+- susijęs iš [[objektai/daiktai/Rykštės.md#claim-t-187814|Rykštės]]: 1850 m. pasakojime rykštės minimos kaip priemonė, kuria viešai išplaktas Teodoro Narbuto sūnus Liudvikas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,3 +77,7 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Liudvikas Narbutas]] siunte_i Kaukazas
+- [[objektai/asmenys/Liudvikas]] keliavo_i Kaukazas

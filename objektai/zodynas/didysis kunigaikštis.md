@@ -87,6 +87,8 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš [[objektai/asmenys/Dmitrijus Michailovičius.md#claim-t-87653|Dmitrijus Michailovičius]]: Rusios didysis kunigaikštis Dmitrijus Michailovičius buvo vedęs vieną iš Gedimino dukterų ir 1326 m. spalio 15 d. nužudytas totorių chano Uzbeko įsakymu.
 - susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-184697|Eustachijus Valavičius]]: Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.
 - susijęs iš [[objektai/asmenys/Fridrichas fon Bebirsteynas.md#claim-t-87675|Fridrichas fon Bebirsteynas]]: Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176361|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Šv. Kryžiaus ir dominikonų bažnyčių griuvėsiai Vilniuje buvo laikomi Gedimino palankumo krikščionybei atminimu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188526|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad 1329 m. Lietuvos didysis kunigaikštis Gediminas, puldamas vieną iš kryžiuočių pilių, buvo nukautas šaunamuoju ginklu.
 - susijęs iš [[objektai/asmenys/Gedvydas.md#claim-t-40121|Gedvydas]]: 1249 m. Gedvydas neteko valdų, kai Mindaugas, stiprindamas centrinę valdžią, jas atėmė iš Vykinto, Tautvilo ir Gedvydo.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184705|Germantas]]: Germantas sudarė sąjungą su lenkais, nes siekė visomis jėgomis pulti rusus.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184708|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą.
@@ -148,6 +150,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš [[objektai/daiktai/Perlais siuvinėti drabužiai.md#claim-t-186843|Perlais siuvinėti drabužiai]]: Lietuvos metraštis pasakoja, kad Vytautas Vasilijui Dimitrijevičiui padovanojo perlais siuvinėtų drabužių ir kitų brangių dovanų.
 - susijęs iš [[objektai/daiktai/Pilies arklidės, kunigaikščio brangenybės ir sidabro luitai.md#claim-t-87116|Pilies arklidės, kunigaikščio brangenybės ir sidabro luitai]]: Apie 1400 m. gaisras, prasidėjęs kunigaikščio arklidėse pilies kieme, sunaikino beveik visą Vilnių.
 - susijęs iš [[objektai/daiktai/Sabalų ir kitų brangių žvėrių kailiai.md#claim-t-186840|Sabalų ir kitų brangių žvėrių kailiai]]: Bychovco kronikoje pasakojama, kad po taikos su Algirdu Maskvos didysis kunigaikštis dovanojo jam sabalų ir kitų brangių bei retų žvėrių kailių.
+- susijęs iš [[objektai/grupes/Bavarijos kunigaikščio kariuomenė.md#claim-t-189513|Bavarijos kunigaikščio kariuomenė]]: XIV a. pradžioje Bavarijos kunigaikščio kariuomenė dalyvavo kryžiuočių žygyje, per kurį prieš apgultą pilį pastatyti Fridburgas ir Bajerburgas.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-187732|Didžiojo Naugardo respublika]]: Didžiojo Naugardo gyventojai, bijodami Vytauto kariuomenės, pažadėjo jam tarnauti, mokėti duoklę ir laikyti jį valdovu.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-187733|Didžiojo Naugardo respublika]]: Didžiojo Naugardo gyventojai kasmet mokėjo Vytautui 10 000 auksinų, 40 sunkiųjų žirgų ir kailių duoklę.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120189|Karaimai]]: Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.
@@ -155,6 +158,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178932|Kryžiuočių ordinas]]: XIV a. pabaigos Kryžiuočių ordino Lietuvos kelių aprašymuose minėta 18 didžiojo kunigaikščio dvarų Aukštaitijoje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179097|Kryžiuočių ordinas]]: Kryžiuočių magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš akių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179104|Kryžiuočių ordinas]]: XIV a. pabaigoje Kryžiuočių ordino Lietuvos kelių aprašymuose Aukštaitijoje minėta 18 didžiojo kunigaikščio dvarų.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188208|Kryžiuočių ordinas]]: XIV a. pradžioje kryžiuočiai apgulė Veliuonos pilį, o negalėdami jos paimti priešais pastatė Fridburgą ir Bajerburgą.
 - susijęs iš [[objektai/grupes/LDK Ponų Taryba.md#claim-t-187766|LDK Ponų Taryba (institucija, XV a.)]]: Aleksandro 1492 m. rugpjūčio 6 d. privilegija išplėtė LDK Ponų Tarybos teises ir apribojo didžiojo kunigaikščio sprendimų keitimą be jos žinios.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184518|Lenkai]]: Germantas sudarė draugystę su lenkais, siūlydamas sąjungą ir siekdamas bendromis jėgomis pulti rusus.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-187716|Lietuviai]]: Lietuvių kariuomenė mūšio pradžioje pirmiausia susikovė su vokiečiais, o abiejose pusėse krito daug karių.
@@ -261,6 +265,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-26648|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVII–XVIII a. Vilniaus kaip „Lietuvos Jeruzalės“ idėja siejama su jo lyginimu su Krokuvos, Liublino ir Lvovo žydų kultūros centrais.
 - susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino.
 - susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Narbuto pasakojime pagal 1331 m. rugsėjo 17 d. sutartį prie Bartenšteino buvo sunaikintos Fridburgo ir Bajerburgo pilys.
+- susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Pagal 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino, Fridburgo ir Bajerburgo pilys buvo sunaikintos.
 - susijęs iš 1401 m. Vilniaus aktas dėl Lietuvos grįžimo Jogailos valdžion: 1401 m. aktu Vytautas laidavo, kad po jo mirties Lietuva ir Rusia pereis Jogailos valdžion ir bus prijungta prie Lenkijos.
 - susijęs iš Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje: Antoine’as Gramont’as rašė, kad totoriai Lietuvoje valdė laisvuosius dvarus ir sudarė lengvąją raitiją.
 - susijęs iš Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje: Antoine’as Gramont’as rašė, kad totoriai Lietuvoje valdė laisvuosius dvarus ir sudarė lengvąją raitiją.
@@ -285,6 +290,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš Didysis Naugardas: Algirdo įtaka šiaurėje siekė Didžiojo Naugardo miesto respubliką.
 - susijęs iš Druckas: Lietuvos metraštyje Vytautas vaizduojamas kaip su Skirgaila ir didele kariuomene žygiuojantis prieš Švitrigailą į Vitebską ir pirmiausia atvykstantis prie Drucko pilies.
 - susijęs iš Dubrovna: Jogaila ir Vytautas su savo kariuomenėmis, perėję miškus, priėjo Dubrovnos laukus.
+- susijęs iš Fridburgas: XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pasistatė Fridburgą ir Bajerburgą.
 - susijęs iš Kaidanovas: Lietuvos metraštyje Kaidanovas vaizduojamas kaip vieta prie Skirmanto sienos, kur jis pasitiko chano pajėgas.
 - susijęs iš Kaidanovas: Lietuvos metraštyje pasakojama, kad Kaidanove Skirmantas pasitiko chano pajėgas, jas sumušė ir nukovė patį chaną.
 - susijęs iš Kaidanovas: Lietuvos metraštyje pasakojama, kad Skirmantas, surinkęs visas savo kariaunas, pasitiko totorius Kaidanove prie savo sienos.

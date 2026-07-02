@@ -113,8 +113,6 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 - susijęs iš [[objektai/asmenys/Marija (Haličo-Volinijos giminės).md#claim-t-97462|Marija (Haličo-Volinijos giminės)]]: Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala.
 - susijęs iš [[objektai/asmenys/Marija (Haličo-Volinijos giminės).md#claim-t-97463|Marija (Haličo-Volinijos giminės)]]: Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala ir žuvusių brolių sesuo.
 - susijęs iš [[objektai/asmenys/Mozūrų kunigaikštis Henrikas.md#claim-t-34819|Mozūrų kunigaikštis Henrikas]]: 1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis).md#claim-t-40545|Zemovitas (Mozūrijos kunigaikštis)]]: 1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.
 - susijęs iš [[objektai/asmenys/Ziemovitas III.md#claim-t-30474|Ziemovitas III]]: Jogaila geruoju susitarė su Mozūrijos Ziemovitu III po to, kai mažlenkių ponai jėga išvarė Vilhelmą.
 - susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64599|H. Paszkiewicz]]: H. Paszkiewiczius 1938 m. paskelbė 206 puslapių veikalą „O genezie i wartości Krewa“.

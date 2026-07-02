@@ -7,6 +7,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1386 m.'
   - '1404 m.'
@@ -19,14 +20,14 @@ date_start: '1386'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 tags:
   - bajorija
   - grupe
   - kraštas
   - tauta
-amziai:
-  - 'XIV'
-  - 'XXI'
 ---
 # Lietuvos Didžioji Kunigaikštystė
 
@@ -35,7 +36,6 @@ amziai:
 Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas. Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės. Už Lietuvos ribų Lietuvos bajorai laikyti tiesiog lenkais.
 
 ## Teiginiai
-
 <a id="claim-t-169699"></a>
 - t-001
   global_id: t-169699
@@ -238,6 +238,43 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštystė: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštystė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188285"></a>
+- t-012
+  global_id: t-188285
+  teiginys: 'Įvadinio straipsnio autorius teigia, kad Narbutas priešinosi mėginimams Lietuvos Didžiosios Kunigaikštystės žemes paversti Lenkijos provincija.'
+  pagrindžia:
+    - c-012
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 9804-10217; hash=70260ce60bdf6252736956f70a23f21402c2e08be96b51b4a6824ecaf301dca0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštystė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštystė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188286"></a>
+- t-013
+  global_id: t-188286
+  teiginys: 'Įvadinio straipsnio autorius LTI nuvertinimą lenkų istoriografijoje sieja su Narbuto politinėmis simpatijomis LDK ir lietuvių tautai.'
+  pagrindžia:
+    - c-013
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 11014-11272; hash=b58a5a8e070d94becd5d5d5654fbbd8a068b3ff38f37c56862e155c8b7c3cb0f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštystė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=72
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštystė" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176682|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto laikais Lietuvos Didžioji Kunigaikštystė buvo itin galinga, o jo galią jautė visas regionas.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187724|Lietuvos kariuomenė]]: Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir grįžo į stovyklą su belaisviais bei grobiu.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186545|Klecko mūšis (mūšis, XVI a.)]]: Bychovco kronika Klecko mūšio pergalę apibūdina kaip Lietuvos Didžiosios Kunigaikštystės patirtą „begalinį dievo gailestingumą“.
@@ -246,7 +283,6 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 - susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186543|Klecko mūšis (mūšis, XVI a.)]]: Lietuvos metraštis pasakoja, kad po Klecko mūšio lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais.
 - susijęs iš Cepro upė: Po Klecko kautynių Mykolas Glinskis su Lietuvos kariuomene vijosi totorius aplink Ceprą ir už Cepros.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1564 m. pradžioje į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės Maskvos kariuomenės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -480,6 +516,40 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+- c-012
+  santrauka: 'Įvadinio straipsnio autorius teigia, kad Narbutas priešinosi mėginimams Lietuvos Didžiosios Kunigaikštystės žemes paversti Lenkijos provincija.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šitaip T. Narbutas pasisakė prieš vieningos Lenkijos atkūri­
+    mo šalininkų mėginimus paversti Lietuvos Didžiosios Kuni­
+    gaikštystės žemes eiline provincija. Jo parašytas istorijos vei­
+    kalas turėjo priminti Lietuvos bajorams, kas jie yra iš tikrųjų.
+    LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
+    dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai
+    savarankiškos LDK egzistavimo pabaiga.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Įvadinio straipsnio autorius LTI nuvertinimą lenkų istoriografijoje sieja su Narbuto politinėmis simpatijomis LDK ir lietuvių tautai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai
+    vertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo
+    klaidomis, netikslumais, asmenine „kūryba“. Pagrindinė LTI
+    nuvertinimo priežastis -  istoriko politinės simpatijos LDK ir
+    lietuvių tautai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 - [[objektai/vietos/Smolenskas]] priklause Lietuvos Didžioji Kunigaikštystė

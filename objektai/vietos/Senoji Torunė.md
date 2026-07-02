@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Senoji Torunė'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1231 m.'
   - '1233 m.'
@@ -10,13 +11,13 @@ date_start: '1231'
 date_end: '1233'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
 tags:
   - miestas
   - ordinas
   - pilis
   - privilegija
-amziai:
-  - 'XIII'
 ---
 # Senoji Torunė
 
@@ -25,7 +26,6 @@ amziai:
 Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.). Dusburgietis teigia, kad dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai, dalyvavę 1231 m. puolime į Kulmo žemę.
 
 ## Teiginiai
-
 <a id="claim-t-58634"></a>
 - t-001
   global_id: t-58634
@@ -70,8 +70,26 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=69
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senoji Torunė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
-## Reikšmingi paminėjimai
+<a id="claim-t-188833"></a>
+- t-003
+  global_id: t-188833
+  teiginys: 'Narbutas nurodo Hartknocho spėjimą, kad ten, kur stovėjo Senoji Torunė, anksčiau taip pat buvusi šventykla.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 464114-464431; hash=87985dd1cdb28f6bdfa56f90fcba297decef5c99981d905973fae43f551dd26b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Senoji Torunė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senoji Torunė" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Senojoje Torunėje minimi septyni broliai veikiausiai buvo ne įgula, o 1231 m. Kulmo žemės puolime dalyvavę riteriai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -103,3 +121,21 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Narbutas nurodo Hartknocho spėjimą, kad ten, kur stovėjo Senoji Torunė, anksčiau taip pat buvusi šventykla.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šventyklos aptvaro vi­
+    duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
+    bai, -  anot Enėjo Silvijaus liudijimo.
+    Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
+    taip pat buvusi šventykla.
+    Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
+    to paties istoriko, priklausė šventyklos liekanoms.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

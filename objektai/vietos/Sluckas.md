@@ -337,6 +337,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186541|Klecko mūšis (mūšis, XVI a.)]]: Klecko mūšio 1506 m. aprašymas su vietovardžiais buvo vienas iš N. N. Ulaščiko argumentų dėl Bychovco kronikos kilmės iš Naugarduko ar Slucko krašto.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186548|Klecko mūšis (mūšis, XVI a.)]]: Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto.
 - susijęs iš [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.).md#claim-t-41286|Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]: Apie liepos 20–22 d. totoriai stovyklavietei pasirinko Klecką, nes jis buvo patogus punktas išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.
+- susijęs iš „Wizerunki Naukowe“: „Wizerunki Naukowe“ 1836 m. X tome paskelbė Komisijos dekretą apie valstiečių ginčą su Slucko bažnyčios klebonu.
 - susijęs iš Davidgorodokas: Davidgorodokas lokalizuojamas apie 120 km į pietus nuo Slucko ir apie 12 km į pietus nuo Pripetės.
 - susijęs iš Davidgorodokas: Gorodokas komentare veikiausiai tapatinamas su Davidgorodoku, esančiu apie 120 km į pietus nuo Slucko.
 - susijęs iš Dniepras: Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link.
@@ -395,7 +396,6 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - susijęs iš Bobruiskas: Bobruiske atsirado jėzuitų kolegija, įkurta Triznos fundacijos pagrindu.
 - susijęs iš Brasta: Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.
 - susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
-- susijęs iš Gardinas: Gardine atsirado jėzuitų kolegija, funduota Smolensko vyskupo Isaikovskio ir kitų rėmėjų.
 - susijęs iš Jelgava: Jelgavoje jėzuitai buvo įkūrę vieną iš mažesnių savo mokyklų.
 - susijęs iš Kijevas: Ostrogiškis už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.
 - susijęs iš Kopylis: Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.

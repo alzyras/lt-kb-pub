@@ -357,7 +357,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - Lubava priklause [[objektai/grupes/Teutonai]]
 - Lubava priklause [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Helmerichas]] surenge_zygi_i Lubava
-- [[objektai/asmenys/Kristijonas]] valde Lubava
+- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas, XIII a.)]] valde Lubava
 - Lubava priklause [[objektai/vietos/Prūsija]]
 - [[objektai/grupes/Lenkai]] gyveno Lubava
 - [[objektai/daiktai/Pilys]] priklause Lubava

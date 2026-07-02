@@ -124,8 +124,6 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
 - susijęs iš [[objektai/asmenys/Vladislovas iš Opolės.md#claim-t-93547|Vladislovas iš Opolės]]: Kazimieras III buvo atidavęs Galiciją Vladislovui iš Opolės.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175537|Kalavijuočių ordinas]]: Kalavijuočiai iš šiaurės Vytauto jaunystėje buvo vienas iš dviejų galingų priešų, smarkiai puldavusių Lietuvą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178988|Kryžiuočių ordinas]]: Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179251|Lietuviai]]: Vytauto jaunystės laikotarpiu kardininkai ir kryžiuočiai smarkiai puldavo Lietuvą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179325|Lietuviai]]: Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą.
 - susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186706|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Šio leidimo komentare pažymima, kad BK pasakojimas apie Zavichosto užėmimą ir nusiaubimą kituose šaltiniuose nėra paliudytas.
 - susijęs iš Dresvenco upė: Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.
 - susijęs iš Kulmas: Kryžiuočių pirmąsias bazes sudarė Tornas, įkurtas 1232 m., ir Kulmas, įkurtas 1235 m.

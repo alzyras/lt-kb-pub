@@ -111,6 +111,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179179|Lenkai]]: Jadvyga ir lenkų ponai nepalankiai vertino Vytauto pastangas būti nepriklausomam.
 - susijęs iš [[objektai/grupes/Lenkų ponų taryba.md#claim-t-01377|Lenkų ponų taryba (institucija)]]: 1430 m. lenkų ponai Krokuvoje privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo.
 - susijęs iš [[objektai/grupes/Lenkų ponų taryba.md#claim-t-01378|Lenkų ponų taryba (institucija)]]: Lenkų ponų taryba griežtai pasipriešino Vytauto karūnavimo sumanymui, kuriam pritarė Jogaila.
+- susijęs iš [[objektai/grupes/Lietuvos ponai.md#claim-t-189495|Lietuvos ponai]]: Narbutas rašė, kad Lietuvos ponai 1316 m. sausį Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą.
 - susijęs iš [[objektai/grupes/Lietuvos ponų taryba.md#claim-t-86732|Lietuvos ponų taryba]]: Po valdovo mirties ponų tarybos nariai buvo kviečiami atvykti prie mirusio valdovo kūno ir spręsti Respublikai kilusius pavojus.
 - susijęs iš [[objektai/grupes/Livonijos ponai.md#claim-t-187783|Livonijos ponai]]: Livonijos ponai buvo Jogailos kariuomenėje, kai Jogaila pasitiko Kęstutį su žemaičiais prie Trakų.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187735|Ponų taryba (institucija)]]: Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.
@@ -126,11 +127,14 @@ Nenurodyta
 - susijęs iš Livonijos kraštas (kraštas): Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų.
 - susijęs iš Vilnius: Vilniuje ponai prisistatė daugybę rūmų, o miestas tapo vienu gražiausių Rytų Europos miestų.
 - susijęs iš [[objektai/asmenys/Asianas Abrahimovičius.md#claim-t-87628|Asianas Abrahimovičius]]: Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188528|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.
 - susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87512|Ibrahimas (Turkijos čiaušas)]]: Turkijos čiaušas Ibrahimas su dvidešimt dviem tarnais turėjo būti aprūpintas nakvyne Vilniaus mieste.
+- susijęs iš [[objektai/asmenys/Liutauras.md#claim-t-190106|Liutauras]]: Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė Liutaurą užimti ir vietininko teisėmis valdyti Polocką.
 - susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-79163|Stanislovas Kiška]]: Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu.
 - susijęs iš [[objektai/asmenys/Vilhelmas Habsburgas.md#claim-t-64244|Vilhelmas Habsburgas]]: Austrijos Vilhelmas Habsburgas 1378 m. buvo sužieduotas su penkerių metų Jadvyga.
 - susijęs iš [[objektai/asmenys/imperatorius Zigmantas.md#claim-t-64434|imperatorius Zigmantas]]: Imperatorius Zigmantas gavo Jogailos sutikimo dėl Vytauto karūnacijos atšaukimo laišką ir jo nuorašą nusiuntė Vytautui.
 - susijęs iš [[objektai/grupes/Atskiri Lietuvos seimai.md#claim-t-72026|Atskiri Lietuvos seimai]]: Pats karalius ne kartą sušaukdavo atskirus seimus, nepaisydamas unijos akto nuostatų.
+- susijęs iš [[objektai/grupes/Livonijos riteriai.md#claim-t-189480|Livonijos riteriai]]: Narbutas Gediminą vaizduoja kaip Ariogaloje iškilusį kovotoją su kryžiuočiais ir Livonijos riteriais.
 - susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186633|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras, pats vadovaudamas Lietuvos pajėgoms, atsiėmė Smolenską.
 - susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186636|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį atsiėmė Smolenską, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą.
 - susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186637|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras vėl perdavė Smolensko valdymą Andriui Sakavičiui ir išvyko į Vilnių.
@@ -149,7 +153,10 @@ Nenurodyta
 - susijęs iš Krokuva: Jogailai siekiant ponų tarybos sutikimo dėl Vytauto karūnacijos, į Krokuvą buvo išsiųsti su Jogaila į Vilnių atvykę Lenkijos ponai.
 - susijęs iš Krokuva: Su Jogaila į Vilnių atvykę lenkų ponai buvo išsiųsti į Krokuvą, bet Vytautas jų susitarimo nebesulaukė.
 - susijęs iš Krokuva: Aleksandras 1501 m. lapkričio 29 d. išvyko iš Melniko į Krokuvą, kur gruodžio 12 d. buvo vainikuotas Lenkijos karaliumi.
-- susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
+- susijęs iš Kumanų žemė: Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, iš kurios Vytenis vėliau grįžo į Polocką.
+- susijęs iš Naugardas: Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu.
+- susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
+- susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
 - susijęs iš [[objektai/zodynas/bažnytinės cenzūros ir pasaulietinė valdžia.md#claim-t-86517|bažnytinės cenzūros ir pasaulietinė valdžia]]: Vilniaus vyskupui Povilui ir jo įpėdiniams suteikta pasaulietinė valdžia asmenims, ilgiau kaip metus vengiantiems bažnytinių cenzūrų.
 - susijęs iš [[objektai/zodynas/regestrai regestriniai kazokai.md#claim-t-74035|regestrai regestriniai kazokai]]: Nugalėti kazokai iš dalies patekdavo į regestrus, o kiti turėdavo dirbti žemę arba bėgdavo į Sičę.
 ## Reikšmingi paminėjimai

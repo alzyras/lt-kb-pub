@@ -60,6 +60,7 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - susijęs iš [[objektai/ivykiai/Šiaurės karas (1700–1721 m.).md#claim-t-39143|Šiaurės karas (1700–1721 m.)]]: Per Šiaurės karą 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.
 - susijęs iš Gedimino laiškas dominikonams (1323 m.): Gedimino laiške dominikonams Saksonijos magistrui ir priorams nurodyta perskaičius ir nurašius laišką kuo greičiau siųsti toliau.
 - susijęs iš Vitchendorfas: Vitchendorfas buvo kaimas Saksonijoje.
+- susijęs iš Žemutinė Saksonija: Narbutas rašo, kad Žemutinėje Saksonijoje buvo akmenų su ženklais, panašiais į rastus Lietuvos, Pamario ir lužitėnų kraštuose.
 - susijęs iš [[objektai/zodynas/konstitucinė monarchija.md#claim-t-15627|konstitucinė monarchija]]: Konstitucinė monarchija liko Lietuvos Tarybos darbotvarkėje, Berlyne svarstant personalinę uniją su Saksonija arba Prūsija.
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78947|Augustas II]]: Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.
@@ -69,8 +70,8 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - susijęs iš [[objektai/asmenys/Eberhardas Sorcas.md#claim-t-186197|Eberhardas Sorcas]]: Įsruties komtūras Eberhardas Sorcas su 300 raitelių ir 500 pėstininkų buvo žygio metu užpultas ir sunaikintas.
 - susijęs iš [[objektai/asmenys/Eimaras iš Cezarėjos.md#claim-t-60272|Eimaras iš Cezarėjos]]: Eimaras iš Cezarėjos pritarė nuomonei, kad Frydrichas Švabietis turėtų siekti ligoninės įsteigimo ir patvirtinimo.
 - susijęs iš [[objektai/asmenys/Gardolfas.md#claim-t-60282|Gardolfas]]: Halberštato vyskupas Gardolfas buvo tarp Vokietijos dvasininkų ir didikų, svarstusių ką tik įsteigtos ligoninės ateitį.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176374|Gediminas]]: Gediminas pranciškonams rašė pasiuntęs laišką popiežiui Jonui ir laukiąs jo pasiuntinių atvykimo.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176393|Gediminas]]: Gediminas laiške pranciškonams prisistatė lietuvių ir rusų karaliumi bei Žemgalijos valdovu ir kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176374|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas pranciškonams rašė pasiuntęs laišką popiežiui Jonui ir laukiąs jo pasiuntinių atvykimo.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176393|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas laiške pranciškonams prisistatė lietuvių ir rusų karaliumi bei Žemgalijos valdovu ir kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Henrikas (Brabanto kunigaikštis).md#claim-t-60305|Henrikas (Brabanto kunigaikštis)]]: Brabanto kunigaikštis Henrikas dalyvavo valdovų pasitarime dėl naujai įsteigtos ligoninės patvirtinimo ir tuo metu vadovavo kariuomenei.
 - susijęs iš [[objektai/asmenys/Henrikas (Jeruzalės karalius).md#claim-t-60306|Henrikas (Jeruzalės karalius)]]: Jeruzalės karalius Henrikas buvo tarp valdovų, pritarusių siūlymui siųsti legatus dėl naujai įsteigtos ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Henrikas (Jeruzalės patriarchas).md#claim-t-60307|Henrikas (Jeruzalės patriarchas)]]: Jeruzalės patriarchas Henrikas buvo tarp valdovų, pritarusių siūlymui siųsti legatus dėl naujai įsteigtos ligoninės patvirtinimo.

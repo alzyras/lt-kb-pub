@@ -4,6 +4,7 @@ pavadinimas: 'Latvija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1202 m.'
   - '1920 m.'
@@ -12,11 +13,11 @@ date_start: '1202'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Latvija
 
@@ -25,7 +26,6 @@ amziai:
 26 d. ties Kuršėnais iš Latvijos perėjo į Lietuvos teritoriją stipri jungtinė vo. Iš 8-tos ir 10-tos vokiečių armijų likučių Latvijoje buvo sudaryta tam reikalui speciali ka.
 
 ## Teiginiai
-
 <a id="claim-t-181427"></a>
 - t-001
   global_id: t-181427
@@ -82,19 +82,46 @@ amziai:
   ryšio_subjekto_parinkimas: Latvija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=44
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latvija" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-183790"></a>
+- t-005
+  global_id: t-183790
+  teiginys: 'Narbutas rašo Revelio šv. Olafo bažnyčioje matęs vėliavą su žalvariniu gaidžiu, laikytą pagonybės laikų vėliava iš Latvijos.'
+  pagrindžia:
+    - c-005
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 169736-170063; hash=6921acfcb0ca03f0b1aeb1adb7c5a38557cf2e2e4caaf627c299a79cdc42d6fc; match=exact
+  sprendimo_priezastis: auto
+<a id="claim-t-188731"></a>
+- t-006
+  global_id: t-188731
+  teiginys: 'Narbutas rašo, kad Šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis bei šarkomis.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 266427-266846; hash=3bacd3c8870992841f83234ea982f23fdbe5060f2d2aa524aebf7760ef24ccb1; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74923|Sovietų Sąjunga]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamą „liaudies demokratiją“ ir įjungė jas į SSRS.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74925|Sovietų Sąjunga]]: 1944 m. vasarą sovietų kariuomenė, išstūmusi nacistinę Vokietiją, antrą kartą okupavo Lietuvą, Latviją ir Estiją.
 - susijęs iš [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.).md#claim-t-66905|Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą ir, prievarta įvedusi tariamai demokratinį valdymą, per kelias savaites įjungė ją į SSRS sudėtį.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175530|Kalavijuočių ordinas]]: 1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175544|Kalavijuočių ordinas]]: 1202 m. dabartinėje Latvijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175546|Kalavijuočių ordinas]]: 1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti, prievarta pakrikštyti ir pajungti pagonis baltus.
+- susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189998|Frydrichas Stenderis]]: Narbutas, remdamasis Stenderiu, rašo, kad Latvijoje dar girdėti apie žynius, kurie buria, gydo ir patarinėja kerėjimo formulėmis.
 - susijęs iš [[objektai/asmenys/I. Musteikis.md#claim-t-40140|I. Musteikis]]: Mjr. I. Musteikio vadovaujama 3-ioji divizija saugojo Lietuvos rytinę ribą su bolševikais ir Latvija.
 - susijęs iš [[objektai/asmenys/J. Tūbelis.md#claim-t-78056|J. Tūbelis]]: J. Tūbelis pareiškė, kad Lietuvos, Latvijos ir Estijos karinis aljansas nebūtų naudingas Lietuvai.
 - susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170077|Juozas Tūbelis]]: Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai.
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101713|Stasys Raštikis]]: Stasys Raštikis tyrė karinio bendradarbiavimo su Latvija ir Estija galimybes ir pasisakė už trijų šalių karinę sąjungą.
+- susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190280|Frydrichas Stenderis]]: Stenderis rašė, kad Latvijoje dar girdėti apie žynius, kurie pritraukia lengvatikius iš artimesnių ir tolimesnių apylinkių.
 - susijęs iš [[objektai/grupes/Baltijos antantė.md#claim-t-19658|Baltijos antantė]]: Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-184514|Kuršiai]]: Staiga kilusi grėsmė išjudino daug kuršių, žemaičių ir lietuvių priešintis priešui, kurio pavojų rodė pavergtos Latvijos likimas.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169584|Latviai]]: Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie deramai vadinami Lethigalli.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188231|Latviai]]: Narbutas rašė, kad atminimas apie Žemės motinos garbinimą išliko tik Latvijoje.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188234|Latviai]]: Narbutas rašė, kad Latvijos kaimiečiai šiaurės pašvaistę aiškino posakiu „Johdi Kaujahs“, reiškiančiu, kad dvasios kaunasi.
 - susijęs iš [[objektai/grupes/Latvijos Lietuvių Sąjunga.md#claim-t-74046|Latvijos Lietuvių Sąjunga]]: Latvijos Lietuvių Sąjunga tuo metu buvo viena iš Latvijos lietuvių organizacijų.
 - susijęs iš [[objektai/grupes/Latvijos kariuomenė.md#claim-t-38971|Latvijos kariuomenė]]: 1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72362|Latvių Tautos Taryba (institucija)]]: Latvių Tautos Taryba susidarė vokiečių neužimtoje Latvijos dalyje ir su Petrapilio latvių pabėgėlių komitetu rūpinosi nepriklausomos Latvijos kūrimu.
@@ -103,6 +130,7 @@ amziai:
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74923|Sovietų Sąjunga]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamą „liaudies demokratiją“ ir įjungė jas į SSRS.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74925|Sovietų Sąjunga]]: 1944 m. vasarą sovietų kariuomenė, išstūmusi nacistinę Vokietiją, antrą kartą okupavo Lietuvą, Latviją ir Estiją.
 - susijęs iš [[objektai/grupes/Tautų Sąjungos susirinkimas.md#claim-t-66187|Tautų Sąjungos susirinkimas]]: Pirmasis visuotinis Tautų Sąjungos susirinkimas 1920 m. svarstė Lietuvos, Latvijos ir Estijos prašymą, bet jo dar nepatenkino.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-188362|Žemaičiai]]: Narbutas savo Lietuvos senovės tyrimų lobiu vadino papročius, prietarus, pasakojimus, padavimus ir dainas, rinktus iš Žemaičių, Lietuvos, Prūsų ir Latvijos.
 - susijęs iš [[objektai/ivykiai/Konstitucinio akto dėl nesijungimo į postsovietines Rytų sąjungas priėmimas (1992 m. birželio 8 d.).md#claim-t-20231|Konstitucinio akto dėl nesijungimo į postsovietines Rytų sąjungas priėmimas (1992 m. birželio 8 d.)]]: Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).
 - susijęs iš [[objektai/ivykiai/Latvijos de jure Lietuvos pripažinimas ir Lietuvos–Latvijos sienos nustatymas (1921 m.).md#claim-t-20253|Latvijos de jure Lietuvos pripažinimas ir Lietuvos–Latvijos sienos nustatymas (1921 m.)]]: Latvija 1921 m. vasario 16 d. pripažino Lietuvą de jure, suteikdama paramą tarptautinės izoliacijos metu.
 - susijęs iš [[objektai/ivykiai/Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.).md#claim-t-45352|Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.)]]: Sovietų divizijoms žygiuojant per Lietuvą ir atkirtus Latviją bei Estiją nuo Vokietijos, 1940 m. birželio 16 d. abi valstybės buvo žaibiškai okupuotos.
@@ -118,12 +146,14 @@ amziai:
 - susijęs iš [[objektai/posakiai/Liet’gola Lethi vel Lethigalli.md#claim-t-184359|Liet’gola Lethi vel Lethigalli]]: Nestoro kronikoje tikrieji latviai vadinti „Liet’gola“, o Latvijos Henrikas juos įvardijo kaip „Lethi vel Lethigalli“.
 - susijęs iš Konstitucinis aktas „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“: Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).
 - susijęs iš Latvijos Henriko kronika: Latvijos Henriko kronika, surašyta 1225-1227 m., buvo viena pirmųjų Pabaltijo vokiečių kronikų, plačiau minėjusių ordino priešą.
+- susijęs iš Stenderio „Lettische Grammatik“: Narbutas rašo, kad Stenderio laikais Latvijoje dar buvo girdėti apie žynius, traukiančius lengvatikius iš apylinkių.
 - susijęs iš Daugava: Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.
 - susijęs iš Klaipėdos kraštas: Klaipėdos kraštas daugeliu išsivystymo parametrų buvo panašesnis į Latviją ir Estiją, negu į Didžiąją Lietuvą.
 - susijęs iš Lietuva: Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).
 - susijęs iš Lietuva: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamai demokratinį valdymą ir įjungė jas į SSRS.
 - susijęs iš Lietuva: 1940 m. birželio 16 d. sovietų divizijos, žygiuodamos per Lietuvą, strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.
 - susijęs iš Mažeikiai: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
+- susijęs iš Revelis: Narbutas Revelio šv. Olafo bažnyčioje matė vėliavos liekaną su žalvariniu gaidžiu, laikytą pagonybės laikų vėliava iš Latvijos.
 - susijęs iš Sovietų Rusija: 1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes.
 - susijęs iš Šiaurės Lietuva: Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai.
 - susijęs iš [[objektai/zodynas/Euroatlantinė ir transatlantinė integracija.md#claim-t-70000|Euroatlantinė ir transatlantinė integracija]]: Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).
@@ -159,6 +189,7 @@ amziai:
 - susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-183127|Europos Sąjunga]]: 2004 m. gegužės 1 d. Lietuva įstojo į Europos Sąjungą ir įgijo teisę kurti savo bei žemyno ateitį su kitomis demokratinėmis valstybėmis.
 - susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74110|Europos Sąjunga]]: Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose pripažintas Baltijos valstybių tikslas tapti ES narėmis.
 - susijęs iš [[objektai/grupes/Jaunieji tautininkai.md#claim-t-19719|Jaunieji tautininkai]]: Jaunieji tautininkai Vokietijos ir Lenkijos karo metu kaltino valdžią neveiklumu ir ragino vyriausybę jėga atsiimti Vilnių.
+- susijęs iš [[objektai/grupes/Juodi.md#claim-t-189518|Juodi]]: Narbutas aiškino, kad daugiskaitos forma Juodi, arba Johdi, reiškia oro dvasias ir mirusiųjų vėles.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175530|Kalavijuočių ordinas]]: 1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175544|Kalavijuočių ordinas]]: 1202 m. dabartinėje Latvijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175546|Kalavijuočių ordinas]]: 1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti, prievarta pakrikštyti ir pajungti pagonis baltus.
@@ -166,6 +197,7 @@ amziai:
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169589|Latviai]]: Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet’gola.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169592|Latviai]]: Tikrieji latviai naujojo geležies amžiaus pradžioje pradėjo ryškiau kalbiškai skirtis nuo lietuvių.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188223|Latviai]]: Pasak Stenderio, latviai kiekvieną deivę vadino motina, o dievą - tėvu, todėl mitus siejo su vyriškąja ir moteriškąja dievybės lytimis.
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72360|Latvių Tautos Taryba (institucija)]]: Latvių Tautos Taryba protestavo, kai Brastos taikoje bolševikai paliko Pabaltijį vokiečių valdžioje.
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72361|Latvių Tautos Taryba (institucija)]]: Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją.
 - susijęs iš [[objektai/grupes/Liaudies seimas.md#claim-t-19796|Liaudies seimas (seimas)]]: Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.
@@ -175,6 +207,7 @@ amziai:
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96811|Lybiai]]: Vokiečių pirkliai ir misionieriai, pradėję lankytis lybių gyvenamuose kraštuose, pirmiausia susidūrė su lybiais.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96813|Lybiai]]: Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.
 - susijęs iš [[objektai/grupes/NKGB.md#claim-t-65925|NKGB]]: Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros.
+- susijęs iš [[objektai/grupes/Raganos.md#claim-t-189499|Raganos]]: Narbutas rašo, kad prietaringi Šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis ar šarkomis ir skraidyti ant ožio.
 - susijęs iš [[objektai/grupes/Rusijos Federacija.md#claim-t-108340|Rusijos Federacija]]: Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175086|Sembai]]: Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74922|Sovietų Sąjunga]]: 1944 m. vasarą sovietų kariuomenė išvadavo Lietuvą iš nacių Vokietijos ir tuo pat metu antrą kartą okupavo Lietuvą.
@@ -205,6 +238,7 @@ amziai:
 - susijęs iš [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m.).md#claim-t-75283|Sovietinė Lietuvos reokupacija (1944 m.)]]: 1944 m. vasarą sovietų kariuomenė antrą kartą okupavo Lietuvą ir grąžino stalininį režimą.
 - susijęs iš [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.).md#claim-t-66905|Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą ir, prievarta įvedusi tariamai demokratinį valdymą, per kelias savaites įjungė ją į SSRS sudėtį.
 - susijęs iš [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.).md#claim-t-20554|Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]: 1940 m. birželio 15 d. pavakare iš Maskvos į Lietuvą atvykusiam sovietų emisarui Vladimirui Dekanozovui atiteko reali aukščiausioji valdžia.
+- susijęs iš [[objektai/posakiai/Johdi Kaujahs.md#claim-t-189580|Johdi Kaujahs]]: Narbuto mitologiniame aiškinime daugiskaita „Juodi“ („Johdi“) reiškia oro dvasias ir mirusiųjų vėles.
 - susijęs iš [[objektai/posakiai/Liet’gola Lethi vel Lethigalli.md#claim-t-31549|Liet’gola Lethi vel Lethigalli]]: Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie tiksliai vadinami Lethigalli.
 - susijęs iš [[objektai/posakiai/geopolitine katastrofa.md#claim-t-26350|geopolitine katastrofa]]: Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS.
 - susijęs iš [[objektai/posakiai/„lenkai atakuoja...“.md#claim-t-20909|„lenkai atakuoja...“]]: 1920 m. rugsėjį Mykolas Sleževičius Seime pareiškė, kad lenkai atakuoja Lietuvą, nes juos pakvietė dvarininkai.
@@ -251,6 +285,7 @@ amziai:
 - susijęs iš Čekoslovakija: Su Čekoslovakija buvo sudaryta sutartis, įpareigojusi saugoti mažumų teises.
 - susijęs iš [[objektai/zodynas/Euroatlantinė ir transatlantinė integracija.md#claim-t-69999|Euroatlantinė ir transatlantinė integracija]]: Glaudus trijų Baltijos valstybių bendradarbiavimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.
 - susijęs iš [[objektai/zodynas/Klaipėdiškiai.md#claim-t-183433|Klaipėdiškiai]]: Lietuva dėl socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius klaipėdiškius.
+- susijęs iš [[objektai/zodynas/Ragana.md#claim-t-189246|Ragana]]: Narbutas rašo, kad šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis bei šarkomis.
 - susijęs iš [[objektai/zodynas/Status quo.md#claim-t-22025|Status quo]]: Klaipėdos klausimu Lietuva gynė status quo, nors Vilniaus klausimu reikalavo sienų revizijos.
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75544|de facto]]: 1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes.
 - susijęs iš [[objektai/zodynas/etnografinė siena.md#claim-t-72689|etnografinė siena]]: Pradinė Latvijos ir Lietuvos siena nesutapo su etnografine lietuvių siena, todėl pradžioje kildavo nesusipratimų.
@@ -263,7 +298,6 @@ amziai:
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72361|Latvių Tautos Taryba (institucija)]]: Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -339,6 +373,41 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+- c-005
+  santrauka: 'Narbutas rašo Revelio šv. Olafo bažnyčioje matęs vėliavą su žalvariniu gaidžiu, laikytą pagonybės laikų vėliava iš Latvijos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Iš Marienburgo, Karaliaučiaus, Revelio senienų
+    aiškėja, kad lietuvių karo vėliavose paprastai būdavo pavaiz­
+    duotas žirgas arba gaidys. Revelyje, šv. Olafo bažnyčioje, pats
+    mačiau medinį kotą su kažkokio audeklo gabalu, kuriame bu­
+    vo žalvarinis balandžio dydžio gaidys; tatai laikyta pagonybės
+    laikų vėliava, paimta Latvijoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Narbutas rašo, kad Šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis bei šarkomis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šios deivės yra tikra antikinių hamadriadžių kopija.
+    Prietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,
+    dabar raganomis vadina tam tikras kerėtojas, galinčias pasi­
+    versti katėmis bei šarkomis ir skraidančias raitomis ant ožio.
+    Pavasarį perkūno oželis, aukštai iškildamas į orą, mekena ožio
+    balsu, tad valstiečiai sako, kad ragana skrendanti raita ant ožio
+    ir kankinanti jį savo pentinais, todėl tas bliaunąs.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 - [[objektai/grupes/Sovietų Sąjunga]] uzkariavo Latvija

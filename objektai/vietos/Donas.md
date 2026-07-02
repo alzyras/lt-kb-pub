@@ -35,20 +35,27 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Donas: llm_allowed_candidate, place
   ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Vytauto žygį į Dono aukštupius.
+- susijęs iš Volkovysko apskritis: Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskrityje, kairiajame Nemuno vidurupio krante.
 - susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78166|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
 - susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78167|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
+- susijęs iš [[objektai/grupes/Gelonai.md#claim-t-189488|Gelonai]]: Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo tėvynėje turėjo trečią šventąją Ross upę, tapatintą su Oskolu.
 - susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186783|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Pagal 1501 m. Aukso ordos ir LDK sutartį Aukso orda apie 1501 m. birželį iš Volgos ir Dono žemupio stepių persimetė į Dono aukštupį.
 - susijęs iš [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę.md#claim-t-185834|Vytauto šalininkų žygis į Riazanę]]: Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.).md#claim-t-35919|Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]: Vytautas surengė žygį į Maskvos apylinkes, norėdamas suvaldyti jam nepaklusnius Okos ir Dono aukštupių kunigaikščius.
 - susijęs iš Azovas: Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.
+- susijęs iš Donas ir Donecas: Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Doneco, o jų tėvynėje buvusi šventoji Ross upė.
 - susijęs iš Kijevas: Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.
 - susijęs iš Korševas: 1363 m. Lietuva paėmė Korševą, miestą prie Sosnos upės, dešiniojo Dono intako.
 - susijęs iš Novosilė: Novosilė lokalizuojama Okos ir Dono aukštupių zonoje, labiausiai į rytus išsikišusiame LDK pakraštyje.
 - susijęs iš Odojevas: Odojevo kunigaikštis buvo tarp Okos ir Dono aukštupių valdovų, atsimetusių nuo Vytauto.
 - susijęs iš Odojevas: Odojevo kunigaikščiai buvo tarp Okos ir Dono aukštupių valdovų, atsimetusių nuo Vytauto.
+- susijęs iš Oskolas: Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir budinų gyvenimu tarp Dono ir Doneco.
 - susijęs iš Sosnos upė: Korševas buvo miestas prie Sosnos upės, dešiniojo Dono intako, netoli totorių stepių valdų.
 - susijęs iš Žemutinis Padnieprys: Prieš mūšį parengiamieji žygiai buvo organizuoti nuo Žemutinio Padnieprio Dono link ir į Krymą.
 - susijęs iš [[objektai/asmenys/Ivanas Ganeckis.md#claim-t-40145|Ivanas Ganeckis]]: Ivano Ganeckio rinktinėje prieš Sierakausko sukilėlius buvo daugiau kaip 1500 karių.
+- susijęs iš [[objektai/autoriai/Ovidijus.md#claim-t-190356|Ovidijus]]: Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertimą pateikė kaip bandymą kurti gryna lietuvių kalba.
+- susijęs iš [[objektai/grupes/Budinai.md#claim-t-189468|Budinai]]: Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso.
+- susijęs iš [[objektai/grupes/Budinai.md#claim-t-189469|Budinai]]: Narbutas pasakojo, kad gelonai ir budinai apsigyveno prie Nemuno vidurupio ir Volkovysko apskrityje upę pavadino Rose.
 - susijęs iš [[objektai/grupes/Narvos muškietininkų pulkas.md#claim-t-78388|Narvos muškietininkų pulkas]]: Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.
 - susijęs iš [[objektai/grupes/Narvos muškietininkų pulkas.md#claim-t-78390|Narvos muškietininkų pulkas]]: Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.
 - susijęs iš [[objektai/grupes/Pskovo muškietininkų pulkas.md#claim-t-78425|Pskovo muškietininkų pulkas]]: Lietuviams puolant Vilnių balandžio 23 d., rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.
@@ -64,6 +71,8 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 - susijęs iš Pskovas: Balandžio 23 d. Vilniuje buvusioje rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.
 - susijęs iš Vilnius: Lietuviams puolant balandžio 23 d., Vilniuje buvusią rusų įgulą sudarė 2500 pėstininkų, 300 raitelių ir 19 artilerijos pabūklų.
 - susijęs iš Vilnius: Lietuviams puolant balandžio 23 d., Vilniuje buvusią rusų įgulą sudarė 2500 pėstininkų, 300 raitelių ir 19 artilerijos pabūklų.
+- susijęs iš Volkovysko apskritis: Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskrityje, kairiajame Nemuno vidurupio krante.
+- susijęs iš [[objektai/grupes/Gelonai.md#claim-t-189488|Gelonai]]: Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo tėvynėje turėjo trečią šventąją Ross upę, tapatintą su Oskolu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -83,3 +92,4 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 
 ## Ryšiai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Donas
+- [[objektai/grupes/Gelonai]] gyveno Donas

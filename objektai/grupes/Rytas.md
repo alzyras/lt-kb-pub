@@ -65,6 +65,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   ryšio_subjekto_parinkimas: Rytas: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuvių Dailės Draugija: mention_match, group, gap=69
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rytas" parinktas kaip owner_note_path. Targetas "Lietuvių Dailės Draugija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188557|Janas Lasickis]]: Narbutas rašo, kad Lasickis liudijo buvus Aušros vardu vadintą ryto deivę.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102851|Dusburgas]]: Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.
 - susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41108|P. Lukšio rinktinė]]: 1952 m. J. Paliūnas-Rytas vėl tapo P. Lukšio rinktinės vadu ir tais pačiais metais, po išdavystės apsuptas bolševikų, nusišovė.
 - susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23312|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: 1926 m. gruodžio 17 d. ankstų rytą karininkai išvedė kareivius į miestą ir pastatė sargybas prie svarbiausių valstybinių įstaigų.
@@ -72,6 +73,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.).md#claim-t-78611|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]: NKVD puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų pasitraukimo kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.
 - susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09851|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Vasario 8-osios rytą Kėdainių gynėjai sudarė 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o padėjėju paskirtas P. Lukšys.
 - susijęs iš J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario.
+- susijęs iš Aušra: Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų vartų atidarymą ir saulės fakelo uždegimą.
 - susijęs iš [[objektai/asmenys/D. Kuruta.md#claim-t-40078|D. Kuruta]]: Mūšiui pasibaigus, generolas leitenantas D. Kuruta įsakė nutraukti sukilėlių persekiojimą.
 - susijęs iš [[objektai/asmenys/Dargis.md#claim-t-60261|Dargis]]: Dargis buvo Žiokos valsčiuje gyvenęs prūsas, nepakentęs baltų žirgų ir po Ditricho bandymų atsisakęs prietaro.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59839|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.
@@ -85,6 +87,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/asmenys/Konradas Lichtenhagenas.md#claim-t-87759|Konradas Lichtenhagenas]]: Brandenburgo komtūras Konradas Lichtenhagenas atėjo į Gardino valsčių ir pilį po žygio į Pagraudenės valsčių.
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis.md#claim-t-175242|Konradas iš Tirbergo Jaunesnysis]]: Konradas iš Tirbergo Jaunesnysis, būdamas Prūsijos žemės maršalas, įsiveržė į Pakimos valsčių Sūduvoje ir jį smarkiai nusiaubė.
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis.md#claim-t-175243|Konradas iš Tirbergo Jaunesnysis]]: Konradas iš Tirbergo Jaunesnysis su didele kariuomene puolė Bisenės pilį, ją užėmė ir pavertė pelenais.
+- susijęs iš [[objektai/asmenys/Konstantinas Sirvydas.md#claim-t-188573|Konstantinas Sirvydas (kunigas, XVII a.)]]: Narbutas nurodo, kad kunigas Konstantinas Sirvydas Aušrą vadino Aurora.
 - susijęs iš [[objektai/asmenys/Michailas Kalininas.md#claim-t-19136|Michailas Kalininas]]: Antano Smetonos laiškas sovietų prezidentui Michailui Kalininui nepadėjo išvengti 1940 m. birželio 14 d. SSRS ultimatumo Lietuvai.
 - susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-184119|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
 - susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-60414|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
@@ -98,6 +101,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/autoriai/J. Maciūnas.md#claim-t-96052|J. Maciūnas]]: J. Maciūnas parengė „Trumpą higienos vadovėlį“ pagal Švietimo ministerijos programą.
 - susijęs iš [[objektai/autoriai/Kojałowicz Kojelavičius.md#claim-t-87997|Kojałowicz Kojelavičius]]: Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
 - susijęs iš [[objektai/daiktai/Kardas.md#claim-t-92971|Kardas]]: Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą.
+- susijęs iš [[objektai/daiktai/Lininiai dirbiniai.md#claim-t-189687|Lininiai dirbiniai]]: Narbutas Alabatį vadina Linų Izide ir aiškina, kad ji globojo ne linų auginimą, o iš linų padarytus dirbinius.
 - susijęs iš [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas.md#claim-t-78675|Prisikėlimo apygardos partizanų antsiuvas]]: Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu.
 - susijęs iš [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas.md#claim-t-78676|Prisikėlimo apygardos partizanų antsiuvas]]: Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-10166|Vėliavos]]: 1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
@@ -105,6 +109,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/grupes/2-asis šaulių pulko batalionas.md#claim-t-38928|2-asis šaulių pulko batalionas]]: 2-asis šaulių pulko batalionas palaikė J. Zalivskio ir V. Matusevičiaus Trakų sukilėlių dalinius puolant rusų kairįjį sparną.
 - susijęs iš [[objektai/grupes/Kėdainių įgula.md#claim-t-78195|Kėdainių įgula]]: Vasario 7 d. anksti ryte Kėdainių įgula iš Kauno gavo šautuvų, šovinių ir rankinių granatų.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179240|Lietuviai]]: Per pagrindinį puolimą lietuvių gynyba iš pradžių buvo narsi, bet Žemutinėje pilyje prasiveržė liepsna.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190589|Lietuviai]]: Narbutas lietuvius apibūdino kaip pamaldžius ir prietaringus, kurie prieš darbus klausdavo pranašų patarimo.
 - susijęs iš [[objektai/grupes/Lietuvos universitetas.md#claim-t-77829|Lietuvos universitetas]]: Aukštieji kursai Kaune peraugo į Lietuvos universitetą, atidarytą 1922 m. vasario 16 d.
 - susijęs iš [[objektai/grupes/SSRS kariuomenė.md#claim-t-183184|SSRS kariuomenė]]: V. Molotovas J. Urbšiui pareiškė, kad SSRS kariuomenė įžygiuos į Lietuvą nepriklausomai nuo Lietuvos atsakymo.
 - susijęs iš [[objektai/grupes/SSRS kariuomenė.md#claim-t-19998|SSRS kariuomenė]]: 1940 m. birželio 14 d. ultimatumu SSRS pareikalavo, kad Lietuva įsileistų papildomus sovietų karinius dalinius.
@@ -130,6 +135,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45445|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: 1940 m. birželio 14 d. vakare V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti papildomus sovietų dalinius ir pakeisti vyriausybę.
 - susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45446|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: V. Molotovas J. Urbšiui pareiškė, kad, nepaisant Lietuvos atsakymo, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
 - susijęs iš [[objektai/paprociai/Amžinosios ugnies saugojimas ir ligonių likimo būrimas iš šešėlio.md#claim-t-187999|Amžinosios ugnies saugojimas ir ligonių likimo būrimas iš šešėlio]]: Narbutas pasakoja, kad žyniai prie Amžinosios ugnies pagal ligonio šešėlio padėtį aiškindavo gyvybės arba mirties ženklus.
+- susijęs iš [[objektai/paprociai/Šeimynos dievo vištų deginimo aukos ir jų prietarinė liekana.md#claim-t-189884|Šeimynos dievo vištų deginimo aukos ir jų prietarinė liekana]]: Narbutas to paties mito liekana laiko prietarą, kai šeimininkė neištraukia į krosnies ugnį įlėkusios vištos ir meldžiasi priešais ugnį.
 - susijęs iš [[objektai/paprociai/Žirgų plauko spalvos tabu iš pagarbos dievams.md#claim-t-62180|Žirgų plauko spalvos tabu iš pagarbos dievams]]: Žiokos valsčiuje gyvenęs prūsas Dargis nepakentė baltų žirgų, o Sembos fogtas Ditrichas mėgino jį atpratinti nuo šio prietaro.
 - susijęs iš [[objektai/posakiai/Nebebuvo laiko slėptis, reikėjo ruoštis gynybai.md#claim-t-41457|Nebebuvo laiko slėptis, reikėjo ruoštis gynybai]]: Artėjant tanketėms, sunkvežimiams ir gurguolėms, nebebuvo laiko slėptis ir reikėjo ruoštis gynybai.
 - susijęs iš [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs.md#claim-t-41468|Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs]]: Poeto Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 metų įvykių vertinimu.

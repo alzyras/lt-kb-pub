@@ -87,7 +87,7 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
 - susijęs iš Vilniaus Aukštutinė pilis: Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
 - susijęs iš [[objektai/asmenys/Daugirdas.md#claim-t-186102|Daugirdas]]: Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vilnių.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184691|Dimitras Kaributas]]: Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
 - susijęs iš [[objektai/asmenys/J. Šarauskas.md#claim-t-40173|J. Šarauskas]]: Kėdainių srities apsaugos viršininkas J. Šarauskas mieste buvo suorganizavęs savanorių būrį.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79047|Jonas Karolis Katkevičius]]: Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.
 - susijęs iš [[objektai/asmenys/Konradas Valenrodas.md#claim-t-87398|Konradas Valenrodas]]: Konrado Valenrodo vadovaujama kryžiuočių kariauna kartu su Vytautu rugsėjo 11 d. apsupo Trakų pilį.
@@ -107,6 +107,7 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178790|Kryžiuočių ordinas]]: Per Bajerburgo apsuptį Ordino maršalas Henrikas Duseneris ir Reino palatinas atvyko į pagalbą apsuptiesiems.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179042|Kryžiuočių ordinas]]: 1383 m. Kryžiuočių ordino kariauna su Vytautu ir jo šalininkais rugsėjo 11 d. apsupo Trakų pilį.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179317|Lietuviai]]: Po mūšio tarp Verkių ir Šeškinės dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose ir aptvaruose.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190588|Lietuviai]]: Narbutas rašė, kad po prūsų stabmeldystės smūgio religinė sostinė buvo perkelta į Lietuvą, o vyriausiųjų žynių tvarka truko iki 1387 m.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179389|Livonijos ordinas]]: Priartėjus Livonijos magistro vedamiems pulkams, Valenrodo kariauna pasuko Vilniaus link.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179408|Livonijos ordinas]]: Livonijos magistro vedami pulkai prisijungė prie Valenrodo lauktos kariuomenės, kuri po Ukmergės ir Visevaldės užėmimo pasuko Vilniaus link.
 - susijęs iš [[objektai/grupes/Romanovų dinastija.md#claim-t-66061|Romanovų dinastija]]: Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo.

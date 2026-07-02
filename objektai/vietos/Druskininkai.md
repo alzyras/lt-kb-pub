@@ -36,6 +36,9 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga).md#claim-t-66461|Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]: Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir puolė Varėnos kryptimi.
+- susijęs iš Druskininkų kapavietė: 1841 metais prie Druskininkų tik ką atkastoje kapavietėje rasta moneta, kurios vienoje pusėje buvo pavaizduoti Gediminaičių Stulpai.
+- susijęs iš Druskininkų pilkapynas: Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio smėlio atidengtą pilkapyną, kurį kaimiečiai siejo su stabmeldystės laikais.
+- susijęs iš Druskininkų pilkapynas: Narbutas mini chemiko raštelį, kuriame teigta, kad 1819 metais Druskininkų vandenyje aptikta bromo, bet pats šios žinios nepatvirtino.
 - susijęs iš Vilniaus kraštas: Derybose su sovietais lietuviai siekė atgauti kelis lietuviškus Vilniaus krašto rajonus, tarp jų Švenčionis ir Druskininkus.
 - susijęs iš Švenčionys: 1939 m. derybose Lietuva siekė atgauti lietuviškus Vilniaus krašto rajonus, tarp jų Švenčionis ir Druskininkus.
 - susijęs iš [[objektai/daiktai/Vokiškas universalusis kulkosvaidis MG 42.md#claim-t-183689|Vokiškas universalusis kulkosvaidis MG 42]]: Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę.

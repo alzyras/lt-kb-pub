@@ -56,8 +56,6 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
 - susijęs iš [[objektai/asmenys/Jonas de Gandas.md#claim-t-87524|Jonas de Gandas]]: Jonas de Gandas buvo Lankasterio kunigaikštis, Ričardo II dėdė ir Henriko Lankasterio tėvas.
 - susijęs iš [[objektai/asmenys/Ričardas II.md#claim-t-87570|Ričardas II]]: Apie 1390 m. Anglijoje viešpatavo Ričardas II, o prie Vilniaus buvo Henrikas Lankasteris, Jono de Gando sūnus.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172937|M. Strijkovskis Stryjkowski]]: Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172887|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis apsiriko rašydamas, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su kariuomene įsibrovė į Lietuvą.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172903|Motiejus Strijkovskis (kronikininkas)]]: Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.
 - susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81588|Prancūzai]]: 1390 m. žygyje prancūzams ir kitiems kariams vadovavo riteris Boucicaut.
 - susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113618|didysis magistras]]: Prieš 1392 m. žygį didysis magistras ir jo svita dėl pasitikėjimo Ordino kariuomenės galybe Lietuvą jau laikė nukariauta.
 - susijęs iš [[objektai/zodynas/prūsiškos grivenos.md#claim-t-86612|prūsiškos grivenos]]: 1392 m. Kauno iškilmių parengimas ir žygio išlaidos, pasak metraštininkų, siekė beveik 500 000 prūsiškų grivenų.

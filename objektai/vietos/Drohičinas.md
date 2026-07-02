@@ -517,11 +517,11 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 ## Ryšiai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Drohičinas
 - [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]] uzeme Drohičinas
-- [[objektai/asmenys/Gediminas]] uzeme Drohičinas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzeme Drohičinas
 - Drohičinas priklause [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Jurgis Nosuta]] valde_miesta Drohičinas
 - [[objektai/asmenys/Švitrigaila]] puole Drohičinas
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Drohičinas
-- [[objektai/asmenys/Vytenis]] uzeme Drohičinas
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] uzeme Drohičinas
 - Drohičinas priklause [[objektai/vietos/Mazovija]]
 - [[objektai/grupes/Kryžiuočių ordinas]] puole Drohičinas

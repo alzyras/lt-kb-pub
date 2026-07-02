@@ -4,8 +4,17 @@ pavadinimas: 'Lizdeika'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+datos:
+  - '1318 m.'
+date_start: '1318'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 tags:
   - asmuo
   - karas
@@ -17,7 +26,6 @@ tags:
 Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t.
 
 ## Teiginiai
-
 <a id="claim-t-187902"></a>
 - t-001
   global_id: t-187902
@@ -43,12 +51,52 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   irodymo_stiprumas: 0.00
   saltinio_vieta: 353700-354133; hash=26a8ee329d5c4541442fb79619d2814591dc16f9e9688cafc0efcc82c31341fc; match=exact
   sprendimo_priezastis: gap::people
+
+<a id="claim-t-188580"></a>
+- t-003
+  global_id: t-188580
+  teiginys: 'Narbutas rašo, kad Lizdeika, gyvenęs Gedimino laikais, apie 1318 m. patarė įkurti Vilnių.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 501951-502434; hash=e93a8b9cb3fef5dc407d1386c99692f4994752a3e420f593bcb0aaf5f251c279; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lizdeika: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lizdeika" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188581"></a>
+- t-004
+  global_id: t-188581
+  teiginys: 'Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 530732-531380; hash=97caa508b909e2bacc1a3385aa1b1aec07eb3e0c18af3d04c0fd51121ab0300d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lizdeika: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lizdeika" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims.md#claim-t-183829|Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]: Padavimuose dabartinė katedros varpinė tapatinta su bokštu, iš kurio Lizdeika ir jo pirmtakai Vilniaus pagonims skelbdavo pranašystes.
 - susijęs iš M. Strijkovskio kronika: Vilniaus įkūrimo pasakojime Lizdeika geležinio vilko sapną aiškina kaip būsimos pilies ir Lietuvos sostinės ženklą.
+- susijęs iš Tauro kalnas: Narbutas pasakoja, kad Gediminas nukovė taurą ant kalno, vėliau vadinto Tauro kalnu, o Lizdeika po nakvynės Šventaragio miške išaiškino jo sapną.
 - susijęs iš Vilnius: Vilniaus sostinės įkūrimo legenda siejama su Gedimino medžiokle ir Lizdeikos išaiškintu sapnu.
 - susijęs iš [[objektai/zodynas/vaidilos, žyniai ir pranašai.md#claim-t-86495|vaidilos, žyniai ir pranašai]]: Lietuvos kronikos ir vietos padavimai katedros varpinę siejo su bokštu, iš kurio Lizdeika skelbdavęs pranašystes.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176337|Gediminas]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-183532|Gediminas]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176337|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-183532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188531|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.
+- susijęs iš [[objektai/asmenys/Gelonas.md#claim-t-190066|Gelonas]]: Narbutas teigia perrašęs fragmentą norėdamas įrodyti, kad pasakų Gelonas buvo, ir paaiškinti nepakankamai nušviestus įvykius.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113903|Mindaugas (valdovas, XIII a.)]]: Mindaugo krikštas ir karalystė nepanaikino pagoniškų dievų vaidmens Lietuvoje.
 - susijęs iš [[objektai/ivykiai/Mindaugo krikštas.md#claim-t-187507|Mindaugo krikštas (krikštas)]]: Mindaugo krikštas ir karalystė pagoniškos Lietuvos istorijoje liko tik epizodas.
 - susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67158|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau Europa tarsi atstūmė Lietuvą nuo krikščionybės.
@@ -56,14 +104,17 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 - susijęs iš [[objektai/paprociai/Žynio sapno aiškinimas ir aukojimas prieš miesto statybą.md#claim-t-87312|Žynio sapno aiškinimas ir aukojimas prieš miesto statybą]]: Lizdeikos sapno aiškinimas paskatino Gediminą po aukų pastatyti Aukštutinę mūro pilį ant Tauro kalno ir medinę pilį slėnyje, pavadintą Vilniumi.
 - susijęs iš [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims.md#claim-t-87243|Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]: Pasak Lietuvos kronikininkų ir vietos padavimų, Lizdeika ir jo pirmtakai iš bokšto skelbdavo pranašystes Vilniaus pagonims.
 - susijęs iš [[objektai/posakiai/„ir mes turime vieną Dievą…“.md#claim-t-20898|„ir mes turime vieną Dievą…“]]: Gediminas žodžiais „ir mes turime vieną Dievą…“ bylojo apie vyriausiąjį pagonių Dievą, o ne būtinai apie pagonišką monoteizmą.
+- susijęs iš Antakalnis: Narbuto perpasakotoje Gedimino sapno legendoje Lizdeika aiškino sapną po medžioklės prie Antakalnio link stūksojusio Tauro kalno.
+- susijęs iš Antakalnis: Jėzuitai pralaimėjo teisme dėl plytinės, žemės sklypo ir lankos Antakalnyje, nes neturėjo nuosavybės dokumentų.
 - susijęs iš Tauro kalnas: Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukštutinę mūro pilį.
 - susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį.
 - susijęs iš Vilniaus Aukštutinė pilis: Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Vilniaus Aukštutinę mūro pilį.
 - susijęs iš Vilnius: Vilniaus įkūrimo legenda pasakoja, kad Gedimino sapno geležinis vilkas pranašavo būsimo miesto garsą.
 - susijęs iš Vilnius: Ivinskis Vilniaus kaip valstybės sostinės įkūrimą apibūdino kaip gražia legenda apipintą pasakojimą.
+- susijęs iš Vilnius: 1655 m. rusams užėmus Vilnių, mieste kilęs gaisras siautė 17 dienų.
+- susijęs iš Vilnius: Narbutas Gedimino sapno pasakojime rašė, kad Gediminas nakvojo Šventaragiu vadintame miške prie Vilnios ir Neries santakos.
 - susijęs iš [[objektai/zodynas/civilizacinė monada.md#claim-t-77791|civilizacinė monada]]: Lietuva apibūdinta kaip savarankiška civilizacinė monada, nes Gediminas ir Algirdas vadinosi karaliais be pripažinimo iš svetur.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -111,3 +162,49 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-003
+  santrauka: 'Narbutas rašo, kad Lizdeika, gyvenęs Gedimino laikais, apie 1318 m. patarė įkurti Vilnių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Straips­
+    nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
+    buveinių vietos Lietuvoje. Jokiuose istorijos šaltiniuose neiš­
+    liko vardų šių garsių žmonių, kurių būta Lietuvoje, išskyrus
+    vienintelį Lizdeiką, gyvenusį Gedimino laikais, apie 1318 me­
+    tus patarusį įkurti Vilnių. Sako, kad jis paskutinis vyriausiasis
+    žynys, kuris dar gyveno, kai buvo griaunama Vilniaus Perkū­
+    no šventykla; tai įvyko praėjus 69 metams po minėtosios da­
+    tos, todėl turėjo būti jau labai senas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    304
+
+    ## Puslapis 304
+
+    tinai turi išaugti į didelį miestą, kadangi tą nuostabiai skati­
+    no ir vietos padėtis.
+    Lizdeika išaiškino sapną Gediminui po to, kai jis, nukovęs
+    didžiulį taurą ant aukščiausio kalno, stūksančio Antakalnio
+    link, -  išmanantys tėvynės istoriją dabar jį vadina Tauro kal­
+    nu -  nakvojo šventajame miške prie Vilnios ir Neries santa­
+    kos, vadintame Šventaragiu; jam prisisapnavo, kad matęs mil­
+    žinišką vilką, visą šarvuotą geležiniais šarvais, o jo viduje stau­
+    gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
+    kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
+    čiui -  kas nors panašaus prisisapnuotų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004

@@ -48,7 +48,7 @@ periodo_grupes:
   ryšio_subjekto_parinkimas: Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
   ryšio_paaiskinimas: Frazė tiesiogiai įvardija Vasiljevičių Maskvos didžiuoju kunigaikščiu.
-
+- susijęs iš [[objektai/autoriai/Rėza (leidėjas, 1818 m.).md#claim-t-188470|Rėza (leidėjas, 1818 m.)]]: Narbutas nurodo, kad Rėza „Dainose“ gynė Lietuvos kronikininkus nuo XVIII a. kritikų priekaištų dėl išgalvotų vardų.
 ## Reikšmingi paminėjimai
 
 - c-001

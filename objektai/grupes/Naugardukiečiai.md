@@ -67,5 +67,5 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
 
 ## Ryšiai
 - Naugardukiečiai keliavo_i [[objektai/vietos/Lietuva]]
-- Naugardukiečiai reme [[objektai/asmenys/Gediminas]]
+- Naugardukiečiai reme [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Naugardukiečiai reme [[objektai/asmenys/Treniota]]

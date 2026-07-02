@@ -101,6 +101,7 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
 - susijęs iš [[objektai/daiktai/Romuva kaip Perkūno šventykla.md#claim-t-87093|Romuva kaip Perkūno šventykla]]: Romuva buvo laikoma Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindine buveine.
 - susijęs iš Vokiškieji kryžiuočių kelių aprašymai: Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe.
 - susijęs iš Ariogala: Ariogalos apylinkės buvo laikomos pagonims svarbia vietove, siejama su Romuva, Perkūno šventykla ir Krivių Krivaičio buveine.
+- susijęs iš Ariogala: Narbutas rašo, kad Liutauro sūnus Vytenis, gimęs 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocko kunigaikštystę.
 - susijęs iš Medininkų žemė: 1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę.
 - susijęs iš Raseiniai: Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
 - susijęs iš Romuva: Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine.

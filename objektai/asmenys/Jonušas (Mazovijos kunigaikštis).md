@@ -102,13 +102,11 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
     jos, jau traukė su kariuomene iš Vilniaus.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Jonušas ir Zemovitas priėmė į Mazoviją pasitraukusį Vytautą, bet nesistengė suteikti jam deramos pagalbos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -134,13 +132,11 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
     rui, patys vienaip ar kitaip išvengtų bėdos.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Mazovijos kunigaikštis Jonušas, siekdamas sosto, atvyko į Piotrkovą su tūkstantine raitelių palyda.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -155,10 +151,9 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
     apie Joną beveik liautasi galvoti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
 

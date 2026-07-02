@@ -110,7 +110,6 @@ Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo kl
 - susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
 - susijęs iš Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): 1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: 1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.
-- susijęs iš Žemaitija: 1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
 - susijęs iš [[objektai/zodynas/duoklė.md#claim-t-187520|duoklė]]: Naugardiečiai kasmet mokėjo Vytautui duoklę auksinais, sunkiaisiais žirgais ir įvairių žvėrių kailiais.
 - susijęs iš [[objektai/zodynas/fryzai.md#claim-t-187555|fryzai]]: Naugardiečiai Vytautui kasmet duodavo keturiasdešimt sunkiųjų žirgų, kurie kronikoje vadinami fryzais.
 ## Reikšmingi paminėjimai

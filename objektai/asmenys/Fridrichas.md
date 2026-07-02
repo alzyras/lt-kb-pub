@@ -101,7 +101,7 @@ periodo_grupes:
 - susijęs iš Vilnius: Tą pačią vasarą į Vilnių pas Aleksandrą atvyko jo motina Elžbieta, brolis Fridrichas ir seserys Barbora bei Elžbieta, o metraštis pabrėžia džiaugsmingą jų priėmimą.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60006|Albrechtas iš Hageno]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.
 - susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176384|Gediminas]]: Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176384|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui.
 - susijęs iš [[objektai/asmenys/Jordanas iš Pelplino.md#claim-t-87529|Jordanas iš Pelplino]]: Pelplino abatas Jordanas 1324 m. dalyvavo rengiant Mažesniųjų brolių laiško nuorašą.
 - susijęs iš [[objektai/asmenys/Liudvikas iš Baldensheimo.md#claim-t-60378|Liudvikas iš Baldensheimo]]: Liudvikas iš Baldensheimo nuo 1265 m. šešerius metus vadovavo kaip septintasis Prūsijos magistras.
 - susijęs iš [[objektai/asmenys/Luterbergas.md#claim-t-60167|Luterbergas]]: Kulmo landkomtūras Luterbergas Drevantos upės pakrantėje pastatė miestą, vardu Noimarkas.

@@ -37,19 +37,24 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-187991"></a>
-- t-001
-  global_id: t-187991
+- t-002
   teiginys: 'Narbutas mini auką už mirusius bičiulius, kai smilkymas kartais užbaigdavo Vėlinių iškilmes.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Sakinys performuluotas taip, kad turėtų aiškų subjektą ir predikatą apie paprotį. Strijkovskio citatos detalės nepridėtos.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Smilkalai|Smilkalai]]'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 555503-555964; hash=661d1b04222c54e2edf208d489d66132d6658c4297777bcabd616839fbced80b; match=exact
+  sprendimo_priezastis: gap::customs
+  ryšio_patikimumas: susije_su -> Smilkalai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Auka už mirusiuosius ir mirusiųjų minėjimo atnašos: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Smilkalai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auka už mirusiuosius ir mirusiųjų minėjimo atnašos" parinktas kaip owner_note_path. Targetas "Smilkalai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas mini auką už mirusius bičiulius, kai smilkymas kartais užbaigdavo Vėlinių iškilmes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -67,10 +72,10 @@ Nenurodyta
     ria: „Ažu visu mus prietelius mūsų“ (Ažii wissumos priatelos
     musu). Tada valgo ir geria net per daug; puota baigiasi senovi­
     nėmis dainomis“.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

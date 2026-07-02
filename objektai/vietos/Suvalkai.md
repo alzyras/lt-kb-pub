@@ -110,6 +110,7 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 - susijęs iš [[objektai/grupes/Aukščiausioji Santarvininkių Taryba.md#claim-t-72032|Aukščiausioji Santarvininkių Taryba (institucija)]]: Suvalkų sutartis demarkacijos liniją Suvalkų krašte nustatė pagal 1919 m. gruodžio 8 d. Aukščiausiosios Santarvės Tarybos liniją.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179180|Lenkai]]: Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, Tautų Sąjunga pasirodė bejėgė, o Lietuvai teko stabdyti želigovskininkų judėjimą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179197|Lenkai]]: Lenkiškai kalbantiems lietuviams linkstant į lenkų kultūrinę orbitą, stiprėjo Lietuvos nepriklausomybės siekis etnografiniu pagrindu.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-188249|Lenkai]]: Narbutas nurodė dokumentinius įrodymus, kad XVI a. teismuose nuosprendžiai sakyti lietuviškai, o knygose rašyti rusiškai, lotyniškai arba lenkiškai.
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78205|Lenkijos kariuomenė]]: Pagal Juzefą Pilsudskį Vilnių užėmė ne Lenkijos kariuomenė, o Lucjano Żeligowskio vadovaujami Vilnijos daliniai.
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-183152|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė Lietuvos vardu ir kėlė valstybės pripažinimo problemą.
 - susijęs iš [[objektai/grupes/Tautų Sąjunga.md#claim-t-181335|Tautų Sąjunga]]: Lietuvos delegacija siekė, kad Lietuva būtų priimta į Tautų Sąjungos bendriją.
@@ -128,8 +129,6 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 - susijęs iš Ežeronis: Projekte Lietuvos siena nuo Druskininkų turėjo eiti per Ežeronis ligi Volios.
 - susijęs iš Gardinas: 1917 m. Berno konferencijoje Lietuvos teritorijai siūlyta priskirti Balstogės, Gardino, Slanimo ir Valkavisko apskritis.
 - susijęs iš Gardinas: A. Jofė sutiko Gardiną ir Lydą priskirti Lietuvai, nors šiose žemėse lietuvių gyventa mažai.
-- susijęs iš Gardinas: XVIII a. tribunolas rinkdavosi tik Vilniuje ir Gardine.
-- susijęs iš Gardinas: Lietuvių politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Gardino gubernijoje.
 - susijęs iš Gardinas: Lietuvos teritorinės aspiracijos apėmė Vilniaus, Kauno, Suvalkų ir Gardino gubernijų lietuvių žemes bei dalį Kuršo.
 - susijęs iš Gardinas: Lietuviai pretendavo į buvusios Rusijos imperijos Gardino gubernijos žemes, kurias Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.
 - susijęs iš Gardinas: Užsienio lietuvių atstovai siūlė į „Lithuania Propria“ ribas įtraukti Gardino apskritį.

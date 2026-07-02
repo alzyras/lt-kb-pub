@@ -157,9 +157,9 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 - susijęs iš Livonijos kronika: Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam kraštui, smarkiai sumušė riterių magistras.
 - susijęs iš Žiemgalos vyskupija: 1254 m. Ordinas gavo žemių per Žiemgalos vyskupijos dalybas.
 - susijęs iš [[objektai/asmenys/Karolis IV.md#claim-t-89885|Karolis IV]]: 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176835|Vytenis]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176838|Vytenis]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis bandė pasinaudoti Livonijos vidaus prieštaravimais.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176839|Vytenis]]: Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176835|Vytenis (valdovas, XIII–XIV a.)]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176838|Vytenis (valdovas, XIII–XIV a.)]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis bandė pasinaudoti Livonijos vidaus prieštaravimais.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176839|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų.
 - susijęs iš [[objektai/autoriai/prof. Simpsonas.md#claim-t-01171|prof. Simpsonas]]: Škotas prof. Simpsonas tarpininkavo komisijų konferencijose, kurios išvedė sieną nedaug nutoldamos nuo buvusios gubernijos sienos.
 - susijęs iš [[objektai/daiktai/Vytenio minoritams pastatyta bažnyčia.md#claim-t-87103|Vytenio minoritams pastatyta bažnyčia]]: Vytenis prašė atsiųsti minoritų, kuriems norėjo skirti jau pastatytą bažnyčią.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178855|Kryžiuočių ordinas]]: Gedimino laiške teigta, kad Vytenis prašė atsiųsti minoritų, bet Ordinas, tai sužinojęs, pasiuntė ginkluotą būrį sudeginti bažnyčios.

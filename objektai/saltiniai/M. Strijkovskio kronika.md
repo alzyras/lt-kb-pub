@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1381 m.'
   - '1582 m.'
@@ -34,12 +35,11 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,.
 
 ## Teiginiai
-
 <a id="claim-t-55220"></a>
 - t-001
   global_id: t-55220
   teiginys: 'Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińskio teigimu, suklydo dėl datos ir praleido kai kurias aplinkybes.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Strijkovskis|Strijkovskis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-010
 
@@ -88,19 +88,19 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - t-007
   global_id: t-55226
   teiginys: 'Strijkovskis Narimantą priskyrė prie apgulties metu nukautųjų ir perpasakojo Długoszo sukurtą jo mirties istoriją.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 92176-92442; hash=1e6268b23b8899eebd22c9f4b852113ab0285a9a7984f519492eade97b619d00; match=whitespace_regex
+  saltinio_vieta: 220712-220905; hash=25bd38d9a36c4bf8094219a45b717dc9fb9a210a57004efeb1926de7dea994e0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: susije_su -> Strijkovskis: 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_targeto_parinkimas: Strijkovskis: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Strijkovskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-172991"></a>
 - t-008
@@ -126,7 +126,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   global_id: t-172992
   teiginys: 'M. Strijkovskio kronika Gotfrido Lindeno Vilniaus apgultį datavo metais per vėlai ir praleido dalį aplinkybių.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus teiginys apie šaltinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_author: [[objektai/autoriai/Strijkovskis|Strijkovskis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
@@ -164,7 +164,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   global_id: t-172995
   teiginys: 'M. Strijkovskio kronika mini, kad Vytautas paskleidė gandą apie atvykimą į Vilnių rengti Ringailės ir Mazovijos kunigaikščio Henriko vestuvių.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti konkretų faktą apie kronikoje minimą gudrybę.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_author: [[objektai/autoriai/Strijkovskis|Strijkovskis]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
@@ -183,7 +183,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   global_id: t-172997
   teiginys: 'Strijkovskio kronikoje Vilniaus įkūrimas pasakojamas kaip XIV amžiaus įvykis.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti trumpą teiginį apie kronikos pasakojimo datavimą.'
-  susije_objektai: 'mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Strijkovskis|Strijkovskis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
@@ -224,7 +224,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   global_id: t-173003
   teiginys: 'Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, remdamasis Długoszo pramanytu pasakojimu.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį apie Strijkovskio pateiktą Narimanto žūties pasakojimą ir jo šaltinį.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia'
+  susije_objektai: 'llm_object: Vilnius; mentioned_author: [[objektai/autoriai/Strijkovskis|Strijkovskis]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -247,15 +247,15 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 130491-130752; hash=10cc5c2041b18a4ab208ca6c1cf47a44fa594979f7748db474ca3a6b474bd716; match=exact
+  saltinio_vieta: 342092-342425; hash=8764ce27956a4b27f5fcce065b58f0dd0d7ad44b2ebce84196234adb64cd29f6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: susije_su -> Strijkovskis: 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_targeto_parinkimas: Strijkovskis: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Strijkovskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173005"></a>
 - t-022
@@ -266,37 +266,163 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   pagrindžia:
     - c-013
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=566092f1a154bb6f58d1f4cfe845101055baeb28c058cd8338985705a0813370; match=fallback; occurrences=0
+  saltinio_vieta: 449534-449734; hash=ea6b90ec7400b322f42c213c9112f2b387a43623f674857ac45992542df89f13; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mazovija: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=102
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje nurodytas Vytauto atvykimas į Vilnių, bet jis pateiktas kaip paskleistas gandas.
 
 <a id="claim-t-173006"></a>
 - t-023
   global_id: t-173006
   teiginys: 'M. Strijkovskio kronika plačiai aprašė Kęstučio gudrybes puolant Vilnių.'
   sudarymo_pagrindimas: 'Teiginys perrašytas į trumpą gramatinį sakinį be puslapio ir OCR triukšmo.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas; mentioned_place: Vorskla'
+  susije_objektai: 'llm_object: Vilnius; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_author: [[objektai/autoriai/Strijkovskis|Strijkovskis]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas; mentioned_place: Vorskla'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=47f23f5c96a823a4ba26065afa9aed72fb8525771e8e45cab5216b2a478b773c; match=fallback; occurrences=0
+  saltinio_vieta: 776534-777109; hash=2273e8c038d8c29256c03c842b2415cf2ed000a165a9f6f6c707ddac648e16cd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: mire -> Vilnius: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tautvilas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Tautvilo žūtį prie Vilniaus.
+
+<a id="claim-t-173007"></a>
+- t-024
+  global_id: t-173007
+  teiginys: 'Narbutas aiškina, kad Strijkovskio minima Pilwitos arba Pilwite reiškia turto deivę.'
+  pagrindžia:
+    - c-015
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 220712-220905; hash=25bd38d9a36c4bf8094219a45b717dc9fb9a210a57004efeb1926de7dea994e0; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Vilnius: 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=18
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188491"></a>
+- t-025
+  global_id: t-188491
+  teiginys: 'Narbutas, remdamasis Strijkovskiu, vaizduoja, kad žmonės Birutę dar gyvą ėmė garbinti kaip deivę.'
+  pagrindžia:
+    - c-016
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 270103-270537; hash=e2f789bcba9dde8b32e4dcedd2fef8b701739311aa2c97713d19c2cc2d48bc24; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188492"></a>
+- t-026
+  global_id: t-188492
+  teiginys: 'Narbutas rašo, kad Strijkovskis pursčius, jo siejamus su romėnų mitologijos Purs, vadino pigmėjais.'
+  pagrindžia:
+    - c-017
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 308524-308816; hash=642887ede5e61d3053c59544f1c32edc10ae17e2338999c5de47468c9bbdcae0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188493"></a>
+- t-027
+  global_id: t-188493
+  teiginys: 'Narbutas kritiškai perteikia Strijkovskio teiginį, kad Pušaitis ir barstukai pasirodydavę prieštaringiems žmonėms.'
+  pagrindžia:
+    - c-018
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 309304-309712; hash=564467fdd3be96b1b348c521a7df952c91ca0c297242bc098a065ebf9f9b722d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188494"></a>
+- t-028
+  global_id: t-188494
+  teiginys: 'Narbutas nurodo, kad Strijkovskis Vilniaus Perkūno šventykloje prie Katedros mini atskirą koplyčią, kurioje laikyti gyvi šliužai.'
+  pagrindžia:
+    - c-019
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 342092-342425; hash=8764ce27956a4b27f5fcce065b58f0dd0d7ad44b2ebce84196234adb64cd29f6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188495"></a>
+- t-029
+  global_id: t-188495
+  teiginys: 'Narbutas remiasi Strijkovskiu teigdamas, kad medinis milžino išvaizdos Kukovaičio stabas stovėjo ant kalno prie Deltuvos.'
+  pagrindžia:
+    - c-020
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 449534-449734; hash=ea6b90ec7400b322f42c213c9112f2b387a43623f674857ac45992542df89f13; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188496"></a>
+- t-030
+  global_id: t-188496
+  teiginys: 'Narbutas aiškina, kad Strijkovskis apie lietuvių aukštąsias pareigas rašė plačiau, nes esą turėjo daugiau istorijos šaltinių.'
+  pagrindžia:
+    - c-021
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 776534-777109; hash=2273e8c038d8c29256c03c842b2415cf2ed000a165a9f6f6c707ddac648e16cd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=28
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -668,3 +794,128 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+- c-015
+  santrauka: 'Narbutas aiškina, kad Strijkovskio minima Pilwitos arba Pilwite reiškia turto deivę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
+    rųjų reiškia storulį, perkeltine prasme -  turčių. Iš čia Pilwitos,
+    kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-024
+- c-016
+  santrauka: 'Narbutas, remdamasis Strijkovskiu, vaizduoja, kad žmonės Birutę dar gyvą ėmė garbinti kaip deivę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
+    po Amžinosios ugnies aukuro griuvėsiais30.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-025
+- c-017
+  santrauka: 'Narbutas rašo, kad Strijkovskis pursčius, jo siejamus su romėnų mitologijos Purs, vadino pigmėjais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kitaip juos vadindavo piktukais nuo Piktas', netoli
+    Vilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose
+    vadinosi pursčiai (Puršcie). Netoli Lydos yra taip vadinamas
+    palivarkas. Romėnų mitologijoje panašūs dievaičiai buvo va­
+    dinami Purs; Strijkovskis juos vadina taip pat pigmėjais17.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-026
+- c-018
+  santrauka: 'Narbutas kritiškai perteikia Strijkovskio teiginį, kad Pušaitis ir barstukai pasirodydavę prieštaringiems žmonėms.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie
+    pasirodydavę prieštaringiems žmonėms. Kaip įrodymą jis pa­
+    teikia Upsalos arkivyskupo Olafo, Agripos ir kitų lengvatikių,
+    kaip ir jis pats, rašytojų liudijimus, nes sako: „Kurše, Livonijo­
+    je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
+    R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
+    garbinamas Pušaitis ir barstukai18“.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-027
+- c-019
+  santrauka: 'Narbutas nurodo, kad Strijkovskis Vilniaus Perkūno šventykloje prie Katedros mini atskirą koplyčią, kurioje laikyti gyvi šliužai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Gyvatė (Giwojte)
+    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
+    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
+    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
+    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
+    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
+    riumi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-028
+- c-020
+  santrauka: 'Narbutas remiasi Strijkovskiu teigdamas, kad medinis milžino išvaizdos Kukovaičio stabas stovėjo ant kalno prie Deltuvos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lietuviams buvo žinomas dievinamų asmenų stabų staty­
+    mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
+    čio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,
+    milžino išvaizdos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-029
+- c-021
+  santrauka: 'Narbutas aiškina, kad Strijkovskis apie lietuvių aukštąsias pareigas rašė plačiau, nes esą turėjo daugiau istorijos šaltinių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Jau ir šiaip žinome, ir anksčiau sakėme, kad
+    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
+    8
+    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
+    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
+    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
+    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
+    430
+
+    ## Puslapis 430
+
+    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
+    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
+    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-030

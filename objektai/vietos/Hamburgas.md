@@ -48,7 +48,7 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
 - susijęs iš Naugardas: Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
 - susijęs iš Naugardas: Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
 - susijęs iš [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis).md#claim-t-60189|Otonas (Braunšveigo-Liuneburgo kunigaikštis)]]: Otonas Kūdikis nuo 1236 m. buvo Braunšveigo-Liuneburgo hercogas ir Henriko Liūto vaikaitis.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176836|Vytenis]]: Vytenis viešpatavo Lietuvoje ir mirė apie 1315 metus.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176836|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis viešpatavo Lietuvoje ir mirė apie 1315 metus.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116687|Hanza]]: XIII amžiuje vokiečių miestai sudarė prisiekusiųjų sąjungas, žinomas Hanzos vardu.
 - susijęs iš [[objektai/grupes/Reino konfederacija.md#claim-t-86819|Reino konfederacija]]: 1255 m. šešiasdešimt miestų įsteigė Reino konfederaciją, vadovaujamą aukščiausiųjų dvasininkų.
 - susijęs iš Liubekas: 1241 m. Hamburgas sudarė karinę sąjungą su Liubeku, prie kurios tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.

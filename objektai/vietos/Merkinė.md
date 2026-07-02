@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -19,12 +20,12 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - sutartis
-  - vieta
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - sutartis
+  - vieta
 ---
 # Merkinė
 
@@ -33,12 +34,11 @@ amziai:
 Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir kaip žygio Nemunu į Kauną pradžios taškas.
 
 ## Teiginiai
-
 <a id="claim-t-180304"></a>
 - t-001
   global_id: t-180304
   teiginys: '1920 m. spalio 7 d. Suvalkų sutartis visą Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Bastūnai; mentioned_place: Lenkija; mentioned_place: Varėna; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Suvalkai'
+  susije_objektai: 'mentioned_place: Bastūnai; mentioned_place: Lenkija; mentioned_place: Varėna; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_person: [[objektai/asmenys/Gaidys|Gaidys]]; mentioned_place: Gardinas; mentioned_place: Suvalkai'
   temporaliniai_duomenys: 'sutarties data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -189,7 +189,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   global_id: t-180315
   teiginys: '1920 m. spalio 7 d. Suvalkų sutartis Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje.'
   sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs; citata leidžia sudaryti pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Bastūnai; mentioned_place: Lenkija; mentioned_place: Varėna; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Suvalkai'
+  susije_objektai: 'mentioned_place: Bastūnai; mentioned_place: Lenkija; mentioned_place: Varėna; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_person: [[objektai/asmenys/Gaidys|Gaidys]]; mentioned_place: Gardinas; mentioned_place: Suvalkai'
   temporaliniai_duomenys: 'sutarties data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys buvo nutrūkęs; citata leidžia sudaryti pilną sakinį.'
@@ -260,7 +260,28 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
   ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas keliavo į Kauną.
+
+<a id="claim-t-188772"></a>
+- t-015
+  global_id: t-188772
+  teiginys: 'Narbutas rašė matęs prie Merkinės valstiečio rastą aukso žiedą su raudonu akmeniu, gaidžiu skyde ir raidžių ženklais.'
+  pagrindžia:
+    - c-011
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 728566-728956; hash=f0b60fea2ba7e97f1399fa7fa0367a82e5f9dea4402c7ddeae5a11166f8b9df3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bastūnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bastūnai: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinė" parinktas kaip owner_note_path. Targetas "Bastūnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jonas iš Zabrežjės.md#claim-t-87525|Jonas iš Zabrežjės]]: 1503 m. Vilniuje Jonas iš Zabrežjės dalyvavo rašto išdavimo paliudijime kaip LDK didysis maršalka, Trakų vaivada ir Merkinės laikytojas.
+- susijęs iš [[objektai/asmenys/Leicis.md#claim-t-190179|Leicis]]: Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merkinės valsčiaus valstiečių maištininkų vadu.
+- susijęs iš [[objektai/asmenys/Rimvydas.md#claim-t-190113|Rimvydas]]: 1483 m. karaliaus Kazimiero privilegijoje bajoras Rimvydas gavo žemę prie Merkio už Merkinės valsčiaus valstiečių maišto nuslopinimą.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173248|Vladislovas Jogaila]]: Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.
 - susijęs iš [[objektai/autoriai/H. Łowmiański.md#claim-t-30633|H. Łowmiański]]: H. Łowmiańskis bandė seniausias lietuvių sienas nukelti iki Merkinės, Eišiškių ir Šalčininkų linijos.
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
@@ -271,22 +292,28 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66776|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66777|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66780|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Prieš Merkinės puolimą 1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo keturi Marcinkonių bataliono partizanai.
+- susijęs iš [[objektai/paprociai/Gondu vestuvinė figūra ir karvojus.md#claim-t-189832|Gondu vestuvinė figūra ir karvojus]]: Gondu figūra Merkinės valsčiuje buvo statoma ant apvalaus duonos kepalo, apvynioto baltu rankšluosčiu, ir puošiama audiniu, skarele, kaspinais bei žalumynais.
 - susijęs iš Merkinės dvaras: Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.
 - susijęs iš Merkinės dvaras: Merkinės dvaro valstiečiai buvo atleisti vien už piniginį mokestį ir gavo savivaldybę.
+- susijęs iš Merkinės valsčius: Narbutas nurodė, kad 1483 m. Kazimiero privilegijoje Merkinės valsčiaus valstiečių maišto nuslopinimas minimas kaip atpildo Rimvydui pagrindas.
 - susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
 - susijęs iš Nemunas: Keliautojai Nemunu vyko iš Merkinės į Kauną, o iš ten Nemunu ir Dubysa pasiekė Aukokalnį ties dabartine Betygala.
 - susijęs iš Turgeliai: Prie Turgelių, netoli Vilniaus, buvusio Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.
 - susijęs iš Varėnos, Valkininkų ir Merkinės miškai: Balińskis Varėnos, Valkininkų ir Merkinės miškus priskyrė amžinosioms girioms, esą siekiančioms žmonijos pradžią.
+- susijęs iš [[objektai/asmenys/Karalius Kazimieras (1483 m. privilegijos davėjas).md#claim-t-190123|Karalius Kazimieras (1483 m. privilegijos davėjas)]]: Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katinas lietuviams buvo Lietuvos simbolis.
 - susijęs iš [[objektai/asmenys/Kazimieras Skirgaila.md#claim-t-185950|Kazimieras Skirgaila (Lenkijos karalius)]]: Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš [[objektai/asmenys/Mykolas (Glinsko kunigaikštis).md#claim-t-87557|Mykolas (Glinsko kunigaikštis)]]: 1503 m. Vilniuje duotame rašte dalyvavęs Mykolas įvardytas kaip Glinsko kunigaikštis ir Lietuvos rūmų maršalka.
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
+- susijęs iš [[objektai/daiktai/Katinas kaip stabmeldiškosios laisvės ženklas.md#claim-t-189724|Katinas kaip stabmeldiškosios laisvės ženklas]]: Narbutas 1483 m. Kazimiero privilegijoje katino įteikimą karaliui aiškino kaip stabmeldiškosios laisvės ženklą.
 - susijęs iš [[objektai/daiktai/Medinės pilys.md#claim-t-19569|Medinės pilys]]: XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai.
 - susijęs iš [[objektai/daiktai/Tanketė.md#claim-t-40775|Tanketė]]: Per Merkinės puolimą 1945 m. gruodžio 15 d. plentų kryžkelėje pasirodžiusi tanketė atidengė ugnį į miestelį.
 - susijęs iš [[objektai/daiktai/Vokiškas universalusis kulkosvaidis MG 42.md#claim-t-183689|Vokiškas universalusis kulkosvaidis MG 42]]: Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188264|Lietuviai]]: Narbutas katino kaip lietuvių laisvės simbolio įrodymą siejo su 1483 m. Kazimiero privilegija bajorui Rimvydui.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66779|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: 1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią.
 - susijęs iš [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.).md#claim-t-54696|Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]: Merkinėje rašytu iškilmingu aktu Vilniui buvo suteiktos Magdeburgo teisės.
 - susijęs iš [[objektai/ivykiai/Žemaičių krikštas.md#claim-t-35925|Žemaičių krikštas (krikštas)]]: Žalgirio mūšis ir Torno taika galutinai išsprendė Žemaičių krikšto klausimą.
-- susijęs iš 1483 metų karaliaus Kazimiero privilegija Rimvydui: Narbutas 1483 m. karaliaus Kazimiero privilegijoje Rimvydui, rašytoje rusų kalba ant pergamento, ieškojo katino kaip Lietuvos simbolio įrodymo.
+- susijęs iš [[objektai/paprociai/Katino kaip stabmeldiškos laisvės ženklo naudojimas.md#claim-t-189836|Katino kaip stabmeldiškos laisvės ženklo naudojimas]]: Narbutas 1483 m. Kazimiero privilegijoje rado pasakojimą, kad Leicis karaliui padavė katiną kaip stabmeldiškosios laisvės ženklą.
+- susijęs iš 1483 metų karaliaus Kazimiero privilegija Rimvydui: Narbutas 1483 m. karaliaus Kazimiero privilegijoje Rimvydui rado įrodymą, kad katinas lietuviams buvęs Lietuvos simbolis.
 - susijęs iš Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje: J. Žilinsko veikalas „Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje“ išleistas 1931 m.
 - susijęs iš Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): 1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais.
 - susijęs iš Lenkijos karalystės ir LDK diplomatinis kodeksas: Karaliaus Aleksandro 1506 metų testamentas pateiktas iš Dogelio rankraščių, buvusių Vilniaus universiteto bibliotekoje.
@@ -302,12 +329,12 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - susijęs iš Dzūkija: Žinios apie Dzūkijos partizanų sėkmę paskatino kitur Lietuvoje veikusius laisvės kovotojus imtis aktyvesnių veiksmų.
 - susijęs iš Kaunas: 1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos.
 - susijęs iš Lazūnai: Lazūnai, esantys į rytus nuo Lydos, minimi kaip lietuvių kalbos sala gudiškai kalbančiųjų plote arti Nemuno.
-- susijęs iš Lietuva: Pagal Jogailos su Lenkija sutartį Vytauto valdoma Lietuva ir jai priklausoma Rusia turėjo likti Lenkijos karaliaus valdžioje.
 - susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno.
 - susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno ir Balińskio priskirti amžinosioms girioms.
 - susijęs iš Subartonys: Viena kovotojų grupė nuvyko Subartonių miško link sulaikyti galimo pastiprinimo iš Alytaus.
 - susijęs iš Turgeliai: Merkinės dvaro prie Turgelių valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.
 - susijęs iš Vilnius: Karalius Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.
+- susijęs iš [[objektai/zodynas/Lietuva Lietwii kaip laisvės ženklas.md#claim-t-189117|Lietuva Lietwii kaip laisvės ženklas]]: Narbutas 1483 m. Kazimiero privilegiją Rimvydui laikė įrodymu, kad katinas lietuviams buvo stabmeldiškosios laisvės, arba Lietwii, ženklas.
 - susijęs iš [[objektai/zodynas/Lietuvos didysis kunigaikštis.md#claim-t-185374|Lietuvos didysis kunigaikštis]]: Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113643|Magdeburgo teisės]]: Vladislovas Jogaila Merkinėje rašytu aktu kitą dieną po Šv. Benedikto, abato, šventės suteikė Vilniui Magdeburgo teises.
 - susijęs iš [[objektai/zodynas/didysis kunigaikštis.md#claim-t-185401|didysis kunigaikštis]]: Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.
@@ -315,7 +342,6 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - susijęs iš [[objektai/grupes/Merkinės batalionas.md#claim-t-38986|Merkinės batalionas]]: Rugpjūtį Vanago vadovaujama 140 vyrų Merkinės ir Alovės partizanų kuopa buvo performuota į Merkinės batalioną.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173248|Vladislovas Jogaila]]: Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -537,6 +563,24 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+- c-011
+  santrauka: 'Narbutas rašė matęs prie Merkinės valstiečio rastą aukso žiedą su raudonu akmeniu, gaidžiu skyde ir raidžių ženklais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    IV lentelė, 28-asis piešinys. Mačiau aukso žiedą su raudo­
+    nu akmeniu, valstiečio rastą prie Merkinės. Jo skyde gaidys su
+    pridėtu kažkokiu ženklu, panašiu į biarmišką raidę Pej, arba P.
+    Virš skydo tarytum kita tos abėcėlės raidė -  Mena, arba M;
+    žiedo auksakalio darbas labai gražus, graviravimas grubus ir
+    tarsi demonstruojantis pirmą raižytojo gabumų išmėginimą,
+    bet išrėžta labai giliai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-015
 
 ## Ryšiai
 - [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]] puole Merkinė

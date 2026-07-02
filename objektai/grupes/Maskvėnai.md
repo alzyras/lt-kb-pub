@@ -181,6 +181,7 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-184485|Krymo totoriai]]: Krymo skitų antpuoliai turėjo būti atremiami, tačiau turkų pusiasalis neturėjo būti liečiamas.
 - susijęs iš [[objektai/grupes/Kuršo kunigaikštystė.md#claim-t-71646|Kuršo kunigaikštystė]]: Po Liublino unijos Kuršo kunigaikštystė buvo pripažinta bendra Lenkijos ir LDK valda.
 - susijęs iš [[objektai/grupes/Kuršo kunigaikštystė.md#claim-t-71647|Kuršo kunigaikštystė]]: Po Liublino unijos Livonijos ir Kuršo kunigaikštystės buvo pripažintos bendromis Lenkijos ir LDK valdomis.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190591|Lietuviai]]: Narbutas rašė, kad kiekviena lietuvių genties tauta dievams aukojamiems arkliams rinkdavosi savitą plauką ir ženklus.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187725|Lietuvos kariuomenė]]: Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.
 - susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78383|Livonijos kunigaikštystė]]: Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.
 - susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78385|Livonijos kunigaikštystė]]: Steponas Batoras ir Mikalojus Radvila Rudasis laikė būtina atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus.
@@ -226,6 +227,7 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - susijęs iš Kropivnos upė: Čeliadninas atitraukė visas jėgas už upės ir apsistojo Kropivnos upės pakrantėse tarp Oršos ir Dubrovnos.
 - susijęs iš Kropivnos upė: Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.
 - susijęs iš Lietuva: Ivanas nesutiko sustabdyti karo veiksmų, kol bus gautas karaliaus atsakymas, o jo kariuomenė telkėsi netoli Lietuvos sienų.
+- susijęs iš Lietuva: Narbutas rašė, kad nuo XI a. pabaigos ėmė smukti Krivių Krivaičio autoritetas lietuvių gyvenamose žemėse.
 - susijęs iš Livonija: Numalšinęs Livoniją, Žygimantas Augustas pasiuntė pasiuntinius derėtis dėl taikos su Maskva.
 - susijęs iš Minskas: Maskvėnams apsupus Smolenską, Aleksandras įsikūrė Minske, kad iš arti vadovautų kariuomenei kilus karui.
 - susijęs iš Mosalskas: Mosalskas minimas Aleksandro 1492.IX.27 instrukcijoje tarp papildomai nurodytų vietų.

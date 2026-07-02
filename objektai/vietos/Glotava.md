@@ -76,6 +76,7 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
 - susijęs iš [[objektai/asmenys/Valteris Goldinas.md#claim-t-184138|Valteris Goldinas]]: 1300 m. Valteris Goldinas su ginklanešiais Notangoje pasivijo lietuvius ir nukovė visus, išskyrus tris.
 - susijęs iš [[objektai/asmenys/Valteris Goldinas.md#claim-t-60458|Valteris Goldinas]]: 1300 m. Valteris Goldinas su ginklanešiais Notangoje pasivijo lietuvius ir nukovė visus, išskyrus tris.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179285|Lietuviai]]: Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190600|Lietuviai]]: Narbutas mirusiųjų deginimą kildino iš indų ir teigė, kad vėlyvojoje lietuvių stabmeldystėje jis taikytas tik žymesniems žmonėms.
 ## Reikšmingi paminėjimai
 
 - c-001

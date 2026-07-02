@@ -4,6 +4,7 @@ pavadinimas: 'Seversko žemė'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,7 +18,6 @@ tags:
 džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito į Seversko žemėje (į šiaurryčius nuo Kijevo), rusų miestus.
 
 ## Teiginiai
-
 <a id="claim-t-42133"></a>
 - t-001
   global_id: t-42133
@@ -125,6 +125,25 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
   ryšio_subjekto_parinkimas: Seversko žemė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Severskas: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Seversko žemė" parinktas kaip owner_note_path. Targetas "Severskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188834"></a>
+- t-006
+  global_id: t-188834
+  teiginys: 'Swięckio veikale nurodoma, kad Triznų giminė yra kilusi iš Seversko žemės.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 653323-653429; hash=3c7471dfb29513ee8df142052faba4c4491c2d1dc809b1b8f677eca70ee5e34f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Severskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Seversko žemė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Severskas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Seversko žemė" parinktas kaip owner_note_path. Targetas "Severskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Naugardas: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.
 - susijęs iš [[objektai/ivykiai/Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę.md#claim-t-185699|Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę]]: Brianskas dėl rusų išdavystės buvo be vargo užimtas, o netrukus prie išdavikų prisidėjo visa Seversko žemė.
 - susijęs iš Černigovas: Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo.
@@ -136,7 +155,6 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 - susijęs iš Starodubas: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184649|vietininkas]]: Aleksandro pasiuntinys Stanislovas Strumila Petravičius buvo Smolensko vietininkas ir derėjosi su Ivanu dėl skriaudų atlyginimo.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -254,6 +272,20 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Swięckio veikale nurodoma, kad Triznų giminė yra kilusi iš Seversko žemės.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Net buvo ap­
+    23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-
+    rožytnej Polski. -  T. II).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 - [[objektai/asmenys/Šich Achmetas]] puole Seversko žemė

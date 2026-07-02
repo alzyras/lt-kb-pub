@@ -80,7 +80,7 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 - susijęs iš Olivos kronika: J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.
 - susijęs iš Olivos kronika: Olivos kronikoje Renseno ežeras minimas lotyniška forma „ad lacum qui dicitur Rensin“.
 - susijęs iš [[objektai/asmenys/Eberhardas (Varmės vyskupas).md#claim-t-82282|Eberhardas (Varmės vyskupas)]]: Varmės vyskupas Eberhardas 1325 m. rašė, kad teiginiai apie lietuvių norą krikštytis yra melagingi.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176377|Gediminas]]: Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176377|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos.
 - susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59999|Pipinas]]: Pipinas buvo vienas pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją.
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62620|J. Venta]]: J. Venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra 1326 m. redakcija arba jos cenzūruotas antrininkas.

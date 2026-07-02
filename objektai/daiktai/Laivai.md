@@ -247,11 +247,13 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Laivai: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Salos: mention_match, place, gap=31
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laivai" parinktas kaip owner_note_path. Targetas "Salos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Enėjas.md#claim-t-190094|Enėjas]]: Pasak Narbuto perteikiamo Vergilijaus, žlugus Trojai Enėjas statė laivus iš Idos kalno medžių, paskirtų Kibelei.
 - susijęs iš [[objektai/asmenys/Verneris (Ragainės komtūras).md#claim-t-184139|Verneris (Ragainės komtūras)]]: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
 - susijęs iš [[objektai/asmenys/Verneris (Ragainės komtūras).md#claim-t-60461|Verneris (Ragainės komtūras)]]: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54936|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82183|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60107|Ditrichas iš Ezbeko]]: Ditrichas iš Ezbeko žuvo laivų mūšyje, kuriame lietuviai neteko 70 prityrusių karių.
+- susijęs iš [[objektai/asmenys/Enėjas.md#claim-t-190094|Enėjas]]: Pasak Narbuto perteikiamo Vergilijaus, žlugus Trojai Enėjas statė laivus iš Idos kalno medžių, paskirtų Kibelei.
 - susijęs iš [[objektai/asmenys/Ernekė.md#claim-t-60112|Ernekė]]: Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184728|Jogaila (kunigaikštis, XIV–XV a.)]]: Norėdamas palengvinti maisto stokos kamuojamos Lietuvos dalią, Jogaila įsakė į Lietuvą gabenti dvidešimt laivų grūdų.
 - susijęs iš [[objektai/asmenys/Jonas iš Vienos.md#claim-t-60348|Jonas iš Vienos]]: Jonas iš Vienos kartu su Ragainės komtūru Erneke ir 25 ginklanešiais laivais išplaukė Lietuvos link.
@@ -260,16 +262,21 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Surminas.md#claim-t-60001|Surminas]]: Kolainių pilininkas Surminas sušaukė pilėnus tartis, kaip apgauti pro pilį laivais plaukusius Ordino brolius.
 - susijęs iš [[objektai/asmenys/Surminas.md#claim-t-60003|Surminas]]: 1313 m. lietuvių karalius pasiuntė kilmingą ir karingą Surminą su šimtu laivų sunaikinti Ordino laivo.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90013|Sventopelkas]]: Dusburgietis pasakoja, kad Sventopelkas su dviem tūkstančiais karių įsiveržė į Kulmo žemę ir po nesėkmės traukėsi prie laivų.
+- susijęs iš [[objektai/asmenys/Vergilijus.md#claim-t-190056|Vergilijus]]: Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir Enėjo laivus iš Kibelei skirtų Idos kalno medžių.
 - susijęs iš [[objektai/asmenys/Verneris (Ragainės komtūras).md#claim-t-184139|Verneris (Ragainės komtūras)]]: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
 - susijęs iš [[objektai/asmenys/Verneris (Ragainės komtūras).md#claim-t-60461|Verneris (Ragainės komtūras)]]: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
 - susijęs iš [[objektai/autoriai/Benjaminas iš Tudelio.md#claim-t-55000|Benjaminas iš Tudelio]]: Benjaminas iš Tudelio tvirtino, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai.
 - susijęs iš [[objektai/autoriai/Benjaminas iš Tudelio.md#claim-t-81885|Benjaminas iš Tudelio]]: Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.
+- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190377|Plinijus]]: Narbutas Plinijumi grindė teiginį, kad romėnų laivai prieš Kristaus gimimą plaukiojo Baltijos jūroje.
+- susijęs iš [[objektai/autoriai/Vergilijus.md#claim-t-190342|Vergilijus]]: Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir Enėjo laivus iš Kibelei skirtų Idos kalno medžių.
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86990|Laivai, valtys, sieliai ir plaustai]]: Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86992|Laivai, valtys, sieliai ir plaustai]]: Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86993|Laivai, valtys, sieliai ir plaustai]]: Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.
+- susijęs iš [[objektai/daiktai/Vilijos krovininiai laivai strungai.md#claim-t-189753|Vilijos krovininiai laivai strungai]]: Narbutas Vilijos krovininius laivus strungus vadino dideliais upiniais laivais, kuriems su jūrų laivais lyginti trūko tik stiebų ir kylio.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178896|Kryžiuočių ordinas]]: Ordino laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Gėlo vandens marias nuo netikėlių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179312|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183888|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188260|Lietuviai]]: Narbutas manė, kad dėl gyvenimo prie jūros ir didelių vandenų lietuviai turėjo savo Neptūną, laivininkų globėją.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179359|Livonijos ordinas]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183897|Skalviai]]: Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė.
 - susijęs iš [[objektai/ivykiai/Antrosios laivų kautynės prie Svečės pilies.md#claim-t-62198|Antrosios laivų kautynės prie Svečės pilies (pilis)]]: Prie Svečės pilies Sventopelkas su ginklanešiais ir 10 laivų vėl užpuolė Elbingo brolių laivus.
@@ -307,12 +314,16 @@ Nenurodyta
 - susijęs iš Santyras: Prie Santyro Konradas Bremeris pamatė jo tykojusį Sventopelką su daugybe žmonių ir 20 laivų.
 - susijęs iš Torunė: Vienas Krokuvos kilmingasis į Torunės pilį pasiuntė tris laivus su maistu ir gėrimais, 300 jaučių bei karvių ir daug kinkomų gyvulių.
 - susijęs iš Trapėnai: 1363 m. balandį Ordino magistras su kariuomene Nemunu priplaukė Trapėnus, ten įtvirtino paliktus laivus ir patraukė prie Naujojo Kauno pilies.
+- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Narbutas Vilnią apibūdino kaip kadaise laivybai tikusią, sraunią, vingiuotą ir akmenuoto dugno upę, priešindamas ją giliai Vilijai.
 - susijęs iš Vilnius: Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
+- susijęs iš [[objektai/zodynas/Gardaitis.md#claim-t-189222|Gardaitis]]: Narbutas Gardaitį (Gardoeldius) apibūdina kaip vėjų, audrų ir jūros potvynių dievą bei jūrinių ar visokių laivų globėją.
+- susijęs iš [[objektai/zodynas/Vylius Wilius.md#claim-t-189259|Vylius Wilius]]: Narbutas Vylingosios vardą veikiau sieja su Vilnia, kurią apibūdina kaip kadaise laivybai tikusią, sraunią ir vingiuotą upę.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54935|Aleksandras Jogailaitis]]: 1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį.
 - susijęs iš [[objektai/asmenys/Boleslovas Droviusis.md#claim-t-87637|Boleslovas Droviusis]]: Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir 1257 m. suteiktas teutonų teises buvo skolinga Boleslovui Droviajam.
 - susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89792|Glapas]]: Varmių vadas Glapas, gavęs pabėgusios prūsės pranešimą, su daugybe karių atvyko ir užėmė pilį.
 - susijęs iš [[objektai/asmenys/Heinmanas, vardu Kindas.md#claim-t-60304|Heinmanas, vardu Kindas]]: Prie Junigedos pilies seklumoje įstrigus laivams, buvo nukautas brolis Heinmanas, vadintas Kindu.
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59864|Henrikas iš Plockės]]: Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė.
+- susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188552|Janas Lasickis]]: Vienintelis Lasickis išsaugojo mums šį faktą.
 - susijęs iš [[objektai/asmenys/Joabas.md#claim-t-60335|Joabas]]: Joabas buvo Dovydo kariuomenės vadas, kuris sielojosi dėl saviškių mirties.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63806|Kazimieras (Kujavijos kunigaikštis)]]: Magistras su Torunės broliais ir kunigaikščiu Kazimieru ketino žygiuoti prieš Sventopelko statomą Sveče pilį.
 - susijęs iš [[objektai/asmenys/Kodrūnas.md#claim-t-60356|Kodrūnas]]: Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį.
@@ -383,6 +394,7 @@ Nenurodyta
 - susijęs iš Baiga: Prie Varmės kranto broliai netoli būsimos Baigos pilies vietos pamatė prūsų pilį, bet jos nepuolė dėl karių stokos.
 - susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
 - susijęs iš Baltijos jūra: Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
+- susijęs iš Baltijos jūra: Narbutas čeltyčias apibūdino kaip Baltijos jūros vandenų nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse.
 - susijęs iš Bisenė: Henrikas iš Plockės su kariuomene ilgai puolė Bisenės pilį, bet nutraukė apgulą jos neužėmęs.
 - susijęs iš Drūsinė: Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.
 - susijęs iš Elbingas: Laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias nuo netikėlių.
@@ -406,6 +418,7 @@ Nenurodyta
 - susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
 - susijęs iš Lietuva: Iki XII a. pabaigos Lietuva buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.
 - susijęs iš Nemunas: Henrikui iš Plockės puolant Bisenės pilį, upe atplaukę kariai iš laivų nutiesė tiltą per Nemuną, bet apgula baigėsi nesėkme.
+- susijęs iš Nemunas: Narbutas pateikė iš Hartknocho paimtą lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, maldos pavyzdį.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): 1492 m. Aleksandras garantavo Vilniaus miestiečiams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš Pagudė: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę ir Elbingo upės saloje pastatė Elbingo pilį.
 - susijęs iš Pagudė: Pavergę pamedėnus, magistras ir broliai 1237 m. atvyko į Pagudės žemę pradėti karo prieš pagudėnus.
@@ -433,6 +446,7 @@ Nenurodyta
 - susijęs iš Vysla: Neradę laivų prie Vyslos, Sventopelko kariai puolė į upę ir paskendo, išskyrus Sventopelką ir kelis kitus.
 - susijęs iš Vysla: Jogaila įsakė dvidešimt didelių laivų su grūdais plukdyti Vysla į Prūsijos pasienį, kad maistas vežimais pasiektų Lietuvą.
 - susijęs iš [[objektai/zodynas/Pilininkas.md#claim-t-89572|Pilininkas]]: Surminas, Kolainių pilininkas, sušaukė pilėnus tartis, kaip apgauti pro pilį plaukiančius Ordino brolius.
+- susijęs iš [[objektai/zodynas/Strungai Strungas.md#claim-t-189333|Strungai Strungas]]: Narbutas Vilija plaukiojusius krovininius laivus strungais kildino iš lietuviško žodžio „Strungas“ ir vaizdavo juos kaip upinių laivų milžinus.
 - susijęs iš [[objektai/zodynas/Zabójnica.md#claim-t-86630|Zabójnica]]: 1492 m. Aleksandras suteikė Vilniui teisę laikyti vaško dirbtuvę, vadintą Zabójnica, ir panaikino daugumą privačių dirbtuvių.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-184008|maldininkai / maldininko įžadai]]: 1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70223|maldininkai / maldininko įžadai]]: 1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį.
@@ -626,5 +640,7 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
+- [[objektai/asmenys/Enėjas]] pastate Laivai
 - [[objektai/asmenys/Verneris (Ragainės komtūras)]] pastate Laivai
 - Laivai priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Laivai priklause [[objektai/grupes/Romėnai]]

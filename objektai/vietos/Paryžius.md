@@ -295,6 +295,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-184059|Egidijus (arkivyskupas, XIV a.)]]: Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
 - susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-184107|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-60050|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
+- susijęs iš [[objektai/autoriai/Francua Žozefas Noelis.md#claim-t-190297|Francua Žozefas Noelis]]: Francua Žozefo Noelio 1803 m. Paryžiuje išleistas mitologinis žodynas buvo istoriko Šaurų dvaro bibliotekoje.
 - susijęs iš [[objektai/autoriai/J. Chabanier.md#claim-t-30662|J. Chabanier]]: J. Chabanier 1960 m. Paryžiuje paskelbė darbą „Les Tatars Lithuaniens“.
 - susijęs iš [[objektai/autoriai/P. Boissonade.md#claim-t-30891|P. Boissonade]]: P. Boissonade 1923 m. Paryžiuje paskelbė darbą „Du nouveau sur la Chanson de Roland“.
 - susijęs iš [[objektai/daiktai/1900 m. Paryžiaus parodos lietuvių ekspozicijos daiktai.md#claim-t-24534|1900 m. Paryžiaus parodos lietuvių ekspozicijos daiktai]]: 1900 m. Paryžiaus pasaulinės parodos lietuvių ekspozicijoje buvo tautinių drabužių, žemės ūkio padargų, kitų daiktų ir lietuviškos spaudos.
@@ -316,6 +317,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 - susijęs iš [[objektai/ivykiai/Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.).md#claim-t-183974|Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/ivykiai/Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.).md#claim-t-62527|Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/paprociai/Tarpukario jaunos poros santuokos Paryžiuje kaip prestižinė kultūrinė praktika.md#claim-t-77960|Tarpukario jaunos poros santuokos Paryžiuje kaip prestižinė kultūrinė praktika]]: Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.
+- susijęs iš Paryžiaus akademijos „Užrašai“: Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį pastaboms apie alaus mitologinę kilmę.
 - susijęs iš The Boundaries of Lithuania: Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m., buvo žemėlapis „Lituania Propria“.
 - susijęs iš Berezina: Po žiauraus mūšio prie Berezinos Napoleonas pavedė kariuomenę maršalui Miuratui ir parskubėjo į Paryžių rinkti naujų jėgų.
 - susijęs iš Konstantinopolis: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
@@ -328,10 +330,12 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 - susijęs iš [[objektai/zodynas/reskriptas.md#claim-t-58923|reskriptas]]: Popiežiaus Bonifaco Prancūzijos karaliui siųstas priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78003|A. Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.
 - susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75687|Andrejus Sacharovas]]: Andrejus Sacharovas buvo Jelenos Boner vyras ir bendražygis.
+- susijęs iš [[objektai/asmenys/Antonijus Bosija.md#claim-t-190129|Antonijus Bosija]]: Cezaris Ripa pas Antonijų Bosiją matė Romoje atkastą senovinę Kanopo Serapio statulą su į kryžių panašiu ženklu.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75778|Augustinas Voldemaras]]: A. Voldemaras buvo kooptuotas į Lietuvos Tarybą vietoj nuo jos atsiskyrusių kairiųjų pažiūrų narių.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75784|Augustinas Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti Augustiną Voldemarą į valdžią.
 - susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-184047|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu.
 - susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-59901|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu.
+- susijęs iš [[objektai/asmenys/Cezaris Ripa.md#claim-t-190140|Cezaris Ripa]]: Cezaris Ripa pas Antonijų Bosiją matė Romoje atkastą senovinę Kanopo Serapio statulą su panašiu ženklu.
 - susijęs iš [[objektai/asmenys/Dominykas Semaško.md#claim-t-63539|Dominykas Semaško]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
 - susijęs iš [[objektai/asmenys/Oskaras Milašius.md#claim-t-64020|Oskaras Milašius]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).

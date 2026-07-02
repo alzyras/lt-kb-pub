@@ -58,8 +58,6 @@ amziai:
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lukiškės" parinktas kaip owner_note_path. Targetas "Troba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Polockas: Vienas vieškelis iš Vilniaus per Vilnios upę prie Vyskupo malūno suko į Polocką.
 - susijęs iš Polockas: Vienas vieškelis iš Vilniaus per Vilnios upę prie bendro naudojimo malūno suko į Polocką.
-- susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį.
-- susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -181,6 +181,7 @@ amziai:
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178957|Kryžiuočių ordinas]]: Teutonų ordinas XIII a. pavergė prūsus, slopino lietuvių pagonybę ir Baltijos pakrantėse daugino miestus bei pilis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179103|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179255|Lietuviai]]: 1300 m. šeši tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami, imdami belaisvius ir degindami turtą.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190599|Lietuviai]]: Narbutas rašė, kad lietuvių laidotuvių giesmės vadinamos raudomis ir skambėjo visose lietuvių genties tautose.
 - susijęs iš [[objektai/grupes/Moravai.md#claim-t-34360|Moravai]]: Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113366|Vilniaus universitetas]]: Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
 - susijęs iš [[objektai/grupes/Čekai.md#claim-t-50766|Čekai]]: Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.

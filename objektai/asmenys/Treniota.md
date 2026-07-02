@@ -5,6 +5,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1260 m.'
   - '1264 m.'
@@ -12,14 +13,14 @@ date_start: '1260'
 date_end: '1264'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - kunigaikštis
-  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - kunigaikštis
+  - ordinas
 ---
 # Treniota
 
@@ -28,7 +29,6 @@ periodo_grupes:
 Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserėnas Treniota. Treniota ir iš žygio grįžęs Daumantas susimokę jį nužudė.
 
 ## Teiginiai
-
 <a id="claim-t-90060"></a>
 - t-001
   global_id: t-90060
@@ -181,11 +181,32 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   ryšio_subjekto_parinkimas: Treniota: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Krymas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Treniota" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+<a id="claim-t-188644"></a>
+- t-009
+  global_id: t-188644
+  teiginys: 'Narbutas pasakoja, kad po Mindaugo žūties dėl grobio susikivirčijęs Žemaičių Treniota nužudė Polocko kunigaikštį Tautvilą.'
+  pagrindžia:
+    - c-009
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 361902-362470; hash=42814831abeba1cdd1af9a2410c1c598820bce383d98c364e08c4dde2d159726; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Polockas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Treniota: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Treniota" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas.md#claim-t-185830|Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas]]: Tautvilo sąmokslą prieš Treniotą išdavė klastingas Polocko dvariškis, todėl valdovas jį skubiai užgniaužė.
 - susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186159|Pisimantas]]: Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184594|Žemaičiai]]: Treniotai turėjo padėti jam atsidavusi žemaičių kariuomenė ir naugardukiečių kariai.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05162|Daumantas (kunigaikštis, XV a.)]]: Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184685|Daumantas (kunigaikštis, XV a.)]]: Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-188583|Mindaugas (valdovas, XIII a.)]]: Narbutas Mindaugą vadina Lietuvos ir Rusios kunigaikščiu ir jo žudikais įvardija Daumantą, Treniotą bei Tautvilą.
+- susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-188604|Prokopas]]: Narbutas Prokopą vaizduoja kaip Polocko kunigaikščio patikėtinį ir išdaviką, kurį Treniota pasiuntė į Polocką po Tautvilos nužudymo.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176152|Žemaičiai]]: Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176155|Žemaičiai]]: Pasak Eiliuotinės Livonijos kronikos, po laimėjimo žemaičiai siuntė pasiuntinius pas Mindaugą ir prašė Treniotos jį grąžinti į pagonybę.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176156|Žemaičiai]]: Pagal Eiliuotąją Livonijos kroniką, žemaičiai po laimėjimo prašė Treniotos įtikinti Mindaugą grįžti į pagonybę.
@@ -205,6 +226,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186159|Pisimantas]]: Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi.
 - susijęs iš [[objektai/grupes/Naugardukiečiai.md#claim-t-185442|Naugardukiečiai]]: Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir naugardukiečių kariai.
 - susijęs iš [[objektai/grupes/Polockiečiai.md#claim-t-185445|Polockiečiai]]: Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas.
+- susijęs iš [[objektai/grupes/Polocko bajorai ir ponai.md#claim-t-189528|Polocko bajorai ir ponai]]: Narbutas pasakoja, kad Treniota įkalino Polocko bajorus, o Jonas, gelbėdamas Polocko ponus, išjojo į Naugardą ir tapo vienuoliu.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184594|Žemaičiai]]: Treniotai turėjo padėti jam atsidavusi žemaičių kariuomenė ir naugardukiečių kariai.
 - susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu.md#claim-t-185589|Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]: Kernavėje sukviestame susirinkime susirinko daug diduomenės, o lietuviai rėmė Vaišvilko išrinkimą valdovu.
 - susijęs iš [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.).md#claim-t-31477|Tautvilo nužudymas (apie 1263-1264 m.)]]: Apie 1263-1264 m. Treniota nužudė sosto varžovą Tautvilą, o Tautvilo sūnus pabėgo į Didįjį Naugardą.
@@ -212,10 +234,11 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - susijęs iš Dauguva: Treniotos ir žemaičių žygiai siekė už Dauguvos esančią Estiją, bet buvo siaubiamieji, o ne užkariaujamieji.
 - susijęs iš Dnepras: Mindaugas pasiuntė visą savo kariuomenę už Dnepro prieš Romaną, Briansko kunigaikštį.
 - susijęs iš Nemunas: Užšalęs Nemunas leido magistro Konrado fon Tirbergo vedamiems kryžiuočiams lengvai persikelti ledu į Lietuvą.
+- susijęs iš Polockas: Narbutas pasakoja, kad po Mindaugo žūties Treniota nužudė Polocko Tautvilą, o bijodamas polockiečių keršto įkalino Polocko bajorus.
+- susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
 - susijęs iš Vysla: Treniotos vadovaujami žemaičiai žygiuose Prūsuose pasiekdavo net Vyslą.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184685|Daumantas (kunigaikštis, XV a.)]]: Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamedę, o jo pajėgos paėmė Birgelavos pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -366,6 +389,27 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Narbutas pasakoja, kad po Mindaugo žūties dėl grobio susikivirčijęs Žemaičių Treniota nužudė Polocko kunigaikštį Tautvilą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šiojo sūnus Liu­
+    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
+    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
+    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
+    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
+    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
+    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
+    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
+    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
+    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 - Treniota uzeme [[objektai/vietos/Birgelava]]

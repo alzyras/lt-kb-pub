@@ -59,6 +59,7 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
 - susijęs iš Jonavos azotinių trąšų gamykla: Septintąjį–aštuntąjį dešimtmetį Jonavos azotinių trąšų gamykla buvo pastatyta vykstant sparčiai Lietuvos industrializacijai.
 - susijęs iš Kaunas: Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį.
 - susijęs iš Kaunas: Atšilimo laikotarpiu sovietinės industrializacijos metu Lietuvoje pastatyta Kauno hidroelektrinė.
+- susijęs iš Kaunas: Pasak Narbuto minimų vietos padavimų, Kauno Nemuno ir Neries santakoje augusi dievams skirta giraitė tęsėsi iki pilies griuvėsių.
 - susijęs iš Kauno HES: Atšilimo laikotarpiu Kauno HES minima tarp didelių naujų pramonės objektų, statytų sparčios sovietinės industrializacijos ir urbanizacijos metu.
 - susijęs iš Mažeikių naftos perdirbimo įmonė: Septintąjį–aštuntąjį dešimtmetį per sovietinę industrializaciją Lietuvoje pastatyta Mažeikių naftos perdirbimo įmonė.
 ## Reikšmingi paminėjimai

@@ -248,6 +248,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - susijęs iš Katinavos apylinkės: Katinavos apylinkės apibūdintos kaip ryškus pagoniško kulto židinys.
 - susijęs iš Mažoji Lietuva: Vokiečių ordino valstybėje lietuviai ilgainiui pradėti vadinti lietuvininkais, o jų žemės – Prūsų Lietuva arba Mažąja Lietuva.
 - susijęs iš Nemunas: Kronikininkas, aprašęs kovas Skalvoje abipus Nemuno, pažymėjo, kad broliai daug kartų kariavo su skalviais.
+- susijęs iš Nemunas: Narbutas Zapyškį lokalizavo kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, anksčiau vadinto Upinės upeliu.
 - susijęs iš Prūsija: Vokiečių ordino valstybėje, vėliau tapusioje Prūsija, lietuviai ilgainiui pradėti vadinti lietuvininkais.
 - susijęs iš Retavos valsčius: Brolio Ditricho kariuomenė įsiveržė į Retavos valsčių ir jį nusiaubė plėšdama bei degindama.
 - susijęs iš Retavos valsčius: Konradas iš Tirbergo pasiuntė sembų fogtą Ditrichą su kariuomene į Nadruvą, kur ši įsiveržė į Retavos valsčių.

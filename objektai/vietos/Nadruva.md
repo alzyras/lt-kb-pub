@@ -306,6 +306,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78535|Varmiai]]: 1274 m. varmiai kartu su pagudėnais, notangais, bartais ir sembais grįžo į Bažnyčios vienybę ir davė įkaitų.
 - susijęs iš [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje.md#claim-t-91913|Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]: Konrado iš Tirbergo pasiųstas Sembos fogtas Ditrichas su kariuomene Retavos valsčiuje užėmė ir sudegino dvi pilis.
 - susijęs iš [[objektai/ivykiai/Kampsvykių pilies užkariavimas.md#claim-t-62307|Kampsvykių pilies užkariavimas (pilis)]]: Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį, išžudė jos karius ir sudegino pilį iki pamatų.
+- susijęs iš [[objektai/paprociai/Krivio valios ir potvarkių klausymas.md#claim-t-189924|Krivio valios ir potvarkių klausymas]]: Narbutas aiškina, kad Dusburgietis galėjo perdėti Nadruvos krivio valdžią, tačiau tai nepaneigia krivio institucijos buvimo.
 - susijęs iš [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas.md#claim-t-54336|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]: Nadruvoje minima Romuva ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.
 - susijęs iš [[objektai/posakiai/krikšto prikelti naujam gyvenimui.md#claim-t-184035|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]: 1274 m. daug galingų ir kilmingų Nadruvos vyrų su šeimomis atėjo pas brolius, priėmė krikštą ir išsižadėjo stabų.
 - susijęs iš [[objektai/posakiai/krikšto prikelti naujam gyvenimui.md#claim-t-59118|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]: 1274 m. daug galingų ir kilmingų Nadruvos vyrų su šeimomis atėjo pas brolius, priėmė krikštą ir išsižadėjo stabų.
@@ -317,6 +318,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - susijęs iš Kampsvykiai: Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį ir ją sudegino iki pamatų.
 - susijęs iš Katavos valsčius: Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį.
 - susijęs iš Nemunas: Kronikininkas, aprašęs kovas Skalvoje abipus Nemuno, pažymėjo, kad broliai daug kartų kariavo su skalviais.
+- susijęs iš Nemunas: Narbutas Zapyškį lokalizavo kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, anksčiau vadinto Upinės upeliu.
 - susijęs iš Osa: Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą prūsų gyvenamą teritoriją pietvakariuose riboja Osa ir Vysla.
 - susijęs iš Retavos valsčius: Brolio Ditricho kariuomenė įsiveržė į Retavos valsčių ir jį nusiaubė plėšdama bei degindama.
 - susijęs iš Retavos valsčius: Konradas iš Tirbergo pasiuntė sembų fogtą Ditrichą su kariuomene į Nadruvą, kur ši įsiveržė į Retavos valsčių.
@@ -327,13 +329,14 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - susijęs iš Skalva: 1253-1259 m. Mindaugo dokumentai liudija, kad Skalva tarptautinėje plotmėje laikyta Lietuvos valdovo žeme.
 - susijęs iš Skalva: Kai kurie tyrinėtojai teritoriją nuo Pamedės iki Skalvos prie Nemuno apibūdino kaip prūsų gyvenamą.
 - susijęs iš Vėluva: Nadruviai, skalviai ir sūduviai pastatė Vėluvos pilį, siekdami trukdyti broliams ir sembams brautis į Nadruvą.
-- susijęs iš Žemaitija: Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.
+- susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189140|Romovė Romuva Romow]]: Narbutas teigė, kad paskutiniais stabmeldystės amžiais Romovių būta keliose vietose ir jose gyveno atskiri kriviai.
 - susijęs iš [[objektai/zodynas/Romuva ir krivis.md#claim-t-75583|Romuva ir krivis]]: Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta nebeatsekama.
 - susijęs iš [[objektai/zodynas/amfiktionija.md#claim-t-23432|amfiktionija]]: Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.
 - susijęs iš [[objektai/zodynas/bažnyčios visuotinybė.md#claim-t-58895|bažnyčios visuotinybė]]: 1274 m. pagudėnai, varmiai, notangai, bartai ir sembai grįžo į šventosios motinos bažnyčios visuotinybę.
 - susijęs iš Romintės giria: Nadruvos pietryčiuose, Pisos intako Romintės (dab.
 - susijęs iš [[objektai/zodynas/Romuva ir krivis.md#claim-t-75586|Romuva ir krivis]]: Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.
 - susijęs iš [[objektai/zodynas/Romuva krivis.md#claim-t-77804|Romuva krivis]]: Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.
+- susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189140|Romovė Romuva Romow]]: Narbutas teigė, kad paskutiniais stabmeldystės amžiais Romovių būta keliose vietose ir jose gyveno atskiri kriviai.
 - susijęs iš Auktuolyčiai: Brolis Ditrichas Nadruvos Katavos valsčiuje su kariuomene puolė Auktuolyčių pilį ir po kelių antpuolių į ją įsiveržė.
 ## Reikšmingi paminėjimai
 
@@ -516,7 +519,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - [[objektai/asmenys/Konradas]] siunte_i Nadruva
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] surenge_zygi_i Nadruva
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] surenge_zygi_i Nadruva
-- Nadruva priklause [[objektai/vietos/Žemaitija]]
 - [[objektai/vietos/Romuva]] priklause Nadruva
 - [[objektai/vietos/Retavos valsčius]] priklause Nadruva
 - [[objektai/vietos/Katinavos apylinkės]] priklause Nadruva
@@ -524,5 +526,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - [[objektai/vietos/Romovė Romuva]] priklause Nadruva
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]] surenge_zygi_i Nadruva
 - [[objektai/vietos/Romintės giria]] priklause Nadruva
+- [[objektai/asmenys/Krivis]] gyveno Nadruva
 - Nadruva priklause [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Auktuolyčiai]] priklause Nadruva

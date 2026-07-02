@@ -150,6 +150,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš [[objektai/asmenys/Bogdanas Chmelnickis.md#claim-t-186099|Bogdanas Chmelnickis]]: 1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę.
 - susijęs iš [[objektai/asmenys/Juzefas Poniatovskis.md#claim-t-19045|Juzefas Poniatovskis]]: Juzefas Poniatovskis vadovavo Lenkijos kariuomenei Ukrainoje.
 - susijęs iš [[objektai/asmenys/Petro Sahaidačnij.md#claim-t-40394|Petro Sahaidačnij]]: Petro Sahaidačnij vadovavo apie 25 tūkst. Ukrainos kazokų, prisijungusių prie J. K. Chodkevičiaus pajėgų.
+- susijęs iš [[objektai/asmenys/Piotr Kunasowicz Sahaidaczny.md#claim-t-190198|Piotr Kunasowicz Sahaidaczny]]: Narbutas Piotrą Kunasowiczių Sahaidaczny mini kaip kazokų atamaną, kurio tėvas turėjo ukrainiečių slavų krikšto vardą Kūnas.
 - susijęs iš [[objektai/autoriai/D. Pochilevyč.md#claim-t-29457|D. Pochilevyč]]: D. Pochilevyč buvo Lvovo universiteto profesorius ir tyrinėjo Lietuvos, Gudijos bei Ukrainos kaimo ūkinius santykius.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47900|Rusų ir ukrainiečių istorikai]]: Rusų ir ukrainiečių istorikai davė naujų tyrinėjimų apie Lietuvos, Gudijos ir Ukrainos (t.
 - susijęs iš [[objektai/grupes/Janičarai.md#claim-t-40893|Janičarai]]: Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą.
@@ -191,6 +192,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179369|Livonijos ordinas]]: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš didįjį Kalavijuočių ordino magistrą Firstembergą.
 - susijęs iš [[objektai/grupes/Raudonoji armija.md#claim-t-78436|Raudonoji armija]]: 1918 m. gruodžio 16 d. lietuvių bolševikai, remdamiesi tik Raudonosios armijos daliniais, deklaravo Sovietų Lietuvą.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74910|Rusėnai]]: Lenkijai ir Lietuvai priklausiusiose rusėnų žemėse išplito alodas, vakarietiška ūkininkavimo ir nuosavybės forma.
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-188349|Slavai]]: Narbutas rašė, kad šiaurės slavai nimfas vadino rusalkomis dėl rusvų arba šviesiai pilkų plaukų.
 - susijęs iš [[objektai/grupes/Turkijos kariuomenė.md#claim-t-41184|Turkijos kariuomenė]]: Chotino link artėjusią Turkijos kariuomenę sudarė apie 100000 karių, įskaitant spahius, janičarus, totorius, moldavus ir valakus.
 - susijęs iš [[objektai/ivykiai/Andrusavo paliaubų pasirašymas (1667 m. sausio 30 d.).md#claim-t-39123|Andrusavo paliaubų pasirašymas (1667 m. sausio 30 d.)]]: 1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas.
 - susijęs iš [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.).md#claim-t-39100|Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]: Prie Lojevo priartėjusios Kijevo, Černobylio ir Ovručo kazokų pajėgos buvo triskart gausesnės už LDK kariuomenę.
@@ -239,6 +241,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš Voluinė: 1340 m. Vytenio ir Gedimino laikų plėtros kontekste prie Lietuvos buvo prijungta Voluinė.
 - susijęs iš [[objektai/zodynas/Lite litvakai.md#claim-t-183445|Lite litvakai]]: Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK erdvės kilę žydai litvakai.
 - susijęs iš [[objektai/zodynas/Lite litvakai.md#claim-t-22005|Lite litvakai]]: Kuriant Izraelį reikšmingus vaidmenis suvaidino iš istorinės Lietuvos erdvės kilę žydai, vadinęsi litvakais.
+- susijęs iš [[objektai/zodynas/Slenkstis Slynksnis-Perlevenu.md#claim-t-189179|Slenkstis Slynksnis-Perlevenu]]: Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų dievaitį ir žemdirbio nuosavybės globėją.
 - susijęs iš [[objektai/zodynas/federacinė valstybė.md#claim-t-185383|federacinė valstybė]]: Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtinės valstybės suverenu.
 - susijęs iš [[objektai/zodynas/feodalinis imunitetas.md#claim-t-185384|feodalinis imunitetas]]: Žymesnieji buržuazinės istoriografijos atstovai feodalinio imuniteto saugojimą vaizdavo kaip valstybės ar tautos reikalų gynimą.
 - susijęs iš [[objektai/zodynas/lietuviškos ūkio ir gerovės sąvokos rusėnų kalboje.md#claim-t-183443|lietuviškos ūkio ir gerovės sąvokos rusėnų kalboje]]: XV–XVI a. Lietuvos Metrikos rusėnų kalboje vartotos lietuviškos ūkio ir gerovės sąvokos, tarp jų „litovka“, „jevje“, „sviren“ ir „skilond“.

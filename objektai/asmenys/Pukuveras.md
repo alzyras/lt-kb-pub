@@ -71,6 +71,7 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
   ryšio_paaiskinimas: Pukuveras tiesiogiai įvardytas Lietuvos karaliumi.
 - susijęs iš Kujavija: 1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179193|Lenkai]]: 1291 m. lietuviai nuniokojo Kujaviją, o 1292 m. Pukuveras pasiuntė Vytenį į Lenkiją su didele kariuomene.
+- susijęs iš Prūsijos žemės kronika: 1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
 ## Reikšmingi paminėjimai
 
 - c-001

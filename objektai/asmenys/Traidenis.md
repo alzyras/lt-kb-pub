@@ -229,26 +229,26 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]'
   pagrindžia:
     - c-012
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176817|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176823|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176824|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176826|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176827|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176832|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176845|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176847|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176817|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176823|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176824|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176826|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176827|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176832|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176845|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176847|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
 - susijęs iš [[objektai/asmenys/Sirputis (Traidenio brolis).md#claim-t-79156|Sirputis (Traidenio brolis)]]: Sirputis, ketvirtasis Traidenio brolis, perėmė Rytų krikščionybę ir Lietuvos valdovo pavedimu veikė prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Sirputis (Traidenio brolis).md#claim-t-79158|Sirputis (Traidenio brolis)]]: Rytų krikščionybę perėmęs Traidenio brolis Sirputis Lietuvos valdovo pavedimu veikė prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Sirputis (Traidenio brolis).md#claim-t-79156|Sirputis (Traidenio brolis)]]: Sirputis, ketvirtasis Traidenio brolis, perėmė Rytų krikščionybę ir Lietuvos valdovo pavedimu veikė prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Traidenis (Mazovijos kunigaikštis, 1325 m.).md#claim-t-87870|Traidenis (Mazovijos kunigaikštis, 1325 m.)]]: Traidenis 1325 m. viešpatavo vienoje iš Mazovijos žemių kartu su kunigaikščiu Ziemovitu.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176817|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176823|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176824|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176826|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176827|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176832|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176845|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176847|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176817|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176823|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176824|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176826|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176827|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176832|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176845|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176847|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
 - susijęs iš [[objektai/ivykiai/Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.).md#claim-t-185740|Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.)]]: Narimantas ir Traidenis nusprendė išvyti lenkus iš jotvingių žemių ir atkurti ten senąsias lietuvių teises.
 - susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185647|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Traidenis su trečdaliu savo kariuomenės nusiaubė Mazoviją, o su likusiais dviem trečdaliais puolė Kulmo žemę.
 - susijęs iš [[objektai/asmenys/Sirputis (Traidenio brolis).md#claim-t-79158|Sirputis (Traidenio brolis)]]: Rytų krikščionybę perėmęs Traidenio brolis Sirputis Lietuvos valdovo pavedimu veikė prieš Lenkiją.
@@ -493,7 +493,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-016
 
 ## Ryšiai
-- [[objektai/asmenys/Vytenis]] buvo_sunus Traidenis (valdovas, XIII a.)
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] buvo_sunus Traidenis (valdovas, XIII a.)
 - [[objektai/asmenys/Sirputis (Traidenio brolis)]] buvo_brolis Traidenis (valdovas, XIII a.)
 - Traidenis (valdovas, XIII a.) reme [[objektai/grupes/Žiemgaliai]]
 - Traidenis (valdovas, XIII a.) apgule [[objektai/vietos/Daugpilis]]

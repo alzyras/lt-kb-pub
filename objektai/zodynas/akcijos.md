@@ -92,6 +92,7 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 - susijęs iš [[objektai/grupes/Chasidai.md#claim-t-169573|Chasidai]]: Chasidai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir nuoširdų tikėjimą bei sušvelninti buitį normuojančius įstatymus.
 - susijęs iš [[objektai/grupes/Želigovskininkai.md#claim-t-20114|Želigovskininkai]]: Po Liucjano Želigovskio akcijos Lietuvai reikėjo stabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją.
 - susijęs iš [[objektai/ivykiai/Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.).md#claim-t-34569|Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.)]]: 1402 m. žemaičiai išsiuntinėjo savo skundą imperijos kunigaikščiams ir popiežiui.
+- susijęs iš [[objektai/paprociai/Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą.md#claim-t-189795|Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą]]: Nuo 1837 metų A. Marcinovskis rūpinosi T. Narbuto „Lietuvių tautos istorijos“ leidyba, prenumerata ir reklama.
 - susijęs iš [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas.md#claim-t-10819|Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]: Livonijos ordino aplinkoje buvo įprasta kviesti svečius iš Vokietijos ir skelbti specialius kryžiaus žygius.
 - susijęs iš Vokietija: Kryžiuočių ordino veikloje išliko paprotys kviesti svečius iš Vokietijos.
 - susijęs iš Vokietija: Iš Vokietijos ir toliau buvo kviečiami svečiai, o kovoms imta skelbti specialius kryžiaus žygius.

@@ -55,6 +55,7 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
   ryšio_targeto_parinkimas: Drevenca: llm_allowed_candidate, place
   ryšio_paaiskinimas: Kryžiuočiai tiesiogiai siejami su Drevencos perėjimo saugojimu.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179330|Lietuviai]]: Tuo metu lietuviai puolė iš Žemaitijos, o lenkai – netoli Sviečės.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179330|Lietuviai]]: Tuo metu lietuviai puolė iš Žemaitijos, o lenkai – netoli Sviečės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -89,3 +90,6 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/Lenkai]] puole Sviečė

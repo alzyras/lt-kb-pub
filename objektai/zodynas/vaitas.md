@@ -75,12 +75,16 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 - susijęs iš [[objektai/asmenys/Grigalius Čiškovičius.md#claim-t-87682|Grigalius Čiškovičius]]: Grigalius Čiškovičius buvo vienas iš įgaliotinių, per kuriuos Vilniaus graikų tikėjimo pirkliai išdėstė skundą.
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87354|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Jokūbas Vargalovskis Stefanovičius dar buvo Vilniaus vaitas 1713 ir 1721 m.
 - susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87407|Martynas Paleckis]]: Karalius Steponas patvirtino Martyno Paleckio, jo žmonos ir miesto sutartį dėl stiklo liejyklos ir stiklo supirkimo.
+- susijęs iš [[objektai/asmenys/Pretorijus.md#claim-t-190044|Pretorijus]]: Narbutas rašo, kad Pretorijus, atpasakodamas Dusburgiečio kronikos vietą apie žynio lazdą, ją vadino krivūle.
 - susijęs iš [[objektai/asmenys/Raina Sluščianka.md#claim-t-87842|Raina Sluščianka]]: Raina Sluščianka buvo Martyno Paleckio žmona ir sutarties su miestu dėl stiklo liejyklos bei stiklo supirkimo dalyvė.
 - susijęs iš [[objektai/asmenys/Rotundas (Augustinas Mieleckis).md#claim-t-87476|Rotundas (Augustinas Mieleckis)]]: 1560 m. vasario 12 d. Vilniaus vaitas Rotundas (Augustinas Mieleckis) Mikalojui Radvilai įteikė savo Lietuvos istoriją.
 - susijęs iš [[objektai/asmenys/Stanislovas Sabina.md#claim-t-87459|Stanislovas Sabina]]: 1586 m. graikų tikėjimo Vilniaus pirkliai apskundė Vilniaus vaitą Stanislovą Sabiną karaliui dėl privilegijų pažeidimo.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113984|Steponas Batoras]]: Stepono Batoro laikais Vilniuje gerokai išaugo spaustuvių skaičius.
 - susijęs iš [[objektai/autoriai/Augustinas Mieleckis Rotundas.md#claim-t-87998|Augustinas Mieleckis Rotundas]]: 1560 m. vasario 12 d. Vilniaus vaitas Augustinas Mieleckis Rotundas Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs.
 - susijęs iš [[objektai/autoriai/Augustinas Mieleckis Rotundas.md#claim-t-88001|Augustinas Mieleckis Rotundas]]: 1560 m. vasario 12 d. Vilniaus vaitas Augustinas Mieleckis Rotundas Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181474|Petras Dusburgietis]]: Petras Dusburgietis nurodytas kaip teksto „Rūstus Dievo žmonių likimas“ šaltinio autorius.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188468|Petras Dusburgietis]]: Narbutas, perpasakodamas Dusburgietį, aiškino krivūlę kaip krivio turėtą lazdą ir įsakomąjį ženklą.
+- susijęs iš [[objektai/autoriai/Pretorijus.md#claim-t-190332|Pretorijus]]: Pretorijus, perpasakodamas Dusburgiečio kronikos vietą apie žynio lazdą, vadino ją krivūle.
 - susijęs iš [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu.md#claim-t-87061|Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]: 1548 metais Vilniaus miesto herbas buvo šv. Kristoforo atvaizdas raudoname fone.
 - susijęs iš [[objektai/grupes/Vilniaus pirkliai.md#claim-t-172854|Vilniaus pirkliai]]: Pirkliai per Velykas pagal pataisytą kalendorių pardavinėjo prekes, nepaisydami katalikiškų švenčių.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.).md#claim-t-86887|Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]: 1533 m. Žygimantą Senąjį pasiekė Vilniaus miesto tarybos ir Vilniaus katedros kapitulos ginčas dėl kapitulos jurisdikcijos miesto gyventojams.
@@ -90,6 +94,8 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 - susijęs iš Decretum relationum Stephani Regis Poloniae inter nonnullos mercatores vilnenses et advocatum Vilnensem: 1586 m. liepos 11 d. karaliaus Stepono sprendimu visiems Vilniaus gyventojams įsakyta pagarbiai švęsti iškilmingas šventes pagal naują kalendorių.
 - susijęs iš Decretum relationum Stephani Regis Poloniae inter nonnullos mercatores vilnenses et advocatum Vilnensem: 1586 m. liepos 11 d. Stepono Batoro sprendimu Vilniaus gyventojams įsakyta švęsti įprastas šventes pagal naują kalendorių.
 - susijęs iš Lepumos vaito laiškas apie Švitrigailos pašalinimą ir Žygimanto paskelbimą: Slaptajame Karaliaučiaus archyve buvo keli laiškų originalai, aprašantys Švitrigailos pabėgimą.
+- susijęs iš Prūsijos žemės kronika: 1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
+- susijęs iš Prūsijos žemės kronika: Narbutas rašė, kad Pretorijus Dusburgiečio kronikos vietoje minimą žynio lazdą vadino krivūle.
 - susijęs iš Stepono Batoro patvirtinta sutartis tarp Martyno Paleckio ir Vilniaus miesto dėl stiklo liejyklos: Miesto aktuose buvo karaliaus Stepono patvirtinta Martyno Paleckio, jo žmonos ir Vilniaus miesto sutartis dėl stiklo liejyklos.
 - susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus miesto taryba ginčijo Vilniaus katedros kapitulos jurisdikciją miesto gyventojų atžvilgiu.
 - susijęs iš Vilniaus katedros bažnyčia: Vilniaus miesto taryba ginčijo Vilniaus katedros bažnyčios kapitulos jurisdikciją miesto gyventojų atžvilgiu.
@@ -98,6 +104,7 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 - susijęs iš Vilnius: Vilniaus miesto taryba ir Vilniaus katedros kapitula ginčijosi dėl kapitulos jurisdikcijos miesto gyventojams.
 - susijęs iš Vilnius: Stepono Batoro laikais Vilniuje gerokai išaugo spaustuvių skaičius.
 - susijęs iš Vilnius: Rengiant 1579 m. karo žygį Vilniuje buvo įsteigta patrankų liejykla.
+- susijęs iš Vilnius: Narbutas rašė, kad XVII a. pradžioje jėzuitai greta Vilniaus esančio kaimo mokykloje ant mokinio kaklo pastebėjo maišelį.
 - susijęs iš [[objektai/zodynas/ekskomunikacija ekskomunika.md#claim-t-86467|ekskomunikacija ekskomunika]]: Vilniaus miestiečiai anksčiau būdavo ekskomunikuojami Vilniaus vyskupo, vikaro arba oficijolo.
 - susijęs iš [[objektai/zodynas/miesto sargybos viršininkas.md#claim-t-86597|miesto sargybos viršininkas]]: 1586 m. Vilniaus miesto sargybos viršininkas Jurgis Vižikovskis su padėjėjais buvo išsiųstas į mėsines per ginčą su pirkliais.
 - susijęs iš [[objektai/zodynas/monopolis privati prekyba.md#claim-t-86487|monopolis privati prekyba]]: Vilniaus vaitas ir burmistrai siekė atšaukti Paleckio monopolio privilegiją, nes ji darė vis didesnę žalą miestui.

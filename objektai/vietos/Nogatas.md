@@ -67,6 +67,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96081|Baltai]]: Manoma, kad XII-XIII a. politinė ir etninė baltų bei Pamario slavų riba ėjo žemutine Vysla ir Nogatu.
 - susijęs iš [[objektai/ivykiai/Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas.md#claim-t-62927|Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)]]: Broliams negrąžinus sūnaus, Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.
 - susijęs iš Aliamas: Pamedės valsčius Aliamas 1250 m. minėtas forma Alyem prie Nogato ir siejamas su vėlesniu Štumu.
+- susijęs iš Marienburgas Zantiras: Narbutas nurodė, kad Marienburgo vietovė prie Nogato anksčiau vadinosi Zantiras.
 - susijęs iš Marienburgas: Marienburgo pilis Nogato deš.
 - susijęs iš Santyras: Santyro pilis buvo pastatyta Vyslos ir Nogato santakoje.
 - susijęs iš Santyras: Santyro pilis buvo pastatyta Vyslos ir Nogato santakoje.

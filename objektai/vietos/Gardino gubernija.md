@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Gardino gubernija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1801 m.'
   - '1819 m.'
@@ -11,11 +12,11 @@ date_start: '1801'
 date_end: '1843'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIX'
 tags:
   - kraštas
   - vieta
-amziai:
-  - 'XIX'
 ---
 # Gardino gubernija
 
@@ -24,7 +25,6 @@ amziai:
 1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pradėjusiai veikti generalgubernatoriaus institucijai. Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių, istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gubernijos šiaurinis pakraštys. Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.
 
 ## Teiginiai
-
 <a id="claim-t-101721"></a>
 - t-001
   global_id: t-101721
@@ -99,8 +99,26 @@ amziai:
   ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=71
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardino gubernija" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
-## Reikšmingi paminėjimai
+<a id="claim-t-188698"></a>
+- t-005
+  global_id: t-188698
+  teiginys: 'Narbutas istorinę Lietuvą siejo su Vilniaus, Kauno, Gardino ir Minsko gubernijomis.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 11701-11966; hash=68cfe72f49e8846b7ea16f61dcb9c8a16b461681fe193f939e0e260b7321e1f9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Lietuva: 0.72
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gardino gubernija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys Gardino guberniją pateikia kaip istorinės Lietuvos apibrėžimo dalį.
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -158,3 +176,25 @@ amziai:
   pagrindžia:
     - t-004
     - t-001
+- c-004
+  santrauka: 'Narbutas istorinę Lietuvą siejo su Vilniaus, Kauno, Gardino ir Minsko gubernijomis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    9
+
+    ## Puslapis 9
+
+    savarankišką kultūrinio palikimo vertinimą. Istorinė Lietuva -
+    tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ -
+    tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems
+    visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+- Gardino gubernija priklause [[objektai/vietos/Lietuva]]

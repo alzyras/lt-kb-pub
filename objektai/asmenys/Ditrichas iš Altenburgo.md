@@ -199,5 +199,5 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 - Ditrichas iš Altenburgo keliavo_i [[objektai/vietos/Bisenė]]
 - Ditrichas iš Altenburgo surenge_zygi_i [[objektai/vietos/Bisenė]]
 - Ditrichas iš Altenburgo uzeme [[objektai/vietos/Bisenė]]
-- Ditrichas iš Altenburgo puole [[objektai/asmenys/Gediminas]]
+- Ditrichas iš Altenburgo puole [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Ditrichas iš Altenburgo puole [[objektai/grupes/Lietuviai]]

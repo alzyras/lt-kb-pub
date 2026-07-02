@@ -64,7 +64,12 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   ryšio_subjekto_parinkimas: Kaltinėnai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Viena: mention_match, place, gap=21
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaltinėnai" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Dionizas Paškevičius.md#claim-t-190063|Dionizas Paškevičius]]: Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į Raseinius, aptiko seną nudžiūstantį ąžuolą.
+- susijęs iš [[objektai/autoriai/Praleisti nelaikyti saugiais autoriais.md#claim-t-190448|Praleisti nelaikyti saugiais autoriais]]: Praleisti nelaikyti saugiais autoriais išliko, todėl teisingai manoma, kad jis garbintas kaip šventasis.
 - susijęs iš [[objektai/ivykiai/Kališo taika.md#claim-t-100053|Kališo taika]]: 85 Kališas 217 ; Kališo taika 232, 330 Kalita 371, žr.
+- susijęs iš Bardžių dvaras: Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių, aptiko milžinišką seną ąžuolą ir jo kamiene įrengė kabinetą senienoms.
+- susijęs iš Žemaitija: Daukantas savo jaunystės laikų Žemaitijos kaimo kultūrinį paveikslą perkėlė į senuosius laikus.
+- susijęs iš Žemaitija: Narbutas rašo, kad Dionizas Paškevičius Bardžių dvare Žemaitijoje atrado seną džiūstantį ąžuolą.
 ## Reikšmingi paminėjimai
 
 - c-001

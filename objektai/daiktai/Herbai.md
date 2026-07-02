@@ -245,16 +245,32 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
   ryšio_targeto_parinkimas: Lietuvos bajorija: llm_allowed_candidate, group
   ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Lietuvos bajorija gavo herbus.
+- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188597|Motiejus Strijkovskis]]: Narbutas rašo, kad, Strijkovskio teigimu, kai kurios Lietuvos kunigaikščių giminės turėjo tikrus savo herbus.
+- susijęs iš [[objektai/autoriai/J. B. Rakoveckis.md#claim-t-190430|J. B. Rakoveckis]]: J. B. Rakoveckis išleido „Rusų tiesą“, kurią Narbutas mini kaip šaltinį apie kitų tautų antspaudus ir herbus.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190644|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskio teigimu kai kurios lietuvių giminės turėjo tikrus herbus: Hipokentaurą, Stulpus, Rožę ir Vytį.
+- susijęs iš [[objektai/autoriai/Neseckis.md#claim-t-190374|Neseckis]]: Narbutas kritikuoja Neseckio „Herbyne“ pateiktą aiškinimą, kad „Paparona“ arba „Kiniglis“ reiškia kiškį, o ne triušį.
+- susijęs iš [[objektai/autoriai/Tadas Čackis.md#claim-t-190303|Tadas Čackis]]: Narbutas Čackio veikalą „Apie teises“ nurodė kaip šaltinį istorijos duomenims apie kitų tautų antspaudus ir herbus.
 - susijęs iš [[objektai/daiktai/Herbas.md#claim-t-34572|Herbas]]: Horodlės unijos 18 paragrafu 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai.
+- susijęs iš [[objektai/daiktai/Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais.md#claim-t-189766|Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais]]: Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus.
+- susijęs iš [[objektai/daiktai/Senovės prūsų vėliava.md#claim-t-189714|Senovės prūsų vėliava]]: Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus.
 - susijęs iš [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai.md#claim-t-87100|Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]: Gardino seimo privilegija leido Vilniaus magistrato pareigas ėjusiems miestiečiams priimti bajorų herbus tik gavus atitinkamos giminės sutikimą.
 - susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50696|Lietuvių bajorija]]: Vytauto laikais lietuvių bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų bei luominės savivokos bruožų.
+- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-188282|Lietuvos bajorija]]: Narbutas teigė, kad keli aiškiai lietuviški herbai pateko į Lenkijos herbynus veikiausiai atsikėlus juos naudojusioms šeimoms.
 - susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92925|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.
 - susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92926|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems savo herbus.
+- susijęs iš [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui 1302 m.md#claim-t-189620|Gedimino herbo suteikimas Krunevičiui 1302 m]]: Narbutas nurodo, kad 1302 m. Gediminas suteikė Krunevičiui herbą kaip slavų giminei skirtą didžiojo kunigaikščio dovaną.
+- susijęs iš [[objektai/ivykiai/Herbų vienovės įvedimas Horodlės seime 1413 m.md#claim-t-189622|Herbų vienovės įvedimas Horodlės seime 1413 m (seimas, XV a.)]]: 1413 m. Horodlės seime Lenkijos bajorai, Lietuvos ir Lenkijos unijos ženklan, suteikė savo herbus lietuvių bajorams ir įvedė herbų vienovę.
 - susijęs iš 1568 m. Gardino seimo privilegija Vilniaus miestiečiams: 1568 m. privilegija leido tokiems Vilniaus miestiečiams priimti bajorų herbus tik gavus bent vienos tą herbą turinčios šeimos sutikimą.
-- susijęs iš 1630 m. testamentas su šešiais antspaudais: Narbutas 1630 m. testamentą aprašė kaip dokumentą, prie kurio buvo pridėtas neaiškaus savininko antspaudas ir dar penki antspaudai su lenkiškais herbais.
+- susijęs iš 1630 m. testamentas su šešiais antspaudais: Narbutas nurodė, kad prie 1630 m. testamento buvo pridėtas nežinia kieno prispaustas antspaudas ir dar penki antspaudai su lenkiškais herbais.
+- susijęs iš Horodlė: 1413 m. Horodlės seime lenkų bajorai suteikė savo herbus lietuvių bajorams kaip abiejų tautų susijungimo ženklą.
 - susijęs iš [[objektai/zodynas/nobilitetas.md#claim-t-36817|nobilitetas]]: Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius – herbus.
+- susijęs iš [[objektai/asmenys/Krunevičius.md#claim-t-190176|Krunevičius]]: Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė herbą Krunevičiui.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-188248|Lenkai]]: Narbutas aiškino, kad kai kurie lietuviški herbai įėjo į Lenkijos herbynus tikriausiai persikėlus jais besinaudojusioms šeimoms.
 - susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50695|Lietuvių bajorija]]: Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188304|Prūsai]]: Narbutas Perkūno, Patelo ir Atrimpo atvaizdus sieja su senovės prūsų vėliava.
 - susijęs iš [[objektai/posakiai/senesnė ir garbingesnė, negu lenkų.md#claim-t-186887|senesnė ir garbingesnė, negu lenkų]]: Bychovco kronika Lietuvos bajorų kilmę ir garbę vaizduoja kaip viršesnę už lenkų.
+- susijęs iš Lenkija: Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.
+- susijęs iš Lenkija: Narbutas spėjo, kad kai kurie lietuviški herbai į Lenkijos herbynus pateko atsikėlus jais besinaudojusioms šeimoms.
 - susijęs iš [[objektai/zodynas/luomas.md#claim-t-169920|luomas]]: Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu.
 ## Reikšmingi paminėjimai
 
@@ -463,5 +479,6 @@ Nenurodyta
 ## Ryšiai
 - Herbai priklause [[objektai/grupes/Lenkai]]
 - Herbai priklause [[objektai/grupes/Lietuvos bajorija]]
+- Herbai priklause [[objektai/grupes/Lenkų bajorai]]
 - Herbai priklause [[objektai/grupes/Bajorai]]
 - Herbai priklause [[objektai/grupes/Lietuvių bajorija]]

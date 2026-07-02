@@ -104,13 +104,11 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
     Livonijos ordino magistrą Andrių Štirlandą.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -122,13 +120,11 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
     žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'Mindaugas papirko Livonijos ordino magistrą Andrių Štirlandą ir per pasiuntinį popiežiui išdėstė Lietuvai palankesnes sąlygas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -141,10 +137,9 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
     Livonijos delegatų nuostabai popiežius patenkino Mindaugo prašymą.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
 

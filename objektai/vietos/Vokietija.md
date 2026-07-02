@@ -697,7 +697,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75776|Augustinas Voldemaras]]: Augustinas Voldemaras prieš Varšuvą bandė atsilaikyti Vokietijos arba Sovietų Rusijos padedamas.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75783|Augustinas Voldemaras]]: Augustinas Voldemaras birželį pareiškė, kad Lietuva galėtų įsijungti į Rusijos federaciją panašiais pagrindais kaip Bavarija į Vokietijos sąjungą.
 - susijęs iš [[objektai/asmenys/Gardolfas.md#claim-t-60282|Gardolfas]]: Halberštato vyskupas Gardolfas buvo tarp Vokietijos dvasininkų ir didikų, svarstusių ką tik įsteigtos ligoninės ateitį.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176386|Gediminas]]: Gediminas esą prisipažino nerašęs laiškų nei popiežiui, nei Vokietijos miestams ir nepareiškęs noro krikštytis.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176386|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas esą prisipažino nerašęs laiškų nei popiežiui, nei Vokietijos miestams ir nepareiškęs noro krikštytis.
 - susijęs iš [[objektai/asmenys/Gustavas Adolfas.md#claim-t-79026|Gustavas Adolfas]]: Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo prieš katalikų kariuomenes.
 - susijęs iš [[objektai/asmenys/Henrikas (Pfalco grafas prie Reino ir Braunšveigo kunigaikštis).md#claim-t-60309|Henrikas (Pfalco grafas prie Reino ir Braunšveigo kunigaikštis)]]: Henrikas, Pfalco prie Reino pfalcgrafas ir Braunšveigo kunigaikštis, buvo tarp Vokietijos didikų, pritarusių ligoninės patvirtinimo prašymui.
 - susijęs iš [[objektai/asmenys/Henrikas I Paukštininkas.md#claim-t-87688|Henrikas I Paukštininkas]]: Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.
@@ -868,11 +868,11 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59859|Fridrichas II]]: 1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką.
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59862|Fridrichas II]]: Imperatorius Fridrichas II patarė magistrui Hermanui priimti Lenkijos kunigaikščio kvietimą dėl keblaus reikalo.
 - susijęs iš [[objektai/asmenys/Fridrichas fon Bebirsteynas.md#claim-t-87675|Fridrichas fon Bebirsteynas]]: Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176324|Gediminas]]: Gediminas per pasiuntinius esą garantavo, kad jo valia nebuvo siunčiami jokie laiškai miestams, šalims ar popiežiui.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176341|Gediminas]]: Balińskio nuomone, Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176351|Gediminas]]: Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176355|Gediminas]]: Balińskis teigė, kad laiškai popiežiui, ordinams ir Vokietijos miestams buvo parašyti ne Gedimino žinia ar valia.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176356|Gediminas]]: Gediminas per pasiuntinius garantavo, kad jo valia laiškai miestams, šalims ar popiežiui nebuvo siuntinėjami.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176324|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas per pasiuntinius esą garantavo, kad jo valia nebuvo siunčiami jokie laiškai miestams, šalims ar popiežiui.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176341|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskio nuomone, Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176351|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176355|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis teigė, kad laiškai popiežiui, ordinams ir Vokietijos miestams buvo parašyti ne Gedimino žinia ar valia.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176356|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas per pasiuntinius garantavo, kad jo valia laiškai miestams, šalims ar popiežiui nebuvo siuntinėjami.
 - susijęs iš [[objektai/asmenys/Georgas fon Hertlingas.md#claim-t-18913|Georgas fon Hertlingas]]: Kovo 23 d. Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui.
 - susijęs iš [[objektai/asmenys/Gerhardas iš Hircbergo.md#claim-t-184069|Gerhardas iš Hircbergo]]: Gerhardas iš Hircbergo dvejus metus vadovavo kaip ketvirtas Prūsijos žemės magistras.
 - susijęs iš [[objektai/asmenys/Gerhardas iš Hircbergo.md#claim-t-60286|Gerhardas iš Hircbergo]]: Gerhardas iš Hircbergo dvejus metus vadovavo kaip ketvirtas Prūsijos žemės magistras.
@@ -996,9 +996,12 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178997|Kryžiuočių ordinas]]: Skubinai persikėlus per Nemuną, kryžiuočių kariuomenė prie Strėvos upės išsiskyrė į du didelius dalinius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179047|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė Kauno pilį Nemuno ir Neries santakoje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-190568|Kryžiuočių ordinas]]: Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios.
 - susijęs iš [[objektai/grupes/Laikinoji vyriausybė.md#claim-t-19773|Laikinoji vyriausybė]]: 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per užimtą radiją paskelbė apie Laikinąją vyriausybę.
 - susijęs iš [[objektai/grupes/Laikinoji vyriausybė.md#claim-t-19776|Laikinoji vyriausybė]]: Laikinoji vyriausybė realiai nevaldė padėties, nes negalėjo palaikyti ryšių su visu kraštu.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179217|Lietuviai]]: Konferencijos rezoliucijoje lietuviai numatė nepriklausomą demokratišką valstybę etnografinėmis ribomis.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190572|Lietuviai]]: Narbutas teigė, kad lietuvių mitologijoje visus ežerus globojo dievas Atrimpas, vadintas Ežeriniu.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190573|Lietuviai]]: Narbutas rašė, kad lietuvių religija mokė pamaldumo medžiams, o šventieji medžiai buvo puošiami trofėjais ir girliandomis.
 - susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-13467|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje.
 - susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-24554|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).
 - susijęs iš [[objektai/grupes/Lietuvių informacijos biuras Lozanoje.md#claim-t-19810|Lietuvių informacijos biuras Lozanoje]]: JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą ir publikacijas užsienio kalbomis apie Lietuvą.
@@ -1020,6 +1023,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš [[objektai/grupes/NKVD.md#claim-t-71677|NKVD]]: Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78396|Notangai]]: 1260 m. Klaipėdoje tarp Ordino prievarta buriamų karių buvo notangai, pamedėnai, varmiai ir sembai.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78402|Notangai]]: 1260 m. Klaipėdoje notangai minimi tarp Ordino pavaldžių užgrobtų žemių karių, prievarta telktų prieš Lietuvą.
+- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-188290|Pamedėnai]]: Narbutas rašo, kad pamedėnai turėjo prisiekti nepriimti krikščionių tikėjimo ir ginti savo senąjį tikėjimą.
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78422|Pamedėnai]]: 1260 m. Klaipėdoje pamedėnai minimi tarp Ordino pavaldžių užgrobtų žemių karių, prievarta telktų prieš Lietuvą.
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78423|Pamedėnai]]: 1260 m. Klaipėdoje prieš Lietuvą sutelktose Ordino pajėgose buvo ir prievarta buriami pamedėnai.
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78424|Pamedėnai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
@@ -1197,9 +1201,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš Greifsvaldas: Greifsvaldas minimas tarp Hanzos miestų, kuriems 1323 m. gegužės 26 d. buvo pasiųsti laiškai.
 - susijęs iš Jieznas: Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.
 - susijęs iš Juodoji Ančia: Spalio 7 d. demarkacinė linija buvo nustatyta nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.
-- susijęs iš Kaunas: Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, greitosiomis kūrė Lietuvos karines pajėgas.
 - susijęs iš Kaunas: Lapkričio 15 d. Kaune ant Ernesto Galvanausko miegamojo palangės sprogo bomba, o sužeistas Galvanauskas liko gyvas.
-- susijęs iš Kaunas: 1943 m. kovo viduryje gestapas, keršydamas už boikotą, uždarė Kauno ir Vilniaus universitetus.
 - susijęs iš Kaunas: 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis užimtame Kaune per radiją paskelbė apie Lietuvos valstybės atkūrimą.
 - susijęs iš Kaunas: 1941 m. birželio 23 d. užėmus Kauno radiją, LAF atstovas Leonas Prapuolenis paskelbė apie Lietuvos valstybės atkūrimą.
 - susijęs iš Kaunas: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę.
@@ -1318,7 +1320,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš Štetinas: Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų ir Štetinui.
 - susijęs iš Štuthofas: Keršydamas už lietuvių pogrindžio boikotą, gestapas 1943 m. kovo viduryje išvežė 46 Lietuvos visuomenės veikėjus į Štuthofą.
 - susijęs iš Štuthofas: 1943 m. kovo viduryje gestapas suėmė 46 Lietuvos visuomenės veikėjus ir išvežė juos į Štuthofo koncentracijos stovyklą.
-- susijęs iš Žemaitija: Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai.
 - susijęs iš „Lietūkio“ garažas: 1941 m. birželio 27 d. Kauno „Lietūkio“ garaže lietuviai dalyvavo SD inspiruotame žiauriame pogrome.
 - susijęs iš [[objektai/zodynas/Cechai.md#claim-t-86578|Cechai]]: XII a. antrojoje pusėje Vokietijos miestuose pradėta steigti cechus, o XIII a. daugelis jų išsivadavo iš vyskupų jurisdikcijos.
 - susijęs iš [[objektai/zodynas/Laisvieji imperijos miestai.md#claim-t-54795|Laisvieji imperijos miestai]]: Laisvieji imperijos miestai vėliau dalyvavo imperijos valdyme ir tapo galingi bei savarankiški.

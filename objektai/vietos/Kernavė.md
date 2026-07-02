@@ -6,6 +6,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -15,12 +16,12 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - mokslininkas
-  - vieta
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - mokslininkas
+  - vieta
 ---
 # Kernavė
 
@@ -29,13 +30,12 @@ amziai:
 kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 
 ## Teiginiai
-
 <a id="claim-t-173444"></a>
 - t-001
   global_id: t-173444
   teiginys: 'Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės.'
   sudarymo_pagrindimas: 'Citata palaiko glaustesnį faktą apie vietą prie Kernavės.'
-  susije_objektai: 'llm_object: Papartėnai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Papartėnai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -54,7 +54,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   global_id: t-173445
   teiginys: 'Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą.'
   sudarymo_pagrindimas: 'Teiginys palaikomas citata, bet reikia pašalinti OCR triukšmą ir sutrumpinti sakinį.'
-  susije_objektai: 'llm_object: Kernavė; llm_object: Maišiagala; mentioned_place: Maišiagala; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Maišiagala; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Ukmergė; llm_object: Kernavė; llm_object: Maišiagala'
   semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Kernavė'
   pagrindžia:
     - c-002
@@ -108,8 +108,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   global_id: t-173453
   teiginys: 'Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'llm_object: Kernavė; llm_object: Maišiagala; mentioned_place: Maišiagala; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Kernavė'
+  susije_objektai: 'mentioned_place: Maišiagala; mentioned_place: Ukmergė'
   pagrindžia:
     - c-002
 
@@ -136,19 +135,19 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   global_id: t-173455
   teiginys: 'XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės.'
   sudarymo_pagrindimas: 'Pašalinta perteklinė legendinė detalė ir sutvarkyta formuluotė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Trakų pilis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]; mentioned_object: [[objektai/daiktai/Aukurai|Aukurai]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Trakų pilis; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 257577-258349; hash=6aeb3893558ba7a2ee1240e323d03e0dd762d0c443814bda9c6373330e5146e4; match=whitespace_regex
+  saltinio_vieta: 267224-267630; hash=966493f836b3fb549f8ce80df5eddbfc89048f5a35247ca20ed943707614640b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Kernavė: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kernavė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys nurodo Ordino maršalo vadovaujamą veiksmą, kuriuo buvo užimta Kernavė.
+  ryšio_patikimumas: susije_su -> Maišiagala: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kernavė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Maišiagala: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernavė" parinktas kaip owner_note_path. Targetas "Maišiagala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184982"></a>
 - t-011
@@ -196,15 +195,88 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 257577-258349; hash=6aeb3893558ba7a2ee1240e323d03e0dd762d0c443814bda9c6373330e5146e4; match=whitespace_regex
+  saltinio_vieta: 267224-267630; hash=966493f836b3fb549f8ce80df5eddbfc89048f5a35247ca20ed943707614640b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Kernavė: 0.92
+  ryšio_patikimumas: uzeme -> Kernavė: 0.82
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Kernavė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sieja kryžiuočių kariuomenę su Kernavės užėmimu.
+  ryšio_paaiskinimas: Teiginys nurodo, kad kryžiuočių kariuomenė kartu su Vytauto pulkais užėmė Kernavę.
+
+<a id="claim-t-188720"></a>
+- t-014
+  global_id: t-188720
+  teiginys: 'Narbutas cituoja aiškinimą, kad Neries deivės aukurai buvę įvairiose pakrantės vietose, pirmiausia Kernavėje prie Neriškių miško.'
+  pagrindžia:
+    - c-012
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 261042-261735; hash=144fb96e9d46405c3d141b92a0ede353e979cfd60f018a11e9af668b103d9d29; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukurai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kernavė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Aukurai: mention_match, thing, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernavė" parinktas kaip owner_note_path. Targetas "Aukurai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+<a id="claim-t-188721"></a>
+- t-015
+  global_id: t-188721
+  teiginys: 'Narbutas Pajautą apibūdino kaip Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su sostine Kernavėje, dukterį.'
+  pagrindžia:
+    - c-013
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 267224-267630; hash=966493f836b3fb549f8ce80df5eddbfc89048f5a35247ca20ed943707614640b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukurai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kernavė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Aukurai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernavė" parinktas kaip owner_note_path. Targetas "Aukurai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+<a id="claim-t-188722"></a>
+- t-016
+  global_id: t-188722
+  teiginys: 'Pasak Narbuto perteikiamų padavimų, XIII a. didžioji šventykla kurį laiką buvusi Kernavėje, o vėliau Vilniuje.'
+  pagrindžia:
+    - c-014
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 383293-383505; hash=fda26d12a95535b2c7c5cfb381a26e38c2ddf4e3024c3e7b9ef6fc9c84de8d12; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kernavė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernavė" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188723"></a>
+- t-017
+  global_id: t-188723
+  teiginys: 'Narbutas aiškino, kad iki Vilniaus įkūrimo XIII a. Kernavėje buvusi valstybės sostinė, vyriausiojo žynio buveinė ir šventykla.'
+  pagrindžia:
+    - c-015
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 468803-469216; hash=76e18fafb950a301d3126d140be31c50e3f32655ac302adc07e6e44d695174b4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žyniai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kernavė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Žyniai: mention_match, group, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernavė" parinktas kaip owner_note_path. Targetas "Žyniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Lietuva: Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu.
 - susijęs iš Lietuva: Kryžiuočiai, įsibrovę į Lietuvą su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, bet Vilniaus neužėmė.
 - susijęs iš Lenkija: Ordino viršininkas siekė pasinaudoti kaimynų nesutarimais ir išardyti Lietuvos bei Lenkijos sąjungą.
@@ -213,12 +285,15 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184432|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184706|Germantas]]: Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.
+- susijęs iš [[objektai/asmenys/Kernius.md#claim-t-188564|Kernius]]: Narbutas Kernių vaizduoja kaip Vidurio, arba Užnerio, Lietuvos kunigaikštį, kurio sostinė buvo Kernavė.
 - susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-184902|Živinbudas]]: Po Kerniaus mirties valdovu paskelbtas Živinbudas valstybės sostinę iš Deltuvos perkėlė į Kernavę.
+- susijęs iš [[objektai/grupes/Dausprungų giminė.md#claim-t-189487|Dausprungų giminė]]: Narbutas Dausprungų giminės Zivinbudą vadino Ukmergės srities kunigaikščiu, kuriam Pajauta kaip kraitį atnešė Kernavės kunigaikštystę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178817|Kryžiuočių ordinas]]: Lietuvių pasipriešinimas neatbaidė kryžiuočių nuo kasmetinių žygių iki Vilniaus, o 1384 m. jų antpuoliai siekė Kernavę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178834|Kryžiuočių ordinas]]: Ordino maršalas su 40 000 kryžiuočių įsiveržė į Lietuvą, susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.
 - susijęs iš [[objektai/grupes/Vytauto šalininkai.md#claim-t-86739|Vytauto šalininkai]]: Ordino maršalo vadovaujama kryžiuočių kariauna susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.
 - susijęs iš [[objektai/ivykiai/Gedimino pergalės šventimas Kernavėje ir Trakų įkūrimas (1321 m.).md#claim-t-185701|Gedimino pergalės šventimas Kernavėje ir Trakų įkūrimas (1321 m.)]]: 1321 m. Gediminas Kernavėje atšventė pergalę prieš Rusią, pagerbė dievus ir paleido apmokėtą bei apdovanotą kariuomenę.
 - susijęs iš [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu.md#claim-t-185712|Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]: Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
+- susijęs iš [[objektai/ivykiai/Kernavės sunaikinimas prieš Trakų pilies pastatymą.md#claim-t-189630|Kernavės sunaikinimas prieš Trakų pilies pastatymą]]: Narbutas siejo Trakų pilies statybą su XI a. rusinų žygiais į Lietuvą ir visišku Kernavės sunaikinimu.
 - susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Narimanto išrinkimas valdovu.md#claim-t-185713|Kernavės susirinkimas ir Narimanto išrinkimas valdovu]]: Valdovo ir kariuomenės netekę lietuvių didikai sukvietė Kernavės susirinkimą valstybės vidaus reikalams kuo greičiau sutvarkyti.
 - susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu.md#claim-t-185589|Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]: Kernavėje sukviestame susirinkime susirinko daug diduomenės, o lietuviai rėmė Vaišvilko išrinkimą valdovu.
 - susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu.md#claim-t-185590|Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]: Kernavės susirinkime dėl Vaišvilko valdžios abi ginčo pusės triukšmavo ir užsipuldinėjo viena kitą.
@@ -235,18 +310,21 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - susijęs iš Papartėnai: Persekiojami kryžiuočiai vis dėlto nuėjo iki Papartėnų netoli Kernavės.
 - susijęs iš Trakai: XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle penkių mylių atstumu nuo Kernavės.
 - susijęs iš Ukmergės pilis: Iš Vilniaus Žemutinės pilies vakarinių vartų kelias per tiltus ir keltą per Viliją vedė į Kernavę ir Ukmergės pilį.
+- susijęs iš Vidurio arba Užnerio Lietuva: Narbutas Pajautą vadino Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su sostine Kernave, dukterimi.
 - susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės.
 - susijęs iš Vilniaus tiltas per Viliją: Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184627|maršalas]]: Rūmų maršalas Kernavėje įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173193|Kazimieras Karigaila]]: Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.
+- susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-188600|Pajauta]]: Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo.
 - susijęs iš [[objektai/asmenys/Survila.md#claim-t-82731|Survila]]: 1365 m. Vinrichas Kniprodė Karaliaučiuje pakrikštijo Survilą ir Butautą, pasinaudojęs jų pabėgimu.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90048|Traidenis (valdovas, XIII a.)]]: Pirmasis iškilo Kernavės kunigaikštis Traidenis.
 - susijęs iš [[objektai/asmenys/Trobius.md#claim-t-186082|Trobius]]: Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis bus pavaldus Lietuvos didžiajam kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Vinrichas Kniprodė.md#claim-t-87590|Vinrichas Kniprodė]]: Vinrichas Kniprodė 1365 metais su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176639|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1390 m. sausio 19 d. prie Gardino Ordino pasiųstas komtūras sudarė sutartį su Vytautu.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176717|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Sausio 19 d. prie Gardino Ordino komtūras sudarė sutartį su Vytautu.
+- susijęs iš [[objektai/asmenys/Zivinbudas.md#claim-t-190222|Zivinbudas]]: Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikštis, vedė Kerniaus dukterį Pajautą.
 - susijęs iš [[objektai/daiktai/Goštauto liepa.md#claim-t-87027|Goštauto liepa]]: 1621 metais Petras Korkonas rašė, kad Petro Goštauto pasodinta liepa buvo vešli, drūta ir vadinta Goštauto liepa.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184542|Lietuviai]]: Kernavės susirinkime visi lietuviai rėmė Vaišvilką.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176084|Vilniaus kapitula]]: Tarp Verkių ir Panerių, priklausiusių Vilniaus bažnyčios kapitulai, buvo uždrausta naudoti plaustus per Vilijos upę.
@@ -265,6 +343,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Perkėlimai plaustais per Viliją buvo uždrausti tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo.
 - susijęs iš Paneriai: Perkėlimai plaustais per Vilijos upę buvo uždrausti tarp Verkių kaimo ir Panerių kaimo.
 - susijęs iš Paneriai: Perkėlimai plaustais per Viliją buvo draudžiami tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo.
+- susijęs iš Ukmergės sritis: Narbutas Zivinbudą vadino Dausprungų giminės Ukmergės srities kunigaikščiu, vedusiu Kerniaus dukterį Pajautą.
 - susijęs iš Verkiai: Valdovo draudimas neleido naudoti plaustų per Nerį tarp Verkių kaimo ir Panerių kaimo.
 - susijęs iš Verkiai: Per Viliją tarp Verkių ir Panerių buvo uždrausta naudoti plaustus perkėlimui.
 - susijęs iš Vilijos upė: Per Vilijos upę tarp Verkių ir Panerių buvo uždrausti perkėlimai plaustais, kad nebūtų kenkiama nustatytam muitui.
@@ -277,7 +356,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178817|Kryžiuočių ordinas]]: Lietuvių pasipriešinimas neatbaidė kryžiuočių nuo kasmetinių žygių iki Vilniaus, o 1384 m. jų antpuoliai siekė Kernavę.
 - susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-184902|Živinbudas]]: Po Kerniaus mirties valdovu paskelbtas Živinbudas valstybės sostinę iš Deltuvos perkėlė į Kernavę.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -527,6 +605,92 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+- c-012
+  santrauka: 'Narbutas cituoja aiškinimą, kad Neries deivės aukurai buvę įvairiose pakrantės vietose, pirmiausia Kernavėje prie Neriškių miško.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Te tavo Neris (a) apreiškia ir dievams,
+    Kurių valdžioje jūrų gelmės,
+    Mano kančias ir nenumaldomą gailestį.
+    Pasakyk, Vilijos upės skaisčiausioji deive,
+    Nimfoms -  tavo sesėms, vandens dievybėms,
+    Kokia didi ugnis sudegino tavo blakstienas,
+    Kaip buvai beužtrokštanti nuo mirtinų dūmų,
+    Kaip tavo vandenys, bejėgiai užgesinti šį karštį,
+    Dejuodami skalavo miesto pelenus)
+    Autorius prideda tokius paaiškinimus: a) „Fama commu­
+    nis refert -  žmonės pasakoja, kad Neris -  tai upės Vilijos nim­
+    fa, kurią lietuviai stabmeldžiai garbino kaip deivę. Ji taip pat
+    turėjo jai skirtus savus aukurus įvairiose vietose, upės pakran­
+    tėse, pirmiausia vietovėje, vadintoje Kernave, kur buvo ir Ne-
+    riškių miškas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014
+- c-013
+  santrauka: 'Narbutas Pajautą apibūdino kaip Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su sostine Kernavėje, dukterį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Nereikia tapatinti Medziojnos
+    su Medžiojma, kurią laikėme medžiotojų deive, vadinama
+    Laima.
+    154
+
+    ## Puslapis 154
+
+    Pajauta (Pojata)
+    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
+    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
+    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
+    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
+    šė paveldimą Kernavės kunigaikštystę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-015
+- c-014
+  santrauka: 'Pasak Narbuto perteikiamų padavimų, XIII a. didžioji šventykla kurį laiką buvusi Kernavėje, o vėliau Vilniuje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    To­
+    kie yra praamžių padavimai. XIII amžiuje, vyriausiesiems žy­
+    niams persikėlus į Lietuvą, didžioji šventykla buvo įvairiose
+    vietose, vėliau Kernavėje, pagaliau Vilniuje, joje panašiai de­
+    gė šventoji ugnis.
+    4.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-016
+- c-015
+  santrauka: 'Narbutas aiškino, kad iki Vilniaus įkūrimo XIII a. Kernavėje buvusi valstybės sostinė, vyriausiojo žynio buveinė ir šventykla.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Taip pat ir žemesnės kate­
+    gorijos žyniai įsirengdavo laikinus arba pastovius aukurus miš­
+    kuose, po šventaisiais medžiais, upių, ežerų pakrantėse, vidu­
+    ry miestų turgaviečių ir ten prireikus atnašaudavo aukas.
+    Kol buvo įkurtas Vilnius, XIII amžiuje valstybės sostinė ir
+    vyriausiojo žynio buveinė buvo Kernavėje, todėl ten turėjo būti
+    ir vyriausioji šventykla.
+    Greitai augantis Vilnius turėjo ne vieną šventyklą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-017
 
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] uzeme Kernavė

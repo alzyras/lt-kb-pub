@@ -125,4 +125,4 @@ Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusb
 
 ## Ryšiai
 - Tomas Aldenburgas puole [[objektai/vietos/Gedimino pilis Castrum Gedemini]]
-- Tomas Aldenburgas puole [[objektai/asmenys/Gediminas]]
+- Tomas Aldenburgas puole [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

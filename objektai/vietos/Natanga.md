@@ -85,4 +85,4 @@ Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusb
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytenis]] puole Natanga
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Natanga

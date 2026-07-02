@@ -258,6 +258,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
 - susijęs iš [[objektai/asmenys/Jonas Hlebavičius.md#claim-t-87393|Jonas Hlebavičius]]: Jonas Hlebavičius 1581 m. vasario 13 d. dokumente nurodytas kaip Minsko kaštelionas, krašto paiždininkis ir raštininkas.
 - susijęs iš [[objektai/grupes/Litvinai.md#claim-t-188046|Litvinai]]: Narbutui skirtame įvadiniame straipsnyje „litvinais“ vadinami Vilniaus, Kauno, Gardino ir Minsko gubernijų bajorai katalikai.
+- susijęs iš [[objektai/grupes/Litvinai.md#claim-t-188288|Litvinai]]: Narbutui skirtame įvadiniame straipsnyje „litvinais“ vadinami Vilniaus, Kauno, Gardino ir Minsko gubernijų bajorai katalikai.
 - susijęs iš [[objektai/ivykiai/Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula.md#claim-t-185582|Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula]]: Glinskis nutraukė Minsko apgulą, nužygiavo į Borisovą ir Oršą, o karalius Žygimantas atkakliai persekiojo atsitraukiantį Glinskį.
 - susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185753|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
 - susijęs iš Ткачоў М. А. Абарочнычя забудаваннi заходнix зямель Беларуci XIII—XVIII ст. ст: M. A. Tkačiovo darbas apie Vakarų Baltarusijos žemių gynybinius statinius išleistas Minske 1978 m.
@@ -265,6 +266,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - susijęs iš Gardino gubernija: 1843 m. prie Vilniaus gubernijos prijungtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms.
 - susijęs iš Gardino gubernija: 1843 m. prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms.
 - susijęs iš Juodoji Rusia: Didžiajam kunigaikščiui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.
+- susijęs iš Kauno gubernija: Kauno gubernija šiame apibūdinime priskiriama istorinei Lietuvai kartu su Vilniaus, Gardino ir Minsko gubernijomis.
 - susijęs iš Minsko Lietuva: Lietuviai nebepretendavo į Minsko Lietuvą, bet neįsivaizdavo savo valstybės be istorinės sostinės Vilniaus.
 - susijęs iš Minsko Lietuva: Lenkiškoje trijų dalių Lietuvos sampratoje Minsko Lietuva buvo siejama su senosiomis rusėniškosiomis LDK žemėmis.
 - susijęs iš Minsko Lietuva: Minsko Lietuva vadintos į rytus nuo Vidurinės Lietuvos buvusios senosios rusėniškosios LDK žemės.
@@ -275,6 +277,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - susijęs iš Sluckas: Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti.
 - susijęs iš Sluckas: 1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.
 - susijęs iš Sluckas: 1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.
+- susijęs iš Vilniaus gubernija: Narbutui istorinė Lietuva apėmė Vilniaus, Kauno, Gardino ir Minsko gubernijas, o „litvinais“ vadinti tenykščiai katalikų bajorai.
 - susijęs iš Vitebskas: Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.
 - susijęs iš Zaslavlis: Zaslavlis buvo gyvenvietė apie 20 km į šiaurės vakarus nuo Minsko.
 - susijęs iš [[objektai/asmenys/Danielius iš Lenčicos.md#claim-t-87647|Danielius iš Lenčicos]]: Apie 1580 m. Vilniuje klestėjo evangelikų reformatų Danieliaus iš Lenčicos spaustuvė.
@@ -311,8 +314,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - susijęs iš Brasta: Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.
 - susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
 - susijęs iš Dnepras: Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų.
-- susijęs iš Gardinas: Gardine atsirado jėzuitų kolegija, funduota Smolensko vyskupo Isaikovskio ir kitų rėmėjų.
 - susijęs iš Kauno gubernija: 1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.
+- susijęs iš Kauno gubernija: Vien Kauno gubernijoje kariuomenės egzekucijų prieš valstiečius buvo surengta 117.
 - susijęs iš Kijevas: Po sąmokslininkų puolimo Švitrigaila paspruko į Polocką ir perėmė Kijevo bei kelias kitas sritis.
 - susijęs iš Kijevas: Vytauto vadovaujamos LDK ir sąjungininkų pajėgos 1399 m. liepos pabaigoje išžygiavo iš Kijevo.
 - susijęs iš Kražiai: Kražiuose atsirado jėzuitų kolegija, funduota didžiojo etmono Jono Karolio Katkevičiaus.
@@ -322,6 +325,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
 - susijęs iš Pašiaušė: Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.
 - susijęs iš Polockas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.
+- susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
 - susijęs iš Sluckas: Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.
 - susijęs iš Smolenskas: Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų.
 - susijęs iš Smolenskas: Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis.
@@ -335,6 +339,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - susijęs iš Vilnius: 1506 m. totoriams nusitaikius į Vilnių, miestiečiai apjuosė miestą mūro pylimu.
 - susijęs iš Vilnius: Rengiant 1579 m. karo žygį Vilniuje buvo įsteigta patrankų liejykla.
 - susijęs iš Vilnius: Dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau sutvirtinti Vilnių.
+- susijęs iš Vilnius: Narbutas rašė, kad XVII a. pradžioje jėzuitai greta Vilniaus esančio kaimo mokykloje ant mokinio kaklo pastebėjo maišelį.
 - susijęs iš Vitebskas: Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis.
 - susijęs iš Vitebskas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį.
 - susijęs iš Vitebskas: Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija.
@@ -344,7 +349,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - susijęs iš Žuvų turgus Vilniuje (sujungti pirminiai pavadinimai Žuvų turgavietė; Žuvų turgus Vilniuje): 1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė lėšas iš namų ir sklypų, tarp jų Liaudanskų mūrinio namo Žuvų turgavietės gale.
 - susijęs iš [[objektai/zodynas/algininkai.md#claim-t-185364|algininkai]]: Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas.
 - susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185753|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
-- susijęs iš [[objektai/grupes/Litvinai.md#claim-t-188046|Litvinai]]: Narbutui skirtame įvadiniame straipsnyje „litvinais“ vadinami Vilniaus, Kauno, Gardino ir Minsko gubernijų bajorai katalikai.
 - susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89431|Mūro sienos ir miesto sienos]]: 1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
 ## Reikšmingi paminėjimai
@@ -706,6 +710,5 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - [[objektai/grupes/Totoriai]] puole Minskas
 - Minskas priklause [[objektai/grupes/Slavai]]
 - [[objektai/asmenys/Aleksandras]] keliavo_i Minskas
-- [[objektai/grupes/Litvinai]] gyveno Minskas
 - [[objektai/grupes/Vilniaus miestiečių luomas]] prekiavo_su Minskas
 - [[objektai/asmenys/A. N. Trubeckojus]] surenge_zygi_i Minskas

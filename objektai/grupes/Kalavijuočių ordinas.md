@@ -424,6 +424,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78784|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę“ autoriai.
 - susijęs iš [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju.md#claim-t-47800|Baltas apsiaustas su išsiuvinėtu kalaviju]]: Kalavijuočių ordino nariai ant balto apsiausto, be raudono kryžiaus, nešiojo išsiuvinėtą kalaviją.
 - susijęs iš [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju.md#claim-t-47801|Baltas apsiaustas su išsiuvinėtu kalaviju]]: Kalavijuočių ordino nariai ant balto apsiausto, be raudono kryžiaus, nešiojo išsiuvinėtą kalaviją.
+- susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-188381|Dievų stabai]]: Narbutas rašė, kad Lietuvai priimant krikščionybę dievų stabai buvo labiausiai naikinami, ypač kryžiuočių ir kalavijuočių riterių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178972|Kryžiuočių ordinas]]: Vokiečių ordinas Prūsuose įsigijo didelius žemės plotus, juos kolonizavo ir, laimėjęs Vislos žiotis bei Pamarį, sustiprėjo.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179023|Kryžiuočių ordinas]]: 1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179289|Lietuviai]]: Lietuvių ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš pavyslyje įsikūrusį Kryžiuočių ordiną.
@@ -942,8 +943,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 
 ## Ryšiai
 - Kalavijuočių ordinas priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]] sudare_sutarti_su Kalavijuočių ordinas
 - Kalavijuočių ordinas puole [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]] sudare_sutarti_su Kalavijuočių ordinas
 - Kalavijuočių ordinas puole [[objektai/vietos/Šiauliai]]
 - [[objektai/grupes/Lietuviai]] kariavo_pries Kalavijuočių ordinas
 - [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Kalavijuočių ordinas

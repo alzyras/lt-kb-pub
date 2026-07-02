@@ -3,6 +3,7 @@ tipas: saltinis
 pavadinimas: 'Vulfstano pasakojimas'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '890 m.'
 date_start: '890'
@@ -13,13 +14,13 @@ variantai:
   - 'Wulfstano pasakojimai'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'IX'
 tags:
   - dokumentas
   - ežeras
   - karas
   - kraštas
-amziai:
-  - 'IX'
 ---
 # Vulfstano pasakojimas
 
@@ -28,7 +29,6 @@ amziai:
 Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Truso. Dusburgietis teigia, kad apie vieną stebuklą Daug kartų Elbingo broliai garbingai kariavo su pagudėnais, o tų karų niekas nestengtų 241 Kalbama apie Aismares (Vulfstano Estmere — SRP, I, p. 733).
 
 ## Teiginiai
-
 <a id="claim-t-61016"></a>
 - t-001
   global_id: t-61016
@@ -70,8 +70,26 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
   ryšio_targeto_parinkimas: Aismares: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vulfstano pasakojimas" parinktas kaip owner_note_path. Targetas "Aismares" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
-## Reikšmingi paminėjimai
+<a id="claim-t-188503"></a>
+- t-003
+  global_id: t-188503
+  teiginys: 'Narbutas nurodo, kad pagal Vulfstano pasakojimą senovės prūsai mokėję kelis mėnesius namuose išlaikyti mirusiųjų kūnus.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 661589-662060; hash=2c0abf25fe7526cbbf5ec3865a0ace6ad4da6880dc55f8c9674a918385aba5b3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vulfstano pasakojimas: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, group, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vulfstano pasakojimas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -110,3 +128,24 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Narbutas nurodo, kad pagal Vulfstano pasakojimą senovės prūsai mokėję kelis mėnesius namuose išlaikyti mirusiųjų kūnus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Paga­
+    liau atrodo, kad kai kurie iš tų pilkapių būdavo naudojami
+    kaip visos šeimos kapai; pradedant juos pilti, būdavo galvoja­
+    ma apie vietas šeimos nariams, mirsiantiems vėliau6.
+    Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
+    panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
+    nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma
+    kitame šio veikalo tome.
+    Kai kuriuos žymius žmones Lietuvoje kartais laidodavo
+    prie didelių akmenų, esančių laukuose.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

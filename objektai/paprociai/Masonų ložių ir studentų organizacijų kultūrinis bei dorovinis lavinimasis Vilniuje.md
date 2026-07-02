@@ -11,12 +11,12 @@ date_start: '1812'
 date_end: '1817'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIX'
 tags:
   - mokslininkas
   - paprotys
   - ritualas
-amziai:
-  - 'XIX'
 ---
 # Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje
 
@@ -45,7 +45,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-187823"></a>
 - t-001
   global_id: t-187823
@@ -58,22 +57,6 @@ Nenurodyta
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9631d4c4b55ae8de51d93171001f6e968ea3b716ba8a1a1774e911bb4f36f809; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair
-
-<a id="claim-t-187824"></a>
-- t-002
-  global_id: t-187824
-  teiginys: 'N. Vėlius nurodo, kad 1817 m. T. Narbutas, R. Klimavičiaus nuomone, įstojo į masonų organizaciją, o po to rašė ugdymo ir auklėjimo temomis.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai išlaiko R. Klimavičiaus nuomonės atribuciją dėl 1817 m. Narbuto įstojimo. Vėlesnis rašymas apie ugdymą paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Masonų apeigų taurė|Masonų apeigų taurė]]; mentioned_author: [[objektai/autoriai/Antanas Marcinovskis|Antanas Marcinovskis]]; mentioned_author: [[objektai/autoriai/Norbertas Vėlius|Norbertas Vėlius]]; mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]'
-  temporaliniai_duomenys: 'įvykio data: 1817 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai išlaiko R. Klimavičiaus nuomonės atribuciją dėl 1817 m. Narbuto įstojimo. Vėlesnis rašymas apie ugdymą paremtas citata.'
-  pagrindžia:
-    - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 194255-194598; hash=0525e4a3c6945b5156f8aec471a30d85d68a269f4c1407ead9e4257064de539b; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair
 
 <a id="claim-t-187825"></a>
@@ -90,16 +73,35 @@ Nenurodyta
   saltinio_vieta: 194255-194598; hash=0525e4a3c6945b5156f8aec471a30d85d68a269f4c1407ead9e4257064de539b; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair
 
-<a id="claim-t-187827"></a>
-- t-005
-  global_id: t-187827
-  teiginys: 'N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas.'
+<a id="claim-t-187828"></a>
+- t-006
+  global_id: t-187828
+  teiginys: 'Universitete veikė studentų organizacijos, kurios rūpinosi kultūriniu ir doroviniu tobulėjimu bei ištikimybe tiesai, laisvei ir Tėvynei.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Masonų apeigų taurė|Masonų apeigų taurė]]; mentioned_author: [[objektai/autoriai/Antanas Marcinovskis|Antanas Marcinovskis]]; mentioned_author: [[objektai/autoriai/Norbertas Vėlius|Norbertas Vėlius]]; mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]'
-  temporaliniai_duomenys: 'įvykio data: 1817 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-001
+    - c-004
+- t-008
+  teiginys: 'N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas.'
+  pagrindžia:
+    - c-005
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 7984-8516; hash=58669e76b7493ab54c711ef14d03b8883a2845bf709f707293ae2bc64181d050; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair
+  ryšio_patikimumas: susije_su -> Masonų apeigų taurė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Masonų apeigų taurė: mention_match, thing, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje" parinktas kaip owner_note_path. Targetas "Masonų apeigų taurė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- t-008
+  teiginys: 'R. Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją, vėliau rašė ugdymo ir auklėjimo temomis.'
+  pagrindžia:
+    - c-005
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 7984-8516; hash=58669e76b7493ab54c711ef14d03b8883a2845bf709f707293ae2bc64181d050; match=exact
   sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair
@@ -111,36 +113,7 @@ Nenurodyta
   ryšio_targeto_parinkimas: Masonų apeigų taurė: mention_match, thing, gap=39
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje" parinktas kaip owner_note_path. Targetas "Masonų apeigų taurė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
-<a id="claim-t-187828"></a>
-- t-006
-  global_id: t-187828
-  teiginys: 'Universitete veikė studentų organizacijos, kurios rūpinosi kultūriniu ir doroviniu tobulėjimu bei ištikimybe tiesai, laisvei ir Tėvynei.'
-  teiginio_tipas: 'faktas'
-  pagrindžia:
-    - c-004
-
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Masonų organizacijose kampainis simboli­
-    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
-    čiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
-    mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
-    organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
-    mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
-    Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­
-    odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
-    Marcinovskis taip pat priklausė masonų organizacijai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-005
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -193,3 +166,24 @@ Nenurodyta
   pagrindžia:
     - t-006
     - t-003
+- c-005
+  santrauka: 'N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Masonų organizacijose kampainis simboli­
+    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
+    čiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
+    mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
+    organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
+    mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
+    Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­
+    odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
+    Marcinovskis taip pat priklausė masonų organizacijai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+    - t-008

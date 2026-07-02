@@ -7,32 +7,37 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1219 m.'
   - '1265 m.'
 date_start: '1219'
 date_end: '1265'
+description: 'Mindaugas – pirmasis Lietuvos valdovas, 1253 m. karūnuotas karaliumi, sukūręs ankstyvąją valstybę ir žuvęs 1263 m.'
+socialDescription: 'Mindaugas – pirmasis Lietuvos karalius, siejamas su valstybės sukūrimu, krikštu, karūnacija ir XIII a. politinėmis kovomis.'
+seo_atnaujinta: '2026-07-02T19:20:23.311725+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - mokslininkas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 ---
 # Mindaugas (valdovas, XIII a.)
 
 ## Santrauka
 
-Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos. viduryje, jos pirmasis valdovas Mindaugas net. 1253 VII 6 susikūrusios Lietuvos valstybės valdovas Mindaugas vainikuojasi karaliumi.
+Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m. karūnuotas karaliumi. Jis sukūrė ankstyvąją Lietuvos valstybę ir laikinai įtraukė ją į Europos šalių sistemą. 1263 m. Mindaugas žuvo dėl giminės nesantaikos, kilusios nepasitenkinus jo politika vokiečių atžvilgiu.
 
 ## Teiginiai
-
 <a id="claim-t-113898"></a>
 - t-001
   global_id: t-113898
@@ -551,6 +556,43 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=74
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188583"></a>
+- t-040
+  global_id: t-188583
+  teiginys: 'Narbutas Mindaugą vadina Lietuvos ir Rusios kunigaikščiu ir jo žudikais įvardija Daumantą, Treniotą bei Tautvilą.'
+  pagrindžia:
+    - c-029
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 361902-362470; hash=42814831abeba1cdd1af9a2410c1c598820bce383d98c364e08c4dde2d159726; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188584"></a>
+- t-041
+  global_id: t-188584
+  teiginys: 'Narbutas Mindaugo valdymo pradžią sieja su 1240 metais ir nuo jos skiria aiškesnės Lietuvos istorijos laikotarpį.'
+  pagrindžia:
+    - c-030
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 830364-830581; hash=7cc14822ce682d3315a56ed0ddd315232cdceb2dec4b6f670787bd0dfc8c62f2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: valde -> Lietuva: 0.74
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mindaugo valdymas tekste naudojamas Lietuvos istorijos periodui apibrėžti.
 - susijęs iš Naugardukas: Naugarduke tėvo įkurdintas Vaišelga siejamas su lietuvių kunigaikščių kūrimusi Rusios žemėse.
 - susijęs iš Naugardukas: Mindaugo sūnus Vaišelga buvo įkurdintas Naugarduke, o ši žemė jungta prie Lietuvos valstybės.
 - susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-13489|Mindaugo karūnacija (1253 m.)]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.
@@ -565,12 +607,12 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05161|Daumantas (kunigaikštis, XV a.)]]: Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184683|Daumantas (kunigaikštis, XV a.)]]: Daumantas buvo Nalšios kunigaikštis, kurio žmona, karalienės sesuo, atvyko į Mindaugo žmonos šermenis.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-82252|Daumantas (kunigaikštis, XV a.)]]: Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176349|Gediminas]]: Gediminas dar labiau sutvirtino Mindaugo įkurtą Lietuvos valstybę ir davė pradžią naujai galingai dinastijai.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176349|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas dar labiau sutvirtino Mindaugo įkurtą Lietuvos valstybę ir davė pradžią naujai galingai dinastijai.
 - susijęs iš [[objektai/asmenys/Gedvydas.md#claim-t-40121|Gedvydas]]: 1249 m. Gedvydas neteko valdų, kai Mindaugas, stiprindamas centrinę valdžią, jas atėmė iš Vykinto, Tautvilo ir Gedvydo.
 - susijęs iš [[objektai/asmenys/Klemensas IV.md#claim-t-183552|Klemensas IV]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“.
 - susijęs iš [[objektai/asmenys/Klemensas IV.md#claim-t-19064|Klemensas IV]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-183554|Kristijonas]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie popiežiaus santykius su Europos valdovais.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93430|Kristijonas]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-183554|Kristijonas (vyskupas, XIII a.)]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie popiežiaus santykius su Europos valdovais.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93430|Kristijonas (vyskupas, XIII a.)]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją.
 - susijęs iš [[objektai/asmenys/Maukoldas.md#claim-t-87550|Maukoldas]]: Maukoldas, pasak šaltinyje perteikto pasakojimo, buvo Rostislavo Rogvoldovičiaus sūnus ir Mindaugo tėvas.
 - susijęs iš [[objektai/asmenys/Morta.md#claim-t-19156|Morta]]: 1251 m. pavasarį arba vasaros pradžioje Morta kartu su Mindaugu gavo krikštą.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-05200|Traidenis (valdovas, XIII a.)]]: Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu baltų žemių jungėju.
@@ -659,13 +701,14 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/asmenys/Edividas.md#claim-t-35053|Edividas]]: Mindaugo sūnėnas Edividas įsigyveno Drutske, kai Lietuvos valdžia plito Baltojoje Rusijoje.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54966|Fridrichas (Rygos arkivyskupas)]]: Vytenis laišku prašė Rygos arkivyskupo Fridricho ir popiežiaus legato Pranciškaus atsiųsti jam minoritų.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89710|Fridrichas (Rygos arkivyskupas)]]: Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam minoritų.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176337|Gediminas]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176342|Gediminas]]: Gediminas valdė 1316–1341 m. ir davė vardą Gediminaičių dinastijai.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176396|Gediminas]]: Gediminas, kaip skelbė Prūsijoje pasklidęs gandas, į visas šalis išsiuntinėjo laiškus apie norą priimti krikštą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176398|Gediminas]]: Gediminas savo monarchijos galią grindė lietuvių ir rusų riterių priklausomybe aukščiausiajai feodalinei valdžiai.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-183532|Gediminas]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176337|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176342|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas valdė 1316–1341 m. ir davė vardą Gediminaičių dinastijai.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176368|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų pakirtęs Ordino egzistavimo pagrindą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176396|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, kaip skelbė Prūsijoje pasklidęs gandas, į visas šalis išsiuntinėjo laiškus apie norą priimti krikštą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176398|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas savo monarchijos galią grindė lietuvių ir rusų riterių priklausomybe aukščiausiajai feodalinei valdžiai.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-183532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113787|Goštautas (vyskupas, XV a.)]]: Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
 - susijęs iš [[objektai/asmenys/Hanulis.md#claim-t-30259|Hanulis]]: Hanulis buvo Jogailai nusipelnęs svarbus patarėjas ir minėtas visose trijose Jogailos bei Skirgailos vardu sudarytose sutartyse.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175191|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
@@ -680,23 +723,25 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97456|Kaributas]]: Kaributas iki 1393 m. valdė Naugardo Sieversko kunigaikštiją, iš kurios jį pašalino Vytautas.
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97457|Kaributas]]: Kaributas, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.
 - susijęs iš [[objektai/asmenys/Karigaila.md#claim-t-63794|Karigaila]]: Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93433|Kristijonas]]: Mindaugo diecezijos vyskupas Kristijonas 1259 m. galutinai pasitraukė į Vokietiją, o jo įpėdiniai į lietuvių žemę nebegrįžo.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93433|Kristijonas (vyskupas, XIII a.)]]: Mindaugo diecezijos vyskupas Kristijonas 1259 m. galutinai pasitraukė į Vokietiją, o jo įpėdiniai į lietuvių žemę nebegrįžo.
 - susijęs iš [[objektai/asmenys/Lengvenis.md#claim-t-47953|Lengvenis]]: Lengvenis buvo vienas iš penkių Jogailos brolių, minimų liudininkais trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.
 - susijęs iš [[objektai/asmenys/Mantas.md#claim-t-60479|Mantas]]: Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
 - susijęs iš [[objektai/asmenys/Pranciškus (popiežiaus legatas).md#claim-t-87564|Pranciškus (popiežiaus legatas)]]: Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų į pastatytą bažnyčią.
 - susijęs iš [[objektai/asmenys/Pukuveras.md#claim-t-60196|Pukuveras (Lietuvos karalius, XIII a.)]]: Pukuveras buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais.
+- susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-188621|Tautvila]]: Narbutas pasakoja, kad po Mindaugo žūties Polocko kunigaikštį Tautvilą per ginčą dėl grobio nužudė Treniota.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121172|Tautvilas]]: Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121173|Tautvilas]]: Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-05203|Traidenis (valdovas, XIII a.)]]: Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90046|Traidenis (valdovas, XIII a.)]]: Traidenis 1269-1282 m., remdamas žiemgalius, telkė jėgas kovai Prūsijoje.
 - susijęs iš [[objektai/asmenys/Treniota Vykintaitis.md#claim-t-40480|Treniota Vykintaitis]]: Tikėtina, kad Treniota Vykintaitis vadovavo lietuvių kariuomenei Durbės mūšyje.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-184849|Treniota]]: Keturi Mindaugo asmeninės sargybos kariai nužudė Treniotą, kai dar nebuvo praėję nė metai nuo jo viešpatavimo pradžios.
+- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-188644|Treniota]]: Narbutas pasakoja, kad po Mindaugo žūties dėl grobio susikivirčijęs Žemaičių Treniota nužudė Polocko kunigaikštį Tautvilą.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90062|Treniota]]: 1264 m. Mindaugo šalininkai nužudė Treniotą, o Lietuvos valdovu tapo Mindaugo sūnus Vaišelga.
 - susijęs iš [[objektai/asmenys/Vaišelga.md#claim-t-183573|Vaišelga (kunigaikštis)]]: 1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.
 - susijęs iš [[objektai/asmenys/Vaišelga.md#claim-t-82777|Vaišelga (kunigaikštis)]]: Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir tapęs vienuoliu.
 - susijęs iš [[objektai/asmenys/Vygandas.md#claim-t-30415|Vygandas]]: Vygandas buvo vienas iš penkių Jogailos brolių, Julijonos sūnų, paminėtų liudininkais trijose Jogailos ir Skirgailos sutartyse.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176695|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas siekė gauti karūną ir Vakarų pripažinimą.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176828|Vytenis]]: Vytenis buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176828|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais.
 - susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184894|Zemovitas]]: Mindaugas, padedamas rusų, įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179723|Švitrigaila]]: Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.
 - susijęs iš [[objektai/autoriai/A. Prochaska.md#claim-t-47869|A. Prochaska]]: A. Prochaska parašė „Stosunki krzyżaków z Gediminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“.
@@ -709,7 +754,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78777|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą apie Kalavijuočių ordino ir kryžininkų įsiveržimą į Šiaulių žemę.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78784|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę“ autoriai.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78789|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Lietuvos teritoriją iki 1341 m.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181472|Petras Dusburgietis]]: Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.
 - susijęs iš [[objektai/autoriai/St. Smolka.md#claim-t-54136|St. Smolka]]: St. Smolka 1889 m. paskelbė veikalą „Kiejstut i Jagiełło“.
 - susijęs iš [[objektai/daiktai/Arbaletai.md#claim-t-186830|Arbaletai]]: Lietuvos metraštyje pasakojama, kad prieš vokiečius išjoję Mindaugo kariai buvo ginkluoti arbaletais.
 - susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186816|Karūna]]: Mindaugo krikšto svarbiausias tikslas buvo karūna, kurią jis pasiekė 1253 m. liepos 6 d.
@@ -754,10 +798,12 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89343|Žiemgaliai]]: 1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai negalėjo įveikti.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89344|Žiemgaliai]]: Traidenis 1269-1282 m. rėmė žiemgalius ir telkė jėgas kovai Prūsijoje.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89357|Žiemgaliai]]: 1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė.
+- susijęs iš [[objektai/ivykiai/1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje.md#claim-t-189636|1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje]]: Onacevičiaus periodizacijoje aiškesnės Lietuvos istorijos epocha baigiasi 1386 m., kai Jogaila vedė Jadvygą ir Lietuvoje buvo įvesta krikščionybė.
 - susijęs iš [[objektai/ivykiai/Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių.md#claim-t-185569|Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių]]: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 - susijęs iš [[objektai/ivykiai/I Lietuvos Statuto priėmimas.md#claim-t-187472|I Lietuvos Statuto priėmimas]]: Alberto Goštauto pagyrimas Žygimantui II Kazimieraičiui buvo parašytas 1529 m. I Lietuvos Statuto priėmimo proga.
 - susijęs iš [[objektai/ivykiai/I Lietuvos Statuto priėmimas.md#claim-t-187473|I Lietuvos Statuto priėmimas]]: 1529 m. buvo priimtas I Lietuvos Statutas.
 - susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66638|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.
+- susijęs iš [[objektai/ivykiai/Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai.md#claim-t-189604|Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai (krikštas, XIII–XIV a.)]]: Narbutas Mindaugo–1386 m. laikotarpį užbaigia Lietuvos krikščionybės įvedimu, Jogailos vedybomis su Jadvyga ir tautos vertimu krikštytis.
 - susijęs iš [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.).md#claim-t-71753|Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]: 1219 m. sutarties sąraše šalia vyresniųjų Lietuvos kunigų buvo išvardyti keturi vėliau nebesutinkami Deltuvos kunigai.
 - susijęs iš [[objektai/ivykiai/Lietuvos valstybės sukūrimas XIII a. viduryje.md#claim-t-75203|Lietuvos valstybės sukūrimas XIII a. viduryje]]: Lietuvių pagoniškosios religijos išsikristalizavimas dažniausiai siejamas su Lietuvos valstybės kūrimosi laikais.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.).md#claim-t-185612|Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.)]]: 1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju.
@@ -833,6 +879,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš Dainava: Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo autentiškumo nėra keliama abejonių, yra minima Dainava (Denowe, Deynowe, Dainowe).
 - susijęs iš Dauguvos žiotys: 1202 m. Dauguvos žiotyse susikūrė Kalavijuočių ordinas, vėliau pradėjęs užkariauti lybius, latvius, estus ir kuršius.
 - susijęs iš Deltuva: Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų .
+- susijęs iš Deltuva: Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos.
 - susijęs iš Dnepras: Mindaugas pasiuntė visą savo kariuomenę už Dnepro prieš Romaną, Briansko kunigaikštį.
 - susijęs iš Dobė: 1259-1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti.
 - susijęs iš Dubysa: Priešui įsiveržus į Dubysos aukštupį, buvo aktyvuotas antrasis gynybos variantas.
@@ -891,6 +938,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš Polockas: Vytenio ir Gedimino laikais Polockas 1307 m. buvo prijungtas prie Lietuvos kaip Baltosios Rusios dalis.
 - susijęs iš Polockas: Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
 - susijęs iš Polockas: Gedimino ar Algirdo laikais Polocko žemės telkėsi apie Lietuvą kaip politinės sistemos centrą.
+- susijęs iš Polockas: Narbutas pasakoja, kad po Mindaugo žūties Treniota nužudė Polocko Tautvilą, o bijodamas polockiečių keršto įkalino Polocko bajorus.
 - susijęs iš Prieglius: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš Pskovas: 1183 m. lietuviai per pirmąjį savarankišką žygį į Rusios žemes nusiaubė Pskovą ir pakeliui turbūt Polocką.
 - susijęs iš Pskovas: Gedimino ar Algirdo laikais Pskovas buvo Lietuvos politinėje įtakoje.
@@ -952,7 +1000,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05161|Daumantas (kunigaikštis, XV a.)]]: Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184684|Daumantas (kunigaikštis, XV a.)]]: Po Mindaugo padarytos skriaudos Daumantas slėpė keršto troškimą ir slapta tardavosi su Treniota.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Pasak eiliuotosios Livonijos kronikos, 1244 m. Mindaugas su 30 000 lietuvių nuniokojo Livonijos Ordino žemes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1523,6 +1570,43 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
+- c-029
+  santrauka: 'Narbutas Mindaugą vadina Lietuvos ir Rusios kunigaikščiu ir jo žudikais įvardija Daumantą, Treniotą bei Tautvilą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šiojo sūnus Liu­
+    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
+    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
+    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
+    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
+    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
+    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
+    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
+    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
+    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-040
+- c-030
+  santrauka: 'Narbutas Mindaugo valdymo pradžią sieja su 1240 metais ir nuo jos skiria aiškesnės Lietuvos istorijos laikotarpį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    II. Abejotinos istorijos periodas, tai yra nuo nuolatinių Lie­
+    tuvos žygių i rusų kraštus (Pskovą ir Naugardą) iki 1240 metų,
+    tai yra Mindaugo valdymo.
+    III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
+    metų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-041
 
 ## Ryšiai
 - [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]] buvo_sunus Mindaugas (valdovas, XIII a.)

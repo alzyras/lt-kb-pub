@@ -45,7 +45,9 @@ amziai:
   ryšio_subjekto_parinkimas: Žirmūnai: llm_allowed_candidate, place
   ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
   ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Žirmūnai pastatyti Vilniuje.
+- susijęs iš [[objektai/zodynas/Trakai Troki.md#claim-t-189142|Trakai Troki]]: Narbutas kaip Trakų vardo paplitimo pavyzdį nurodė Trakais vadintą mišką Lydos apskrities Žirmūnų parapijoje.
 - susijęs iš Žizdra: Žizdra šiame gabale tikėtina įtraukta į vietovardžių rodyklę.
+- susijęs iš [[objektai/zodynas/Risietis.md#claim-t-189327|Risietis]]: Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė mintį, kad šio žodžio nereikėjo skolintis iš svetimos kalbos.
 ## Reikšmingi paminėjimai
 
 - c-001

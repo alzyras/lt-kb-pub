@@ -41,8 +41,8 @@ Dusburgietis teigia, kad nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikš
 - susijęs iš Pasakojimas apie Teutonų ordino pradžią: „Pasakojime apie Vokiečių ordino pradžią“ nurodoma, kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę.
 - susijęs iš Vokiečių ordino statutų prologas: Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai Akono apgulos metu vyrai iš Bremeno ir Liubeko įrengė ligoninę.
 - susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60014|Fridrichas (Švabijos kunigaikštis)]]: Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį Henriką, kad šis tarpininkautų popiežiaus kurijoje.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176343|Gediminas]]: Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176343|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.
 - susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60141|Henrikas Valpotas]]: Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.
 - susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89436|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui ir jo broliams.
 - susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89437|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui su gautomis išmaldomis ir gėrybėmis.

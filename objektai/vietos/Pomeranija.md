@@ -203,11 +203,10 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - susijęs iš Kulmo žemė: Sventopelkas su dviem tūkstančiais karių perplaukė Vyslą, įsibrovė į Kulmo žemę ir ją nusiaubė per dvi dienas bei naktis.
 - susijęs iš Kuršas: Nemunas prie Klaipėdos įteka į jūrą ir skiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.
 - susijęs iš Lietuva: Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją.
+- susijęs iš Lietuva: Narbutas lietuvių bajorų linkimą į Rytų krikščionybę vadino lietuviškuoju manicheizmu, Manicheismus Lilhuanicus.
 - susijęs iš Mazovija: Prūsijos žemę iš vienos pusės ribojo Mazovijos kunigaikštystė.
 - susijęs iš Mevė: 1283 m. Teutonų ordino broliai įkūrė Mevės pilį prie Vyslos, perkėlę Poterbergo pilį iš Kulmo žemės.
-- susijęs iš Nemunas: Nemunas prasideda Rusios valdose, prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.
 - susijęs iš Poterbergas: 1283 m. broliai perkėlė Poterbergo pilį ir kitus pastatus iš Kulmo žemės ir prie Vyslos įkūrė Mevės pilį.
-- susijęs iš Prūsija: Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
 - susijęs iš Rusios žemė: Nemunas prasidėjo Rusios valdose ir skyrė Prūsiją nuo Rusios, Lietuvos bei Kuršo.
 - susijęs iš Rusios žemė: Rusios žemė buvo minima tarp Prūsijos žemę ribojusių vietovių ir gamtinių ribų.
 - susijęs iš Sūrioji jūra: Sūrioji jūra Petro Dusburgiečio aprašyme buvo viena iš Prūsijos žemės ribų.

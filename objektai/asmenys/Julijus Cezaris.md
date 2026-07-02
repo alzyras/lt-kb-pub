@@ -89,6 +89,15 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   ryšio_targeto_parinkimas: Viena: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijus Cezaris (vyskupas)" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Plinius C. Secundus.md#claim-t-64820|Plinius C. Secundus]]: Plinijus Vyresnysis pateikė žinių apie Nerono laikais surengtą žygį, iš kurio romėnų raitelis parvežė daug gintaro.
+- susijęs iš [[objektai/autoriai/Plutarchas.md#claim-t-190402|Plutarchas]]: Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeigose Bakcho garbei.
+- susijęs iš [[objektai/grupes/Gotai.md#claim-t-188190|Gotai]]: Narbutas gotus minėjo tarp tautų, kurios senovėje, jo vertinimu, nebuvo laisvos nuo žalčių garbinimo prietarų.
+- susijęs iš [[objektai/grupes/Graikai.md#claim-t-189508|Graikai]]: Narbutas graikus minėjo tarp tautų, kurios senovėje, jo vertinimu, nebuvo laisvos nuo žalčių garbinimo prietarų.
+- susijęs iš [[objektai/grupes/Indai.md#claim-t-189413|Indai]]: Narbutas žalčių garbinimą vadino senovėje visuotiniu ir prie jo priskyrė indus, chaldėjus, egiptiečius, persus, finikiečius, graikus, romėnus ir gotus.
+- susijęs iš [[objektai/grupes/Persai.md#claim-t-189427|Persai]]: Narbutas žalčių garbinimą vadina visuotiniu senovės prietaru ir tarp jį pažinojusių tautų mini persus.
+- susijęs iš [[objektai/grupes/Romėnai.md#claim-t-188325|Romėnai]]: Narbutas rašė, kad žalčių garbinimas senovėje buvo paplitęs tarp indų, chaldėjų, egiptiečių, persų, finikiečių, graikų, romėnų ir gotų.
+- susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189421|Senovės egiptiečiai]]: Narbutas teigė, kad senovėje žalčius garbino indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir kitos tautos.
+- susijęs iš [[objektai/grupes/Senovės graikai.md#claim-t-189392|Senovės graikai]]: Narbutas teigė, kad senovėje žalčius garbino indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir kitos tautos.
+- susijęs iš [[objektai/paprociai/Šventųjų žalčių laikymas namuose, maitinimas ir aukos.md#claim-t-189792|Šventųjų žalčių laikymas namuose, maitinimas ir aukos]]: Narbutas žalčių garbinimą senovėje vaizdavo kaip visuotinį reiškinį, minėdamas indus, chaldėjus, egiptiečius, persus, graikus, romėnus ir kitas tautas.
 ## Reikšmingi paminėjimai
 
 - c-001

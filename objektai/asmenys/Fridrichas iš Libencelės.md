@@ -212,4 +212,4 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - Fridrichas iš Libencelės (vyskupas, XIV a.) puole [[objektai/grupes/Lietuviai]]
 - Fridrichas iš Libencelės (vyskupas, XIV a.) pastate [[objektai/vietos/Vartenbergas]]
 - Fridrichas iš Libencelės (vyskupas, XIV a.) puole [[objektai/vietos/Gedimino pilis|Gedimino pilis (pilis)]]
-- Fridrichas iš Libencelės (vyskupas, XIV a.) puole [[objektai/asmenys/Gediminas]]
+- Fridrichas iš Libencelės (vyskupas, XIV a.) puole [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

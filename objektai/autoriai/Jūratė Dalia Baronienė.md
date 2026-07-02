@@ -50,6 +50,7 @@ Jūratė Dalia Baronienė nurodyta kaip „Vilniaus miesto istorijos“ vertėja
 - susijęs iš [[objektai/autoriai/Stasys Šalkauskis.md#claim-t-81968|Stasys Šalkauskis]]: Stasio Šalkauskio „Raštų“ I-VIII tomai buvo išleisti 1990-2005 m.
 - susijęs iš [[objektai/autoriai/Vincas Vyčinas.md#claim-t-88084|Vincas Vyčinas]]: Vinco Vyčino „Raštų“ I-II tomai buvo išleisti 2002-2007 m.
 - susijęs iš Lietuva: Mykolo Balinskio veikalas laikomas informacijos šaltiniu apie ikikrikščionišką Lietuvos valstybės istoriją.
+- susijęs iš Lietuva: Narbutas citavo priekaištą, kad per 400 metų Lietuvos praeitimi rūpinosi tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas.
 ## Reikšmingi paminėjimai
 
 - c-001

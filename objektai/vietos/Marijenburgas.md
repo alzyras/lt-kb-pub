@@ -70,13 +70,13 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
   ryšio_subjekto_parinkimas: Marijenburgas: llm_allowed_candidate, place
   ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
   ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Marijenburgas atiteko Lenkijai.
+- susijęs iš Nemunas: Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas.md#claim-t-66565|Jogailos ir Vytauto susitaikinimas]]: Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.).md#claim-t-01685|Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)]]: 1309 m. didysis magistras su taryba atsikėlė į Marijenburgą, kuris tapo Kryžiuočių ordino sostine.
 - susijęs iš Nemunas: Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-182899|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
 - susijęs iš Varmijos vyskupystė: 1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas.md#claim-t-66565|Jogailos ir Vytauto susitaikinimas]]: Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą.
-- susijęs iš Nemunas: Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -116,6 +116,6 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
     - t-002
 
 ## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Marijenburgas
 - Marijenburgas priklause [[objektai/vietos/Lenkija]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Marijenburgas
-- [[objektai/grupes/Kryžiuočių ordinas]] pastate Marijenburgas

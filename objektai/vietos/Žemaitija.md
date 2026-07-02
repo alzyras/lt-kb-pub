@@ -9,17 +9,17 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '880 m.'
+  - '1232 m.'
   - '1251 m.'
+  - '1262 m.'
+  - '1264 m.'
   - '1268 m.'
   - '1285 m.'
-  - '1320 m.'
-  - '1322 m.'
-  - '1323 m.'
-  - '1380 m.'
   - '2007 m.'
 date_start: '880'
 date_end: '2007'
@@ -29,11 +29,11 @@ variantai:
   - 'Žemaitija'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'IX'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Žemaitija
 
@@ -56,7 +56,6 @@ amziai:
 Šaltinyje Žemaitija pasirodo tiek Mindaugo laikų vyskupijos ir Livonijos ordino santykių, tiek Vytauto kovų su Ordinu ir 1409 m. sukilimo kontekste.
 
 ## Teiginiai
-
 <a id="claim-t-123002"></a>
 - t-001
   global_id: t-123002
@@ -189,7 +188,7 @@ amziai:
   global_id: t-123011
   teiginys: '1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų faktą apie Žemaitiją; pradinė formuluotė buvo per ilga ir nutrūkusi.'
-  susije_objektai: 'llm_object: Žemaitija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Dobrynė; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Medininkai; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Žemaitija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Medininkai'
   semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Žemaitija'
   temporaliniai_duomenys: 'įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
@@ -652,7 +651,7 @@ amziai:
   global_id: t-123039
   teiginys: 'Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai.'
   sudarymo_pagrindimas: 'Citata yra įvado vertinimas, o ne Dusburgiečio teiginys; faktą reikia sukonkretinti apie Žemaitiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Prūsų žemė; mentioned_place: Vokietija; mentioned_place: Vysla; llm_object: Žemaitija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Viena; llm_object: Žemaitija'
   semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Žemaitija'
   pagrindžia:
     - c-022
@@ -755,7 +754,7 @@ amziai:
   global_id: t-123046
   teiginys: 'Žemaitijoje plėšikavusios kryžiuočių kariuomenės karys, atsilikęs po kritimo nuo žirgo, pėsčiomis grįžo į Ragainę.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet reikia pašalinti perteklinę atribuciją ir vertinamąjį kontekstą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; llm_object: Žemaitija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ragainė; mentioned_person: [[objektai/asmenys/Dormunimundas|Dormunimundas]]; mentioned_person: [[objektai/asmenys/Glapiminas|Glapiminas]]; mentioned_place: Ariogala; llm_object: Žemaitija'
   semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Žemaitija'
   pagrindžia:
     - c-031
@@ -841,8 +840,8 @@ amziai:
   global_id: t-123050
   teiginys: 'Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.'
   sudarymo_pagrindimas: 'Citata pagrindžia istoriografinę nuomonę, bet pradinė formuluotė klaidingai priskirta Dusburgiečiui.'
-  susije_objektai: 'llm_object: Žemaitija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nadruva; mentioned_place: Nemunas; mentioned_place: Pamedė; mentioned_place: Prūsų žemė; mentioned_place: Semba; mentioned_place: Skalva'
-  semantiniai_rysiai: 'Semba priklausė Žemaitija; Skalva priklausė Žemaitija; Nadruva priklausė Žemaitija'
+  susije_objektai: 'llm_object: Žemaitija; mentioned_author: [[objektai/autoriai/Strijkovskis|Strijkovskis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Semba; mentioned_place: Skalva'
+  semantiniai_rysiai: 'Skalva priklausė Žemaitija; Semba priklausė Žemaitija'
   pagrindžia:
     - c-025
 
@@ -910,7 +909,7 @@ amziai:
   global_id: t-123054
   teiginys: 'Daukantas savo jaunystės laikų Žemaitijos kaimo kultūrinį paveikslą perkėlė į senuosius laikus.'
   sudarymo_pagrindimas: 'Pradinis sakinys turi neaiškų įvardį ir yra apie Daukanto vaizdavimą, ne tiesiogiai apie Žemaitiją.'
-  susije_objektai: 'mentioned_place: Kaimas; mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Dionizas Paškevičius|Dionizas Paškevičius]]; mentioned_place: Kaltinėnai'
   pagrindžia:
     - c-021
   irodymo_stiprumas: 0.00
@@ -967,15 +966,15 @@ amziai:
   pagrindžia:
     - c-042
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 1820-2657; hash=8027ba7dfe6dab976ff46e945ae2f675b7c847042be35981c9af3249224f006a; match=exact
+  saltinio_vieta: 223500-223913; hash=ae3fbc0eccfebcedd822a9c2da2dfd48398dc7fb05c4473fb29efa8daef033a6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Žemaitija: 0.76
+  ryšio_patikimumas: puole -> Žemaitija: 0.67
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kryžiuočių ordino ekspansija ir niokojimai apima Žemaitiją minimame plote, todėl fiksuojamas puolimo pobūdžio ryšys.
+  ryšio_paaiskinimas: Ekspansija ir niokojimai leidžia laikyti Ordiną Žemaitiją puolusia jėga, bet formuluotė nėra tiesioginis veiksmažodis „puolė“.
 
 <a id="claim-t-185220"></a>
 - t-059
@@ -990,15 +989,15 @@ amziai:
   pagrindžia:
     - c-043
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3fd7d389099889b2fc1769b5231e34aa405f3b1b0eab2f5d331c177791950e79; match=fallback; occurrences=0
+  saltinio_vieta: 269929-270472; hash=5b2e5d5e58dc9439184c299e330b32f127b67ba7ac49ad455958c18efbf7e101; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Žemaitija: 0.96
+  ryšio_patikimumas: priklause -> Žemaitija: 0.91
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_subjekto_parinkimas: Skalva: llm_allowed_candidate, place
   ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai pasako, kad Semba laikyta Žemaitijos dalimi.
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Skalva laikyta Žemaitijos dalimi.
 
 <a id="claim-t-185221"></a>
 - t-060
@@ -1015,15 +1014,15 @@ amziai:
   pagrindžia:
     - c-044
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=650350e4baaa3eff584bdc6fc9eac3bc26f0d1e6b81d274202cbedfd28461c7b; match=fallback; occurrences=0
+  saltinio_vieta: 351515-351999; hash=ea0ab798b9cd9b7a990a87f3e8b72ac34a914502866aa033df15dc0232e0dbe7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Žemaitija: 0.96
+  ryšio_patikimumas: puole -> Žemaitija: 0.92
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo kryžiuočius kaip įsiveržusius į Žemaitiją.
+  ryšio_paaiskinimas: Įsiveržimas į Žemaitiją yra tiesioginis puolimo požymis.
 
 <a id="claim-t-185222"></a>
 - t-061
@@ -1038,15 +1037,15 @@ amziai:
   pagrindžia:
     - c-045
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 41921-42492; hash=511fa2b8eb6b6fbe844e6fbfb8f4fb94750f4bbc08251eb037fa4245f362f6c9; match=exact
+  saltinio_vieta: 361734-361980; hash=73f9b86b5b1f5f04cf03eef7c0e370b25c6098b75946181f912f028a4007463a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Žemaitija: 0.78
+  ryšio_patikimumas: puole -> Žemaitija: 0.70
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kryžiuočių kariuomenė apibūdinama kaip plėšikaujanti Žemaitijoje, todėl ryšys laikomas puolamuoju.
+  ryšio_paaiskinimas: Kryžiuočių kariuomenės plėšikavimas Žemaitijoje rodo karinį puolimą, nors formuluotė nėra tiesioginė „puolė“.
 
 <a id="claim-t-185223"></a>
 - t-062
@@ -1129,15 +1128,15 @@ amziai:
   pagrindžia:
     - c-049
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b31f6305d9b0d4eb751e759134f2cebec62fbc72bed1feabbb93b294206600ca; match=fallback; occurrences=0
+  saltinio_vieta: 392669-392839; hash=888d6fb6ee1b769495a2862ba8f571922c978006406908738b4f24e3d5e12e39; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Žemaitija: 0.97
+  ryšio_patikimumas: puole -> Žemaitija: 0.94
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kryžiuočių ordino Livonijos atšakos pajėgos smogė Žemaitijai.
+  ryšio_paaiskinimas: Frazė „pajėgos smogė Žemaitijai“ tiesiogiai reiškia puolimą.
 
 <a id="claim-t-185227"></a>
 - t-066
@@ -1151,7 +1150,7 @@ amziai:
   pagrindžia:
     - c-050
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 150246-150533; hash=1cd6a4c082360ed43007f9e71c17b2b36f093e27f06da222ec9b663e3dcb7035; match=exact
+  saltinio_vieta: 407901-408442; hash=fce406ecaf0dbe5c02a4c128e2b524cf70ceb84369d80052852bd2c50fb4227c; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Kaimas: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -1178,13 +1177,266 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 41436-41784; hash=0befd38b7c9583edda8992bcf6bb1aac5550e91270cb29914a40ec4762747aea; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuva: 0.95
+  ryšio_patikimumas: priklause -> Lietuva: 0.86
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
   ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė tiesiogiai pasako, kad Žemaitija buvo Lietuvos dalis.
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Žemaitiją kaip Lietuvos dalį.
+
+<a id="claim-t-188880"></a>
+- t-068
+  global_id: t-188880
+  teiginys: 'Narbutas rašo, kad kai kur Žemaitijoje Perkūnaitėlės maldos buvo kreipiamos į Mergelę Mariją, vadintą Panna Marya Perkunatele arba Perkūnija.'
+  pagrindžia:
+    - c-052
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 218395-218803; hash=6b6f7b0266fd4604c965b87f20c3d81c8bd3d1afa8ef2ba7441a0b7f1528712c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188881"></a>
+- t-069
+  global_id: t-188881
+  teiginys: 'Narbutas nurodo iš Žemaitijos gavęs liaudies padavimo variantą, panašų į jo rinkinyje turėtą pasakojimą.'
+  pagrindžia:
+    - c-053
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 223500-223913; hash=ae3fbc0eccfebcedd822a9c2da2dfd48398dc7fb05c4473fb29efa8daef033a6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Lietuva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pripažinimas Lietuvai reiškia Žemaitijos priklausymą Lietuvai.
+<a id="claim-t-188883"></a>
+- t-070
+  global_id: t-188883
+  teiginys: 'Narbutas aiškina, kad aukuras ir apeigos Žemaitijoje išliko dėl Jogailos ir Vytauto pagarbos kunigaikštienei Birutei.'
+  pagrindžia:
+    - c-054
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 269929-270472; hash=5b2e5d5e58dc9439184c299e330b32f127b67ba7ac49ad455958c18efbf7e101; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188884"></a>
+- t-071
+  global_id: t-188884
+  teiginys: 'Narbutas rašo, kad 1583 m. Žemaitijoje apaštalavę jėzuitai aptiko didelių akmenų garbinimo pėdsakų.'
+  pagrindžia:
+    - c-055
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 351515-351999; hash=ea0ab798b9cd9b7a990a87f3e8b72ac34a914502866aa033df15dc0232e0dbe7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188885"></a>
+- t-072
+  global_id: t-188885
+  teiginys: 'Narbutas pasakoja, kad Glapimino sūnus Sutinkąs ir vaikaitis Dormunimundas valdė Žemaitijoje.'
+  pagrindžia:
+    - c-056
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 361734-361980; hash=73f9b86b5b1f5f04cf03eef7c0e370b25c6098b75946181f912f028a4007463a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Glapiminas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sutinkąs: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Glapiminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Sutinką kaip Glapimino sūnų.
+<a id="claim-t-188886"></a>
+- t-073
+  global_id: t-188886
+  teiginys: 'Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.'
+  pagrindžia:
+    - c-057
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 362717-363215; hash=80b5fff2485f350cfc6b992a78920c8fb51d71e014a125646a60644af9cc115d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Liutauras: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Liutauras: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai įvardija Vytenį kaip Liutauro sūnų.
+<a id="claim-t-188887"></a>
+- t-074
+  global_id: t-188887
+  teiginys: 'Narbutas rašo, kad 1814 ar 1815 m. Švėkšnoje, Žemaitijoje, rastą auksinių monetų lobį pasisavino tarnas.'
+  pagrindžia:
+    - c-058
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 371520-371935; hash=93c4dde38920999ef9f381e90b7c43c1a236bfd70900b4a5da6fb49bfb73c34f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Auksinė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Auksinė: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Auksinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188888"></a>
+- t-075
+  global_id: t-188888
+  teiginys: 'Narbutas pastebi, kad Žemaitijoje Šventosios vardu, regis, vadinti dar keli mažesni upeliai.'
+  pagrindžia:
+    - c-059
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389952-390090; hash=fdacf974c2c9145953e6cc38c9f8c5558727c60f4a5343bc9dd0e5c28cf1cb8a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Žemaitija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vaikiai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vaikiai įvardyti kaip valsčius Žemaitijoje.
+<a id="claim-t-188889"></a>
+- t-076
+  global_id: t-188889
+  teiginys: 'Narbutas remiasi Lasickiu, kad Žemaitijoje ežeras Orthus buvo laikomas dievu.'
+  pagrindžia:
+    - c-060
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 392669-392839; hash=888d6fb6ee1b769495a2862ba8f571922c978006406908738b4f24e3d5e12e39; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188890"></a>
+- t-077
+  global_id: t-188890
+  teiginys: 'Narbutas rašo, kad Dionizas Paškevičius Bardžių dvare Žemaitijoje atrado seną džiūstantį ąžuolą.'
+  pagrindžia:
+    - c-061
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 407901-408442; hash=fce406ecaf0dbe5c02a4c128e2b524cf70ceb84369d80052852bd2c50fb4227c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ariogala: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ariogala: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Ariogala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188891"></a>
+- t-078
+  global_id: t-188891
+  teiginys: 'Narbutas perteikia Jucevičiaus pastabą, kad Žemaitijoje prie merdinčio žmogaus garsiai kartota frazė „Gegeile, begaite!“.'
+  pagrindžia:
+    - c-062
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 640652-640860; hash=64f38871423d639a11c0e1c8b0f363cc8b04ef24dc7fd703c86a220157ac8451; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vytauto susitarimą su kryžiuočiais.
+<a id="claim-t-190665"></a>
+- t-079
+  global_id: t-190665
+  teiginys: 'Narbutas spėja, kad šis paprotys buvo paplitęs tik Žemaitijoje, nes tik čia buvusi žinoma Ilgių šventė.'
+  pagrindžia:
+    - c-063
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 689929-690380; hash=eda28b3c2f5a470afd5ee744bb0899660a5b3eff0139fe17f6e383658b96a300; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-190666"></a>
+- t-080
+  global_id: t-190666
+  teiginys: 'Narbutas Žemaitiją mini kaip paskutinę iš sričių, kurias esą pasiekė ginkluoto atvertimo laikai.'
+  pagrindžia:
+    - c-064
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 775518-776410; hash=11cc599f8f4e967b8ab9aa378d5510d5203c0973728832ad1c6926def6a716d6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+<a id="claim-t-190667"></a>
+- t-081
+  global_id: t-190667
+  teiginys: 'Narbutas teigia turėjęs Žemaitijoje nuo akmens perpieštą užrašą, kuriame atpažino kelias biarmiškas raides.'
+  pagrindžia:
+    - c-065
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 784561-785478; hash=e4277d39dd3aa990e949051ec5059acd5d97ac72f46ae134187591f192ac8183; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Biarmija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Biarmija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Biarmija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Žalgirio mūšis (1410 m.).md#claim-t-63387|Žalgirio mūšis (1410 m.)]]: Prieš Žalgirio mūšį Vokiečių ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.
 - susijęs iš Michalovos žemės: Lenkija siekė atgauti Michalovos žemes, o lietuviams rūpėjo faktiškai jų valdyta Žemaitija.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184706|Germantas]]: Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.
@@ -1204,6 +1456,7 @@ amziai:
 - susijęs iš Vytauto lotyniški ir vokiški Žemaitijos atskyrimo raštai (1405 m.): Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Lietuvos ir prijungiama prie kryžiuočių valdų.
 - susijęs iš Aukštaitija: Vytautas rašte Zigmantui teigė, kad Aukštaitija ir Žemaitija yra dvi neatskiriamos Lietuvos dalys.
 - susijęs iš Kulautuva: Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magistro Konrado delegacijų susitikime buvo patvirtinta kryžiuočiams užleista Žemaitija iki Nevėžio ir Sūduva iki Šešupės aukštupio.
+- susijęs iš Livonija: Narbutas ginkluoto atvertimo pradžią siejo pirmiausia su Livonija, vėliau su Prūsija, Lietuva ir Žemaitija.
 - susijęs iš Michalovos žemės: Lenkija siekė atgauti Michalovos žemes, o lietuviams rūpėjo faktiškai jų valdyta Žemaitija.
 - susijęs iš Salyne: 1398 m. spalio 12 d. Salyne Vytauto ir didžiojo magistro Konrado delegacijos patvirtino kryžiuočiams užleistą Žemaitiją iki Nevėžio ir Sūduvą iki Šešupės aukštupio.
 - susijęs iš [[objektai/zodynas/Szomoyth Auxtote.md#claim-t-86574|Szomoyth Auxtote]]: Szomoyth aiškinta kaip žemesnė žemė, o Auxtote – kaip aukštesnė žemė, palyginti su Žemaitija.
@@ -1235,6 +1488,7 @@ amziai:
 - susijęs iš [[objektai/posakiai/„iki gyvos galvos“.md#claim-t-41492|„iki gyvos galvos“]]: Po 1411 m. Torunės taikos Žemaitija Vytautui ir Jogailai atiteko „iki gyvos galvos“, bet Vytautas siekė ją susigrąžinti visam laikui.
 - susijęs iš Jotvingija: Vytautas rašte Zigmantui teigė, kad Sūdavija su Jotvingija, arba Dzūkija, yra lietuvių kraštai, dėl kurių ginčo negali kilti.
 - susijęs iš Klaipėda: Vytautas vėliau pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir į Užnemunę.
+- susijęs iš Kražiai: Narbutas rašė, kad 1618 m. Kražiuose įsitvirtinę jėzuitai savo misijoje rado apie šešis tūkstančius nekrikštytų valstiečių.
 - susijęs iš Lenkija: Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XV–XVI a. perėmė krikščionišką Vakarų kultūrą.
 - susijęs iš Lenkija: Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XVI a. viduryje sudarė uniją su Lenkijos Karalyste.
 - susijęs iš Nemunas: Vytautas vėliau pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir Užnemunę.
@@ -1248,7 +1502,6 @@ amziai:
 - susijęs iš [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu.md#claim-t-185712|Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]: Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184627|maršalas]]: Rūmų maršalas Kernavėje įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2338,17 +2591,290 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-067
+- c-052
+  santrauka: 'Narbutas rašo, kad kai kur Žemaitijoje Perkūnaitėlės maldos buvo kreipiamos į Mergelę Mariją, vadintą Panna Marya Perkunatele arba Perkūnija.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Žemdirbiai garbino šią deivę kaip oro per­
+    mainų valdovę; ypač valstietės maldaudavo jos, kad apgintų
+    pas Perkūną laukus nuo krušos, liūčių, griausmų. Žemaitijoje,
+    kai kuriose vietose, iki šiol tebesimeldžia Perkūnaitėlei, tik savo
+    maldas kreipia į švenčiausiąją mergelę Mariją, kurią jie vadi­
+    na Panna Marya Perkunatele arba Perkūnija. Net būta papro­
+    čio vadinti švente Maloningosios Dievo motinos švente.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-068
+- c-053
+  santrauka: 'Narbutas nurodo iš Žemaitijos gavęs liaudies padavimo variantą, panašų į jo rinkinyje turėtą pasakojimą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­
+    tinkame mūsų kaimiečių padavimuose. Turiu jį savajame se­
+    nų liaudies padavimų rinkinyje; kitą, menkai tesiskiriantį, ga­
+    vau iš Žemaitijos, iš vieno senovės tyrėjo. Pasak šių lietuvių
+    padavimų, pasakojimo veikėjų vardai yra arba visiškai iškrai­
+    pyti, arba visiškai užmiršti, pavyzdžiui, neaišku, kieno duktė
+    buvo deivė, kaip vadinosi vyriausiasis dievas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-069
+- c-054
+  santrauka: 'Narbutas aiškina, kad aukuras ir apeigos Žemaitijoje išliko dėl Jogailos ir Vytauto pagarbos kunigaikštienei Birutei.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-070
+- c-055
+  santrauka: 'Narbutas rašo, kad 1583 m. Žemaitijoje apaštalavę jėzuitai aptiko didelių akmenų garbinimo pėdsakų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Amerikos indėnai išsaugojo at­
+    mintį apie akmenų garbinimą, nes jie, kaip sako vienas keliau­
+    ninkas, savo lopšiu yra artimesni žmonių padermei, tuo labiau -
+    daugiau prisirišę prie žemės ir prie būtybių, esančių jos įsčiose.
+    Net pasikeitus apšvietai ir religijai, indėnai akmenis laikė talis­
+    manais'T 1583 metais jėzuitai, apaštalaudami Žemaitijoje, ap­
+    tiko tam tikrų didelių akmenų garbinimo pėdsakus13 14. Yra pada­
+    vimų ir pasakojimų apie panašius akmenis, garbinamus ir pas
+    mus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-071
+- c-056
+  santrauka: 'Narbutas pasakoja, kad Glapimino sūnus Sutinkąs ir vaikaitis Dormunimundas valdė Žemaitijoje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
+    tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o
+    vaikaitis Dormunimundas valdė Žemaitijoje. Šiojo sūnus Liu­
+    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-072
+- c-057
+  santrauka: 'Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    O Lietu­
+    vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
+    niotos mirties, nusiuntė Liutaurą užimti Polocko, kad šis val­
+    dytų jį kaip vietininkas. Liutauro sūnus Vytenis, gimęs 1232
+    metais Žemaitijoje, gyveno Ariogaloje; jis išgarsėjo rusų ka­
+    ruose su totoriais, buvo paimtas į nelaisvę, buvo Batu stovyk­
+    loje, Kumanų žemėje, pagaliau grįžo ir valdė Polocko kuni­
+    gaikštystę kartu su savo tėvu. Tebesitęsiančios tarpusavio ko­
+    vos Lietuvoje buvo daugelio valstybės permainų priežastis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-073
+- c-058
+  santrauka: 'Narbutas rašo, kad 1814 ar 1815 m. Švėkšnoje, Žemaitijoje, rastą auksinių monetų lobį pasisavino tarnas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kartą man pasitaikė nupirkti auksinę monetą, kuri pavaiz­
+    duota natūralaus dydžio III lentelės 17-ajame piešinyje. Ji iš
+    Žemaitijos, turėjo būti nelabai seniai rasta (1814 ar 1815 me­
+    tais) Švėkšnoje, tenykštės klebonijos sode; tarnas pasisavino
+    lobį, iškastą persodinant rožių krūmą, -  mat auksinių monetų
+    turėjo būti keliolika svarų. Tas žmogus pabėgo į užsienį, ir bran­
+    gios senovės liekanos nežinia kur dingo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-074
+- c-059
+  santrauka: 'Narbutas pastebi, kad Žemaitijoje Šventosios vardu, regis, vadinti dar keli mažesni upeliai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    3. Tarp Palangos ir Liepojos yra Šventoji (Šwięta) upė, įte­
+    kanti į jūrą. Atrodo, Žemaitijoje šitaip vadinami dar keli ma­
+    žesni upeliai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-075
+- c-060
+  santrauka: 'Narbutas remiasi Lasickiu, kad Žemaitijoje ežeras Orthus buvo laikomas dievu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šventų ežerų yra taip pat Nemuno kairiajame krante,
+    kur ir miestelis [Šventežeris] turi tokį vardą.
+    3. Lasickis sako, kad Žemaitijoje ežeras Orthus buvo lai­
+    komas dievu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-076
+- c-061
+  santrauka: 'Narbutas rašo, kad Dionizas Paškevičius Bardžių dvare Žemaitijoje atrado seną džiūstantį ąžuolą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Neseniai buvo aptiktas kadaise milžiniškas ir labai senas
+    jau benudžiūstantis ąžuolas; kadangi jis išliko, todėl teisingai
+    manoma, kad jis garbintas kaip šventasis. Jį atrado pats ponas
+    Dionizas Paškevičius Bardžių dvare, Žemaitijoje, arti Kražių,
+    prie vieškelio į Raseinius, tarp Nemakščių ir Kaltinėnų mies­
+    telių. Šis tėvynės paminklų brangintojas liepė iš trūnijusiame
+    šio ąžuolo kamiene įrengti kabinetą, turintį 7 uolekčių, 18 co­
+    lių skersmenį, kuriame dabar jis laiko retų senienų kolekciją
+    ir istorijos veikalus apie krašto praeitį.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-077
+- c-062
+  santrauka: 'Narbutas perteikia Jucevičiaus pastabą, kad Žemaitijoje prie merdinčio žmogaus garsiai kartota frazė „Gegeile, begaite!“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Jucevičius pataiso Strijkovskį: „ Gegei-
+    le, begaite!“, vietoje „ Ginkiet, Biekiet, Pikole!“, ir priduria, kad
+    šiandien (Žemaitijoje?), kai tik žmogus ima merdėti, visi ten su­
+    sirinkę garsiai kalba tą frazę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-078
+- c-063
+  santrauka: 'Narbutas spėja, kad šis paprotys buvo paplitęs tik Žemaitijoje, nes tik čia buvusi žinoma Ilgių šventė.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kam patinka, gali pasiimti, kas palikta. Sis
+    paprotys turėjo būti paplitęs tik Žemaitijoje, kadangi tik čia tu­
+    rėjo būti žinoma ta Ilgių šventė, kaip tai parodėme anksčiau
+    atitinkamame straipsnyje.
+    Apskritai mirusiųjų atminimo pagerbimas po šventės ar­
+    ba iškilmių, atrodo, baigdavosi tuo, kad vaišių liekanas ati­
+    duodavo pavargėliams arba, kaip kitose provincijose, padėda­
+    vo šventoje vietoje, tai yra ant kapų, kur jas surankiodavo pa­
+    vargėliai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-079
+- c-064
+  santrauka: 'Narbutas Žemaitiją mini kaip paskutinę iš sričių, kurias esą pasiekė ginkluoto atvertimo laikai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
+    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
+    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
+    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
+    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
+    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
+    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
+    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
+    nių apeigų papročių, vienodų su jų lietuvių apeigomis. Smun­
+    kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai -  pir­
+    miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
+    liau Žemaitijoje. Tenai, Aukaimio kaime, dar slapstėsi vyriau­
+    siasis žynys Gintautas, kurio gyvenimas nutrūko 1414 metų
+    liepos 28 dieną; jis buvo 74-asis iš eilės ir su juo baigėsi lietu­
+    vių stabmeldystė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-080
+- c-065
+  santrauka: 'Narbutas teigia turėjęs Žemaitijoje nuo akmens perpieštą užrašą, kuriame atpažino kelias biarmiškas raides.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    V priedas
+    A pie Biarmijos raidyną
+    Rašydami šį veikalą, ne kartą kalbėjome apie Biarmijos
+    (Permės) raidyną, kurio pėdsakų pasitaikė aptikti lietuvių že­
+    mėje, ir iš tiesų tokių, kurie nepalieka abejonės, kad senovės
+    18 Alt- und Neues Preussen. - S. 149.
+    434
+
+    ## Puslapis 434
+
+    lietuviai naudojosi tomis raidėmis. Gali būti, kad kam nors
+    pasitaikys rasti pinigą arba metalo gabaliuką su užrašu to rai­
+    dyno raidėmis; man net pasakojo, kad Lietuvoje kai kur yra
+    akmenų su iškaltomis nežinomo pavidalo raidėmis, o tos galė­
+    tų pasirodyti esančios biarmiškos. Vieną iš tokių užrašų, per­
+    pieštą Žemaitijoje nuo akmens, turėjau rankose; jame buvo
+    deramai išbrėžtos kelios biarmiškos raidės, tačiau, matyt, ne­
+    mokšiškai kopijuojant, kiti ženklai buvo sugadinti, neįmano­
+    ma buvo padaryti kokią nors išvadą, nebent įrodymą, kad gali
+    pasitaikyti atradimų, liudijančių, jog pas mus Biarmijos raidy­
+    nas buvo plačiau pažįstamas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-081
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] puole Žemaitija
-- [[objektai/vietos/Semba]] priklause Žemaitija
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] gime Žemaitija
 - Žemaitija priklause [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Žemaitija
 - Žemaitija priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Nadruva]] priklause Žemaitija
-- [[objektai/vietos/Skalva]] priklause Žemaitija
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Žemaitija
+- [[objektai/vietos/Semba]] priklause Žemaitija
+- [[objektai/vietos/Skalva]] priklause Žemaitija
+- [[objektai/asmenys/Dormunimundas]] valde Žemaitija
 - [[objektai/grupes/Lietuviai]] valde Žemaitija
 - [[objektai/vietos/Pagraudė]] priklause Žemaitija
+- [[objektai/asmenys/Sutinkąs]] valde Žemaitija
 - [[objektai/vietos/Vaikiai]] priklause Žemaitija
 - [[objektai/grupes/Vokiečiai]] puole Žemaitija
 - [[objektai/grupes/Vokiečių ordinas]] valde_teritorija Žemaitija

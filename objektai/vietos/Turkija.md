@@ -68,8 +68,6 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
 - susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-183492|„idealiąją Lietuvą“]]: „Idealiojoje Lietuvoje“ įsivaizduojama, kad spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
 - susijęs iš Bučačo taikos sutartis (1672 m.): 1672 m. Turkija pradėjo karo veiksmus prieš Lenkiją ir privertė ją pasirašyti Bučačo taikos sutartį.
 - susijęs iš Chotinas: 1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus.
-- susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
-- susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
 - susijęs iš Podolė: Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
 - susijęs iš Podolė: Susidarius grėsmingai situacijai, Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir padėti Lenkijos kariuomenei.
 - susijęs iš Podolės Kameneco tvirtovė: Turkai stiprino įtvirtinimus prie Podolės Kameneco tvirtovės, numatydami lenkų ir lietuvių puolimo kryptį.

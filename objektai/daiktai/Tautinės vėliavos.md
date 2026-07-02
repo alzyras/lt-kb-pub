@@ -57,6 +57,7 @@ Nenurodyta
   ryšio_targeto_parinkimas: Kaunas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautinės vėliavos" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/1941 m. Birželio sukilimas.md#claim-t-45329|1941 m. Birželio sukilimas (sukilimas)]]: Per 1941 m. Birželio sukilimą provincijos sukilėliai užimdavo vietos valdžios įstaigas ir suimdavo sovietų valdžios aktyvistus.
+- susijęs iš Vyskupo Kristijono kronika: Narbutas spėja, kad prūsų tautinės vėliavos runų užrašas galėjo būti senovinis dingusios vyskupo Kristijono kronikos užrašo vertimas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -78,3 +79,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Tautinės vėliavos priklause [[objektai/grupes/Prūsai]]

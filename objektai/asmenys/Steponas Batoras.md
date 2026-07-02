@@ -9,6 +9,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+description: 'Steponas Batoras: Lenkijos karalius ir Lietuvos didysis kunigaikštis, siejamas su Vilniumi, Livonijos karu ir reformomis.'
+socialDescription: 'Steponas Batoras žinių bazėje siejamas su Vilniumi, karais su Maskva, Livonijos karo atminimu, miesto privilegijomis ir Vilniaus universiteto kūrimu.'
+seo_atnaujinta: '2026-07-02T19:20:23.336964+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,7 +28,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, siejamas su elekcija, karais su Maskva ir pergalingų Livonijos karo kampanijų atminimu. Vienas kūno fragmentas jį tiesiogiai susieja su paradiniu kalaviju, pagamintu šioms kampanijoms atminti.
+Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos didysis kunigaikštis, susijęs su Vilniumi, Livonijos karo kampanijomis ir karais su Maskva. Šaltiniai mini jo rūpinimąsi Vilniaus patrankų liejykla, pabūklų naudojimą, Vilniaus universiteto kūrimą ir miesto privilegijų tvirtinimą. Jo valdymo kontekste taip pat iškyla kalendoriaus reforma, Vilniaus miesto reikalai ir 1586 m. pabaiga Michało Balińskio istorinėje apžvalgoje.
 
 ## Teiginiai
 
@@ -644,6 +649,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - susijęs iš Krokuva: 1578 m. Steponas Batoras patvirtino funduotas mokyklas, suteikė joms Akademijos vardą ir prilygino Krokuvos akademijai.
 - susijęs iš Krokuva: 1578 m. Steponas Batoras Vilniaus mokykloms suteikė Akademijos vardą ir prilygino jas kitoms akademijoms, ypač Krokuvos.
 - susijęs iš Lietuva: Mykolo Balinskio veikalas laikomas informacijos šaltiniu apie ikikrikščionišką Lietuvos valstybės istoriją.
+- susijęs iš Lietuva: Narbutas citavo priekaištą, kad per 400 metų Lietuvos praeitimi rūpinosi tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas.
 - susijęs iš Livonija: 1579 m. pavasarį Steponui Batorui atvykus į Vilnių buvo rimtai rengiamasi žygiui į Livoniją.
 - susijęs iš Livonija: Stepono Batoro laikais Lietuvos ir Lenkijos karai su Maskva baigėsi Polocko ir visos Livonijos atgavimu.
 - susijęs iš Marienburgas: 1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą.
@@ -677,6 +683,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - susijęs iš Vilnius: Stepono Batoro laikais Vilniuje gerokai išaugo spaustuvių skaičius.
 - susijęs iš Vilnius: 1559 m. dokumentas buvo duotas Vilniuje artimiausią ketvirtadienį po Šv. Baltramiejaus šventės.
 - susijęs iš Vilnius: Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, kurioje dažnai būdavo ir pats karalius.
+- susijęs iš Vilnius: Narbutas piktukų pavadinimą siejo su žodžiu „piktas“ ir minėjo netoli Vilniaus esantį Piktukonių kaimą.
+- susijęs iš Vilnius: Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
 - susijęs iš Švedija: 1581 m. Steponas Batoras iš Vilniaus išsiuntė pasiuntinybę į Švediją per Lauryną Goslickį.
 - susijęs iš Švedija: 1581 metais iš Vilniaus buvo išsiųsta pasiuntinybė į Švediją per Lauryną Goslickį.
 - susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86464|disidentai reformatai reformatoriai]]: Lietuvos disidentai reformatai nepajėgė sutelkti tokių stiprių pajėgų kovai su Vilniaus jėzuitais.
@@ -1347,7 +1355,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - Steponas Batoras uzkariavo [[objektai/vietos/Ryga]]
 - Steponas Batoras keliavo_i [[objektai/vietos/Knišinas]]
 - Steponas Batoras siunte_i [[objektai/vietos/Švedija]]
-- Steponas Batoras keliavo_i [[objektai/vietos/Lietuva]]
 - Steponas Batoras reme [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/daiktai/Stepono Batoro paradinis kalavijas]] priklause Steponas Batoras
 - Steponas Batoras reme [[objektai/asmenys/Gabrielius Bekešas]]

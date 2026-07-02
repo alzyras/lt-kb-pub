@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Kernius'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1089 m.'
 date_start: '1089'
@@ -18,10 +19,9 @@ periodo_grupes:
 
 ## Santrauka
 
-Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui.
+Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui. Narbutas Kernių vaizduoja kaip Vidurio, arba Užnerio, Lietuvos kunigaikštį, kurio sostinė buvo Kernavė.
 
 ## Teiginiai
-
 <a id="claim-t-186005"></a>
 - t-001
   global_id: t-186005
@@ -70,14 +70,56 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   ryšio_subjekto_parinkimas: Pajauta: llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Kernius: llm_allowed_candidate, person
   ryšio_paaiskinimas: Frazė tiesiogiai nurodo Pajautą kaip Kerniaus dukterį.
+
+<a id="claim-t-188564"></a>
+- t-003
+  global_id: t-188564
+  teiginys: 'Narbutas Kernių vaizduoja kaip Vidurio, arba Užnerio, Lietuvos kunigaikštį, kurio sostinė buvo Kernavė.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 267224-267630; hash=966493f836b3fb549f8ce80df5eddbfc89048f5a35247ca20ed943707614640b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kernavė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kernius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kernavė: mention_match, place, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernius" parinktas kaip owner_note_path. Targetas "Kernavė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188565"></a>
+- t-004
+  global_id: t-188565
+  teiginys: 'Pasak Narbuto perteikiamo Hartknocho, ant Kukovaičio kalno nuo seno degė Kerniaus užkurta Amžinoji ugnis.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 377344-377660; hash=011ad82e82271cefc45295b68aeae74dc0af1298e0c91a45157a4cdf04024a9f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kernius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernius" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Kūnas.md#claim-t-186135|Kūnas]]: Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio.
+- susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-188600|Pajauta]]: Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo.
+- susijęs iš [[objektai/asmenys/Zivinbudas.md#claim-t-190222|Zivinbudas]]: Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikštis, vedė Kerniaus dukterį Pajautą.
+- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188427|Kristupas Hartknochas]]: Narbutas rašo, kad Hartknochas, remdamasis savo tyrimais, ant Kukovaičio kalno lokalizavo Kerniaus užkurtą Amžinąją ugnį.
+- susijęs iš Ukmergės sritis: Narbutas Zivinbudą vadino Dausprungų giminės Ukmergės srities kunigaikščiu, vedusiu Kerniaus dukterį Pajautą.
 - susijęs iš [[objektai/asmenys/Sekalys.md#claim-t-186251|Sekalys]]: Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais smarkiai nusiaubė Rusią.
 - susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-184902|Živinbudas]]: Po Kerniaus mirties valdovu paskelbtas Živinbudas valstybės sostinę iš Deltuvos perkėlė į Kernavę.
 - susijęs iš Kernavė: Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė.
+- susijęs iš Kukovaičio kalnas: Narbutas rašo, kad ant Kukovaičio kalno nebebuvo šventyklos ar stabo pėdsakų, o atminimas tebegyvavo kaimo pasakojimuose.
 - susijęs iš Latgala: Lietuvos metraštis pasakoja, kad Gimbutas, radęs nuniokotą Žemaitiją, nužygiavo į Latgalą, ją sunaikino ir parsivarė belaisvių.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-187530|tėvonija]]: Lietuvos metraštis pasakoja, kad Kernius ir Gimbutas, geisdami praplėsti tėvonijas, sutelkė Lietuvos ir Žemaičių pajėgas žygiui į Rusią.
+- susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-188600|Pajauta]]: Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -120,6 +162,47 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Narbutas Kernių vaizduoja kaip Vidurio, arba Užnerio, Lietuvos kunigaikštį, kurio sostinė buvo Kernavė.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Nereikia tapatinti Medziojnos
+    su Medžiojma, kurią laikėme medžiotojų deive, vadinama
+    Laima.
+    154
+
+    ## Puslapis 154
+
+    Pajauta (Pojata)
+    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
+    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
+    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
+    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
+    šė paveldimą Kernavės kunigaikštystę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Pasak Narbuto perteikiamo Hartknocho, ant Kukovaičio kalno nuo seno degė Kerniaus užkurta Amžinoji ugnis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tai liudija Strijkovskis. Ant
+    Kukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­
+    kų; liūdną ir niūrų žemės kampą atgaivina tik atminimas, te­
+    begyvuojantis kaimo žmonių pasakojimuose. Hartknochas,
+    remdamasis savo tyrimais, pasakoja, kad ant to paties kalno
+    nuo seno degusi Kerniaus užkurta Amžinoji ugnis .
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 - [[objektai/asmenys/Pajauta]] buvo_dukte Kernius

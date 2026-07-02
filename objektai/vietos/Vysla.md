@@ -8,6 +8,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1230 m.'
@@ -19,11 +20,11 @@ date_start: '1230'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Vysla
 
@@ -32,7 +33,6 @@ amziai:
 Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos).
 
 ## Teiginiai
-
 <a id="claim-t-181211"></a>
 - t-001
   global_id: t-181211
@@ -98,7 +98,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   global_id: t-181216
   teiginys: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai nurodo Vyslą kaip baltų gyvenamos teritorijos ribą.'
-  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Hunai|Hunai]]; mentioned_place: Europa; mentioned_place: Lietuva; llm_object: Dauguva; llm_object: Maskva'
+  susije_objektai: 'llm_object: Dauguva; llm_object: [[objektai/grupes/Hunai|Hunai]]; mentioned_place: Dauguva; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Hunai|Hunai]]; mentioned_place: Europa; mentioned_place: Lietuva; llm_object: Maskva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -121,15 +121,15 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 46991-47749; hash=bfd8a2449d0b33279e8437b0c74e9dfa626656135f8d221cd7c487f3acf3a994; match=exact
+  saltinio_vieta: 775467-776070; hash=374bd074ae46d538d6dfa64ea5f68c45250ad2f7b90c4e48c261758275d20f61; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Dauguva: 0.82
+  ryšio_patikimumas: gyveno -> Dauguva: 0.88
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Dauguva nurodyta kaip viena baltų gyvenamos teritorijos riba.
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo baltų gyvenamos teritorijos ribą ties Dauguva.
 
 <a id="claim-t-181219"></a>
 - t-007
@@ -292,15 +292,15 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 46991-47749; hash=bfd8a2449d0b33279e8437b0c74e9dfa626656135f8d221cd7c487f3acf3a994; match=exact
+  saltinio_vieta: 775467-776070; hash=374bd074ae46d538d6dfa64ea5f68c45250ad2f7b90c4e48c261758275d20f61; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Dauguva: 0.82
+  ryšio_patikimumas: gyveno -> Dauguva: 0.88
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Dauguva nurodyta kaip viena baltų gyvenamos teritorijos riba.
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo baltų gyvenamos teritorijos ribą ties Dauguva.
 
 <a id="claim-t-181235"></a>
 - t-021
@@ -379,12 +379,31 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Viena: mention_match, place, gap=18
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188872"></a>
+- t-027
+  global_id: t-188872
+  teiginys: 'Narbutas mitologiniame aiškinime siejo Krivių Krivaičio valdžios ribas su žemėmis nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.'
+  pagrindžia:
+    - c-020
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 775467-776070; hash=374bd074ae46d538d6dfa64ea5f68c45250ad2f7b90c4e48c261758275d20f61; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: puole -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sventopelko įsibrovimas į Kulmo žemę tiesiogiai rodo puolimą.
 - susijęs iš De origine actibusque Getharum: Jordanes 551 m. veikale „De origine actibusque Getharum“ aisčius apibūdino kaip visiškai taikingą tautą prie ilgo pajūrio kranto į rytus nuo Vidivarii.
 - susijęs iš [[objektai/grupes/Vidivarii.md#claim-t-31369|Vidivarii]]: Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų.
 - susijęs iš [[objektai/autoriai/Jornandesas.md#claim-t-88069|Jornandesas]]: Jornandesas Vyslos žiotyse gyvenusiai tautai suteikė vidivarijų vardą.
 - susijęs iš Nogatas: Nogatas yra rytinė Vyslos deltos atšaka, seniau įtekėjusi į Aismares gerokai piečiau dabartinio atsišakojimo.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-183122|Baltai]]: Baltų gentys pradėjo formuotis III tūkstantmečio pr. Kr. pabaigoje, kai indoeuropiečiai pajungė ir asimiliavo vietinius gyventojus.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93427|Kristijonas]]: Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93427|Kristijonas (vyskupas, XIII a.)]]: Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius.
 - susijęs iš [[objektai/asmenys/Petras Pšonka.md#claim-t-186157|Petras Pšonka]]: Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90011|Sventopelkas]]: Sventopelkas pastatė Santyro pilį Vyslos ir Nogato santakoje ir joje įkurdino brolių valdinius puldinėjusius vyrus.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90016|Sventopelkas]]: Sventopelkas subūrė du tūkstančius karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
@@ -437,7 +456,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - susijęs iš Pripetė: Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla.
 - susijęs iš Prūsija: Po Kryžiuočių ordino užkariavimo Prūsija galutinai imtas vadinti visas kraštas tarp Vyslos ir Nemuno.
 - susijęs iš Prūsija: Petro iš Dusburgo kronikoje Prūsijos vardu politine prasme vadintas Ordino užkariautas plotas nuo Vyslos iki Nemuno.
-- susijęs iš Prūsija: Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
 - susijęs iš Rytprūsiai: Antrame tūkstantmetyje pr. Kr. Rytprūsiuose palei žemutinę Vyslą buvo žinomi upių krantų aukštumose įkurti kuopiniai kaimai.
 - susijęs iš Santyras: Santyro pilis buvo pastatyta Vyslos ir Nogato santakoje.
 - susijęs iš Santyras: Santyro pilis buvo pastatyta Vyslos ir Nogato santakoje.
@@ -493,12 +511,13 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96084|Baltai]]: Manoma, kad žalvario amžiuje baltų arealas siekė Oderio žemupį.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-31185|Gotai]]: Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į rytus, į Rytprūsių plotą iki Alnos upės.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
+- susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-188207|Krivičiai]]: Narbutas spėja, kad krivičių pavadinimas galėjo sietis su kriviais ir bendrais religiniais papročiais su lietuvių gentimis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178815|Kryžiuočių ordinas]]: Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178860|Kryžiuočių ordinas]]: Hermanas iš Zalcos, Teutonų ordino didysis magistras, 1230 m. atsiuntė Hermaną Balką eiti magistro pareigų.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178968|Kryžiuočių ordinas]]: Magistras pasiuntė Kryžiuočių ordino kariuomenę į Lenkiją, kur ji apsupo ir sudegino Višogrudo pilį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178983|Kryžiuočių ordinas]]: Teutonų ordino broliai pasiliko Vanckos kraštą Pomeranijos kunigaikštystėje, kur vėliau stovėjo Mevės pilis.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179044|Kryžiuočių ordinas]]: XIII a. į prūsų žemes atsikraustęs vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179119|Kryžiuočių ordinas]]: Kryžiuočių ordino broliai perdavė Sartovicų pilį Samborui, o vėliau Sventopelkas pradėjo statyti Svečės pilį.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-190569|Kryžiuočių ordinas]]: Narbutas Simoną Grunau vadina seniausiu žinomu šaltiniu ir pabrėžia, kad jis ne visuomet pagarbiai rašė apie kryžiuočius.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179157|Lenkai]]: Prūsų kariuomenė kelis kartus užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius, o moteris ir vaikus varė į nelaisvę.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179276|Lietuviai]]: Cituojamame aiškinime teigiama, kad žemaičiai nuo senų laikų save vadino lietuviais.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179366|Livonijos ordinas]]: Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.
@@ -538,10 +557,13 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - susijęs iš Aismarių nerija: Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“.
 - susijęs iš Alnos upė: Pirmajame amžiuje po Kr. Vyslos žemupio gotai įsikūrė Rytprūsių plote iki Alnos upės.
 - susijęs iš Alytus: Mezolito įrankių gausiai aptikta paežerėse nuo Lydos iki Alytaus, taip pat palei Nemuną, Nerį, Merkį, Ūlą ir Katrą.
+- susijęs iš Aukaimis: Narbutas rašo, kad Aukaimio kaime slapstėsi vyriausiasis žynys Gintautas, miręs 1414 m. liepos 28 d., ir su juo baigėsi lietuvių stabmeldystė.
+- susijęs iš Baltijos jūra: Narbutas teigė, kad Krivių Krivaičio valdžia anksčiau apėmė žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.
 - susijęs iš Barta: Petro Dusburgiečio kronikoje Barta ir Plikoji Barta priskiriamos vienai iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.
 - susijęs iš Dauguva: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš Dauguva: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
+- susijęs iš Dauguva: Narbutas Krivių Krivaičio valdžią vaizdavo kaip kadaise apėmusią žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.
 - susijęs iš Dobrynė: Dusburgiečio aprašyme Dobrynės kunigaikštystė minima tarp Prūsijos žemę ribojusių teritorijų.
 - susijęs iš Katra: Mezolito įrankių gausiai aptikta palei Katrą ir kitas Lietuvos upes.
 - susijęs iš Klaipėda: Nemunas prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo.
@@ -566,16 +588,20 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - susijęs iš Nemunas: Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.
 - susijęs iš Nemunas: Kronikininkas Prūsijos žemių tarp Vyslos ir Nemuno nukariavimą aprašė remdamasis geografiniu principu.
 - susijęs iš Nemunas: 1410 m. išvedus visą kariuomenę iš Lietuvos, pilys liko neapsaugotos, o Ordino puolimas prie Nemuno galėjo baigtis katastrofa.
-- susijęs iš Nemunas: Nemunas prasideda Rusios valdose, prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.
 - susijęs iš Nemunas: Didysis magistras slapta iš Marienburgo išplaukė Vysla, o per jūros įlanką įplaukė į Nemuną.
 - susijęs iš Nemunas: Didysis magistras slapta iš Marienburgo išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.
+- susijęs iš Nemunas: Narbutas 1805 m. Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, matė labai seną mūro pilį.
+- susijęs iš Nemunas: Narbutas rašė, kad prie Sancinės, kur Nemunas išsišakoja į Giliją ir Rusnę, buvo vietinių Kroniszkas-Pilnis vadintas piliakalnis.
 - susijęs iš Nogatas: Vyslos ir Nogato santakoje buvo pastatyta Santyro pilis, kurios vyrai trukdė brolių valdiniams plaukioti upe.
 - susijęs iš Okos baseinai: I tūkstantmetyje po Kr. baltų genčių apgyvendintas arealas driekėsi iki Dniepro ir Okos baseinų rytuose.
 - susijęs iš Pamedė: Petro iš Dusburgo kronikoje Pamedė įtraukta į vienuolikos atskirų Prūsijos žemių sąrašą.
 - susijęs iš Plikoji Barta: Petro Dusburgiečio kronikoje Plikoji Barta minima kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Plockas: Nuniokojus Lenkijos žemę, kunigaikščiui prie Vyslos liko viena pilis, vadinama Plocku.
 - susijęs iš Pomeranija: Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos.
+- susijęs iš Prūsija: Dusburgiečio kronikoje pabrėžiama, kad Ordino broliai apvalė „šventąją Prūsijos žemę“ nuo stabmeldystės.
 - susijęs iš Prūsija: Jogaila įsakė dvidešimt laivų su grūdais Vysla nuplukdyti į Prūsijos pasienį, kad maistas būtų nugabentas į Lietuvą.
+- susijęs iš Prūsija: Narbutas rašo, kad Prūsijos kronikininkai burtininkams priskyrė ateities pranašavimą liejant ištirpintą vašką į šaltą vandenį.
+- susijęs iš Prūsija: Narbutas ginkluoto atvertimo eigą sieja su tikėjimo smukimu ir vardija ją nuo Livonijos iki Prūsijos, Lietuvos ir Žemaitijos.
 - susijęs iš Rusios žemė: Nemunas prasidėjo Rusios valdose ir skyrė Prūsiją nuo Rusios, Lietuvos bei Kuršo.
 - susijęs iš Rusios žemė: Rusios žemė buvo minima tarp Prūsijos žemę ribojusių vietovių ir gamtinių ribų.
 - susijęs iš Santyras: Petras Dusburgietis Santyro pilį apibūdino kaip pastatytą kenkti tikėjimui ir tikintiesiems.
@@ -589,7 +615,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - susijęs iš Vda: Vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
 - susijęs iš Vda: Vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
 - susijęs iš Zavichostas: Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto.
-- susijęs iš Žemaitija: Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-58921|Prūsijos žemė terra Prussiae]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89574|Prūsijos žemė]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
 - susijęs iš [[objektai/zodynas/Szomoyth Auxtote.md#claim-t-86574|Szomoyth Auxtote]]: Szomoyth aiškinta kaip žemesnė žemė, o Auxtote – kaip aukštesnė žemė, palyginti su Žemaitija.
@@ -607,7 +632,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90016|Sventopelkas]]: Sventopelkas subūrė du tūkstančius karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90032|Sventopelkas]]: Sventopelkas subūrė du tūkstančius karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1015,6 +1039,27 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+- c-020
+  santrauka: 'Narbutas mitologiniame aiškinime siejo Krivių Krivaičio valdžios ribas su žemėmis nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Dabar pateiksime šį lietuvių mitologijos gabalėlį.
+    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
+    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
+    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
+    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
+    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
+    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
+    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
+    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
+    nių apeigų papročių, vienodų su jų lietuvių apeigomis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-027
 
 ## Ryšiai
 - [[objektai/grupes/Vidivarii]] gyveno Vysla

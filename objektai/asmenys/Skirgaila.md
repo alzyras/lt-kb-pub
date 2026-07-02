@@ -5,27 +5,34 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1387 m.'
-  - '1399 m.'
-date_start: '1387'
-date_end: '1399'
+  - '1386 m.'
+  - '1447 m.'
+date_start: '1386'
+date_end: '1447'
+description: 'Skirgaila – Jogailos brolis ir vietininkas Lietuvoje, siejamas su Polocku, Trakais, konfliktais su Vytautu ir krikšto derybomis.'
+socialDescription: 'Skirgailos biografijoje ryškėja Jogailos politinis pasitikėjimas, ribota valdžia Lietuvoje, Polocko ir Trakų klausimai bei aštrūs santykiai su Vytautu.'
+seo_atnaujinta: '2026-07-02T19:20:23.302858+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
 amziai:
   - 'XIV'
+  - 'XV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
 ---
 # Skirgaila
 
 ## Santrauka
 
-Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendradarbis ir politinis partneris. Jis siejamas su derybomis dėl krikšto ir Lenkijos sosto, Polocko ir Trakų valdymu, konfliktais su Vytautu bei 1397 m. mirtimi Kijeve. Papildomai išryškėja jo slapta pasiuntinybė Vakaruose, Trakų ir Polocko valdų plėtra, nepopuliarumas Lietuvoje ir kitoks mirties datavimas: šiame veikale minima 1395 m., o ankstesniame įraše išlikęs ir 1397 m. datavimas.
+Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., kurio valdžia buvo apribota Vilniaus sritimis. Jis siejamas su pasižadėjimu kartu su Jogaila per ketverius metus pasikrikštyti su visu kraštu, Polocko valdymu ir konfliktais su Vytautu. Šaltiniuose išryškėja ir neigiamas jo vertinimas: aplaidumas, žiaurus elgesys, nepopuliarumas Lietuvoje bei smarkus ginčas su Vytautu 1393 m.
 
 ## Savybės
 
@@ -39,7 +46,6 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
       - Vytautas Didysis 1350-1430 (1930 m.)
 
 ## Teiginiai
-
 <a id="claim-t-179641"></a>
 - t-001
   global_id: t-179641
@@ -142,8 +148,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   global_id: t-179654
   teiginys: 'Jogaila paskyrė Skirgailą savo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu, pavaldžiu karaliaus valdžiai.'
   sudarymo_pagrindimas: 'Citata aiškiai pagrindžia Skirgailos paskyrimą ir titulą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; llm_object: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Mazovija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] paskyrė [[objektai/asmenys/Skirgaila|Skirgaila]]; [[objektai/asmenys/Skirgaila|Skirgaila]] buvo brolis [[objektai/asmenys/Jogaila|Jogaila]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] paskyrė [[objektai/asmenys/Skirgaila|Skirgaila]]'
   pagrindžia:
     - c-016
 
@@ -297,7 +303,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   global_id: t-179666
   teiginys: 'Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu, pavaldžiu karališkajai valdžiai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Mazovija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] paskyrė [[objektai/asmenys/Skirgaila|Skirgaila]]'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
@@ -544,6 +551,25 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   ryšio_subjekto_parinkimas: Skirgaila: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=53
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirgaila" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188617"></a>
+- t-040
+  global_id: t-188617
+  teiginys: 'Narbutas Lietuvos 1386–1447 m. laikotarpį apibūdino kaip didžiausios galybės epochą ir rašė, kad Vytautas sostą paveldėjo iš Skirgailos.'
+  pagrindžia:
+    - c-031
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 830784-831207; hash=f0803dfac03e425e8b719914da9530cd3f79be6144c93b500c3b24d74cc5d94b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: paskyre -> Skirgaila: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Jogaila paskyrė Skirgailą.
 - susijęs iš Verkiai: Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių-lenkų kariuomenei ilgai priešintis.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176250|vietininkas]]: Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176255|vietininkas]]: Vladislovas Jogaila Vilniuje paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu.
@@ -639,11 +665,13 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173243|Vladislovas Jogaila]]: Vladislovas Jogaila aplankė Lietuvą diegdamas naujo tikėjimo nuostatus ir, numaldęs bruzdėjimus Baltojoje Rusioje, grįžo į Vilnių.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05216|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1392 m. gavęs Vilnių Vytautas įgijo didžiojo Lietuvos kunigaikščio titulą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176688|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Jogaila negrąžino Vytautui nei Lietuvos valdymo, nei po Kęstučio mirties priklausiusio paveldo.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176701|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto politika šaltinyje siejama su bažnytine politika, Lietuvos konversija ir Žemaičių krikštu.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176737|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto seserį Oną vedė vyresnysis Mazovijos kunigaikštis Jonušas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176747|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Jogailai išvykus į Lenkiją, akylai stebimas Vytautas negalėjo savarankiškai imtis veiksmų.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176764|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Jogailai išvykus į Lenkiją, Vytautas buvo akylai stebimas ir negalėjo savarankiškai veikti.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176768|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas bandė užimti Žemutinę pilį, į Vilnių pasiuntęs roges su jose paslėptais ginkluotais žmonėmis.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184868|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas po mūšio nukreipė visas savo jėgas į Vilnių, norėdamas užimti pilis.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-188650|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas 1386–1447 m. laikotarpį laiko didžiausios Lietuvos galybės epocha, ypač Vytauto valdymo metu.
 - susijęs iš [[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis).md#claim-t-87892|Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]]: Mazovijos jaunesnysis kunigaikštis Ziemovitas vedė Jogailos seserį Aleksandrą.
 - susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113456|Bombardos]]: 1383 m. rugsėjo 11 d. apsuptos Trakų pilies mūrai po kelių dienų atakos buvo sugriauti bombardomis, o įgula pasidavė.
 - susijęs iš [[objektai/daiktai/Deglas.md#claim-t-81844|Deglas]]: Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, per kurį sudegė didelė miesto dalis.
@@ -783,7 +811,6 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - susijęs iš Polockas: Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, kilo atviras susirėmimas.
 - susijęs iš [[objektai/asmenys/Vygandas.md#claim-t-30415|Vygandas]]: Vygandas buvo vienas iš penkių Jogailos brolių, Julijonos sūnų, paminėtų liudininkais trijose Jogailos ir Skirgailos sutartyse.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1395,12 +1422,31 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
+- c-031
+  santrauka: 'Narbutas Lietuvos 1386–1447 m. laikotarpį apibūdino kaip didžiausios galybės epochą ir rašė, kad Vytautas sostą paveldėjo iš Skirgailos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Si epocha baigėsi 1386 metais, tai yra visiškai
+    įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara­
+    lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat
+    daryti visą tautą.
+    IV  1386-1447 metai, tai yra iki to laikotarpio, kai Lietuva
+    nustojo turėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pa­
+    siekė didžiausios savo galybės laikotarpį, ypač valdant Vytautui,
+    kuris sostą paveldėjo iš Skirgailos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-040
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] paskyre Skirgaila
 - Skirgaila buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Skirgaila uzeme [[objektai/vietos/Polockas]]
 - Skirgaila keliavo_i [[objektai/vietos/Polockas]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] paskyre Skirgaila
 - [[objektai/grupes/Kryžiuočių ordinas]] puole Skirgaila
 - Skirgaila buvo_brolis [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Skirgaila buvo_valdovas [[objektai/vietos/Lietuva]]

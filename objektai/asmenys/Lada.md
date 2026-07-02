@@ -35,7 +35,7 @@ Lada, čekų kilmės Krokuvos miestietis, bandė su šimtine pėstininkų nusiga
   ryšio_subjekto_parinkimas: Lada: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=18
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lada" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
+- susijęs iš Memelio apylinkės: Narbutas teigė Būtės vardą paėmęs iš Memelio apylinkėse išgirsto padavimo, kuriame šiuo vardu dievinta išmintis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,9 +63,8 @@ Lada, čekų kilmės Krokuvos miestietis, bandė su šimtine pėstininkų nusiga
     jo negalima tikėtis taikos.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

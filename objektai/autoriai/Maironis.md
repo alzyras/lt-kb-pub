@@ -94,6 +94,7 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
 - susijęs iš Partizanų šuvių aidas: „Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) buvo Prisikėlimo apygardos partizanų leidinys.
 - susijęs iš Pavasario balsai: Maironio poezijos knyga „Pavasario balsai“ išleista 1895 m., o jo eilėraščiai virto liaudies dainomis.
 - susijęs iš Ariogala: 1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške.
+- susijęs iš Ariogala: Narbutas Ariogalos pavadinimą kildina iš keliautojų posakio „E-ira galas, nėra galo“, ištarto susidūrus su kliūtimis miškuose.
 - susijęs iš Daugėliškių miškas: 1950 m. liepos 22 d. Daugėliškių miške MGB 208-ojo pulko kareiviai puolė partizanų bunkerį, per puolimą žuvo 5 partizanai.
 - susijęs iš Lesčiai: 1950 m. liepos 22 d. Lesčių kaimo rajone, Daugėliškių miške, MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.
 - susijęs iš Vilkija: 1950 m. liepos 22 d. Daugėliškių miške ties Ariogalos ir Vilkijos rajonų riba MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.

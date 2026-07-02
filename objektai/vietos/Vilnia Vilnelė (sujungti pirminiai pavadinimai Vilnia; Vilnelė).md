@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė)'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1429 m.'
   - '1580 m.'
@@ -10,14 +11,14 @@ date_start: '1429'
 date_end: '1580'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
+  - 'XVI'
 tags:
   - karalius
   - kunigaikštis
   - valdovas
   - vieta
-amziai:
-  - 'XV'
-  - 'XVI'
 ---
 # Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė)
 
@@ -26,7 +27,6 @@ amziai:
 Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­ sėjus ten būta medinių namų gyvenvietės4. 17 ## Puslapis 34 VILNIAUS MIESTO ISTORIJA I TOMAS Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse įkurdavo savo valdžios. Bet labai tikėtina, kad nuo seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­ kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų, supančių Vilnios srovę, būta medinės tvirtovės6.
 
 ## Teiginiai
-
 <a id="claim-t-174190"></a>
 - t-001
   global_id: t-174190
@@ -315,8 +315,44 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=20
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė)" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
-## Reikšmingi paminėjimai
+<a id="claim-t-188855"></a>
+- t-023
+  global_id: t-188855
+  teiginys: 'Narbutas Vilnios, arba Vilnelės, vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus.'
+  pagrindžia:
+    - c-016
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 262973-263290; hash=1651eb3d4dfd44db64e01051559070dc02a04f201be6b4fd6e47dc1e307aa9b2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė)" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188856"></a>
+- t-024
+  global_id: t-188856
+  teiginys: 'Narbutas Vilnią apibūdino kaip kadaise laivybai tikusią, sraunią, vingiuotą ir akmenuoto dugno upę, priešindamas ją giliai Vilijai.'
+  pagrindžia:
+    - c-017
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 263374-263981; hash=fde84597722d18c86a799b1fbcc44c54bda8225f8f0f4ea2f4c4718434cb63f4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Laivai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė)" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -743,3 +779,42 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+- c-016
+  santrauka: 'Narbutas Vilnios, arba Vilnelės, vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Iš to žodžio paimtas pa­
+    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
+    niaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­
+    jimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­
+    niui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­
+    ja, kurią seniau vadino Nerimi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-023
+- c-017
+  santrauka: 'Narbutas Vilnią apibūdino kaip kadaise laivybai tikusią, sraunią, vingiuotą ir akmenuoto dugno upę, priešindamas ją giliai Vilijai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Darant to­
+    pografinę apžvalgą, nesunku pastebėti, kad tų upių vandens
+    lygis kadaise buvo daug aukštesnis ir, atrodo, tolydžio žemėja.
+    Šiuo atveju to nelaimingo priešo -  Vylingosios (Zdradliwa)
+    vardo veikiau buvo nusipelniusi Vilnia, kadaise tikusi laivy­
+    bai, tokia srauni, vingiuota, akmenuotu dugnu, palyginti su
+    Vilija, tekančia didinga vaga, dar visur gilia ir visur saugia lai­
+    vybai. Krovininiai laivai, plaukiojantys Vilija nuo lietuviško
+    Strungas -  bukas vadinami strungais, yra tikri upinių laivų gi­
+    minės milžinai; jiems trūksta tik stiebų ir kylio, kad galėtų bū­
+    ti palyginti su jūrų laivais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-024

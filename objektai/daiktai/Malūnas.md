@@ -88,6 +88,7 @@ Nenurodyta
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
 - susijęs iš Vilnia: 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
 - susijęs iš Vilniaus popieriaus malūnas prie Vilnelės: 1522 m. prie Vilnelės, aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko, iškilo popieriaus malūnas.
+- susijęs iš Vyhandė: Narbutas rašo, kad XVII a. Livonijoje dėl užtvenkto Vyhandės upelio, ant kurio norėta įrengti malūną, buvo prieita prie kraujo praliejimu malšinto maišto.
 - susijęs iš [[objektai/zodynas/grinda.md#claim-t-58848|grinda]]: Prie grindos ir dabartinio vieškelio broliai sutvirtino malūną kaip pilį ir paliko jame sargybą.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82171|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį.
 - susijęs iš [[objektai/asmenys/Gedūnas.md#claim-t-60016|Gedūnas]]: Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos tėvas, gerai žinojęs Sembos karių galią.
@@ -99,6 +100,7 @@ Nenurodyta
 - susijęs iš [[objektai/autoriai/Тоерреn M.md#claim-t-60666|Тоерреn M]]: M. Toeppenas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir rytinėje pusėje įrengė didelį papilį.
 - susijęs iš [[objektai/grupes/Elbingo miestiečiai.md#claim-t-183880|Elbingo miestiečiai]]: Kai Elbingo miestiečiai per daug nutolo nuo miesto, pagudėnai iš pasalos atkirto jiems kelią atgal.
 - susijęs iš [[objektai/grupes/Elbingo miestiečiai.md#claim-t-62995|Elbingo miestiečiai]]: 1273 m. Elbingo miestiečiai vijosi prie miesto pasirodžiusius pagudėnų raitelius ir vieną kitą nukovė.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188239|Latviai]]: Narbutas rašė, kad latviai kai kurias upes laikė šventomis, o XVII a. Livonijoje dėl Vyhandės upelio užtvenkimo kilo maištas.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108284|Pranciškonų ordinas]]: Vilniuje tarp trijų minimų krikščionių šventovių buvo ir pranciškonų bažnyčia.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108319|Pranciškonų ordinas]]: Vilniuje tarp trijų ankstyvų krikščionių šventyklų minima ir pranciškonų bažnyčia.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78545|Varmiai]]: Daug kilmingų ir galingų Varmės vyrų su namais bei šeimynomis persikėlė pas Baigos brolius, o šie po jų atvykimo sustiprėjo.
@@ -118,8 +120,6 @@ Nenurodyta
 - susijęs iš Elbingas: 1273 m. pagudėnai paslėpė kariuomenę miške netoli Elbingo ir pasala atkirto miestiečiams kelią į miestą.
 - susijęs iš Polockas: Vienas vieškelis iš Vilniaus per Vilnios upę prie Vyskupo malūno suko į Polocką.
 - susijęs iš Polockas: Vienas vieškelis iš Vilniaus per Vilnios upę prie bendro naudojimo malūno suko į Polocką.
-- susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį.
-- susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį.
 - susijęs iš Unzatrapio žemė: Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
 - susijęs iš Užupis: Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio iš miesto į Užupį, už Vilnelės.
 - susijęs iš Užupis: Aleksandras dovanojo Maksimui Vasiljevičiui pievą prie kelio iš Vilniaus į Užupį už Vilnelės.

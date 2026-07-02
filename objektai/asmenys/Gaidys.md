@@ -36,7 +36,9 @@ Gaidys ir Viesulas turėjo tik pistalietus. [...].Gaidys apsiginklavo automatu, 
   ryšio_targeto_parinkimas: Pistoletas: mention_match, thing, gap=27
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gaidys" parinktas kaip owner_note_path. Targetas "Pistoletas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Viesulas.md#claim-t-39666|Viesulas]]: Viesulas ir Gaidys turėjo tik pistoletus.
+- susijęs iš Merkinė: Narbutas rašė matęs prie Merkinės valstiečio rastą aukso žiedą su raudonu akmeniu, gaidžiu skyde ir raidžių ženklais.
 - susijęs iš [[objektai/asmenys/Tigras.md#claim-t-40464|Tigras]]: Tigras buvo ginkluotas vokišku MG 36 kulkosvaidžiu.
+- susijęs iš Merkinė: 1920 m. spalio 7 d. Suvalkų sutartis Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje.
 ## Reikšmingi paminėjimai
 
 - c-001

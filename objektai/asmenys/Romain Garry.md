@@ -57,7 +57,6 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
 - susijęs iš [[objektai/asmenys/Oskaras Milašius.md#claim-t-64019|Oskaras Milašius]]: Poetas Oskaras Milašius tapo žinomas beveik kiekvienam prancūzui.
 - susijęs iš [[objektai/asmenys/Senda Berenson-Abbot.md#claim-t-78070|Senda Berenson-Abbot]]: Senda Berenson-Abbot, vadinama Amerikos krepšinio motina, gimė Vilniuje 1868 m.
 - susijęs iš Berlynas: Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.
-- susijęs iš Kaunas: Emmanuelis Levinas gimė Kaune ir baigė gimnaziją.
 ## Reikšmingi paminėjimai
 
 - c-001

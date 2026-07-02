@@ -42,20 +42,19 @@ tags:
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną.
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.
+- susijęs iš Dauguva Dvina: Narbutas dainelės žodį „dewine“ aiškino kaip „Dwine upe“ ir siejo jį su devintąja upe, Dvina arba Dauguva.
 - susijęs iš Vitebskas: Švitrigaila Vitebske įsakė Alšėnų kunigaikštį nuo aukšto skardžio įmesti į Dviną.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176343|Gediminas]]: Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176343|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.
 - susijęs iš [[objektai/grupes/Bremeno pirkliai.md#claim-t-55060|Bremeno pirkliai]]: Bremeno pirkliai 1158 m. atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu.
 - susijęs iš [[objektai/grupes/Bremeno pirkliai.md#claim-t-55061|Bremeno pirkliai]]: Apie 1192 m. kolonija iš Bremeno, regis, įkūrė Rygą.
 - susijęs iš [[objektai/grupes/Bremeno pirkliai.md#claim-t-80802|Bremeno pirkliai]]: Bremeno pirkliai 1158 metais atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-86794|Herulai]]: Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178772|Jotvingiai]]: Jotvingiai, pasistūmėję į Rusios gilumą, kalba ir papročiais buvo panašūs į slavus.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169585|Latviai]]: Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179283|Lietuviai]]: Lietuviai kaip tauta, anot šaltinio, Europoje Lietuvos vardu tapo žinomi tik X amžiuje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179290|Lietuviai]]: Tik X a. Lietuvos vardu Europai tapusi žinoma tauta citatoje siejama su trijų skirtingų kilmių gyventojų samplaika.
 - susijęs iš [[objektai/grupes/Skyrai.md#claim-t-86826|Skyrai]]: Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.
 - susijęs iš [[objektai/grupes/Venedai.md#claim-t-86774|Venedai]]: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176123|Žemaičiai]]: Žemaičiai buvo viena iš šešių pagrindinių lietuvių tautos atšakų.
 - susijęs iš [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.).md#claim-t-86973|Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]: Gediminas 1337 m. žuvo mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
 - susijęs iš [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.).md#claim-t-86976|Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]: Gediminas 1337 m. buvo nužudytas mūšyje su kryžiuočiais prie Bajerburgo pilies, netoli Veliuonos.
 - susijęs iš [[objektai/paprociai/Kolonistų vadovavimasis Rygos miesto civiline teise.md#claim-t-87244|Kolonistų vadovavimasis Rygos miesto civiline teise]]: Gediminas laiške pranešė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise, kol bus sukurti geresni įstatymai.
@@ -71,6 +70,7 @@ tags:
 - susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš Baltijos jūra: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš Breslauja: Po Gedimino žūties 1337 m. Jaunutis paveldėjo Breslaują kartu su kitomis valdomis.
+- susijęs iš Dauguva: Narbutas dainelės žodį „dewine“ aiškino kaip „Dwine upe“ ir siejo jį su devintąja upe, Dvina arba Dauguva.
 - susijęs iš Lietuva: Pasak citatos, Lietuvos vardas Europai tapo žinomas tik X amžiuje.
 - susijęs iš Liubekas: Gediminas laiške Liubekui ir kitiems miestams pranešė, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto teise.
 - susijęs iš Liubekas: Gedimino laiške Liubeko ir kitų miestų gyventojams skelbta, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto civiline teise.

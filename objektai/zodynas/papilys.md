@@ -398,7 +398,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 - susijęs iš Natanga: 1324 m. žmonės iš Natangos dalyvavo netikėtame Gedimino pilies papilio užpuolime.
 - susijęs iš Semba: 1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-183835|Papilys suburbium]]: 1324 metų birželio 11 dieną Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
 - susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66821|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.
 - susijęs iš Dusburgo kronika: Balińskis iš Dusburgo pasakojimo sprendė, kad Castrum Gedemini jau egzistavo 1304 metais, o Vilniaus pilis pastatyta tik 1322 metais.
 - susijęs iš Dusburgo kronika: Iš Dusburgo žinių daroma išvada, kad Gedimino pilis buvo Lietuvos ar Žemaitijos pasienyje ir galėjo stovėti prie Nemuno.

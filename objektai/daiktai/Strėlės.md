@@ -59,7 +59,7 @@ Nenurodyta
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172874|J. Dlugošas]]: J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172877|J. Dlugošas]]: J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.
 - susijęs iš [[objektai/asmenys/Edigėjus.md#claim-t-40095|Edigėjus]]: Edigėjus pirmasis su savo pajėgomis stojo į mūšį su Vytautu, bet Lietuvos pajėgos pradėjo pergalėti Ordos kunigaikštį.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176377|Gediminas]]: Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176377|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos.
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60136|Henrikas iš Veidos]]: Nuo 1247 m. Henrikas iš Veidos buvo trečiasis Prūsijos žemės magistras ir vadovavo aštuonerius metus.
 - susijęs iš [[objektai/autoriai/Olivos metraščiai.md#claim-t-88077|Olivos metraščiai]]: Olivos metraščiai rašo, kad Gediminui ar jo kariui stumiant karinę mašiną pataikė Marijano iš bombardos paleistas šūvis.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65309|Kazokai]]: Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus.

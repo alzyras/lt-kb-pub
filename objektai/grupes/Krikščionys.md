@@ -4,6 +4,7 @@ pavadinimas: 'Krikščionys'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,7 +17,6 @@ tags:
 Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 
 ## Teiginiai
-
 <a id="claim-t-07840"></a>
 - t-001
   global_id: t-07840
@@ -114,8 +114,29 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   ryšio_subjekto_parinkimas: Krikščionys: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Fridrichas: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionys" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+<a id="claim-t-188205"></a>
+- t-006
+  global_id: t-188205
+  teiginys: 'Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 151521-152429; hash=dd4d9a8008d380c74f4bd8cac55d0b4e31f6cc474ba3270758b09e0999658279; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_priesas -> Herulai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gotai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Herulai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo gotus kaip herulų priešus.
 - susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91904|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.
 - susijęs iš [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma.md#claim-t-87141|Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]: Gediminas aiškino, kad kariauja su krikščionimis ne dėl katalikų tikėjimo naikinimo, o dėl patiriamų skriaudų.
+- susijęs iš [[objektai/grupes/Galindai.md#claim-t-188186|Galindai]]: Narbutas pasakojo, kad po galindų žygio krikščionys juos išmušė, o supykdyti kaimynai nuniokojo Galindą beveik iki negyvenamos šalies.
+- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188192|Herulai]]: Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis.
 - susijęs iš [[objektai/grupes/Lenkų krikščionys demokratai.md#claim-t-74516|Lenkų krikščionys demokratai]]: Lenkų krikščionys demokratai vyskupijoje rėmėsi lenkų nacionalizmo doktrina ir stiprino lenkų kalbos pozicijas.
 - susijęs iš [[objektai/grupes/Lenkų krikščionys demokratai.md#claim-t-74517|Lenkų krikščionys demokratai]]: Vilniaus vyskupijoje lenkų krikščionys demokratai vadovavosi lenkų nacionalizmo doktrina ir stiprino lenkų kalbos pozicijas.
 - susijęs iš [[objektai/grupes/Lietuvių krikščionys demokratai.md#claim-t-74627|Lietuvių krikščionys demokratai]]: Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nekėlė.
@@ -125,6 +146,7 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/grupes/Lietuvos krikščionių demokratų partija.md#claim-t-74745|Lietuvos krikščionių demokratų partija]]: Krikščionys demokratai ir liaudininkai pareikalavo vietoj Antano Merkio ministru pirmininku paskirti krikščionims demokratams artimą Stasį Raštikį.
 - susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101468|Lietuvos valstiečių liaudininkų sąjunga]]: Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.
 - susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101473|Lietuvos valstiečių liaudininkų sąjunga]]: 1940 m. birželio 15-osios naktį liaudininkai ir krikščionys demokratai pareikalavo vietoje Antano Merkio premjeru skirti Stasį Raštikį.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-188367|Žemaičiai]]: Narbutas rašė, kad žemaičiai religijos pasikeitimą aiškino krikščionių užgesinta amžinąja ugnimi, dėl kurios Perkūnas sušals, o dievai užmigs.
 - susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-71724|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demokratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruodžio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę).
 - susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66519|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Prūsai prie Pagansčių kaimo netikėtai užpuolė krikščionis iš dviejų pusių, nukovė dvylika brolių ir penkis šimtus vyrų.
 - susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91904|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.
@@ -156,6 +178,7 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75714|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75732|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėždavo stiprių prezidento galių būtinybę ir nevertino politinių partijų vaidmens.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75739|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželio 15 d. Antano Smetonos siūlymą priešintis ginklu palaikė vos du ministrai.
+- susijęs iš [[objektai/asmenys/Anzelmas.md#claim-t-60084|Anzelmas (vyskupas, XIII a.)]]: Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75767|Augustinas Voldemaras]]: Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
 - susijęs iš [[objektai/asmenys/Berlevinas.md#claim-t-60247|Berlevinas]]: Naujasis maršalas brolis Berlevinas pasipriešino Ditricho siūlymui pulti likusią priešų kariuomenės dalį prie pelkės.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59876|Bertoldas, vadinamas Briuhavenu]]: Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį.
@@ -176,7 +199,12 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/asmenys/Vladas Mironas.md#claim-t-54009|Vladas Mironas]]: 1938 m. gegužės 12 d. ministras pirmininkas V. Mironas pasirašė naują Lietuvos konstituciją.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176762|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Lietuviai krikštijosi Vytauto Didžiojo ir Jogailos paraginti bei vykdydami jų įsakymus.
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-187942|Adomas Stanislovas Naruševičius]]: Narbutas Naruševičiui priskyrė nuomonę, kad slavai žinojo panašią ugnį, vadintą Zwicz.
+- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-188396|Adomas Stanislovas Naruševičius]]: Naruševičiaus manymu, slavai taip pat žinojo panašią ugnį, vadintą Zwicz.
+- susijęs iš [[objektai/autoriai/Dusburgiečio kronikos perdirbinio autorius.md#claim-t-190384|Dusburgiečio kronikos perdirbinio autorius]]: Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasakojime krivį vadino „kilmingesniu iš jų“ ir praleido srities pavadinimą.
+- susijęs iš [[objektai/daiktai/Amžinosios ugnies aukuras, malkos ir pelenai.md#claim-t-189671|Amžinosios ugnies aukuras, malkos ir pelenai]]: Narbutas rašo, kad žinyčios aukuro pelenams buvo priskiriama gydomoji galia, o žyniai iš jų burdavo.
+- susijęs iš [[objektai/daiktai/Amžinosios ugnies aukuras, ąžuolinės malkos ir pelenai.md#claim-t-189719|Amžinosios ugnies aukuras, ąžuolinės malkos ir pelenai]]: Narbutas rašo, kad žinyčios aukuro pelenams buvo priskiriama gydomoji galia, o žyniai iš jų burdavo.
 - susijęs iš [[objektai/daiktai/Gedimino antspaudas.md#claim-t-81846|Gedimino antspaudas]]: Gediminas savo karališkuoju antspaudu sutvirtino laišką, kuriame žadėjo pasiuntiniams nustatyti tarpusavio taiką.
+- susijęs iš [[objektai/daiktai/Heiligenbeilio kirvis.md#claim-t-189721|Heiligenbeilio kirvis]]: Narbutas pasakojo, kad Heiligenbeilio kirvis atšoko nuo švento ąžuolo kamieno ir mirtinai sužeidė žmogų, kai vyskupas Anzelmas liepė ąžuolą nukirsti.
 - susijęs iš [[objektai/daiktai/Paženklinta plyta.md#claim-t-08312|Paženklinta plyta]]: Vilniaus žinyčios sienoje būdavo įmūrijama paženklinta plyta, kad būtų žinomi praėjusių metų skaitliai.
 - susijęs iš [[objektai/daiktai/Rogas.md#claim-t-08323|Rogas]]: Senovėje kalnėnai ir žemaičiai mirusį žmogų ant rogo degindavo kartu su jo žirgu.
 - susijęs iš [[objektai/daiktai/Šarvuočiai.md#claim-t-26415|Šarvuočiai]]: 1926 m. gruodžio 17 d. perversmo metu šarvuočiai buvo prie Vyriausiojo štabo.
@@ -194,6 +222,7 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175083|Sembai]]: Brolis Bertoldas su tūkstančiu Sembos vyrų sudegino Medrabos pilį iki pamatų, jos žmones išžudė arba paėmė į nelaisvę.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175095|Sembai]]: 1317 m. žiemą maršalas Henrikas, broliai ir Sembos bei Notangos kariai žygiavo prieš Vaikių valsčių, bet dėl audros grįžo atgal.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-183896|Sembai]]: 1317 m. žiemą maršalas Henrikas, broliai ir Sembos bei Notangos kariai žygiavo prieš Vaikių valsčių, bet dėl audros grįžo atgal.
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-188351|Slavai]]: Narbutas nurodė Naruševičiaus nuomonę, kad slavai žinojo panašią amžinąją ugnį, vadintą Zwicz.
 - susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-183186|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
 - susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-20038|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
 - susijęs iš [[objektai/grupes/Žuvėdai.md#claim-t-66404|Žuvėdai]]: Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių.
@@ -216,6 +245,7 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/paprociai/Šventųjų šaltinių ir lieknų neprileidimas.md#claim-t-07824|Šventųjų šaltinių ir lieknų neprileidimas]]: Žemaičiai neleisdavo krikščionims artintis prie savo šventųjų šaltinių ir lieknų, nes bijojo, kad jie juos suterš ar sumaitos.
 - susijęs iš [[objektai/posakiai/Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis.md#claim-t-89590|Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis]]: Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos kaimyninės gentys įsibrovė į Galindą.
 - susijęs iš [[objektai/posakiai/Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa.md#claim-t-28749|Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa]]: Gediminas popiežiaus legato pasiuntiniams pareiškė, kad skirtingų apeigų žmonės Dievą garbina savaip, bet visi turi vieną Dievą.
+- susijęs iš [[objektai/posakiai/dievų valia visi turi be ginklų ir be jokių šarvų užpulti Mazovijos šalį.md#claim-t-189558|dievų valia visi turi be ginklų ir be jokių šarvų užpulti Mazovijos šalį]]: Narbuto pasakojime pranašė paskelbė, kad dievų valia krašto vyrai be ginklų ir šarvų turi pulti Mazoviją, kur jų laukiąs didelis laimikis.
 - susijęs iš [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo.md#claim-t-89597|ne teisingumo ieškoki, bet pasigailėjimo]]: Henrikas iš Lichtenšteino Sventopelkui pareiškė, kad šis turįs ieškoti ne teisingumo, bet pasigailėjimo.
 - susijęs iš [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo.md#claim-t-89598|ne teisingumo ieškoki, bet pasigailėjimo]]: Sventopelkui prašant grąžinti įkaitu duotą sūnų, Henrikas iš Lichtenšteino atsakė: „ne teisingumo ieškoki, bet pasigailėjimo“.
 - susijęs iš [[objektai/posakiai/„Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat s.md#claim-t-28759|„Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat s]]: Gediminas popiežiaus legato pasiuntiniams pareiškė, kad skirtingos bendruomenės Dievą gali garbinti pagal savo papročius.
@@ -226,6 +256,7 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš Regesta Lithuaniae: Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 1292 m.
 - susijęs iš Varpas: 1902 m. Lietuvos demokratų partija susikūrė „Varpą“ leidusios organizacijos pagrindu.
 - susijęs iš Viltis: Apie Antano Smetonos redaguotą „Vilties“ žurnalą susitelkusi būsimų tautininkų grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
+- susijęs iš Galinda: Narbutas pasakojo, kad supykdyti kaimynai nuniokojo Galindą taip, jog kraštas daugeliui metų liko beveik negyvenamas.
 - susijęs iš Junigeda: Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junigedos vardu.
 - susijęs iš Junigeda: Paaiškinimuose Junigedos, arba Veliuonos, pilis siejama su rytiniu Veliuonos piliakalniu, vadinamu Gedimino kapu.
 - susijęs iš Junigeda: Junigeda minima kaip valsčius ir pilis, vėlesnėse kronikose tapatinta su Veliuona.
@@ -252,7 +283,6 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-183956|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
 - susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66829|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -354,16 +384,44 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Bet jos principai visiškai
+    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
+    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
+    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
+    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
+    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
+    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
+    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
+    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
+    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
+    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
+    religijos, kurią gana veiksmingai formavo graikų mitologija.
+    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
+    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
+    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
+- Krikščionys puole [[objektai/grupes/Galindai]]
 - Krikščionys gyveno [[objektai/vietos/Tripolis]]
 - Krikščionys gyveno [[objektai/vietos/Jeruzalė]]
 - Krikščionys kariavo_pries [[objektai/grupes/Saracėnai]]
 - [[objektai/grupes/Galindai]] kariavo_pries Krikščionys
-- [[objektai/asmenys/Gediminas]] kariavo_pries Krikščionys
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] kariavo_pries Krikščionys
 - Krikščionys dalyvavo_musyje [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės]]
 - Krikščionys dalyvavo_musyje [[objektai/ivykiai/Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas]]
 - [[objektai/asmenys/Sventopelkas]] kariavo_pries Krikščionys
+- [[objektai/grupes/Gotai]] priklause Krikščionys
 - Krikščionys reme [[objektai/grupes/Lietuviai]]
 - Krikščionys dalyvavo_musyje [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]
 - Krikščionys puole [[objektai/grupes/Kalnėnai]]

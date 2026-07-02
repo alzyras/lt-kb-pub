@@ -9,6 +9,7 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -22,14 +23,14 @@ date_start: '1132'
 date_end: '1589'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XII'
+  - 'XVI'
 tags:
   - karalius
   - unija
   - valstybė
   - vieta
-amziai:
-  - 'XII'
-  - 'XVI'
 ---
 # Kijevas
 
@@ -38,7 +39,6 @@ amziai:
 Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykstantiems kryžeiviams paruoštus stalus. Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos. Tiesa, totoriai dažnai nusiaubdavo Kijevo apylinkes, tačiau pačios Lietuvos niekas nepalietė.
 
 ## Teiginiai
-
 <a id="claim-t-180000"></a>
 - t-001
   global_id: t-180000
@@ -282,7 +282,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180016
   teiginys: 'Po Mykolo mirties Lietuvos ponai Lietuvos valdovu siūlė Kijevo kunigaikštį Simaną.'
   sudarymo_pagrindimas: 'Pradinė formuluotė gramatiškai netiksli, todėl ją reikia sutrumpinti ir pataisyti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos ponai|Lietuvos ponai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Voluinė'
   temporaliniai_duomenys: 'įvykio data: 1452 m.; įvykio data: 1461 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė gramatiškai netiksli, todėl ją reikia sutrumpinti ir pataisyti.'
@@ -505,7 +505,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180033
   teiginys: '1461 m. Lietuvos ponai kandidatu į Lietuvos valdovus siūlė Kijevo kunigaikštį Simaną.'
   sudarymo_pagrindimas: 'Sakinys patikslintas pagal citatoje nurodytą pasiūlymą ir datą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos ponai|Lietuvos ponai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Voluinė'
   temporaliniai_duomenys: 'įvykio data: 1452 m.; įvykio data: 1461 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys patikslintas pagal citatoje nurodytą pasiūlymą ir datą.'
@@ -967,6 +967,25 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
   ryšio_paaiskinimas: Teiginyje Vytautas tiesiogiai įvardytas kaip Kijevo atėmėjas.
+
+<a id="claim-t-188724"></a>
+- t-057
+  global_id: t-188724
+  teiginys: 'Narbutas Perkūno stabo garsumą X a. siejo su Vladimiro pastatytais tokiais pat stabais Kijeve ir Naugarde.'
+  pagrindžia:
+    - c-038
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 419517-420059; hash=a74d27098b34a5f513b5135141bb8ab48ac9689bb825cea4c787859f23a48bf5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Naugardas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185495|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
 - susijęs iš [[objektai/zodynas/monarchas monarchija.md#claim-t-185388|monarchas monarchija]]: Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija.
 - susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.).md#claim-t-100033|Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]: Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.
@@ -1041,6 +1060,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš [[objektai/grupes/Krymo orda.md#claim-t-86726|Krymo orda]]: Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184523|Lenkai]]: Lenkai savinosi Kijevą ir Volynę, remdamiesi Boleslovo Narsiojo pergalėmis ir naujais giminystės ryšiais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179292|Lietuviai]]: XI a. rusų metraščiai tik du kartus paminėjo lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190579|Lietuviai]]: Narbutas teigė, kad lietuvių Perkūno stabas X a. buvo garsus Šiaurėje, o panašūs stabai pastatyti Kijeve ir Naugarde.
 - susijęs iš [[objektai/grupes/Maskvos metropolitai.md#claim-t-86762|Maskvos metropolitai]]: Maskvos metropolitas Fotijas siekė išprašyti Kijevo metropolijos prijungimą prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo.
 - susijęs iš [[objektai/grupes/Mongolų imperija.md#claim-t-74873|Mongolų imperija]]: XIII a. Mongolų imperija sudaužė Kijevo Rusią, o Lietuva pasinaudojo pergale ir pajungė kai kurias rusų žemes.
 - susijęs iš [[objektai/grupes/Mongolų imperija.md#claim-t-74874|Mongolų imperija]]: XIII a. Mongolų imperija sudaužė Kijevo Rusią, o Lietuva pasinaudojo pergale ir pajungė kai kurias rusų žemes.
@@ -1102,6 +1122,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš Polockas: Skirgailai buvo paliktas Polockas ir pažadėta Kijevo kunigaikštija.
 - susijęs iš Polockas: Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą.
 - susijęs iš Ragainė: Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.
+- susijęs iš Rosė (Ross) upė Kijevo gubernijoje: Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą iš ten kadaise gyvenusių lietuvių genties tautų.
 - susijęs iš Targovica: Targovica buvo Ordos karinis-administracinis centras prie kelio nuo Juodosios jūros ir Krymo Lucko bei Kijevo link.
 - susijęs iš Vitebskas: Gediminas prie anksčiau lietuvių užvaldytų žemių pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
 - susijęs iš Vitebskas: Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis.
@@ -1131,12 +1152,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš [[objektai/asmenys/Devletberdi.md#claim-t-35047|Devletberdi]]: Chanas Devletberdi įsigalėjo Kryme, susitaikė su Vytautu ir vėliau buvo Machmeto nužudytas.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-50969|Dimitras Kaributas]]: Vytautas, pritariamas Jogailos, pirmiausia atėmė Sievero žemę iš Dimitro Kaributo.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-50970|Dimitras Kaributas]]: Dimitras Kaributas valdė Sievero žemę, kurią Vytautas, pritariamas Jogailos, iš jo atėmė.
+- susijęs iš [[objektai/asmenys/Filimeras.md#claim-t-190149|Filimeras]]: Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, išėjusiomis į rytus valdant Filimerui arba kiek vėliau.
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93200|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: 1408 m. Konstantinopolio patriarchas metropolitu paskyrė Maskvos kandidatą graiką Focijų.
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93201|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Po Cemblako mirties Vytautas susitaikė su Maskvos „visos Rusijos“ metropolitu Focijumi.
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93202|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Focijus siuntė Lietuvos stačiatikiams raštus, kuriuose kaltino Gregorijų Cemblaką ir reikalavo jį ištremti iš Lietuvos.
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93204|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Focijus Lietuvos stačiatikiams siuntė raštus, kuriuose kaltino Gregorijų Cemblaką ir reikalavo jį ištremti iš Lietuvos.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas]]: Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
 - susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93285|Gregorijus Cemblakas]]: Totorių puldinėjimų metu Gregorijus Cemblakas turėjo iš savo sostinės persikelti į Vilnių.
 - susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-18955|Jaroslavas]]: Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.
@@ -1164,6 +1186,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179668|Skirgaila]]: Jogaila sutaikė Vytautą su Skirgaila, kuris citatoje vadinamas didžiausiu Vytauto priešu.
 - susijęs iš [[objektai/asmenys/Steponas (Vengrijos valdovas).md#claim-t-19265|Steponas (Vengrijos valdovas)]]: Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.
 - susijęs iš [[objektai/asmenys/Steponas.md#claim-t-64125|Steponas]]: Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.
+- susijęs iš [[objektai/asmenys/Sveneldas.md#claim-t-190212|Sveneldas]]: Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiajame Naugarde.
 - susijęs iš [[objektai/asmenys/Teodoras (Gedimino brolis).md#claim-t-30391|Teodoras (Gedimino brolis)]]: Privengdamas totorių chano Uzbeko, Teodoras negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.
 - susijęs iš [[objektai/asmenys/Teodoras (Karijoto sūnus).md#claim-t-35291|Teodoras (Karijoto sūnus)]]: Karijoto sūnus Teodoras buvo nepaklusnus Podolijos kunigaikštis, kurį Vytautas suvaldė Jogailos pritarimu.
 - susijęs iš [[objektai/asmenys/Teodoras (Konstantino Karijotaičio brolis).md#claim-t-186167|Teodoras (Konstantino Karijotaičio brolis)]]: Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konstantino vietą Podolėje.
@@ -1194,12 +1217,14 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78789|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Lietuvos teritoriją iki 1341 m.
 - susijęs iš [[objektai/autoriai/M. Liubavskij.md#claim-t-30839|M. Liubavskij]]: M. Liubavskij teigė, kad rusai siekė pasipelnyti iš lietuvių kailių, vaško ir medaus prekybos su Bizantija.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172902|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis XVI a. antrojoje pusėje rašė, kad Gediminas mūšyje prie Irpenės smogė rusams iš šono ir juos sumušė.
+- susijęs iš [[objektai/autoriai/Malte-Brunas.md#claim-t-190441|Malte-Brunas]]: Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško aiškinimo „plikasis kalnas“.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis Michalonis Lit.md#claim-t-88036|Mykolas Lietuvis Michalonis Lit]]: Mykolas Lietuvis rašė, kad Kafos miestas prie Juodosios jūros buvo svarbiausias Lietuvos prekybinis uostas ryšiams su Rytais.
 - susijęs iš [[objektai/autoriai/Pranciškus Malevskis.md#claim-t-55019|Pranciškus Malevskis]]: Pranciškus Malevskis vadovavo senosios Lietuvos Metrikos padaliniui, priskirtam Senato Trečiajam departamentui.
 - susijęs iš [[objektai/autoriai/Pranciškus Malevskis.md#claim-t-55020|Pranciškus Malevskis]]: Pranciškus Malevskis Balinskio medžiagos rinkiniams parūpino gausių išrašų apie Vilnių iš Lietuvos Metrikos.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47897|Rusų ir ukrainiečių istorikai]]: Ukrainiečių istorikai M. Hruševskis ir V. Zaikinas rašė Lietuvos Didžiosios Kunigaikštystės istorijos temomis.
 - susijęs iš [[objektai/autoriai/V. T. Pašuto.md#claim-t-31047|V. T. Pašuto]]: V. T. Pašuto parašė veikalą „Obrazovanie litovskogo gosudarstva“, kurio lietuviškas vertimas išėjo pavadinimu „Lietuvos valstybės susidarymas“.
 - susijęs iš [[objektai/autoriai/V. Zaikin.md#claim-t-31054|V. Zaikin]]: V. Zaikinas rašė teisės filosofijos ir religijos istorijos temomis, liesdamas Didžiąją Lietuvos Kunigaikštystę.
+- susijęs iš [[objektai/daiktai/Perkūno stabai.md#claim-t-189696|Perkūno stabai]]: Narbutas rašo, kad Romovės šventyklos aprašyme Perkūno stabas minimas kaip vyriausiojo dievo atvaizdas, buvęs puošnesnis už kitus.
 - susijęs iš [[objektai/daiktai/Vytauto laikų pinigėliai.md#claim-t-01247|Vytauto laikų pinigėliai]]: Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o dešimt pinigėlių buvo lygūs vienam skatikui.
 - susijęs iš [[objektai/grupes/Alšėniškių giminė.md#claim-t-187770|Alšėniškių giminė]]: Fedoras Ivanovičius Jaroslavičius LDK buvo susigiminiavęs su Goštautais, Olelkaičiais ir Alšėniškiais.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187438|Aukso orda]]: Apie 1325 m. Aukso orda rytuose turėjo kovoti su ją puolusiu Iranu.
@@ -1208,13 +1233,17 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187445|Aukso orda]]: Aukso ordos chanas Sich-Achmetas po Mengli-Girėjaus pralaimėjimo ieškojo prieglobsčio Nogajų ordoje, bet vėliau grįžo į LDK.
 - susijęs iš [[objektai/grupes/Aukščiausioji Santarvininkių Taryba.md#claim-t-72030|Aukščiausioji Santarvininkių Taryba (institucija)]]: Aukščiausioji Santarvininkių Taryba 1919 m. gruodžio 8 d. nustatė Kerzono liniją.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96108|Gediminaičių dinastija]]: Daugumas Gediminaičių pačioje Vytauto valdymo pradžioje pasirodė jam nepaklusnūs.
+- susijęs iš [[objektai/grupes/Gotai.md#claim-t-188191|Gotai]]: Narbutas Rosės upės vardą Kijevo gubernijoje siejo su lietuvių gentimis, kurios esą išėjo į rytus su gotais Filimero valdymo metu ar kiek vėliau.
 - susijęs iš [[objektai/grupes/Goštautų giminė.md#claim-t-187760|Goštautų giminė]]: Fedoras Ivanovičius Jaroslavičius susigiminiavo su LDK didikais Goštautais ir vedęs Oleną Aleksandrą gavo Pinską.
 - susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-31222|Krivičiai]]: Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.
 - susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-71638|Krymo totoriai]]: Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikęs chanas Devletberdi.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179219|Lietuviai]]: XIII-XIV a. rašytiniai šaltiniai ir karai su ordino riteriais rodo, kad pagonys lietuviai buvo pasiekę palyginti aukštą kultūros lygį.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179225|Lietuviai]]: 1897 m. surašymo duomenimis, dabartinės Lietuvos ribose be Klaipėdos krašto gyveno apie 2,7 mln. žmonių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184551|Lietuviai]]: Kijevo monarchijai baigiantis, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188279|Lietuviai]]: Narbutas spėjo, kad Rusos upės vardą Naugardo gubernijoje galėjo duoti variagų atgabenta lietuvių tautos kolonija.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169687|Lietuvos Didžioji Kunigaikštija]]: Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.
 - susijęs iš [[objektai/grupes/Liuteronai.md#claim-t-45108|Liuteronai]]: Liuteronybė nuo 1539 m. buvo ankstyviausia reformacijos kryptis Lietuvoje, o vėliau liuteronų bendruomenės imtos vadinti vokiečių bendruomenėmis.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188298|Prūsai]]: Narbutas spėja, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti lietuvių tautos kolonija, siejama su prūsų kolonistais Naugarde.
 - susijęs iš [[objektai/grupes/Rogvoldovičiai.md#claim-t-86820|Rogvoldovičiai]]: Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74912|Rusėnai]]: Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.
 - susijęs iš [[objektai/grupes/Seversko kunigaikščiai.md#claim-t-185437|Seversko kunigaikščiai]]: Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos.
@@ -1225,11 +1254,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171418|Totoriai]]: Totoriai, įsigalėję Rusijoje, pradėjo tarpusavyje vaidytis, o Lietuva iš šių vaidų ne kartą pasipelnydavo.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171445|Totoriai]]: Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187747|Totoriai]]: Lietuvos metraštis teigia, kad Dievui padėjus totoriai sumušė Vytautą ir jo kariuomenę, o Vytautas su nedideliu būriu pabėgo.
+- susijęs iš [[objektai/grupes/Ukrainiečiai.md#claim-t-188356|Ukrainiečiai]]: Narbutas aiškino, kad ukrainiečių Rosės upės vardas kilo iš kadaise ten gyvenusių lietuvių genties tautų.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176077|Vilniaus kapitula]]: Katedra ir Vilniaus kapitula iš Vladislovo Jogailos paveldėjimo teise gavo Panerius ir kitų mažesnių pajamų.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176080|Vilniaus kapitula]]: Vladislovas Jogaila paveldėjimo teise perdavė katedrai ir Vilniaus kapitulai Panerius bei kitas mažesnes pajamas.
 - susijęs iš [[objektai/ivykiai/Brastos bažnytinė unija.md#claim-t-183219|Brastos bažnytinė unija (unija)]]: Brastos bažnytinę uniją 1596 m. nulėmė gausūs XV–XVI a. LDK telkęsi bažnytinės unijos bandymai.
 - susijęs iš [[objektai/ivykiai/Brastos bažnytinė unija.md#claim-t-20172|Brastos bažnytinė unija (unija)]]: Po Brastos bažnytinės unijos stačiatikiai ir graikai katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
 - susijęs iš [[objektai/ivykiai/Jotvingių pralaimėjimas Vladimirui A. Kojelavičiaus pasakojime (970 m.).md#claim-t-185709|Jotvingių pralaimėjimas Vladimirui A. Kojelavičiaus pasakojime (970 m.)]]: Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę.
+- susijęs iš [[objektai/ivykiai/Kernavės sunaikinimas prieš Trakų pilies pastatymą.md#claim-t-189630|Kernavės sunaikinimas prieš Trakų pilies pastatymą]]: Narbutas siejo Trakų pilies statybą su XI a. rusinų žygiais į Lietuvą ir visišku Kernavės sunaikinimu.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.).md#claim-t-05298|Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]: 1044 m. Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką.
 - susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186793|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po Mengli-Girėjaus laimėto mūšio Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje.
 - susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186794|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po pralaimėjimo Mengli-Girėjui Sich-Achmetas ieškojo prieglobsčio Nogajų ordoje, bet 1503 m. rudenį grįžo į LDK.
@@ -1278,6 +1309,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš Joannis Długosz, Opera Omnia: „Joannis Długosz, Opera Omnia“ 11–14 tomai buvo išleisti Krokuvoje 1873–1878 m.
 - susijęs iš Liublino unijos aktas (1569 m.): 1562 m. Vitebsko karo lauko seimas pasiuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
 - susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronika minima kaip XVI a. istorinės tradicijos šaltinis apie mūšį prie Irpenės upės netoli Belgorodo.
+- susijęs iš Malte-Bruno „Vocabulaire de mots génériques“: Narbutas Malte-Brunui priskiria nuomonę, kad Kaukazo pavadinimas išvedamas iš prūsiško „Khohkasp“ – plikojo kalno.
 - susijęs iš Mykolas Lietuvis, de Moribus Tartarorum, Lituanorum et Moschorum: Mykolo Lietuvio veikale Kafa prie Juodosios jūros minima kaip svarbiausias Lietuvos prekybinis uostas, jungęs ją su Rytais.
 - susijęs iš Mykolo Kleofso Oginskio kunigaikštijos sudarymo projektas (1811 m.): Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.
 - susijęs iš Nifono laiškas rusams dėl Florencijos tikėjimo santarvės: Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, dėl kurios sutarė Jonas Paleologas ir Rytų bažnyčios patriarchai.
@@ -1313,7 +1345,11 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš Maskva: Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į Kijevo ir Maskvos dalis, kurių istorija vėliau klostėsi savarankiškai.
 - susijęs iš Maskva: Polocką valdęs Andrius pabėgo į Maskvą ir ėmė rengti koaliciją prieš Jogailą.
 - susijęs iš Naugardas Sieverskas: Po sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Naugardo Sieversko bei kelias kitas sritis.
+- susijęs iš Naugardas: Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti variagų atgabenta lietuvių kolonija.
+- susijęs iš Naugardas: Narbutas teigė, kad Vladimiras X a. Kijeve ir Naugarde pastatė Perkūno stabus, panašius į lietuvių Perkūno stabą.
+- susijęs iš Naugardas: Senyvo amžiaus Vytautas kariavo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai patirtas skriaudas.
 - susijęs iš Naugardas: Livonijos Ordinas sudarė prieš Vytautą nukreiptą taiką su Pskovu 1417 m. ir Naugardu 1421 m., o tai pakenkė Bažnyčių unijai.
+- susijęs iš Naugardas: 1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai.
 - susijęs iš Naugardukas: 1044 m. Jaroslavas, anot šaltinio, pavasarį įkūrė Naugarduką.
 - susijęs iš Oviučis: Vytautas tą patį pavasarį paėmė Žitomiro ir Oviučio miestus.
 - susijęs iš Ovručas: Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama sąjungininkams skriaudų, ir priartėjo prie Ovručo.
@@ -1326,7 +1362,10 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš Polockas: Algirdas rytinėse Lietuvos Didžiosios Kunigaikštijos žemėse pasodino savo sūnus, o Polocke sėdėjo Andrius.
 - susijęs iš Polockas: Gedimino laikais Polockas jau buvo tarp anksčiau lietuvių užvaldytų žemių.
 - susijęs iš Polockas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.
+- susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
 - susijęs iš Ratne: Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.
+- susijęs iš Rosė: Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė vardą gavusia iš lietuvių genties tautų.
+- susijęs iš Rusa (Russ) upė Naugardo gubernijoje: Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upei vardą davė variagų atgabenta lietuvių tautos kolonija.
 - susijęs iš Serpeiskas: Po 1494.II.5 sutarties Serpeiskas paliko LDK.
 - susijęs iš Severskas: Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.
 - susijęs iš Seversko žemės: Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes bei sudaryti uniją.
@@ -1359,9 +1398,9 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš Černigovas: Dalis Lietuvos miestų tuo metu buvo valdoma Černigovo kunigaikščių.
 - susijęs iš Černigovas: Černigove susidarė atskira kunigaikštija.
 - susijęs iš Černigovas: Po nepavykusio sąmokslo Švitrigaila perėmė Černigovo ir kelias kitas sritis.
-- susijęs iš Žemaitija: 1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.
 - susijęs iš [[objektai/zodynas/Kerzono linija.md#claim-t-44061|Kerzono linija]]: Kerzono liniją 1919 m. gruodžio 8 d. nustatė Aukščiausioji Santarvininkių Taryba.
 - susijęs iš [[objektai/zodynas/Lietuvos didysis kunigaikštis.md#claim-t-185374|Lietuvos didysis kunigaikštis]]: Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.
+- susijęs iš [[objektai/zodynas/Plikasis kalnas Lyse góry.md#claim-t-189171|Plikasis kalnas Lyse góry]]: Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypač šiaurėje, nuogus ir be medžių aukų kalnus.
 - susijęs iš [[objektai/zodynas/Rusios didysis kunigaikštis.md#claim-t-185410|Rusios didysis kunigaikštis]]: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
 - susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78879|baskakas]]: 1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.
 - susijęs iš [[objektai/zodynas/christianizacija.md#claim-t-22093|christianizacija]]: 997 m. Norvegijos valdovas Olafas pradėjo šalies christianizaciją, o 1009 m. buvo pakrikštytas Lietuvos „karalius“ Netimeras.
@@ -1388,7 +1427,6 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63558|Edyga]]: Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
 - susijęs iš Miloslavičiai: Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.
 - susijęs iš Naugardas Sieverskas: Po sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Naugardo Sieversko bei kelias kitas sritis.
-- susijęs iš Polockas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82179|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184669|Algirdas (Lietuvos valdovas)]]: Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171445|Totoriai]]: Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą.
@@ -1406,7 +1444,6 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš [[objektai/grupes/Krymo orda.md#claim-t-86726|Krymo orda]]: Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
 - susijęs iš [[objektai/asmenys/Markvardas (Ragainės komtūras).md#claim-t-39600|Markvardas (Ragainės komtūras)]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2178,14 +2215,35 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   patikimumo_saltinis: ai
   pagrindžia:
     - t-056
+- c-038
+  santrauka: 'Narbutas Perkūno stabo garsumą X a. siejo su Vladimiro pastatytais tokiais pat stabais Kijeve ir Naugarde.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    O šios šventyklos aprašyme
+    istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
+    buvęs puošnesnis už kitus.
+    Lietuvių Perkūno stabas X amžiuje Šiaurėje buvo garsus,
+    kadangi Vladimiras, tapęs visos Šiaurės Rusios didžiuoju ku­
+    nigaikščiu, tokius pačius pastatė Kijeve ir Naugarde; tuo pa­
+    čiu metu tam dievui buvo pastatyta šventykla toje vietoje, kur
+    yra vadinamasis Perimo vienuolynas. Tai buvusi didžiulė sta­
+    tula, liemuo iš ąžuolo, galva sidabrinė, ūsai ir ausys auksinės,
+    kojos geležinės, kumštyje laikė kažką panašaus į žaibus23.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-057
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] uzeme Kijevas
-- [[objektai/asmenys/Gediminas]] uzkariavo Kijevas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzeme Kijevas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzkariavo Kijevas
 - Kijevas priklause [[objektai/vietos/Rusija]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Kijevas
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] uzeme Kijevas
-- [[objektai/asmenys/Gediminas]] surenge_zygi_i Kijevas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] surenge_zygi_i Kijevas
 - [[objektai/asmenys/Skirgaila]] mire Kijevas
 - [[objektai/asmenys/Švitrigaila]] valde_teritorija Kijevas
 - [[objektai/grupes/Totoriai]] puole Kijevas
@@ -2202,7 +2260,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - [[objektai/grupes/Auksinė Orda]] valde_miesta Kijevas
 - Kijevas priklause [[objektai/grupes/Auksinė Orda]]
 - Kijevas priklause [[objektai/vietos/Lenkija]]
-- [[objektai/asmenys/Gediminas]] valde Kijevas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] valde Kijevas
 - [[objektai/asmenys/Skirgaila]] valde_teritorija Kijevas
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Kijevas
 - [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Kijevas

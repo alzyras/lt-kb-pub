@@ -150,6 +150,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169589|Latviai]]: Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet’gola.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169592|Latviai]]: Tikrieji latviai naujojo geležies amžiaus pradžioje pradėjo ryškiau kalbiškai skirtis nuo lietuvių.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188223|Latviai]]: Pasak Stenderio, latviai kiekvieną deivę vadino motina, o dievą - tėvu, todėl mitus siejo su vyriškąja ir moteriškąja dievybės lytimis.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179336|Lietuviai]]: Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183886|Lietuviai]]: Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96813|Lybiai]]: Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.
@@ -157,6 +158,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78400|Notangai]]: 1317 m. žiemą brolis Henrikas su broliais ir Sembos bei Notangos kariais žygiavo prieš Vaikių valsčių.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78404|Notangai]]: 1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį ir sudegino abu jos papilius.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78410|Notangai]]: 1314 m. brolis Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.
+- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-188290|Pamedėnai]]: Narbutas rašo, kad pamedėnai turėjo prisiekti nepriimti krikščionių tikėjimo ir ginti savo senąjį tikėjimą.
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78424|Pamedėnai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108303|Pranciškonų ordinas]]: Gedimino laiškai Liubeke buvo įteikti miesto tarybai ir Pranciškonų ordino kustodui.
 - susijęs iš [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md#claim-t-89177|Prūsijos naujakrikščiai atsimetėliai]]: Po Vokietijos kunigaikščių žygių minėti Prūsijos naujakrikščiai atsimetėliai grįžo į tikėjimą ir iš naujo pasidavė broliams.
@@ -211,6 +213,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš Naugardukas: 1314 m. rugsėjį brolis Henrikas su kariuomene įžengė į Krivičių žemę ir užėmė Naugarduko miestą.
 - susijęs iš Naugardukas: Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą.
 - susijęs iš Nemunas: Henrikui iš Plockės puolant Bisenės pilį, upe atplaukę kariai iš laivų nutiesė tiltą per Nemuną, bet apgula baigėsi nesėkme.
+- susijęs iš Nemunas: Narbutas pateikė iš Hartknocho paimtą lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, maldos pavyzdį.
 - susijęs iš Paštuvos valsčius: 1316 m. žiemą maršalas Henrikas su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių, jį nusiaubė ir paėmė arba nukovė 500 žmonių.
 - susijęs iš Pomeranija: 1246 m. magistras ir broliai su sąjungininkais įsiveržė į Pomeraniją ir devynias dienas bei naktis ją niokojo.
 - susijęs iš Prancūzija: Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos kariauti su pagonimis.

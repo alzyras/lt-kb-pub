@@ -52,6 +52,7 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Smilkalai: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: kunigas: mention_match, thing, gap=31
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smilkalai" parinktas kaip owner_note_path. Targetas "kunigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/autoriai/Henenbergeris.md#claim-t-190311|Henenbergeris]]: Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris dienas pasninkaudavo ir gulėdavo ant plikos žemės.
 - susijęs iš [[objektai/paprociai/Auka už mirusiuosius ir mirusiųjų minėjimo atnašos.md#claim-t-187991|Auka už mirusiuosius ir mirusiųjų minėjimo atnašos]]: Narbutas mini auką už mirusius bičiulius, kai smilkymas kartais užbaigdavo Vėlinių iškilmes.
 ## Reikšmingi paminėjimai
 

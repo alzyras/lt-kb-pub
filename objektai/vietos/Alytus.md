@@ -176,7 +176,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - susijęs iš Merkys: Palei Merkį, Nemuną, Nerį, Ūlą ir Katrą gausiai aptikta mezolito įrankių.
 - susijęs iš Smalėnai: Rugsėjo 22 d. prie Smalėnų miestelio šarvuotasis traukinys „Gediminas“ susirėmė su lenkų artilerija ir rėmė Lietuvos pėstininkus.
 - susijęs iš Varčios miškas: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.
-- susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
 - susijęs iš Vilnius: 1919 m. balandžio pradžioje Lietuvos karinė vadovybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti Vilnių ir pirmiau nei lenkai jį užimti.
 - susijęs iš Vysla: Svidrinės kultūros vardas siejamas su Svidrais prie Vyslos Lenkijoje.
 - susijęs iš Vysla: Lietuvoje buvo nemažai svidrinės kultūros židinių; jos vardas siejamas su Svidrais prie Vyslos Lenkijoje.

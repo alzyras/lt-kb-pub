@@ -117,7 +117,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 - susijęs iš Dauguva: Vokiečių ekspansija buvo nublokšta iki Dauguvos, į XIII a.
 - susijęs iš Gorodnica: Gorodnica buvo ypač garsus Tizenhauzo Gardine pastatytas pramonės priemiestis.
 - susijęs iš Gorodnica: Gorodnica buvo ypač garsus vienas iš dviejų Tizenhauzo Gardine pastatytų pramonės priemiesčių.
-- susijęs iš Kaunas: Emmanuelis Levinas gimė Kaune ir baigė gimnaziją.
 - susijęs iš Kauno getas: Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga.
 - susijęs iš Kretinga: Geležinkelio linija Klaipėda–Šiauliai per Kretingą ir Kužius buvo baigta tiesti tik 1936 m.
 - susijęs iš Kryžių kalnas: Priklausomybės dešimtmečiais Kryžių kalnas išryškino kryžiaus kaip stiprybės ir vilties šaltinio prasmę.

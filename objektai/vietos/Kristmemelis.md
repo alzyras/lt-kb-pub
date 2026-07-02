@@ -123,31 +123,31 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   temporalinis_llm_pakomentavimas: 'Teiginys yra apie autoriaus pateikimą, todėl šaltinio atribucija tinkama.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176814|Vytenis]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176829|Vytenis]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176822|Vytenis]]: Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176814|Vytenis (valdovas, XIII–XIV a.)]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176829|Vytenis (valdovas, XIII–XIV a.)]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176822|Vytenis (valdovas, XIII–XIV a.)]]: Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis.
 - susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-184097|Karolis (didysis magistras)]]: Kristmemelio pilis buvo pastatyta magistro Karolio.
 - susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89880|Karolis (didysis magistras)]]: Kristmemelio pilis buvo pastatyta magistro Karolio.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176814|Vytenis]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176829|Vytenis]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176822|Vytenis]]: Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176814|Vytenis (valdovas, XIII–XIV a.)]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176829|Vytenis (valdovas, XIII–XIV a.)]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176822|Vytenis (valdovas, XIII–XIV a.)]]: Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis.
 - susijęs iš [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.).md#claim-t-62837|Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]: 1315 m. rugsėjį Vytenis su karo vyrais apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
 - susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89882|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
 - susijęs iš Гуревич Ф. Д. Древний Новогрудок: F. D. Gurevič veikale „Древний Новогрудок“ Naugarduko pradžia datuojama X a. pabaiga.
 - susijęs iš Ткачоу М. А., Абарончыя: M. A. Ткачоу darbas „Абарончыя“ cituojamas dėl Naugarduko pilies ir jos papilio aprašymo, pateikto p. 42–52.
 - susijęs iš Ткачоу М. А., Замки: M. A. Ткачоу darbas „Замки“ cituojamas dėl Naugarduko pilies ir jos papilio aprašymo, pateikto p. 15–21.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59954|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: 1316 m. Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų išžudė Bisenės pilies sargybą keitusius lietuvius.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176335|Gediminas]]: 1324 m. Gedimino Lietuva surengė atsakomuosius smūgius prieš Kristmemelio pilį, Rezeknės apylinkes Livonijoje ir Mazoviją.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176814|Vytenis]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176822|Vytenis]]: Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176829|Vytenis]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176335|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1324 m. Gedimino Lietuva surengė atsakomuosius smūgius prieš Kristmemelio pilį, Rezeknės apylinkes Livonijoje ir Mazoviją.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176814|Vytenis (valdovas, XIII–XIV a.)]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176822|Vytenis (valdovas, XIII–XIV a.)]]: Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176829|Vytenis (valdovas, XIII–XIV a.)]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
 - susijęs iš [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.).md#claim-t-62837|Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]: 1315 m. rugsėjį Vytenis su karo vyrais apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
 - susijęs iš [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.).md#claim-t-62838|Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]: Septynioliktą apgulties dieną lietuviai bandė sudeginti Kristmemelio pilį, bet nepasiekę tikslo pasitraukė.
 - susijęs iš [[objektai/ivykiai/Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara).md#claim-t-62839|Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara)]]: 1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno, o lietuviai ją sunaikino.
 - susijęs iš [[objektai/ivykiai/Lietuvos atsakomųjų smūgių kampanija prieš Ordiną ir jo sąjungininkus (1324 m.).md#claim-t-62857|Lietuvos atsakomųjų smūgių kampanija prieš Ordiną ir jo sąjungininkus (1324 m.)]]: 1324 m. Gedimino Lietuva puolė Kristmemelio pilį, niokojo Rezeknės apylinkes Livonijoje ir smogė Ordino sąjungininkei Mazovijai.
 - susijęs iš [[objektai/paprociai/Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika.md#claim-t-62704|Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika]]: Marienverderio ir Kristmemelio pilys Dusburgiečio pasakojime siejamos su keliu į netikėlių žemes ir krikščionių žemių plėtra.
 - susijęs iš [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.).md#claim-t-62838|Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]: Septynioliktą apgulties dieną lietuviai bandė sudeginti Kristmemelio pilį, bet nepasiekę tikslo pasitraukė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10678|Gediminas]]: Gedimino laikais Vilnius tapo nuolatine Lietuvos sostine.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10678|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino laikais Vilnius tapo nuolatine Lietuvos sostine.
 - susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-184097|Karolis (didysis magistras)]]: Kristmemelio pilis buvo pastatyta magistro Karolio.
 - susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89880|Karolis (didysis magistras)]]: Kristmemelio pilis buvo pastatyta magistro Karolio.
 - susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89881|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
@@ -260,9 +260,9 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Vytenis]] apgule Kristmemelis
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] apgule Kristmemelis
 - [[objektai/asmenys/Karolis (didysis magistras)]] pastate Kristmemelis
-- [[objektai/asmenys/Vytenis]] puole Kristmemelis
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Kristmemelis
 - [[objektai/asmenys/Karolis (didysis magistras)]] keliavo_i Kristmemelis
 - [[objektai/grupes/Lietuviai]] puole Kristmemelis
 - [[objektai/grupes/Lietuviai]] apgule Kristmemelis

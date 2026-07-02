@@ -80,6 +80,7 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   ryšio_subjekto_parinkimas: Adomas Honorijus Kirkoras: owner_note_path, author, gap=0
   ryšio_targeto_parinkimas: Vilniaus Senienų muziejus: mention_match, group, gap=72
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adomas Honorijus Kirkoras" parinktas kaip owner_note_path. Targetas "Vilniaus Senienų muziejus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Anicetas Renjė.md#claim-t-187896|Anicetas Renjė]]: Anicetas Renjė ir Adomas Honorijus Kirkoras periodikoje bandė užtarti kritikuotą Teodorą Narbutą, girdami jo sumanymo mastą.
 - susijęs iš Vilnius: 1859 m. vadove po Vilnių Adomas Honorijus Kirkoras rašė, kad miestas jau turi savo istorikus.
 - susijęs iš [[objektai/posakiai/Vilnius - tai gyva senosios Lietuvos kronika.md#claim-t-54488|Vilnius - tai gyva senosios Lietuvos kronika]]: Adomas Honorijus Kirkoras Vilnių apibūdino kaip senosios Lietuvos buvusios šlovės ir nuosmukių liudytoją.
 - susijęs iš [[objektai/posakiai/Vilnius - tai gyva senosios Lietuvos kronika.md#claim-t-54489|Vilnius - tai gyva senosios Lietuvos kronika]]: Adomas Honorijus Kirkoras Vilnių vadino gyva senosios Lietuvos kronika.

@@ -73,9 +73,14 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš [[objektai/autoriai/U. Lewicka.md#claim-t-31019|U. Lewicka]]: U. Lewicka kartu su J. Pochodowicz redagavo „Bibliografia Regionu Białostockiego“ pirmąjį tomą.
 - susijęs iš [[objektai/autoriai/V. Bagdanavičius.md#claim-t-31021|V. Bagdanavičius]]: V. Bagdanavičius 1959 m. paskelbė kritišką LTSR istorijos pirmojo tomo įvertinimą apie sovietinę Lietuvos istoriografiją.
 - susijęs iš [[objektai/autoriai/V. J. Mansikka.md#claim-t-31028|V. J. Mansikka]]: V. J. Mansikka 1922 m. Helsinkyje paskelbė šaltinių tomą apie rytų slavų religiją.
+- susijęs iš [[objektai/autoriai/V. Merkys.md#claim-t-188484|V. Merkys]]: V. Merkys sudarė S. Daukanto „Raštų“ 1-ąjį tomą ir parašė šio tomo įvadą bei paaiškinimus.
 - susijęs iš [[objektai/autoriai/Vcl. Biržiška.md#claim-t-100121|Vcl. Biržiška]]: Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, kurio pirmasis tomas išleistas 1953 m. Čikagoje.
+- susijęs iš [[objektai/daiktai/1848 m. „Naujosios mitologijos“ rankraštis.md#claim-t-189653|1848 m. „Naujosios mitologijos“ rankraštis]]: 1848 m. „Naujosios mitologijos“ rankraštyje buvo iš esmės perrašyta pratarmė ir pakeista pirmojo LTI tomo struktūra.
+- susijęs iš [[objektai/daiktai/T. Narbuto epigrafų autografai.md#claim-t-189663|T. Narbuto epigrafų autografai]]: Teodoras Narbutas, rengdamas spaudai antrąjį LTI IV tomo leidimą, tekstą papildė epigrafo autografu iš I. Krasickio „Pieśni Ossjana“.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178845|Kryžiuočių ordinas]]: Kojalavičius pagoniškai Lietuvai skirtame tome lietuvių kovas su kryžiuočiais pateikė su pagarba lietuviams.
-- susijęs iš [[objektai/paprociai/Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius.md#claim-t-187833|Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius]]: Narbutas pratarmėje rašo mitologijos tomui medžiagą sėmęsis iš rašytinių paminklų ir per trisdešimt metų sukaupęs papročių, prietarų, padavimų bei dainų rinkinį.
+- susijęs iš [[objektai/ivykiai/T. Narbuto ir A. Marcinovskio sutarties dėl LTI leidimo sudarymas.md#claim-t-189629|T. Narbuto ir A. Marcinovskio sutarties dėl LTI leidimo sudarymas (sutartis)]]: T. Narbuto sutartis su A. Marcinovskiu dėl visos LTI leidimo buvo sudaryta praėjus porai metų po pirmo tomo išspausdinimo.
+- susijęs iš [[objektai/paprociai/Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius.md#claim-t-187833|Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius]]: Narbutas pratarmėje rašo mitologijos tomui medžiagą sėmęsis iš rašytinių paminklų ir per trisdešimt metų sukaupęs papročių, padavimų bei dainų rinkinį.
+- susijęs iš [[objektai/paprociai/Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius.md#claim-t-188390|Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius]]: Narbutas rašo mitologijos tomo medžiagą rinkęs iš rašytinių paminklų nuo Šiaurės sagų iki Kojalavičiaus veikalų.
 - susijęs iš A. Horn, Tannenberg: A. Horno „Tannenberg“ paskelbtas AM 22 tome 1885 m. ir 23 tome 1886 m.
 - susijęs iš A. Prioult Un poete voyageur Guillaume de Machaut et la « Reise » de Jean VAveugle, roi de Boheme, en 1326-1329: A. Prioult „Un poete voyageur“ paskelbtas „Les Lettres Romanes“ IV tomo 1 numeryje 1950 m., p. 3-29.
 - susijęs iš A. Viskontas, Vytautas D. L. K. ir Gardelio unija: A. Viskonto darbas „Vytautas D. L. K. ir Gardelio unija“ paskelbtas leidinyje „Lietuvių Tauta“, IV tome.
@@ -93,6 +98,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš Dzieje Unji Jagiełłonskiej: Oskaro Haleckio veikalas Dzieje Unji Jagiełłonskiej pirmu tomu išleistas Krokuvoje 1919 m.
 - susijęs iš Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów: L. Kolankowskio „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ pirmas tomas apima 1377-1499 m. ir išleistas Varšuvoje 1930 m.
 - susijęs iš Dzieje kultury polskiej: A. Brücknerio „Dzieje kultury polskiej“ I tomas išleistas Krokuvoje 1931 m.
+- susijęs iš Dzieje narodu Litewskiego: T. Narbutto „Dzieje narodu Litewskiego“ 9 tomas buvo išleistas Vilniuje 1841 metais.
 - susijęs iš Ewald A. L., Die Eroberung: Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip Kimenavos puolimo datavimo 1278 m. šaltinis.
 - susijęs iš Ewald A. L., Die Eroberung: Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas aprašant 1279–1280 m. žiemos puolimą.
 - susijęs iš Ewald A. L., Die Eroberung: Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip šaltinis Sembos puolimui 1280 m. vėlyvą rudenį datuoti.
@@ -134,11 +140,13 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš Mažiulis V. Selonįca: V. Mažiulio „Selonįca“ paskelbta „Baltistica“ 1981 m. 17 tomo 1 numeryje, p. 7–12.
 - susijęs iš Mažiulis V. Seniausias baltų rašto paminklas: V. Mažiulio „Seniausias baltų rašto paminklas“ paskelbtas „Baltistica“ 1975 m. 11 tomo 2 numeryje.
 - susijęs iš Michael Küchmeister. Hochmeister des Deutschen Ordens 1414-1422: W. Nöbelio veikalas „Michael Küchmeister. Hochmeister des Deutschen Ordens 1414-1422“ minimas kaip 1969 m. penktojo tomo publikacija.
+- susijęs iš Musų senovė: „Musų senovės“ 1940 m. trečiame tome nurodomi J. Spudulio laiškai A. Dambrauskui-Jakštui.
 - susijęs iš Naujausių Proistorinių Tyrinėjimų Duomens: J. Puzino „Naujausių Proistorinių Tyrinėjimų Duomens“ išleistas Kaune 1938 m. kaip atspaudas iš „Senovės“ 4 tomo.
 - susijęs iš O drevuejšich kul’turnych oblastjach na territorii Litvy: R. Jablonskytė-Rimantienė straipsnį „O drevuejšich kul’turnych oblastjach na territorii Litvy“ paskelbė 1955 m. žurnalo „Sovetskaja Etnografija“ 3 tome.
 - susijęs iš Obraz Litwy pod względem jej cywilizacji: J. Jaroszewicziaus „Obraz Litwy pod względem jej cywilizacji“ pirmasis tomas išleistas Vilniuje 1846 m.
 - susijęs iš Otrębski J. Gramatyka języka litewskiego: J. Otrębskio „Gramatyka języka litewskiego“ pirmasis tomas išleistas Varšuvoje 1958 m.
 - susijęs iš P. Rėklaitis Lietuvos senoji kartografija: P. Rėklaičio „Lietuvos senoji kartografija“ paskelbta „Tautos Praeities“ II tomo 1 dalyje, Romoje 1964 m., p. 64-76.
+- susijęs iš Paryžiaus akademijos „Užrašai“: Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį pastaboms apie alaus mitologinę kilmę.
 - susijęs iš Pollakówna M. Galindia: M. Pollakównos straipsnis „Galindia“ paskelbtas SSS 2 tomo 1 dalyje, 1964 m. Vroclave, Varšuvoje ir Krokuvoje, p. 78–79.
 - susijęs iš Polnoje sobranije Russkich letopisej: „Polnoje sobranije Russkich letopisej“ XVII tomą 1907 m. Sankt Peterburge išleido Imperatoriškoji archeologijos komisija.
 - susijęs iš Powierski J. Chronologia początków Malborka: J. Powierskio straipsnis „Chronologia początków Malborka“ paskelbtas 1979 m. ZHPB 44 tomo 2 sąsiuvinyje.
@@ -159,7 +167,10 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš St. Kujot, Wojna 1410: St. Kujoto „Wojna 1410“ publikuota „Rocznik Towarzystwa Nauk w Toruniu“ 18 tome 1911 m., p. 157–159.
 - susijęs iš Stankiewicz J. Twierdza Toruń: J. Stankiewicziaus „Twierdza Toruń“ publikuota 1972 m. ZHPB 37 tomo 4 sąsiuvinyje.
 - susijęs iš Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa, 1846: M. Stryjkowskio kronikos tomas išleistas Varšuvoje 1846 m.
+- susijęs iš Swięcki, Opis starožytnej Polski: Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dėl Triznų giminės kilmės iš Seversko žemės.
+- susijęs iš Tadeuszo Czackio „O prawach“: Narbutas išnašoje nurodo, kad aptariamas dalykas plačiai išdėstytas Čackio veikalo „O prawach“ pirmajame tome.
 - susijęs iš Taube, M. — Klymenko, F. Die Urkunden Mindowes für den livländischen Orden: M. Taube ir F. Klymenko darbas „Die Urkunden Mindowes für den livländischen Orden“ paskelbtas AF VI tome 1929 m., p. 201-255.
+- susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): 1998 m. pirmasis „Lietuvių tautos istorijos“ tomas verstas iš 1835 m. Vilniuje išleisto Narbuto „Mitologia Litewska“.
 - susijęs iš Toppen M Einleitung: M. Toppeno „Einleitung“ paskelbta SRP pirmojo tomo 3–20 puslapiuose.
 - susijęs iš Urkundenbuch des Bisthums Culm Bearbeitet von C. P. Woelky. Bd. 1. Theil 1: C. P. Woelky parengto „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmoji dalis išleista Dancige 1887 m.
 - susijęs iš V. O. Ključevskij Kurs russkoj istorii: V. O. Ključevskio „Kurs russkoj istorii“ pirmasis tomas išleistas Maskvoje 1956 m.
@@ -205,6 +216,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš Савукинас Б. К проблеме западнобалтийского субстрата в югозападной Литве: B. Савукинас straipsnis „К проблеме западнобалтийского субстрата в югозападной Литве“ paskelbtas 1966 m. žurnale „Baltistica“, 1 tomo 2 numeryje, p. 165–176.
 - susijęs iš т. II. Ипатьевская летопись (с. 1—227); Густинская летопись (с. 231—373) Изд. Археографическою комиссиею: 1843 m. Sankt Peterburge išleistame II tome paskelbtos Ipatijaus metraštis ir Gustyno metraštis.
 - susijęs iš т. XXXII. Хроники Литовская и Жмойтская, и Быховца. Летописи Баркулабовская, Аверки и Панцырного Составитель и редактор H. Н. Улащик: XXXII tome paskelbtos Lietuvos ir Žemaičių, Bychovco, Barkulabovo, Averkos ir Pancyrno kronikos bei metraščiai.
+- susijęs iš „Wizerunki Naukowe“: „Wizerunki Naukowe“ 1836 m. X tome paskelbė Komisijos dekretą apie valstiečių ginčą su Slucko bažnyčios klebonu.
 - susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54937|Aleksandras Jogailaitis]]: Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82173|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
@@ -212,6 +224,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176276|Algirdas (Lietuvos valdovas)]]: Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176282|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.
+- susijęs iš [[objektai/asmenys/Antanas Marcinovskis.md#claim-t-190019|Antanas Marcinovskis]]: Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių tautos istorija“.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173119|Barbora Radvilaitė]]: Barborai Radvilaitei Šv. Stanislovo bažnyčioje italų meistrai pastatė brangaus marmuro antkapį.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173122|Barbora Radvilaitė]]: Karalienės Barboros apdarai, saugoti Gzovskio ir kitur, buvo padovanoti karalaitei Onai.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54952|Barbora Radvilaitė]]: Barborai Šv. Stanislovo bažnyčioje buvo pastatytas marmurinis antkapis, kuris XVIII a. pražuvo senosios Katedros griuvėsiuose.
@@ -233,13 +246,13 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54969|Fridrichas (Rygos arkivyskupas)]]: Dusburgo citatoje Jonas XXII pasiuntė du legatus į Livoniją Fridricho ir Rygos miestiečių prašymu.
 - susijęs iš [[objektai/asmenys/Fričinskis.md#claim-t-87677|Fričinskis]]: Pilaitė prie Vilniaus tuo metu priklausė buvusiam agronomijos instituto direktoriui Fričinskiui.
 - susijęs iš [[objektai/asmenys/Gedgaudas.md#claim-t-34728|Gedgaudas]]: 1429 m. Vytautas pasiuntė Vilniaus vaivadą Gedgaudą į Lenčicą kaip savo delegatą pas Jogailą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176334|Gediminas]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis yra pirmas autentiškas paliudijimas, kad Vilnius jau buvo Gedimino sostinė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176339|Gediminas]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo Gedimino sostinė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176345|Gediminas]]: Gediminas popiežiui pareiškė esąs pasirengęs priimti krikščioniškąjį tikėjimą, jei neturės būti dėkingas Ordinui.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176347|Gediminas]]: 1323 ir 1324 m. Gediminas su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176363|Gediminas]]: Gediminas pranciškonams rašė pasiuntęs laišką popiežiui Jonui ir laukiantis jo pasiuntinių.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176397|Gediminas]]: Gediminas 1323 ir 1324 metais su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176334|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis yra pirmas autentiškas paliudijimas, kad Vilnius jau buvo Gedimino sostinė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176339|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo Gedimino sostinė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176345|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas popiežiui pareiškė esąs pasirengęs priimti krikščioniškąjį tikėjimą, jei neturės būti dėkingas Ordinui.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176347|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 ir 1324 m. Gediminas su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176363|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas pranciškonams rašė pasiuntęs laišką popiežiui Jonui ir laukiantis jo pasiuntinių.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176397|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas 1323 ir 1324 metais su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
 - susijęs iš [[objektai/asmenys/Gotfridas fon Ustas.md#claim-t-87506|Gotfridas fon Ustas]]: Gotfridas fon Ostas buvo vienas iš Ordino riterių Liubeke, kurių patarimo nutarta prašyti dėl Gedimino laiškų.
 - susijęs iš [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras).md#claim-t-87680|Goštautas (Trakų vaivada, Barboros vyras)]]: Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113785|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.
@@ -293,6 +306,8 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš [[objektai/asmenys/Stanislovas Ratka.md#claim-t-87862|Stanislovas Ratka]]: Stanislovas Ratka buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių iš Poznanės.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113984|Steponas Batoras]]: Stepono Batoro laikais Vilniuje gerokai išaugo spaustuvių skaičius.
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186513|Teodoras Narbutas]]: Teodoro Narbuto dėka istoriografijoje įsigalėjo dabartinis kronikos pavadinimas „Bychovco kronika“.
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188624|Teodoras Narbutas]]: Rimanto Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją.
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188636|Teodoras Narbutas]]: 1858 m. „Teka Wilenska“ puslapiuose Teodoras Narbutas davė atkirtį Stanislovo Mikuckio kaltinimams.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-183843|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87363|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87367|Ulrikas Hozijus]]: Ulrikas Hozijus greitai ir rūpestingai pastatė tiltą per Vilijos upę prie Vilniaus savo didelėmis lėšomis.
@@ -308,7 +323,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176710|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas priėmė Maskvos metropolitą Fotijų, tačiau šis nieko nelaimėjęs išvyko į Maskvą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176714|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176772|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1429 m. Vytautas Didysis į Lenčicą pas Jogailą pasiuntė delegatus Gedgaudą ir Rumbaudą.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176836|Vytenis]]: Vytenis viešpatavo Lietuvoje ir mirė apie 1315 metus.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176836|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis viešpatavo Lietuvoje ir mirė apie 1315 metus.
 - susijęs iš [[objektai/asmenys/Šach Achmedas.md#claim-t-87415|Šach Achmedas]]: Šach Achmedas baigė gyvenimą kalėjime Lietuvoje.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179712|Švitrigaila]]: Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179715|Švitrigaila]]: 1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino.
@@ -328,6 +343,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš [[objektai/autoriai/Epitomatorius.md#claim-t-88045|Epitomatorius]]: Epitomatorius nurodė, kad Rygos miestiečiai ir arkivyskupas skelbė apie lietuvių ir rutėnų valdovų norą priimti krikštą.
 - susijęs iš [[objektai/autoriai/Grzybowski.md#claim-t-81900|Grzybowski]]: Balińskis atmetė Grzybowskio pasakojimą apie tariamą Goštauto vienuolystę ir vyskupystę kaip tikriausiai prasimanytą.
 - susijęs iš [[objektai/autoriai/Gurnickis.md#claim-t-88091|Gurnickis]]: Gurnickis paminėjo, kad 1540 m. Vilniuje džiaugtasi žinia apie karaliaus Jono sūnaus gimimą.
+- susijęs iš [[objektai/autoriai/Homeras.md#claim-t-190352|Homeras]]: Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą apie geresnio patarimo radimą.
 - susijęs iš [[objektai/autoriai/Ignas Danilavičius.md#claim-t-81908|Ignas Danilavičius]]: Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų ir regestų rinkinį.
 - susijęs iš [[objektai/autoriai/K. Jablonskis.md#claim-t-179502|K. Jablonskis]]: K. Jablonskis Baltarusijos TSR Mokslų Akademijos pavedimu suredagavo ir išleido 1529 m. Pirmąjį Lietuvos Statutą.
 - susijęs iš [[objektai/autoriai/Konstantinas Jablonskis.md#claim-t-179508|Konstantinas Jablonskis]]: Konstantinas Jablonskis iš senosios Lietuvos valstybės raštinių kalbos išrinko 299 lietuviškus žodžius ir 1941 m. išleido šaltinių ištraukų rinkinį.
@@ -353,6 +369,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš [[objektai/daiktai/Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės.md#claim-t-87007|Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės]]: Karaliaus raštu Vilniaus vaitui leista į užsienį parduoti tris vaško gabalus po 50 akmenų.
 - susijęs iš [[objektai/daiktai/Šv. Jurgio vėliava.md#claim-t-87129|Šv. Jurgio vėliava]]: Ordino riteriai, nešini Šv. Jurgio vėliava, puolė į mūšį, bet lietuvių buvo atremti ir su dideliais nuostoliais grįžo prie likusių karių.
 - susijęs iš [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai.md#claim-t-87041|Žygimanto Augusto pilies bažnyčių pastatai]]: Žygimanto Augusto pradėti Šv. Onos bažnyčios pilyje pastatai jam gyvam esant nebuvo užbaigti.
+- susijęs iš [[objektai/grupes/Abiejų tautų seimas.md#claim-t-189511|Abiejų tautų seimas (seimas, XVI a.)]]: Narbutas abiejų tautų seimą tapatino su Liublino unija ir siejo jį su tų metų pabaiga.
 - susijęs iš [[objektai/grupes/Anglai.md#claim-t-172067|Anglai]]: Tūkstančiui rinktinių anglų lankininkų, išsilaipinusių Gdansko uoste, vadovavo Derbio grafas Henrikas.
 - susijęs iš [[objektai/grupes/Anglų riteriai.md#claim-t-86788|Anglų riteriai]]: Anglų riteriai ne kartą kartu su kryžiuočiais dalyvavo kryžiaus žygiuose prieš pagonimis laikytus lietuvius.
 - susijęs iš [[objektai/grupes/Bernardinų ordinas.md#claim-t-181538|Bernardinų ordinas]]: 1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.
@@ -375,9 +392,9 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė.md#claim-t-31260|Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]: Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. manifestu paskelbė Tarybų valdžią Lietuvoje.
 - susijęs iš [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md#claim-t-86721|Lenkų įgula Vilniaus Aukštutinėje pilyje]]: Jogailos paliktas vadas su lenkų įgula Vilniaus Aukštutinėje pilyje tuo metu valdydavo ir kitus gyventojus.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179222|Lietuviai]]: Lietuviai, rusai, maskvėnai ir totoriai, įsigiję dominijos nuosavybę, turėjo prisiimti ankstesnių savininkų prievoles.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179283|Lietuviai]]: Lietuviai kaip tauta, anot šaltinio, Europoje Lietuvos vardu tapo žinomi tik X amžiuje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179346|Lietuviai]]: Tik penktą dieną iš lietuvių, pabėgusių iš Aukštutinės pilies, sužinota, kad kunigaikštis Karigaila žuvo.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188268|Lietuviai]]: Narbutas lietuvių mitologijoje įžvelgė seniausio dangaus kūnų sudievinimo liekanas.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190591|Lietuviai]]: Narbutas rašė, kad kiekviena lietuvių genties tauta dievams aukojamiems arkliams rinkdavosi savitą plauką ir ženklus.
 - susijęs iš [[objektai/grupes/Lietuvos TSR Akademija.md#claim-t-31289|Lietuvos TSR Akademija]]: Tarybiniais metais Jablonskis pamažu tapo Lietuvos TSR Akademijos pilnateisiu nariu, akademiku.
 - susijęs iš [[objektai/grupes/Lietuvos jėzuitų kolegijos.md#claim-t-81464|Lietuvos jėzuitų kolegijos]]: Pilaitė prie Vilniaus kadaise buvo jėzuitų nuosavybė, o vėliau atiteko Vilniaus universitetui.
 - susijęs iš [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje.md#claim-t-86804|Lietuvos pasiuntiniai Maskvoje]]: 1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai Petras Białas ir Stanislovas Goštautas pasirašė amžinos taikos sutartį su Ivanu Vasiljevičiumi.
@@ -394,6 +411,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108311|Pranciškonų ordinas]]: Gediminas žadėjo kviestis dorus vyskupus, kunigus, dominikonus ir pranciškonų ordino vienuolius.
 - susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81588|Prancūzai]]: 1390 m. žygyje prancūzams ir kitiems kariams vadovavo riteris Boucicaut.
 - susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81591|Prancūzai]]: Prancūzai, vadovaujami Boucicaut'o, per kautynes pridarė nemažai žalos apgultiesiems.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188293|Prūsai]]: Narbutas, remdamasis Henenbergeriu, rašo, kad senovės prūsai, išgirdę griaustinį, griaustinio dievo prašydavo žodžiais: Dewe Periamas absolo mus!
 - susijęs iš [[objektai/grupes/Rusai.md#claim-t-117249|Rusai]]: Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo dvasininkams mokėti dešimtinę, pelno mokestį ir kitas duokles.
 - susijęs iš [[objektai/grupes/Rusai.md#claim-t-117250|Rusai]]: Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas duokles dvasininkams.
 - susijęs iš [[objektai/grupes/Rygos miestiečiai.md#claim-t-81605|Rygos miestiečiai]]: Rygos miestiečiai ir jų arkivyskupas skelbė žinią, esą Gediminas su saviškiais noriai priimtų krikštą ir tikėjimą.
@@ -423,6 +441,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš [[objektai/ivykiai/Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.).md#claim-t-86893|Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)]]: Gediminas įsakė pastatyti mūrinę pilį ant kalno prie Vilnelės ir Vilijos santakos ir iš Trakų perkėlė ten savo buveinę.
 - susijęs iš [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.).md#claim-t-86895|Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]: Kęstutis su Vytautu buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir penktą naktį pasmaugtas pilies bokšte.
 - susijęs iš [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.).md#claim-t-86896|Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]: Jogailos atsiųstas Skirgaila atvyko į Kęstučio stovyklą ir pareiškė esąs pasirengęs taikytis.
+- susijęs iš [[objektai/ivykiai/T. Narbuto „Lietuvių mitologijos“ pasirodymas.md#claim-t-189600|T. Narbuto „Lietuvių mitologijos“ pasirodymas]]: „Lietuvių mitologijos“ pasirodymas šaltinyje siejamas su laiško datavimu apie 1836 m. arba 1837 m. pradžią.
 - susijęs iš [[objektai/ivykiai/Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu.md#claim-t-86926|Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu]]: Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Viliją, o iš nustatyto tilto mokesčio susigrąžino statybos išlaidas.
 - susijęs iš [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.).md#claim-t-86929|Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]: 1383 m. prie Vilniaus, ant tilto ties Vingrių versmėmis, užvirė atkaklus mūšis.
 - susijęs iš [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m..md#claim-t-55145|Vilniaus pranciškonų nužudymas apie 1345 m.]]: Apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
@@ -447,6 +466,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-183827|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: Žygimantas Augustas įsakė Lietuvos ir Lenkijos pavaldiniams lietuvišką monetą priimti už nustatytą lenkiškų grašių vertę.
 - susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-87183|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: 1572 m. įsakymas numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą.
 - susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-87184|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: 1572 m. Žygimantas Augustas įsakė lietuvišką monetą imti nustatyta verte, o atsisakiusiesiems ją priimti numatė dešimties lenkiškų grivinų baudą.
+- susijęs iš [[objektai/paprociai/Prūsų pilkapių rengimas pagal mirusiojo luomą ir šeimos kapo naudojimas.md#claim-t-189861|Prūsų pilkapių rengimas pagal mirusiojo luomą ir šeimos kapo naudojimas]]: Narbutas spėjo, kad kai kurie prūsų pilkapiai naudoti kaip šeimos kapai, iš anksto numatant vietas vėliau mirsiantiems šeimos nariams.
 - susijęs iš [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius.md#claim-t-87302|Svetimšalių pirklių prekyba per Vilniaus pirklius]]: Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metines muges, galėjo prekėmis mainytis tik su Vilniaus pirkliais.
 - susijęs iš [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui.md#claim-t-87148|Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]: 1430 m. Vytautas sukvietė į Trakus ir Vilnių šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
 - susijęs iš [[objektai/paprociai/Viešų miesto paslaugų pelno skyrimas Vilniaus iždui.md#claim-t-87186|Viešų miesto paslaugų pelno skyrimas Vilniaus iždui]]: Prie Vilniaus rotušės leistų krautuvių, viešos miesto virtuvės ir vyninės pelnas buvo skiriamas miesto iždui.
@@ -464,7 +484,9 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje.md#claim-t-55178|Kaip pelė krepšyje arba angis užantyje]]: Prūsijos vyskupų laiške taikos sutarties grėsmė lyginama su pele krepšyje arba angimi užantyje.
 - susijęs iš [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje.md#claim-t-55179|Kaip pelė krepšyje arba angis užantyje]]: Prūsijos vyskupų laiške sutarties grėsmė buvo lyginama su pele krepšyje arba angimi užantyje.
 - susijęs iš [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje.md#claim-t-82140|Kaip pelė krepšyje arba angis užantyje]]: Vyskupų laiške perspėta, kad priešai kaip pelė krepšyje arba angis užantyje sunaikins jų žemes ir užtrauks pražūtį krikščionybei.
+- susijęs iš [[objektai/posakiai/Kalba yra pirmutinis tautų istorijos paminklas.md#claim-t-189584|Kalba yra pirmutinis tautų istorijos paminklas]]: Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl lietuvių senovės nagrinėjimą baigia kalbos tema.
 - susijęs iš [[objektai/posakiai/Menko grobio ir tuščios garbės pasigviešę.md#claim-t-86863|Menko grobio ir tuščios garbės pasigviešę]]: Apgultieji prancūzams priekaištavo, kad šie, menko grobio ir tuščios garbės pasigviešę, atvyko lieti krikščionių kraujo.
+- susijęs iš [[objektai/posakiai/Mitologija yra raktas seniausiajai tautų istorijai pažinti.md#claim-t-189551|Mitologija yra raktas seniausiajai tautų istorijai pažinti]]: Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologiją, kurią vadino seniausios istorijos pamatu.
 - susijęs iš [[objektai/posakiai/Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo.md#claim-t-54761|Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo]]: Formulė „talem pacem ordinabimus“ žadėjo nustatyti tokią taiką, kokios krikščionys nebuvo patyrę.
 - susijęs iš [[objektai/posakiai/metus ir dieną.md#claim-t-86864|metus ir dieną]]: Jeigu užstatas pas žydą išbūdavo metus ir dieną, praėjus tam laikui jis dėl užstato nebeprivalėjo niekam atsakyti.
 - susijęs iš 1323 m. Vilniaus sutartis: 1323 m. Vilniaus sutartis Balińskio pasakojime pateikiama kaip pirmasis autentiškas Vilniaus miesto ir Gedimino sostinės paliudijimas.
@@ -565,10 +587,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš Lenčica: 1429 m. birželio 18 d. Vytauto delegatai Gedgaudas ir Rumbaudas atvyko į Lenčicą ir įteikė Jogailai Vytauto laišką.
 - susijęs iš Lietuva: Švitrigaila, nepatenkintas Vytauto iškėlimu, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.
 - susijęs iš Lietuva: 1430 m. Vytautas į Trakus ir Vilnių sukvietė šiaurės šalių kunigaikščius ir pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
-- susijęs iš Lietuva: Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.
 - susijęs iš Lietuva: Pasak citatos, Lietuvos vardas Europai tapo žinomas tik X amžiuje.
-- susijęs iš Lietuva: Tačiau lietuviai visą laiką reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pasienyje.
-- susijęs iš Lietuva: Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.
 - susijęs iš Liublinas: Liubline stovyklininkas Pavlikas keitė lietuviškas monetas į lenkiškas, kad pinigai būtų pasiųsti į Leipcigą.
 - susijęs iš Liublinas: Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika.
 - susijęs iš Liublinas: Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika.
@@ -671,6 +690,8 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš Vilnius: Rengiant 1579 m. karo žygį Vilniuje buvo įsteigta patrankų liejykla.
 - susijęs iš Vilnius: Pirmasis autentiškas Vilniaus kaip miesto ir Gedimino sostinės paliudijimas siejamas su 1323 m. spalio 2 d. Vilniuje pasirašyta sutartimi.
 - susijęs iš Vilnius: Vilnius dėl palankios gamtos aplinkos galėjo būti priskiriamas prie seniausių Lietuvos tvirtovių.
+- susijęs iš Vilnius: Pasakojama, kad į Vilniaus bažnyčią suvežtą Saurų dvaro biblioteką ir rankraščius sargas už rublį leisdavo išgabenti.
+- susijęs iš Vilnius: Narbutas rašė, kad XVII a. pradžioje jėzuitai greta Vilniaus esančio kaimo mokykloje ant mokinio kaklo pastebėjo maišelį.
 - susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
 - susijęs iš Vingrių šaltiniai: Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
 - susijęs iš Vitebskas: Algirdas dar Gediminui gyvam esant viešpatavo Vitebske ir Krėvoje.
@@ -694,6 +715,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš Žuvų turgus Vilniuje (sujungti pirminiai pavadinimai Žuvų turgavietė; Žuvų turgus Vilniuje): Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.
 - susijęs iš Žuvų turgus Vilniuje: Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.
 - susijęs iš [[objektai/zodynas/Czopowe.md#claim-t-86521|Czopowe]]: Vilniaus miestiečiams ir pirkliams buvo nurodyta privalomai mokėti Czopowe ir Szosowe mokesčius.
+- susijęs iš [[objektai/zodynas/Dangaus kūnų sudievinimas.md#claim-t-189146|Dangaus kūnų sudievinimas]]: Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo manymu, kilo kai kurie anksčiau aptarti lietuvių dievaičiai.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113651|Magdeburgo teisės]]: Karinis valdymas, kryžiuočių antpuoliai ir Vilniaus apgultys trukdė įtvirtinti Magdeburgo teises tarp miestiečių.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113653|Magdeburgo teisės]]: Žygimantas dviem privilegijomis lotynų ir rusų kalbomis atnaujino ir patvirtino Vilniaus Magdeburgo teises.
 - susijęs iš [[objektai/zodynas/Pataurininkis.md#claim-t-86637|Pataurininkis]]: Algirdas dėl didelių gabumų iškėlė Vaidilą iš kepėjo sūnaus iki rūmų pataurininkio.

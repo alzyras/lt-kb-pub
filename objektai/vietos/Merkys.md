@@ -124,6 +124,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   ryšio_targeto_parinkimas: Merkys: llm_allowed_candidate, place
   ryšio_paaiskinimas: Citata nurodo, kad namai, kuriuose gyvendavo Bona, buvo prie Merkio.
 - susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169962|Antanas Merkys]]: Antanas Merkys psichologiškai palūžo nuo Viačeslavo Molotovo rėksmingų kaltinimų absurdiškumo.
+- susijęs iš [[objektai/autoriai/V. Merkys.md#claim-t-188484|V. Merkys]]: V. Merkys sudarė S. Daukanto „Raštų“ 1-ąjį tomą ir parašė šio tomo įvadą bei paaiškinimus.
 - susijęs iš [[objektai/autoriai/V. Merkys.md#claim-t-31039|V. Merkys]]: V. Merkys pateikė daug duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir cechus XIX a. pabaigoje bei XX a. pradžioje.
 - susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66773|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. birželio 10 d. Kaune nutarta pasiųsti Juozą Urbšį į Maskvą, nes Antanui Merkiui nesisekė normalizuoti situacijos.
 - susijęs iš Maskva: 1940 m. birželio 10 d. Kaune nutarta pasiųsti ministrą J. Urbšį į Maskvą, nes A. Merkiui nesisekė normalizuoti situacijos.

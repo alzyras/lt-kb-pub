@@ -37,28 +37,28 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-187988"></a>
-- t-001
-  global_id: t-187988
+- t-004
   teiginys: 'Narbutas rašo, kad apeiginiu vandeniu iš šventųjų šaltinių ar šulinių apiplaudavo aukojamus gyvulius ir laikė jį švarinančiu.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginyje išskleistas praleistas note objektas - apeiginis vanduo iš šventųjų šaltinių ar šulinių. Religinė interpretacija palikta su Narbuto atribucija.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-187990"></a>
-- t-002
-  global_id: t-187990
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 484276-484693; hash=8054e4c39f047809188eb52f0f8e250299e835e08f8c9cb215071346bf60e217; match=exact
+  sprendimo_priezastis: gap::customs
+- t-005
   teiginys: 'Narbutas, remdamasis Dusburgiečiu, rašo, kad krikščionims nebuvo leidžiama prieiti prie apeiginių šventųjų šaltinių.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Patikslintas šaltinių kontekstas, kad sakinys būtų susietas su note objektu. Dusburgiečiaus atribucija išlaikyta, o papildomų draudimo priežasčių nepridėta.'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 484276-484693; hash=8054e4c39f047809188eb52f0f8e250299e835e08f8c9cb215071346bf60e217; match=exact
+  sprendimo_priezastis: gap::customs
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Narbutas rašo, kad apeiginiu vandeniu iš šventųjų šaltinių ar šulinių apiplaudavo aukojamus gyvulius ir laikė jį švarinančiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
@@ -68,11 +68,11 @@ Nenurodyta
     tai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad
     krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
     šaltinių. Toks šaltinis vadinosi šulinys (Szulnis).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-004
+    - t-005

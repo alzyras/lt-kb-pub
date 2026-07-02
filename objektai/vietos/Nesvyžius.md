@@ -211,6 +211,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172113|Jėzuitų ordinas]]: Jėzuitai 1579 m. įkūrė Vilniaus universitetą, vieną svarbiausių Baroko epochos kultūros dėmenų.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172117|Jėzuitų ordinas]]: Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172118|Jėzuitų ordinas]]: 1575 m. Mikalojus Kristupas Radvila-Našlaitėlis perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-188198|Jėzuitų ordinas]]: 1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė kunigą Jokūbą Lencicijų su dviem bičiuliais misionieriais.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74889|Radvilos]]: Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.
 - susijęs iš [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija.md#claim-t-55100|Vilniaus vyskupijos klierikų kolegija]]: Jurgis Radvila Vilniaus diecezijoje nusprendė steigti ir funduoti kolegiją dėl kunigų ir kitų patarnautojų trūkumo.
 - susijęs iš [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija.md#claim-t-55101|Vilniaus vyskupijos klierikų kolegija]]: Kolegijoje turėjo būti išlaikomas ir dievobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuolių skaičius.
@@ -247,6 +248,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - susijęs iš Lenkija: Lietuvos ir Lenkijos tautų nelaimė paskatino visuomenes ir karalių bandyti gelbėti ATR valstybę.
 - susijęs iš Lietuva: Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki 1784–1787 m. Vilniaus katedros fasado skulptūrų Lietuva gyveno baroko dvasia.
 - susijęs iš Lietuva: Livonijos atstovai seime nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
+- susijęs iš Lietuva: Narbutas nurodė, kad rankraštis baigiasi pagyrimu lietuvių tautos svetingumui, darbštumui ir namų gyvenimo dorybėms.
 - susijęs iš Livonija: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Luckas: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams.
 - susijęs iš Ludza: Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmis.

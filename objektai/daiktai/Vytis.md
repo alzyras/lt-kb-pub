@@ -81,7 +81,10 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/B. Kolyška.md#claim-t-40055|B. Kolyška]]: B. Kolyška norėjo su savo kariais vytis priešą, tačiau Z. Sierakauskas to neleido.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175192|Herkus Mantas]]: Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir privertė magistrą Helmerichą jį vytis iki Lubavos žemės.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63909|Martynas iš Golino]]: Rudino brolių įsakymu Martynas iš Golino su 17 kovos draugų leidosi vytis 20 Lenkijoje plėšikavusių prūsų.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184886|Vytenis]]: Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184886|Vytenis (valdovas, XIII–XIV a.)]]: Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių.
+- susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-188654|Šventaragis]]: Narbutas teigė, kad kunigaikštis Šventaragis 1282 m. priėmė lietuvių Vytį kaip valstybinį herbą.
+- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-188660|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Narbutas aprašė, kad 1436 m. Žygimanto Kęstutaičio didžiajame antspaude buvo keturi herbiniai skydai, tarp jų Lietuvos Vytis.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190644|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskio teigimu kai kurios lietuvių giminės turėjo tikrus herbus: Hipokentaurą, Stulpus, Rožę ir Vytį.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92962|Herbai]]: Herbyne „Stemmata Polonica“ užfiksuotas XVI a. vidurio LDK herbas Vytis.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92964|Herbai]]: LDK herbas Vytis XVI a. viduryje buvo pavaizduotas herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.
 - susijęs iš [[objektai/daiktai/Lietuvos herbas Vytis.md#claim-t-77927|Lietuvos herbas Vytis]]: 1922 m. Lietuvos Valstybės Konstitucijoje herbu liko baltas Vytis raudoname fone.
@@ -99,6 +102,7 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/Pokomunistinė erdvė.md#claim-t-183453|Pokomunistinė erdvė]]: Kitos pokomunistinės valstybės, kaip ir atsikūrusi Lietuva, turėjo vytis Vakarus ir perimti daugybę naujovių.
 - susijęs iš [[objektai/zodynas/vachmistras.md#claim-t-38738|vachmistras]]: Lenkų vachmistras išsiskyrė iš žiedo ir ėmė vytis bėgantį žvalgą.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
+- susijęs iš [[objektai/asmenys/Alcis.md#claim-t-190048|Alcis]]: Narbutas laiko įtikėtina, kad Vilniaus herbas įvestas 1325 m., ir tuo grindžia spėjimą, jog milžinas Alcis ilgainiui virto šv. Kristupu.
 - susijęs iš [[objektai/asmenys/Aloyzas Sakalas.md#claim-t-18803|Aloyzas Sakalas]]: 1990 m. kovo 11 d. Aloyzas Sakalas buvo Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Bronislovas Kuzmickas.md#claim-t-18859|Bronislovas Kuzmickas]]: 1990 m. kovo 11 d. Bronislovas Kuzmickas buvo Lietuvos Respublikos Aukščiausiosios Tarybos pirmininko pavaduotojas.
 - susijęs iš [[objektai/asmenys/Julius Slovackis.md#claim-t-19011|Julius Slovackis]]: Julius Slovackis buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
@@ -118,6 +122,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba.md#claim-t-65779|Lietuvos SSR Aukščiausioji Taryba]]: 1988 m. spalio 6 d. Lietuvos SSR Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę.
 - susijęs iš [[objektai/grupes/Lisovčikai.md#claim-t-41063|Lisovčikai]]: J. K. Chodkevičius pasiuntė kelias raitarų ir lisovčikų vėliavas į kontrataką prieš janičarus.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78395|Notangai]]: 1263 m. notangai apsupo Kroicburgo pilį ir trejus metus ją puolė trimis apgulos mašinomis bei trimis kuorais.
+- susijęs iš [[objektai/grupes/Radvilos.md#claim-t-184578|Radvilos]]: Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89213|Skalviai]]: Magistras ir broliai, keršydami skalviams, įsiveržė į Skalvą, ją nusiaubė, daug žmonių išžudė, o moteris ir vaikus išsivarė.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89222|Skalviai]]: Dusburgietis Skalvos nusiaubimą aiškina kaip brolių kerštą skalviams už ankstesnį nusikaltimą.
 - susijęs iš [[objektai/grupes/Sūduvos prūsai.md#claim-t-185461|Sūduvos prūsai]]: Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir sustojo prie Liubavos.

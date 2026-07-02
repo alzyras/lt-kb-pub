@@ -51,7 +51,6 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
 - susijęs iš [[objektai/ivykiai/Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.).md#claim-t-20241|Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.)]]: 1946 m. buvo uždarytos kunigų seminarijos Vilniuje, Telšiuose ir Vilkaviškyje.
 - susijęs iš Vilkaviškio apskritis: 1948 m. vasario 1 d. Vilkaviškio apskrities Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodyboje besislėpusius partizanus.
 - susijęs iš Vilkaviškio apskritis: 1950 m. birželio 22-23 d. Vilkaviškio apskrities Žiūrų-Gudelių kaimo apylinkėse MGB pajėgos puolė Tauro apygardos partizanų grupę.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
 - susijęs iš [[objektai/grupes/MGB.md#claim-t-65908|MGB]]: 1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai.
 - susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66821|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.
 - susijęs iš Gulbiniškiai: 1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai.

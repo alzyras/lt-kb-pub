@@ -35,8 +35,7 @@ Nors ir smarkiai kryžiuočiai buvo perse­ kiojami, vis dėlto jie nuėjo ligi 
   ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Papartėnai: llm_allowed_candidate, place
   ryšio_paaiskinimas: Citata tiesiogiai nurodo kryžiuočių judėjimą iki Papartėnų.
-- susijęs iš Kernavė: Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės.
-- susijęs iš Kernavė: Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės.
+
 ## Reikšmingi paminėjimai
 
 - c-001

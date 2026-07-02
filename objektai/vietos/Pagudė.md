@@ -216,6 +216,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - susijęs iš [[objektai/autoriai/Labuda G.md#claim-t-64699|Labuda G]]: G. Labuda Vitlando pavadinimą siejo su baltų žodžiu „vidus“ ir lygino jį su latvių Vidzeme.
 - susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-183981|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179285|Lietuviai]]: Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190600|Lietuviai]]: Narbutas mirusiųjų deginimą kildino iš indų ir teigė, kad vėlyvojoje lietuvių stabmeldystėje jis taikytas tik žymesniems žmonėms.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78403|Notangai]]: Iš pradžių jis buvo siejamas tik su notangais.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89155|Pagudėnai]]: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį.
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas.md#claim-t-62873|Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]: Martynas iš Golino su 4 vokiečiais ir 11 prūsų užgrobė Sūduvos kaimą, išžudydamas arba į nelaisvę išsivesdamas žmones.

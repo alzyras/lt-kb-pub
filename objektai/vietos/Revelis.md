@@ -4,18 +4,21 @@ pavadinimas: 'Revelis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1323 m.'
+  - '1808 m.'
 date_start: '1323'
-date_end: ''
+date_end: '1808'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XIX'
 tags:
   - miestas
   - pilis
   - vieta
-amziai:
-  - 'XIV'
 ---
 # Revelis
 
@@ -24,7 +27,6 @@ amziai:
 Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę (šiaurinę Estiją).
 
 ## Teiginiai
-
 <a id="claim-t-69146"></a>
 - t-001
   global_id: t-69146
@@ -47,6 +49,43 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Revelis: llm_allowed_candidate, place
   ryšio_paaiskinimas: Dovydas nurodytas kaip kariuomenės veiksmų prieš Revelį veikėjas.
+
+<a id="claim-t-188822"></a>
+- t-002
+  global_id: t-188822
+  teiginys: 'Narbutas Revelio šv. Olafo bažnyčioje matė vėliavos liekaną su žalvariniu gaidžiu, laikytą pagonybės laikų vėliava iš Latvijos.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 169736-170063; hash=6921acfcb0ca03f0b1aeb1adb7c5a38557cf2e2e4caaf627c299a79cdc42d6fc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Latvija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Revelis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Latvija: mention_match, place, gap=109
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Revelis" parinktas kaip owner_note_path. Targetas "Latvija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188823"></a>
+- t-003
+  global_id: t-188823
+  teiginys: 'Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje, vadinamojo Suomijos karo metu.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 888014-888342; hash=5af2ac2ea3360fea1bd7e5067676a2d504e8a43990e14c2bb009e5f060b6ce6d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Suomija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Revelis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Suomija: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Revelis" parinktas kaip owner_note_path. Targetas "Suomija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas).md#claim-t-62860|Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]: 1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė danų vasalinėje priklausomybėje buvusią Revelio žemę.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173144|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas su lietuvių kariuomene įsibrovė į Danijos karaliaus Revelio žemę.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173138|Dovydas (Gardino pilininkas)]]: 1323 m. Dusburgietis Dovydui priskiria Revelio niokojimą.
@@ -57,11 +96,13 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179226|Lietuviai]]: 1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
 - susijęs iš 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentas: M. Tepenas nurodė, kad Dusburgietis rėmėsi 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentu apie lietuvių žygius.
 - susijęs iš Popiežiaus 1230 m. sausio 18 d. bulė: M. Tepenas pažymėjo, kad Dusburgietis rėmėsi popiežiaus 1230 m. sausio 18 d. bule.
+- susijęs iš [[objektai/asmenys/Augustas Kocebiu.md#claim-t-190132|Augustas Kocebiu]]: Narbutas rašo, kad Augustas Kocebiu Neapolyje įsigijo rankraštį ir 1809 m. Revelyje davė jį Narbutui išrašams apie Lietuvos istoriją bei mitologiją.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173128|Dovydas (Gardino pilininkas)]]: Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasarį užpuolė Revelio žemę.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173138|Dovydas (Gardino pilininkas)]]: 1323 m. Dusburgietis Dovydui priskiria Revelio niokojimą.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173139|Dovydas (Gardino pilininkas)]]: 1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė Revelio žemę.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173144|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas su lietuvių kariuomene įsibrovė į Danijos karaliaus Revelio žemę.
 - susijęs iš [[objektai/asmenys/Karolis (švedų kunigaikštis).md#claim-t-40261|Karolis (švedų kunigaikštis)]]: Švedų kunigaikštis Karolis vadovavo Revelio danų kariuomenei ir turėjo savo būrį.
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188641|Teodoras Narbutas]]: Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje per vadinamąjį Suomijos karą.
 - susijęs iš [[objektai/grupes/Danijos karaliaus kariai iš Revelio.md#claim-t-40871|Danijos karaliaus kariai iš Revelio]]: Danijos karaliaus kariai iš Revelio nepritarė siūlymui kautis pėsčiomis, nes dėl sunkios ginkluotės manė neatsilaikysią mūšyje.
 - susijęs iš [[objektai/grupes/Danijos karaliaus kariai iš Revelio.md#claim-t-40872|Danijos karaliaus kariai iš Revelio]]: Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179377|Livonijos ordinas]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.
@@ -73,12 +114,10 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 - susijęs iš Revelio žemė: Gardino vadas įsiveržė į Danijos žemes Revelio apylinkėse ir jas smarkiai nuniokojo.
 - susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
 - susijęs iš [[objektai/asmenys/Eberhardas (Varmės vyskupas).md#claim-t-82281|Eberhardas (Varmės vyskupas)]]: Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl taikos sutarties ir su kitais vyskupais paskelbė ją pražūtinga Prūsijai.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10677|Gediminas]]: 1323 m. Gediminas laiškais kvietė į Lietuvą amatininkus, pirklius, žemdirbius ir riterius.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176334|Gediminas]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis yra pirmas autentiškas paliudijimas, kad Vilnius jau buvo Gedimino sostinė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176339|Gediminas]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo Gedimino sostinė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176365|Gediminas]]: Gedimino laiškai Liubekui, Bremenui, Kelnui, kitiems Europos miestams ir vienuolių ordinams turėjo platų tarptautinį atgarsį.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176376|Gediminas]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176381|Gediminas]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176334|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis yra pirmas autentiškas paliudijimas, kad Vilnius jau buvo Gedimino sostinė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176339|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo Gedimino sostinė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176376|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176381|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Henrikas Botelis.md#claim-t-116281|Henrikas Botelis]]: Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.
 - susijęs iš [[objektai/asmenys/Jonas (Sembos vyskupas).md#claim-t-87711|Jonas (Sembos vyskupas)]]: Sembos vyskupas Jonas Elblionge dalyvavo pasitarime ir su kitais vyskupais pasiuntė laišką, kuriame taikos sutartį vadino pražūtinga.
 - susijęs iš [[objektai/asmenys/Konradas iš Foichtvangeno.md#claim-t-59994|Konradas iš Foichtvangeno]]: Konradas iš Foichtvangeno atsisakė pareigybės Prūsijoje ir pasiliko vienos Livonijos žemės magistru.
@@ -101,8 +140,6 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175094|Sembai]]: 1260 m. Klaipėdoje sembai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175102|Sembai]]: 1260 m. Klaipėdoje sembai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78538|Varmiai]]: 1260 m. Klaipėdoje varmiai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176140|Žemaičiai]]: Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą ir nužudė apie 70 žmonių.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176161|Žemaičiai]]: Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių ir jį sudegino.
 - susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66527|Durbės mūšis (1260 m.)]]: Durbės mūšyje 1260 m. liepos 13 d. žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 brolių.
 - susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija (1325 m.).md#claim-t-86946|Gedimino sąjunga su Lenkija (1325 m.)]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Lokietka dėl bendros kovos su Prūsijos ordinu.
 - susijęs iš [[objektai/ivykiai/Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.).md#claim-t-62828|Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.)]]: 1323 m. Žemaitijos lietuviai sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.
@@ -157,9 +194,7 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 - susijęs iš Vilnius: Pirmasis autentiškas Vilniaus kaip miesto ir Gedimino sostinės paliudijimas siejamas su 1323 m. spalio 2 d. Vilniuje pasirašyta sutartimi.
 - susijęs iš Vėluva: 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.
 - susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
-- susijęs iš Žemaitija: 1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Karalius Henrikas Revelyje, Livonijos žemėje, pastatė cistersų ordino vienuolyną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -196,6 +231,41 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-003
+  santrauka: 'Narbutas Revelio šv. Olafo bažnyčioje matė vėliavos liekaną su žalvariniu gaidžiu, laikytą pagonybės laikų vėliava iš Latvijos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Iš Marienburgo, Karaliaučiaus, Revelio senienų
+    aiškėja, kad lietuvių karo vėliavose paprastai būdavo pavaiz­
+    duotas žirgas arba gaidys. Revelyje, šv. Olafo bažnyčioje, pats
+    mačiau medinį kotą su kažkokio audeklo gabalu, kuriame bu­
+    vo žalvarinis balandžio dydžio gaidys; tatai laikyta pagonybės
+    laikų vėliava, paimta Latvijoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-004
+  santrauka: 'Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje, vadinamojo Suomijos karo metu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    P. 383***** _ Kronika Niemiecka J. F. R. (Z rękopismu au-
+    tentycznego, objašnil, tlómaczenie polskie doląc-
+    zyt i do druku podal Teodor Narbutt // MAB RS. -
+    E 22. -  B. 54). Kaip byloja šio parengto spaudai ran­
+    kraščio pratarmė, Rivijaus kroniką T. Narbutas įsi­
+    gijo 1808 metais Revelyje, tai yra per vadinamąjį
+    Suomijos karą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] puole Revelis

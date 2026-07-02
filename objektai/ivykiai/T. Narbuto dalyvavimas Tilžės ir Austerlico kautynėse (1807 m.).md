@@ -41,50 +41,57 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-187803"></a>
-- t-001
-  global_id: t-187803
-  teiginys: '1807 m. tarnaudamas Rusijos kariuomenėje T. Narbutas dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys tiksliai sujungia 1807 m. tarnybą, Tilžės ir Austerlico kautynes bei sužeidimą. Citata nepagrindžia papildomų mūšio aplinkybių.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_place: Rusija; mentioned_place: Tilžė; mentioned_place: Peterburgas'
-  temporaliniai_duomenys: 'įvykio data: 1807 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai sujungia 1807 m. tarnybą, Tilžės ir Austerlico kautynes bei sužeidimą. Citata nepagrindžia papildomų mūšio aplinkybių.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-187804"></a>
-- t-002
-  global_id: t-187804
+- t-003
   teiginys: 'T. Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Sakinys yra pilnas biografinis faktas apie T. Narbuto tarnybą ir dalyvavimą kautynėse. Sužeidimo detalė sąmoningai neįtraukta.'
-  susije_objektai: 'mentioned_place: Rusija; mentioned_place: Tilžė; mentioned_place: Peterburgas'
-  temporaliniai_duomenys: 'įvykio data: 1807 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas biografinis faktas apie T. Narbuto tarnybą ir dalyvavimą kautynėse. Sužeidimo detalė sąmoningai neįtraukta.'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 5872-6076; hash=cf4e1c33809f328fe7d8ab43db540c5093be4be603a328843aad8f72bd096caf; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Austerlicas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Austerlicas: mention_match, place, gap=74
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.)" parinktas kaip owner_note_path. Targetas "Austerlicas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- t-004
+  teiginys: '1807 m. tarnaudamas Rusijos kariuomenėje T. Narbutas dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.'
+  pagrindžia:
+    - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 5872-6076; hash=cf4e1c33809f328fe7d8ab43db540c5093be4be603a328843aad8f72bd096caf; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Austerlicas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Austerlicas: mention_match, place, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.)" parinktas kaip owner_note_path. Targetas "Austerlicas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'T. Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Jaunuolis nesibaidė vyriau­
     sybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų
     korpuse. Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
     vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-001
+    - t-003
+    - t-004
+
 ## Data ir vieta
 
 Data: 1807 m..

@@ -108,7 +108,7 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10071|Algirdas (Lietuvos valdovas)]]: 1358 m. derybose su Šv. Romos imperatoriumi Karoliu IV Algirdas reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176291|Algirdas (Lietuvos valdovas)]]: Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-183725|Algirdas (Lietuvos valdovas)]]: Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176380|Gediminas]]: Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176380|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).
 - susijęs iš [[objektai/asmenys/Karolis IV.md#claim-t-89888|Karolis IV]]: 1358 m. Šv. Romos imperatorius Karolis IV derėjosi su Algirdu, kuris reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.
 - susijęs iš [[objektai/asmenys/Nogajus.md#claim-t-87807|Nogajus]]: Nogajaus mongolai 1272 m. kartu su Haličo kunigaikščiais puolė Lietuvą.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187436|Aukso orda]]: Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.
@@ -122,7 +122,11 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10072|Algirdas (Lietuvos valdovas)]]: Tose pačiose derybose Algirdas reikalavo sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos, Priegliaus ir Dauguvos.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176301|Algirdas (Lietuvos valdovas)]]: Algirdas 1358 m. derybose su Karoliu IV reikalavo iškelti kryžiuočius į rytų stepes ir sugrąžinti Lietuvai vakarines baltų žemes.
 - susijęs iš [[objektai/asmenys/Karolis IV.md#claim-t-10089|Karolis IV]]: Karolis IV šiame šaltinyje įvardijamas Šv. Romos imperatoriumi.
+- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-188397|Albertas Vijūkas-Kojalavičius]]: Narbutas rašė, kad per 400 metų krašto praeitimi pasirūpino tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas.
+- susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-188457|Mykolas Lietuvis]]: Narbutas Mykolą Lietuvį įvardija tarp nedaugelio lietuvių, kurie per 400 metų rūpinosi krašto praeitimi.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178992|Kryžiuočių ordinas]]: Gardinas buvo įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179300|Lietuviai]]: 1316 m. Medininkų valsčiuje Ragainės broliai, persekiojami 200 lietuvių, sudegino du kaimus ir paėmė į nelaisvę moteris bei vaikus.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188251|Lietuviai]]: Narbutas apgailestavo, kad per 400 metų Lietuvos praeitimi esą rūpinosi tik Kojalavičius, Mykolas Lietuvis ir jis pats.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-182738|Lietuvos kariuomenė]]: Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.
 - susijęs iš [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.).md#claim-t-59643|Akono (Akros) žlugimas (1291 m.)]]: Aprašęs Akono žlugimą, Petras Dusburgietis į kroniką įdėjo Šventosios Žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją.
 - susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-183316|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.

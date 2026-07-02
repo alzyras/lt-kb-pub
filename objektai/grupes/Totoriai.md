@@ -1110,7 +1110,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63557|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63558|Edyga]]: Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05168|Gediminas]]: 1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05168|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.
 - susijęs iš [[objektai/asmenys/Georgas Fridrikas Valdekas.md#claim-t-40123|Georgas Fridrikas Valdekas]]: Georgas Fridrikas Valdekas, gavęs žinią apie totorių kėlimąsi per upę šiauriau Prostkų, pasiuntė juos sulaikyti B. Radvilos kavaleriją.
 - susijęs iš [[objektai/asmenys/Ghillebert de Lannoy.md#claim-t-51016|Ghillebert de Lannoy]]: Ghillebert de Lannoy užsiminė, kad iš Vytauto kanceliarijos buvo siuntinėjami raštai totorių kalba.
 - susijęs iš [[objektai/asmenys/Ghillebert de Lannoy.md#claim-t-51017|Ghillebert de Lannoy]]: Ghillebert de Lannoy minėjo, kad iš Vytauto kanceliarijos buvo siuntinėjami raštai totorių kalba.
@@ -1129,7 +1129,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184442|Martynas V]]: Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir 1424 m. parėmė jo žygius prieš totorius.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82624|Mykolas Glinskis]]: Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį.
 - susijęs iš [[objektai/asmenys/Olegas (Romano sūnus).md#claim-t-40378|Olegas (Romano sūnus)]]: Olegas, Briansko kunigaikščio Romano sūnus, buvo priverstas dalyvauti totorių antpuolyje prieš Lietuvą.
+- susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-190235|Ostapas Kropotkovas]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
 - susijęs iš [[objektai/asmenys/Sivindukas.md#claim-t-40423|Sivindukas]]: Murza Sivindukas, kunigaikščio Madyko sūnus, vadovavo mūšyje dalyvavusiems totoriams.
+- susijęs iš [[objektai/asmenys/Tavernjė.md#claim-t-190214|Tavernjė]]: Narbutas nurodo, kad Tavernjė čerkesų ir kumanų totorių papročiuose rado tam tikrą Motinos žemės kulto panašybę.
 - susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-40468|Timūr-Kutlukas]]: Timūr-Kutlukas vadovavo totorių pajėgoms, kuriose buvo ir Krymo emyro Edygos kariai.
 - susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111435|Tochtamišas]]: Prie Kijevo telkiamoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-10106|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
@@ -1155,6 +1157,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/autoriai/Pranciškus de Comitibus.md#claim-t-35472|Pranciškus de Comitibus]]: Pranciškus de Comitibus užrašė, kad Vytauto bijojo ir jį gerbė totorių ciesorius, vyriausiasis chanas.
 - susijęs iš [[objektai/autoriai/R. Batūra.md#claim-t-97213|Romas Batūra]]: Romas Batūra 1966 m. rašė XIII a. Lietuvos sostinės klausimu ir nagrinėjo lietuvių kovas su totoriais.
 - susijęs iš [[objektai/autoriai/St. Kryczyński.md#claim-t-29602|St. Kryczyński]]: St. Kryczyńskis 1938 m. Varšuvoje paskelbė istorinę-etnografinę Lietuvos totorių monografiją „Tatarzy litewscy“.
+- susijęs iš [[objektai/autoriai/Tavernjė.md#claim-t-190407|Tavernjė]]: Narbutas rašo, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado pas čerkesų ir kumanų totorius.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-05238|Auksinė Orda]]: Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-12353|Auksinė Orda]]: Aukso Orda šiame šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi totorių valstybė.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187437|Aukso orda]]: Vytautas žadėjo Aukso ordos chaną Tochtamišą iškelti į visų totorių chanatų viršūnę.
@@ -1180,6 +1183,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/grupes/Lietuvos jungtinės pajėgos.md#claim-t-183660|Lietuvos jungtinės pajėgos]]: Lietuvos jungtines pajėgas prie Vorsklos sudarė lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamyšo totoriai, lenkų talkininkai, Kryžiuočių ordino kariai ir moldavai.
 - susijęs iš [[objektai/grupes/Lietuvos jungtinės pajėgos.md#claim-t-38824|Lietuvos jungtinės pajėgos]]: Lietuvos jungtines pajėgas sudarė lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamyšo totoriai, talkininkai iš Lenkijos, Kryžiuočių ordino kariai ir moldavai.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187724|Lietuvos kariuomenė]]: Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir grįžo į stovyklą su belaisviais bei grobiu.
+- susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-188287|Lietuvos totoriai]]: Narbutas rašo, kad Lietuvos totoriai mitines būtybes vadino fereikomis ir džinais, o jų religinė raštija joms priskyrė kenksmingumą.
 - susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78379|Lietuvos totoriai]]: Lietuvos totoriai naudodavo rytietiškas strėlines ir buvo ginkluoti lanku, kardu bei skydu.
 - susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78380|Lietuvos totoriai]]: Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką.
 - susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78381|Lietuvos totoriai]]: Lietuvos totoriai naudodavo rytietiškas strėlines, kaip ir kita Lietuvos lengvoji kariuomenė.
@@ -1197,6 +1201,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/grupes/Totorių pajėgos.md#claim-t-78528|Totorių pajėgos]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
 - susijęs iš [[objektai/grupes/Totorių pajėgos.md#claim-t-78529|Totorių pajėgos]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
 - susijęs iš [[objektai/grupes/Vilniaus prastuomenė.md#claim-t-55096|Vilniaus prastuomenė]]: Grzybowskio pasakojime Vilniaus miestiečiai 1341 m. vaizduojami kaip su totoriais puolę pranciškonų vienuolyną.
+- susijęs iš [[objektai/grupes/Čerkesų ir kumanų totoriai.md#claim-t-189547|Čerkesų ir kumanų totoriai]]: Narbutas rašė, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado pas čerkesų ir kumanų totorius.
 - susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186782|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Aukso ordos totoriai labai šaltą 1501-1502 m. žiemą žiemojo nurodytose vietose, nesulaukę realios LDK paramos kariuomene, artilerija ir maistu.
 - susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186785|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Seversko Naugardą ir Starodubą Aukso ordos totoriai puolė 1501 m. rugsėjį, iki spalio 7 d.
 - susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186661|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraštis pasakoja, kad tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių.
@@ -1284,6 +1289,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Perekopo sąsmauka: Įtvirtinta Perekopo sąsmauka saugojo Krymą ir didino totorių pagrindinės buveinės strateginį pranašumą.
 - susijęs iš Perekopo sąsmauka: Įtvirtinta Perekopo sąsmauka saugojo sunkiai pasiekiamą totorių bazę, iš kurios jie galėjo leistis į tolimus žygius.
 - susijęs iš Pinskas: Narimantas, Pinsko kunigaikštis, po Kęstučio 1345 m. puolimo ieškojo prieglobsčio pas totorių chaną.
+- susijęs iš Podbužo dvaras: Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas Ostapui Kropotkovui už nuopelnus kare su totoriais.
 - susijęs iš Podolija: Vytautui teko ilgai kovoti dėl Podolijos, į kurią pretenzijas reiškė vengrai, totoriai ir lenkai.
 - susijęs iš Podolė: Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
 - susijęs iš Podolė: Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
@@ -1441,6 +1447,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182793|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis Michalonis Lit.md#claim-t-88038|Mykolas Lietuvis Michalonis Lit]]: Apie tai yra rašęs Mykolas L i e t u v i s, p. 28.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172960|Mykolas Lietuvis]]: Apie tai yra rašęs Mykolas L i e t u v i s, p. 28.
+- susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-188458|Mykolas Lietuvis]]: Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas išliko kaip žalčių laikymas.
 - susijęs iš [[objektai/autoriai/Naruszewicz Naruševičius.md#claim-t-87996|Naruszewicz Naruševičius]]: Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
 - susijęs iš [[objektai/autoriai/Naruszewicz.md#claim-t-87991|Naruszewicz]]: Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
 - susijęs iš [[objektai/daiktai/Artilerija.md#claim-t-187515|Artilerija]]: Komentare nurodoma, kad 1501-1502 m. žiemą Aukso ordos totoriai nesulaukė realios paramos kariuomene, artilerija ir maistu iš Aleksandro ir LDK Ponų Tarybos.
@@ -1489,6 +1496,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179233|Lietuviai]]: Lietuviams mokėti mokesčius ir taip pripažinti priklausomybę buvo laikoma per didele nuolaida.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179332|Lietuviai]]: Kronikininkas Posilgė apie lietuvius kautynių pabaigoje tepasakė, kad jie buvo atmušti.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179335|Lietuviai]]: Pagal Dlugošo kroniką, lietuvių pasitraukimas Žalgirio kautynėse reiškė bėgimą.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190591|Lietuviai]]: Narbutas rašė, kad kiekviena lietuvių genties tauta dievams aukojamiems arkliams rinkdavosi savitą plauką ir ženklus.
 - susijęs iš [[objektai/grupes/Liuteronai.md#claim-t-45109|Liuteronai]]: LDK santvarka leido liuteronams egzistuoti šalia katalikų ir kitų etnokonfesinių bendrijų.
 - susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78383|Livonijos kunigaikštystė]]: Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.
 - susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78385|Livonijos kunigaikštystė]]: Steponas Batoras ir Mikalojus Radvila Rudasis laikė būtina atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus.
@@ -1675,7 +1683,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Lietuva: 1430 m. Vytautas į Trakus ir Vilnių sukvietė šiaurės šalių kunigaikščius ir pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
 - susijęs iš Lietuva: Aleksandro planai žlugo, nes totoriai netrukus su didelėmis pajėgomis įsiveržė į Lietuvą.
 - susijęs iš Lietuva: Nuo 1503 m. totoriai vis drąsiau puldinėjo Lietuvos žemes paskutiniaisiais Aleksandro valdymo metais.
-- susijęs iš Lietuva: Zigmantas siūlė Jogailai karūnuoti Vytautą, nes Vytautas buvo nusipelnęs Lietuvai įvesdamas joje krikščionybę.
 - susijęs iš Maskva: Maskva, siekdama sujungti visą Rusią, reiškė pretenzijas į Naugardo ir Pskovo respublikas.
 - susijęs iš Maskva: Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais.
 - susijęs iš Maskva: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
@@ -1787,9 +1794,11 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš Černigovas: Po pergalės prieš totorių chaną didysis kunigaikštis Skirmantas Rusų žemėje paėmė Černigovą.
 - susijęs iš Švedija: 1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama „tvanu“.
 - susijęs iš Švedija: Valdant Vazų dinastijai Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija 1654–1667 metais.
+- susijęs iš Švedija: Narbutas Švediją ir Daniją pateikė kaip kraštus, kuriuose prie didžiųjų šventyklų susirinkdavo gausios žmonių minios.
 - susijęs iš Žemaitija: Po Žalgirio mūšio Žemaitija liko pagrindinė Vytauto konflikto su Ordinu priežastis.
 - susijęs iš Žemaitija: Po Žalgirio mūšio Vytautas pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir Užnemunę.
 - susijęs iš Žemaitija: 1398 m. vasarį Kryžiuočių ordino Livonijos atšakos pajėgos smogė Žemaitijai ir daug žmonių išsivedė į nelaisvę.
+- susijęs iš Žemaitija: Narbutas remiasi Lasickiu, kad Žemaitijoje ežeras Orthus buvo laikomas dievu.
 - susijęs iš Žemutinis Padnieprys: Prieš mūšį parengiamieji žygiai buvo organizuoti nuo Žemutinio Padnieprio Dono link ir į Krymą.
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-183400|Bajorų respublika liberum veto]]: Lenkijoje ir Lietuvoje visuomenės agrarinis pobūdis ir miestų silpnumas lėmė Bajorų respublikos susiformavimą.
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-21976|Bajorų respublika liberum veto]]: Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę.
@@ -1833,6 +1842,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/zodynas/ulonas.md#claim-t-183719|ulonas]]: Algirdo pajėgoms spaudžiant totoriai pabėgo, o mūšyje žuvo daug murzų ir ulonų.
 - susijęs iš [[objektai/zodynas/ulonas.md#claim-t-38783|ulonas]]: Algirdo pajėgų spaudimo neatlaikę totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186642|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime maskvėnai su totoriais atėjo ir nusiaubė Viazmos žemę.
+- susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-190235|Ostapas Kropotkovas]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
 - susijęs iš Ovručas: Lietuvos metraštis pasakoja, kad lietuviai Ovručo ir kitais keliais gaudė bėgančius totorius, juos žudė ir atiminėjo grobį.
 - susijęs iš [[objektai/zodynas/saar.md#claim-t-70316|saar]]: Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-05238|Auksinė Orda]]: Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė.
@@ -2944,7 +2954,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - Totoriai uzeme [[objektai/vietos/Trakai]]
 - Totoriai uzeme [[objektai/vietos/Vilnius]]
 - Totoriai valde [[objektai/vietos/Kijevas]]
-- [[objektai/asmenys/Gediminas]] kariavo_pries Totoriai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] kariavo_pries Totoriai
 - [[objektai/grupes/Lietuviai]] puole Totoriai
 - [[objektai/asmenys/Mykolas Glinskis]] kariavo_pries Totoriai
 - Totoriai reme [[objektai/asmenys/Jonas Kalita]]
@@ -2999,6 +3009,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - Totoriai puole [[objektai/asmenys/Zaberezinskis]]
 - Totoriai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
 - Totoriai keliavo_i [[objektai/vietos/Cepra]]
+- [[objektai/asmenys/Ostapas Kropotkovas]] kariavo_pries Totoriai
 - Totoriai buvo_sajungininkas_su [[objektai/grupes/Lenkai]]
 - Totoriai puole [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Auksinė Orda]] priklause Totoriai

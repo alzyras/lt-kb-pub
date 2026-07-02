@@ -726,6 +726,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Ukraina: llm_allowed_candidate, place
   ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Švitrigaila nusigavo į Ukrainą.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179699|Švitrigaila]]: Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176733|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
 - susijęs iš Krėva: Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam.
@@ -810,7 +811,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 - susijęs iš [[objektai/asmenys/Dmitrijus Doniškis.md#claim-t-87652|Dmitrijus Doniškis]]: Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
 - susijęs iš [[objektai/asmenys/Edividas.md#claim-t-35053|Edividas]]: Mindaugo sūnėnas Edividas įsigyveno Drutske, kai Lietuvos valdžia plito Baltojoje Rusijoje.
 - susijęs iš [[objektai/asmenys/Eustachijus (raštininkas).md#claim-t-87662|Eustachijus (raštininkas)]]: Raštininkas Eustachijus pasirašė 1538 m. rugsėjo 1 d. Žygimanto Augusto laišką dėl Drujos vandens tiekimo į Vilnių.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
 - susijęs iš [[objektai/asmenys/Gerasimas.md#claim-t-87678|Gerasimas]]: Švitrigaila įsakė sudeginti metropolitą Gerasimą.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176438|Jaunutis (valdovas, XIV a.)]]: Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-184717|Jaunutis (valdovas, XIV a.)]]: Kęstučiui užėmus Vilniaus pilis, Jaunutis pabėgo iš pilies, bet Kęstučio raiteliai jį sugrąžino iš miško.
@@ -896,7 +897,6 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 - susijęs iš Druja: 1538 m. Žygimanto Augusto laiške minima Drujos upė Paplaujoje, iš kurios vanduo vamzdžiais buvo nuvestas į miestą.
 - susijęs iš Dubrovna: 1562 m. maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo ir Dubrovnos apylinkes.
 - susijęs iš Dvina: Švitrigaila įsakė Vitebske nuo aukšto skardžio įmesti Alšėnų kunigaikštį į Dviną.
-- susijęs iš Gardinas: Gardine atsirado jėzuitų kolegija, funduota Smolensko vyskupo Isaikovskio ir kitų rėmėjų.
 - susijęs iš Jelgava: Jelgavoje jėzuitai buvo įkūrę vieną iš mažesnių savo mokyklų.
 - susijęs iš Kijevas: Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį.
 - susijęs iš Kijevo žemės: Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes.
@@ -1785,13 +1785,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 
 ## Ryšiai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Vitebskas
-- [[objektai/asmenys/Švitrigaila]] valde_miesta Vitebskas
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde Vitebskas
+- [[objektai/asmenys/Švitrigaila]] valde_miesta Vitebskas
 - [[objektai/asmenys/Švitrigaila]] valde_teritorija Vitebskas
 - [[objektai/asmenys/Skirgaila]] uzeme Vitebskas
 - Vitebskas priklause [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Švitrigaila]] uzeme Vitebskas
-- [[objektai/asmenys/Gediminas]] uzkariavo Vitebskas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzkariavo Vitebskas
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Vitebskas
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_miesta Vitebskas
 - [[objektai/asmenys/Mechmet Girėjus]] puole Vitebskas
@@ -1814,7 +1814,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]] valde_miesta Vitebskas
 - [[objektai/asmenys/Skirgaila]] valde_teritorija Vitebskas
 - Vitebskas priklause [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Vitebskas priklause [[objektai/asmenys/Gediminas]]
+- Vitebskas priklause [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] pastate Vitebskas
 - [[objektai/asmenys/Švitrigaila]] keliavo_i Vitebskas
 - [[objektai/asmenys/Aleksandras Balinskis]] gyveno Vitebskas

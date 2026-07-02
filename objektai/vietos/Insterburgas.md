@@ -34,7 +34,11 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
   ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Užnemunė: llm_allowed_candidate, place
   ryšio_paaiskinimas: Vytautas buvo pasiųstas į Užnemunę ir užduotį atliko, todėl kelionės kryptis paremta tekstu.
+- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189972|Kristoforas Hartknochas]]: Hartknochas pateikė duomenų apie Insterburgo valsčiaus šventąją pušį Romutą arba Ruombotą, kurią 1664 metais suskaldė žaibas.
+- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188431|Kristupas Hartknochas]]: Narbutas rašo, kad Hartknochas pateikė duomenų apie Insterburgo valsčiuje augusią šventąją pušį Romutą arba Ruombotą.
+- susijęs iš Insterburgo valsčius: Narbutas, remdamasis Hartknochu, Insterburgo valsčiuje lokalizavo šventąją pušį Romutą arba Ruombotą, kurią 1664 m. suskaldė žaibas.
 - susijęs iš Nemunas: Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos, aukščiau Insterburgo.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190636|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis tikėjo barstukų pasirodymais ir rėmėsi Olafo, Agripos bei kitų autorių liudijimais.
 - susijęs iš [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga).md#claim-t-92949|Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]: 1382 m. pabaigoje Vytautas, tarpininkaujant maršalkai Konradui Vallenrodui, persikėlė pas Ordiną.
 ## Reikšmingi paminėjimai
 

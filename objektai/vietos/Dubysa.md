@@ -5,6 +5,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -19,12 +20,12 @@ date_start: '1236'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ordinas
-  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
+tags:
+  - ordinas
+  - vieta
 ---
 # Dubysa
 
@@ -33,7 +34,6 @@ amziai:
 Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pilių juostos orientyras ir 1382 m. sutartyje apibrėžta riba.
 
 ## Teiginiai
-
 <a id="claim-t-179804"></a>
 - t-001
   global_id: t-179804
@@ -96,7 +96,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   global_id: t-179812
   teiginys: '1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir paremtas citatos duomenimis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Europa; mentioned_place: Krėva; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Upės (Oppen) kaimas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Europa; mentioned_place: Krėva; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, pilnas ir paremtas citatos duomenimis.'
@@ -305,15 +305,15 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a2dbc9cfd7de056e7a0f2ba43314dab02e621b5336c146c1dcf9280221d7cccf; match=fallback; occurrences=0
+  saltinio_vieta: 370905-371371; hash=3cd61202e49d278c5d9725344e851ce62224bd4913a93d8b19b8130fbe229dc2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Birutė: 0.83
+  ryšio_patikimumas: susije_su -> Upės (Oppen) kaimas: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Dubysa: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Birutė: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubysa" parinktas kaip owner_note_path. Targetas "Birutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_targeto_parinkimas: Upės (Oppen) kaimas: mention_match, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubysa" parinktas kaip owner_note_path. Targetas "Upės (Oppen) kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184949"></a>
 - t-021
@@ -327,15 +327,34 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a2dbc9cfd7de056e7a0f2ba43314dab02e621b5336c146c1dcf9280221d7cccf; match=fallback; occurrences=0
+  saltinio_vieta: 370905-371371; hash=3cd61202e49d278c5d9725344e851ce62224bd4913a93d8b19b8130fbe229dc2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Birutė: 0.83
+  ryšio_patikimumas: susije_su -> Upės (Oppen) kaimas: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Dubysa: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Birutė: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubysa" parinktas kaip owner_note_path. Targetas "Birutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_targeto_parinkimas: Upės (Oppen) kaimas: mention_match, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubysa" parinktas kaip owner_note_path. Targetas "Upės (Oppen) kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188687"></a>
+- t-022
+  global_id: t-188687
+  teiginys: 'Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu.'
+  pagrindžia:
+    - c-016
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 370905-371371; hash=3cd61202e49d278c5d9725344e851ce62224bd4913a93d8b19b8130fbe229dc2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Palemonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dubysa: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Palemonas: mention_match, person, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubysa" parinktas kaip owner_note_path. Targetas "Palemonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179074|Kryžiuočių ordinas]]: Kryžiuočių ordinas niokojamaisiais žygiais siekė palaužti pagonių kraštą, užvaldyti jį ir ypač spaudė Žemaičius.
 - susijęs iš Kaunas: 1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos.
 - susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
@@ -362,7 +381,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 - susijęs iš Kulių (Jurgaičių) pilys: 1348 m. kovo mėn. Livonijos ordinas puolė Šiaurės Žemaitiją ir sunaikino Kulių (Jurgaičių), Dubysos (Bubių) bei kitas pilis.
 - susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
 - susijęs iš Nemunas: Keliautojai Nemunu vyko iš Merkinės į Kauną, o iš ten Nemunu ir Dubysa pasiekė Aukokalnį ties dabartine Betygala.
+- susijęs iš Palemono kalnas: Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos žiočių, su pylimu arba senos piliavietės liekana.
 - susijęs iš Peštvė: Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta.
+- susijęs iš Seredžius: Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas su senos piliavietės liekana vadintas Palemono kalnu.
 - susijęs iš Šiaulių žemė: 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę ir sugriovė Dubysos pilį, kur, Hermano Vartbergiškio liudijimu, žuvo šimtas gynėjų.
 - susijęs iš Šiaurės Žemaitija: 1348 m. kovo mėn. Livonijos ordinas vėl puolė Šiaurės Žemaitiją ir sunaikino Kulių, Dubysos bei kitas pilis.
 - susijęs iš [[objektai/asmenys/A. Birontas.md#claim-t-39977|A. Birontas]]: Karininko A. Bironto vadovaujama šešių Žemaitijos komendantūrų rinktinė saugojo Kauno-Seredžiaus-Jurbarko kryptį.
@@ -381,6 +402,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 - susijęs iš [[objektai/asmenys/Lengvenis.md#claim-t-47953|Lengvenis]]: Lengvenis buvo vienas iš penkių Jogailos brolių, minimų liudininkais trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.
 - susijęs iš [[objektai/asmenys/Lingvenis.md#claim-t-35201|Lingvenis]]: Lingvenis pritarė Jogailos sutartims su Ordinais dėl ketverių metų taikos, krikšto ir pusės Žemaitijos užleidimo.
 - susijęs iš [[objektai/asmenys/Ona Vytautienė.md#claim-t-181595|Ona Vytautienė]]: Ona Vytautienė savo meile padėjo išgelbėti Vytautą nuo neišvengiamos pražūties.
+- susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-188602|Palemonas]]: Prie Seredžiaus, žemiau Dubysos žiočių, esantis apvalus kalnas su senos piliavietės liekana vadintas Palemono kalnu.
 - susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-35305|Vaclovas Čekietis]]: Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.
 - susijęs iš [[objektai/asmenys/Vygandas.md#claim-t-30415|Vygandas]]: Vygandas buvo vienas iš penkių Jogailos brolių, Julijonos sūnų, paminėtų liudininkais trijose Jogailos ir Skirgailos sutartyse.
 - susijęs iš [[objektai/asmenys/Vyguntas.md#claim-t-35340|Vyguntas]]: Vyguntas kartu su Jogailos motina Julijona ir broliais pritarė Jogailos sutarčių su Ordinais įsipareigojimams.
@@ -392,7 +414,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172977|Vygandas Marburgietis]]: Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad deginant palaikus atsivėrusi kiaurymė įtraukė pelenus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179074|Kryžiuočių ordinas]]: Kryžiuočių ordinas niokojamaisiais žygiais siekė palaužti pagonių kraštą, užvaldyti jį ir ypač spaudė Žemaičius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184489|Kryžiuočių ordinas]]: Gedimino laikais kryžiuočiai iš pamatų sugriovė Romove vadintą sodybą, vėliau tapusią Krivės Krivaičio būstine.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
 - susijęs iš [[objektai/ivykiai/Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.).md#claim-t-31410|Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)]]: 1292 ir 1294 m. ordino kariuomenė nusiaubė Gaižuvos ir prie Vilkijos buvusias Pačtuvos sritis.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.).md#claim-t-62843|Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.)]]: 1322 m. Ordinas su talkininkais iš Vokietijos, Čekijos ir kitur niokojo Žemaitiją, bet buvo atremtas prie Pieštvės pilies.
 - susijęs iš [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.).md#claim-t-31436|Kymel pilies sunaikinimas (1295 m.)]]: 1295 m. kryžiuočiai prie Nemuno sunaikino stiprią Kymel pilį.
@@ -440,7 +461,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 - susijęs iš [[objektai/zodynas/vietovardžių priešdėlis `pa.md#claim-t-86625|vietovardžių priešdėlis `pa]]: Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.
 - susijęs iš Betygala: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kryžiuočių viršininkas, Ordino kapitulai sutikus, pavedė Vytautui valdyti Naująją Marienburgo pilį prie Nemuno, žemiau Dubysos įtakos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -754,6 +774,29 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+- c-016
+  santrauka: 'Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    218
+
+    ## Puslapis 218
+
+    nikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­
+    muno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­
+    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
+    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
+    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
+    lemonu Kalnas).
+    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
+    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-022
 
 ## Ryšiai
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Dubysa

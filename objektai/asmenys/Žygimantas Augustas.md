@@ -6,29 +6,31 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos:
-  - '1543 m.'
-  - '1572 m.'
-date_start: '1543'
-date_end: '1572'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+datos: []
+date_start: ''
+date_end: ''
+description: 'Žygimantas Augustas: XVI a. valdovo aktai, Vilniaus potvarkiai, Radvilų dovanojimai, Barbora Radvilaitė ir LDK politiniai lūžiai.'
+socialDescription: 'Žygimantas Augustas Lietuvos istorijoje siejamas su Vilniaus kasdienybe, Radvilomis, Barbora Radvilaite ir LDK teritoriniais pokyčiais.'
+seo_atnaujinta: '2026-07-02T19:20:23.355936+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
+periodo_grupes: []
 tags:
   - asmuo
   - kunigaikštis
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 ---
 # Žygimantas Augustas (arkivyskupas, XVI a.)
 
 ## Santrauka
 
-Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau dingo).
+Žygimantas Augustas siejamas su XVI a. Lietuvos Didžiosios Kunigaikštijos politiniais lūžiais ir Vilniaus miesto gyvenimu. Šaltiniuose minimi jo aktai, kuriais prie Lenkijos prijungtos Palenkė, Voluinės, Kijevo ir Podolės vaivadijos, taip pat 1547 m. potvarkis dėl supirkinėtojų. Jo aplinkoje ryškūs ir asmeniniai bei kultūriniai epizodai: ryšys su Barbora Radvilaite, Kotrynos Jogailaitės santuoka Vilniuje, Renesanso įtaka ir Žemutinės pilies statyba.
 
 ## Teiginiai
-
 <a id="claim-t-182749"></a>
 - t-001
   global_id: t-182749
@@ -250,6 +252,43 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] vedė [[objektai/asmenys/Kotryna|Kotryna]]'
   pagrindžia:
     - c-017
+
+<a id="claim-t-188657"></a>
+- t-018
+  global_id: t-188657
+  teiginys: 'Narbutas Žygimantą Augustą vadino paskutiniu savarankišku Lietuvos valdovu ir paskutiniu vyriškuoju Jogailos palikuoniu.'
+  pagrindžia:
+    - c-018
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 10665-11013; hash=cf04e789c682fdd3f1d8c1f1d1bc87919976ab6b126fada26eab37d828e9d042; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Augustas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Augustas (arkivyskupas, XVI a.)" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188658"></a>
+- t-019
+  global_id: t-188658
+  teiginys: 'Valdant Žygimantui Augustui Veliuonos klebonas Ragauskas priėmė Socino tikėjimą, o vietos bažnyčia ilgai priklausė evangelikams reformatams.'
+  pagrindžia:
+    - c-019
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 227931-228331; hash=e910c42482772ddb4c5ff803301c7709f9dfa2a557dca719a83a7e406bf4e169; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Veliuona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Augustas (arkivyskupas, XVI a.)" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54953|Barbora Radvilaitė]]: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos Barboros Radvilaitės atminimui.
 - susijęs iš Karalių koplyčia Vilniuje: 1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54948|Barbora Radvilaitė]]: Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.
@@ -295,6 +334,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 - susijęs iš [[objektai/grupes/Vilniaus pirkliai.md#claim-t-172852|Vilniaus pirkliai]]: Steponas Batoras, Lietuvos senatorių prašomas ir Vilniaus pirkliams protestuojant, laikinai atleido juos nuo naujo muito mokesčio.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169843|Liublino unija (1569 m.)]]: Liublino unijos rezultatas buvo LDK atstovų priimtas kompromisas, kurio pagrįstumu rimčiau nesuabejota dar du šimtmečius.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169844|Liublino unija (1569 m.)]]: Po Liublino unijos Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.
+- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-188373|Liublino unija (1569 m.)]]: Narbutas lietuvių politinę ir kultūrinę raidą apžvelgė nuo seniausių laikų iki 1569 m. Liublino unijos.
 - susijęs iš [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.).md#claim-t-41344|Polocko apsiaustis (1563 m. sausio 31 d.)]]: Polocko praradimas buvo skaudi netektis Lietuvai, nes miestas buvo svarbus prekybos centras ir stipriausia rytinių žemių tvirtovė.
 - susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-183827|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: Žygimantas Augustas įsakė Lietuvos ir Lenkijos pavaldiniams lietuvišką monetą priimti už nustatytą lenkiškų grašių vertę.
 - susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-87183|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: 1572 m. įsakymas numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą.
@@ -314,10 +354,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 - susijęs iš Marienburgas: Lietuvos metraštyje Vytautui būnant pas magistrą Marienburge, pas jį atvyko daug lietuvių kunigaikščių ir bajorų.
 - susijęs iš Palenkė: Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės vaivadijas.
 - susijęs iš Vilnius: 1544 m. Žygimantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir perėmė valdžią Lietuvoje.
-- susijęs iš Vilnius: Iki 1565 m. Žygimanto Augusto lėšomis pagamintų ginklų ir amunicijos dalis buvo palikta Vilniuje, o kita išsiųsta į pilis.
 - susijęs iš Vilnius: Žygimantas Augustas savo turtingą biblioteką, pradėtą tėvo ir jo paties kauptą, atidavė Vilniaus jėzuitų kolegijai.
-- susijęs iš Vilnius: Miestuose, ypač Vilniuje, kur mišrai gyveno katalikai su protestantais, kildavo visokių nesusipratimų ir muštynių.
 - susijęs iš Vilnius: 1559 m. dokumentas buvo duotas Vilniuje artimiausią ketvirtadienį po Šv. Baltramiejaus šventės.
+- susijęs iš Vilnius: Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
 - susijęs iš Voluinė: Žygimantas Augustas prie Lenkijos prijungė Voluinės, Kijevo ir Podolės vaivadijas bei Palenkę.
 - susijęs iš Šv. Barboros bažnyčia Žemutinėje pilyje: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mirusios žmonos atminimui.
 - susijęs iš Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
@@ -332,7 +371,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 - susijęs iš [[objektai/zodynas/sufraganas kleras arkipresbiteris.md#claim-t-86551|sufraganas kleras arkipresbiteris]]: Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.
 - susijęs iš [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai.md#claim-t-87130|Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]: Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -702,6 +740,42 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+- c-018
+  santrauka: 'Narbutas Žygimantą Augustą vadino paskutiniu savarankišku Lietuvos valdovu ir paskutiniu vyriškuoju Jogailos palikuoniu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Istorijos veikalą T. Narbutas baigia tokiais žodžiais: „Aš pri­
+    vedžiau savo rašinį iki epochos, kuria baigėsi tautos savaran­
+    kiškumas. Čia turiu perduoti darbą tęsti lenkų istorikams. Pas­
+    kutinis savarankiškas Lietuvos valdovas ir paskutinis vyriška­
+    sis Jogailos palikuonis Žygimantas Augustas mirė, ir aš lau- j?
+    žau plunksną prie jo karsto“7.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'Valdant Žygimantui Augustui Veliuonos klebonas Ragauskas priėmė Socino tikėjimą, o vietos bažnyčia ilgai priklausė evangelikams reformatams.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    1414 metais
+    kunigaikštis Vytautas, gyvendamas Veliuonos pilyje, administ­
+    ravo tą kraštą, įsteigė Veliuonos vėliavininkų ą, arba apskritį,
+    užrašė bažnyčiai daugiau pajamų. Valdant Žygimantui Augus­
+    tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
+    cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
+    iormatams. Katalikams ji sugrįžo jėzuitų pastangomis, valdant
+    Zigmantui III.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-019
 
 ## Ryšiai
 - Žygimantas Augustas (arkivyskupas, XVI a.) mire [[objektai/vietos/Knišinas]]

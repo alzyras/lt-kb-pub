@@ -678,9 +678,9 @@ amziai:
 - susijęs iš [[objektai/autoriai/Zinkevičius Z.md#claim-t-60829|Zinkevičius Z]]: Z. Zinkevičiaus darbas nurodytas aiškinant Naugarduko žemės vadinimą Krivičių žeme.
 - susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87166|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.
 - susijęs iš Povest vremennych let: XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05170|Gediminas]]: Gediminas iki gyvenimo galo liko pagonis, nieko dėl religinių priežasčių nepersekiojo ir Naugarduke palaikė atskirą Lietuvos stačiatikių arkivyskupiją.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176360|Gediminas]]: Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05170|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas iki gyvenimo galo liko pagonis, nieko dėl religinių priežasčių nepersekiojo ir Naugarduke palaikė atskirą Lietuvos stačiatikių arkivyskupiją.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176360|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
 - susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-183748|Karijotas]]: Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką.
 - susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-183553|Konstantinas Ostrogiškis]]: Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje.
 - susijęs iš [[objektai/asmenys/Levas (Haličo kunigaikštis).md#claim-t-40306|Levas (Haličo kunigaikštis)]]: Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.
@@ -866,7 +866,7 @@ amziai:
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171433|Totoriai]]: Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose.
 - susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186804|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: Nuo 1502 m. Krymo totorių antpuoliai persikėlė į šiaurę nuo Pripetės pelkių, į Naugarduko ir Vilniaus vaivadijas.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187448|Krymo chanatas]]: Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184876|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.
 ## Reikšmingi paminėjimai
 
@@ -1466,7 +1466,7 @@ amziai:
 - [[objektai/asmenys/Skirmantas]] valde_miesta Naugardukas
 - [[objektai/asmenys/Jaroslavas]] pastate Naugardukas
 - [[objektai/asmenys/Kukovaitis]] buvo_valdovas Naugardukas
-- [[objektai/asmenys/Gediminas]] pastate Naugardukas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] pastate Naugardukas
 - [[objektai/grupes/Totoriai]] gyveno Naugardukas
 - [[objektai/asmenys/Kaributas]] keliavo_i Naugardukas
 - Naugardukas priklause [[objektai/vietos/Lietuva]]

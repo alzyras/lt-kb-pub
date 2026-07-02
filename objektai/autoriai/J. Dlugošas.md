@@ -6,6 +6,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos: []
 date_start: ''
 date_end: ''
@@ -15,11 +16,11 @@ variantai:
   - 'Joannis Dlugosii'
 sukurta: ''
 atnaujinta: ''
+amziai: []
+periodo_grupes: []
 tags:
   - autorius
   - mūšis
-amziai: []
-periodo_grupes: []
 ---
 # J. Dlugošas
 
@@ -28,7 +29,6 @@ periodo_grupes: []
 J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje jis papildomai naudojamas kaip istorinio pasakojimo šaltinis apie Vorsklos mūšį, Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes; prieduose nurodoma ir jo raštų publikacija.
 
 ## Teiginiai
-
 <a id="claim-t-172865"></a>
 - t-001
   global_id: t-172865
@@ -53,7 +53,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   global_id: t-172867
   teiginys: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje rikiavo lietuvių kariuomenę pulkais ir daliniais.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Dlugošo aprašytą veiksmą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-003
 
@@ -114,7 +114,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6550f9856b874214fd4cf220087b8d7c5b823db1de50b23cf4dbe1ec0a65070a; match=fallback; occurrences=0
+  saltinio_vieta: 341166-341580; hash=8011a58a67cd3311879b256247f8ac0deb267afbd893e68f6857624d2a02a62f; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Dlugošas: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -132,7 +132,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 275560-276087; hash=8394eab6189bc56104f6471a8d997f541132005a663bfccffd4d89c94681bfff; match=exact
+  saltinio_vieta: 713386-713895; hash=60e55c5496ab07fbc6e96cff0567db3268b621053d1d8c41c1f8994718b4d00b; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Dlugošas: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -164,7 +164,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   global_id: t-172878
   teiginys: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje lietuvių kariuomenę paskirstė raitelių pulkais ir daliniais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-003
 
@@ -189,6 +189,43 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
   ryšio_targeto_parinkimas: Strėlės: mention_match, thing, gap=57
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Strėlės" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188406"></a>
+- t-014
+  global_id: t-188406
+  teiginys: 'Narbutas nurodo, kad apie Jogailos pasiųstą Teodorą Lenką į Konstancos susirinkimą žinota iš Dlugošo.'
+  pagrindžia:
+    - c-013
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 713386-713895; hash=60e55c5496ab07fbc6e96cff0567db3268b621053d1d8c41c1f8994718b4d00b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188414"></a>
+- t-015
+  global_id: t-188414
+  teiginys: 'Narbutas rašo, kad iš senesniųjų istorikų vienas Dlugošas aiškiai pripažino lietuvių genties tautas tikėjus fetišais.'
+  pagrindžia:
+    - c-012
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 341166-341580; hash=8011a58a67cd3311879b256247f8ac0deb267afbd893e68f6857624d2a02a62f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Dobeslavas Skoračevskis.md#claim-t-80710|Dobeslavas Skoračevskis]]: Dobeslavas Skoračevskis buvo Ordino pasiuntinys, atvykęs pas Jogailą į stovyklą derėtis dėl taikos.
 - susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87984|J. Dlugošas Długosz]]: J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.
 - susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87985|J. Dlugošas Długosz]]: J. Dlugošas rašė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.
@@ -209,7 +246,6 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - susijęs iš Upytė: Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą.
 - susijęs iš Vilnius: Septynios paimtos livoniečių vėliavos buvo nugabentos į Vilniaus Šv. Stanislovo katedrą kaip pergalės simbolis.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -451,3 +487,45 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+- c-012
+  santrauka: 'Narbutas rašo, kad iš senesniųjų istorikų vienas Dlugošas aiškiai pripažino lietuvių genties tautas tikėjus fetišais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    201
+
+    ## Puslapis 201
+
+    mitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi
+    gal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas
+    Dlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo
+    fetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką
+    išaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­
+    minė, jokie namai, net daug pavienių asmenų negyveno be
+    savo asmeninių fetišų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-015
+- c-013
+  santrauka: 'Narbutas nurodo, kad apie Jogailos pasiųstą Teodorą Lenką į Konstancos susirinkimą žinota iš Dlugošo.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tuometinės Lietuvos bažnyčios būklė ir smulkesnė jos is­
+    torija Konstancos susirinkimo tėvams šiaip nebuvo nežinoma,
+    nes Vladislovas Jogaila pasiuntiniu į tą susirinkimą specialiai
+    nusiuntė dominikoną, pramintą Teodoru Lenku (Theodoras
+    Polonus), kad jis išdėstytų skundus prieš kryžiuočius, savo žiau­
+    rumais atgrasančius lietuvius veiksmingai priimti šventąjį ti­
+    kėjimą. Apie tai žinome iš Dlugošo. Mūsų autorius buvo to
+    paties susirinkimo narys, tad medžiagos savo rašiniui galėjo
+    gauti iš artimų šaltinių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014

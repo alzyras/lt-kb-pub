@@ -7,6 +7,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+description: 'Vilniaus vyskupas Valerijonas Protasevičius kvietė jėzuitus, fundavo jų kolegiją ir prisidėjo prie Vilniaus akademijos kūrimo.'
+socialDescription: 'Valerijonas Protasevičius siejamas su jėzuitų atvykimu į Vilnių, kolegijos fundacija ir Vilniaus akademijos pradžia.'
+seo_atnaujinta: '2026-07-02T19:20:23.377152+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +25,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 1569 m. Vilniuje pasirodę jėzuitai gavo lėšų kolegijai ir kurio sumanymą dėl Vilniaus akademijos parėmė Steponas Batoras.
+Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus katedrą ir miręs 1579 m. gruodžio 21 d. 1569 m. jis pakvietė į Vilnių jėzuitus, fundavo viešąsias mokyklas, rėmė kolegiją ir siejamas su Vilniaus akademijos kūrimu. Šaltiniuose jis taip pat vaizduojamas kaip aktyvus katalikų stovyklos veikėjas, siekęs užkirsti kelią protestantų kolegijai ir įsakęs viešai deginti disidentų knygas.
 
 ## Teiginiai
 

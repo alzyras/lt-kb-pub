@@ -45,7 +45,9 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a42dea2c33a882a46776d01e768f75250d8bb5ba8d8434923d0e1fb7f5f6d06e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-188510|Aleksandras Jogailaitis]]: Valdant karaliui Aleksandrui Jogailaičiui, jo įsakymu pagoniškos šventyklos vietoje Ramygalos parapijoje buvo pastatyta filija.
 - susijęs iš Krekenava: Gegužės 13 d. Panevėžio rinktinės pajėgos susitelkė Krekenavos ir Ramygalos rajonuose.
+- susijęs iš [[objektai/ivykiai/Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje.md#claim-t-189617|Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje]]: Narbutas rašo, kad karaliaus Aleksandro įsakymu prie Kražių, Medžiokalnyje, pagoniškos šventyklos vietoje buvo pastatyta filija.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -108,6 +108,8 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš Vilnius: 1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje.
 - susijęs iš Voluinė: Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi.
 - susijęs iš Voluinė: Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176361|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Šv. Kryžiaus ir dominikonų bažnyčių griuvėsiai Vilniuje buvo laikomi Gedimino palankumo krikščionybei atminimu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188526|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad 1329 m. Lietuvos didysis kunigaikštis Gediminas, puldamas vieną iš kryžiuočių pilių, buvo nukautas šaunamuoju ginklu.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184705|Germantas]]: Germantas sudarė sąjungą su lenkais, nes siekė visomis jėgomis pulti rusus.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184708|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą.
 - susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23196|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės.
@@ -117,16 +119,20 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš [[objektai/asmenys/Rumbaudas.md#claim-t-184824|Rumbaudas]]: Vytautas į Korčino seimą iš pradžių nusiuntė Lietuvos maršalą Rumbaudą ir Vilniaus vaivadą Goštautą.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40516|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176739|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas LDK apgyvendino musulmonų totorių ir karaimų bendruomenes.
+- susijęs iš [[objektai/grupes/Bavarijos kunigaikščio kariuomenė.md#claim-t-189513|Bavarijos kunigaikščio kariuomenė]]: XIV a. pradžioje Bavarijos kunigaikščio kariuomenė dalyvavo kryžiuočių žygyje, per kurį prieš apgultą pilį pastatyti Fridburgas ir Bajerburgas.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120189|Karaimai]]: Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188208|Kryžiuočių ordinas]]: XIV a. pradžioje kryžiuočiai apgulė Veliuonos pilį, o negalėdami jos paimti priešais pastatė Fridburgą ir Bajerburgą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184518|Lenkai]]: Germantas sudarė draugystę su lenkais, siūlydamas sąjungą ir siekdamas bendromis jėgomis pulti rusus.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171428|Totoriai]]: Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.
 - susijęs iš [[objektai/ivykiai/Mindaugo nužudymas.md#claim-t-186564|Mindaugo nužudymas]]: Lietuvos metraštis Mindaugą vadina Lietuvos didžiuoju kunigaikščiu ir visų lietuvių žemių valdovu, nužudytu rudenį.
 - susijęs iš [[objektai/paprociai/Išvykstančio aukšto svečio apdovanojimas gausiomis dovanomis.md#claim-t-185915|Išvykstančio aukšto svečio apdovanojimas gausiomis dovanomis]]: Vytautas išvykstančiam imperatoriui davė daug dovanų, tarp jų auksu ir brangakmeniais papuoštą Gedimino nukauto tauro ragą.
 - susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino.
 - susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Narbuto pasakojime pagal 1331 m. rugsėjo 17 d. sutartį prie Bartenšteino buvo sunaikintos Fridburgo ir Bajerburgo pilys.
+- susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Pagal 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino, Fridburgo ir Bajerburgo pilys buvo sunaikintos.
 - susijęs iš Radvilų archyvo dekretų ir laiškų originalai: Radvilų archyvo dekretų ir laiškų originalų faksimilėse pateiktas Aleksandro Jogailaičio dovanojimas Vilniaus miestiečiui Maksimui.
 - susijęs iš Stepono Batoro 1576 m. gruodžio 20 d. laiškas: Stepono Batoro parašo faksimilė paimta iš jo 1576 m. gruodžio 20 d. rašyto laiško.
 - susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebavičiaus parašai.
+- susijęs iš Fridburgas: XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pasistatė Fridburgą ir Bajerburgą.
 - susijęs iš Klevanė: Voluinėje Čartoriskiai sukūrė tėvoniją Klevanėje.
 - susijęs iš Kovelis: Sanguškos, kilę iš šalutinių Gediminaičių šakų, sukūrė tėvoniją Kovelyje, vėliau Slavuta.
 - susijęs iš Lenkija: Lenkijoje žydų ir armėnų vaidmuo buvo ryškesnis nei LDK, bet joje nebuvo tokių ryškių totorių ir karaimų bendruomenių.

@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Horodlė'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1413 m.'
@@ -9,12 +10,12 @@ date_start: '1413'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
 tags:
   - miestas
   - upė
   - vieta
-amziai:
-  - 'XV'
 ---
 # Horodlė
 
@@ -23,7 +24,6 @@ amziai:
 2 d. Horodlės miestelyje (prie Būgo upės).
 
 ## Teiginiai
-
 <a id="claim-t-34186"></a>
 - t-001
   global_id: t-34186
@@ -45,9 +45,29 @@ amziai:
   ryšio_subjekto_parinkimas: Horodlė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Būgas: mention_match, place, gap=25
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Horodlė" parinktas kaip owner_note_path. Targetas "Būgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188699"></a>
+- t-002
+  global_id: t-188699
+  teiginys: '1413 m. Horodlės seime lenkų bajorai suteikė savo herbus lietuvių bajorams kaip abiejų tautų susijungimo ženklą.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 722076-722503; hash=6644a62598cb7e4ebcb041c04258e1e69112d81ad0e66b6f226e688d1e9f7292; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Lenkų bajorai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lenkų bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Žodžiai „savo herbus“ tiesiogiai rodo, kad herbai priklausė lenkų bajorams.
 - susijęs iš [[objektai/grupes/Narbutai.md#claim-t-188013|Narbutai]]: Narbutai įvadiniame straipsnyje vadinami sena lietuvių bajorų gimine, dokumentuose minima nuo Horodlės unijos laikų.
 - susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92925|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.
 - susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92926|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems savo herbus.
+- susijęs iš [[objektai/ivykiai/Herbų vienovės įvedimas Horodlės seime 1413 m.md#claim-t-189622|Herbų vienovės įvedimas Horodlės seime 1413 m (seimas, XV a.)]]: 1413 m. Horodlės seime Lenkijos bajorai, Lietuvos ir Lenkijos unijos ženklan, suteikė savo herbus lietuvių bajorams ir įvedė herbų vienovę.
 - susijęs iš [[objektai/ivykiai/Vėlesni Kriavo pažadų akto susitarimai (1392–1432 m.).md#claim-t-100047|Vėlesni Kriavo pažadų akto susitarimai (1392–1432 m.)]]: 1385 m. Kriavo pažadų aktas davė pradžią vėlesniems Astravo, Vilniaus, Horodlės ir Gardino susitarimams dėl artimesnių santykių.
 - susijęs iš [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme.md#claim-t-71795|Bajorų dalyvavimas svarbiausių aktų sudaryme]]: Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje.
 - susijęs iš Horodlės aktai (1413 m.): 1413 m. Horodlės unija nesuteikė privilegijų stačiatikiams, ypač jų diduomenei.
@@ -60,12 +80,17 @@ amziai:
 - susijęs iš [[objektai/asmenys/Motiejus (Vilniaus vyskupas).md#claim-t-87448|Motiejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176656|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kochanovskio nuomone, Horodlės unija Vytautas Didysis siekė ne lenkinti Lietuvą, o ją civilizuoti.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176732|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po suvažiavimo Vytautas įsitikino, kad su Lenkija geruoju nesusitars, ir laukė karūnos kaip valstybės laisvės ženklo.
+- susijęs iš [[objektai/autoriai/Neseckis.md#claim-t-190374|Neseckis]]: Narbutas kritikuoja Neseckio „Herbyne“ pateiktą aiškinimą, kad „Paparona“ arba „Kiniglis“ reiškia kiškį, o ne triušį.
 - susijęs iš [[objektai/daiktai/Antspaudai ir pergamentiniai privilegijų originalai.md#claim-t-87045|Antspaudai ir pergamentiniai privilegijų originalai]]: Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais.
 - susijęs iš [[objektai/daiktai/Antspaudai.md#claim-t-86979|Antspaudai]]: Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-12289|Herbai]]: Horodlės unijos punktu 47 lietuviams bajorams buvo suteikti 47 lenkų bajorų herbai.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92961|Herbai]]: Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.
 - susijęs iš [[objektai/daiktai/Herbas.md#claim-t-34572|Herbas]]: Horodlės unijos 18 paragrafu 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-188248|Lenkai]]: Narbutas aiškino, kad kai kurie lietuviški herbai įėjo į Lenkijos herbynus tikriausiai persikėlus jais besinaudojusioms šeimoms.
+- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-188282|Lietuvos bajorija]]: Narbutas teigė, kad keli aiškiai lietuviški herbai pateko į Lenkijos herbynus veikiausiai atsikėlus juos naudojusioms šeimoms.
+- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-188284|Lietuvos bajorija]]: Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį.
 - susijęs iš [[objektai/grupes/Piastų dinastija.md#claim-t-34363|Piastų dinastija]]: Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, kurie būtų kilę ne iš Piastų dinastijos.
+- susijęs iš [[objektai/ivykiai/Herbų vienovės įvedimas Horodlės seime 1413 m.md#claim-t-189623|Herbų vienovės įvedimas Horodlės seime 1413 m (seimas, XV a.)]]: Narbutas aiškina, kad herbas „Paparona“ arba „Kiniglis“ lietuviškai reiškia ne kiškį, kaip rašė Neseckis, o triušį.
 - susijęs iš [[objektai/ivykiai/Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.).md#claim-t-185738|Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.)]]: Prie Sandomiro sutelkta lenkų kariuomenė buvo padalyta: Sendzivojus iš Šubino pasiųstas pulti Chelmo, o karalius nuvedė pajėgas prie Belzo.
 - susijęs iš [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.).md#claim-t-35878|Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]: 1421 m. Jogailos dukra Jadvyga buvo sužieduota su devynerių metų Brandenburgo markgrafo sūnumi Fridriku.
 - susijęs iš [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme.md#claim-t-71791|Bajorų dalyvavimas svarbiausių aktų sudaryme]]: Horodlės suvažiavimo nutarimai buvo surašyti valdovų ir abiejų valstybių bajorų dokumentuose.
@@ -74,6 +99,8 @@ amziai:
 - susijęs iš Jogailos privilegijos (1387 m.): 1387 m. Jogailos privilegija nesuteikė privilegijų stačiatikiams, nors bajorai katalikai buvo gavę plačių laisvių.
 - susijęs iš Karalystės archyve saugomas dokumentas apie Zigmanto klastingumo įrodymą: Karalystės archyve saugomas dokumentas buvo patvirtintas Vytauto, Vilniaus vyskupo Mikalojaus, Alberto Manvydo ir Jono Nemyros parašais.
 - susijęs iš Jedlno: Jedlnos nutarimuose lenkai pasirinko Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios bei pritarimo.
+- susijęs iš Lenkija: Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.
+- susijęs iš Lenkija: Narbutas spėjo, kad kai kurie lietuviški herbai į Lenkijos herbynus pateko atsikėlus jais besinaudojusioms šeimoms.
 - susijęs iš Vakarų Bugas: Horodlė šaltinio pastaboje lokalizuojama Volynėje, dabartinėje Lenkijoje, prie Vakarų Bugo, į pietus nuo Bresto.
 - susijęs iš Vilnius: Pagal šaltinyje pateiktą sąrašą Vilnius 1387 m. iš Vladislovo Jogailos gavo Magdeburgo teisę.
 - susijęs iš Šaurų dvaras: Teodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos paviete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje.
@@ -85,7 +112,6 @@ amziai:
 - susijęs iš [[objektai/zodynas/sidabrinė duoklė.md#claim-t-12589|sidabrinė duoklė]]: Piniginis paklusnybės mokestis, lotyniškai vadintas tributum, dažniausiai buvo žinomas sidabrinės, arba serebsčinos, vardu.
 - susijęs iš [[objektai/zodynas/vaivada kaštelionas.md#claim-t-86623|vaivada kaštelionas]]: Po Horodlės unijos akto Lietuvoje pagal Lenkijos pavyzdį buvo įvestos vaivados ir kašteliono tarnybos, apibrėžus jų pareigas.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -100,6 +126,25 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '1413 m. Horodlės seime lenkų bajorai suteikė savo herbus lietuvių bajorams kaip abiejų tautų susijungimo ženklą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Vienas kitas aiškiai lietuviškas her­
+    bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
+    rios tais herbais naudojosi. Tik 1413 metais, po Lietuvos uni­
+    jos su Lenkija Horodlės seime, abiejų tautų susijungimo žen-
+    klan Lenkijos bajorai suteikė savo herbus lietuvių bajorams ir
+    įvesta herbų vienovė.
+    Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
+    herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 - Horodlė priklause [[objektai/vietos/Lenkija]]

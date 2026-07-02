@@ -37,7 +37,6 @@ tags:
   ryšio_paaiskinimas: Tekstas nurodo, kad Lietuvos apimtas plotas Žemaičiuose apėmė Minijos aukštupius.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89215|Skalviai]]: Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.
 - susijęs iš [[objektai/grupes/Lamatiečiai.md#claim-t-59036|Lamatiečiai]]: Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.
-- susijęs iš Nemunas: Į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai ir lamatiečiai, o toliau į šiaurę, Klaipėdos apylinkėse, prasidėjo kuršių teritorija.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65566|Kuršiai]]: Kuršių gyvenama teritorija prasidėjo į šiaurę nuo Minijos žemupio, Klaipėdos apylinkėse.
 - susijęs iš [[objektai/grupes/Lamatiečiai.md#claim-t-59036|Lamatiečiai]]: Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89215|Skalviai]]: Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.
@@ -61,6 +60,7 @@ tags:
 - susijęs iš Palanga: Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios.
 - susijęs iš Šušvė: Lietuva Žemaičiuose apėmė į vakarus nuo Nevėžio buvusį Šušvės baseiną.
 - susijęs iš Švento Jurgio pilis (pilis, XIII a.): 1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams.
+- susijęs iš Nemunas: Į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai ir lamatiečiai, o toliau į šiaurę, Klaipėdos apylinkėse, prasidėjo kuršių teritorija.
 ## Reikšmingi paminėjimai
 
 - c-001

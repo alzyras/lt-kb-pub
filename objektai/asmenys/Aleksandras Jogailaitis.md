@@ -4,28 +4,34 @@ pavadinimas: 'Aleksandras Jogailaitis'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1492 m.'
   - '1536 m.'
 date_start: '1492'
 date_end: '1536'
+description: 'Aleksandras Jogailaitis stiprino Vilniaus privilegijas, skatino prekybą su Rusios miestais ir mirė Žemutinėje Vilniaus pilyje.'
+socialDescription: 'Aleksandro Jogailaičio istorija Vilniuje: privilegijos miestui, laivyba Vilija, santuoka su Elena, totorių grėsmė ir valdovo mirtis 1506 m.'
+seo_atnaujinta: '2026-07-02T19:20:23.325202+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - karalius
-  - kunigaikštis
-  - valdovas
 amziai:
   - 'XV'
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+tags:
+  - karalius
+  - kunigaikštis
+  - valdovas
 ---
 # Aleksandras Jogailaitis
 
 ## Santrauka
 
-Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi laivyba Vilija, vedė Eleną ir Vilnių pasirinko nuolatiniam gyvenimui. Pasakojime taip pat pabrėžiama jo ligos, 1506 m. Kłecko pergalės žinios ir mirties Žemutinėje Vilniaus pilyje aplinkybės.
+Aleksandras Jogailaitis siejamas su Vilniaus privilegijų patvirtinimu ir plėtra: 1492 m. jis skatino prekybą, miestiečių buitį ir laisvą laivybą Vilija iki Kauno. Jo santuoka su Elena turėjo slopinti konfliktus su Ivanu Vasiljevičiumi, bet kartu išplėtė Vilniaus ryšius su Rusios miestais. Pasakojime išryškinami ir valdovo sunkumai: totorių grėsmė, ryžto stoka, liga Vilniuje ir mirtis Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d.
 
 ## Variantai
 
@@ -58,7 +64,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
       - Michał Baliński, Vilniaus miesto istorija (2007 m.)
 
 ## Teiginiai
-
 <a id="claim-t-54935"></a>
 - t-001
   global_id: t-54935
@@ -565,7 +570,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   pagrindžia:
     - c-023
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 954446-954999; hash=e91a27ee9e9c48df74565bc58253ad8ea203353c912d43a89b9f64f1d4c35833; match=exact
+  saltinio_vieta: 482996-483373; hash=dea9d9b7526bec823abb1cef52cec836be177c84c88fb6f56f9b35b6ff1e7c0f; match=exact
   sprendimo_priezastis: auto
 
 <a id="claim-t-184661"></a>
@@ -605,6 +610,25 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 991494-991966; hash=58f04ae1376fc65d41429396e422058e63e7faf4ed0923c2c6822ef7cb26dee2; match=exact
   sprendimo_priezastis: auto
+
+<a id="claim-t-188510"></a>
+- t-029
+  global_id: t-188510
+  teiginys: 'Valdant karaliui Aleksandrui Jogailaičiui, jo įsakymu pagoniškos šventyklos vietoje Ramygalos parapijoje buvo pastatyta filija.'
+  pagrindžia:
+    - c-026
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 482996-483373; hash=dea9d9b7526bec823abb1cef52cec836be177c84c88fb6f56f9b35b6ff1e7c0f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_priesas -> Zaberezinskis: 0.68
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Zaberezinskis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Zaberezinskis įvardytas tarp asmenų, kuriuos Aleksandras pasmerkė mirčiai, todėl priešiškumas yra tiesiogiai numanomas iš veiksmo.
 - susijęs iš Borisovas: 1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną.
 - susijęs iš [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas.md#claim-t-87023|Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]: 1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį savo malūną, nes jo drebėjimas judino pastatų pamatus.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
@@ -679,7 +703,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - susijęs iš [[objektai/zodynas/seimas.md#claim-t-187528|seimas]]: Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras rudenį paskyrė Lenkijos ponams seimą Radome.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176256|vietininkas]]: Aleksandras Jogailaitis nurodė, kad Vilniaus vaivados vietininkams nereikia mokėti po grašį nuo krovinio perkėloje ties Vilniumi.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1345,6 +1368,24 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+- c-026
+  santrauka: 'Valdant karaliui Aleksandrui Jogailaičiui, jo įsakymu pagoniškos šventyklos vietoje Ramygalos parapijoje buvo pastatyta filija.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tai tikriausiai pati seniausia šventovė Že­
+    maitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,
+    Vilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­
+    dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
+    toje buvo pastatyta filija .
+    Lietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­
+    vių, kurios priklausė ugnies šventovėms piratėjoms.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-029
 
 ## Ryšiai
 - Aleksandras Jogailaitis mire [[objektai/vietos/Vilnius]]

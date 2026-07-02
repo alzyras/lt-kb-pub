@@ -55,6 +55,7 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-39673|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
 - susijęs iš Eilėtoji Livonijos kronika: 1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.
+- susijęs iš Lietuvos metraštis (Bychovco kronika): Narbutas cituoja Bychovco kroniką, kurioje rašoma, kad deginant lietuvių kunigaikštį ar didiką prie kūno dėdavo lūšies arba lokio nagus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -81,4 +82,5 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
     - t-001
 
 ## Ryšiai
+- Dmitrijus kariavo_pries [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Dmitrijus gyveno [[objektai/vietos/Kremlius]]

@@ -354,6 +354,7 @@ rijenburgas.
 - susijęs iš Karaliaučius: Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m. ir Marienburgas.
 - susijęs iš Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): Didysis magistras slapta iš Marienburgo išplaukė Vysla laivais, o paskui per jūros įlanką įplaukė į Nemuną.
 - susijęs iš Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): 1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.
+- susijęs iš Marienburgas Zantiras: Narbutas nurodė, kad Marienburgo vietovė prie Nogato anksčiau vadinosi Zantiras.
 - susijęs iš Ragainė: Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m. ir Marienburgas.
 - susijęs iš Ritersverderis: Ritersverderis buvo netikėtai užpultas iš gretimos Marienburgo pilies ir užimtas palaužus gynėjų pasipriešinimą.
 - susijęs iš Santyras: 1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, arba šventos Marijos pilimi.
@@ -384,6 +385,7 @@ rijenburgas.
 - susijęs iš [[objektai/ivykiai/Kristburgo brolių smūgis Divanui prie Gubros upės.md#claim-t-91915|Kristburgo brolių smūgis Divanui prie Gubros upės]]: Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.
 - susijęs iš [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara).md#claim-t-31497|Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
 - susijęs iš [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga).md#claim-t-92948|Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]: Marienburge Vytautas pradėjo veikti, per pasiuntinius bandydamas patraukti žemaičius į savo pusę.
+- susijęs iš [[objektai/posakiai/Motininės kalbos yra rodyklė į seniausią tautų istoriją.md#claim-t-189597|Motininės kalbos yra rodyklė į seniausią tautų istoriją]]: Narbutas iš Henriko Leo tyrimų apie Marienburgo glosas darė išvadą, kad motininės kalbos rodo seniausią tautų istoriją.
 - susijęs iš Johannes Voigt, Geschichte Marienburgs: Johannesas Voigtas rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo sergančiai žmonai Julijonai.
 - susijęs iš Lenkijos karaliaus laiškas didžiajam magistrui dėl rūmų gydytojo: Lenkijos karalius laiške dėkojo didžiajam magistrui už atsiųstą rūmų gydytoją ir gyrė jo patyrimą.
 - susijęs iš Augustavo girios: 1361 m. Lietuvos pasienyje, Augustavo giriose, į kryžiuočių nelaisvę pateko kronikose plačiai aprašytas asmuo.

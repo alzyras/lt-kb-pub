@@ -217,5 +217,5 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 ## Ryšiai
 - Vladislovas dalyvavo_musyje [[objektai/ivykiai/Varnos mūšis|Varnos mūšis (mūšis, XV a.)]]
 - Vladislovas mire [[objektai/vietos/Bulgarija]]
-- [[objektai/asmenys/Gediminas]] reme Vladislovas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] reme Vladislovas
 - [[objektai/asmenys/Jonas Olbrachtas]] buvo_brolis Vladislovas

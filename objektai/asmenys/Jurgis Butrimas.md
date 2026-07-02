@@ -52,10 +52,9 @@ Jurgis Butrimas, turėjęs didelių turtų Žemaitijoje, pasiūlė savo pagalbą
     ramumams.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
 

@@ -94,6 +94,8 @@ amziai:
 - susijęs iš [[objektai/asmenys/Džordžas Bušas.md#claim-t-26438|Džordžas Bušas]]: Džordžas Bušas Vilniuje pareiškė, kad JAV laikytų Lietuvos priešus ir savo priešais.
 - susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-186026|Šich Achmetas]]: Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.
 - susijęs iš [[objektai/autoriai/Audronius Ažubalis.md#claim-t-63303|Audronius Ažubalis]]: Audroniui Ažubaliui einant ministro pareigas, Užsienio reikalų ministerija paprašė parengti glaustą Lietuvos istorijos veikalą.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181472|Petras Dusburgietis]]: Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188464|Petras Dusburgietis]]: Dusburgietis rašė, kad Romovėje gyvenęs krivis buvo gerbiamas kaip popiežius, o jo pasiuntiniai su ženklu sulaukdavo didelės pagarbos.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96086|Baltai]]: Baltais vadinama indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis.
 - susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74114|Europos Sąjunga]]: 2013 m. Lietuva turėjo pirmininkauti Europos Sąjungai, apibūdintai kaip laisvų ir demokratinių Europos valstybių susivienijimas.
 - susijęs iš [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija.md#claim-t-65772|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]: Rengiantis Lietuvos pirmininkavimui ES, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti glaustą Lietuvos istorijos veikalą.

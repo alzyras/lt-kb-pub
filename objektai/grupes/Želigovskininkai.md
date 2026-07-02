@@ -54,11 +54,13 @@ amziai:
 - susijęs iš [[objektai/daiktai/Artilerija.md#claim-t-187516|Artilerija]]: Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius.
 - susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78691|Šarvuotasis traukinys Gediminas]]: 1920 m. spalio 10 d. „Gediminas“ grįžo į Kauną, kur buvo įrengti nauji kulkosvaidžių vagonai ir patobulinti mūšiuose naudoti vagonai.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179169|Lenkai]]: Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, o Lietuvai teko stabdyti tolesnį jo dalinių judėjimą į Lietuvos teritoriją.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-188249|Lenkai]]: Narbutas nurodė dokumentinius įrodymus, kad XVI a. teismuose nuosprendžiai sakyti lietuviškai, o knygose rašyti rusiškai, lotyniškai arba lenkiškai.
 - susijęs iš [[objektai/paprociai/Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse.md#claim-t-09589|Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse]]: Po želigovskininkų puolimo pirmose linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse.
 - susijęs iš Giedraičiai: 1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.
 - susijęs iš Giedraičiai: Viena svarbiausių lenkų puolimo krypčių buvo Ukmergės link pro Giedraičius su galutiniu tikslu pulti Kauną iš šiaurės rytų.
 - susijęs iš Giedraičiai: 1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179169|Lenkai]]: Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, o Lietuvai teko stabdyti tolesnį jo dalinių judėjimą į Lietuvos teritoriją.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179180|Lenkai]]: Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, Tautų Sąjunga pasirodė bejėgė, o Lietuvai teko stabdyti želigovskininkų judėjimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -88,3 +90,5 @@ amziai:
 - Želigovskininkai uzeme [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Želigovskininkai
 - Želigovskininkai keliavo_i [[objektai/vietos/Lietuva]]
+- Želigovskininkai puole [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Pilsudskis]] reme Želigovskininkai

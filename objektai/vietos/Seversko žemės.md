@@ -36,12 +36,17 @@ Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Ki
   ryšio_targeto_parinkimas: Severskas: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Seversko žemės" parinktas kaip owner_note_path. Targetas "Severskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Černigovas: Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo.
+- susijęs iš [[objektai/autoriai/Swięcki.md#claim-t-190457|Swięcki]]: Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš Seversko žemės.
+- susijęs iš [[objektai/grupes/Triznų giminė.md#claim-t-189504|Triznų giminė]]: Narbutas išnašoje nurodė, kad Triznų giminė yra kilusi iš Seversko žemės.
+- susijęs iš Swięcki, Opis starožytnej Polski: Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dėl Triznų giminės kilmės iš Seversko žemės.
 - susijęs iš Seversko žemė: Į seimą susirinkę Seversko žemės didikai ketino raginti karalių pasirūpinti tos žemės gynyba.
 - susijęs iš Seversko žemė: Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.
+- susijęs iš Seversko žemė: Swięckio veikale nurodoma, kad Triznų giminė yra kilusi iš Seversko žemės.
 - susijęs iš Černigovas: Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo.
 - susijęs iš [[objektai/asmenys/Stanislovas Pacas.md#claim-t-186081|Stanislovas Pacas]]: Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių Ostrogiškių valdas.
 - susijęs iš [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas.md#claim-t-185584|Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]]: Taikos pasiuntiniams nieko nepasiekus, maskvėnai atnaujino karą nelaukdami paliaubų pabaigos.
 - susijęs iš [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas.md#claim-t-185585|Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]]: Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.
+- susijęs iš Swięcki, Opis starožytnej Polski: Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dėl Triznų giminės kilmės iš Seversko žemės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,3 +78,4 @@ Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Ki
 - [[objektai/vietos/Černigovas]] priklause Seversko žemės
 - [[objektai/vietos/Naugardas]] priklause Seversko žemės
 - [[objektai/vietos/Rylskas]] priklause Seversko žemės
+- [[objektai/grupes/Triznų giminė]] gyveno Seversko žemės

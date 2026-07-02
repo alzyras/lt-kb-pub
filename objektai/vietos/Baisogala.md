@@ -62,7 +62,6 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
 - susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49493|V. Grigaliūnas-Glovackis]]: V. Grigaliūnas-Glovackis vadovavo rezerve buvusiam 2-ajam pėstininkų pulkui.
 - susijęs iš Atviras Lietuvos ponų tarybos laiškas dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje (1586 m. gruodžio 13 d.): 1586 m. gruodžio 13 d. Lietuvos ponų taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje ir nurodė pasirūpinti jo nakvyne bei saugumu.
 - susijęs iš Gardinas: 1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.
-- susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
 ## Reikšmingi paminėjimai
 
 - c-001

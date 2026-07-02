@@ -295,7 +295,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64234|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
 - susijęs iš [[objektai/autoriai/G. Blažienė.md#claim-t-60701|G. Blažienė]]: G. Blažienė teikė dalykinių patarimų rengiant Petro Dusburgiečio kronikos leidimą spaudai.
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62622|J. Venta]]: J. Venta 1980 m. paskelbė darbą apie Petro Dusburgiečio kroniką ir Oliavos kronikoje pateiktą Vokiečių ordino istoriją.
-- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-64675|K. Hartknochas]]: Kristupas Hartknochas nurodytas kaip Petro Dusburgiečio „Prūsijos kronikos“ autorius ir rinkėjas.
+- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-64675|Kristupas Hartknochas]]: Kristupas Hartknochas nurodytas kaip Petro Dusburgiečio „Prūsijos kronikos“ autorius ir rinkėjas.
 - susijęs iš [[objektai/autoriai/M. Jučas.md#claim-t-179550|M. Jučas]]: M. Jučas Petro Dusburgiečio kronikos faktais rėmė koncepcijų apie prūsus kritiką.
 - susijęs iš [[objektai/autoriai/M. Tepenas.md#claim-t-64747|M. Tepenas]]: M. Tepenas šiame šaltinyje tiesiogiai nurodomas kaip Petro Dusburgiečio kronikos mokslinio leidimo parengėjas ir paskelbėjas 1861 m.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181460|Petras Dusburgietis]]: Petras iš Dusburgo nurodo, kad kroniką surašė ir užbaigė 1326 m., kad išsaugotų šventojo žygio atminimą būsimoms kartoms.
@@ -310,7 +310,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181469|Petras Dusburgietis]]: Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181470|Petras Dusburgietis]]: Petras Dusburgietis „Prūsijos žemės kronikoje“ aprašė Vytenio įsiveržimą į Ordino žemes.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181471|Petras Dusburgietis]]: Petro Dusburgiečio „Prūsijos žemės kronikos“ ištrauka „Rūstus Dievo žmonių likimas“ pateikta apie Durbės mūšį.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181472|Petras Dusburgietis]]: Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181473|Petras Dusburgietis]]: Petras iš Dusburgo šiame šaltinyje apibūdinamas kaip Ordino brolis kunigas, 1326 m. užbaigęs savo kroniką ir įteikęs ją magistrui.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181475|Petras Dusburgietis]]: Petras iš Dusburgo nurodė, kad kronikoje aprašys Teutonų ordino įkūrimą, brolių atvykimą į Prūsiją ir karus Prūsijoje.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-183995|Petras Dusburgietis]]: Petras iš Dusburgo kronikos dedikacijoje kreipėsi į magistrą Vernerį iš Orzelno.
@@ -346,7 +345,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64224|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Verneriui iš Orzelno kronikos reikėjo Ordinui keltiems priekaištams atremti ir vidaus reformai įgyvendinti.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64225|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Verneriui iš Orzelno kronikos reikėjo Ordinui keltiems priekaištams atremti ir vidaus reformai įgyvendinti.
 - susijęs iš [[objektai/asmenys/Vytenis (Lietuvos karalius).md#claim-t-39419|Vytenis (Lietuvos karalius)]]: 1311 m. per Užgavėnes Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176836|Vytenis]]: Vytenis viešpatavo Lietuvoje ir mirė apie 1315 metus.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176836|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis viešpatavo Lietuvoje ir mirė apie 1315 metus.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172868|J. Dlugošas]]: Petro Dusburgiečio leidinio įvade J. Dlugošas pristatomas kaip autorius, savo Lenkijos istorijos „Analuose, arba kronikose“ panaudojęs Mikalojaus iš Jerošino vertimą.
 - susijęs iš [[objektai/autoriai/J. Jaroszewicz.md#claim-t-30678|J. Jaroszewicz]]: J. Jaroszewiczius teigė, kad lietuviai daržoves pradėjo auginti artimiau susipažinę su slavais.
 - susijęs iš [[objektai/autoriai/Kojałowicz Kojelavičius.md#claim-t-87997|Kojałowicz Kojelavičius]]: Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
@@ -361,8 +360,10 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178864|Kryžiuočių ordinas]]: XIV a. trečiajame dešimtmetyje Vakarų Europoje pasigirdo kritiškų balsų Kryžiuočių ordino atžvilgiu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179027|Kryžiuočių ordinas]]: Didžiajam magistrui Verneriui kronika buvo reikalinga Ordinui keliamiems priekaištams atremti ir vidaus reformai įgyvendinti.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169587|Latviai]]: Kronikoje vaizduojamu laikotarpiu latviai, lietuviai ir prūsai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188221|Latviai]]: Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu ir padavimu apie supykusio Likimo plakamos žemės drebėjimą.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179278|Lietuviai]]: Kronikoje vaizduojamu laikotarpiu lietuviai, prūsai ir latviai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179307|Lietuviai]]: Kronikoje vaizduojamu laikotarpiu prūsus, lietuvius ir latvius siejo kalbos, kultūros, tradicijų ir senosios religijos bendrumas.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190592|Lietuviai]]: Narbutas lietuvių priesaikas aiškino kaip dievų šaukimą liudytojais, minėdamas formules „dėl Dievo“ ir „Kad man Perkūnas sumuštų“.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171424|Totoriai]]: Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176116|Žemaičiai]]: Zenonas Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir Mindaugo karines pajėgas prieš Ordiną.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176149|Žemaičiai]]: Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o prieš Durbės mūšį ir jame mini lietuvius arba pagonis.
@@ -393,7 +394,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - susijęs iš Prūsijos žemės kronika: Mikalojus iš Jarošino, versdamas Dusburgo kroniką į vokiečių kalbą, pridėjo nemažai savo papildymų ir paaiškinimų.
 - susijęs iš Prūsijos žemės kronika: 1311 m. Vytenis su didele kariuomene degindamas ir plėšdamas nusiaubė Sembą ir Notangą.
 - susijęs iš Prūsijos žemės kronika: Mikalojus iš Jarošino, versdamas Dusburgo kroniką iš lotynų į vokiečių kalbą, pridėjo papildymų ir paaiškinimų nuo savęs.
-- susijęs iš Prūsijos žemės kronika: 1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
 - susijęs iš Roneburgo pilies bažnyčios Dusburgiečio kronikos nuorašas: Petro iš Dusburgo kronikos nuorašas buvo Livonijoje, Roneburgo pilies bažnyčioje, kur jį XVI a. antroje pusėje rado Jonas Chodkevičius.
 - susijęs iš Scriptores rerum Prussicarum: M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį kronikos leidimą lotynų kalba.
 - susijęs iš Volynijos kronika: Volynijos kronika nurodė, kad 1248 m. viename mūšyje žuvo net 40 jotvingių kunigų.
@@ -432,6 +432,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - susijęs iš Prūsija: Petro iš Dusburgo kronikos IV dalies paaiškinimai Prūsijos įvykius gretino su visuotinės istorijos faktais.
 - susijęs iš Prūsija: 1326 m. Petras iš Dusburgo užbaigė kroniką, skirtą pagrįsti kryžiuočių užkariavimus Prūsijoje ir karą prieš Lietuvą.
 - susijęs iš Prūsija: 1629 m. Altmarko paliaubomis švedams šešeriems metams buvo palikti kai kurie Prūsijos uostai, tarp jų Klaipėda.
+- susijęs iš Prūsija: Narbutas rašo, kad Prūsijos kronikininkai šiuo vardu siejo dievintą senovės kunigaikštį Vaidevutį.
 - susijęs iš Ragainė: 1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.
 - susijęs iš Roneburgas: Petro iš Dusburgo kronikos nuorašas buvo Livonijoje, Roneburgo pilies bažnyčioje.
 - susijęs iš Semba: 1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį.
@@ -445,7 +446,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - susijęs iš Tepliava: Petro Dusburgiečio kronikoje Tepliavos pilies pastatymas minimas ne chronologine tvarka, prieš 1263 m. Kroicburgo įvykį.
 - susijęs iš Varmė: Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių.
 - susijęs iš Vilnius: XVI a. antrojoje pusėje Jonas Chodkevičius Petro Dusburgiečio kroniką perdavė Vilniaus vaitui Augustinui Rotundui.
-- susijęs iš Žemaitija: Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-183835|Papilys suburbium]]: 1324 metų birželio 11 dieną Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-86505|Papilys suburbium]]: 1317 metais Ragainės komtūras Fridrichas de Libencelė su 150 žmonių neįstengė užimti Gedimino pilies, bet sudegino jos papilį.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-184018|Prūsijos žemė terra Prussiae]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.

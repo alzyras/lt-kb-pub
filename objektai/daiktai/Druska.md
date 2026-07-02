@@ -69,8 +69,11 @@ Nenurodyta
 - susijęs iš Karaliaučius: 1400 m. Kalėdoms į Karaliaučių nuvykę kilmingieji buvo apdovanoti druska ir vilnoniais audiniais.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87364|Ulrikas Hozijus]]: Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173313|Žygimantas Senasis]]: Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tiltą per Viliją prie Vilniaus.
+- susijęs iš [[objektai/daiktai/Saitininkų amuletai.md#claim-t-189744|Saitininkų amuletai]]: Narbutas saitininkus apibūdina kaip pranašautojus gydytojus, kurie ligas gydydavo ant ligonio kaklo kabinamais amuletais.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-08355|Vėliavos]]: Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis.
+- susijęs iš [[objektai/grupes/Saitininkai.md#claim-t-189531|Saitininkai]]: Narbutas Saitininkus (Sejtones) apibūdino kaip pranašautojus gydytojus, ligas gydžiusius ant kaklo kabinamais amuletais.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus.md#claim-t-86972|Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus]]: Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.
+- susijęs iš [[objektai/paprociai/Gydymas amuletais, kabinamais ant ligonio kaklo.md#claim-t-189917|Gydymas amuletais, kabinamais ant ligonio kaklo]]: Narbutas Saitininkus aprašo kaip pranašautojus gydytojus, kurie ligas gydydavo užkabindami ligoniui ant kaklo tam tikrus amuletus.
 - susijęs iš Adomo Jakšto-Dambrausko lenkiška knygelė apie lietuvių siekius (1902 m.): Knygelėje Lietuvos bajorai raginti kalbėti lietuviškai, mylėti savo kraštą, jam dirbti ir rūpintis liaudies švietimu.
 - susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: 1225 m. Burgundijos Druskos kalnuose žemės drebėjimas esą nustūmė kalną ir pražudė penkis tūkstančius žmonių.
 - susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.
@@ -81,6 +84,7 @@ Nenurodyta
 - susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.
 - susijęs iš Vilniaus tiltas per Viliją: Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.
 - susijęs iš Vilnius: Ulrikui Hozijui buvo pavesta savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus miesto.
+- susijęs iš [[objektai/zodynas/Saitininkai Sejtones.md#claim-t-189330|Saitininkai Sejtones]]: Narbutas Saitininkus apibūdino kaip pranašautojus gydytojus, gydžiusius ligas ant ligonio kaklo kabinamais amuletais.
 ## Reikšmingi paminėjimai
 
 - c-001

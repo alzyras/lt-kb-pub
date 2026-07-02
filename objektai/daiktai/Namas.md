@@ -101,8 +101,11 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Kardinalijos namų kompleksas.md#claim-t-87000|Kardinalijos namų kompleksas]]: Jurgis Radvila su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172107|Jėzuitų ordinas]]: 1687 m. tėvai jėzuitai suremontuotą mūrinį namą atidavė vaistinei.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172128|Jėzuitų ordinas]]: 1687 m. jėzuitai suremontavo mūrinį namą, atidavė jį vaistinei ir pavedė vaistininkui kasmet mokėti po 140 auksinų bažnyčiai.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188236|Latviai]]: Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas.
+- susijęs iš [[objektai/grupes/Lietuvos rusinai.md#claim-t-189477|Lietuvos rusinai]]: Narbutas teigė, kad Lietuvos rusinai žinojo prietarus apie naminius žalčius, garbintus kaip fetišus.
 - susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172762|Radvilų giminė]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo 20 kapų lietuviškų grašių.
 - susijęs iš [[objektai/grupes/Raudonoji armija.md#claim-t-78433|Raudonoji armija]]: Rusijos bolševikai metė Raudonosios armijos divizijas paskui namo traukiančią Vokietijos kariuomenę.
+- susijęs iš [[objektai/grupes/Rusinai.md#claim-t-189403|Rusinai]]: Narbutas teigė, kad Lietuvos rusinai žinojo prietarus apie naminius žalčius, latvių vadintus Czuhskas ir garbintus kaip fetišus.
 - susijęs iš [[objektai/grupes/Valerijono Bursos studentų bendrija.md#claim-t-55072|Valerijono Bursos studentų bendrija]]: Dokumento autoriai studentų bendriją ir minėtą namą norėjo pavadinti Valerijono Bursa.
 - susijęs iš [[objektai/grupes/Vietinė rinktinė.md#claim-t-66260|Vietinė rinktinė]]: Vokiečiams pamėginus priversti Vietinės rinktinės karius vykti į Rytų frontą, šie ginkluoti skirstėsi namo.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176071|Vilniaus kapitula]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.
@@ -116,6 +119,7 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187498|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Pasak šaltinio, po susirėmimo Tautvilas sugrįžo namo į Žemaitiją.
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.).md#claim-t-185515|Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.)]]: Lietuviams siaubiant Lenkiją, niekas jiems nepastojo kelio ir niekas nedrįso persekioti jų grįžtant namo.
 - susijęs iš [[objektai/paprociai/Apidomės šaukimasis ir namo perkėlimas po blogo ženklo.md#claim-t-187986|Apidomės šaukimasis ir namo perkėlimas po blogo ženklo]]: Narbutas su tokiu nelaimingu ženklu sieja iškilmingą Apidomės šaukimąsi, duonos auką ir namo perkėlimą į kitą vietą.
+- susijęs iš [[objektai/paprociai/Kelio dievo aukojimas, kelionės maldos ir kelio prietarai.md#claim-t-189775|Kelio dievo aukojimas, kelionės maldos ir kelio prietarai]]: Pasak Strijkovskio, senovėje kelių dievaičiui aukotos baltos vištos, prašant laimingos kelionės ir sugrįžimo namo.
 - susijęs iš [[objektai/paprociai/Pavargėlių maitinimas be elgetavimo.md#claim-t-62706|Pavargėlių maitinimas be elgetavimo]]: Prūsų krašte nebuvo leidžiama elgetauti, o pavargėliai galėjo vaikščioti nuo namo prie namo ir valgyti kada tinkami.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89584|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89585|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.
@@ -133,6 +137,7 @@ Nenurodyta
 - susijęs iš Filipovo namai: Mikalojus Kristupas Radvila tapo Filipovo namų, sudarytų iš kelių medinių moliu aplipdytų pastatų, savininku.
 - susijęs iš Goštautų mūras: Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo Goštautų vardu vadintą mūrinį namą.
 - susijęs iš Kardinalija: Dabartinį Kardinalijos sparną nuo Didžiosios gatvės užėmė Filipovo namai, kurių savininku tapo Mikalojus Kristupas Radvila.
+- susijęs iš Kaunas: Narbutas rašo, kad Kaune tarp pojėzuitinių pastatų buvo senoviniu būdu ir iš senovinių medžiagų sumūryto namo griuvėsiai.
 - susijęs iš Liaudanskų mūrinis namas: 1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai knygoms gausinti užrašė pajamas iš Liaudanskų mūrinio namo Turgaus gatvėje.
 - susijęs iš Pilies kalnas (sujungti pirminiai pavadinimai Pilies kalnas; Vilniaus pilies kalnas): Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug nuostolių.
 - susijęs iš Valerijono Bursa (sujungti pirminiai pavadinimai Valerijono bursos; Valerijono Bursa): Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.
@@ -182,10 +187,11 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114017|Valerijonas Protasevičius (vyskupas)]]: Valerijonas Protasevičius 1569 metais pirmasis pakvietė jėzuitų ordiną į Vilnių.
 - susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64246|Vladimiras Leninas]]: Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176699|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. liepos 15 d. Žalgirio mūšyje Vytautas Didysis vadovavo kovai su Vokiečių Ordinu ir jo sąjungininkais.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis (valdovas, XIII–XIV a.)]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
 - susijęs iš [[objektai/asmenys/Zanka Ivanovičius.md#claim-t-87888|Zanka Ivanovičius]]: Zanka Ivanovičius dokumente nurodytas kaip Vilniaus horodničius ir vienas iš liudytojų.
 - susijęs iš [[objektai/asmenys/Šventoji Barbora.md#claim-t-60081|Šventoji Barbora]]: Šventoji Barbora moteriai tris kartus pasirodė naktį ir sakė ketinanti eiti į Kulmo miestą klausyti mišių.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183845|Žygimantas Augustas (arkivyskupas, XVI a.)]]: 1555 m. Žygimantas Augustas patvirtino Radvilos dovanojimą gydytojui Cimermanui.
+- susijęs iš [[objektai/autoriai/J. Lasickis.md#claim-t-188418|Jonas Lasickis]]: Narbutas nurodo, kad Lasickis trumpai paminėjo paprotį parsinešti pirmąjį rugių pėdelį prieš rugiapjūtę.
 - susijęs iš [[objektai/daiktai/Akademijos spaustuvės spaudmenys, popierius ir knygų egzemplioriai.md#claim-t-87069|Akademijos spaustuvės spaudmenys, popierius ir knygų egzemplioriai]]: Akademijos spaustuvė nuo kiekvienos naujai išspausdintos knygos turėjo duoti po vieną egzempliorių Lietuvos kancleriams ir Viešajai bibliotekai.
 - susijęs iš [[objektai/daiktai/Arbaletai.md#claim-t-186830|Arbaletai]]: Lietuvos metraštyje pasakojama, kad prieš vokiečius išjoję Mindaugo kariai buvo ginkluoti arbaletais.
 - susijęs iš [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos.md#claim-t-87018|Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]]: Barboros Radvilaitės rūmų griuvėsiai stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos, kol 1828 m. buvo parduoti plytoms.
@@ -194,12 +200,14 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Kūtė.md#claim-t-08301|Kūtė]]: Už arklių kūtės dar buvo kiaulių kūtelė, o bandos tvarte laikydavo žąsis ir pyles.
 - susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-59705|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
 - susijęs iš [[objektai/daiktai/Skydas.md#claim-t-111285|Skydas]]: Martynas, priešams miegant, vieną po kito išvogė jų skydus, kalavijus ir ietis.
+- susijęs iš [[objektai/daiktai/Slenksčio religinis ženklas ir kryžius.md#claim-t-189703|Slenksčio religinis ženklas ir kryžius]]: Narbutas nurodė, kad Lietuvos kaimiečiai statydami namą virš durų paprastai įpjaudavo kryžių arba nutapydavo jį raudonais dažais.
 - susijęs iš [[objektai/daiktai/Spaustuvės išlaikymo alaus statinė ir duonos kepalai.md#claim-t-87122|Spaustuvės išlaikymo alaus statinė ir duonos kepalai]]: Spaustuvės pelnas buvo skiriamas prefekto ir padėjėjo maitinimui, o kas savaitę dar reikėjo duoti alaus ir duonos kepalų.
 - susijęs iš [[objektai/daiktai/Strėlės.md#claim-t-186831|Strėlės]]: Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad rusai ir poloviečiai šiame susirėmime jodinėjo su strėlėmis; Šiame gabale strėlės minimos kaip atskira kovinė priemonė.
 - susijęs iš [[objektai/daiktai/Trumpos ietys.md#claim-t-186832|Trumpos ietys]]: Lietuvos metraščio pasakojime jotvingiai susirėmime prieš vokiečius jodinėjo su trumpomis ietimis.
 - susijęs iš [[objektai/daiktai/Vytauto ir Julijonos karūnos.md#claim-t-19612|Vytauto ir Julijonos karūnos]]: Vytauto karūna laikyta būtina sąlyga Lietuvos karalystės siekiui įgyvendinti.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172129|Jėzuitų ordinas]]: 1569 m. jėzuitų ordino pasirodymas Lietuvoje siejamas su simboline Baroko epochos pradžia.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172130|Jėzuitų ordinas]]: Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti Vilniuje.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-188200|Jėzuitų ordinas]]: Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus į dieceziją, kurioje stigo krikščioniško mokymo.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184563|Kalavijuočių ordinas]]: Mūšyje su lietuviais ordino kariuomenė buvo sutriuškinta, o pats magistras žuvo su beveik 20 ordino riterių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178981|Kryžiuočių ordinas]]: Popiežius Celestinas III Jeruzalėje įkūrė Šventosios Marijos Teutonų ordino vienuolių ligoninę.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184546|Lietuviai]]: Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus.
@@ -261,6 +269,8 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Panedėlio už grieką laikymas.md#claim-t-07797|Panedėlio už grieką laikymas]]: Daug lietuvių panedėly vengė tolimos kelionės ar sunkaus darbo, nes šią dieną laikė grieku ir dangstė karaliaus dienos šventimu.
 - susijęs iš [[objektai/paprociai/Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu.md#claim-t-87284|Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu]]: Spaustuvė kas savaitę privalėjo duoti statinę alaus, silpnesnio alaus oxeftą, 8 asmenims po 8 kepalus duonos ir valgį iš kolegijos virtuvės.
 - susijęs iš [[objektai/paprociai/Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra.md#claim-t-87306|Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra]]: Valerijono Bursoje prefektas arba senjoras turėjo prižiūrėti, kad studentai laikytųsi pamaldumo, garbingumo, broliškos santarvės ir papročių.
+- susijęs iš [[objektai/paprociai/Vėlinės po Ilgių šventės ir kaimo mirusiųjų pagerbimas.md#claim-t-189952|Vėlinės po Ilgių šventės ir kaimo mirusiųjų pagerbimas]]: Narbutas aprašo Vėlinių paprotį, kai mirusiųjų vėlės pirmiausia kviestos į pirtį, o joms paruošti prausimo reikmenys ir drabužiai.
+- susijęs iš [[objektai/paprociai/Žemaičių apeiginiai veiksmai katalikiškose procesijose ir šventėse.md#claim-t-189956|Žemaičių apeiginiai veiksmai katalikiškose procesijose ir šventėse]]: Narbutas žemaičių procesijų veiksmus aiškino kaip senųjų apeigų tąsą: nešant brolijų altorėlius žmonės suguldavo veidais į žemę.
 - susijęs iš [[objektai/paprociai/Žiemos kelionės upeliais šunis užkinkius.md#claim-t-07826|Žiemos kelionės upeliais šunis užkinkius]]: Žiemos laiku gyventojai važinėdavo upeliais, šunis užkinkę.
 - susijęs iš [[objektai/paprociai/Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde.md#claim-t-62731|Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde]]: Prūsai pagal seną paprotį žmonas pirkdavosi už tam tikrą pinigų sumą ir laikė jas tarsi tarnaitėmis.
 - susijęs iš [[objektai/posakiai/Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais.md#claim-t-91900|Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais]]: Kaimo kūlikas regėjime matė ore brolius, kovojančius su lietuviais, ir klausė šeimynos, ar ji mato brolių kovą su netikėliais.
@@ -286,6 +296,8 @@ Nenurodyta
 - susijęs iš Daugpilis: Vytautas, įsiveržęs į Livoniją ir nusiaubęs kaimus, užėmė Daugpilį Dauguvos pakrantėje.
 - susijęs iš Didysis Naugardas: Vytautas 1428 m. pajungė Didįjį Naugardą tikrindamas rytinius Lietuvos valstybės pakraščius.
 - susijęs iš Dievo Kūno koplyčia: 1610 m. Vilniaus kanauninkas Vilčiopolskis mūrinį namą su sklypu užrašė Akademijos kolegijai, 25 metų činšą paskirdamas Dievo Kūno koplyčiai.
+- susijęs iš Heiligenbeilis Šventasis Kirvelis: Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.
+- susijęs iš Heiligenbeilis: Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.
 - susijęs iš Jeruzalė: Popiežius Celestinas III Jeruzalėje įkūrė ir pašventino Švč. Marijos Teutonų ordino vienuolių ligoninę.
 - susijęs iš Kuršių nerija: 1283 m. žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė du valsčius.
 - susijęs iš Lietuvos valdos Lietuva: Sunkumus įveikę kariai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.
@@ -298,6 +310,7 @@ Nenurodyta
 - susijęs iš Prūsija: Prūsijos teutonų ordino broliai pasiuntė kariuomenę aplinkiniais keliais ir sudegino Vytenio pranciškonams pastatytą bažnyčią.
 - susijęs iš Prūsija: Prūsijos teutonų broliai pasiuntė kariuomenę ir sudegino Vytenio pranciškonams skirtą bažnyčią.
 - susijęs iš Pskovas: Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.
+- susijęs iš Romanovas: Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame galėjęs augti šventasis ąžuolas arba būti šventykla.
 - susijęs iš Sochačevas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį sunaikino ugnimi ir kalaviju.
 - susijęs iš Trakai: Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį, Skirgaila liepos 20 d. įtikino jos įgulą pasiduoti.
 - susijęs iš Trakai: Kęstučiui ir Vytautui rugpjūčio 3 d. atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai.
@@ -320,7 +333,9 @@ Nenurodyta
 - susijęs iš Šv. Jono gatvė: Žygimanto Augusto laikais kampinis medinis namas stovėjo ties posūkiu iš Šv. Jono gatvės į Vyskupų gatvę.
 - susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti.
+- susijęs iš Šventežeris: Narbutas Šventežerį sieja su Nemuno kairiajame krante minimais šventais ežerais ir miestelio vardu.
 - susijęs iš Žuvų turgus Vilniuje (sujungti pirminiai pavadinimai Žuvų turgavietė; Žuvų turgus Vilniuje): 1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė lėšas iš namų ir sklypų, tarp jų Liaudanskų mūrinio namo Žuvų turgavietės gale.
+- susijęs iš [[objektai/zodynas/Czuhskas.md#claim-t-189289|Czuhskas]]: Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas, o šiuos prietarus žinojo ir Lietuvos rusinai.
 - susijęs iš [[objektai/zodynas/Veldėmė.md#claim-t-07694|veldėmė]]: `Veldėmė` šiame tekste reiškia paveldimą žemės nuosavybę.
 - susijęs iš [[objektai/zodynas/Veldėmė.md#claim-t-07695|veldėmė]]: Veldėme laikytas gyvenimas ir gruntas, įgytas darbu ir galėtas dovanoti kaip savas daiktas.
 - susijęs iš [[objektai/zodynas/ariergardas.md#claim-t-185353|ariergardas]]: Maustas, Sudargas ir Masius puldinėjo atsitraukiančios kryžiuočių kariuomenės ariergardą, siekdami laimėti laiko lietuvių ir žemaičių pajėgoms.
@@ -340,6 +355,7 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/virvės ištempimas.md#claim-t-86626|virvės ištempimas]]: Namas Vilniuje negalėjo būti statomas be miesto tarybos žinios ir virvės ištempimo.
 - susijęs iš [[objektai/zodynas/činšas.md#claim-t-183837|činšas]]: Filipovo namo činšas buvo mokamas vienuolika metų, vėliau jo mokėjimas nutrūko ir kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.
 - susijęs iš [[objektai/zodynas/činšas.md#claim-t-82136|činšas]]: Filipovo namo činšas buvo mokamas vienuolika metų, vėliau jo mokėjimas nutrūko ir kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.
+- susijęs iš [[objektai/zodynas/Šventieji ežerai.md#claim-t-189190|Šventieji ežerai]]: Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Duupe, vietos padavimuose laikytas šventu.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89585|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89584|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.
 - susijęs iš Jeruzalė: Popiežius Celestinas III Jeruzalėje įkūrė ir pašventino Švč. Marijos Teutonų ordino vienuolių ligoninę.
@@ -396,6 +412,7 @@ Nenurodyta
 - Namas priklause [[objektai/asmenys/Cimermanas]]
 - Namas priklause [[objektai/asmenys/Mikalojus Radvila]]
 - Namas priklause [[objektai/asmenys/Sebastijonas Vitinskis]]
+- Namas priklause [[objektai/vietos/Kaunas]]
 - [[objektai/asmenys/Celestinas III]] pastate Namas
 - Namas priklause [[objektai/asmenys/Merkelis Geiša Eljaševičius]]
 - Namas priklause [[objektai/grupes/Vilniaus kapitula]]

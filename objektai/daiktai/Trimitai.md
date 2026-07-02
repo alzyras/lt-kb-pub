@@ -64,6 +64,7 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+- susijęs iš [[objektai/grupes/Radvilos.md#claim-t-188322|Radvilos]]: Šalia aprašyto antspaudo buvo kitas antspaudas su skyde pavaizduotu Vyčiu po karūna ir apačioje esančiu Radvilų Trimitų herbu.
 - susijęs iš [[objektai/asmenys/Kopčius.md#claim-t-80736|Kopčius]]: Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82629|Mykolas Glinskis]]: Mykolas Glinskis davė komandą puolimui, po kurios LDK kariuomenė pakilo į ataką.
 - susijęs iš [[objektai/daiktai/Birbynės.md#claim-t-186853|Birbynės]]: Kunigaikščio Mykolo kariuomenei žengiant per upę, buvo sutrimitavę trimitai ir užgrotos birbynės.
@@ -102,3 +103,6 @@ Nenurodyta
 ## Pastabos
 
 - čia instrumentas turi ir bendrinį, ir apeiginį vartojimą, bet daiktiškai jis aprašytas aiškiai.
+
+## Ryšiai
+- Trimitai priklause [[objektai/grupes/Radvilos]]

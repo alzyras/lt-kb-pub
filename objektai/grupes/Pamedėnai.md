@@ -4,6 +4,7 @@ pavadinimas: 'Pamedėnai'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1246 m.'
   - '1260 m.'
@@ -11,12 +12,12 @@ date_start: '1246'
 date_end: '1260'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
 tags:
   - grupe
   - kunigaikštis
   - ordinas
-amziai:
-  - 'XIII'
 ---
 # Pamedėnai
 
@@ -25,7 +26,6 @@ amziai:
 Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat kuršiai, estai ir kt.), iš.
 
 ## Teiginiai
-
 <a id="claim-t-78414"></a>
 - t-001
   global_id: t-78414
@@ -127,7 +127,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=908c557a0d15c6de417188866ce15fc2ec9de794f0089bb8e0334f74f8380666; match=fallback; occurrences=0
+  saltinio_vieta: 306179-306545; hash=421ae153c535153610a6aa580a0c3eb51a9ff71f21f0a8629b351e1a6e6c7e5e; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Bartai: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -164,7 +164,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78424
   teiginys: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą pamedėnų ir kitų grupių pasidavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Svarcburgo|Henrikas iš Svarcburgo]]; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Svarcburgo|Henrikas iš Svarcburgo]]; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Brandenburgas; mentioned_place: Prūsija; mentioned_place: Vokietija'
   pagrindžia:
     - c-004
     - c-008
@@ -178,9 +178,29 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   ryšio_subjekto_parinkimas: Pamedėnai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Prūsija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pamedėnai" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+<a id="claim-t-188290"></a>
+- t-010
+  global_id: t-188290
+  teiginys: 'Narbutas rašo, kad pamedėnai turėjo prisiekti nepriimti krikščionių tikėjimo ir ginti savo senąjį tikėjimą.'
+  pagrindžia:
+    - c-012
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 306179-306545; hash=421ae153c535153610a6aa580a0c3eb51a9ff71f21f0a8629b351e1a6e6c7e5e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Pamedėnai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Belichovas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pamedėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Belichovo pilis tiesiogiai įvardyta kaip priklausiusi kilmingam pamedėnui; leidžiamas artimiausias savininko objektas yra pamedėnai.
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-184083|Henrikas iš Veidos]]: Henrikas iš Veidos užimtoje pamedėnų pilyje įkurdino brolius ir daug ginklanešių.
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60137|Henrikas iš Veidos]]: Henrikas iš Veidos su broliais ir maldininkais užėmė pamedėnų pilį, stovėjusią vietoje, vėliau vadintoje Senuoju Kristburgu.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90018|Sventopelkas]]: Sventopelkas sutelkė savo kariuomenę ir Prūsijos naujakrikščius keršyti broliams dėl jų užimtos pamedėnų pilies.
+- susijęs iš [[objektai/grupes/Aitvarai.md#claim-t-189447|Aitvarai]]: Narbutas pasakoja, kad žyniai užkeikė aitvarus išnykti, o pamedėnai prisiekė nepriimti krikščionybės ir ginti senąjį tikėjimą.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89158|Pagudėnai]]: Pagudėnai prie Kristburgo užpuolė tikinčiųjų pamedėnų pilaitę, į ją įsiveržė ir ją sugriovė.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175082|Sembai]]: Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos.
 - susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66521|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Per Divano ir Linko puolimą Kristburgo pilyje buvo likę trys broliai, trys jų tarnai ir grandinėmis surakintas pamedėnas Sirenas.
@@ -188,6 +208,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - susijęs iš [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas.md#claim-t-89372|Kristburgo bado krizės ir Samilio nukankinimo bandymas]]: Per vėlesnį badą Kristburgo broliai ragino ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.
 - susijęs iš [[objektai/ivykiai/Pilaitės prie Kristburgo užėmimas ir sunaikinimas.md#claim-t-62432|Pilaitės prie Kristburgo užėmimas ir sunaikinimas]]: Pagudėnai prie Kristburgo užpuolė pamedėnų pilaitę, ją užėmė ir iš pagrindų sugriovė.
 - susijęs iš [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu.md#claim-t-62688|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]: Per badą Kristburgo broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.
+- susijęs iš Pamedė: Narbuto pasakojime pamedėnai turėjo prisiekti nebepriimti krikščionių tikėjimo ir ginti senąjį tikėjimą net mirties kaina.
 - susijęs iš Senasis Kristburgas: Senasis Kristburgas, vėliau vadintas Alt Christburgu, buvo senas pamedėnų centras.
 - susijęs iš Senasis Kristburgas: Senasis Kristburgas, vėliau vadintas Alt Christburgu, buvo senas pamedėnų centras.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
@@ -213,7 +234,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60137|Henrikas iš Veidos]]: Henrikas iš Veidos su broliais ir maldininkais užėmė pamedėnų pilį, stovėjusią vietoje, vėliau vadintoje Senuoju Kristburgu.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89158|Pagudėnai]]: Pagudėnai prie Kristburgo užpuolė tikinčiųjų pamedėnų pilaitę, į ją įsiveržė ir ją sugriovė.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Per badą pilyje broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti į kitas vietas, kad galėtų prasimaitinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -429,6 +449,23 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-012
+  santrauka: 'Narbutas rašo, kad pamedėnai turėjo prisiekti nepriimti krikščionių tikėjimo ir ginti savo senąjį tikėjimą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
+    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
+    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
+    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
+    mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
+    rybė moka daryti stebuklus lengvatikių akyse.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 - [[objektai/vietos/Belichovas]] priklause Pamedėnai

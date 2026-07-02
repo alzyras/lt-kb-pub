@@ -148,12 +148,12 @@ amziai:
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90064|Treniota]]: Po 1260 m. Durbės mūšio žemaičiai, tarpininkaujant Treniotai, siūlė Mindaugui atsimesti nuo krikščionybės ir kariauti su Livonija.
 - susijęs iš [[objektai/autoriai/B. Dundulis.md#claim-t-71508|B. Dundulis]]: B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais XV amžiuje.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181472|Petras Dusburgietis]]: Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.
 - susijęs iš [[objektai/grupes/Istorikų kolektyvas.md#claim-t-31193|Istorikų kolektyvas]]: Istorikų kolektyvas parengė bendrą lietuvių kovų su kryžiuočiais istoriją „Lietuvių karas su kryžiuočiais“.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179417|Livonijos ordinas]]: 1260 m. liepos 13 d. Durbės mūšyje buvo sutriuškinta Livonijos ordino šaka, Prūsijos kryžiuočiai ir jų talkininkai.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176116|Žemaičiai]]: Zenonas Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir Mindaugo karines pajėgas prieš Ordiną.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176152|Žemaičiai]]: Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176157|Žemaičiai]]: Z. Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir karaliaus Mindaugo karines pajėgas prieš Ordiną.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-188370|Žemaičiai]]: Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daug kaimiečių nepažino krikščioniško tikėjimo tiesų.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-182934|Žiemgaliai]]: Po Durbės mūšio žiemgaliai atsimetė nuo Ordino ir prisidėjo prie Lietuvos.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89345|Žiemgaliai]]: Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią sukilėlių pusėje puolė žemaičiai.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89352|Žiemgaliai]]: Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią puolė žemaičiai.

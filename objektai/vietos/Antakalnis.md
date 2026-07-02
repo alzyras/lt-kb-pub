@@ -4,6 +4,7 @@ pavadinimas: 'Antakalnis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,7 +17,6 @@ tags:
 Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pagonių šventyklos tradicija ir priemiesčio formavimosi užuomazgomis palei Viliją. Balińskio pasakojime Antakalnio vietovardis aiškinamas lietuviškais, ne lotyniškais, pagrindais.
 
 ## Teiginiai
-
 <a id="claim-t-83136"></a>
 - t-001
   global_id: t-83136
@@ -86,6 +86,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   global_id: t-83140
   teiginys: 'Jėzuitai pralaimėjo teisme dėl plytinės, žemės sklypo ir lankos Antakalnyje, nes neturėjo nuosavybės dokumentų.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet pradinis teiginys turi OCR triukšmo ir lotyniškų intarpų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -161,8 +162,53 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 374999-375409; hash=4af6ed5039ce05f54885e350eb8a1a828f3761a323cd316c238d9db1fafece42; match=whitespace_regex
+  saltinio_vieta: 530732-531380; hash=97caa508b909e2bacc1a3385aa1b1aec07eb3e0c18af3d04c0fd51121ab0300d; match=exact
   sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antakalnis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antakalnis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+<a id="claim-t-188663"></a>
+- t-010
+  global_id: t-188663
+  teiginys: 'Pasak Narbuto minimo padavimo, Vilniaus Antakalnyje, Gedimino sode, dabartinio Šv. Petro vienuolyno vietoje stovėjusi Mildos šventykla arba koplyčia.'
+  pagrindžia:
+    - c-008
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 233927-234144; hash=7dd4865f8a7e56b239dea4c43d3d9c7de1fc4385d70660ca54171398fd08c0c8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antakalnis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antakalnis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188664"></a>
+- t-011
+  global_id: t-188664
+  teiginys: 'Narbuto perpasakotoje Gedimino sapno legendoje Lizdeika aiškino sapną po medžioklės prie Antakalnio link stūksojusio Tauro kalno.'
+  pagrindžia:
+    - c-009
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 530732-531380; hash=97caa508b909e2bacc1a3385aa1b1aec07eb3e0c18af3d04c0fd51121ab0300d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antakalnis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antakalnis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172922|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172923|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172924|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
@@ -181,8 +227,10 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172911|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
 - susijęs iš [[objektai/paprociai/Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje.md#claim-t-55160|Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje]]: Antakalnio šventovėje ketvirtadienio vakarais dvasininkai visada statydavo ir degindavo vaško žvakes.
 - susijęs iš [[objektai/paprociai/Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje.md#claim-t-81869|Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje]]: Antakalnio šventovėje, skirtoje lietuvių dievams, dvasininkai ketvirtadienio vakarais statydavo ir degindavo vaško žvakes.
+- susijęs iš Vilnius: Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
 - susijęs iš Šv. Petro bažnyčia Antakalnyje: Pagal padavimus Goštautas pastatydino Šv. Petro bažnyčią Antakalnyje pagonių šventyklos vietoje.
 - susijęs iš Šv. Petro bažnyčia Antakalnyje: Šv. Petro bažnyčia Antakalnyje tikriausiai pastatyta Vladislovo Jogailos laikais pagonių šventovės vietoje.
+- susijęs iš [[objektai/asmenys/Lizdeika.md#claim-t-188581|Lizdeika]]: Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173205|Petras Goštautas]]: Petras Goštautas pagonišką dievaičių buveinę pavertė bažnyčia ir pašventė ją Šv. Petro vardui.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54993|Petras Goštautas]]: Petras Goštautas tradicijoje vadintas kunigaikščio Algirdo laikų didiku ir Vilniaus vaivada.
 - susijęs iš [[objektai/autoriai/Petras Korkonas.md#claim-t-88080|Petras Korkonas]]: Petras Korkonas 1621 m. rašė, kad Petras Goštautas savo rankomis pasodino liepą priešais senosios bažnyčios duris.
@@ -190,6 +238,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
 - susijęs iš [[objektai/grupes/Lietuvių kunigaikščių ir bajorų visuotinis seimas.md#claim-t-86802|Lietuvių kunigaikščių ir bajorų visuotinis seimas]]: Lietuvių kunigaikščių ir bajorų visuotinis seimas sostinėje paskelbė apie didelį ir esminį religijos pokytį.
 - susijęs iš [[objektai/paprociai/Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų.md#claim-t-87232|Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų]]: Vilniaus gyventojai, dar buvę pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.
 - susijęs iš Petro Korkono 1621 m. raštas apie Goštauto liepą: Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.
+- susijęs iš Tygodnik Wilenski: Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename buvusio „Tygodnik Wilenski“ numeryje.
 - susijęs iš Lenkija: XIV a. Lenkijos miestai, tokie kaip Krokuva ir Liublinas, jau turėjo gotikos rūmų ir mūrinių gatvių vaizdą.
 - susijęs iš Lenkija: XIV a. Lenkijoje jau buvo miestų, su kuriais lyginamos aplink Vilniaus pilis buvusios gyvenvietės.
 - susijęs iš Lietuva: Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.
@@ -198,14 +247,16 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
 - susijęs iš Rusia Rusios žemės: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
 - susijęs iš Rusia: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
 - susijęs iš Rūdninkai: Rūdninkuose bažnyčia galėjo būti nuo seno, bet klebonijos fundacija datuojama Zigmanto III laikais.
+- susijęs iš Tauro kalnas: Narbutas pasakoja, kad Gediminas nukovė taurą ant kalno, vėliau vadinto Tauro kalnu, o Lizdeika po nakvynės Šventaragio miške išaiškino jo sapną.
 - susijęs iš Vilija: Dabartinių Lukiškių ir Antakalnio užuomazgos buvo išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.
 - susijęs iš Vilnius: Vilniuje pakrikštyti pagonys gyventojai, užgesinta amžinoji ugnis ir pradėta statyti Šv. Stanislovo katedra.
 - susijęs iš Vilnius: Algirdo laikais Lietuvos sostinė kelis kartus buvo žiauriai nuniokota, bet valdovas išgelbėdavo Vilnių nuo visiškos pražūties.
+- susijęs iš Vilnius: 1655 m. rusams užėmus Vilnių, mieste kilęs gaisras siautė 17 dienų.
+- susijęs iš Vilnius: Narbutas Gedimino sapno pasakojime rašė, kad Gediminas nakvojo Šventaragiu vadintame miške prie Vilnios ir Neries santakos.
 - susijęs iš Virogorų ežeras: Tėvai jėzuitai pasisavino Virogorų ežerą su žeme, miškais ir lankomis.
 - susijęs iš Viršupis: Didieji Lietuvos kunigaikščiai prie Vilniaus, už Antakalnio priemiesčio, turėjo miesto dvarą, vadinamą Viršupiu.
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86441|žiogriai statinių tvoros palisadai]]: Aplink pilį stovėję pastatai buvo atskirti žiogriais, arba statinių tvoromis, tarp jų plytėjo daržai ir pievos.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -343,3 +394,48 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+- c-008
+  santrauka: 'Pasak Narbuto minimo padavimo, Vilniaus Antakalnyje, Gedimino sode, dabartinio Šv. Petro vienuolyno vietoje stovėjusi Mildos šventykla arba koplyčia.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Bet kai kas painioja šią patrauklią dievybę su deive Lie­
+    tuva.
+    Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­
+    de, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­
+    jusi Mildos šventykla arba koplyčia.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-009
+  santrauka: 'Narbuto perpasakotoje Gedimino sapno legendoje Lizdeika aiškino sapną po medžioklės prie Antakalnio link stūksojusio Tauro kalno.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    304
+
+    ## Puslapis 304
+
+    tinai turi išaugti į didelį miestą, kadangi tą nuostabiai skati­
+    no ir vietos padėtis.
+    Lizdeika išaiškino sapną Gediminui po to, kai jis, nukovęs
+    didžiulį taurą ant aukščiausio kalno, stūksančio Antakalnio
+    link, -  išmanantys tėvynės istoriją dabar jį vadina Tauro kal­
+    nu -  nakvojo šventajame miške prie Vilnios ir Neries santa­
+    kos, vadintame Šventaragiu; jam prisisapnavo, kad matęs mil­
+    žinišką vilką, visą šarvuotą geležiniais šarvais, o jo viduje stau­
+    gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
+    kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
+    čiui -  kas nors panašaus prisisapnuotų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+
+## Ryšiai
+- Antakalnis priklause [[objektai/vietos/Vilnius]]

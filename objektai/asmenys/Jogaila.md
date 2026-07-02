@@ -5,6 +5,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -16,27 +17,31 @@ aliases:
   - 'objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)'
 variantai:
   - 'Jogaila (Lenkijos karalius, 1382 m.)'
+description: 'Jogaila – Lietuvos didysis kunigaikštis, po 1385 m. Krėvos sutarties priėmęs krikštą ir 1386 m. tapęs Lenkijos karaliumi.'
+socialDescription: 'Jogaila siejamas su Krėvos sutartimi, Lietuvos krikštu, Lenkijos sostu ir politiniais santykiais su Kęstučiu bei Vytautu.'
+seo_atnaujinta: '2026-07-02T19:20:23.268335+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - karalius
-  - kunigaikštis
-  - valdovas
 amziai:
   - 'XIV'
   - 'XV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - karalius
+  - kunigaikštis
+  - valdovas
 ---
 # Jogaila (kunigaikštis, XIV–XV a.)
 
 ## Santrauka
 
-piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430). Išeitis buvo 1385 m. sudaryta Krėvos sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi. Jogaila su šio dokumento turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu.
+Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnės politinės galios. 1385 m. Krėvos sutartis susiejo Lietuvą su Lenkija, o 1386 m. Jogaila Krokuvoje priėmė krikštą Vladislovo vardu, vedė Jadvygą ir buvo karūnuotas Lenkijos karaliumi. Jo valdymo istorijoje svarbūs konfliktai su Kęstučiu bei vėlesni santykiai su Vytautu.
 
 ## Teiginiai
-
 <a id="claim-t-182803"></a>
 - t-001
   global_id: t-182803
@@ -679,12 +684,102 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-052
+
+<a id="claim-t-188542"></a>
+- t-053
+  global_id: t-188542
+  teiginys: 'Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Žemaitijoje ilgiau išlikusį aukurą ir apeigas.'
+  pagrindžia:
+    - c-053
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 269929-270472; hash=5b2e5d5e58dc9439184c299e330b32f127b67ba7ac49ad455958c18efbf7e101; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukuras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aukuras: mention_match, thing, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Aukuras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188543"></a>
+- t-054
+  global_id: t-188543
+  teiginys: 'Narbutas atmeta nuomonę, kad Šventosios vardas kilo iš lietuvių krikštijimo jos vandeniu Jogailai atvertus tautą.'
+  pagrindžia:
+    - c-054
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389009-389253; hash=b56e21c5c5229b16258f1dd1d8f1deafe319c4724cd8e3d063778df0988f18c7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Neris: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Neris: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Neris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+<a id="claim-t-188544"></a>
+- t-055
+  global_id: t-188544
+  teiginys: 'Narbutas aprašo autorių, giriantį Vladislovą Jogailą, jo brolius ir jų nuolankumą bažnyčiai dėl lietuvių atvertimo.'
+  pagrindžia:
+    - c-055
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 704054-704726; hash=2a9bac7b75e3f46fd4b125ce692a66ee575142a7c9f32a0ec66bc4174c793bc5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188545"></a>
+- t-056
+  global_id: t-188545
+  teiginys: 'Narbutas rašo, kad Vladislovas Jogaila į Konstancos susirinkimą pasiuntė Teodorą Lenką skųsti kryžiuočių žiaurumų.'
+  pagrindžia:
+    - c-056
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 713317-713786; hash=b88c578f514aaba6552ac81d72fed6fd91bd60b1129ba41b7860b80857f4ddf3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: siunte_i -> Konstanca: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstanca: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste sakoma, kad Vladislovas Jogaila pasiuntinį nusiuntė į Konstancos susirinkimą.
+<a id="claim-t-188546"></a>
+- t-057
+  global_id: t-188546
+  teiginys: 'Narbutas rašo, kad 1392 metais Vladislovas Jogaila pasiuntė Jeronimą Prahiškį pas Vytautą skelbti Lietuvoje krikščionių tikėjimo.'
+  pagrindžia:
+    - c-057
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 821880-822425; hash=5cd56c691ddec880a12eab8c67cfbb219c59297c4d882e4dfd9b3dbfb5c3a2a2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Vladislovas Jogaila 1392 metais nusiuntė Jeronimą skelbti tikėjimo Lietuvoje.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51025|Jadvyga (Jogailos duktė)]]: Horodlėje karalaitė Jadvyga buvo pripažinta Lenkijos sosto įpėdine, o Vytautas paskirtas jos globėju.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179655|Skirgaila]]: Jogaila pasiuntė brolį Skirgailą su slaptais įgaliojimais į Vakarų Europą, o Marienburge Skirgaila buvo draugiškai priimtas.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179662|Skirgaila]]: Jogaila pavedė Lietuvą savo broliui Skirgailai, todėl Vytautui labiau parūpo Lietuvos ateitis negu jos krikštas.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179642|Skirgaila]]: Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, ir dėl to kilo atviras susirėmimas.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179674|Skirgaila]]: Jogaila iki 1392 m. bandė valdyti Lietuvą per savo vietininką brolį Skirgailą.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179654|Skirgaila]]: Jogaila paskyrė Skirgailą savo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu, pavaldžiu karaliaus valdžiai.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55082|Vilniaus miestiečių luomas]]: Vilniaus pilininkas ir miestiečiai palaikė Jogailą prieš Kęstutį ir perdavė jam Žemutinę bei Aukštutinę pilis.
 - susijęs iš [[objektai/ivykiai/Smolensko atgavimas Vytautui.md#claim-t-186592|Smolensko atgavimas Vytautui]]: Lietuvos metraštis pasakoja, kad Vytautas susijungė su Jogaila ir tą patį rudenį su kariuomenėmis atvyko į Smolenską.
 - susijęs iš 1401 m. Vilniaus aktas dėl Lietuvos grįžimo Jogailos valdžion: 1401 m. Vilniaus akte Lietuvos ir Rusios didikai prisiekė ištikimybę Jogailai ir pagalbą prieš bendrą karaliaus bei Lenkijos priešą.
@@ -761,11 +856,13 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/grupes/Čekai.md#claim-t-50768|Čekai]]: 1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o vėliau čekai kreipėsi į Vytautą.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176158|Žemaičiai]]: Atgavę Žemaičių žemę, Jogaila ir Vytautas iš Vilniaus ėmėsi jos gyventojų atvertimo į krikščionybę.
 - susijęs iš [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu.md#claim-t-66423|1380 m. vasario paliaubos su Livonijos ordinu]]: 1380 m. vasarį Jogaila vienas sudarė paliaubas su Livonijos ordinu, iš jų išskirdamas Žemaičius ir kitas Kęstučio žemes.
+- susijęs iš [[objektai/ivykiai/1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje.md#claim-t-189636|1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje]]: Onacevičiaus periodizacijoje aiškesnės Lietuvos istorijos epocha baigiasi 1386 m., kai Jogaila vedė Jadvygą ir Lietuvoje buvo įvesta krikščionybė.
 - susijęs iš [[objektai/ivykiai/1426 m. Lietuvos Brastos suvažiavimas.md#claim-t-34533|1426 m. Lietuvos Brastos suvažiavimas]]: 1426 m. Lietuvos Brastos suvažiavime kartu su Vytautu ir Jogaila dalyvavo jų didikai.
 - susijęs iš [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md#claim-t-50799|Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]: 1422 m. liepos pabaigoje Vytautas ir Jogaila išžygiavo prieš Ordiną, bet Vytautui neteko kautis atvirame mūšyje, nes vokiečiai užsidarė pilyse.
 - susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas.md#claim-t-12402|Dovydiškių sutarties sudarymas]]: Vytautas dalyvavo medžioklėje, bet slaptos sutarties sudarymo nepajuto; jo dalyvavimu Jogaila prisidengė nuo Kęstučio įtarimų.
 - susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas.md#claim-t-66523|Dovydiškių sutarties sudarymas]]: Ivinskis pabrėžia, kad Dovydiškių sutartis palieka svarbių neatsakytų klausimų dėl Vytauto žinojimo ir Jogailos laikysenos.
 - susijęs iš [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją.md#claim-t-34539|Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]: Jogaila atsisakė čekų husitų siūlyto karališko vainiko, o Vytautas vėliau sutiko rūpintis jų reikalais.
+- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio pasiuntimas į Lietuvą 1392 m.md#claim-t-189624|Jeronimo Prahiškio pasiuntimas į Lietuvą 1392 m]]: 1392 m. Vladislovas Jogaila nusiuntė Jeronimą Prahiškį į Lietuvą pas Vytautą su laišku skelbti krikščionių tikėjimo.
 - susijęs iš [[objektai/ivykiai/Jogailos 1387 m. privilegijos ir popiežiaus 1403 m. draudimas Ordinui kariauti.md#claim-t-20211|Jogailos 1387 m. privilegijos ir popiežiaus 1403 m. draudimas Ordinui kariauti (privilegija, XIV a.)]]: 1387 m. vasario 22 d. Jogaila išleido raštą, kuriuo prisiekė lietuvius patraukti į savo pusę arba priversti priimti katalikybę.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186714|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogailos krikštas įvyko 1386 m. vasario 15 d., jungtuvės su Jadvyga vasario 18 d., o vainikavimas kovo 4 d.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186715|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą ir kovo 4 d. vainikuotas Lenkijos karaliumi.
@@ -808,6 +905,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių derybos prie Trakų (1382 m. rugpjūčio 3 d.).md#claim-t-35846|Kęstučio ir Jogailos kariuomenių derybos prie Trakų (1382 m. rugpjūčio 3 d.)]]: Prie Trakų Jogaila prašė, kad Vytautas tarpininkautų derybose, siūlydamas atkurti ankstesnę padėtį.
 - susijęs iš [[objektai/ivykiai/Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.).md#claim-t-184233|Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.)]]: Lenčicoje lietuvių delegacija Vytauto vardu pareiškė, kad Vytautas priims karūną nepaisydamas Jogailos pritarimo.
 - susijęs iš [[objektai/ivykiai/Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.).md#claim-t-35850|Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.)]]: Lenčicos audiencijoje Lietuvos delegacija Vytauto vardu pareiškė, kad Vytautas priims karūną nepriklausomai nuo Jogailos pritarimo.
+- susijęs iš [[objektai/ivykiai/Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai.md#claim-t-189604|Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai (krikštas, XIII–XIV a.)]]: Narbutas Mindaugo–1386 m. laikotarpį užbaigia Lietuvos krikščionybės įvedimu, Jogailos vedybomis su Jadvyga ir tautos vertimu krikštytis.
 - susijęs iš [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris).md#claim-t-184341|Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]: 1381 m. pavasarį Andriaus partija Polocke sukėlė atvirą maištą prieš Jogailos paskirtą Skirgailą.
 - susijęs iš [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.).md#claim-t-185639|Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]: Skitai atsisuko prieš Švitrigailą, kai Jogailos pasiuntiniai pranešė, kad Švitrigaila juos apgavo dėl valdžios Lietuvoje.
 - susijęs iš [[objektai/ivykiai/Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį.md#claim-t-185773|Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį]]: Vaidilos patvarkymu Jogaila ir kryžiuočiai slaptai pasirašė susitarimą prieš stojimą į atvirą kovą.
@@ -859,6 +957,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš Vilnius: 1428 m. Vilniuje Jogaila iškėlė Vytauto karūnacijos klausimą.
 - susijęs iš Voluinė: Po paskutinio karo Voluinėje Jogaila išlaisvino lietuvių didikus Rumbautą ir Goštautą ir pasiuntė juos Švitrigailai į Vilnių.
 - susijęs iš Červinskas: Į Červinską atvyko vengrų pasiuntiniai iš kryžiuočių pusės teirautis Jogailos dėl taikos derybų vietos ir laiko.
+- susijęs iš Žemaitija: Narbutas aiškina, kad aukuras ir apeigos Žemaitijoje išliko dėl Jogailos ir Vytauto pagarbos kunigaikštienei Birutei.
 - susijęs iš Žemaičių žemė: Lietuvos metraštyje Kęstutis nujoja į Žemaičius prašyti pagalbos po to, kai Jogaila be jo žinios užima Trakus.
 - susijęs iš Žemaičių žemė: Lietuvos metraštyje Kęstutis su žemaičiais ateina prie Trakų po to, kai Jogaila be Kęstučio žinios užima Trakus.
 - susijęs iš [[objektai/zodynas/apsikarūnavimas.md#claim-t-36767|apsikarūnavimas]]: Vytauto nepasisekęs apsikarūnavimas siejamas su 1398 m. jo ir Jogailos pastangomis gauti sutikimą Romoje.
@@ -869,12 +968,16 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185998|Andrius Vingaudas]]: Jogaila pirmaisiais savo viešpatavimo metais įkalino Andrių Vingaudą, kuris buvo linkęs maištauti ir su kryžiuočių pagalba siekė valdžios.
 - susijęs iš [[objektai/asmenys/Andrius iš Vasilevo Važila.md#claim-t-87624|Andrius iš Vasilevo Važila]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
 - susijęs iš [[objektai/asmenys/Benediktas.md#claim-t-35034|Benediktas]]: 1387 m. vasarą Jogaila pasiuntė Vytautą su kariuomene atimti Haličą iš Vengrijos kašteliono Benedikto.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184675|Birutė]]: Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184676|Birutė]]: Vytautas, sužinojęs apie Jogailos žygį į Trakus, su pamote Birute pasitraukė į Gardiną.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188517|Birutė]]: Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Palangos aukuro apeigas, todėl jos Žemaitijoje išliko ilgiau.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188518|Birutė]]: Narbutas chronologiškai skaičiuoja, kad Birutė gimė apie 1331 metus, ištekėjo 1348 metais ir mirė 1416 metais.
 - susijęs iš [[objektai/asmenys/Bodzanta.md#claim-t-82242|Bodzanta (arkivyskupas, XIV a.)]]: Gniezno arkivyskupas Bodzanta iškilmingai pašventino Stanislovo katedrą, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams.
 - susijęs iš [[objektai/asmenys/Bodzanta.md#claim-t-82243|Bodzanta (arkivyskupas, XIV a.)]]: Gniezno arkivyskupas Bodzanta iškilmingai pašventino Stanislovo katedrą, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams.
 - susijęs iš [[objektai/asmenys/Davaina.md#claim-t-186104|Davaina]]: Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė krikščionybę ir pasiliko Lenkijoje.
 - susijęs iš [[objektai/asmenys/Elžbieta Granauskaitė.md#claim-t-35056|Elžbieta Granauskaitė]]: Jogaila 1417 m. vedė Elžbietą Granauskaitę be Vytauto ir jo didžiūnų žinios bei valios.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176333|Gediminas]]: Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176333|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188533|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas, remdamasis Strijkovskiu, mini, kad 1302 m. Gediminas suteikė herbą Krunevičiui.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113786|Goštautas (vyskupas, XV a.)]]: Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113789|Goštautas (vyskupas, XV a.)]]: Jogaila išlaisvino Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą ir atsiuntė juos Švitrigailai į Vilnių.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184707|Goštautas (vyskupas, XV a.)]]: Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių.
@@ -887,6 +990,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176434|Jadvyga Jogailienė]]: Karalienė Jadvyga iš savo lobyno apdovanojo pašventintą Vilniaus bažnyčią brangiais rykais ir kita manta.
 - susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-176407|Jadvyga]]: 1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos smarkaus ginčo.
 - susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-176410|Jadvyga]]: Liudviko Anjou duktė Jadvyga 1384 m. spalio 15 d. Krokuvoje buvo vainikuota Lenkijos „karaliumi“.
+- susijęs iš [[objektai/asmenys/Jeronimas Prahiškis.md#claim-t-190013|Jeronimas Prahiškis]]: Narbutas cituoja žinią, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis rašė apie pirmųjų sutiktų lietuvių žalčių garbinimą.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-12183|Julijona (Algirdo žmona)]]: Julijona, Algirdo žmona, viešpatavo Vitebske ir mirė 1392 m.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176514|Julijona (Algirdo žmona)]]: Algirdas buvo vedęs Vitebsko kunigaikštytę Julijoną.
 - susijęs iš [[objektai/asmenys/Julijona.md#claim-t-176503|Julijona]]: Zenonas Ivinskis, remdamasis Torno analais, svarsto, kad Julijona galėjo nenorėti Lietuvos krikšto lotynų apeigomis.
@@ -920,6 +1024,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179680|Skirgaila]]: Balińskis Skirgailos būdą apibūdino kaip niršų ir siejo jį su Vytauto baime dėl pasikėsinimo į gyvybę.
 - susijęs iš [[objektai/asmenys/Sofija (Vytauto duktė).md#claim-t-176611|Sofija (Vytauto duktė)]]: Sofijos, Maskvos kunigaikštienės, vardu buvo įteiktas protestas prieš Žemaitijos atidavimą Ordinui po jos tėvo mirties.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90019|Sventopelkas]]: Petras Dusburgietis Pamario kunigaikštį Sventopelką vadina išdaviku dėl bendradarbiavimo su prūsais prieš Ordiną.
+- susijęs iš [[objektai/asmenys/Teodoras Lenkas.md#claim-t-190246|Teodoras Lenkas]]: Vladislovas Jogaila pasiuntė dominikoną Teodorą Lenką į Konstancos susirinkimą išdėstyti skundų prieš kryžiuočius.
 - susijęs iš [[objektai/asmenys/Ulrichas fon Jungingenas.md#claim-t-183764|Ulrichas fon Jungingenas]]: Žalgirio mūšyje žuvo didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 riterių ir tūkstančiai karių.
 - susijęs iš [[objektai/asmenys/Ulrichas fon Jungingenas.md#claim-t-40481|Ulrichas fon Jungingenas]]: Žalgirio mūšyje žuvo didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 riterių ir tūkstančiai karių.
 - susijęs iš [[objektai/asmenys/Vaclovas Pragiečius.md#claim-t-34763|Vaclovas Pragiečius]]: Čekų karaliui Vaclovui įsikišus, tarp kariaujančių pusių buvo sudarytos vienų metų paliaubos.
@@ -940,12 +1045,15 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176688|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Jogaila negrąžino Vytautui nei Lietuvos valdymo, nei po Kęstučio mirties priklausiusio paveldo.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176693|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas, pralaimėjęs mūšį ir netoli Vilniaus praradęs tūkstantį žmonių, turėjo slėptis Trakų pilyje.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176698|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto karas su Skirgaila pablogino Vilniaus padėtį.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176701|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto politika šaltinyje siejama su bažnytine politika, Lietuvos konversija ir Žemaičių krikštu.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176747|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Jogailai išvykus į Lenkiją, akylai stebimas Vytautas negalėjo savarankiškai imtis veiksmų.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176753|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Jogaila ir Vytautas buvo paskatinti Lucke sušaukti monarchų ir kunigaikščių suvažiavimą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176760|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas per savo agentus Lenkijoje skleidė nuostatą, kad karas su Vokiečių ordinu būtinas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-183844|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto karas su Skirgaila dar labiau pablogino Vilniaus padėtį.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184863|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Skirgaila Jogailos vardu turėjo viešai pažadėti Vytautui saugumą ir neliečiamybę taikos derybose.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184875|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas su didikais Goštautu, Rumbaudu ir Radvila išvyko pas imperatorių.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-188649|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai aukurą ir apeigas, nes negalėjo palenkti jos į krikščionybę.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-188650|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas 1386–1447 m. laikotarpį laiko didžiausios Lietuvos galybės epocha, ypač Vytauto valdymo metu.
 - susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87381|Zigmantas (Romos imperatorius)]]: Imperatorius Zigmantas ir didysis magistras siekė nutraukti Lietuvos ir Lenkijos sąjungą, tačiau jų sumanymai žlugo.
 - susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176867|Zigmantas Kaributas]]: Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių.
 - susijęs iš [[objektai/asmenys/Zofija Algimantaitė.md#claim-t-34776|Zofija Algimantaitė]]: Zofija Algimantaitė buvo išauklėta Vytauto dvare ir laikyta jo giminaite.
@@ -954,7 +1062,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179717|Švitrigaila]]: Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179722|Švitrigaila]]: Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu nuvyko pas magistrą į Marienburgą.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172930|M. Strijkovskis Stryjkowski]]: Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172907|Motiejus Strijkovskis (kronikininkas)]]: Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-188454|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis patvirtino pasakojimą, jog žmonės Birutę dar gyvą ėmė garbinti kaip deivę.
 - susijęs iš [[objektai/daiktai/Auksinis diržas.md#claim-t-186854|Auksinis diržas]]: Kunigaikštis Jonas per Vytauto rankas davė Jogailai auksinį diržą už Jogailos pažadą neatimti Jono tėviškės.
 - susijęs iš [[objektai/daiktai/Balti vilnoniai marškiniai.md#claim-t-12278|Balti vilnoniai marškiniai]]: Jogaila krikštijamiems žmonėms duodavo baltų vilnonių rūbų, kad būtų įvykdytas krikšto liturgijos reikalavimas turėti baltą rūbą.
 - susijęs iš [[objektai/daiktai/Balti vilnoniai marškiniai.md#claim-t-186424|Balti vilnoniai marškiniai]]: Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas.
@@ -994,6 +1102,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-187715|Lenkai]]: Bychovco kronikos pasakojime lenkai vaizduojami atėmę Vytautui skirtą karaliaus vainiką, kad Lietuva netaptų karalyste.
 - susijęs iš [[objektai/grupes/Lenkijos valstybės taryba.md#claim-t-74513|Lenkijos valstybės taryba (institucija)]]: Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-187716|Lietuviai]]: Lietuvių kariuomenė mūšio pradžioje pirmiausia susikovė su vokiečiais, o abiejose pusėse krito daug karių.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188280|Lietuviai]]: Narbutas atmetė nuomonę, kad Šventoji prie Ukmergės taip pavadinta dėl Jogailos laikų lietuvių krikšto.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-184333|Lietuvos kariuomenė]]: Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.
 - susijęs iš [[objektai/grupes/Lietuvos kunigaikščiai ir didikai.md#claim-t-86760|Lietuvos kunigaikščiai ir didikai]]: Lietuvių ir lenkų kunigaikščiai bei didikai dalyvavo iškilmingai pašventinant Vilniaus Šv. Stanislovo katedrą.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179366|Livonijos ordinas]]: Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.
@@ -1026,6 +1135,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.).md#claim-t-184231|Dovydiškių slapta sutartis (1380 m.)]]: Dovydiškių slaptos sutarties sudarymo Vytautas nepastebėjo, nors dalyvavo medžioklėje.
 - susijęs iš [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.).md#claim-t-35827|Dovydiškių slapta sutartis (1380 m.)]]: Vytautas dalyvavo Dovydiškių medžioklėje, bet nepastebėjo, kad buvo sudaryta slapta sutartis.
 - susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas.md#claim-t-66524|Dovydiškių sutarties sudarymas]]: 1380 m. gegužės 31 d. Jogaila slapta sudarė Dovydiškių sutartį su kryžiuočiais medžioklės metu, turbūt arti Gardino.
+- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio žalčių sunaikinimas ir viešas sudeginimas.md#claim-t-189628|Jeronimo Prahiškio žalčių sunaikinimas ir viešas sudeginimas]]: Narbutas rašo, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis pirmuosius sutiktus lietuvius siejo su žalčių garbinimu.
 - susijęs iš [[objektai/ivykiai/Karo su Prūsija pradžia ir dvejų metų paliaubos per popiežiaus legatą.md#claim-t-185711|Karo su Prūsija pradžia ir dvejų metų paliaubos per popiežiaus legatą]]: Karo su Prūsija pradžioje lenkų ir lietuvių kariuomenės peržengė sienas ir įsiveržė į Prūsiją.
 - susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.).md#claim-t-185588|Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.)]]: Pasak Lietuvos istorikų, Kazimieras be lenkų pritarimo slapta iškeliavo iš Sandomiro į Brestą.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis).md#claim-t-86915|Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]: 1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.
@@ -1041,6 +1151,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.).md#claim-t-185640|Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]: Švitrigailos pakviesta skitų kariauna ketino išvyti Žygimantą ir sugrąžinti Švitrigailą į valdžią Lietuvoje.
 - susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės.md#claim-t-186701|Teodoro Karijotaičio pašalinimas iš Podolės]]: Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą.
 - susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės.md#claim-t-186702|Teodoro Karijotaičio pašalinimas iš Podolės]]: Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą.
+- susijęs iš [[objektai/ivykiai/Teodoro Lenko pasiuntinybė į Konstancos susirinkimą su skundais prieš kryžiuočius.md#claim-t-189637|Teodoro Lenko pasiuntinybė į Konstancos susirinkimą su skundais prieš kryžiuočius]]: Jogaila į Konstancos susirinkimą pasiuntė dominikoną Teodorą Lenką, kad šis išdėstytų skundus prieš kryžiuočius.
 - susijęs iš Torno taika (1411 m.): 1411 m. vasario 1 d. Jogaila ir Vytautas prie Torno pilies sudarė taiką su didžiuoju magistru.
 - susijęs iš Torno taika (1411 m.): Po kurį laiką trukusio Ordino ir Lenkų karo 1411 m. buvo pasirašyta Torno taika.
 - susijęs iš [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.).md#claim-t-34558|Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]: Įsikišus Čekijos karaliui Vaclovui, kariaujančios pusės sudarė vienerių metų paliaubas.
@@ -1180,8 +1291,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš Lietuva: 1392 m. Vytautas atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti visą Lietuvą.
 - susijęs iš Lietuva: Po Vytauto mirties Vladislovas Jogaila netrukus paskyrė savo vietininką Lietuvai.
 - susijęs iš Lietuva: Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą ir pasiekė Trakus.
-- susijęs iš Lietuva: Pagal Jogailos su Lenkija sutartį Vytauto valdoma Lietuva ir jai priklausoma Rusia turėjo likti Lenkijos karaliaus valdžioje.
 - susijęs iš Lietuva: Kojelavičius aiškina, kad Jogaila dėjosi nežinąs Vytauto sumanymų, nes troško Vytauto ir Lietuvos vardo išgarsėjimo.
+- susijęs iš Lietuva: Narbutas rašė, kad lietuvių genties ikijungtuviniai papročiai skyrėsi pagal tautą, vietos aplinkybes ir laiką.
 - susijęs iš Lietuvos Brasta: 1432 m. pradžioje Švitrigaila su kryžiuočių atstovais buvo Brastoje, kai strigo lenkų ir lietuvių derybos.
 - susijęs iš Liublinas: 1386 m. Jogaila nuvyko į Liubliną ir ten buvo išrinktas Lenkijos karaliumi.
 - susijęs iš Liublinas: 1432 m. pradžioje, stringant lenkų ir lietuvių deryboms, Jogaila stovėjo Liubline, o Švitrigaila su kryžiuočių atstovais buvo Brastoje.
@@ -1307,6 +1418,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš Žemaitija: Kęstutis su stipriais pulkais iš Žemaitijos atvyko į pagalbą sūnui Vytautui Trakų pilyje.
 - susijęs iš Žemaitija: 1380 m. Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę.
 - susijęs iš Žemaitija: 1380 m. sudarytos paliaubos su Livonijos magistru Rygoje aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę.
+- susijęs iš Žemaitija: Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį.
 - susijęs iš [[objektai/zodynas/Lietuvos didysis kunigaikštis.md#claim-t-185374|Lietuvos didysis kunigaikštis]]: Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113652|Magdeburgo teisės]]: Pirmosios Lietuvoje Magdeburgo teisės būtų pagerinusios Vilniaus būklę, jei vidaus karas nebūtų sukėlęs naujos audros šalyje.
@@ -1360,6 +1472,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179731|Švitrigaila]]: Įniršęs Švitrigaila priekaištavo Jogailai dėl Podolės ir įkalino jį su palyda pilyje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178940|Kryžiuočių ordinas]]: Trečiąja sutartimi Jogaila užrašė kryžiuočiams beveik visą vakarinę Žemaitijos dalį iki Dubysos.
 - susijęs iš [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.).md#claim-t-35898|Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]: 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus.
+- susijęs iš Lietuva: 1392 m. Vytautas atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti visą Lietuvą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179162|Lenkai]]: Vytauto akte priminta, kad lenkai pasikvietė Jogailą į savo sostą ir pripažino jį karaliumi Vladislovu.
 - susijęs iš [[objektai/asmenys/Karigaila.md#claim-t-63795|Karigaila]]: Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.
 - susijęs iš [[objektai/zodynas/tėviškė.md#claim-t-36844|tėviškė]]: 1392 m. Vytautas atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.
@@ -1374,7 +1487,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/grupes/Livonijos ponai.md#claim-t-187783|Livonijos ponai]]: Livonijos ponai buvo Jogailos kariuomenėje, kai Jogaila pasitiko Kęstutį su žemaičiais prie Trakų.
 - susijęs iš Luckas: Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Jogaila su Olesnickiu atvyko į Vilnių ir, aiškėjant Vytauto įpėdinystei, linko nesipriešinti vainikavimui.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -2498,9 +2610,107 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
+- c-053
+  santrauka: 'Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Žemaitijoje ilgiau išlikusį aukurą ir apeigas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-053
+- c-054
+  santrauka: 'Narbutas atmeta nuomonę, kad Šventosios vardas kilo iš lietuvių krikštijimo jos vandeniu Jogailai atvertus tautą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    1.
+    Upė, tekanti pro Ukmergę, įteka į Nerį jos dešiniajame
+    krante, aukščiau Jonavos, ir vadinasi Šventoji (Swięta). Nieko
+    verta nuomonė, jog upė turinti tokį vardą dėl to, kad jos van­
+    deniu buvo krikštijami lietuviai, kai Jogaila visus atvertė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-054
+- c-055
+  santrauka: 'Narbutas aprašo autorių, giriantį Vladislovą Jogailą, jo brolius ir jų nuolankumą bažnyčiai dėl lietuvių atvertimo.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pasakiau „stebuklingu būdu“, kadangi apaš­
+    tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
+    kinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių
+    riterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus
+    patrauklumas. Lenkijos karalienės Jadvygos ranka, paduota
+    Vladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­
+    rius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija
+    jo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­
+    nyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie
+    didžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri
+    jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
+    džių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-055
+- c-056
+  santrauka: 'Narbutas rašo, kad Vladislovas Jogaila į Konstancos susirinkimą pasiuntė Teodorą Lenką skųsti kryžiuočių žiaurumų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Jeronimą sudegino gyvą Konstancoje 1416 metais bir­
+    želio 21 dieną2.
+    Tuometinės Lietuvos bažnyčios būklė ir smulkesnė jos is­
+    torija Konstancos susirinkimo tėvams šiaip nebuvo nežinoma,
+    nes Vladislovas Jogaila pasiuntiniu į tą susirinkimą specialiai
+    nusiuntė dominikoną, pramintą Teodoru Lenku (Theodoras
+    Polonus), kad jis išdėstytų skundus prieš kryžiuočius, savo žiau­
+    rumais atgrasančius lietuvius veiksmingai priimti šventąjį ti­
+    kėjimą. Apie tai žinome iš Dlugošo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-056
+- c-057
+  santrauka: 'Narbutas rašo, kad 1392 metais Vladislovas Jogaila pasiuntė Jeronimą Prahiškį pas Vytautą skelbti Lietuvoje krikščionių tikėjimo.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tas, apie kurį čia kalbama,
+    buvo vienuolis kamaldulis, skleidęs tikėjimą pagal katalikų bažny­
+    čios mokymą. Kilmė jo buvo Prahos čekas, kadangi jį vadina Prahiš-
+    kiu; antra, jeigu jis būtų nemokėjęs slaviškai, jo apaštalavimas būtų
+    buvęs neveiksmingas. Italijoje jis įstojo į vienuolyną, o sugrįžęs į tė­
+    vynę ir susidūręs su religiniais sąmaiščiais, kilusiais dėl Huso moky­
+    mo, jis išvyko į Lenkiją, o iš ten karalius Vladislovas Jogaila 1392
+    metais nusiuntė jį, kaip pasiryžusį skelbti Lietuvoje krikščionių tikė­
+    jimą, su laišku pas Vytautą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-057
 
 ## Ryšiai
-- Jogaila (kunigaikštis, XIV–XV a.) paskyre [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Jadvyga (Jogailos duktė)]] buvo_dukte Jogaila (kunigaikštis, XIV–XV a.)
 - Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Lenkija]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Krokuva]]
@@ -2511,6 +2721,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Didžioji Lenkija]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Liublinas]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Ostrovas]]
+- Jogaila (kunigaikštis, XIV–XV a.) paskyre [[objektai/asmenys/Skirgaila]]
 - Jogaila (kunigaikštis, XIV–XV a.) puole [[objektai/vietos/Dobrino žemė]]
 - Jogaila (kunigaikštis, XIV–XV a.) uzeme [[objektai/vietos/Brasta]]
 - Jogaila (kunigaikštis, XIV–XV a.) vede [[objektai/asmenys/Elžbieta]]
@@ -2523,10 +2734,10 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Vilnius]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Aukokalnis]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Kaunas]]
-- Jogaila (kunigaikštis, XIV–XV a.) puole [[objektai/vietos/Trakai]]
 - Jogaila (kunigaikštis, XIV–XV a.) uzeme [[objektai/vietos/Trakai]]
 - Jogaila (kunigaikštis, XIV–XV a.) valde [[objektai/vietos/Rusija]]
 - Jogaila (kunigaikštis, XIV–XV a.) kariavo_pries [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Jogaila (kunigaikštis, XIV–XV a.) puole [[objektai/vietos/Trakai]]
 - Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Lietuva]]
 - Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Polockas]]
 - Jogaila (kunigaikštis, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Trakai]]
@@ -2535,7 +2746,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Vilnius]]
 - Jogaila (kunigaikštis, XIV–XV a.) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Lenkija]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Lietuva]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Smolenskas]]
 - Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Haličas]]
 - Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Vroclavas]]
@@ -2553,6 +2763,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - Jogaila (kunigaikštis, XIV–XV a.) uzeme [[objektai/vietos/Gardinas]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Dubrovna]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Dubysa]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Lietuva]]
 - Jogaila (kunigaikštis, XIV–XV a.) reme [[objektai/asmenys/Skirgaila]]
 - Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Prūsija]]
 - Jogaila (kunigaikštis, XIV–XV a.) buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]

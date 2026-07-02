@@ -4,21 +4,24 @@ pavadinimas: 'Manvydas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
+  - '1276 m.'
   - '1396 m.'
-date_start: '1396'
-date_end: ''
+date_start: '1276'
+date_end: '1396'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 tags:
   - asmuo
   - didikas
   - karalius
   - kunigaikštis
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 ---
 # Manvydas
 
@@ -27,7 +30,6 @@ periodo_grupes:
 O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus. Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo].
 
 ## Teiginiai
-
 <a id="claim-t-87374"></a>
 - t-001
   global_id: t-87374
@@ -149,6 +151,25 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   ryšio_subjekto_parinkimas: Manvydas: llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Astikas: llm_allowed_candidate, person
   ryšio_paaiskinimas: Susitarimas su Astiku tiesiogiai rodo politinį bendradarbiavimą.
+
+<a id="claim-t-188582"></a>
+- t-007
+  global_id: t-188582
+  teiginys: 'Narbutas Manvydą laiko Gedimino ir Vidos sūnumi, gimusiu 1276 metais, o jo vardą aiškina kaip „Vidos pasaulis“.'
+  pagrindžia:
+    - c-007
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 363961-364296; hash=bf79869d138938eeb1a9cf3f8af61244872fe8ed201677c8b1d19ebe0a3ca10e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Gediminas: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Manvydas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Toliau tame pačiame sakinyje Manvydas nurodomas kaip vienas iš sūnų, todėl ryšys su Gediminu pagrįstas kontekstu.
 - susijęs iš Manvydo rūmai: Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus.
 - susijęs iš Manvydo rūmai: Kalno griūtis užslinko ant Manvydo rūmų, pridarė daug nuostolių, užpylė jo tarnus ir užvertė brangenybes.
 - susijęs iš Vilnelė: Pilies kalno pietų pusėje tarp kalno ir Vilnelės stovėjo didžiuliai Manvydo rūmai.
@@ -165,7 +186,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - susijęs iš Vilniaus pilies kalnas: 1396 m. Vilniaus pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų.
 - susijęs iš Vilniaus pilies kalnas: Vilniaus pilies kalnas nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.
 - susijęs iš Vilnius: 1396 m. Vilniuje pilies kalno nuošliaužos užslinko ant vaivados Manvydo rūmų, bet Aukštutinės pilies mūrai nenukentėjo.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176382|Gediminas]]: Gediminas Vilniuje pastatydino mūro tvirtovę, saugomą aukštų sienų ir trijų bokštų.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176382|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas Vilniuje pastatydino mūro tvirtovę, saugomą aukštų sienų ir trijų bokštų.
 - susijęs iš [[objektai/asmenys/Milonas.md#claim-t-87791|Milonas]]: Milonas buvo dvaro maršalka, dalyvavęs 1396 m. Vilniuje aktuotame dokumente.
 - susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-87792|Mingaila]]: 1396 m. Vilniuje duotame akte Mingaila dalyvavo tarp garbingų ir patikimų vyrų.
 - susijęs iš [[objektai/asmenys/Olelka.md#claim-t-87809|Olelka]]: Kopylę valdęs Olelka, Algirdo palikuonis, buvo įkalintas prieš diduomenei nutariant gelbėtis Žygimanto gyvybės kaina.
@@ -194,7 +215,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - susijęs iš [[objektai/asmenys/Astikas.md#claim-t-186182|Astikas]]: Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą, laikydamiesi senojo susitarimo su lenkais.
 - susijęs iš [[objektai/daiktai/Manvydo rūmai ir Aukštutinės pilies mūrai.md#claim-t-87083|Manvydo rūmai ir Aukštutinės pilies mūrai]]: 1396 metais pilies kalno nuošliaužos užslinko ant Manvydo rūmų, o Aukštutinės pilies mūrai nuostolių nepatyrė.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1396 m. Vilniuje Manvydas minėtas kaip Vilniaus vaivada tarp dokumento liudytojų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -341,10 +361,28 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Narbutas Manvydą laiko Gedimino ir Vidos sūnumi, gimusiu 1276 metais, o jo vardą aiškina kaip „Vidos pasaulis“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
+    Jaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės
+    bartininko Vidmanto iš Kuršo duktė. Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 - [[objektai/vietos/Manvydo rūmai]] priklause Manvydas
 - Manvydas buvo_sajungininkas_su [[objektai/asmenys/Astikas]]
 - [[objektai/asmenys/Astikas]] sudare_sutarti_su Manvydas
+- Manvydas buvo_sunus [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - [[objektai/daiktai/Manvydo rūmai ir Aukštutinės pilies mūrai]] priklause Manvydas
 - Manvydas gyveno [[objektai/vietos/Vilnius]]

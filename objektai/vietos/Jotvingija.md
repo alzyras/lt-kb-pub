@@ -72,7 +72,7 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178777|Jotvingiai]]: Per 1279 metų badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.
 - susijęs iš [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje.md#claim-t-31394|1279 m. badmetis Lietuvoje ir Jotvingijoje]]: Per 1279 m. badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikštį Vladimirą parduoti rugių.
 - susijęs iš Sūdavija: Sūdavija su Jotvingija buvo laikomos lietuvių kraštais, dėl kurių negalėjo kilti ginčas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184884|Vytenis]]: Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184884|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.
 - susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72078|Joanitų ordinas]]: Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178782|Jotvingiai]]: Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų ir badmečių.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-187707|Jotvingiai]]: Lietuvos metraštyje Vykintas vaizduojamas sidabru ir įvairiomis dovanomis palenkęs jotvingius ir pusę žemaičių.

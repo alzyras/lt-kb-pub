@@ -354,9 +354,9 @@ amziai:
 - susijęs iš [[objektai/asmenys/Cibulka.md#claim-t-100069|Cibulka]]: Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius Cibulka.
 - susijęs iš [[objektai/asmenys/Elžbieta (Vengrijos karalienė).md#claim-t-87494|Elžbieta (Vengrijos karalienė)]]: Vengrijos karalienė Elžbieta dalyvavo sėkmingose Jogailos derybose su Lenkijos didikais dėl Jadvygos rankos.
 - susijęs iš [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona).md#claim-t-173148|Elžbieta (Žygimanto Augusto žmona)]]: Elžbieta, Ferdinando duktė, 1543 m. ištekėjo už Žygimanto Augusto, 1545 m. mirė Vilniuje ir buvo palaidota katedroje.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176329|Gediminas]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po sapno pastatydino Aukštutinę mūro pilį ir medinę pilį, pavadintą Vilniumi.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176370|Gediminas]]: Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui, siedami jį su medžiokle Šventaragio slėnyje ir geležinio vilko sapnu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176400|Gediminas]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas medžioklės metu Šventaragio slėnyje sapnavo geležinį vilką.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176329|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po sapno pastatydino Aukštutinę mūro pilį ir medinę pilį, pavadintą Vilniumi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176370|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui, siedami jį su medžiokle Šventaragio slėnyje ir geležinio vilko sapnu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176400|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas medžioklės metu Šventaragio slėnyje sapnavo geležinį vilką.
 - susijęs iš [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras).md#claim-t-87680|Goštautas (Trakų vaivada, Barboros vyras)]]: Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė.
 - susijęs iš [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis).md#claim-t-60131|Henrikas (Vroclavo kunigaikštis)]]: Totoriai, įsiveržę į Vengriją ir Lenkiją, mūšyje nukovė Henriką, Vroclavo kunigaikštį.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89836|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Dusburgietis Hermano vadovavimo laiką sieja su Ordino privilegijų, dovanų ir valdų išplėtimu.
@@ -396,7 +396,6 @@ amziai:
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184858|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Po pergalės Vladislovas Jogailaitis pasiūlė broliui Jonui tartis dėl santarvės sudarymo.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184859|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176668|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto karūnacijos projektas siejamas su Lietuvos christianizacijos ir europeizacijos kontekstu.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176701|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto politika šaltinyje siejama su bažnytine politika, Lietuvos konversija ir Žemaičių krikštu.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176707|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto politika šaltinyje interpretuojama kaip orientuota į „švento valdovo“ įvaizdį.
 - susijęs iš [[objektai/asmenys/Winrichas von Kniprodė.md#claim-t-30470|Winrichas von Kniprodė]]: Winrichas von Kniprodė mirė tuo pat metu kaip jo maršalas Kuno von Hattensteinas, padėjęs Jogailai įveikti Kęstutį.
 - susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114075|Zigmantas I]]: 1429 m. sausio 9–29 d. Lucko suvažiavime Zigmantas I susitiko su Vytautu ir Jogaila aptarti Vidurio ir Rytų Europos politikos.
@@ -475,8 +474,6 @@ amziai:
 - susijęs iš Burcos žemė: Burcos žemė Transilvanijoje.
 - susijęs iš Dniepras: Plinijus du kartus minėjo neurus, pas kuriuos prasideda Dniepras, dar vadintas Borysthenu.
 - susijęs iš Dniepras: Dniepras, dar vadintas Borysthenu, buvo minimas kaip prasidedantis pas neurus.
-- susijęs iš Kaunas: 1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir ėmė siaubti kraštą.
-- susijęs iš Kaunas: 1385 metų rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną.
 - susijęs iš Kezmarkas: Vytautas nuvyko tartis į Vengrijos pasienio miestą Kezmarką.
 - susijęs iš Krokuva: Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, ten superkami Vilniui, o plienas ir geležis vežami iš Alkuskų kasyklos.
 - susijęs iš Krokuva: Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o ten superkami į Vilnių.

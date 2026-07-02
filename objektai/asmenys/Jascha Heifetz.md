@@ -56,7 +56,6 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
 - susijęs iš [[objektai/asmenys/Violeta Urmana.md#claim-t-78073|Violeta Urmana]]: Violeta Urmana buvo pristatyta kaip visose Europos scenose žinoma atlikėja.
 - susijęs iš [[objektai/daiktai/JAV vieno cento moneta.md#claim-t-64932|JAV vieno cento moneta]]: JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris.
 - susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-75613|„idealiąją Lietuvą“]]: „Idealiosios Lietuvos“ vaizdinyje Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR.
-- susijęs iš Kaunas: Emmanuelis Levinas gimė Kaune ir baigė gimnaziją.
 - susijęs iš Turkija: Davido Sucheto protėviai Suchedowitzai emigravo per Turkiją į Pietų Afrikos Respubliką.
 ## Reikšmingi paminėjimai
 

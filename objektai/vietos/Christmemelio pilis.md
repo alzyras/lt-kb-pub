@@ -58,10 +58,9 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
     go viltys paimti pilį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
 

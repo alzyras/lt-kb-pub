@@ -4,17 +4,17 @@ pavadinimas: 'Henrikas Latvis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos: []
 date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai: []
+periodo_grupes: []
 tags:
   - autorius
-amziai:
-  - 'L'
-periodo_grupes: []
 ---
 # Henrikas Latvis
 
@@ -23,7 +23,6 @@ periodo_grupes: []
 Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimynų šaltiniai (Livonijoje Henrikas Latvis, Eiliuotinė kronika; Volinijoje Ipatijaus kronika), iškeldami gerą pagonių apsiginklavimą.
 
 ## Teiginiai
-
 <a id="claim-t-171490"></a>
 - t-001
   global_id: t-171490
@@ -76,9 +75,27 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   ryšio_subjekto_parinkimas: Henrikas Latvis: owner_note_path, author, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=45
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Latvis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188402"></a>
+- t-004
+  global_id: t-188402
+  teiginys: 'Narbutas rašė, kad Henriko Latvio kronikos XVII a. Glumerio pastabose 1243 m. lietuvių šūkis aiškintas kaip kreipinys į karo dievą.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 171752-172197; hash=3deab359a1c44e030933da9cbad9e3c3d01fb61dac3fb913b7044ed043f74f91; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Glumeris: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas Latvis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Glumeris: mention_match, author, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Latvis" parinktas kaip owner_note_path. Targetas "Glumeris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Henrikas.md#claim-t-10128|Henrikas]]: Henrikas Latvis siejamas su „Livonijos kronika“, kurioje aprašomas lietuvių būdas kovoje prie Dauguvos 1207 m.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Henrikas Latvis „Livonijos kronikoje“ aprašė Lietuvos valdžios siekį valdyti vietos krikščionių ir pagonių gentis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -144,3 +161,22 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-004
+  santrauka: 'Narbutas rašė, kad Henriko Latvio kronikos XVII a. Glumerio pastabose 1243 m. lietuvių šūkis aiškintas kaip kreipinys į karo dievą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Henriko Latvio kronikos prierašuose, arba pastabose, ku­
+    rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias
+    turiu rankoje, tarp nedaugelio Lietuvos istoriją liečiančių da­
+    lykų yra parašyta, kad, kai 1243 metais Livonijos riteriai, šauk­
+    dami tikrojo Dievo vardą, užpuolė lietuvius, šie savo ruožtu
+    rėkė: JogKauou, jogKauaile! („Jok Kove, jok Kovaiti!“). Anot
+    autoriaus, tai buvęs šios tautos karo šūkis, arba kreipinys į jų
+    karo dievą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004

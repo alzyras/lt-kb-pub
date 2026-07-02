@@ -3,16 +3,17 @@ tipas: autorius
 pavadinimas: 'Ignacas Onacevičius'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos: []
 date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai: []
+periodo_grupes: []
 tags:
   - autorius
   - mokslininkas
-amziai: []
-periodo_grupes: []
 ---
 # Ignacas Onacevičius
 
@@ -21,7 +22,6 @@ periodo_grupes: []
 Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, teikęs Balinskiui pastabas, žinias ir istorinę dokumentinę pagalbą.
 
 ## Teiginiai
-
 <a id="claim-t-55004"></a>
 - t-001
   global_id: t-55004
@@ -109,7 +109,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   global_id: t-81904
   teiginys: 'Ignacas Onacevičius pateikė pastabų, kuriomis M. Balinskis rėmėsi taisydamas žygio į Vilnių aprašymą.'
   sudarymo_pagrindimas: 'Citata pagrindžia Onacevičiaus pastabų panaudojimą aprašymui taisyti.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_group: [[objektai/grupes/Filomatai ir filaretai|Filomatai ir filaretai]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -157,7 +157,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8693a4b1e9afe6406179d66fec0c2b40e31f682cd165a6876a5e94d12cd10a64; match=fallback; occurrences=0
+  saltinio_vieta: 6622-7113; hash=fb5448ba5e2b681869e28619c93fb8cc0725870ad338f7ce55859a6ae7e73823; match=exact
   sprendimo_priezastis: gap::authors
   ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -175,6 +175,26 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
   pagrindžia:
     - c-005
+
+<a id="claim-t-188405"></a>
+- t-009
+  global_id: t-188405
+  teiginys: 'Ignotas Onacevičius dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas krašto praeities studijomis.'
+  pagrindžia:
+    - c-007
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 6622-7113; hash=fb5448ba5e2b681869e28619c93fb8cc0725870ad338f7ce55859a6ae7e73823; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Varšuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ignacas Onacevičius: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Varšuva: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ignacas Onacevičius" parinktas kaip owner_note_path. Targetas "Varšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje.md#claim-t-189636|1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje]]: Onacevičiaus periodizacijoje aiškesnės Lietuvos istorijos epocha baigiasi 1386 m., kai Jogaila vedė Jadvygą ir Lietuvoje buvo įvesta krikščionybė.
 - susijęs iš Johanneso Voigto Prūsijos istorija, V tomas: Balińskis pataisytą žygio į Vilnių aprašymą grindė Johanneso Voigto Prūsijos istorijos V tomu ir Ignaco Onacevičiaus pastabomis.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103038|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103050|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
@@ -186,9 +206,9 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
 - susijęs iš Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
 - susijęs iš Vilnius: 1581 m. Vilniuje įvesdintas Lietuvos Tribunolas miestui suteikė daugiau orumo ir naudos.
 - susijęs iš Vilnius: 1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje.
+- susijęs iš Vilnius: Pasakojama, kad į Vilniaus bažnyčią suvežtą Saurų dvaro biblioteką ir rankraščius sargas už rublį leisdavo išgabenti.
 - susijęs iš [[objektai/zodynas/Ordino maršalas didysis maršalas.md#claim-t-86490|Ordino maršalas didysis maršalas]]: Ordino maršalas Engelhardas Rabė vadovavo žygiui, nes didysis magistras Konradas Ciolneris sirgo sunkia liga.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -330,3 +350,23 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+- c-007
+  santrauka: 'Ignotas Onacevičius dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas krašto praeities studijomis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Išsamesnėms krašto praeities studijoms istoriką galė­
+    jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
+    „Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­
+    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
+    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
+    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
+    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
+    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
+    kus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009

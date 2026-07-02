@@ -28,6 +28,7 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114003|Valerijonas Protasevičius (vyskupas)]]: Vilniaus vyskupas Valerijonas Protasevičius paprieštaravo, kad į sutartį būtų įtraukta sąlyga dėl Augustino tikėjimo laisvo išpažinimo.
+- susijęs iš [[objektai/asmenys/Šventasis Augustinas.md#claim-t-190121|Šventasis Augustinas]]: Narbutas rašė, kad Šventasis Augustinas kryžiaus ženklą siejo su egiptiečių amžinojo gyvenimo vaizdavimu.
 - susijęs iš [[objektai/autoriai/Lindenblattas Joannes von der Pusilie.md#claim-t-88028|Lindenblattas Joannes von der Pusilie]]: Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.
 - susijęs iš [[objektai/autoriai/Lindenblattas Johannes Lindenblatt.md#claim-t-87977|Lindenblattas Johannes Lindenblatt]]: Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.
 - susijęs iš [[objektai/zodynas/Augsburgo Augustino tikėjimas.md#claim-t-86514|Augsburgo Augustino tikėjimas]]: Gotardas Ketleris siekė, kad perduodamų apskričių žmonėms būtų leista laisvai išpažinti Augustino tikėjimą.

@@ -78,6 +78,7 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
 - susijęs iš Michał Baliński, Vilniaus miesto istorija (2007 m.): 2007 m. lietuvišką leidimą išleido MINTIS; bibliografinėje eilutėje nurodytas ISBN 978-5-417-00907-5.
 - susijęs iš Michał Baliński, Vilniaus miesto istorija (2007 m.): 2007 m. leidinys verstas iš Michało Balińskio veikalo „Historya Miasta Wilna“, 1836-1837 m. spausdinto Vilniuje Antono Marcinovskio spaustuvėje.
 - susijęs iš Lietuva: Mykolo Balinskio veikalas laikomas informacijos šaltiniu apie ikikrikščionišką Lietuvos valstybės istoriją.
+- susijęs iš Lietuva: Narbutas citavo priekaištą, kad per 400 metų Lietuvos praeitimi rūpinosi tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas.
 ## Reikšmingi paminėjimai
 
 - c-001

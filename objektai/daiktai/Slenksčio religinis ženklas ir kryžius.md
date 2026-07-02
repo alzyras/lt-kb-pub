@@ -1,0 +1,105 @@
+---
+tipas: daiktas
+pavadinimas: 'Slenksčio religinis ženklas ir kryžius'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+sukurta: ''
+atnaujinta: ''
+---
+# Slenksčio religinis ženklas ir kryžius
+
+## Santrauka
+
+Narbutas rašė, kad šis dievaitis buvo garbinamas virš slenksčio, o vaizduojamas galbūt medyje ar lentelėje įpjautu ženklu. Narbutas nurodė, kad Lietuvos kaimiečiai statydami namą virš durų paprastai įpjaudavo kryžių arba nutapydavo jį raudonais dažais.
+
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+<a id="claim-t-189702"></a>
+- t-001
+  global_id: t-189702
+  teiginys: 'Narbutas rašė, kad šis dievaitis buvo garbinamas virš slenksčio, o vaizduojamas galbūt medyje ar lentelėje įpjautu ženklu.'
+  pagrindžia:
+    - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 276943-277549; hash=65e9f7377353d197299a9750724a07b857b3b1454f401dd94c4896dc8be22507; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Slavai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Slenksčio religinis ženklas ir kryžius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Slavai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Slenksčio religinis ženklas ir kryžius" parinktas kaip owner_note_path. Targetas "Slavai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+<a id="claim-t-189703"></a>
+- t-002
+  global_id: t-189703
+  teiginys: 'Narbutas nurodė, kad Lietuvos kaimiečiai statydami namą virš durų paprastai įpjaudavo kryžių arba nutapydavo jį raudonais dažais.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 278004-278252; hash=2380cc0ede4c7873034298eb8a03119772b943172935b71cbc6a6dec4bac2f05; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Slenksčio religinis ženklas ir kryžius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Slenksčio religinis ženklas ir kryžius" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas rašė, kad šis dievaitis buvo garbinamas virš slenksčio, o vaizduojamas galbūt medyje ar lentelėje įpjautu ženklu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Be to, žemdirbiai jam dar paskirdavo vasa­
+    rojaus pasėlius, kur tam tikruose rėžiuose jam sėdavo, idant
+    teiktųsi būti ir dirvų globėju, kaip kad namų sergėtoju. Šį die­
+    vaitį garbino visiškai taip pat, kaip slavų Pokuitį, skirtumas tik
+    tas, kad vieta jam būdavo skiriama ne kampe, kaip Rusioje,
+    kur ir dabar kabinami šventieji paveikslai, bet virš slenksčio, o
+    jeigu lūšnelė apšildoma be kamino, išvesto per stogą, tai iš
+    lauko pusės virš prieangio durų. Tačiau nesame tikri, kaip tas
+    dievaitis buvo vaizduojamas; atrodo, tai buvo įpjautas medyje
+    arba lentelėje tam tikras ženklas arba mitinis hieroglifas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Narbutas nurodė, kad Lietuvos kaimiečiai statydami namą virš durų paprastai įpjaudavo kryžių arba nutapydavo jį raudonais dažais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­
+    se“. Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­
+    kala išorėje, virš pirkios arba svirno durų. Statydami namą,
+    paprastai toje vietoje įpjauna kryžių arba jį nutapo raudonais
+    dažais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002

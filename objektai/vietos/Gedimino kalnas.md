@@ -34,8 +34,8 @@ Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž.
   ryšio_subjekto_parinkimas: Gedimino kalnas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino kalnas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,4 +52,4 @@ Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] buvo_palaidotas Gedimino kalnas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] buvo_palaidotas Gedimino kalnas

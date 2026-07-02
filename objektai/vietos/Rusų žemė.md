@@ -127,15 +127,13 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
     čiu Zigmantu — į Liubliną 5 .
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
     - t-003
     - t-004
-
 - c-002
   santrauka: 'Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -150,10 +148,9 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
     kad aš ją galėčiau pasilaikyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
 

@@ -86,16 +86,20 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
 - susijęs iš Dubrovno pavietas: Dubrovno pavietas atiteko Vilniaus katedrai ir kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182813|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila, siekdamas atgauti paveldą ir atkeršyti už Vaidilos mirtį, sutelkė pajėgas ir nusprendė užimti Vilnių bei Trakus.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179311|Lietuviai]]: Palei Vilnią gyvenę lietuviai ir Perkūną garbinę vaidilos citatoje laikomi būsimo Vilniaus užuomazga iki Gedimino.
+- susijęs iš [[objektai/grupes/Vaidilos.md#claim-t-189442|Vaidilos]]: Narbutas abejojo pasakojimu, kad vaidila galėjęs pagalve uždusinti ligonį, jei būrimai rodė neišvengiamą mirtį.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172842|Vilniaus miestiečių luomas]]: Iki Gedimino Vilniaus būsimo miesto užuomazgą sudarė palei Vilnią gyvenę lietuviai, vaidilos ir jų svitos žmonės.
 - susijęs iš [[objektai/ivykiai/Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį.md#claim-t-185772|Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį]]: Slaptoje sąmokslo sutartyje buvo numatyta nužudyti Kęstutį ir jo palikuonis, o Vaidilai atlyginti nugalėtų priešų valdomis.
+- susijęs iš [[objektai/paprociai/Išpažintis per aukojimo apeigas.md#claim-t-189804|Išpažintis per aukojimo apeigas]]: Grunau pasakojimu, per ožio aukojimą vyrai klaupėsi prieš vaidilą, išpažindavo nuodėmes ir gaudavo fizinę atgailą.
+- susijęs iš [[objektai/paprociai/Permaldavimo aukos Pokliui ir kraujo atnašavimas.md#claim-t-189774|Permaldavimo aukos Pokliui ir kraujo atnašavimas]]: Narbutas rašė, kad vėliau kruviną permaldavimo auką pakeitė vaidilos kraujo atnašavimas ir gyvulio galvos padėjimas prie Pokliaus stabo.
 - susijęs iš Dubrovno pavietas: Dubrovno pavietas atiteko Vilniaus katedrai ir kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš [[objektai/zodynas/žyniai vaidilos raganos.md#claim-t-183487|žyniai vaidilos raganos]]: „Pirmines“ šventvietes turėjo sergėti žyniai, vaidilos arba raganos.
 - susijęs iš [[objektai/zodynas/žyniai vaidilos raganos.md#claim-t-22357|žyniai vaidilos raganos]]: Žyniai, vaidilos ir raganos turėjo sergėti „pirmines“ šventvietes.
+- susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-188610|Simonas Grunau]]: Narbutas perteikė Grunau pasakojimą, kad šis atsitiktinai pateko į kaimą per ožio aukojimą ir turėjo prisiekti Perkūnui neišduoti apeigų vyskupui.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173225|Vladislovas Jogaila]]: Jogaila sutelkė nemažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173239|Vladislovas Jogaila]]: Vladislovas Jogaila katedrai ir vyskupams skyrė nemažą Vilniaus miesto dalį nuo pilies iki Šv. Mikalojaus kapinių.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-10107|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1430 m. spalio 27 d. mirė Vytautas Didysis Kęstutaitis, šaltinyje įvardijamas valstybės galybės kūrėju.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176729|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Palikdamas Vilnių, Kęstutis Trakų pilies gynybą ir valdžią pavedė savo sūnui Vytautui.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179302|Lietuviai]]: Palei Vilnios upę gyvenę senbuviai lietuviai sudarė būsimo Vilniaus miesto užuomazgą dar iki Gedimino.
+- susijęs iš [[objektai/daiktai/Pokliaus stabas.md#claim-t-189699|Pokliaus stabas]]: Narbutas pasakoja, kad prie Pokliaus stabo būdavo dedama nurodyto žmogaus galva kaip dievams skirta permaldavimo auka.
 - susijęs iš [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.).md#claim-t-86912|Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]: Jogailos šalininkai Vilniuje naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.
 - susijęs iš [[objektai/ivykiai/Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį.md#claim-t-185773|Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį]]: Vaidilos patvarkymu Jogaila ir kryžiuočiai slaptai pasirašė susitarimą prieš stojimą į atvirą kovą.
 - susijęs iš Bokštai: Bokštai buvo tarp valdų, kuriomis iškilmingu dovanojimo aktu buvo aprūpinta Vilniaus katedra.
@@ -114,6 +118,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
 - susijęs iš Verkiai: Verkių kaimai prie Vilniaus buvo įtraukti į valdas, kuriomis iškilmingu dovanojimo aktu aprūpinta Vilniaus katedra.
 - susijęs iš Vilnius: Vladislovas Jogaila skyrė Vilniaus katedrai ir vyskupams miesto plotą nuo pilies iki Šv. Mikalojaus kapinių.
 - susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86454|Arkikomtūras]]: Vaidila 1380 m. Prūsijoje paruošė dirvą Jogailos slaptam sandėriui su arkikomtūru.
+- susijęs iš [[objektai/zodynas/Išpažintis.md#claim-t-189298|Išpažintis]]: Narbutas, remdamasis Strijkovskiu ir Grunau, išpažintį priskiria lietuvių atnašavimo apeigoms.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113662|pavietas]]: Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.
 - susijęs iš [[objektai/zodynas/vergas.md#claim-t-187553|vergas]]: Lietuvos metraštis Vaidilą vadina didžiojo kunigaikščio Algirdo tarnu ir vergu, kuris iš kepėjo iškilo iki Lydos valdytojo.
 ## Reikšmingi paminėjimai

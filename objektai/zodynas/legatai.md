@@ -46,7 +46,7 @@ Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti 
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173145|Dovydas (Gardino pilininkas)]]: Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173146|Dovydas (Gardino pilininkas)]]: Lapkričio 21 d. Gardino pilininkas Dovydas su galinga kariuomene įsibrovė į Mazoviją ir nusiaubė Pultuską bei 130 kaimų.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-184058|Dovydas (Gardino pilininkas)]]: Dovydas, Gardino pilininkas, lapkričio 21 d. įsibrovė į Mazoviją ir nusiaubė Plocko vyskupo Pultuską.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176336|Gediminas]]: Popiežiaus legatai išsiuntė pasiuntinybę pas Gediminą ištirti, ar lietuvių karalius su savo žmonėmis nori priimti krikštą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176336|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Popiežiaus legatai išsiuntė pasiuntinybę pas Gediminą ištirti, ar lietuvių karalius su savo žmonėmis nori priimti krikštą.
 - susijęs iš [[objektai/asmenys/Ivanas Vasiljevičius.md#claim-t-184713|Ivanas Vasiljevičius]]: Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose.
 - susijęs iš [[objektai/asmenys/Vasilijus.md#claim-t-185979|Vasilijus]]: Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178952|Kryžiuočių ordinas]]: Matomai Rygoje buvo įsitikinimas, kad kryžiuočiai Lietuvą greitai įveiks.

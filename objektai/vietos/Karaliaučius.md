@@ -7,6 +7,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -24,11 +25,11 @@ variantai:
   - 'Karaliaučius'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIII'
   - 'XIX'
+tags:
+  - vieta
 ---
 # Karaliaučius
 
@@ -51,7 +52,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
 Šaltinyje Karaliaučius pasirodo tiek kryžiuočių karo ir pilių sistemos, tiek Lietuvos prekybos ir politinės geografijos kontekste. Miestas siejamas su Ordino sostinės perkėlimu, eksportu ir pirklių trauka karo metu.
 
 ## Teiginiai
-
 <a id="claim-t-135435"></a>
 - t-001
   global_id: t-135435
@@ -249,7 +249,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135446
   teiginys: 'Karaliaučius, be to, buvo svarbus komunikacijos mazgas kelyje į Livoniją.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Prūsų žemė'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-038
   irodymo_stiprumas: 0.00
@@ -329,7 +329,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135453
   teiginys: 'Vytauto laikais Lietuva užmezgė gyvus prekybos ryšius su ordino centrais Karaliaučiumi ir Dancigu.'
   sudarymo_pagrindimas: 'Pridėtas aiškus laikotarpis ir veiksnys iš citatos.'
-  susije_objektai: 'llm_object: Dancigas; llm_object: Karaliaučius; mentioned_place: Dancigas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsų žemė'
+  susije_objektai: 'llm_object: Dancigas; llm_object: Karaliaučius; mentioned_place: Dancigas; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   semantiniai_rysiai: 'Lietuva prekiavo su Karaliaučius'
   pagrindžia:
     - c-028
@@ -796,7 +796,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a0c936a95fca446b2c1448f87effc0a9daaf0485658f004b740b2453c470927b; match=fallback; occurrences=0
+  saltinio_vieta: 169886-170548; hash=1f95f595f0c730d3e60d0886326ae27883d34366e66bcee4b2a256cea01e6445; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Lietuva: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -814,7 +814,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindžia:
     - c-024
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 347149-347398; hash=2e894a2b5c6b3fcc988bb6276ad33e3c68085a552431394f54806e15aaf1b685; match=exact
+  saltinio_vieta: 757427-758001; hash=cf8b3368ec02edd693a884b5e2f812517c46206e80981bd8b7dd8de559dcefc7; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Livonija: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -829,7 +829,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135492
   teiginys: 'Prūsų sukilimo metu nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo ordino pilys.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs fragmentas ir atkurtas pilnas sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Prūsų žemė'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -945,6 +945,43 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Breslavas: mention_match, place, gap=26
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Breslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188705"></a>
+- t-059
+  global_id: t-188705
+  teiginys: 'Narbutas perduoda jam sakytą žinią, kad Karaliaučiuje buvusi Kęstučio vėliava su šuoliuojančiu juodu žirgu ir juodu gaidžiu.'
+  pagrindžia:
+    - c-043
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 169886-170548; hash=1f95f595f0c730d3e60d0886326ae27883d34366e66bcee4b2a256cea01e6445; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188706"></a>
+- t-060
+  global_id: t-188706
+  teiginys: 'Narbutas svarstė, ar Livonijos broliai, lankydavęsi Karaliaučiuje, galėjo informuoti kroniką ten rašiusį Dusburgietį.'
+  pagrindžia:
+    - c-044
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 757427-758001; hash=cf8b3368ec02edd693a884b5e2f812517c46206e80981bd8b7dd8de559dcefc7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: prekiavo_su -> Dancigas: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karaliaučius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Dancigas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sieja Karaliaučių ir Dancigą kaip ordino prekybos centrus, su kuriais buvo užmegzti prekybiniai ryšiai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178861|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-182899|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
 - susijęs iš Codex Diplomaticus Prussicus: „Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m.
@@ -955,7 +992,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
 - susijęs iš [[objektai/posakiai/Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos ... nes jie yra mano tėvų palikimas.md#claim-t-59157|Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos ... nes jie yra mano tėvų palikimas]]: 1413 m. Salyno derybose Vytautas pareiškė, kad Prūsai buvę jo tėvų žemė ir kad jis reikalausiąs jų iki Osos.
 - susijęs iš Livonija: Karaliaučius buvo svarbus komunikacijos mazgas kelyje į Livoniją.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1760,11 +1796,59 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-058
+- c-043
+  santrauka: 'Narbutas perduoda jam sakytą žinią, kad Karaliaučiuje buvusi Kęstučio vėliava su šuoliuojančiu juodu žirgu ir juodu gaidžiu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Olafo bažnyčioje, pats
+    mačiau medinį kotą su kažkokio audeklo gabalu, kuriame bu­
+    vo žalvarinis balandžio dydžio gaidys; tatai laikyta pagonybės
+    laikų vėliava, paimta Latvijoje. Man sakė, kad Karaliaučiuje
+    buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­
+    das žirgas, o ant jo -  juodas gaidys.
+    1809 metais Marijampolės apskrityje, netoli nuo kairiojo
+    Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­
+    liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil­
+    žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų:
+    lai buvo rūdžių suėsti kalavijai, kardai, berdyšiai, skydai, ant­
+    veidžiai, kai kurie variniai ir sidabriniai daiktai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-059
+- c-044
+  santrauka: 'Narbutas svarstė, ar Livonijos broliai, lankydavęsi Karaliaučiuje, galėjo informuoti kroniką ten rašiusį Dusburgietį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kaip mums rodo vietos tyrimai, Stenderis lat­
+    vių gramatikoje šiuo klausimu šiek tiek suklydo.
+    0 Betgi Livonijos kryžiuočiai patys kariavo su krivičiais; Livoni­
+    jos broliai lankydavosi Karaliaučiuje, kuriame Dusburgietis rašė kro­
+    niką; argi nebūtų apšvietę to, kuris taip uoliai tyrė visa, kas susiję su
+    istorija?
+    420
+
+    ## Puslapis 420
+
+    Toliau būtų galima pasakyti: Dusburgiečio žinia apie krivį
+    todėl darosi labai įtartina, kad, pasak jo, vyriausiojo žynio val­
+    džia apėmė ne tik Prūsiją, bet ir Lietuvą bei Latviją, nors tų
+    kraštų istorijos šaltiniai to visiškai nežino7.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-060
 
 ## Ryšiai
 - [[objektai/asmenys/Ignas Onacevičius]] keliavo_i Karaliaučius
-- [[objektai/vietos/Lietuva]] prekiavo_su Karaliaučius
 - Karaliaučius priklause [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Lietuva]] prekiavo_su Karaliaučius
 - [[objektai/grupes/Vokiečiai]] keliavo_i Karaliaučius
 - [[objektai/vietos/Vilnius]] prekiavo_su Karaliaučius
 - Karaliaučius priklause [[objektai/grupes/Kryžiuočių ordinas]]

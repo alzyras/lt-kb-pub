@@ -204,7 +204,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176301|Algirdas (Lietuvos valdovas)]]: Algirdas 1358 m. derybose su Karoliu IV reikalavo iškelti kryžiuočius į rytų stepes ir sugrąžinti Lietuvai vakarines baltų žemes.
 - susijęs iš [[objektai/asmenys/Dargis.md#claim-t-60261|Dargis]]: Dargis buvo Žiokos valsčiuje gyvenęs prūsas, nepakentęs baltų žirgų ir po Ditricho bandymų atsisakęs prietaro.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59839|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05175|Gediminas]]: Gediminas jungė kitų baltų žemes į savo valstybę, paimdamas ir dalį Jotvingos.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05175|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas jungė kitų baltų žemes į savo valstybę, paimdamas ir dalį Jotvingos.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175186|Herkus Mantas]]: Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudeginto miestiečio burnos išskrendant baltą balandį.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-05200|Traidenis (valdovas, XIII a.)]]: Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu baltų žemių jungėju.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90058|Traidenis (valdovas, XIII a.)]]: Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose.
@@ -220,6 +220,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - susijęs iš [[objektai/autoriai/Labuda G.md#claim-t-64699|Labuda G]]: G. Labuda Vitlando pavadinimą siejo su baltų žodžiu „vidus“ ir lygino jį su latvių Vidzeme.
 - susijęs iš [[objektai/autoriai/M. Vasmeris.md#claim-t-30852|M. Vasmeris]]: M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
 - susijęs iš [[objektai/autoriai/Nepokupnas A.md#claim-t-60848|Nepokupnas A]]: A. Nepokupnas 1983 m. paskelbė darbą „Baltai slavų giminaičiai“.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188459|Petras Dusburgietis]]: Narbutas Petrą Dusburgietį pasitelkia liudydamas, kad lietuvės vilkėjo drobinius baltus ir dažytus rūbus, o vasarą juos vilkėjo ir vyrai.
 - susijęs iš [[objektai/autoriai/Schall H.md#claim-t-60783|Schall H]]: H. Schallas 1966 m. žurnale „Baltistica“ paskelbė straipsnį apie baltų vandenvardžius Aukštutinės Havelio upyne.
 - susijęs iš [[objektai/autoriai/Sobolevskij.md#claim-t-30985|Sobolevskij]]: Sobolevskij dar prieš Pirmąjį pasaulinį karą teigė, kad priešistoriniais laikais baltai gyveno gerokai toliau į rytus.
 - susijęs iš [[objektai/autoriai/V. Mažiulis.md#claim-t-64859|V. Mažiulis]]: V. Mažiulio tyrimai rodė, kad vakarų ir rytų baltų tarmių skirtingumo laipsnis mažesnis, nei anksčiau manyta.
@@ -228,10 +229,12 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - susijęs iš [[objektai/autoriai/Непокупный А. П.md#claim-t-60663|Непокупный А. П]]: Непокупный А. П. 1983 m. Vilniuje išleido darbą „Baltai slavų giminaičiai“.
 - susijęs iš [[objektai/daiktai/Balti vilnoniai marškiniai.md#claim-t-186424|Balti vilnoniai marškiniai]]: Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas.
 - susijęs iš [[objektai/daiktai/Gyvatgalviai kapliai.md#claim-t-89427|Gyvatgalviai kapliai]]: Žalvario amžiuje gyvatgalviai kapliai buvo paplitę į vakarus iki Persantės ir laikomi būdingais baltų kultūrinei sričiai.
+- susijęs iš [[objektai/daiktai/Vaidilų apeiginiai drabužiai.md#claim-t-189664|Vaidilų apeiginiai drabužiai]]: Narbutas vaidilų apeiginį viršutinį drabužį aprašė kaip ilgą, baltu drobiniu apvadu apsiūtą rūbą su trimis sagomis ir virvelinėmis kilpomis.
 - susijęs iš [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“.md#claim-t-40862|Baltų kovų brolija „Vilkatlakai“]]: Baltų kovų brolija „Vilkatlakai“ rekonstravo XIII-XIV a. pradžios lietuvių karį.
 - susijęs iš [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“.md#claim-t-40863|Baltų kovų brolija „Vilkatlakai“]]: Baltų kovų brolija „Vilkatlakai“ rekonstravo X-XI a. Vakarų Europos dviašmenį kalaviją.
 - susijęs iš [[objektai/grupes/Baltų žyniai.md#claim-t-58993|Baltų žyniai]]: Baltų religijoje, tikėtina, buvo vyriausiųjų ir žemesnio rango žynių, atlikdavusių pagoniškas laidotuvių apeigas.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88533|Bartai]]: Bartai buvo viena iš vakarinių baltų, arba prūsų, genčių, žinomų Rytprūsiuose.
+- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188192|Herulai]]: Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175530|Kalavijuočių ordinas]]: 1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175544|Kalavijuočių ordinas]]: 1202 m. dabartinėje Latvijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175546|Kalavijuočių ordinas]]: 1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti, prievarta pakrikštyti ir pajungti pagonis baltus.
@@ -250,8 +253,10 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - susijęs iš [[objektai/ivykiai/Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo.md#claim-t-62247|Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo]]: Dusburgiečio pasakojime prūsas Dargis po ketvirto balto žirgo bandymo įtikėjo ir tapo uoliu tikėjimo šalininku.
 - susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59728|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Lietuvos ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš Pavyslyje įsikūrusį Kryžiuočių ordiną.
 - susijęs iš [[objektai/paprociai/Lados laikotarpio baltų gaidžių aukos, viešos puotos, šokiai ir dainos.md#claim-t-187837|Lados laikotarpio baltų gaidžių aukos, viešos puotos, šokiai ir dainos]]: Narbutas Lados laikotarpiu laiko gegužės 25–birželio 25 d. tarpsnį, kai, jo teigimu, lietuviai aukodavo baltus gaidžius, rengdavo puotas, šokdavo ir dainuodavo.
+- susijęs iš [[objektai/paprociai/Lietuvonio, Srūčio-Mėletėlės ir Gulbio aukojimo bei nusilenkimo praktikos.md#claim-t-189806|Lietuvonio, Srūčio-Mėletėlės ir Gulbio aukojimo bei nusilenkimo praktikos]]: Narbutas Lietuvonį apibūdino kaip lietaus dievaitį, kuriam kaip auka būdavusios atnašaujamos įvairiaplunksnės baltai raibos vištos.
 - susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-184238|Lietuvos krikšto apeigos]]: Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.
 - susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-93042|Lietuvos krikšto apeigos]]: Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.
+- susijęs iš [[objektai/paprociai/Vaidilų apeiginė apranga ir žalumynų vainikai tarnaujant dievams.md#claim-t-189945|Vaidilų apeiginė apranga ir žalumynų vainikai tarnaujant dievams]]: Vaidilos tarnaudami dievams dėvėdavo ilgą viršutinį drabužį su baltu drobiniu apvadu ir žalumynų vainikus.
 - susijęs iš [[objektai/posakiai/moterų kraštas.md#claim-t-28744|moterų kraštas (kraštas)]]: Adomas Bremenietis minėjo moterų „karalystę“, nors rytinių baltų vardų apskritai nepaminėjo.
 - susijęs iš Anonimo, vad. Martyno Galio, kronika: XII a. pradžioje surašytoje Anonimo, vadinamo Martynu Galiu, kronikoje iš baltų buvo žinomas tik prūsų vardas.
 - susijęs iš Geografija: Klaudijas Ptolemajas „Geografijoje“ pateikė galindų ir sūdinų vardus kaip du neabejotinus baltų kilčių vardus.
@@ -285,12 +290,14 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - susijęs iš Pripetės pelkės: Pripetės pelkės ilgus amžius iš pietų pusės saugojo baltus kaip sunkiai pereinama gamtinė kliūtis.
 - susijęs iš Romovė Romuva: Romovė, arba Romuva, Dusburgiečio duomenimis buvo prūsų, lietuvių ir kitų baltų religinio kulto centras.
 - susijęs iš Vysla: Kronikos įvade Vyslos žemupys nurodomas kaip viena Kryžiuočių ordino ekspansijos į baltų žemes ploto riba.
+- susijęs iš Vysla: Narbutas mitologiniame aiškinime siejo Krivių Krivaičio valdžios ribas su žemėmis nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.
 - susijęs iš [[objektai/zodynas/Romuva ir krivis.md#claim-t-75584|Romuva ir krivis]]: Šio leidimo komentare `Romovė`, `Romuva`, `Romow`, `Rômowe` ir `Romava` siejamos su prūsų, lietuvių ir kitų baltų religiniu kulto centru.
 - susijęs iš [[objektai/zodynas/baltų sąjunga federacija.md#claim-t-58893|baltų sąjunga federacija]]: Baltų sąjunga–federacija apibūdinama kaip Lietuvos vadovaujamas valstybingumo raidos etapas kovoje prieš feodalų agresiją.
 - susijęs iš [[objektai/zodynas/baltų sąjunga federacija.md#claim-t-58894|baltų sąjunga federacija]]: Mindaugas siekė paversti Lietuvą bendrąja baltų valstybe, apimančia Livoniją ir Prūsiją.
 - susijęs iš [[objektai/zodynas/baltų sąjunga.md#claim-t-71208|baltų sąjunga]]: Baltų sąjunga apibūdinama kaip Lietuvos vadovaujamas valstybingumo raidos etapas kovoje prieš feodalų agresiją.
 - susijęs iš [[objektai/zodynas/baltų tautų terminas.md#claim-t-02960|baltų tautų terminas]]: Svetimšaliai lietuvių kilmės tautoms vadinti vartojo baltų tautų terminą.
 - susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75553|istorinė Lietuva]]: Manoma, kad be vokiečių puolimo ir slavų ekspansijos Lietuvos vardas būtų aprėpęs platesnes baltų genčių žemes.
+- susijęs iš [[objektai/zodynas/kabinetinė mitologija.md#claim-t-189300|kabinetinė mitologija]]: Kabinetinės mitologijos sąvoka čia taikoma faktams, kuriuos tyrinėtojams reikia atskirti nuo lietuvių, prūsų, latvių ar kitų baltų mitologijos medžiagos.
 - susijęs iš [[objektai/zodynas/kryžiaus žygių prie Baltijos jūros epocha.md#claim-t-42475|kryžiaus žygių prie Baltijos jūros epocha]]: Kryžiaus žygių prie Baltijos jūros epocha prasidėjo 1202 m., dabartinėje Latvijos teritorijoje įsikūrus Kalavijuočių ordinui.
 - susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70376|vakariniai baltai]]: Šio leidimo aiškinime prūsai ir jotvingiai priskiriami vakarų baltų tarmių regionui.
 - susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70377|vakariniai baltai]]: Šio leidimo aiškinime nadruviai, skalviai ir kuršiai priskiriami prie vakarinių baltų.
@@ -315,6 +322,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-183561|Netimeras]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.
 - susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-19171|Netimeras]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos.
 - susijęs iš [[objektai/asmenys/Ptolemajas.md#claim-t-17607|Ptolemajas]]: Ptolemajas II a. žinojo galindus ir jotvingius, arba sūduvius.
+- susijęs iš [[objektai/asmenys/Rėza.md#claim-t-190116|Rėza]]: Rėza, Narbuto perteikimu, pažymėjo, kad skaičius devyni Prūsijos lietuviams buvo religinis ir perimtas iš skandinavų.
 - susijęs iš [[objektai/asmenys/Tacitas.md#claim-t-78071|Tacitas]]: Nuo Tacito aisčių paminėjimo iki Lietuvos vardo pasirodymo praėjo beveik tūkstantis metų.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90056|Traidenis (valdovas, XIII a.)]]: 1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną.
 - susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-60477|Živinbudas]]: Živinbudo, kaip manoma, valdoma priešmindauginė Lietuva 1219 m. sudarė sutartį su Volyne.
@@ -352,6 +360,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - susijęs iš [[objektai/grupes/Estai.md#claim-t-65144|Estai]]: Rusijos imperijoje estai turėjo kultūrinių galimybių ir švietimo sąlygų, kurių siekė etniniai lietuviai.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-184474|Gotai]]: Gotai drauge su dalimi alanų ir hunais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-31185|Gotai]]: Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į rytus, į Rytprūsių plotą iki Alnos upės.
+- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188197|Herulai]]: Volfgangas Lazius, Narbuto išnašoje vadinamas istoriografu ir geografu, pirmasis paskelbė heruliškąją maldą „Tėve mūsų“.
 - susijęs iš [[objektai/grupes/Hunai.md#claim-t-185449|Hunai]]: Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178768|Jotvingiai]]: II tūkstantmečio pradžioje pradėję formuotis jotvingiai buvo nukariauti ir asimiliuoti Vokiečių ordino.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175547|Kalavijuočių ordinas]]: 1236 m. Saulės mūšyje Lietuvos valstybės kariuomenė sutriuškino Kalavijuočių ordiną.
@@ -364,6 +373,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65555|Kuršiai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65560|Kuršiai]]: Kuršiai XI a. jau rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169586|Latviai]]: II tūkstantmečio pradžioje latviai pradėjo formuotis kartu su prūsų, jotvingių ir lietuvių tautomis.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188225|Latviai]]: Pasak Rusovo, latvių jaunimas garbino deivę Dahkla kaip laisvės ir vyriškumo globėją.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179235|Lietuviai]]: Didieji kunigaikščiai, reikšdami teritorines pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendrumu grindė žemaičių priklausomybę Lietuvai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179238|Lietuviai]]: Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė beraštės visuomenės savimonė.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179344|Lietuviai]]: Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).
@@ -372,9 +382,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - susijęs iš [[objektai/grupes/Pamarėnai.md#claim-t-63189|Pamarėnai]]: 1218 m. popiežiaus Honorijaus II organizuotame kryžiaus žygyje į Prūsiją dalyvavo ir pamarėnai.
 - susijęs iš [[objektai/grupes/Panevėžio batalionas.md#claim-t-80657|Panevėžio batalionas]]: 1919 m. kovo 25 d. Panevėžio batalionui buvo įteikta Panevėžio ir jo apylinkių gyventojų vėliava.
 - susijęs iš [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija.md#claim-t-80658|Panevėžio lietuvių katalikių moterų draugija]]: Panevėžio lietuvių katalikių moterų draugija 1919 m. kovo 25 d. įteikė vėliavą Panevėžio batalionui.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188318|Prūsai]]: Narbutas rašo, kad Prūsijos kronikininkai aprašo tautinį senovės prūsų herbą, kurio kilmę sieja su Vaidevučio laikais.
 - susijęs iš [[objektai/grupes/Prūsijos valstybė.md#claim-t-19968|Prūsijos valstybė]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
 - susijęs iš [[objektai/grupes/Sambiai.md#claim-t-188047|Sambiai]]: Narbutas prie „didžiųjų“ lietuvių dievų priskyrė dievus, kuriuos M. Strijkovskis siejo su lietuviais, žemaičiais, sambiais, latviais ir prūsais.
-- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-66129|Skandinavai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-89225|Slavai]]: Slavai, kaip germanai, romanai ir aisčiai, priskiriami indoeuropiečių tautų grupei.
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-89226|Slavai]]: Lietuvių kalbos ir savimonės teritorijai siaurėjant rytuose bei pietuose, Lietuvos vardas su LDK ribomis išplito į plačias rytų slavų žemes.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171409|Totoriai]]: Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.
@@ -442,6 +452,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - susijęs iš Praha: Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius.
 - susijęs iš Prūsija: Po Kryžiuočių ordino užkariavimo Prūsija galutinai imtas vadinti visas kraštas tarp Vyslos ir Nemuno.
 - susijęs iš Prūsija: Dusburgiečio kronikoje Ordino karas Prūsijoje vaizduojamas kaip vykęs „pagal dievo valią“.
+- susijęs iš Prūsija: Narbutas pateikia Hartknocho duomenis apie lietuvių kalbą, vartotą Prūsijoje, Nemuno žemupyje.
 - susijęs iš Pskovas: 1183 m. lietuviai per pirmąjį savarankišką žygį į Rusios žemes nusiaubė Pskovą ir pakeliui turbūt Polocką.
 - susijęs iš Pskovas: 1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes.
 - susijęs iš Rambynas: Panemunėje esama Rambyno (žr.
@@ -453,7 +464,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - susijęs iš Volynė: 1219 m. priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir greičiausiai siekiant apginti prūsų kraštą.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
+- susijęs iš [[objektai/zodynas/Fetišas fetišai.md#claim-t-189262|Fetišas fetišai]]: Narbutas į senosios lietuvių religijos vaizdą įtraukė 22 „paslaptingąsias dievybes“ ir fetišus.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89546|dykra]]: Dykrose brolis Gundramas su 9 ginklanešiais užpuolė iš Lietuvos atvykusius plėšikautojus.
+- susijęs iš [[objektai/zodynas/fetišai.md#claim-t-189358|fetišai]]: Narbutas savo senosios lietuvių religijos vaizdinyje prie dievų, deivių, pusdievių ir sudievintų dangaus kūnų priskyrė ir fetišus.
 - susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75552|istorinė Lietuva]]: Lietuvos vardas kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito toli į rytus ir apėmė plačias rytų slavų žemes.
 - susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75554|istorinė Lietuva]]: Lietuvių kalbos ir savimonės teritorijai rytuose bei pietuose siaurėjant, Lietuvos vardas su LDK ribomis išplito į rytų slavų žemes.
 - susijęs iš [[objektai/zodynas/kastuvo mokslas.md#claim-t-32782|kastuvo mokslas]]: Baltų gyvenimą menkai aprašius rašytiniams šaltiniams, jų praeičiai tirti reikėjo kastuvo mokslo.
@@ -714,12 +727,13 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - Baltai gyveno [[objektai/vietos/Dauguva]]
 - Baltai gyveno [[objektai/vietos/Dniepras]]
 - Baltai gyveno [[objektai/vietos/Vysla]]
+- Baltai gyne [[objektai/grupes/Hunai]]
 - Baltai kariavo_pries [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Nadruviai]] priklause Baltai
 - [[objektai/grupes/Skalviai]] priklause Baltai
+- Baltai gyveno [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Kuršiai]] priklause Baltai
 - [[objektai/grupes/Vokiečiai]] uzkariavo Baltai
-- Baltai gyveno [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Jotvingiai]] priklause Baltai
 - [[objektai/grupes/Kalavijuočių ordinas]] uzkariavo Baltai
 - Baltai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]

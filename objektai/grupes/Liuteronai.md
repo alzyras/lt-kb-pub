@@ -73,9 +73,11 @@ Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietu
   ryšio_targeto_parinkimas: Europa: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liuteronai" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Kotryna.md#claim-t-186056|Kotryna]]: Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl žmonės dar labiau patikėjo gandais apie jo perėjimą į liuteronybę.
+- susijęs iš [[objektai/asmenys/Polencas.md#claim-t-190201|Polencas]]: Narbutas Polencą mini kaip liuteronų vyskupą, kurio ir Pauliaus Sprito Karaliaučiaus bažnyčios Agenda liudijo Pergrubei skirtas apeigas iki 1530 m.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-184912|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimantas Augustas slėpė Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, todėl pasklido gandai apie jo palankumą liuteronybei.
 - susijęs iš [[objektai/asmenys/Valerijonas Suškovskis Protasevičius.md#claim-t-186263|Valerijonas Suškovskis Protasevičius (vyskupas)]]: Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasevičius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179342|Lietuviai]]: Oberosto režimo metu lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190571|Lietuviai]]: Narbutas rašė, kad senojoje lietuvių religijoje šventais laikyti ne tik tekantys, bet ir kai kurie stovintys vandenys.
 - susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74883|Oberostas]]: Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose.
 - susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74886|Oberostas]]: Oberosto karinis kolonijinis režimas nusavindavo maistą, apkrovė valstiečius mokesčiais bei prievolėmis ir pradėjo germanizaciją mokyklose.
 - susijęs iš [[objektai/ivykiai/Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje.md#claim-t-185551|Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje]]: Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna.

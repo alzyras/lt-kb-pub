@@ -53,8 +53,11 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
   ryšio_subjekto_parinkimas: Vaina: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kuršiečiai: mention_match, group, gap=38
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaina" parinktas kaip owner_note_path. Targetas "Kuršiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Abraomas Vaina.md#claim-t-190127|Abraomas Vaina]]: Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abraomo Vainos sprendimu uždrausti ir likviduoti tą paprotį.
 - susijęs iš [[objektai/asmenys/M. Vaina.md#claim-t-39781|M. Vaina]]: Breslaujos seniūnas M. Vaina buvo nužudytas kartu su M. P. Sapiega ir rotmistru Kurovičiumi.
 - susijęs iš [[objektai/asmenys/Stanislovas Jonas Da Vaina.md#claim-t-87859|Stanislovas Jonas Da Vaina]]: Stanislovas Jonas Da Vaina buvo paminėtas tarp valdovo tarybos narių ir pareigūnų, dalyvavusių rašto patvirtinime.
+- susijęs iš Vilniaus vyskupija Vilnius kaip vyskupų centras: Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stipriaisiais gėrimais uždraudė ir likvidavo paprotį.
+- susijęs iš Vilnius: Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina uždraudė paprotį, siejamą su piktnaudžiavimu stipriaisiais gėrimais.
 - susijęs iš [[objektai/asmenys/A. Liuneburgietis.md#claim-t-39696|A. Liuneburgietis]]: Švedų generolas A. Liuneburgietis žuvo per sumaištį švedų pėstininkų rikiuotėje.
 - susijęs iš [[objektai/asmenys/Kurovičius.md#claim-t-39772|Kurovičius]]: Kurovičius buvo „vengrų“ pėstininkų rotmistras, kurį paryčiais girti bajorai nužudė kartu su kitais žymesniais belaisviais.
 - susijęs iš [[objektai/asmenys/T. Lackis.md#claim-t-40456|T. Lackis]]: Rotmistro T. Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į švedų raitelių kairįjį sparną.

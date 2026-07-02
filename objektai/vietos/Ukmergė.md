@@ -6,6 +6,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -18,14 +19,14 @@ date_start: '1200'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XII'
+  - 'XXI'
 tags:
   - kunigaikštis
   - mūšis
   - ordinas
   - vieta
-amziai:
-  - 'XII'
-  - 'XXI'
 ---
 # Ukmergė
 
@@ -34,7 +35,6 @@ amziai:
 Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Ukmergės mūšis (1435 m.).
 
 ## Teiginiai
-
 <a id="claim-t-180705"></a>
 - t-001
   global_id: t-180705
@@ -198,7 +198,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - t-010
   global_id: t-180714
   teiginys: 'Ties Pabaisku prie Šventosios, netoli Ukmergės, Mykolo vadovaujama lietuvių ir lenkų kariuomenė užkirto kelią Švitrigailai.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Livonija; mentioned_place: Pabaiskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Sandara|Sandara]]; mentioned_place: Pabaiskas; mentioned_place: Trakai'
   temporaliniai_duomenys: 'įvykio data: 1435 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -249,7 +249,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   global_id: t-180719
   teiginys: 'Kunigaikščio Mykolo pergalė prieš Švitrigailą ir Livonijos magistrą netoli Ukmergės užbaigė jų varžybas dėl Lietuvos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Sandara|Sandara]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Trakai'
   temporaliniai_duomenys: 'įvykio data: 1435 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
@@ -261,8 +261,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   global_id: t-180722
   teiginys: 'Kunigaikščio Mykolo pergalė netoli Ukmergės užbaigė Švitrigailos ir Livonijos magistro varžybas dėl Lietuvos.'
   sudarymo_pagrindimas: 'Citata leidžia patikslinti, dėl ko vyko varžybos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Ukmergė'
-  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] surengė žygį į Ukmergė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Sandara|Sandara]]; mentioned_place: Trakai'
   temporaliniai_duomenys: 'įvykio data: 1435 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti, dėl ko vyko varžybos.'
@@ -391,26 +390,49 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindžia:
     - c-013
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cba4268aef39ad8adfbb7b3e0fc500e2f59223433e063e23bbe0bdf9d39c78a6; match=fallback; occurrences=0
+  saltinio_vieta: 666780-667121; hash=f8d44a94c655b7df06d5d9b0bbbce8b38e41795e0e9916c56215aa56fc9ded2e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Švitrigaila: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Lietuvių kariuomenė minima kaip jėga, užkirtusi kelią Švitrigailai mūšio kontekste.
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188844"></a>
+- t-028
+  global_id: t-188844
+  teiginys: 'Narbutas Ukmergės apskritį priskyrė „Tikrajai Lietuvai“, kurioje nuo seniausių laikų buvusios vietos sudegintų žmonių pelenams laikyti.'
+  pagrindžia:
+    - c-018
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 666780-667121; hash=f8d44a94c655b7df06d5d9b0bbbce8b38e41795e0e9916c56215aa56fc9ded2e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/8-asis pėstininkų pulkas.md#claim-t-40830|8-asis pėstininkų pulkas]]: Į Ukmergę atvykusios 8-ojo pėstininkų pulko dalys turėjo apsaugoti divizijos vadovybę ir sustiprinti kitus pulkus.
 - susijęs iš Ašmena: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
 - susijęs iš [[objektai/asmenys/Ivanas Ganeckis.md#claim-t-40146|Ivanas Ganeckis]]: V. Nazimovas balandžio pabaigoje įsakė Ivanui Ganeckiui žygiuoti Anykščių kryptimi ir sunaikinti Ukmergės apskrityje susibūrusius sukilėlius.
 - susijęs iš [[objektai/asmenys/J. Kubilius.md#claim-t-40157|J. Kubilius]]: J. Kubiliaus vadovaujamas Ukmergės batalionas išmušė bolševikus iš apkasų ir užėmė keletą kaimų.
 - susijęs iš [[objektai/asmenys/Jurgis (Maskvos kunigaikštis).md#claim-t-87738|Jurgis (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Jurgis kartu su savo dėde Švitrigaila išvengė sutriuškinimo po pralaimėjimo prie Ukmergės.
 - susijęs iš [[objektai/asmenys/Jurgis Lengvenaitis.md#claim-t-87743|Jurgis Lengvenaitis]]: Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės kartu su Švitrigaila išvengė sutriuškinimo.
+- susijęs iš [[objektai/asmenys/Karolis Kozakovskis.md#claim-t-190072|Karolis Kozakovskis]]: Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir apdegusių daiktų liekanų.
 - susijęs iš [[objektai/asmenys/Kinsgaila.md#claim-t-30330|Kinsgaila]]: Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87558|Mykolas (Žygimanto sūnus)]]: Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą.
+- susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-188600|Pajauta]]: Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo.
 - susijęs iš [[objektai/asmenys/Sprangeris.md#claim-t-40425|Sprangeris]]: Saksų karininko Sprangerio vadovaujamas dalinys turėjo užimti Šimonių-Kupiškio liniją ir apsaugoti Ukmergės rinktinės kairįjį sparną.
 - susijęs iš [[objektai/asmenys/V. Nazimovas.md#claim-t-40489|V. Nazimovas]]: Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius.
+- susijęs iš [[objektai/asmenys/Zivinbudas.md#claim-t-190222|Zivinbudas]]: Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikštis, vedė Kerniaus dukterį Pajautą.
 - susijęs iš [[objektai/grupes/13-asis ulonų pulkas.md#claim-t-38926|13-asis ulonų pulkas]]: Spalio 26 d. 13-asis ulonų pulkas apėjo kairįjį lietuvių I divizijos flangą ir prasiveržė iki Ukmergės prieigų.
+- susijęs iš [[objektai/grupes/Dausprungų giminė.md#claim-t-189487|Dausprungų giminė]]: Narbutas Dausprungų giminės Zivinbudą vadino Ukmergės srities kunigaikščiu, kuriam Pajauta kaip kraitį atnešė Kernavės kunigaikštystę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178823|Kryžiuočių ordinas]]: 1384 m. Ordino antpuoliai Lietuvoje siekdavo Kernavę, tačiau pralaimėjimas prie Vilniaus ir Ukmergės apsaugojo sostinę.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179408|Livonijos ordinas]]: Livonijos magistro vedami pulkai prisijungė prie Valenrodo lauktos kariuomenės, kuri po Ukmergės ir Visevaldės užėmimo pasuko Vilniaus link.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179411|Livonijos ordinas]]: Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės.
@@ -422,19 +444,25 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.
 - susijęs iš Alanta: Karalius Alantos dvarą Ukmergės apskrityje po Grigaliaus Astiko atidavė Gabrieliui Bekešui.
 - susijęs iš Ašmena: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
+- susijęs iš Dauguva Dvina: Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“.
+- susijęs iš Dauguva: Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“.
 - susijęs iš Deltuva: Ipatijaus metraštis Deltuvą prie Ukmergės mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų.
 - susijęs iš Kavarskas: Kavarskas nuo Ukmergės buvo nutolęs per 4 mylias, o nuo Vilniaus - per 15 mylių.
 - susijęs iš Kernavė: Iš Žemutinės pilies vedęs kelias prie kelto per Viliją šakojosi į Kernavę, senąją Lietuvos sostinę, ir Ukmergės pilį.
 - susijęs iš Kražių apygarda: Kražių apygardoje šios mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
 - susijęs iš Kretinga: IV Kražių apygardoje apygardėlinės mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
 - susijęs iš Kščeniškiai: Pabaiskas buvo už pusės mylios nuo Kščeniškių ir per 2 varstus į kairę nuo Vilniaus–Ukmergės pašto trakto.
+- susijęs iš Obelių ežeras: Prie Obelių ežero Ukmergės apskrityje degintiniame kape buvo rasti 2–5 colių skersmens varpeliai.
 - susijęs iš Pabaiskas: Pabaiskas buvo parapijos kaimas, nutolęs nuo Vilniaus–Ukmergės pašto trakto per 2 varstus į kairę.
 - susijęs iš Pabaiskas: Pabaisko mūšio vieta siejama su Žirnajų upeliu tarp Žirnajų ežero ir Pabaisko, 9 km nuo Ukmergės.
 - susijęs iš Trakų apskritis: Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskrityje ir „B“ Ukmergės apskrityje.
+- susijęs iš Ukmergės apskritis prie Obelių ežero: Ukmergės apskrityje prie Obelių ežero degintiniame kape buvo rasti 2–5 colių skersmens varpeliai.
+- susijęs iš Ukmergės apskritis: Narbutas iš Ukmergės apskrities gautą dainelę laikė įrodymu, kad Dauguvos pavadinimas kilo iš „Dewine Upes“.
 - susijęs iš Ukmergės apskritis: Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskrityje ir „B“ Ukmergės apskrityje.
 - susijęs iš Ukmergės apskritis: 1944 m. Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.
 - susijęs iš Ukmergės apylinkė: 1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę.
 - susijęs iš Ukmergės pilis: Iš Vilniaus Žemutinės pilies vakarinių vartų kelias per tiltus ir keltą per Viliją vedė į Kernavę ir Ukmergės pilį.
+- susijęs iš Ukmergės sritis: Narbutas Zivinbudą vadino Dausprungų giminės Ukmergės srities kunigaikščiu, vedusiu Kerniaus dukterį Pajautą.
 - susijęs iš Žirnajos upelis: Mūšio vieta buvo prie Žirnajos upelio, tarp Žirnajų ežero ir Pabaisko, apie 9 km nuo Ukmergės ir 6 km nuo Šventosios.
 - susijęs iš Žirnajų ežeras: Mūšio vieta buvo tarp Žirnajų ežero ir Pabaisko, prie Žirnajos upelio, apie 9 km nuo Ukmergės ir 6 km nuo Šventosios.
 - susijęs iš [[objektai/asmenys/Ivanas Ganeckis.md#claim-t-40146|Ivanas Ganeckis]]: V. Nazimovas balandžio pabaigoje įsakė Ivanui Ganeckiui žygiuoti Anykščių kryptimi ir sunaikinti Ukmergės apskrityje susibūrusius sukilėlius.
@@ -443,12 +471,14 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - susijęs iš [[objektai/asmenys/Grigalius Astikas.md#claim-t-87510|Grigalius Astikas]]: Grigalius Astikas privilegijoje vadinamas išdaviku, po kurio Alantos dvaras 1581 m. vasario 13 d. dovanotas Gabrieliui Bekešui.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176438|Jaunutis (valdovas, XIV a.)]]: Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.
 - susijęs iš [[objektai/asmenys/Kazys Ladyga.md#claim-t-40281|Kazys Ladyga]]: Kazys Ladyga 1914 m. baigė Vilniaus karo mokyklą, dalyvavo Pirmajame pasauliniame kare ir buvo du kartus sužeistas.
+- susijęs iš [[objektai/asmenys/Kernius.md#claim-t-188564|Kernius]]: Narbutas Kernių vaizduoja kaip Vidurio, arba Užnerio, Lietuvos kunigaikštį, kurio sostinė buvo Kernavė.
 - susijęs iš [[objektai/asmenys/Sungaila.md#claim-t-30386|Sungaila]]: Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114011|Valerijonas Protasevičius (vyskupas)]]: 1579 m. Vilniuje duotą Bursos įkūrėjo atminimo aktą vyskupas Valerijonas pasirašė savo ranka.
 - susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87381|Zigmantas (Romos imperatorius)]]: Imperatorius Zigmantas ir didysis magistras siekė nutraukti Lietuvos ir Lenkijos sąjungą, tačiau jų sumanymai žlugo.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179713|Švitrigaila]]: Po dvylikos metų paliaubų tarp karaliaus ir didžiojo magistro Švitrigailos jėgos Lietuvoje apsilpo.
 - susijęs iš [[objektai/grupes/8-asis pėstininkų pulkas.md#claim-t-40830|8-asis pėstininkų pulkas]]: Į Ukmergę atvykusios 8-ojo pėstininkų pulko dalys turėjo apsaugoti divizijos vadovybę ir sustiprinti kitus pulkus.
 - susijęs iš [[objektai/grupes/Didžiosios kovos apygarda (DKA).md#claim-t-40874|Didžiosios kovos apygarda (DKA)]]: Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188280|Lietuviai]]: Narbutas atmetė nuomonę, kad Šventoji prie Ukmergės taip pavadinta dėl Jogailos laikų lietuvių krikšto.
 - susijęs iš [[objektai/grupes/Panevėžio rinktinė.md#claim-t-38893|Panevėžio rinktinė]]: Kariuomenės vadovybė sustabdė puolimą, nes Ukmergės rinktinė buvo išsiveržusi į priekį, o Panevėžio rinktinė atsiliko apie 20 km.
 - susijęs iš [[objektai/grupes/Stepono Batoro vengrų kariuomenė.md#claim-t-86827|Stepono Batoro vengrų kariuomenė]]: Žygyje prieš Maskvos kunigaikštį ties Velikije Lūki Gabrielis Bekešas vadovavo Stepono Batoro vengrų kariuomenės riteriams.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171402|Totoriai]]: Švitrigaila į Lietuvą kreipė įvairias totorių ir rusų ordas, siekdamas atimti valdžią iš Žygimanto.
@@ -464,6 +494,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - susijęs iš [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas.md#claim-t-87163|Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]: 1649 m. gruodžio 29 d. Jonas Kazimieras Pinkevičius pateikė Pabaisko klebonijos fundacijos privilegiją įrašyti į teismo aktų knygas.
 - susijęs iš [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims.md#claim-t-183829|Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]: Padavimuose dabartinė katedros varpinė tapatinta su bokštu, iš kurio Lizdeika ir jo pirmtakai Vilniaus pagonims skelbdavo pranašystes.
 - susijęs iš [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims.md#claim-t-87243|Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]: Pasak Lietuvos kronikininkų ir vietos padavimų, Lizdeika ir jo pirmtakai iš bokšto skelbdavo pranašystes Vilniaus pagonims.
+- susijęs iš [[objektai/posakiai/Založym do san koniki.md#claim-t-189570|Založym do san koniki]]: Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kaip Dauguvos vardo kilmės iš „Dewine Upes“ aiškinimo pavyzdį.
 - susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ pasakoja, kad 1649 m. priešai staiga užpuolė prie stovyklos buvusius pašarininkus.
 - susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ šiame veikale cituojamas kaip atskiras šaltinis.
 - susijęs iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygos: 1785 m. kovo 14 d. LDK Vyriausiajam Tribunolui Vilniuje buvo pateikta Pabaisko bažnyčios ir klebonijos fundacijos privilegija.
@@ -478,6 +509,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - susijęs iš Giedraičiai: Viena svarbiausių lenkų puolimo krypčių buvo Ukmergės link pro Giedraičius su galutiniu tikslu pulti Kauną iš šiaurės rytų.
 - susijęs iš Gursčiai: 1946 m. sausio 22 d. Gursčių kaimo apylinkėse apie 50 Plieno būrio partizanų kovėsi su NKVD kariuomene.
 - susijęs iš Kaišiadorys: Jonas Misiūnas vokiečių okupacijos metais buvo geležinkelių apsaugos policininkas Kaišiadoryse.
+- susijęs iš Kernavė: Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą.
+- susijęs iš Kernavė: Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.
+- susijęs iš Kernavė: Narbutas Pajautą apibūdino kaip Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su sostine Kernavėje, dukterį.
 - susijęs iš Krėva: Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam.
 - susijęs iš Krėva: Algirdas valdė Vitebską ir Krėvą, o Kęstutis viešpatavo Žemaitijoje.
 - susijęs iš Kurklių valsčius: 1945 m. birželio 27 d. Kurklių valsčiaus Trakinių kaimo apylinkių miške NKVD 137-asis šaulių pulkas puolė Alfonso Bagdono-Aro būrį.
@@ -493,6 +527,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - susijęs iš Utena: Generaliniame Lietuvos teritorijos vadavimo nuo bolševikų plane Ukmergės rinktinė turėjo veržtis Ukmergės–Utenos–Zarasų kryptimi.
 - susijęs iš Velikije Lūkiai: Gabrielius Bekešas žygyje ties Velikije Lūkiais vadovavo vengrų kariuomenės riteriams prieš Maskvos kunigaikštį.
 - susijęs iš Videniškis: 9-ojo pulko batalionas turėjo iš Videniškio pulti Giedraičių kryptimi ir paremti 2-ojo pulko puolimą.
+- susijęs iš Vidurio arba Užnerio Lietuva: Narbutas Pajautą vadino Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su sostine Kernave, dukterimi.
 - susijęs iš Vilija: Vingrių upokšnis šalia Vilnios įtekėjo į Viliją.
 - susijęs iš Vilniaus Žemutinė Kreivoji pilis (sujungti pirminiai pavadinimai Žemutinė pilis Kreivoji pilis; Žemutinė pilis; Kreivoji pilis; Žemutinė Kre: Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį.
 - susijęs iš Vingrių upokšnis: Kelias iš Žemutinės pilies vakarinių vartų ėjo per tiltą per Vingrių upokšnį, kuris greta Vilnios įtekėjo į Viliją.
@@ -504,14 +539,16 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - susijęs iš Šešuolė: Giedraičius gynęs 2-asis pulkas atsitraukė į Šešuolės ir Virintos upių liniją.
 - susijęs iš Želva: 1919 m. lapkričio 19 d. 2-ajam pulkui nurodyta susitelkti Želvoje, pulti Giedraičių kryptimi ir užėmus Giedraičius stumtis kuo toliau.
 - susijęs iš Želva: 1946 m. sausio 22 d. Želvos valsčiaus Gursčių kaimo apylinkėse Plieno būrio partizanai kovėsi su NKVD kariuomene.
+- susijęs iš [[objektai/zodynas/Obelijos.md#claim-t-189234|Obelijos]]: Narbutas Obelijomis vadina senąsias vietas Tikrojoje Lietuvoje, kur būdavo dedami sudegintų žmonių pelenai.
+- susijęs iš [[objektai/zodynas/Obelijos.md#claim-t-189235|Obelijos]]: Narbutas mano, kad žymių žmonių apeigų pelenai ir likučiai būdavo pernešami į Obeliją, kur per daugelį metų susidarydavo pilkapiai.
 - susijęs iš [[objektai/zodynas/demobilizacija.md#claim-t-42443|demobilizacija]]: Kazys Ladyga po demobilizacijos grįžo į Lietuvą ir prisidėjo prie pirmųjų Lietuvos kariuomenės dalinių organizavimo.
 - susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86418|fundacija]]: 1544 m. sudaryta Pabaisko bažnyčios ir klebonijos fundacijos privilegija 1785 m. buvo pateikta LDK Vyriausiajam Tribunolui.
 - susijęs iš [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės.md#claim-t-86481|lotyniškos teismo ir dokumentų formulės]]: LDK Vyriausiasis Tribunolas priėmė Pabaisko bažnyčios fundacijos dokumentą ir pavedė jį įrašyti į Tribunolo viešąsias knygas.
+- susijęs iš [[objektai/asmenys/Zivinbudas.md#claim-t-190222|Zivinbudas]]: Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikštis, vedė Kerniaus dukterį Pajautą.
 - susijęs iš [[objektai/grupes/13-asis ulonų pulkas.md#claim-t-38926|13-asis ulonų pulkas]]: Spalio 26 d. 13-asis ulonų pulkas apėjo kairįjį lietuvių I divizijos flangą ir prasiveržė iki Ukmergės prieigų.
 - susijęs iš [[objektai/ivykiai/Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė.md#claim-t-185516|Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė]]: 1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.
 - susijęs iš [[objektai/asmenys/Kinsgaila.md#claim-t-30330|Kinsgaila]]: Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -882,6 +919,24 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+- c-018
+  santrauka: 'Narbutas Ukmergės apskritį priskyrė „Tikrajai Lietuvai“, kurioje nuo seniausių laikų buvusios vietos sudegintų žmonių pelenams laikyti.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Vienoda jų sandara ir tokia pat radimo vieta įtikina,
+    jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
+    kad į jas tekėtų ašaros.
+    Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
+    dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
+    rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
+    Obelijomis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-028
 
 ## Ryšiai
 - Ukmergė priklause [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
@@ -889,6 +944,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] valde Ukmergė
 - [[objektai/asmenys/Švitrigaila]] surenge_zygi_i Ukmergė
 - [[objektai/asmenys/V. Nazimovas]] siunte_i Ukmergė
+- [[objektai/asmenys/Zivinbudas]] valde Ukmergė
 - [[objektai/grupes/13-asis ulonų pulkas]] surenge_zygi_i Ukmergė
 - [[objektai/asmenys/Boleslovas Švitrigaila]] surenge_zygi_i Ukmergė
 - [[objektai/grupes/Ukmergės rinktinė]] keliavo_i Ukmergė

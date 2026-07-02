@@ -34,7 +34,8 @@ Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgub
   ryšio_subjekto_parinkimas: Baltvyžių girios: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kaunas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltvyžių girios" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-
+- susijęs iš [[objektai/daiktai/Baltvyžių girios auksinė moneta su riteriu ir lokiu.md#claim-t-189656|Baltvyžių girios auksinė moneta su riteriu ir lokiu]]: Baltvyžių girios auksinę monetą Narbutas priskyrė vietos tautai ir vertino kaip meistriškai nukaltą Romos cezarių laikų stiliumi.
+- susijęs iš [[objektai/daiktai/Baltvyžių girios auksinė moneta su riteriu ir lokiu.md#claim-t-189656|Baltvyžių girios auksinė moneta su riteriu ir lokiu]]: Baltvyžių girios auksinę monetą Narbutas priskyrė vietos tautai ir vertino kaip meistriškai nukaltą Romos cezarių laikų stiliumi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,3 +55,6 @@ Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgub
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/daiktai/Baltvyžių girios auksinė moneta su riteriu ir lokiu]] priklause Baltvyžių girios

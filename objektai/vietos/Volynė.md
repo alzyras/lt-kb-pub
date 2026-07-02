@@ -266,6 +266,7 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
 - susijęs iš [[objektai/asmenys/Teodoras (Konstantino Karijotaičio brolis).md#claim-t-186167|Teodoras (Konstantino Karijotaičio brolis)]]: Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konstantino vietą Podolėje.
 - susijęs iš [[objektai/asmenys/Vigandas fon Baldersheimas.md#claim-t-186266|Vigandas fon Baldersheimas]]: Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-184917|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1432 m. Žygimantas Kęstutaitis sutiko su sąlygomis, kuriomis tapo Lietuvos didžiuoju kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-188660|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Narbutas aprašė, kad 1436 m. Žygimanto Kęstutaičio didžiajame antspaude buvo keturi herbiniai skydai, tarp jų Lietuvos Vytis.
 - susijęs iš [[objektai/daiktai/Kalavijas.md#claim-t-186870|Kalavijas]]: Žygimanto Kęstutaičio pakėlimo didžiuoju kunigaikščiu ceremonijoje kalaviją Gardine 1432 m. spalio 15 d. įteikė Krokuvos vyskupas Zbignevas Olesnickis.
 - susijęs iš [[objektai/daiktai/Kristaus Kančios relikvija.md#claim-t-186861|Kristaus Kančios relikvija]]: Komentare nurodoma, kad J. Dlugošas pasakojo legendą apie Algirdo ir Kęstučio pagrobtą šventojo kryžiaus relikviją.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
@@ -532,7 +533,7 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
     - t-009
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] uzkariavo Volynė
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzkariavo Volynė
 - Volynė priklause [[objektai/grupes/Auksinė Orda]]
 - Volynė priklause [[objektai/vietos/Lenkija]]
 - [[objektai/asmenys/Aleksandras Narimantaitis]] valde Volynė

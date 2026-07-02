@@ -250,4 +250,3 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - Augustas II kariavo_pries [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Karolis XII]] puole Augustas II
 - Augustas II keliavo_i [[objektai/vietos/Altrandštatas]]
-- Augustas II puole [[objektai/grupes/Švedai]]

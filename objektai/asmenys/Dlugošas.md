@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Dlugošas'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1409 m.'
@@ -10,14 +11,14 @@ date_start: '1409'
 date_end: '1411'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - kunigaikštis
-  - tauta
 amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - kunigaikštis
+  - tauta
 ---
 # Dlugošas
 
@@ -26,7 +27,6 @@ periodo_grupes:
 Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t.
 
 ## Teiginiai
-
 <a id="claim-t-30223"></a>
 - t-001
   global_id: t-30223
@@ -65,6 +65,25 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   ryšio_subjekto_parinkimas: Dlugošas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dlugošas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+<a id="claim-t-184372"></a>
+- t-003
+  global_id: t-184372
+  teiginys: 'Narbuto vertinimu, Dlugošas iš senesniųjų istorikų aiškiai pripažino, kad lietuvių genties tautos tikėjo fetišais.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 341166-341580; hash=8011a58a67cd3311879b256247f8ac0deb267afbd893e68f6857624d2a02a62f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žemaičiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dlugošas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Žemaičiai: mention_match, group, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dlugošas" parinktas kaip owner_note_path. Targetas "Žemaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87985|J. Dlugošas Długosz]]: J. Dlugošas rašė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.
 - susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87986|J. Dlugošas Długosz]]: Dlugošas ir Kojelavičius tvirtino, kad Vilniaus pilių gaisrą sukėlė papirkti išdavikai.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172865|J. Dlugošas]]: J. Dlugošas aprašė Vorsklos mūšį, kuriame Edigėjaus kariuomenė atrodė akimis neaprėpiama.
@@ -82,12 +101,14 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
 - susijęs iš [[objektai/asmenys/Andrius Vosylius Jastrzębiecas.md#claim-t-35030|Andrius Vosylius Jastrzębiecas]]: Cereteno vyskupas Andrius Vosylius atvyko kartu su Jogailos broliais, dvasininkais ir lietuvių bei lenkų didikais.
 - susijęs iš [[objektai/asmenys/Dobeslavas Skoračevskis.md#claim-t-80710|Dobeslavas Skoračevskis]]: Dobeslavas Skoračevskis buvo Ordino pasiuntinys, atvykęs pas Jogailą į stovyklą derėtis dėl taikos.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-184263|Jadvyga Jogailienė]]: Dlugošas rašė, kad Jadvyga Jogailienė buvo atvykusi į Lietuvą, bet šaltinyje nurodoma, jog tai nėra tikra.
+- susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188563|Janas Lasickis]]: Narbutas aiškina, kad Lasickis fetišo termino nevartojo, bet aprašė asmeninius fetišus šventovėse, giminėse, namuose ir pas pavienius žmones.
 - susijęs iš [[objektai/asmenys/Spytkas iš Melsztyno.md#claim-t-30384|Spytkas iš Melsztyno]]: Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05221|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus, jodinėjo keisdamas žirgus ir atstatinėjo pralaužtas vietas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176720|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus ir pralaužtas vietas atstatinėjo arba keitė naujais daliniais.
 - susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186818|Karūna]]: Komentare nurodoma, kad šiame šaltinyje teigiama, kad karališkieji vainikai Vytautui ir Julijonai buvo nukalti Niurnbergo auksakalių; Šiame gabale vainikai apibūdinami kaip iš Vokietijos gabenti karūnacijos daiktai.
 - susijęs iš [[objektai/daiktai/Kristaus Kančios relikvija.md#claim-t-186861|Kristaus Kančios relikvija]]: Komentare nurodoma, kad J. Dlugošas pasakojo legendą apie Algirdo ir Kęstučio pagrobtą šventojo kryžiaus relikviją.
 - susijęs iš [[objektai/daiktai/Patrankos.md#claim-t-176205|Patrankos]]: Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų kariuomenėje sumišimo nesukėlė.
+- susijęs iš [[objektai/daiktai/Patrankos.md#claim-t-188385|Patrankos]]: Apie Teodorą Narbutą buvo pasklidę gandai, kad jis padėjo 1830-1831 m. sukilėliams lieti patrankas, bet caro valdžia to neįrodė.
 - susijęs iš [[objektai/ivykiai/Ač-Girėjaus valdžios atstatymas Kryme.md#claim-t-186758|Ač-Girėjaus valdžios atstatymas Kryme]]: 1971 m. leidinio pastaba Ač-Girėjaus valdžios atstatymą Kryme sieja su antruoju jo valdžios atkūrimu 1449 m. rugpjūtį.
 - susijęs iš [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.).md#claim-t-92931|Kęstučio žūtis Krėvos kalėjime (1382 m.)]]: Kęstučio kūnas Vilniuje senu papročiu buvo iškilmingai sudegintas su jo arkliais, sakalais, šunimis ir ginklais.
 - susijęs iš [[objektai/ivykiai/Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje.md#claim-t-186717|Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje]]: Lietuvių nekrikščionių masinis krikštijimas katalikais vyko Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje.
@@ -104,7 +125,6 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
 - susijęs iš Vitebskas: Švitrigailos pajėgose buvo rytinių LDK slaviškų žemių, tarp jų Vitebsko, kariai.
 - susijęs iš Vitebskas: Švitrigailą rėmusiose pajėgose buvo rytinių LDK slaviškų žemių, įskaitant Vitebską, kariai.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -153,5 +173,27 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Narbuto vertinimu, Dlugošas iš senesniųjų istorikų aiškiai pripažino, kad lietuvių genties tautos tikėjo fetišais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    201
+
+    ## Puslapis 201
+
+    mitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi
+    gal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas
+    Dlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo
+    fetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką
+    išaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­
+    minė, jokie namai, net daug pavienių asmenų negyveno be
+    savo asmeninių fetišų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

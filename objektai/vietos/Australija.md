@@ -71,7 +71,6 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 - susijęs iš Kanada: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Kanadą, Didžiąją Britaniją ir Australiją.
 - susijęs iš [[objektai/ivykiai/JAV Kongreso Perkeltųjų asmenų įstatymo priėmimas (1948 m. vidurys).md#claim-t-26374|JAV Kongreso Perkeltųjų asmenų įstatymo priėmimas (1948 m. vidurys)]]: 1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų.
 - susijęs iš JAV: Per trejus–ketverius metus į JAV atvyko apie 30 tūkst. norėjusių lietuvių tremtinių ir pabėgėlių.
-- susijęs iš Kanada: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Kanadą, Didžiąją Britaniją ir Australiją.
 ## Reikšmingi paminėjimai
 
 - c-001

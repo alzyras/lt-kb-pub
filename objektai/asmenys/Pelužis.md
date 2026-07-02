@@ -134,7 +134,7 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   ryšio_subjekto_parinkimas: Pelužis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=80
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pelužis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184699|Gediminas]]: Kojelavičius Pelužį laikė Gediminą niekinusių pasakojimų dingstimi, bet rusų metraštininkai Gediminą vadino Vytenio sūnumi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184699|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kojelavičius Pelužį laikė Gediminą niekinusių pasakojimų dingstimi, bet rusų metraštininkai Gediminą vadino Vytenio sūnumi.
 - susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89923|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
 - susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89924|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63913|Martynas iš Golino]]: Karaliaučiaus komtūras paskyrė Martyną iš Golino į Pelužio būrį, traukusį keršyti lietuvių kunigaikščiui.
@@ -143,7 +143,7 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 - susijęs iš [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių.md#claim-t-89386|Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]: Pelužis su Karaliaučiaus komtūro paskirtais bendrais patraukė keršyti už patirtas skriaudas.
 - susijęs iš [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių.md#claim-t-89387|Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]: Pelužio būrys vestuvėse užpuolė kunigaikščio sodybą ir nužudė 70 kunigaikščių su namų šeimininku.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-184655|Albertas iš Meiseno]]: Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184699|Gediminas]]: Kojelavičius Pelužį laikė Gediminą niekinusių pasakojimų dingstimi, bet rusų metraštininkai Gediminą vadino Vytenio sūnumi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184699|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kojelavičius Pelužį laikė Gediminą niekinusių pasakojimų dingstimi, bet rusų metraštininkai Gediminą vadino Vytenio sūnumi.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184828|Skomantas]]: Skomantas ir Girdila buvo didikų kilmės vyrai, priėmę krikščionių tikėjimą ir pasitraukę pas kryžiuočius.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63913|Martynas iš Golino]]: Karaliaučiaus komtūras paskyrė Martyną iš Golino į Pelužio būrį, traukusį keršyti lietuvių kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-184655|Albertas iš Meiseno]]: Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė.

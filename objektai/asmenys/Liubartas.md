@@ -592,7 +592,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
 - [[objektai/asmenys/Skirmantas]] buvo_sunus Liubartas
 - Liubartas gyne [[objektai/vietos/Volinija]]
 - [[objektai/asmenys/Pisimantas]] buvo_brolis Liubartas
-- Liubartas buvo_sunus [[objektai/asmenys/Gediminas]]
+- Liubartas buvo_sunus [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Liubartas puole [[objektai/grupes/Lenkai]]
 - Liubartas keliavo_i [[objektai/vietos/Trakai]]
 - Liubartas valde [[objektai/vietos/Volinija]]

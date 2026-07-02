@@ -127,7 +127,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 - susijęs iš Gardinas: 1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.
 - susijęs iš Lakajų ežeras: Lakajų ežeras buvo greta vyskupo dvaro Jakubiškėse ir turėjo į jį įtekančių bei iš jo ištekančių upių.
 - susijęs iš Ukmergės apylinkė: 1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę.
-- susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
 - susijęs iš Šešuoliai: 1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per 4 mylias prie Vilniaus.
 - susijęs iš Švenčionėliai: Frontas nusistovėjo Kernavės, Musninkų, Širvintų, Giedraičių, Dubingių ir Švenčionėlių linijoje.
 ## Reikšmingi paminėjimai

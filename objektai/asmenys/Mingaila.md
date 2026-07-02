@@ -4,19 +4,20 @@ pavadinimas: 'Mingaila'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1396 m.'
 date_start: '1396'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - tauta
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - tauta
 ---
 # Mingaila
 
@@ -25,7 +26,6 @@ periodo_grupes:
 Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo].
 
 ## Teiginiai
-
 <a id="claim-t-87792"></a>
 - t-001
   global_id: t-87792
@@ -92,6 +92,25 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   ryšio_subjekto_parinkimas: Mingaila: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Skirmantas: mention_match, person, gap=46
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mingaila" parinktas kaip owner_note_path. Targetas "Skirmantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188585"></a>
+- t-004
+  global_id: t-188585
+  teiginys: 'Kunigui vikarui Mingailai buvo nunešta Kauno klebonijos sienoje rasta cinkinė deivės Veneros statulėlė.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 234600-235284; hash=6f66199327f04612581e31840cc5d4fd2a5290c01cce9f13d67677344a485387; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mingaila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mingaila" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Polockiečiai.md#claim-t-185443|Polockiečiai]]: Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos valdinių žemes.
 - susijęs iš [[objektai/ivykiai/Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.).md#claim-t-185624|Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.)]]: Mingaila prie Gorodeco užpuolė polockiečių kariuomenę ir privertė ją bėgti iš kovos lauko bei stovyklos.
 - susijęs iš Gorodecas: Polockiečiai su kariuomene patraukė iki Gorodeco miesto, bet Mingaila juos užpuolė ir privertė sprukti.
@@ -99,7 +118,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186014|Skirmantas]]: Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1396 m. Vilniuje duotame akte Mingaila dalyvavo tarp garbingų ir patikimų vyrų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -164,6 +182,28 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Kunigui vikarui Mingailai buvo nunešta Kauno klebonijos sienoje rasta cinkinė deivės Veneros statulėlė.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    „Reikėtų priminti ir tai, -  rašoma jo laiške, -  jog amžiną
+    atilsį kunigas Pranckevičius, buvęs Kauno klebonas (klebona­
+    vęs maždaug prieš amžiną atilsį kunigą Pucilovskį) savo dieno­
+    raštyje (jis ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš,
+    norėdamas savo bute, klebonijoje, pasidaryti sandėliuką, prieš
+    išvykdamas į Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iš­
+    kirsti angą ir ją sutvirtinti. Ten dirbęs žmogus, išmušęs keletą
+    sluoksnių plytų, aptiko kadaise įmūrytą cinkinę deivės Veneros
+    statulėlę, kurią nunešė kunigui vikanu Mingailai. Kunigas vika­
+    ras, skrupulas, nelaukdamas mano sugrįžimo, įsakė tą antiką
+    sudaužyti ir nucinkuoti prikaistuvus bei puodus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 - Mingaila puole [[objektai/grupes/Polockiečiai]]

@@ -148,6 +148,8 @@ tags:
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179318|Lietuviai]]: Pasak Petro Dusburgiečio, Romuva buvo prūsų, lietuvių ir kitų baltų religinio kulto centras.
 - susijęs iš M. Prätorius, Deliciae: M. Prätorius manė, kad baltų Romovė galėjusi būti prie Biserkiemio ant Sidabro kalnu vadintos kalvos.
 - susijęs iš Ariogala: Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.
+- susijęs iš Ariogala: Narbutas Liutaurą vadina jūrų karžygiu ir rašo, kad jis 1262 m. atstatė senovinę Ariogalą.
+- susijęs iš Ariogala: Narbutas rašo, kad Liutauro sūnus Vytenis, gimęs 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocko kunigaikštystę.
 - susijęs iš Raseiniai: Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
 - susijęs iš Rausvė: M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.
 - susijęs iš Rausvė: A. Mežinskis manė, kad Romovė galėjusi būti ir prie Rausvės.

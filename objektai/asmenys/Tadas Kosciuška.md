@@ -67,7 +67,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186511|Teodoras Narbutas]]: Teodoras Narbutas rašydavo apie istorinius įvykius ir be atitinkamos faktografinės bazės.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182790|Michał Baliński Mykolas Balinskis]]: M. Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis.
 - susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55011|Mykolas Balinskis]]: Vytautas Berenis apibūdino Mykolą Balinskį kaip kruopštų, pedantišką istoriką, vengusį rašyti be faktografinės bazės.
-- susijęs iš [[objektai/autoriai/Vytautas Berenis.md#claim-t-54652|Vytautas Berenis]]: Vytautas Berenis yra teksto „Mykolas Balinskis - Vilniaus miesto istorikas“ autorius.
+- susijęs iš [[objektai/autoriai/Vytautas Berenis.md#claim-t-54652|Vytautas Berenis (istorikas, XX–XXI a.)]]: Vytautas Berenis yra teksto „Mykolas Balinskis - Vilniaus miesto istorikas“ autorius.
 - susijęs iš [[objektai/ivykiai/Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.).md#claim-t-41273|Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)]]: 1794 m. gegužės 4 d. Tadas Kosciuška pašalino Jokūbą Jasinskį iš Lietuvos sukilėlių vado pareigų.
 - susijęs iš Gegužės 3 d. konstitucija (1791 m.): 1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.
 - susijęs iš Vilnius: Mykolas Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei Vilniaus kultūrinio gyvenimo dalyvis.

@@ -155,6 +155,7 @@ tags:
 - susijęs iš Bučačo taikos sutartis (1672 m.): 1672 m. Turkija pradėjo karo veiksmus prieš Lenkiją ir privertė ją pasirašyti Bučačo taikos sutartį.
 - susijęs iš Chotinas: 1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus.
 - susijęs iš Livonija: 1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu.
+- susijęs iš Livonija: Narbutas rašė, kad 1243 m. Livonijos riteriai, šaukdami tikrojo Dievo vardą, užpuolė lietuvius.
 - susijęs iš Lvovas: Moldavijos vaivada Steponas ir turkų sultono paša Malkočas kariavo Lenkijos žemėje nuo Kameneco iki Lvovo, Tarnovo ir Krokuvos apylinkių.
 - susijęs iš Mažoji Podolė: Algirdo remiami Karijotaičiai įsitvirtino Mažojoje Podolėje, organizavo jos gynybą nuo totorių ir statė pilis.
 - susijęs iš Mažoji Podolė: Mažosios Podolės ir kitų pietinių žemių išėmimas iš tiesioginės Aukso ordos valdžios sudarė saugesnę padėtį Rytų Europoje.

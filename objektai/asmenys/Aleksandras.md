@@ -223,7 +223,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - susijęs iš Krokuva: Aleksandras 1501 m. lapkričio 29 d. išvyko iš Melniko į Krokuvą, kur gruodžio 12 d. buvo vainikuotas Lenkijos karaliumi.
 - susijęs iš Lietuva: Aleksandras pasiuntė į Maskvą pasiuntinius parvežti didžiosios kunigaikštytės Elenos į Lietuvą.
 - susijęs iš Liublinas: Karalius Olbrachtas su broliu karalaičiu Zigmantu išvyko į Liubliną prieš abiejų šalių ponų suvažiavimą Parčeve.
-- susijęs iš Maskva: 1496 m. sausį iš Maskvos išvykusi kunigaikštytė Elena vasarį atvyko į Vilnių.
 - susijęs iš Maskva: 1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai pasirašė amžinos taikos sutartį su caru.
 - susijęs iš Maskva: 1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai pasirašė amžinos taikos sutartį su caru.
 - susijęs iš Maskva: Sofijos Vytautaitės sužadėtinis 1388 m. sausio 19 d. jau buvo Maskvoje.

@@ -73,6 +73,7 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
 - susijęs iš [[objektai/asmenys/Rudolfas (Pamedės vyskupas).md#claim-t-60428|Rudolfas (Pamedės vyskupas)]]: Rudolfas, Pamedės vyskupas, Osos pakrantėje pastatė miestą, vardu Bišofsverderis.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59828|Skomantas]]: Skomantas su sūduviais įsiveržė į Kulmo žemę ir padalijo kariuomenę į dvi dalis puolimams prieš Torunę ir Kulmo miestą.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179285|Lietuviai]]: Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190600|Lietuviai]]: Narbutas mirusiųjų deginimą kildino iš indų ir teigė, kad vėlyvojoje lietuvių stabmeldystėje jis taikytas tik žymesniems žmonėms.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175131|Sūduviai-jotvingiai]]: Skomantas su sūduviais įsibrovė į Kulmo žemę ir padalijo kariuomenę į dvi dalis, nukreiptas prieš Torunę ir Kulmo miestą.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89242|Sūduviai]]: Skomantas su sūduviais įsiveržė į Kulmo žemę, padalijo kariuomenę ir niokojo kelią į Torunę bei Kulmo miestą.
 - susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-183918|Dviejų pilių sugriovimas ir Pipino žūtis]]: Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.

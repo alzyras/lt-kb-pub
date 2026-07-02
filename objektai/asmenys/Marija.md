@@ -88,6 +88,8 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
 - susijęs iš Vilija: 1547 m. Paleckio liejyklai skirtas sklypas buvo prie Vilniaus miesto, už Vilijos upės.
 - susijęs iš Vilnius: Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.
 - susijęs iš Štarkenbergas: 1326 m. antroji Štarkenbergo pilis buvo pastatyta kairiajame Osos krante, tarp upės ir Meino ežero.
+- susijęs iš [[objektai/zodynas/Perkrikštijimas De rebaptisantis hominibus.md#claim-t-189238|Perkrikštijimas De rebaptisantis hominibus]]: Narbutas skyriuje De rebaptisantis hominibus aptarė pakartotinio krikšto, arba žmonių perkrikštijimo, temą.
+- susijęs iš [[objektai/zodynas/Perkrikštijimas De rebaptisantis hominibus.md#claim-t-189239|Perkrikštijimas De rebaptisantis hominibus]]: Narbutas rašė, kad rusų tikėjimo žmonių perkrikštijimas Lenkijos bažnyčioje buvo įvestas dar prieš Kazimierą Vienuolį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -108,6 +110,6 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
     - t-001
 
 ## Ryšiai
-- Marija buvo_dukte [[objektai/asmenys/Gediminas]]
+- Marija buvo_dukte [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Marija buvo_zmona [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]
 - [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]] vede Marija

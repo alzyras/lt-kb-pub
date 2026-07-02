@@ -38,7 +38,7 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
   ryšio_subjekto_parinkimas: Bokštai: llm_allowed_candidate, place
   ryšio_targeto_parinkimas: Vilniaus katedra: llm_allowed_candidate, place
   ryšio_paaiskinimas: Bokštai išvardyti tarp valdų, kuriomis dovanojimo aktu buvo aprūpinta Vilniaus katedra.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176382|Gediminas]]: Gediminas Vilniuje pastatydino mūro tvirtovę, saugomą aukštų sienų ir trijų bokštų.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176382|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas Vilniuje pastatydino mūro tvirtovę, saugomą aukštų sienų ir trijų bokštų.
 - susijęs iš [[objektai/daiktai/Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai.md#claim-t-64922|Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai]]: Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis: net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias angas – Vytauto laikais daugiausia statyta būtent gynybinių statinių.
 - susijęs iš [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje.md#claim-t-87067|Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]: 1394 m. Švitrigaila mėgino užimti Vilnių, įkalbėdamas vienuolius padegti du medinius bokštus puolimo metu.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116729|Katalikų Bažnyčia]]: Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą.
@@ -71,8 +71,6 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
 - susijęs iš [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį.md#claim-t-183824|Gyventojų ir pirklių slėpimasis pilyje per apgultį]]: Per apgultį prie Žemutinės pilies slėpdavosi priemiesčių gyventojai ir pirkliai su prekėmis, todėl vokiečiai ją praminė Krautuvių pilimi.
 - susijęs iš [[objektai/paprociai/Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus.md#claim-t-07777|Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus]]: Dalis karo belaisvių būdavo parduodama gudams ir totoriams į vergus.
 - susijęs iš [[objektai/paprociai/Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus.md#claim-t-07778|Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus]]: Kare paimtus priešus, ypač vokiečius krikščionis, lietuviai versdavo sunkiai dirbti, prirakindavo prie girnų arba laikydavo iki mirties.
-- susijęs iš Jurbarkas: Apgriautos pilies plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.
-- susijęs iš Jurbarkas: 1259 m. prie Nemuno buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti.
 - susijęs iš Jurbarkas: Aprašomu metu apgriuvusios sienos ir bokštų plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.
 - susijęs iš Karaliaučius: Po 1466 m. Torno taikos Ordino sostinė buvo perkelta į Karaliaučių, ir jis liko sostine įsikūrus Prūsų kunigaikštijai.
 - susijęs iš Karaliaučius: Iš pagrindinės ordino žygių bazės Karaliaučiaus kelias iki uždaro lietuvių sodybų ploto buvo gana tolimas.

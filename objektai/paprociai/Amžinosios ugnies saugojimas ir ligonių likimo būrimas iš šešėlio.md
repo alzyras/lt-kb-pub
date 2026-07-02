@@ -37,19 +37,24 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-187999"></a>
-- t-001
-  global_id: t-187999
+- t-002
   teiginys: 'Narbutas pasakoja, kad žyniai prie Amžinosios ugnies pagal ligonio šešėlio padėtį aiškindavo gyvybės arba mirties ženklus.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Mitologinis paprotys paliktas su Narbuto atribucija, nes tai legendinio-religinio aiškinimo sritis. Išskleistas subjektas, ugnies kontekstas ir būrimo kriterijus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 822795-823349; hash=562ab801748ef827a81a2b5d3410ee7d642409d4f17ca312f0bb819882857ffe; match=exact
+  sprendimo_priezastis: gap::customs
+  ryšio_patikimumas: susije_su -> Rytas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Amžinosios ugnies saugojimas ir ligonių likimo būrimas iš šešėlio: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Rytas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Amžinosios ugnies saugojimas ir ligonių likimo būrimas iš šešėlio" parinktas kaip owner_note_path. Targetas "Rytas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Narbutas pasakoja, kad žyniai prie Amžinosios ugnies pagal ligonio šešėlio padėtį aiškindavo gyvybės arba mirties ženklus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -64,10 +69,10 @@ Nenurodyta
     mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy­
     venti, šešėlis stovėdavęs veidu į ugnį; priešingai, jeigu pasiro­
     dydavo nugara į ugnį, neabejotinai laukė mirtis.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

@@ -59,7 +59,6 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
 - susijęs iš Lietuvos senato laiškas Maskvos didikams dėl taikos, belaisvių ir apeigų: Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dėl taikos laikymosi, belaisvių švelnesnio traktavimo ir apeigų laisvės.
 - susijęs iš Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams: Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
 - susijęs iš Lietuva: Ivanas nesutiko sustabdyti karo veiksmų, kol bus gautas karaliaus atsakymas, o jo kariuomenė telkėsi netoli Lietuvos sienų.
-- susijęs iš Lietuva: Andrejus Kurbskis, nepakęsdamas Ivano žiaurumo, su visa šeimyna persikėlė į Lietuvą.
 - susijęs iš Livonija: Numalšinęs Livoniją, Žygimantas Augustas pasiuntė pasiuntinius derėtis dėl taikos su Maskva.
 - susijęs iš Urdomas: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos, perėjusios Volgą, sudegino Urdomą ir pasuko Staricos link.
 - susijęs iš Volgos upė: K. Radvilos pajėgos, perėjusios Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link.

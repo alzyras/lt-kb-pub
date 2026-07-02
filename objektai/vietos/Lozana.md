@@ -67,6 +67,7 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
 - susijęs iš [[objektai/ivykiai/Antroji Lozanos konferencija (1916 m. birželio 30 d. – liepos 4 d.).md#claim-t-01577|Antroji Lozanos konferencija (1916 m. birželio 30 d. – liepos 4 d.)]]: Antrojoje Lozanos konferencijoje 1916 m. birželio 30 d.–liepos 4 d. dalyvavo iš okupuotos Lietuvos atvykę delegatai.
 - susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-168139|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Komitetas gynė žmones nuo okupacinės valdžios žiaurumų, rekvizicijų ir neteisybių bei atstovavo lietuvių politiniams reikalams.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179294|Lietuviai]]: Lietuvių lyderių prisitaikymas prie Vokietijos interesų provokavo konfliktus su lenkais ir tarp pačių lietuvių.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190572|Lietuviai]]: Narbutas teigė, kad lietuvių mitologijoje visus ežerus globojo dievas Atrimpas, vadintas Ežeriniu.
 - susijęs iš Šveicarija: Antrojoje Lozanos konferencijoje nutarta politinės propagandos centrą įkurti Šveicarijoje ir remtis nepriklausomybės reikalavimu.
 ## Reikšmingi paminėjimai
 

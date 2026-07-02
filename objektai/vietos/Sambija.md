@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Sambija'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1370 m.'
@@ -9,11 +10,11 @@ date_start: '1370'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
 tags:
   - kraštas
   - vieta
-amziai:
-  - 'XIV'
 ---
 # Sambija
 
@@ -22,7 +23,6 @@ amziai:
 Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­ tų vasario mėn.
 
 ## Teiginiai
-
 <a id="claim-t-36567"></a>
 - t-001
   global_id: t-36567
@@ -46,8 +46,26 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   ryšio_targeto_parinkimas: Sambija: llm_allowed_candidate, place
   ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių Sambijos krašto sričių nusiaubimą.
 
-## Reikšmingi paminėjimai
+<a id="claim-t-188830"></a>
+- t-002
+  global_id: t-188830
+  teiginys: 'Narbutas nurodo Voigto veikalo puslapius, kuriuose pateikiami įrodymai, kad Romovė buvo Sambijoje.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 749005-749198; hash=b8fbba49d5ebc0eef9042ef10f868ffea51087355b33f5f24863cc3d09b9231e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Sambija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romovė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Sambija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Romovė buvo Sambijoje.
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -64,6 +82,23 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Narbutas nurodo Voigto veikalo puslapius, kuriuose pateikiami įrodymai, kad Romovė buvo Sambijoje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    „Taip pat šiaurėje
+    2
+    Voigt. Geschichte Preussens. -  B. I. -  S. 617-637. Apima straips­
+    ni, kuriame įrodinėjamas tos kronikos buvimas. Ten pat (p. 641-649)
+    įrodymai, kad Romovė buvo Sambijoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
+- [[objektai/vietos/Romovė]] priklause Sambija
 - [[objektai/grupes/Lietuviai]] puole Sambija

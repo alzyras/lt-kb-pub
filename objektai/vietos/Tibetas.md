@@ -27,7 +27,9 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=36178a99d3b70b63f191c22fb89da214ead176a1fddb2aa75cde0ec489b9d958; match=fallback; occurrences=0
   sprendimo_priezastis: auto
+- susijęs iš [[objektai/asmenys/Bodhidana.md#claim-t-190135|Bodhidana]]: Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį, persikėlusį į Tibetą ir mirusį prie Sungo kalno 495 m.
 - susijęs iš Lhasa: Lhasa aprašyta kaip šventasis Tibeto miestas, į kurį vietos tautelės neįsileisdavo europiečių.
+- susijęs iš [[objektai/asmenys/Bodhidana.md#claim-t-190135|Bodhidana]]: Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį, persikėlusį į Tibetą ir mirusį prie Sungo kalno 495 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,3 +49,6 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Bodhidana]] mire Tibetas

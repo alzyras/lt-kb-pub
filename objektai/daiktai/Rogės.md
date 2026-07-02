@@ -59,7 +59,10 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/daiktai/Ragučio šventės stabas ant rogių.md#claim-t-189742|Ragučio šventės stabas ant rogių]]: Narbutas rašo, kad Ragučio stabas ar keistas jo atvaizdas per vasario mėnesio šventę buvo vežiojamas rogėmis iš kaimo į kaimą.
+- susijęs iš [[objektai/paprociai/Ragučio garbinimo apeigos ir vasario šventės stabo vežiojimas.md#claim-t-189865|Ragučio garbinimo apeigos ir vasario šventės stabo vežiojimas]]: Narbutas Ragučio vardą kildino iš žodžio „Ragutas“, nes per vasario šventę dievo stabas ar atvaizdas būdavo vežiojamas rogėmis.
+- susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189992|Frydrichas Stenderis]]: Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o paprastu girtuoklių globėjo epitetu.
+- susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190266|Frydrichas Stenderis]]: Narbutas nesutiko su Stenderio siejimu Tiimpus su Atrimpos ir vadino Tiimpus paprastu girtuoklių globėjo epitetu.
 ## Reikšmingi paminėjimai
 
 - c-001

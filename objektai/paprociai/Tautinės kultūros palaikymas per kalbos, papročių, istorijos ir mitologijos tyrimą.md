@@ -36,20 +36,26 @@ Nenurodyta.
 Nenurodyta.
 
 ## Teiginiai
-
-<a id="claim-t-187832"></a>
-- t-001
-  global_id: t-187832
+- t-002
   teiginys: 'Įžangos autorius teigia, kad tautinei savimonei palaikyti buvo keliama gimtosios kalbos, papročių, istorijos ir tautinės kultūros puoselėjimo bei tyrimo programa.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir gramatiškas sakinys apie tautinės kultūros palaikymo programą. Jis atitinka įžangos autoriaus apibendrinimą ir neprideda faktų už citatos ribų.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 24730-25335; hash=6ebcbac6a9013da830e496ec8b35d19dca3200aec9e2b38751c541577722f81f; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautinės kultūros palaikymas per kalbos, papročių, istorijos ir mitologijos tyrimą: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautinės kultūros palaikymas per kalbos, papročių, istorijos ir mitologijos tyrimą" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Įžangos autorius teigia, kad tautinei savimonei palaikyti buvo keliama gimtosios kalbos, papročių, istorijos ir tautinės kultūros puoselėjimo bei tyrimo programa.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Šviesiausi Lenkijos ir
@@ -66,10 +72,10 @@ Nenurodyta.
     ## Puslapis 17
 
     dojimui reikalingus mokslus“1.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

@@ -6,6 +6,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1386 m.'
@@ -20,14 +21,14 @@ date_start: '1386'
 date_end: '1918'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XX'
 tags:
   - karas
   - miestas
   - sutartis
   - valstybė
-amziai:
-  - 'XIV'
-  - 'XX'
 ---
 # Rusija
 
@@ -36,7 +37,6 @@ amziai:
 Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė. Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų.
 
 ## Teiginiai
-
 <a id="claim-t-180505"></a>
 - t-001
   global_id: t-180505
@@ -373,6 +373,25 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   ryšio_subjekto_parinkimas: Rusija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=60
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188826"></a>
+- t-023
+  global_id: t-188826
+  teiginys: 'T. Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare, o mūšyje prie Abo miesto buvo kontūzytas.'
+  pagrindžia:
+    - c-018
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 6077-6426; hash=f40d47f3abd51c9a07db33c0b2542a9138381f436c28d4f2f3d72755decc004e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rusija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusija" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Andrusavos taika (1667 m.): 1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas.
 - susijęs iš [[objektai/asmenys/Karolis XII.md#claim-t-171586|Karolis XII]]: Nugalėjęs Augustą II, Karolis XII 1708 m. puolė Rusiją, bet 1709 m. buvo nugalėtas prie Poltavos ir pralaimėjo karą.
 - susijęs iš [[objektai/ivykiai/Andrusavo paliaubų pasirašymas (1667 m. sausio 30 d.).md#claim-t-39123|Andrusavo paliaubų pasirašymas (1667 m. sausio 30 d.)]]: 1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas.
@@ -386,6 +405,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodynas“: Kristijono Gotlibo Milkaus žodyno pratarmėje Immanuelis Kantas pabrėžė išskirtinius lietuvių kalbos pagyrimus.
 - susijęs iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodynas“: Immanuelio Kanto mintys apie lietuvių kalbą pateiktos Kristijono Gotlibo Milkaus žodyno pratarmėje.
 - susijęs iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodynas“: Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją.
+- susijęs iš [[objektai/grupes/Mordviai.md#claim-t-189497|Mordviai]]: Narbutas mordvius mini kaip Rusijos gilumoje gyvenančią tautą, kurios mergaitės nešiojo įvairaus dydžio rutulinius varpelius.
 - susijęs iš Nemunas: 1812 m. Napoleono kariuomenė kėlėsi per Nemuną žygyje į Rusiją.
 - susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09880|Smolensko apgultis (1632–1634 m.)]]: 1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko.
 - susijęs iš [[objektai/asmenys/Bazilijus Lopacinskis.md#claim-t-87631|Bazilijus Lopacinskis]]: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
@@ -405,6 +425,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Aleksandras II.md#claim-t-82167|Aleksandras II]]: Caras Aleksandras II su aplinka rengė baudžiavos panaikinimo projektus Rusijos imperijoje.
 - susijęs iš [[objektai/asmenys/Aleksandras III.md#claim-t-18775|Aleksandras III]]: Aleksandro III laikais rusų nacionalizmas tapo vyraujančiu Rusijos imperijos vidaus politikos principu.
 - susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75699|Antanas Mackevičius]]: Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.
+- susijęs iš [[objektai/asmenys/Arkidjakonas Povilas.md#claim-t-190131|Arkidjakonas Povilas]]: Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.
 - susijęs iš [[objektai/asmenys/Augustas III.md#claim-t-82224|Augustas III]]: Po Augusto II mirties ATR karaliumi tapo Rusijos remiamas Augusto II sūnus Augustas III.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75776|Augustinas Voldemaras]]: Augustinas Voldemaras prieš Varšuvą bandė atsilaikyti Vokietijos arba Sovietų Rusijos padedamas.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75783|Augustinas Voldemaras]]: Augustinas Voldemaras birželį pareiškė, kad Lietuva galėtų įsijungti į Rusijos federaciją panašiais pagrindais kaip Bavarija į Vokietijos sąjungą.
@@ -425,6 +446,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176429|Jadvyga Jogailienė]]: Jadvyga reikalavo, kad Vytautas mokėtų jai metinį činšą už Lietuvos ir Rusijos žemes, užrašytas jai kraičiu.
 - susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-183743|Jokūbas Kudenekovičius Čerkaskis]]: Kunigaikštis Jokūbas Kudenekovičius Čerkaskis faktiškai vadovavo Rusijos kariuomenei, nors oficialiu vadu buvo caras Aleksejus Michailovičius.
 - susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-40211|Jokūbas Kudenekovičius Čerkaskis]]: Kunigaikštis Jokūbas Kudenekovičius Čerkaskis iš tikrųjų vadovavo Rusijos kariuomenei kare su Lenkijos-Lietuvos valstybe.
+- susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-188549|Jonas Chodkevičius]]: Narbutas rašo, kad Jonas Chodkevičius ir Romanas Sanguška 1567 metais palaikė karo veiksmų su Rusija tęsimą.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101669|Juzefas Pilsudskis]]: Juzefo Pilsudskio šalininkai rėmė ryžtingą kovą pirmiausia prieš Rusiją ir nevengė teroristinių veiksmų.
 - susijęs iš [[objektai/asmenys/Karolis XII.md#claim-t-171586|Karolis XII]]: Nugalėjęs Augustą II, Karolis XII 1708 m. puolė Rusiją, bet 1709 m. buvo nugalėtas prie Poltavos ir pralaimėjo karą.
 - susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63843|Kotryna II]]: Kotryna II valdė 1762-1796 m., o jos laikais Rusija pradėjo vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus.
@@ -447,6 +469,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184427|Petras I Didysis]]: 1721 m. Petras I Didysis paskelbė Rusiją imperija.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184428|Petras I Didysis]]: Ivinskio vertinimu, Petro Didžiojo epocha įvedė Rusijos imperiją į Europos areną ir bajorų respubliką paliko Rusijos įtakoje.
 - susijęs iš [[objektai/asmenys/Riurikas.md#claim-t-87845|Riurikas]]: Riurikas su variagais, autoriaus nuomone, į Rusiją galėjo būti atblokštas Petro Olai „Danų kronikoje“ aprašyto įvykio.
+- susijęs iš [[objektai/asmenys/Romanas Sanguška.md#claim-t-188606|Romanas Sanguška]]: Romanas Sanguška kariavo su Rusija ir, Narbuto apibūdinimu, kovojo kruvinus mūšius.
 - susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64057|Simonas Rozenbaumas]]: Simonas Rozenbaumas buvo Lietuvos delegacijos narys žydas, kurio argumentais lietuviai rėmėsi derybose su Sovietų Rusija.
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170087|Stanislovas Augustas Poniatovskis (valdovas)]]: 1792 m. liepos 23 d. Varšuvoje Stanislovas Augustas Poniatovskis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai.
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170093|Stanislovas Augustas Poniatovskis (valdovas)]]: Stanislovo Augusto veiksmai su Rusijos ambasada Varšuvoje prisidėjo prie jo politinio fiasko 1795 metais.
@@ -456,6 +479,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121172|Tautvilas]]: Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje.
 - susijęs iš [[objektai/asmenys/Teobaldas fon Betmanas Holvegas.md#claim-t-26429|Teobaldas fon Betmanas Holvegas]]: Teobaldas fon Betmanas Holvegas 1916 m. balandį Reichstage pareiškė, kad Vokietija negrąžins Rusijai žmonių, gyvenančių nuo Baltijos jūros iki Voluinės pelkių.
 - susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64246|Vladimiras Leninas]]: Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.
+- susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-188655|Žygimantas]]: Karalius Žygimantas tais metais dalyvavo Piotrkovo seimo reikaluose ir šiaurėje kariavo su Rusija.
 - susijęs iš [[objektai/autoriai/Antanas Kulakauskas.md#claim-t-26605|Antanas Kulakauskas]]: Redaktoriaus žodyje Antanas Kulakauskas pristatomas kaip Vytauto Didžiojo universiteto profesorius, parašęs III skyrių apie lietuvių gyvenimą Rusijos imperijoje 1795-1915 m.
 - susijęs iš [[objektai/autoriai/Mickevičius.md#claim-t-05717|Mickevičius]]: Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.
 - susijęs iš [[objektai/autoriai/Miilleris.md#claim-t-88076|Miilleris]]: Miilleris buvo Maskvos archyvo vedėjas, kurio Rusijos genealoginėmis knygomis rėmėsi Kochas.
@@ -479,6 +503,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Lietuvos šaulių sąjunga.md#claim-t-183169|Lietuvos šaulių sąjunga]]: Lietuvos šaulių sąjunga priešinosi deryboms dėl Himanso plano, kurį Lietuvoje ragino atmesti ir Vokietijos bei Rusijos diplomatai.
 - susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78385|Livonijos kunigaikštystė]]: Steponas Batoras ir Mikalojus Radvila Rudasis laikė būtina atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92732|Maskvos kunigaikštija]]: Rusų kronikos Vytautui priskyrė susitarimą su Tochtamyšu, pagal kurį jis ketino valdyti Didžiąją Maskvos kunigaikštiją ir visą Rusiją.
+- susijęs iš [[objektai/grupes/Mordviai.md#claim-t-189497|Mordviai]]: Narbutas mordvius mini kaip Rusijos gilumoje gyvenančią tautą, kurios mergaitės nešiojo įvairaus dydžio rutulinius varpelius.
 - susijęs iš [[objektai/grupes/Rusai.md#claim-t-117247|Rusai]]: „Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, kurių daugumą iš pradžių sudarė stačiatikių seminarijų auklėtiniai.
 - susijęs iš [[objektai/grupes/Rusijos Federacija.md#claim-t-108340|Rusijos Federacija]]: Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS.
 - susijęs iš [[objektai/grupes/Rusijos Federacija.md#claim-t-108341|Rusijos Federacija]]: Rusija Lietuvai išliko svarbi ekonominė partnerė, tačiau artimesni Lietuvos ir Rusijos santykiai nesusiklostė.
@@ -540,6 +565,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.).md#claim-t-41354|Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]: 1654 m. prasidėjo Rusijos ir Lenkijos-Lietuvos karas.
 - susijęs iš [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.).md#claim-t-20468|Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]: Pirminė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d.
 - susijęs iš [[objektai/ivykiai/Rusijos vietinio valdymo sistemos įvedimas aneksuotoje LDK dalyje.md#claim-t-25115|Rusijos vietinio valdymo sistemos įvedimas aneksuotoje LDK dalyje]]: 1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema, kurioje veikė vietos administracijos prižiūrimos institucijos.
+- susijęs iš [[objektai/ivykiai/Rusijos-Švedijos karas, kuriame dalyvavo T. Narbutas.md#claim-t-189631|Rusijos-Švedijos karas, kuriame dalyvavo T. Narbutas]]: T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare, buvo kontūzytas mūšyje prie Abo miesto ir netrukus apkurto.
 - susijęs iš [[objektai/ivykiai/Rusų valdžios sugrįžimas į Lietuvą (1813 m.).md#claim-t-66855|Rusų valdžios sugrįžimas į Lietuvą (1813 m.)]]: Pasitraukus Napoleono kariuomenei, Lietuvoje tuojau buvo sugrąžinta senoji Rusijos valdžia.
 - susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-12412|Salyno sutartis]]: Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna.
 - susijęs iš [[objektai/ivykiai/Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos.md#claim-t-20505|Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos]]: Stanislovo Augusto pozicija 1792 m. gegužės–liepos kare su Rusija buvo susitaikėliška.
@@ -629,12 +655,14 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Livonija: 1621 m. švedai užėmė didelę Livonijos dalį, o Rusija tuo metu grasino Lietuvai karu.
 - susijęs iš Maskva: Karai su Maskvos didžiąja kunigaikštyste dėl rytinių teritorijų kėlė ATR ir Rusijos konfliktus XVII a.
 - susijęs iš Maskva: Karai su Maskvos didžiąja kunigaikštyste dėl rytinių teritorijų kėlė konfliktus tarp Abiejų Tautų Respublikos ir Rusijos.
+- susijęs iš Maskva: Maskvoje viešėjęs arkidjakonas Povilas pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.
 - susijęs iš Nemunas: 1812 m. Napoleono kariuomenė kėlėsi per Nemuną žygyje į Rusiją.
 - susijęs iš Pietų Rusija: Virvelinės keramikos kultūros šaknų ieškoma Pietų Rusijoje.
 - susijęs iš Pietų Rusija: Indoeuropiečiai į Europą greičiausiai atkeliavo per Pietų Rusijos stepes ir Kaukazą.
 - susijęs iš Prancūzija: Zigmantas Sierakauskas manė, kad po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.
 - susijęs iš Prūsija: 1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl Abiejų Tautų Respublikos II padalijimo.
 - susijęs iš Prūsija: 1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl Abiejų Tautų Respublikos II padalijimo.
+- susijęs iš Rusijos giluma: Narbuto pastaboje Rusijos gilumoje gyvenantys mordviai iki šiol laikėsi papročio mergaitėms nešioti įvairaus dydžio rutulinius varpelius.
 - susijęs iš Rusijos imperija: 1905 m. pradžioje Rusijos sostinėje prasidėjusi socialinė demokratinė revoliucija netrukus pasiekė Lietuvos miestus.
 - susijęs iš Rusijos imperija: 1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo beveik pusė etninių lietuvių, o rusiškai skaitė tik kas penktas.
 - susijęs iš Rusijos imperija: Rusijos imperijos valdžia 40 metų vykdė rusinimo politiką Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse.
@@ -643,6 +671,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš SSRS: Baltijos valstybėse galimybė atsidurti SSRS valdžioje buvo klaidingai suvokta kaip laikinas grįžimas į Nikolajaus II Rusiją.
 - susijęs iš Salynas: Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.
 - susijęs iš Salynas: 1398 metų pabaigoje Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.
+- susijęs iš Sirija: Narbutas rašo, kad Sirijos patriarchą Maskvoje lydėjęs arkidiakonas Povilas pasakojo apie Rusijos carui pavaldžių tautų dangaus kūnų garbinimą.
 - susijęs iš Smolenskas: Smolenskas ir visa pietų Rusija priklausė Vytautui, kai jis siekė sumušti totorius ir veržtis į Rytus.
 - susijęs iš Sovietų Rusija: Rusija pretendavo į LDK palikimą ir Lietuvą laikė jo sudedamąja dalimi.
 - susijęs iš Sovietų Rusija: 1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes.
@@ -700,6 +729,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75773|Augustinas Voldemaras]]: Augustinas Voldemaras pareiškė neplanuojantis kurti Lietuvos kariuomenės, nes esą Lietuvai užteksią milicijos.
 - susijęs iš [[objektai/asmenys/B. Kolyška.md#claim-t-40053|B. Kolyška]]: B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais pateko į nelaisvę.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176314|Birutė]]: Birutė iš jų bus išmokęs skaityti ir rašyti.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188516|Birutė]]: Narbutas rašo, kad Birutė, žuvus Kęstučiui ir valdant Vytautui, grįžo į Palangą ir 1416 metais ten mirė laikydamasi senojo tikėjimo.
 - susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63520|Borisas Jelcinas]]: Borisas Jelcinas vadovavo kovai prieš komunistinius perversmininkus ir privertė kapituliuoti Maskvos pučistus.
 - susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63521|Borisas Jelcinas]]: Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nepasiduoti reakcijos jėgoms.
 - susijęs iš [[objektai/asmenys/Donatas Malinauskas.md#claim-t-18878|Donatas Malinauskas]]: Donatas Malinauskas 1914 m. liepą Vilniuje su Jonu Basanavičiumi ir Stasiu Šilingu surašė Gintarinę deklaraciją.
@@ -764,6 +794,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Nikolajus Repinas.md#claim-t-40374|Nikolajus Repinas]]: Rusijos imperatorienė Jekaterina įsakė Rusijos pajėgų Lietuvoje vadui Nikolajui Repinui slopinti sukilimą.
 - susijęs iš [[objektai/asmenys/P. Bermontas-Avalovas.md#claim-t-40379|P. Bermontas-Avalovas]]: Vokiečių remiamas buvęs carinės Rusijos kariuomenės pulkininkas P. Bermontas-Avalovas vadovavo Rusijos vakarų armijai.
 - susijęs iš [[objektai/asmenys/Paulius fon Hindenburgas.md#claim-t-78068|Paulius fon Hindenburgas]]: Oberostui formaliai vadovavo generolai Paulius fon Hindenburgas ir Ėrichas Liudendorfas.
+- susijęs iš [[objektai/asmenys/Petras d'Ailli.md#claim-t-190197|Petras d'Ailli]]: Narbutas spėja, kad 1418 metų rankraštis apie agapijonus Rusijoje ir Lietuvoje galėjo būti vienas iš neišspausdintų Petro d'Ailli veikalų.
 - susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79152|Povilas Sapiega]]: Povilas Sapiega vadovavo bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus.
 - susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79154|Povilas Sapiega]]: Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną.
 - susijęs iš [[objektai/asmenys/Pranciškus Ferdinandas.md#claim-t-19201|Pranciškus Ferdinandas]]: Į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą 1914 m. birželio 28 d. Sarajeve buvo paleisti šūviai.
@@ -814,6 +845,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/daiktai/Bomba.md#claim-t-45474|Bomba]]: Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba.
 - susijęs iš [[objektai/daiktai/Bomba.md#claim-t-45475|Bomba]]: Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba.
 - susijęs iš [[objektai/daiktai/Briliantinis žiedas.md#claim-t-187978|Briliantinis žiedas]]: 1839 m. T. Narbutas, nusiuntęs penkis savo istorijos veikalo tomus Rusijos imperatoriui, gavo briliantinį žiedą, įvertintą 1000 aukso rublių.
+- susijęs iš [[objektai/daiktai/Briliantinis žiedas.md#claim-t-188378|Briliantinis žiedas]]: Istorikas 1839 m. gavo Rusijos imperatoriaus dovanotą briliantinį žiedą.
 - susijęs iš [[objektai/daiktai/Dvikalbiai elementoriai kirilika.md#claim-t-77923|Dvikalbiai elementoriai kirilika]]: Etninės Lietuvos kaimo mokyklų mokytojams valdžia norėjo išleisti dvikalbius elementorius su rusiškų žodžių vertimais kirilika.
 - susijęs iš [[objektai/daiktai/Gediminaičių stulpai.md#claim-t-169858|Gediminaičių stulpai]]: Gediminaičių stulpai buvo panaudoti Sąjūdžio ženkle, kurį kūrė Giedrius Reimeris ir Algimantas Nasvytis.
 - susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-183296|Ginklai ir ginkluotė]]: 1920 m. bolševikai iš RSFSR atsiuntė apie 2 000 diversantų, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune bei kituose miestuose.
@@ -828,6 +860,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/daiktai/Vienaragis (pabūklas).md#claim-t-40778|Vienaragis (pabūklas)]]: 1831 m. sukilimo laikotarpiu Rusijos artilerija naudojo „jedinorog“, arba „vienaragio“, tipo pabūklus.
 - susijęs iš [[objektai/daiktai/Vokiškojo tipo alebarda.md#claim-t-40784|Vokiškojo tipo alebarda]]: Vokiškojo tipo alebarda datuojama XVI a. antrąja puse-XVII a.
 - susijęs iš [[objektai/daiktai/Vyriška apranga.md#claim-t-19610|Vyriška apranga]]: Emilija Pliaterytė sukilėlių daliniuose kovėsi vilkėdama vyrišką aprangą ir jodama ant žirgo.
+- susijęs iš [[objektai/daiktai/Šaurų dvaro muziejaus eksponatai.md#claim-t-189705|Šaurų dvaro muziejaus eksponatai]]: Rusijos valdžiai sekvestravus Šaurų dvarą, jo muziejaus eksponatai, knygos ir archyvai buvo suvežti į vieną Vilniaus bažnyčią.
 - susijęs iš [[objektai/daiktai/Žemėlapis „Lituania Propria“.md#claim-t-26416|Žemėlapis „Lituania Propria“]]: „Lituania Propria“ žemėlapis pateiktas Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80769|Abiejų Tautų Respublika]]: 1797 m. Peterburgo konvencija patvirtino trečiąjį Abiejų Tautų Respublikos padalijimą ir panaikino jos valstybingumo likučius.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80772|Abiejų Tautų Respublika]]: 1793 m. Rusija ir Prūsija įvykdė antrąjį Abiejų Tautų Respublikos padalijimą, kurį Gardino seimas buvo priverstas patvirtinti.
@@ -908,7 +941,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Vilniaus Senienų muziejus.md#claim-t-55075|Vilniaus Senienų muziejus]]: Vilniaus Senienų muziejus apibūdinamas kaip mokslinė institucija, sutelkusi krašto visuomenę.
 - susijęs iš [[objektai/grupes/Vilniaus sukilimo centrinis komitetas.md#claim-t-55097|Vilniaus sukilimo centrinis komitetas]]: Vilniuje vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, susikūrė sukilimo centrinis komitetas.
 - susijęs iš [[objektai/grupes/Vilniaus sukilimo centrinis komitetas.md#claim-t-55098|Vilniaus sukilimo centrinis komitetas]]: Vilniaus sukilimo centriniam komitetui priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Leonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis ir Liudvikas Zambrzyckis.
-- susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113355|Vilniaus universitetas]]: Po 1830-1831 m. sukilimo Vilniaus universitetas buvo uždarytas.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113358|Vilniaus universitetas]]: Vilniaus universitetas tapo Vilniaus švietimo apygardos centru, kai į ją pateko buvusios LLV žemės ir 9 mln. gyventojų.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113359|Vilniaus universitetas]]: Michałas Balińskis 1812 m. rugsėjo 22 d. įstojo į Vilniaus universiteto Fizikos ir matematinių mokslų fakultetą.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113363|Vilniaus universitetas]]: 1832 m. buvo nutarta uždaryti Vilniaus universitetą.
@@ -917,8 +949,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113371|Vilniaus universitetas]]: 1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo iniciatorių, „Lietuvos laisvamanybės lizdą“.
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117315|Vokiečiai]]: Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus.
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117316|Vokiečiai]]: Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus.
-- susijęs iš [[objektai/grupes/Švedai.md#claim-t-75060|Švedai]]: 1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.
-- susijęs iš [[objektai/grupes/Švedai.md#claim-t-75062|Švedai]]: 1655–1660 m. švedai kariavo Lietuvos ir Lenkijos teritorijose, bet Lietuvoje įsitvirtinti jiems nepavyko.
+- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-188358|Vokiečiai]]: Narbutas rašė, kad senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“ ir „Belewitt“.
 - susijęs iš [[objektai/grupes/Švedai.md#claim-t-75063|Švedai]]: Švedija siekė viešpatauti Baltijos jūroje, vadindama šį tikslą dominium maris Baltici.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176138|Žemaičiai]]: Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117381|Žydai]]: Kuriant Izraelį reikšmingus vaidmenis atliko iš buvusios LDK ir ATR erdvės kilę žydai, vadinęsi litvakais.
@@ -983,6 +1014,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.).md#claim-t-66929|Targovicos konfederacija (1792—1793 m.)]]: Jakaterina II globojo Lenkijos ir Lietuvos reformų priešininkus, o su Rusijos pagalba buvo suorganizuota Targovicos konfederacija.
 - susijęs iš [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.).md#claim-t-66931|Targovicos konfederacija (1792—1793 m.)]]: Rusija suorganizavo reformų priešininkų Targovicos konfederaciją ir parėmė ją savo kariuomene.
 - susijęs iš [[objektai/ivykiai/Targovicos konfederacijos akto paskelbimas.md#claim-t-77908|Targovicos konfederacijos akto paskelbimas]]: Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.
+- susijęs iš [[objektai/ivykiai/Tilžės ir Austerlico kautynės.md#claim-t-189632|Tilžės ir Austerlico kautynės]]: Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse ir buvo sužeistas.
 - susijęs iš [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas.md#claim-t-55133|Vilniaus Senienų muziejaus įkūrimas]]: Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus.
 - susijęs iš [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas.md#claim-t-55134|Vilniaus Senienų muziejaus įkūrimas]]: Vilniaus Senienų muziejus buvo mokslinė institucija, sutelkusi krašto visuomenę.
 - susijęs iš [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas.md#claim-t-81829|Vilniaus Senienų muziejaus įkūrimas]]: Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.
@@ -1133,6 +1165,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Vudro Vilsono 14 punktų: Vudro Vilsono paskelbti „14 punktų“ suteikė JAV lietuvių imigrantams progą kelti Lietuvos klausimą.
 - susijęs iš Švitrigailos 1431 m. gruodžio 31 d. laiškas didžiajam magistrui: 1431 m. gruodžio 31 d. laiške didžiajam magistrui Švitrigaila pranešė priėmęs Friedrichą von Bebirsteiną į savo dvariškių būrį.
 - susijęs iš „gintarinė“ deklaracija: 1914 m. rugpjūtį Vilniaus lietuvių būrys Rusijos vyriausybei įteikė viešąją deklaraciją, gavusią „gintarinės“ vardą.
+- susijęs iš Austerlicas: Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
 - susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
 - susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
 - susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
@@ -1146,6 +1179,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Drohičinas: Lietuvos metraštyje pasakojama, kad Erdvilas rado Drohičiną Batu nusiaubtą ir sunaikintą, vėliau jį atstatė ir jame kunigaikščiavo.
 - susijęs iš Drohičinas: Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis.
 - susijęs iš Europa: Petras I Didysis nukreipė Rusijos politinį veidą į Europą ir įvedė ją tarp pirmaeilių Europos galybių.
+- susijęs iš Europa: Narbutas vertino, kad apie 2000 m. pr. Kr. egiptiečiai pietiniuose Europos pakraščiuose rado žmones, kuriems buvo lemta iškilti.
 - susijęs iš Ežeronis: Projekte Lietuvos siena nuo Druskininkų turėjo eiti per Ežeronis ligi Volios.
 - susijęs iš Gardinas: A. Jofė sutiko Gardiną ir Lydą priskirti Lietuvai, nors šiose žemėse lietuvių gyventa mažai.
 - susijęs iš Gardinas: XVIII a. pabaigoje Gardine mėginta gaminti šautuvus, tačiau kariuomenės vadovybė savais gamintojais nepasitikėjo.
@@ -1182,12 +1216,11 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Lietuvos Užnemunė: Praėjus 20 metų po 1863 m. sukilimo, etninių lietuvių tautinį sąjūdį atnaujino inteligentai, kilę daugiausia iš Užnemunės krašto.
 - susijęs iš Lietuvos Užnemunė: Po 1863 m. sukilimo etninių lietuvių tautinį sąjūdį atnaujino inteligentai, daugiausia kilę iš Užnemunės krašto.
 - susijęs iš Lietuvos Užnemunė: Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu.
-- susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
 - susijęs iš Livonija: Livonija vis glaudžiau šliejosi prie Prūsijos.
 - susijęs iš Livonija: Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.
-- susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
 - susijęs iš Londonas: Zigmantą Sierakauską, ginklų ir savanorių iš Londono.
 - susijęs iš Maskva: Jonas Basanavičius, pirmasis mėnraščio redaktorius, buvo baigęs medicinos studijas Maskvoje.
+- susijęs iš Maskva: 1496 m. sausį iš Maskvos išvykusi kunigaikštytė Elena vasarį atvyko į Vilnių.
 - susijęs iš Maskva: Tomo Naruševičiaus vadovaujama Lietuvos delegacija Maskvoje reikalavo pripažinti atkurtą Lietuvos valstybę.
 - susijęs iš Maskva: 1610 m. lenkų kariuomenė, sumušusi rusus prie Klušino, užėmė Maskvą.
 - susijęs iš Maskva: Rusijoje kilus dideliam sukilimui, Maskvoje įsitvirtinę lenkai ir lietuviai buvo apsupti ir priversti kapituliuoti.
@@ -1216,6 +1249,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Peterburgas: Vilniaus Romos katalikų dvasinė akademija buvo perkelta į Sankt Peterburgą, o Vilniaus medicinos-chirurgijos akademija uždaryta.
 - susijęs iš Peterburgas: Peterburge telkėsi reformų opozicija, nes Jekaterina II ten susikvietė aršiausius reformų priešininkus.
 - susijęs iš Pinskas: Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.
+- susijęs iš Piotrkovas: Narbutas aiškina, kad 1567 metais vietoj abejotino Gardino seimo iš tikrųjų vyko ilgai posėdžiavęs Lenkijos seimas Piotrkove.
 - susijęs iš Polockas: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos.
 - susijęs iš Praha: Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius.
 - susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo grąžinti Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.
@@ -1238,6 +1272,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Strėva: Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš Svėdasai: Zigmantas Sierakauskas su pagrindiniais sukilėlių daliniais išskubėjo Svėdasų kryptimi.
 - susijęs iš Targovica: Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.
+- susijęs iš Tilžė: Tarnaudamas Rusijos kariuomenėje, T. Narbutas 1807 m. dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
 - susijęs iš Toropecas: K. Radvilos pajėgos turėjo nuo Veližo pulti Toropeco ir Bialos pilių apylinkes.
 - susijęs iš Trakai: 1655 m. rugpjūčio 7 d. rusams ir kazokams užėmus Vilnių, netrukus buvo užimti Trakai ir Kaunas.
 - susijęs iš Ukmergė: Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi, o Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.
@@ -1270,7 +1305,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Černigovas: Černigovo stačiatikių vyskupas dalyvavo susirinkime, kuris paskyrė Cemblaką Kijevo metropolitu.
 - susijęs iš Čikaga: 1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių.
 - susijęs iš Čikaga: 1917 m. JAV lietuvių imigrantus, gyvenusius daugiausia Čikagoje, Niujorke ir Pensilvanijoje, suaktyvino JAV įstojimas į karą.
-- susijęs iš Šaurų dvaras: Rusijos valdžia sekvestravo Šaurų dvarą, o jo knygas, archyvus ir muziejaus eksponatus suvežė į vieną Vilniaus bažnyčią.
 - susijęs iš Šiauliai: 1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada.
 - susijęs iš Šiaurės Lietuva: Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai.
 - susijęs iš Šiaurės Vakarų kraštas: Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.
@@ -1280,6 +1314,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Švedija: 1581 metais iš Vilniaus buvo išsiųsta pasiuntinybė į Švediją per Lauryną Goslickį.
 - susijęs iš Švedija: Valdant Vazų dinastijai Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija 1654–1667 metais.
 - susijęs iš Švedija: Švedija siekė viešpatauti Baltijos jūroje.
+- susijęs iš Švedija: Narbutas Švediją ir Daniją pateikė kaip kraštus, kuriuose prie didžiųjų šventyklų susirinkdavo gausios žmonių minios.
 - susijęs iš Želvos ežerai: Rytinė Lietuvos teritorijos linija buvo vedama per Drivietų, Želvos ir Oziraičių ežerus.
 - susijęs iš Želvos ežerai: Lietuvos rytinė teritorijos linija buvo vedama per Želvos ežerus.
 - susijęs iš Žemaitija: Lietuvoje sukilimas prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios paskelbto rekrutų ėmimo.
@@ -1376,7 +1411,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117403|Žydai]]: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo sėslumo ribos, sutapusios su buvusios LDK arba ATR rytine riba.
 - susijęs iš [[objektai/ivykiai/Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.).md#claim-t-20466|Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.)]]: 1998–1999 m. Rusijos finansų krizė Lietuvai sukėlė biudžeto sunkumų, nes iki krizės daug lietuviškų prekių buvo eksportuojama į NVS, pirmiausia Rusiją.
 - susijęs iš [[objektai/paprociai/Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje.md#claim-t-54377|Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje]]: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.
-- susijęs iš Šaurų dvaras: Rusijos valdžia sekvestravo Šaurų dvarą, o jo knygas, archyvus ir muziejaus eksponatus suvežė į vieną Vilniaus bažnyčią.
 - susijęs iš [[objektai/zodynas/interliudas.md#claim-t-22167|interliudas]]: 1812 m. antrojoje pusėje Lietuvos priklausymą Rusijos imperijai pusmečiui pertraukė Napoleono Bonaparto interliudas.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184428|Petras I Didysis]]: Ivinskio vertinimu, Petro Didžiojo epocha įvedė Rusijos imperiją į Europos areną ir bajorų respubliką paliko Rusijos įtakoje.
 - susijęs iš [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md#claim-t-54214|Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]: Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti rusai mokytojai.
@@ -1386,7 +1420,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35871|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus.
 - susijęs iš [[objektai/ivykiai/Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.).md#claim-t-183270|Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.)]]: 1998–1999 m. Rusijos finansų krizė sukėlė Lietuvai biudžeto sunkumų, nes eksportas į NVS 1999 m. sumažėjo 59 proc.
 - susijęs iš Lenkijos ir Lietuvos kariuomenių struktūros aprašymas (1572 m.): Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
-- susijęs iš [[objektai/ivykiai/Narbutų šeimos represavimas po 1863 m. sukilimo.md#claim-t-187970|Narbutų šeimos represavimas po 1863 m. sukilimo (sukilimas, XIX a.)]]: Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią.
 - susijęs iš Vudro Vilsono 14 punktų: Vudro Vilsono paskelbti „14 punktų“ suteikė JAV lietuvių imigrantams progą kelti Lietuvos klausimą.
 - susijęs iš [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.).md#claim-t-71739|Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]: 1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.
 - susijęs iš Annales Quedlinburgenses: „Annales Quedlinburgenses“ pirmieji paminėjo Lietuvos vardą, pažymėdami, kad 1009 m. prie Lietuvos ir Rusijos sienos nužudytas šv. Brunonas su 18 palydovų.
@@ -1395,7 +1428,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-186390|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.
 - susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63520|Borisas Jelcinas]]: Borisas Jelcinas vadovavo kovai prieš komunistinius perversmininkus ir privertė kapituliuoti Maskvos pučistus.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1734,6 +1766,24 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+- c-018
+  santrauka: 'T. Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare, o mūšyje prie Abo miesto buvo kontūzytas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    T. Nar­
+    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
+    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
+    siliepė sveikatai -  jis apkurto. Napoleono žygio į Rusiją metu
+    T. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­
+    nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo
+    prancūzų administracijoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-023
 
 ## Ryšiai
 - [[objektai/vietos/Smolenskas]] priklause Rusija
@@ -1742,6 +1792,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - [[objektai/vietos/Kijevas]] priklause Rusija
 - [[objektai/grupes/Riurikaičių dinastija]] valde Rusija
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] valde Rusija
+- [[objektai/grupes/Mordviai]] gyveno Rusija
 - [[objektai/grupes/Napoleono kariuomenė]] surenge_zygi_i Rusija
 - [[objektai/grupes/Krymo totoriai]] puole Rusija
 - [[objektai/asmenys/Steponas Batoras]] siunte_i Rusija
@@ -1759,7 +1810,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]] keliavo_i Rusija
 - [[objektai/vietos/Ukraina]] priklause Rusija
 - [[objektai/vietos/Lietuva]] prekiavo_su Rusija
-- [[objektai/vietos/Šaurų dvaras]] priklause Rusija
 - [[objektai/asmenys/Radvila]] surenge_zygi_i Rusija
 - [[objektai/grupes/Rusai]] keliavo_i Rusija
 - Rusija prekiavo_su [[objektai/grupes/Vokiečiai]]

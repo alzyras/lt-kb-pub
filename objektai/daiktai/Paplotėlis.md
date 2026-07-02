@@ -62,9 +62,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89609|Albertas iš Meiseno]]: Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo.
 - susijęs iš [[objektai/daiktai/Šventojo kryžiaus ženklas.md#claim-t-59715|Šventojo kryžiaus ženklas]]: Broliai paženklino save šventojo kryžiaus ženklu ir prasiveržė pro didelę lietuvių kariuomenę.
 - susijęs iš Karaliaučius: Dusburgietis pasakoja, kad žygio prieš Lietuvą metu besimeldžiančiam Karaliaučiaus komtūrui Albertui pasirodė Kristaus kūnas.
-- susijęs iš Nemunas: Dusburgiečio pasakojime iš Lietuvos traukianti brolių kariuomenė vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą.
-- susijęs iš Nemunas: Susitikimas vyko Salyne, Nemuno saloje prie dabartinės Kulautuvos.
-- susijęs iš Nemunas: Vytauto ir magistro susitikimas įvyko Salyne, Nemuno saloje netoli dabartinės Kulautuvos.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -422,8 +422,8 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - susijęs iš [[objektai/asmenys/Tomas Aldenburgas.md#claim-t-87585|Tomas Aldenburgas]]: 1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas su broliais ir vyrais užpuolė Gedimino pilies papilį.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90055|Traidenis (valdovas, XIII a.)]]: 1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario, siekdamas sulaikyti kryžiuočius nuo Sūduvos.
 - susijęs iš [[objektai/asmenys/Ulrichas Bajeris.md#claim-t-60072|Ulrichas Bajeris]]: Ulrichas Bajeris, Tepliavos komtūras, su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, žudė ir ėmė belaisvius.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176822|Vytenis]]: Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184889|Vytenis]]: Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176822|Vytenis (valdovas, XIII–XIV a.)]]: Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184889|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo.
 - susijęs iš [[objektai/asmenys/Zygfridas iš Da[he]nfeldo.md#claim-t-80728|Zygfridas iš Da[he]nfeldo]]: Zygfridas iš Da[he]nfeldo 1348 m. dalyvavo Strėvos mūšyje kaip Ordino maršalas.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102850|Dusburgas]]: Petras Dusburgietis „Prūsijos žemės kronikoje“ aprašė Vytenio įsiveržimą į Ordino žemes.
 - susijęs iš [[objektai/autoriai/Faber K.md#claim-t-60698|Faber K]]: Faberio K. darbas „Geschichtliche“ cituojamas pastaboje apie Galtgarbių kalną ir legendinio Samo pilį.
@@ -443,7 +443,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178770|Jotvingiai]]: 1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178781|Jotvingiai]]: 1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179226|Lietuviai]]: 1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179300|Lietuviai]]: 1316 m. Medininkų valsčiuje Ragainės broliai, persekiojami 200 lietuvių, sudegino du kaimus ir paėmė į nelaisvę moteris bei vaikus.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179323|Lietuviai]]: Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-183890|Notangai]]: 1317 m. žiemą brolis Henrikas su broliais ir Sembos bei Notangos kariais žygiavo prieš Vaikių valsčių.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78400|Notangai]]: 1317 m. žiemą brolis Henrikas su broliais ir Sembos bei Notangos kariais žygiavo prieš Vaikių valsčių.
@@ -573,7 +572,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - susijęs iš Vėluva: Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė.
 - susijęs iš Vėluva: Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
-- susijęs iš Žemaitija: 1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
 - susijęs iš Žemaitija: Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.
 - susijęs iš Žemaitija: Grafo Barbio vadovauta vokiečių kariuomenė niokojo Sembą ir Žemaitijos pasienius, bet buvo prūsų sutriuškinta.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-183835|Papilys suburbium]]: 1324 metų birželio 11 dieną Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.
@@ -938,7 +936,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-015
 
 ## Ryšiai
-- Semba priklause [[objektai/vietos/Žemaitija]]
 - [[objektai/grupes/Lietuviai]] puole Semba
 - [[objektai/grupes/Lietuvos kariuomenė]] puole Semba
 - [[objektai/grupes/Sūduviai]] puole Semba
@@ -946,7 +943,8 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Semba
 - [[objektai/grupes/Nadruviai]] puole Semba
 - [[objektai/vietos/Romehnen]] priklause Semba
-- [[objektai/asmenys/Gediminas]] puole Semba
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] puole Semba
+- Semba priklause [[objektai/vietos/Žemaitija]]
 - [[objektai/asmenys/Dargis]] gyveno Semba
 - [[objektai/asmenys/Henrikas Stange]] surenge_zygi_i Semba
 - [[objektai/grupes/Lietuviai]] surenge_zygi_i Semba
@@ -956,12 +954,11 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - [[objektai/grupes/Žemaičiai]] puole Semba
 - [[objektai/grupes/Livonijos ordinas]] keliavo_i Semba
 - [[objektai/asmenys/Pelužis]] keliavo_i Semba
-- [[objektai/asmenys/Vytenis]] puole Semba
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Semba
 - [[objektai/asmenys/Henrikas Stange]] puole Semba
 - [[objektai/grupes/Kryžiuočių ordinas]] puole Semba
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] surenge_zygi_i Semba
 - [[objektai/asmenys/Otokaras II]] puole Semba
-- [[objektai/grupes/Sūduviai]] surenge_zygi_i Semba
 - [[objektai/grupes/Vokiečiai]] puole Semba
 - [[objektai/asmenys/Konradas]] gyne Semba
 - [[objektai/vietos/Lochštetė]] priklause Semba

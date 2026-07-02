@@ -38,7 +38,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   ryšio_paaiskinimas: Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų Štetinui.
 - susijęs iš [[objektai/daiktai/Du pliki kardai.md#claim-t-92956|Du pliki kardai]]: Du riteriai, pažymėti Vengrijos ir Štetino kunigaikštijos ženklais, atnešė du nuogus kardus.
 - susijęs iš [[objektai/daiktai/Du pliki kardai.md#claim-t-92957|Du pliki kardai]]: Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Henrikas von Plauenas.md#claim-t-176405|Henrikas von Plauenas]]: Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.
 - susijęs iš [[objektai/daiktai/Du pliki kardai.md#claim-t-92955|Du pliki kardai]]: Ordino magistras prašė Jogailos ir Vytauto priimti du kardus kaip pagalbą būsimam susirėmimui atvirame lauke.
 - susijęs iš [[objektai/paprociai/Kolonistų vadovavimasis Rygos miesto civiline teise.md#claim-t-87244|Kolonistų vadovavimasis Rygos miesto civiline teise]]: Gediminas laiške pranešė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise, kol bus sukurti geresni įstatymai.

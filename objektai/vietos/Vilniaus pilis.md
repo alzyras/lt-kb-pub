@@ -242,6 +242,7 @@ amziai:
 - susijęs iš Smolenskas: 1345 m. Jaunutis, pabėgęs nuo Kęstučio puolimo Vilniuje, prieglobsčio ieškojo Smolenske.
 - susijęs iš Smolenskas: Jaunutis po pabėgimo ieškojo prieglobsčio Smolenske.
 - susijęs iš Trakai: 1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176519|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.
 - susijęs iš Trakai: 1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176519|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.
 - susijęs iš [[objektai/asmenys/Tomas Aldenburgas.md#claim-t-87585|Tomas Aldenburgas]]: 1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas su broliais ir vyrais užpuolė Gedimino pilies papilį.
@@ -259,6 +260,7 @@ amziai:
 - susijęs iš Trakai: 1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis.
 - susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176435|Jaunutis (valdovas, XIV a.)]]: Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-188576|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Narbutas taisė Okolskį ir Strijkovskį, teigdamas, kad Naujuosius Trakus įkūrė Gediminas, o ne Kęstutis.
 - susijęs iš [[objektai/ivykiai/Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.).md#claim-t-86910|Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)]]: 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo Jaunučio buveinę.
 - susijęs iš Nemunas: Remiantis Dusburgo pasakojimu, Gedimino pilis galėjo stovėti prie Nemuno.
 - susijęs iš Nemunas: Remdamasis Dusburgu, Baliński darė išvadą, kad Gedimino pilis galėjo stovėti prie Nemuno, Lietuvos ar Žemaitijos pasienyje.

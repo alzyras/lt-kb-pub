@@ -109,13 +109,11 @@ Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių ap
     sileido be tvarkos bėgti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -144,13 +142,11 @@ Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių ap
     būta baimės nei pavojaus.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Henrikas fon Plockė ir jo vadovaujami kryžiuočiai miško tankmėje buvo sunaikinti arba pateko į nelaisvę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -169,10 +165,9 @@ Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių ap
     riuomenę, prisiplėšusią grobio, į tėvynę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
 

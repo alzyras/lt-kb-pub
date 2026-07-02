@@ -35,7 +35,7 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
   ryšio_subjekto_parinkimas: Olivos metraščiai: owner_note_path, author, gap=0
   ryšio_targeto_parinkimas: Bombardos: mention_match, thing, gap=94
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olivos metraščiai" parinktas kaip owner_note_path. Targetas "Bombardos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176377|Gediminas]]: Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176377|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos.
 ## Reikšmingi paminėjimai
 
 - c-001

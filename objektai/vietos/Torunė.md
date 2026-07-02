@@ -320,17 +320,24 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   ryšio_subjekto_parinkimas: Torunė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kulmas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Torunė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188213|Kryžiuočių ordinas]]: Hartknocho pastaba Narbutas sieja Senosios Torunės įkūrimą su vieta, kurią kryžiuočiai paėmė įžengdami į Prūsus.
 - susijęs iš [[objektai/ivykiai/Pipino nukankinimas ir mirtis.md#claim-t-62897|Pipino nukankinimas ir mirtis]]: Dusburgietis Pipino mirtį vaizdavo kaip pakorimą po to, kai Pipinas buvo pririštas prie arklio ir atvilktas iki Torunės.
 - susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59998|Pipinas]]: Ragavos vadas išdavė savo seserėną Pipiną broliams, kurie pririštą prie arklio uodegos Pipiną nuvilko iki Torunės ir pakorė po medžiu.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59828|Skomantas]]: Skomantas su sūduviais įsiveržė į Kulmo žemę ir padalijo kariuomenę į dvi dalis puolimams prieš Torunę ir Kulmo miestą.
 - susijęs iš [[objektai/asmenys/Druzigeris.md#claim-t-60012|Druzigeris]]: Stalininkas Druzigeris Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo mūšyje.
+- susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190099|Hartknochas]]: Narbutas mini Hartknocho spėjimą, kad Senosios Torunės vietoje taip pat buvo šventykla.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60030|Hermanas (Ordino magistras)]]: Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą.
+- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189971|Kristoforas Hartknochas]]: Pasak Narbuto cituojamo Hartknocho, kryžiuočiai užėmė šventąją vietą Dybove ir ten įkūrė Senąją Torunę.
+- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189975|Kristoforas Hartknochas]]: Pasak Narbuto, Hartknochas spėjo, kad Senosios Torunės vietoje taip pat buvo šventykla.
 - susijęs iš [[objektai/asmenys/Liudvikas (Torunės komtūras).md#claim-t-186064|Liudvikas (Torunės komtūras)]]: Liudvikas, Torunės komtūras, gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63911|Martynas iš Golino]]: Martynas iš Golino prie Bugo upės užpuolė prekių laivo upeivius, juos išžudė ir laivą nuplukdė į Torunę.
 - susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59998|Pipinas]]: Ragavos vadas išdavė savo seserėną Pipiną broliams, kurie pririštą prie arklio uodegos Pipiną nuvilko iki Torunės ir pakorė po medžiu.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59828|Skomantas]]: Skomantas su sūduviais įsiveržė į Kulmo žemę ir padalijo kariuomenę į dvi dalis puolimams prieš Torunę ir Kulmo miestą.
 - susijęs iš [[objektai/autoriai/Jasiński T.md#claim-t-60719|Jasiński T]]: T. Jasińskis Lisske lokalizavo saloje prie Senosios Torunės.
+- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188429|Kristupas Hartknochas]]: Narbutas, remdamasis Hartknocho pastaba, rašo, kad kryžiuočiai prūsų šventyklos vietoje prie Torunės įkūrė Senąją Torunę.
 - susijęs iš [[objektai/autoriai/Włodarski B.md#claim-t-60822|Włodarski B]]: B. Włodarskis 1959 m. Torunėje paskelbė straipsnį apie jotvingių problemą lenkų ir rusėnų santykiuose.
+- susijęs iš [[objektai/daiktai/Dybovo šventyklos aptvaras.md#claim-t-189720|Dybovo šventyklos aptvaras]]: Narbutas Dybovo šventyklą prie Torunės aprašė kaip senovės prūsų šventą ąžuolą su dideliu ąžuolu viduryje ir stipriu aptvaru.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188213|Kryžiuočių ordinas]]: Hartknocho pastaba Narbutas sieja Senosios Torunės įkūrimą su vieta, kurią kryžiuočiai paėmė įžengdami į Prūsus.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175131|Sūduviai-jotvingiai]]: Skomantas su sūduviais įsibrovė į Kulmo žemę ir padalijo kariuomenę į dvi dalis, nukreiptas prieš Torunę ir Kulmo miestą.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89242|Sūduviai]]: Skomantas su sūduviais įsiveržė į Kulmo žemę, padalijo kariuomenę ir niokojo kelią į Torunę bei Kulmo miestą.
 - susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-183918|Dviejų pilių sugriovimas ir Pipino žūtis]]: Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.
@@ -352,6 +359,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - susijęs iš Torunės magistrato bibliotekos Dusburgiečio kronikos nuorašas: Torunės magistrato bibliotekos XVII a. Dusburgiečio kronikos nuorašas padarytas iš Karaliaučiaus bibliotekos teksto.
 - susijęs iš Włodarski В. Problem jaćwiński w stosunkach polsko-ruskich: B. Włodarskio straipsnis „Problem jaćwiński w stosunkach polsko-ruskich“ paskelbtas Torunėje 1959 m.
 - susijęs iš Zajączkowski S. Uwagi nad terytorialno-plemienną strukturą Jaćwieży Na marginesie pracy J. Nalepy Jaćwięgowie: S. Zajączkowskio straipsnis „Uwagi nad terytorialno-plemienną strukturą Jaćwieży“ paskelbtas 1966 m. Torunės leidinio ZHP 31 tomo 4 sąsiuvinyje.
+- susijęs iš Dybovas: Narbutas rašė, kad Dybove prie Torunės buvusi senovės prūsų šventykla su didžiuliu ąžuolu buvo gerai įtvirtinta dėl artimos sienos.
 - susijęs iš Goliubo pilis (pilis): Goliubo pilis stovėjo prie Drevantos, į šiaurės rytus nuo Torunės.
 - susijęs iš Kulmo žemė: 1231 m. Ordino magistras persikėlė per Vyslą į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus.
 - susijęs iš Kulmo žemė: 1231 m. Ordino magistras persikėlė per Vyslą į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus.
@@ -378,8 +386,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-10108|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Žalgirio pergalės 1410 m. ir 1411 m. Torunės taikos Žemaitija Vytautui ir Jogailai atiteko iki gyvos galvos, o Vytautas siekė ją susigrąžinti visam laikui kartu su Klaipėda ir visa Užnemune.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176677|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas dažnai paremdavo prieš Vokiečių ordino valdžią sukilusius žemaičius.
 - susijęs iš [[objektai/autoriai/Batūra R.md#claim-t-91940|Batūra R]]: Batūros darbas cituojamas aiškinant, kad 1262 m. žygį organizavo Mindaugas, o kariuomenei vadovavo Treniota.
-- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-64625|J. Foigtas]]: J. Foigtas XIX a. trečiajame dešimtmetyje ėmėsi moksliškai tirti Dusburgiečio kroniką.
-- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-64673|K. Hartknochas]]: K. Hartknochas parengė pirmąjį Dusburgiečio kronikos leidimą, išleistą Karaliaučiuje 1679 m.
+- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-64625|Johanas Foigtas]]: J. Foigtas XIX a. trečiajame dešimtmetyje ėmėsi moksliškai tirti Dusburgiečio kroniką.
+- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-64673|Kristupas Hartknochas]]: K. Hartknochas parengė pirmąjį Dusburgiečio kronikos leidimą, išleistą Karaliaučiuje 1679 m.
 - susijęs iš [[objektai/autoriai/M. Perlbachas.md#claim-t-175146|M. Perlbachas]]: M. Perlbachas nagrinėtas aiškinant Dusburgiečio pasakojimo ryšį su 1230 ir 1232 metų popiežiaus bulėmis.
 - susijęs iš [[objektai/autoriai/Paszkiewicz H.md#claim-t-64802|Paszkiewicz H]]: H. Paszkiewicziaus darbas cituojamas aiškinant, kad 1262 m. žygį organizavo Mindaugas, o kariuomenei vadovavo Treniota.
 - susijęs iš [[objektai/autoriai/R. Batūra.md#claim-t-97212|Romas Batūra]]: Romas Batūra minimas tarp autorių, siejusių 1262 m. žygio organizavimą su Mindaugu ir vadovavimą kariuomenei su Treniota.
@@ -388,6 +396,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184510|Kryžiuočių ordinas]]: Torunės komtūras, kryžiuočių pasiųstas pas Boleslovą, kurstė brolių nesantaiką ir skatino Švitrigailą nesibaiminti karo su lenkais.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184511|Kryžiuočių ordinas]]: Torunės komtūras Liudvikas su trimis kryžiuočių riteriais gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.
 - susijęs iš [[objektai/grupes/Lietuvos senatoriai.md#claim-t-86761|Lietuvos senatoriai]]: 1576 m. Lietuvos senatoriai sutiko, kad Žygimanto Augusto nustatyti muitai būtų renkami krašto sienų gynybos išlaidoms.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188302|Prūsai]]: Narbutas rašo, kad Dybove prie Torunės buvo senovės prūsų šventasis ąžuolas arba šventykla, kurią paėmę kryžiuočiai ten įkūrė Senąją Torunę.
 - susijęs iš [[objektai/grupes/Rendaliai.md#claim-t-63207|Rendaliai]]: Rendaliais vadinti Girdavo palikuonys; Girdavas Bartos žemėje turėjo jo vardu pavadintą Girdavų pilį.
 - susijęs iš [[objektai/grupes/Seradzo lenkų seimas.md#claim-t-185455|Seradzo lenkų seimas (seimas)]]: Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją ir sušaukė Seradzo lenkų seimą.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175137|Sūduviai-jotvingiai]]: Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą.
@@ -442,7 +451,9 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - susijęs iš [[objektai/zodynas/liscis lizkis.md#claim-t-58945|liscis lizkis]]: Liscis, lizkis ‘stovykla, apsistojimo vieta’, iš pr.
 - susijęs iš [[objektai/zodynas/luomas.md#claim-t-169921|luomas]]: Batoras teigė muitus įsakęs rinkti ne luomų teisėms varžyti, o dėl Livonijos ir Lietuvos sienų gynybos poreikių.
 - susijęs iš [[objektai/zodynas/muitas thelonea.md#claim-t-86426|muitas thelonea]]: Dėl Vilniaus Batoras pareikalavo, kad vaivada Radvila ragintų mokėti nustatytus muitus ir iš miestiečių išreikalautų Czopowe bei Szosowe mokesčius.
+- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189971|Kristoforas Hartknochas]]: Pasak Narbuto cituojamo Hartknocho, kryžiuočiai užėmė šventąją vietą Dybove ir ten įkūrė Senąją Torunę.
 - susijęs iš [[objektai/ivykiai/Torunės miesto perkėlimas ir naujos pilies statybos pradžia (1236 m.).md#claim-t-62939|Torunės miesto perkėlimas ir naujos pilies statybos pradžia (1236 m.)]]: Senosios Torunės pilaitė liko Ordino rankose ir buvo naudojama kaip gyvulininkystės dvaras.
+- susijęs iš [[objektai/daiktai/Dybovo šventyklos aptvaras.md#claim-t-189720|Dybovo šventyklos aptvaras]]: Narbutas Dybovo šventyklą prie Torunės aprašė kaip senovės prūsų šventą ąžuolą su dideliu ąžuolu viduryje ir stipriu aptvaru.
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino laivo užgrobimas Bugo upėje.md#claim-t-62393|Martyno iš Golino laivo užgrobimas Bugo upėje]]: Martynas iš Golino prie Bugo upės užpuolė prekių laivą, išžudė upeivius ir atplukdė laivą į Torunę.
 - susijęs iš [[objektai/ivykiai/Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas.md#claim-t-59429|Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas]]: Sūduviai įsiveržė į Lubavos žemę, sugriovė Lubavos pilį ir miestą, sudegino Torunės ligoninę ir nesėkmingai puolė Kulmą.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89242|Sūduviai]]: Skomantas su sūduviais įsiveržė į Kulmo žemę, padalijo kariuomenę ir niokojo kelią į Torunę bei Kulmo miestą.

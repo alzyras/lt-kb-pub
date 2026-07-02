@@ -45,8 +45,18 @@ amziai:
   ryšio_subjekto_parinkimas: Sandara: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=19
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sandara" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176351|Gediminas]]: Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176351|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną.
+- susijęs iš [[objektai/autoriai/Kristijonas.md#claim-t-190395|Kristijonas]]: Narbutas nurodo, kad žinia apie Kristijono kroniką dėl Romovės ir krivio remiasi padavimu, bet kronikos egzistavimą jis laiko įrodytu.
+- susijęs iš [[objektai/paprociai/Ašarų rinkimas į ašarines ir jų dėjimas į kapą.md#claim-t-189822|Ašarų rinkimas į ašarines ir jų dėjimas į kapą]]: Narbutas rašo, kad toje vietoje buvo randama daug ašarinėms priskiriamų nuolaužų.
+- susijęs iš Lietuva: Į Lietuvą su karaliumi atvykęs Kujavijos vyskupas Jonas Kropidlas parėmė Vytauto santuokos sumanymą.
+- susijęs iš Lietuva: Narbutas rašė, kad tikrojoje Lietuvoje sudegintų žmonių pelenams laikyti skirtos vietos buvo vadinamos Obelijomis.
+- susijęs iš Lydos apskritis: Narbutas Lydos apskritį priskyrė Tikrajai Lietuvai, kur, jo teigimu, nuo seniausių laikų buvo obelijomis vadintų pelenų laikymo vietų.
+- susijęs iš Obelijos: Narbutas Obelijomis vadino Tikrojoje Lietuvoje nuo seno buvusias vietas, kuriose dėdavo sudegintų žmonių pelenus.
 - susijęs iš Palenkė: Palenkėje tarp vietos žmonių sklido padavimas, kad senovėje iš ten eidavo į Vilnių kalnų kasti.
+- susijęs iš Trakų apskritis: Narbutas rašo, kad Tikrojoje Lietuvoje, įskaitant Trakų apskritį, nuo seniausių laikų buvo vietų sudegintų žmonių pelenams laikyti.
+- susijęs iš Ukmergė: Ties Pabaisku prie Šventosios, netoli Ukmergės, Mykolo vadovaujama lietuvių ir lenkų kariuomenė užkirto kelią Švitrigailai.
+- susijęs iš Ukmergė: Kunigaikščio Mykolo pergalė prieš Švitrigailą ir Livonijos magistrą netoli Ukmergės užbaigė jų varžybas dėl Lietuvos.
+- susijęs iš Ukmergė: Kunigaikščio Mykolo pergalė netoli Ukmergės užbaigė Švitrigailos ir Livonijos magistro varžybas dėl Lietuvos.
 ## Reikšmingi paminėjimai
 
 - c-001

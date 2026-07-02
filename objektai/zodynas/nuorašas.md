@@ -132,7 +132,8 @@ Nenurodyta
 - susijęs iš Torunės magistrato bibliotekos Dusburgiečio kronikos nuorašas: Torunės magistrato bibliotekos XVII a. Dusburgiečio kronikos nuorašas padarytas iš Karaliaučiaus bibliotekos teksto.
 - susijęs iš Torunė: XVII a. Torunės magistrato bibliotekos nuorašas buvo padarytas iš Karaliaučiaus bibliotekos teksto.
 - susijęs iš Vilnius: Popiežiui buvo įteiktas 1323 m. Vilniuje sudarytos sutarties nuorašas, išverstas iš vokiečių į lotynų kalbą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176371|Gediminas]]: Gedimino misija popiežiui žodžiu pranešė apie jo ryžtą pereiti į naują tikėjimą ir prašė siųsti tikėjimo mokytojų.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176371|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino misija popiežiui žodžiu pranešė apie jo ryžtą pereiti į naują tikėjimą ir prašė siųsti tikėjimo mokytojų.
+- susijęs iš [[objektai/asmenys/Gregoravičius.md#claim-t-190096|Gregoravičius]]: Narbuto cituojamame kūrinio pavadinime 1749 m. birželio 8 d. Vilniaus gaisras kildinamas iš pono Gregoravičiaus dvarelio Subačiaus priemiestyje.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89835|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Leidėjai jį priskyrė Hermanui iš Zalcos111.
 - susijęs iš [[objektai/autoriai/Danilavičius.md#claim-t-35432|Danilavičius]]: Danilavičius ir Koneczny šią sutartį laikė falsifikatu, nors Prochaska ją priėmė kaip autentišką.
 - susijęs iš [[objektai/autoriai/Koneczny.md#claim-t-35455|Koneczny]]: Koneczny kartu su Danilavičiumi tą dokumentą laikė falsifikatu, nors Prochaska jį priėmė kaip autentišką.

@@ -33,21 +33,26 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-187979"></a>
-- t-001
-  global_id: t-187979
-  teiginys: 'Vėlius nurodo, kad Narbutas lietuvių Kabirų atitikmenį grindė Drujos apylinkėje rastomis trimis tarpusavy sujungtomis žalvarinėmis statulėlėmis ir užrašu „Triopa“.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Narbuto kilmės ir mitologinis aiškinimas perteiktas su Vėliaus atribucija. Teiginys apsiriboja citatoje nurodytomis Drujos statulėlėmis, jų sujungimu ir užrašu „Triopa“.'
-  susije_objektai: 'mentioned_place: Druja; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Druja'
-  semantiniai_rysiai: '[[objektai/daiktai/Drujos žalvarinės statulėlės su užrašu Triopa|Drujos žalvarinės statulėlės su užrašu Triopa]] priklausė Druja'
+- t-002
+  teiginys: 'Vėlius nurodė, kad Narbutas lietuvių Kabirus grindė prie Drujos rastomis trimis sujungtomis žalvarinėmis statulėlėmis ir užrašu „Triopa“.'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 51345-52081; hash=1eb9bb29ccc56a1e9cd6768dc2d6100a539c48c78eb08dd1ea520c7377bc4da2; match=exact
+  sprendimo_priezastis: gap::items
+  ryšio_patikimumas: susije_su -> Druja: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Drujos žalvarinės statulėlės su užrašu Triopa: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Druja: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Drujos žalvarinės statulėlės su užrašu Triopa" parinktas kaip owner_note_path. Targetas "Druja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Vėlius nurodė, kad Narbutas lietuvių Kabirus grindė prie Drujos rastomis trimis sujungtomis žalvarinėmis statulėlėmis ir užrašu „Triopa“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Tai jo turėtuose mitologijos žody­
@@ -66,13 +71,10 @@ Nenurodyta
 
     varinės statulėlės; buvęs net lietuviškas užrašas Triopa, patvir­
     tinantis, kad tai panaši lietuviška minėtų dievų trijulė.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-
-## Ryšiai
-- Drujos žalvarinės statulėlės su užrašu Triopa priklause [[objektai/vietos/Druja]]
+    - t-002

@@ -5,15 +5,16 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos: []
 date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
 amziai: []
 periodo_grupes: []
+tags:
+  - autorius
 ---
 # Mykolas Lietuvis
 
@@ -26,7 +27,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - Apie totorių, lietuvių ir maskvėnų papročius
 
 ## Teiginiai
-
 <a id="claim-t-172956"></a>
 - t-001
   global_id: t-172956
@@ -114,6 +114,43 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   ryšio_subjekto_parinkimas: Mykolas Lietuvis: owner_note_path, author, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=8
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Lietuvis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188457"></a>
+- t-008
+  global_id: t-188457
+  teiginys: 'Narbutas Mykolą Lietuvį įvardija tarp nedaugelio lietuvių, kurie per 400 metų rūpinosi krašto praeitimi.'
+  pagrindžia:
+    - c-005
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 112462-112710; hash=c5838897f4da37d5500596a3b3e7d88654f1b27041d904ffe4b59a54298d172e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas Lietuvis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Lietuvis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188458"></a>
+- t-009
+  global_id: t-188458
+  teiginys: 'Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas išliko kaip žalčių laikymas.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 272904-273164; hash=d2df09dd6ad34bd08b3ffe1c2e7abc3db50b5c92ec27cbdda512a60f8307877b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas Lietuvis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Lietuvis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis Michalonis Lit.md#claim-t-88036|Mykolas Lietuvis Michalonis Lit]]: Mykolas Lietuvis rašė, kad Kafos miestas prie Juodosios jūros buvo svarbiausias Lietuvos prekybinis uostas ryšiams su Rytais.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis Michalonis Lit.md#claim-t-88037|Mykolas Lietuvis Michalonis Lit]]: Mykolas Lietuvis liudijo, kad totoriai seniau garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.
 - susijęs iš [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose.md#claim-t-54298|Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]: Didžiausią įtaką Lietuvos kultūrai darė lenkiškoji civilizacija, veikusi per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą.
@@ -130,7 +167,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - susijęs iš Krokuva: Lenkijos poveikis LDK reiškėsi bažnytinės sistemos organizavimu, studijomis Krokuvos universitete, administracijos perėmimu ir ūkio reforma.
 - susijęs iš Krokuva: Pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -223,3 +259,39 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     - t-007
     - t-003
     - t-002
+- c-005
+  santrauka: 'Narbutas Mykolą Lietuvį įvardija tarp nedaugelio lietuvių, kurie per 400 metų rūpinosi krašto praeitimi.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    61
+
+    ## Puslapis 61
+
+    garą. Per 400 metų nė Vienas lietuvis, išskyrus Kojalavičių, My­
+    kolą Lietuvį ir Teodorą Narbutą, nepasirūpino krašto praeiti­
+    mi. Iki šiolei apie Abisiniją, arabus, mongolus ir samojedus
+    daugiau darbų parašyta nei apie Lietuvą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-006
+  santrauka: 'Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas išliko kaip žalčių laikymas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Stenderis savo lat­
+    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
+    sukeltų, neramumų liudytojas.
+    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
+    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
+    mas išliko kaip žalčių laikymas1.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009

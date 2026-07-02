@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Vilniaus gubernija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1801 m.'
   - '1840 m.'
@@ -13,11 +14,11 @@ date_start: '1801'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIX'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Vilniaus gubernija
 
@@ -26,7 +27,6 @@ amziai:
 1859 m. iždas buvo apskaičiavęs iš Kauno gubernijos gauti nuo degtinės 948.056 rublius, o tegavo vos 53.146 rublius.
 
 ## Teiginiai
-
 <a id="claim-t-126076"></a>
 - t-001
   global_id: t-126076
@@ -90,13 +90,31 @@ amziai:
   susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Suvalkai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-005
+
+<a id="claim-t-188857"></a>
+- t-007
+  global_id: t-188857
+  teiginys: 'Narbutui istorinė Lietuva apėmė Vilniaus, Kauno, Gardino ir Minsko gubernijas, o „litvinais“ vadinti tenykščiai katalikų bajorai.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 11701-11966; hash=68cfe72f49e8846b7ea16f61dcb9c8a16b461681fe193f939e0e260b7321e1f9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus gubernija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=89
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus gubernija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Kauno gubernija: 1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.
 - susijęs iš [[objektai/asmenys/Jurgis Šaulys.md#claim-t-19033|Jurgis Šaulys]]: Jurgis Šaulys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/autoriai/Jornandesas.md#claim-t-88069|Jornandesas]]: Jornandesas Vyslos žiotyse gyvenusiai tautai suteikė vidivarijų vardą.
 - susijęs iš [[objektai/autoriai/Thunmanas.md#claim-t-88082|Thunmanas]]: Thunmano tyrinėjimus ir prielaidas apie lietuvių tautos kilmę Balinskis laikė panašiausiais į tiesą.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178772|Jotvingiai]]: Jotvingiai, pasistūmėję į Rusios gilumą, kalba ir papročiais buvo panašūs į slavus.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176123|Žemaičiai]]: Žemaičiai buvo viena iš šešių pagrindinių lietuvių tautos atšakų.
 - susijęs iš [[objektai/posakiai/„Lithuania Propria“.md#claim-t-67315|„Lithuania Propria“]]: 1917 m. Berno konferencijoje būsimos Lietuvos teritoriją siūlyta formuoti etnografiniu principu „Lithuania Propria“ ribose.
 - susijęs iš De geticae gentis origine ac rebus gestis: Veikale „De geticae gentis origine ac rebus gestis“ Jornandes minėjo prie Vyslos žiočių įsikūrusius vidivarijus.
 - susijęs iš Alūkšta: 1917 m. Berno konferencijoje Alūkštos apskritį Kurše iki Dauguvos upės numatyta įtraukti į būsimos Lietuvos teritoriją.
@@ -113,7 +131,6 @@ amziai:
 - susijęs iš [[objektai/zodynas/Vidivarijai.md#claim-t-54798|Vidivarijai]]: Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101582|etnografinės ribos etnografinis principas]]: 1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Minėtų grupuočių teritorinės aspiracijos apėmė istorines etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -213,3 +230,22 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+- c-006
+  santrauka: 'Narbutui istorinė Lietuva apėmė Vilniaus, Kauno, Gardino ir Minsko gubernijas, o „litvinais“ vadinti tenykščiai katalikų bajorai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    9
+
+    ## Puslapis 9
+
+    savarankišką kultūrinio palikimo vertinimą. Istorinė Lietuva -
+    tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ -
+    tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems
+    visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007

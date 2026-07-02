@@ -71,7 +71,7 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93424|Konradas (Mozūrijos kunigaikštis)]]: Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę, po ko prasidėjo metodiški kryžiaus žygiai į Prūsiją.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93426|Konradas (Mozūrijos kunigaikštis)]]: Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis.
 - susijęs iš [[objektai/asmenys/Konradas iš Foichtvangeno.md#claim-t-59995|Konradas iš Foichtvangeno]]: 1295 m. Konradas iš Foichtvangeno atvyko į Prūsiją, parėmė brolius dovanomis ir paguodė juos pamokymais.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93429|Kristijonas]]: Nuo 1216 m. Kristijonas, gavęs „Prūsų vyskupo“ titulą, kaip cistersų vienuolis taikiu būdu bandė krikštyti prūsus.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93429|Kristijonas (vyskupas, XIII a.)]]: Nuo 1216 m. Kristijonas, gavęs „Prūsų vyskupo“ titulą, kaip cistersų vienuolis taikiu būdu bandė krikštyti prūsus.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63918|Martynas iš Golino]]: Martynas iš Golino su 4 vokiečiais ir 11 prūsų užgrobė vieną Sūduvos kaimą, žudydamas arba išsivarydamas žmones į nelaisvę.
 - susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
 - susijęs iš [[objektai/asmenys/Otonas (Brandenburgo markgrafas).md#claim-t-60188|Otonas (Brandenburgo markgrafas)]]: 1266 m. Brandenburgo markgrafas Otonas su sūnumi ir broliu patraukė į Prūsiją tramdyti prūsų sukilimo.
@@ -122,8 +122,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179109|Kryžiuočių ordinas]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-183144|Kryžiuočių ordinas]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184492|Kryžiuočių ordinas]]: Po kelių sėkmingų žygių prieš kryžiuočius prūsų padėtis sustiprėjo, nes jiems buvo pasirengę padėti lietuvių ir žemaičių būriai.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-169586|Latviai]]: II tūkstantmečio pradžioje latviai pradėjo formuotis kartu su prūsų, jotvingių ir lietuvių tautomis.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-169587|Latviai]]: Kronikoje vaizduojamu laikotarpiu latviai, lietuviai ir prūsai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179278|Lietuviai]]: Kronikoje vaizduojamu laikotarpiu lietuviai, prūsai ir latviai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179323|Lietuviai]]: Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179371|Livonijos ordinas]]: Ordino kronikose 1345-1382 m. užregistruoti 66 žygiai į Lietuvą iš Prūsijos ir 30 iš Livonijos.
@@ -215,7 +213,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš Kulmas: Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Kulmo žemė: XIII a., prieš kryžiuočių atsikraustymą į Pavyslį, Kulmo žemė vėl buvo prūsų rankose.
 - susijęs iš Kuršių Neringa: Kuršių Neringa buvo patogaus kelio tarp Prūsijos ir Livonijos dalis, kurį turėjo ginti Klaipėdos pilis.
-- susijęs iš Lietuva: Po lietuvių išpuolio Sembai lietuviai ir prūsai nuolat rengė karo žygius ir vieni kitiems smogė stiprių smūgių.
 - susijęs iš Lubava: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Lubava: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Lubava: Pavyslyje, ypač Kulmo ir Lubavo srityse, gyventojai buvo mišrūs: lenkai ir prūsai.
@@ -228,9 +225,7 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš Pagudė: Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.
 - susijęs iš Pamedė: Petro iš Dusburgo kronikoje Pamedė įtraukta į vienuolikos atskirų Prūsijos žemių sąrašą.
 - susijęs iš Plikoji Barta: Petro Dusburgiečio kronikoje Plikoji Barta minima kaip viena iš vienuolikos Prūsijos žemės dalių.
-- susijęs iš Prūsija: Petro iš Dusburgo kronikoje Prūsijos žemė skirstoma į 11 atskirų žemių.
 - susijęs iš Prūsija: Zigmantas siekė su kryžiuočių pagalba sudaryti Lietuvos, Prūsijos, Vengrijos ir Čekijos sąjungą prieš Lenkiją.
-- susijęs iš Prūsija: Petro iš Dusburgo kronikoje Prūsijos vardu politine prasme vadintas Ordino užkariautas plotas nuo Vyslos iki Nemuno.
 - susijęs iš Prūsija: Vokiečių ordino valstybėje, vėliau tapusioje Prūsija, lietuviai ilgainiui pradėti vadinti lietuvininkais.
 - susijęs iš Prūsų kraštas (kraštas): Lietuvos metraštyje Kęstučio pusės pasakojime Jogaila kaltinamas be Kęstučio žinios sudaręs taiką su Prūsų kraštu.
 - susijęs iš Prūsų kunigaikštija: 1545 m. Lietuvos, Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje pastatytas pasienio stulpas su Vyčiu ir Lenkijos ereliu.
@@ -263,7 +258,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš [[objektai/zodynas/terra žemė.md#claim-t-58873|terra žemė]]: XIII ir XIV a. pradžios dokumentuose bei kronikose terminu žemė vadintos visos prūsų žemės ir atskiros prūsų žemės.
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70366|tėvonija tėvų palikimas]]: Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos.
 - susijęs iš [[objektai/zodynas/vitingas.md#claim-t-03226|vitingas]]: Vitingais buvo vadinami senųjų prūsų bajorai, pasidavę ordinui ir jam tarnavę.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179044|Kryžiuočių ordinas]]: XIII a. į prūsų žemes atsikraustęs vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184679|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas Viznoje laikė lietuvių įgulą, nors mozūrai ir kryžiuočiai tuo metu buvo sudarę sąjungą.
 - susijęs iš [[objektai/asmenys/Brunonas.md#claim-t-89681|Brunonas]]: Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų.
 - susijęs iš [[objektai/asmenys/Burchardas iš Magdeburgo.md#claim-t-60096|Burchardas iš Magdeburgo]]: Burchardas iš Magdeburgo buvo Magdeburgo burggrafas ir kilo iš tos pačios giminės kaip Brunonas iš Kverfurto.
@@ -298,9 +292,7 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63842|Kotryna II]]: Stanislovas Augustas Poniatovskis buvo Kotrynos II nurodytas kandidatas į Respublikos sostą ir jos statytinis.
 - susijęs iš [[objektai/asmenys/Kristijonas Donelaitis.md#claim-t-183555|Kristijonas Donelaitis]]: Kristijono Donelaičio poema „Metai“ apie 1750 m. Mažojoje Lietuvoje iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys.
 - susijęs iš [[objektai/asmenys/Kristijonas Donelaitis.md#claim-t-19073|Kristijonas Donelaitis]]: Kristijono Donelaičio poema „Metai“ apie 1750 m. Mažojoje Lietuvoje iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93428|Kristijonas]]: Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93432|Kristijonas]]: 1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93436|Kristijonas]]: Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93436|Kristijonas (vyskupas, XIII a.)]]: Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.
 - susijęs iš [[objektai/asmenys/Kudaras iš Sūduvos.md#claim-t-60372|Kudaras iš Sūduvos]]: Kudaras iš Sūduvos Dusburgiečio kronikoje minimas tarp krikščionių plėšikautojų, garsėjusių žygiais.
 - susijęs iš [[objektai/asmenys/Lengvenis.md#claim-t-47953|Lengvenis]]: Lengvenis buvo vienas iš penkių Jogailos brolių, minimų liudininkais trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63916|Martynas iš Golino]]: Petras Dusburgietis Martyną iš Golino priskyrė prie krikščionių plėšikautojų, garsėjusių nuostabiais ir nepaprastais žygiais.
@@ -390,7 +382,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178839|Kryžiuočių ordinas]]: Klaipėdos pilis beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178861|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178884|Kryžiuočių ordinas]]: Algirdas ir Kęstutis pradėjo derybas su Ordinu, kad Lietuva galėtų pailsėti nuo tolesnių niokojimų.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178942|Kryžiuočių ordinas]]: Prūsams buvo sunkiau gintis nuo Kryžiuočių ordino, nes jie neturėjo vieningos valstybės ir negalėjo sutartinai priešintis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178988|Kryžiuočių ordinas]]: Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179004|Kryžiuočių ordinas]]: Vytautas siekė perimti Prūsų ordino savintą kovotojo su netikinčiaisiais šlovę, planuodamas nukariauti totorius.
@@ -398,7 +389,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179025|Kryžiuočių ordinas]]: Hermanas Salza 1226 m. kovo mėnesį Riminyje išsirūpino imperatoriaus Fridricho II privilegiją Vokiečių ordino ateičiai rytuose.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179032|Kryžiuočių ordinas]]: Prūsų ordinas priglausdavo lietuvių perbėgėlius, juos krikštydavo ir jų žemes priimdavo kaip vasalinius feodus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179044|Kryžiuočių ordinas]]: XIII a. į prūsų žemes atsikraustęs vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179069|Kryžiuočių ordinas]]: Vytautas Prūsuose išmoko suktos, bet realios Ordino politikos, kurią vėliau taikė santykiuose su kaimynais.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179108|Kryžiuočių ordinas]]: 231 Kryžiuočiai puolė 1233 m. spalio-lapkričio mėn.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179117|Kryžiuočių ordinas]]: Prūsų Ordinas savinosi kovotojo su netikinčiaisiais garbę, kuri, remiant Vytauto planus, turėjo atitekti Vytautui.
@@ -410,9 +400,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179157|Lenkai]]: Prūsų kariuomenė kelis kartus užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius, o moteris ir vaikus varė į nelaisvę.
 - susijęs iš [[objektai/grupes/Lietgaliai.md#claim-t-31267|Lietgaliai]]: Istorijos priešaušryje lietgalių žemėse turėjo būti gana daug atskirų sričių kunigų.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179218|Lietuviai]]: Prūsų kraštą lietuviai vadino Prūsais, Prūsa, Prūsų žeme ir sulotynintu Prūsijos vardu.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179251|Lietuviai]]: Vytauto jaunystės laikotarpiu kardininkai ir kryžiuočiai smarkiai puldavo Lietuvą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179307|Lietuviai]]: Kronikoje vaizduojamu laikotarpiu prūsus, lietuvius ir latvius siejo kalbos, kultūros, tradicijų ir senosios religijos bendrumas.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179325|Lietuviai]]: Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184543|Lietuviai]]: Lietuviams sulaužius sutartį, jiems priklausanti Poleksija buvo nusiaubta Mazovijos ir Kujavijos karių.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179354|Livonijos ordinas]]: 1372 m. Lietuva vienu metu buvo puolama iš Prūsijos ir Livonijos.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179360|Livonijos ordinas]]: Per Prūsų ir Livonijos magistrų surengtą puotą Salyno suvažiavime Vytautas paskelbtas Lietuvos karaliumi.
@@ -556,11 +543,9 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš Karaliaučius: 1255 m. Otokaro II garbei pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius.
 - susijęs iš Karaliaučius: 1412 m. Lietuvos bajorai pareiškė, kad Karaliaučius kitados priklausė Lietuvai ir turi būti atgautas kaip Vytauto tėvonija.
 - susijęs iš Karaliaučius: 1370 m. vasario 17 d. lietuviai po Sambijos sričių nuniokojimo susirinko prie Rudavos bažnytkaimio netoli Karaliaučiaus.
-- susijęs iš Karaliaučius: Karaliaučius, be to, buvo svarbus komunikacijos mazgas kelyje į Livoniją.
 - susijęs iš Karaliaučius: 1255 m. Otokaro II garbei pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius.
 - susijęs iš Karaliaučius: 1370 m. vasario 17 d. lietuviai po Sambijos sričių nuniokojimo susirinko prie Rudavos bažnytkaimio netoli Karaliaučiaus.
 - susijęs iš Karaliaučius: 1255 m. Otokaro II garbei pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius.
-- susijęs iš Karaliaučius: Prūsų sukilimo metu nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo ordino pilys.
 - susijęs iš Kaunas: 1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė lietuvių pilį Kaune.
 - susijęs iš Klaipėda: Žemaičiai, laikydami savo įtakoje pajūrio plotą, netrukus ėmė puldinėti Klaipėdą.
 - susijęs iš Knituva: Knituva buvo viena iš septynių Žemaičių aukštumos sričių, kurių 31 atstovas darė taiką su Vytautu ir ordinu.
@@ -596,8 +581,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš Naugardukas: Naugarduke buvo pastatyta viena iš dviejų minoritams skirtų bažnyčių, kita stovėjo Vilniuje.
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad po Vytauto pergalės Dokudove kunigaikštis Kaributas su šeima pabėgo į Naugarduką.
 - susijęs iš Nemunas: 1362 m. pavasarį Prūsų kryžiuočiai išgriovė svarbią lietuvių pilį Kauną Nemuno ir Neries santakoje.
-- susijęs iš Nemunas: Tyrimų duomenimis, Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į jo valstybę patekusį plotą nuo Vyslos iki Nemuno.
-- susijęs iš Nemunas: Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.
 - susijęs iš Nemunas: 1362 m. pavasarį Prūsų kryžiuočiai, padedami sąjungininkų, išgriovė lietuvių pilį Kauną Nemuno ir Neries santakoje.
 - susijęs iš Nemunas: 1362 m. pavasarį Prūsų kryžiuočiai išgriovė svarbią lietuvių pilį Kauną Nemuno ir Neries santakoje.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Latopisiec Litewski nurodo, kad mūšis vyko prie Vilijos upės, ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.
@@ -634,8 +617,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš Vysla: Kronikos įvade Vyslos žemupys nurodomas kaip viena Kryžiuočių ordino ekspansijos į baltų žemes ploto riba.
 - susijęs iš Štarkenbergas: Teutonų ordino didysis magistras Anonas įsakė pastatyti Štarkenbergo pilį Osos pakrantėje.
 - susijęs iš Šventosios uostas: 1629–1635 m. suvaržius prekybą Klaipėdoje, buvo kilusi mintis įkurti Šventosios uostą.
-- susijęs iš Žemaitija: Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai.
-- susijęs iš Žemaitija: Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.
 - susijęs iš [[objektai/zodynas/Kristaus kariai.md#claim-t-58855|Kristaus kariai]]: Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde.
 - susijęs iš [[objektai/zodynas/baltų sąjunga federacija.md#claim-t-58893|baltų sąjunga federacija]]: Baltų sąjunga–federacija apibūdinama kaip Lietuvos vadovaujamas valstybingumo raidos etapas kovoje prieš feodalų agresiją.
 - susijęs iš [[objektai/zodynas/baltų sąjunga.md#claim-t-71208|baltų sąjunga]]: Baltų sąjunga apibūdinama kaip Lietuvos vadovaujamas valstybingumo raidos etapas kovoje prieš feodalų agresiją.

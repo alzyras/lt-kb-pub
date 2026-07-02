@@ -1044,6 +1044,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - susijęs iš Livonija: 1621 m. švedai užėmė didelę Livonijos dalį, o Rusija tuo metu grasino Lietuvai karu.
 - susijęs iš Livonija: Štumdorfo taika iš Lietuvos ir Lenkijos bendrai valdytos Livonijos grąžino tik Latgalą.
 - susijęs iš Livonija: Švitrigaila siekė tapti Lietuvos valdovu, remdamasis Prūsijos ir Livonijos kryžiuočių galybe.
+- susijęs iš Livonija: Narbutas rašė, kad 1243 m. Livonijos riteriai, šaukdami tikrojo Dievo vardą, užpuolė lietuvius.
 - susijęs iš Luckas: 1393 m. Luckas perėjo tiesiogiai Vytauto žinion.
 - susijęs iš Luckas: 1393 m. Luckas perėjo tiesiogiai Vytauto žinion.
 - susijęs iš Lutzenas: Lutzenas Balinskio pateiktame vietovių sąraše įvardytas kaip viena iš Livonijos pilių.

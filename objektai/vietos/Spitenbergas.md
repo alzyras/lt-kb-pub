@@ -63,6 +63,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
 - susijęs iš [[objektai/posakiai/po šiai dienai tebestovi apleista.md#claim-t-59151|po šiai dienai tebestovi apleista]]: Posakis „po šiai dienai tebestovi apleista“ vartojamas apibūdinant Spitenbergo pilį Pamedėje.
 - susijęs iš Pamedė: Pamedės žemėje buvusią Spitenbergo pilį antrosios atskalūnybės metais broliai sudegino ir paliko dėl prūsų antpuolių bei reikmenų stokos.
 - susijęs iš Nemunas: Kronikininkas Prūsijos žemių tarp Vyslos ir Nemuno nukariavimą aprašė remdamasis geografiniu principu.
+- susijęs iš Nemunas: Narbutas rašė, kad prie Sancinės, kur Nemunas išsišakoja į Giliją ir Rusnę, buvo vietinių Kroniszkas-Pilnis vadintas piliakalnis.
 - susijęs iš Stabo ežeras: Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.
 - susijęs iš Stabo ežeras: Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.
 ## Reikšmingi paminėjimai

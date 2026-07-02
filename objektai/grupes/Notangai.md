@@ -487,6 +487,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88535|Bartai]]: Po prūsų atkritimo nuo krikščionių tikėjimo bartai savo kariuomenės vadu išsirinko Divaną.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89162|Pagudėnai]]: Prūsams vėl atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.
+- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-188290|Pamedėnai]]: Narbutas rašo, kad pamedėnai turėjo prisiekti nepriimti krikščionių tikėjimo ir ginti savo senąjį tikėjimą.
 - susijęs iš [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md#claim-t-89177|Prūsijos naujakrikščiai atsimetėliai]]: Po Vokietijos kunigaikščių žygių minėti Prūsijos naujakrikščiai atsimetėliai grįžo į tikėjimą ir iš naujo pasidavė broliams.
 - susijęs iš [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md#claim-t-89179|Prūsijos naujakrikščiai atsimetėliai]]: 1251 m. Brandenburgo markgrafas, o kitais metais Merzeburgo vyskupas ir grafas Henrikas iš Svarcburgo niokojo atsimetėlių žemes Prūsijoje.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175104|Sembai]]: Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą.

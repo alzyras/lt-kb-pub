@@ -79,7 +79,6 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
 - susijęs iš [[objektai/asmenys/Oskaras Milašius.md#claim-t-64019|Oskaras Milašius]]: Poetas Oskaras Milašius tapo žinomas beveik kiekvienam prancūzui.
 - susijęs iš [[objektai/asmenys/Romain Garry.md#claim-t-19205|Romain Garry]]: Romain Garry užaugo Vilniuje ir tapo dukartiniu Gonkūrų premijos laureatu.
 - susijęs iš [[objektai/asmenys/Violeta Urmana.md#claim-t-78073|Violeta Urmana]]: Violeta Urmana buvo pristatyta kaip visose Europos scenose žinoma atlikėja.
-- susijęs iš Kaunas: Emmanuelis Levinas gimė Kaune ir baigė gimnaziją.
 ## Reikšmingi paminėjimai
 
 - c-001

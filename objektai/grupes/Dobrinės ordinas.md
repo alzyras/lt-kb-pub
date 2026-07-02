@@ -70,4 +70,4 @@ Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal s
     - t-001
 
 ## Ryšiai
-- Dobrinės ordinas priklause [[objektai/asmenys/Kristijonas]]
+- Dobrinės ordinas priklause [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas, XIII a.)]]

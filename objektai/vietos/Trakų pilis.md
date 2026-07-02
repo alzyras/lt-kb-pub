@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Trakų pilis (pilis)'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1382 m.'
@@ -12,14 +13,14 @@ date_start: '1382'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 tags:
   - karas
   - pilis
   - valstybė
   - vieta
-amziai:
-  - 'XIV'
-  - 'XXI'
 ---
 # Trakų pilis (pilis)
 
@@ -28,7 +29,6 @@ amziai:
 Trakų pilis.
 
 ## Teiginiai
-
 <a id="claim-t-95314"></a>
 - t-001
   global_id: t-95314
@@ -54,7 +54,7 @@ Trakų pilis.
   global_id: t-95316
   teiginys: 'Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lukiškės; mentioned_place: Polockas; mentioned_place: Vilija; mentioned_place: Vilnelė'
+  susije_objektai: 'mentioned_place: Trakai; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -77,7 +77,7 @@ Trakų pilis.
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 236352-237120; hash=4f3dbe105deb59a35910da125a288f0043c6cfeb655d6a71f583dbc85d83ea0d; match=whitespace_regex
+  saltinio_vieta: 733274-733593; hash=bd6b7a6051001be63113036f9e3d2199988c58bd16cc3dfe9a2c75a685967702; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Trakai: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -92,7 +92,7 @@ Trakų pilis.
   global_id: t-95318
   teiginys: 'Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lukiškės; mentioned_place: Polockas; mentioned_place: Vilija; mentioned_place: Vilnelė'
+  susije_objektai: 'mentioned_place: Trakai; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
   pagrindžia:
     - c-004
 
@@ -131,7 +131,7 @@ Trakų pilis.
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 236352-237120; hash=4f3dbe105deb59a35910da125a288f0043c6cfeb655d6a71f583dbc85d83ea0d; match=whitespace_regex
+  saltinio_vieta: 733274-733593; hash=bd6b7a6051001be63113036f9e3d2199988c58bd16cc3dfe9a2c75a685967702; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Trakai: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -152,6 +152,25 @@ Trakų pilis.
   temporalinis_llm_pakomentavimas: 'Teiginys yra išbaigtas ir tiesiogiai pagrįstas pateikta citata.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-188843"></a>
+- t-008
+  global_id: t-188843
+  teiginys: 'Senojoje Trakų pilyje virš didžiųjų vartų anksčiau buvo akmenyje iškaltas kryžius skyde.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733274-733593; hash=bd6b7a6051001be63113036f9e3d2199988c58bd16cc3dfe9a2c75a685967702; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Trakų pilis (pilis): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakų pilis (pilis): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Trakų pilis tiesiogiai įvardyta kaip Skirgailos nuolatinė buveinė.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179020|Kryžiuočių ordinas]]: Mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius derėtis su Algirdu ir Kęstučiu.
 - susijęs iš [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.).md#claim-t-54706|Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]: Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies.
 - susijęs iš [[objektai/paprociai/Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje.md#claim-t-87249|Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje]]: Po taikos sutarties maršalas, arkikomtūras ir aukštesnieji vokiečių riteriai buvo pakviesti į Vilniaus ir Trakų pilis, pavaišinti ir apdovanoti.
@@ -162,7 +181,6 @@ Trakų pilis.
 - susijęs iš Kernavė: XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės.
 - susijęs iš Lietuva: Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietuva akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtėjo ekonomiškai.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -275,7 +293,26 @@ Trakų pilis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+- c-006
+  santrauka: 'Senojoje Trakų pilyje virš didžiųjų vartų anksčiau buvo akmenyje iškaltas kryžius skyde.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    MITOLOGIJOS PABAIGA. 13
+    13
+    Seniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo
+    senojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies
+    tyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­
+    niaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,
+    suteikęs mums tą žinią.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 - [[objektai/asmenys/Skirgaila]] gyveno Trakų pilis (pilis)
+- [[objektai/daiktai/Kryžius]] priklause Trakų pilis (pilis)
 - [[objektai/grupes/Kryžiuočių ordinas]] uzeme Trakų pilis (pilis)

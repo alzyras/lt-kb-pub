@@ -70,7 +70,7 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112519|Domininkonų ordinas]]: Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė piligrimus.
 - susijęs iš Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.): Gedimino laiške Hanzos miestams ir Gotlando pirkliams teigiama, kad valdovas pasiuntė popiežiui laišką dėl susivienijimo su Bažnyčia.
 - susijęs iš Gedimino laiškas Liubeko, Rostoko, Zundo, Greifsvaldo, Štetino miestams ir Gotlando gyventojams: Gedimino laiške šiaurės Vokietijos miestams ir Gotlando gyventojams nurodyta, kad į Vilnių atvykę kolonistai galės naudotis Rygos civiline teise.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112510|Domininkonų ordinas]]: 1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-10755|Hanza]]: XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinama Hanza.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108323|Pranciškonų ordinas]]: 1323 m. gegužės 26 d. trys Gedimino laiškai buvo pasiųsti Saksų provincijos pranciškonams, dominikonams ir Hanzos miestams.

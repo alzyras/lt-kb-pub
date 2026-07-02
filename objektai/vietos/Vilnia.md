@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Vilnia'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1429 m.'
   - '1492 m.'
@@ -10,13 +11,13 @@ date_start: '1429'
 date_end: '1492'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
 tags:
   - karalius
   - kunigaikštis
   - ordinas
   - valdovas
-amziai:
-  - 'XV'
 ---
 # Vilnia
 
@@ -25,7 +26,6 @@ amziai:
 Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­ sėjus ten būta medinių namų gyvenvietės4. 17 ## Puslapis 34 VILNIAUS MIESTO ISTORIJA I TOMAS Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse įkurdavo savo valdžios. Bet labai tikėtina, kad nuo seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­ kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų, supančių Vilnios srovę, būta medinės tvirtovės6.
 
 ## Teiginiai
-
 <a id="claim-t-174175"></a>
 - t-001
   global_id: t-174175
@@ -151,6 +151,72 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   ryšio_subjekto_parinkimas: Vilnia: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=20
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnia" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-174188"></a>
+- t-013
+  global_id: t-174188
+  teiginys: 'Narbutas Vilnios vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus.'
+  pagrindžia:
+    - c-008
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 262973-263290; hash=1651eb3d4dfd44db64e01051559070dc02a04f201be6b4fd6e47dc1e307aa9b2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilnia: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnia" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-174189"></a>
+- t-014
+  global_id: t-174189
+  teiginys: 'Narbutas Vilnią apibūdino kaip kadaise laivybai tikusią, sraunią, vingiuotą ir akmenuoto dugno upę, priešindamas ją giliai Vilijai.'
+  pagrindžia:
+    - c-009
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 263374-263981; hash=fde84597722d18c86a799b1fbcc44c54bda8225f8f0f4ea2f4c4718434cb63f4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilnia: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnia" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188851"></a>
+- t-015
+  global_id: t-188851
+  teiginys: 'Narbuto perteiktoje legendoje Gediminas nakvojo Šventaragio miške prie Vilnios ir Neries santakos, kur jam prisisapnavo geležinis vilkas.'
+  pagrindžia:
+    - c-010
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 530732-531380; hash=97caa508b909e2bacc1a3385aa1b1aec07eb3e0c18af3d04c0fd51121ab0300d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilnia: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnia" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188852"></a>
+- t-016
+  global_id: t-188852
+  teiginys: 'Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.'
+  pagrindžia:
+    - c-011
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 658618-659088; hash=0ac433203b60707a48af9c197211cf809b2aa1f07312a70a38a0ea6c9bee8d24; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Vilnia tekėjo kalnų apsupta vaga ir įtekėjo į Viliją ties Gedimino pastatyta mūro tvirtove.
 - susijęs iš [[objektai/asmenys/Vaišelga.md#claim-t-82778|Vaišelga (kunigaikštis)]]: Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną.
 - susijęs iš [[objektai/grupes/Rogvoldovičiai.md#claim-t-86820|Rogvoldovičiai]]: Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.
@@ -163,7 +229,6 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 - susijęs iš Černigovas: Dalis Lietuvos miestų tuo metu buvo valdoma Černigovo kunigaikščių.
 - susijęs iš Černigovas: Černigove susidarė atskira kunigaikštija.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -394,3 +459,92 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+- c-008
+  santrauka: 'Narbutas Vilnios vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Iš to žodžio paimtas pa­
+    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
+    niaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­
+    jimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­
+    niui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­
+    ja, kurią seniau vadino Nerimi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
+- c-009
+  santrauka: 'Narbutas Vilnią apibūdino kaip kadaise laivybai tikusią, sraunią, vingiuotą ir akmenuoto dugno upę, priešindamas ją giliai Vilijai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Darant to­
+    pografinę apžvalgą, nesunku pastebėti, kad tų upių vandens
+    lygis kadaise buvo daug aukštesnis ir, atrodo, tolydžio žemėja.
+    Šiuo atveju to nelaimingo priešo -  Vylingosios (Zdradliwa)
+    vardo veikiau buvo nusipelniusi Vilnia, kadaise tikusi laivy­
+    bai, tokia srauni, vingiuota, akmenuotu dugnu, palyginti su
+    Vilija, tekančia didinga vaga, dar visur gilia ir visur saugia lai­
+    vybai. Krovininiai laivai, plaukiojantys Vilija nuo lietuviško
+    Strungas -  bukas vadinami strungais, yra tikri upinių laivų gi­
+    minės milžinai; jiems trūksta tik stiebų ir kylio, kad galėtų bū­
+    ti palyginti su jūrų laivais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014
+- c-010
+  santrauka: 'Narbuto perteiktoje legendoje Gediminas nakvojo Šventaragio miške prie Vilnios ir Neries santakos, kur jam prisisapnavo geležinis vilkas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    304
+
+    ## Puslapis 304
+
+    tinai turi išaugti į didelį miestą, kadangi tą nuostabiai skati­
+    no ir vietos padėtis.
+    Lizdeika išaiškino sapną Gediminui po to, kai jis, nukovęs
+    didžiulį taurą ant aukščiausio kalno, stūksančio Antakalnio
+    link, -  išmanantys tėvynės istoriją dabar jį vadina Tauro kal­
+    nu -  nakvojo šventajame miške prie Vilnios ir Neries santa­
+    kos, vadintame Šventaragiu; jam prisisapnavo, kad matęs mil­
+    žinišką vilką, visą šarvuotą geležiniais šarvais, o jo viduje stau­
+    gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
+    kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
+    čiui -  kas nors panašaus prisisapnuotų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-015
+- c-011
+  santrauka: 'Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lietuvos didžiojo kunigaikščio Gedimino kapas yra
+    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
+    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
+    avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
+    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
+    pelenai ilsisi supiltame kalne).
+    2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski
+    numeryje**.
+    372
+
+    ## Puslapis 372
+
+    vedančio iš Užupio į Antakalnį.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-016

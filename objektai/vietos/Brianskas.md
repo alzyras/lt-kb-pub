@@ -183,7 +183,7 @@ amziai:
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] uzeme Brianskas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzeme Brianskas
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] puole Brianskas
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] uzeme Brianskas
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] valde_miesta Brianskas

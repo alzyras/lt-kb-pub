@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Odoakras'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -10,10 +11,9 @@ atnaujinta: ''
 
 ## Santrauka
 
-Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš svetimšalių viešpatavo Romoje.
+Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš svetimšalių viešpatavo Romoje. Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvusi upė Ross arba Russ vėliau vadinta Wessel.
 
 ## Teiginiai
-
 <a id="claim-t-186153"></a>
 - t-001
   global_id: t-186153
@@ -40,8 +40,26 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
   ryšio_targeto_parinkimas: Herulai: llm_allowed_candidate, group
   ryšio_paaiskinimas: Odoakras tiesiogiai įvardytas herulų valdovu.
 
+<a id="claim-t-188599"></a>
+- t-002
+  global_id: t-188599
+  teiginys: 'Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvusi upė Ross arba Russ vėliau vadinta Wessel.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 388002-388593; hash=c6281aaaa3b036aac85cd2c78045544b9ad3b8b0e4d49fb30cefd826dd9b1e62; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herulai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Odoakras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Herulai: mention_match, group, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Odoakras" parinktas kaip owner_note_path. Targetas "Herulai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188193|Herulai]]: Narbutas rašė, kad Vokietijoje, kur po Odoakro žūties įsikūrė herulai, buvo upė Ross arba Russ, vėliau vadinta Wessel.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš svetimšalių viešpatavo Romoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -72,12 +90,33 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     dovo vardo, nei purpurinės mantijos.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvusi upė Ross arba Russ vėliau vadinta Wessel.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kituose Lietu­
+    vos pakraščiuose ir pas kitas tautas, kilusias iš jos kamieno,
+    tikriausiai irgi buvo upių tokiais vardais arba dar ir dabar jos
+    tebėra žinomos; aptikti jų mums nepasitaikė. Net Vokietijoje,
+    kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
+    Russ, vėliau imtą vadinti Wessel. Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 - Odoakras buvo_valdovas [[objektai/grupes/Herulai]]

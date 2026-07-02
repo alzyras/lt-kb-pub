@@ -101,7 +101,9 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
 - susijęs iš [[objektai/grupes/Aušrininkų organizacija.md#claim-t-72034|Aušrininkų organizacija]]: Aušrininkų organizacija atsirado iš socialistinės pakraipos jaunimo, susitelkusio apie moksleivių žurnalą „Aušrinė“.
 - susijęs iš Aušrinė: Iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinė“, vėliau atsirado socialistiškos pakraipos aušrininkų organizacija.
 - susijęs iš [[objektai/asmenys/Jonas Spudulis.md#claim-t-188041|Jonas Spudulis]]: Jonas Spudulis rašė Adomui Dambrauskui-Jakštui apie kitomis kalbomis rašiusius autorius, kurie, jo žodžiais, pagarsino ir pakėlė savo tėvynę.
-- susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-187872|Baltarusiai]]: Įvadiniame straipsnyje baltarusiai priskiriami Lietuvos Didžiosios Kunigaikštystės politinio, socialinio ir kultūrinio paveldo arealui.
+- susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-187872|Baltarusiai]]: Baltarusiai įtraukiami į Istorinės Lietuvos, arba Lietuvos Didžiosios Kunigaikštystės, politinio, socialinio ir kultūrinio paveldo arealą.
+- susijęs iš Lietuva: 1506 m. rugpjūtį ties Kłecku pasiekta Lietuvos pergalė užkirto Krymo ordai kelią į artimiausias valstybės vaivadijų sostines.
+- susijęs iš Lietuva: Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie tuvos palikimą.
 ## Reikšmingi paminėjimai
 
 - c-001

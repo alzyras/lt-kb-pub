@@ -58,6 +58,7 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
   ryšio_targeto_parinkimas: Kernius: mention_match, person, gap=37
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kūnas" parinktas kaip owner_note_path. Targetas "Kernius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82174|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus.
+- susijęs iš [[objektai/asmenys/Blinde.md#claim-t-190086|Blinde]]: Narbutas pasakoja legendą, kad moteris Blindė galėjo gimdyti iš įvairių kūno dalių, o žemės pavydas ją pavertė blindės medžiu.
 - susijęs iš [[objektai/asmenys/Hermanas iš Lichtenburgo.md#claim-t-184088|Hermanas iš Lichtenburgo]]: Hermanas iš Lichtenburgo gyveno Brandenburgo pilyje ir ant pliko kūno dėvėjo grandininius marškinius.
 - susijęs iš [[objektai/asmenys/Hermanas iš Lichtenburgo.md#claim-t-60326|Hermanas iš Lichtenburgo]]: Hermanas iš Lichtenburgo gyveno Brandenburgo pilyje ir ant pliko kūno dėvėjo grandininius marškinius.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173188|Kazimieras Karigaila]]: Kazimieras Karigaila buvo nužudytas, o jo galva atskirta nuo kūno ir išniekinta karaliaus paniekinimui.
@@ -79,11 +80,17 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/paprociai/Kristaus kūno šventės šventimas.md#claim-t-183990|Kristaus kūno šventės šventimas]]: 1310 metais popiežius Klemensas V Vieno susirinkime patvirtino Kristaus kūno šventę.
 - susijęs iš [[objektai/paprociai/Kristaus kūno šventės šventimas.md#claim-t-62134|Kristaus kūno šventės šventimas]]: 1261 metais popiežius Urbonas IV įsteigė Kristaus kūno šventę.
 - susijęs iš [[objektai/paprociai/Kristburgo brolių asketinė drausmė ir kasdienė geležinė grandinė.md#claim-t-62687|Kristburgo brolių asketinė drausmė ir kasdienė geležinė grandinė]]: Vienas brolis iki mirties kasdien ant pliko kūno juosėjo sunkią geležinę grandinę.
+- susijęs iš [[objektai/paprociai/Lūšies arba lokio nagų dėjimas prie deginamo lietuvių kunigaikščio ar didiko kūno.md#claim-t-189962|Lūšies arba lokio nagų dėjimas prie deginamo lietuvių kunigaikščio ar didiko kūno]]: Bychovco kronikos pasakojime prie deginamo lietuvių kunigaikščio ar didiko kūno dėdavę lūšies arba lokio nagus.
+- susijęs iš [[objektai/paprociai/Raudotojų samdymas, kvietimas ir klykimas laidotuvėse.md#claim-t-189868|Raudotojų samdymas, kvietimas ir klykimas laidotuvėse]]: Narbutas raudotojas aprašė kaip jaunas stiprių plaučių moteris, kurios nuo mirties iki kūno nuleidimo į kapą be perstojo klykia.
+- susijęs iš [[objektai/paprociai/Upinės upelio gydomieji plovimai ir audeklų kabinimas.md#claim-t-189942|Upinės upelio gydomieji plovimai ir audeklų kabinimas]]: Narbutas rašo, kad prie Zapyškio tekėjęs Upinės, vėliau Išganytojo, upelis, prie kurio per šventes žmonės melsdavosi ir plaudavo negaluojančias kūno dalis.
+- susijęs iš [[objektai/paprociai/Vaidilų ligonių raminimas, apžadai ir Amžinosios ugnies pelenų naudojimas.md#claim-t-189946|Vaidilų ligonių raminimas, apžadai ir Amžinosios ugnies pelenų naudojimas]]: Narbutas vaidilus apibūdina kaip dvasios ir kūno gydytojus, kurie ramindavo ligonius, skatindavo apžadus ir naudodavo Amžinosios ugnies pelenus.
+- susijęs iš [[objektai/paprociai/Žymių mirusiųjų deginimas ant laidotuvių laužo.md#claim-t-189909|Žymių mirusiųjų deginimas ant laidotuvių laužo]]: Narbuto aprašymu, ant laidotuvių laužo su žymaus mirusiojo kūnu kraudavo daiktus, kurie jam gyvenime buvo malonūs, reikalingi ar puošnūs.
 - susijęs iš [[objektai/posakiai/Mirė tikrai mūsų tautos garbė.md#claim-t-67275|Mirė tikrai mūsų tautos garbė.]]: Vytautas mirė susitaikęs su Dievu, o jo kūnas aštuonias dienas buvo viešai išstatytas žmonių atsisveikinimui.
 - susijęs iš [[objektai/posakiai/Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas.md#claim-t-59168|Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas]]: Brolis Albertas paprašė, kad paplotėlis įeitų į jį, jei tai tikras Kristaus kūnas, ir priėmė ore pasirodžiusį paplotėlį.
 - susijęs iš Dievo Kūno arkibrolijos steigimo bulė: 1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę, kuria įsteigta Dievo Kūno arkibrolija.
 - susijęs iš Karaliaus Aleksandro testamentas (1506 m.): 1506 m. testamente Aleksandras skelbė, kad būdamas kūnu nusilpęs, bet sveiko proto išdėstė paskutinę valią.
 - susijęs iš Karalių privilegijos dėl Dievo Kūno koplyčios mūrinių namų atleidimo nuo mokesčių: Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras.
+- susijęs iš Lietuvos metraštis (Bychovco kronika): Narbutas cituoja Bychovco kroniką, kurioje rašoma, kad deginant lietuvių kunigaikštį ar didiką prie kūno dėdavo lūšies arba lokio nagus.
 - susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Po Stepono Batoro mirties Lietuvos ponų taryba prašė Kristupo Radvilos atvykti prie mirusio valdovo kūno arba skubiai atsiųsti savo nuomonę.
 - susijęs iš Maloningosios Dievo Motinos brolijos įkūrimo paskelbimas ir Petro Skargos promocija: 1589 m. liepos 29 d. Dievo Kūno koplyčioje paskelbtas Maloningosios Dievo Motinos brolijos įkūrimas ir Petro Skargos promocija.
 - susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę.
@@ -92,6 +99,7 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš Dievo Kūno koplyčia: Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu.
 - susijęs iš Dievo Kūno koplyčia: Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė.
 - susijęs iš Dievo Kūno koplyčia: Dievo Kūno koplyčios pajamas sudarė mokestis nuo įvairių mūrinių namų, o dalį tų namų valdė Vilniaus magistratas.
+- susijęs iš Kaunas: Narbutas teigė, kad Kaunio vardas labiau nei Kūno vardas primena lietuvišką Kauno pavadinimą Kaunas.
 - susijęs iš Lietuva: Žygio prieš Lietuvą metu Karaliaučiaus komtūrui Albertui meldžiantis, kronikoje aprašytas viešpaties kūno pasirodymas paplotėlio pavidalu.
 - susijęs iš Luckas: 1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.
 - susijęs iš Luckas: 1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į Vilniaus katedrą.
@@ -108,6 +116,7 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/asmenys/Mykolas (Švitrigailos sūnus).md#claim-t-87798|Mykolas (Švitrigailos sūnus)]]: Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje.
 - susijęs iš [[objektai/asmenys/Narimantas (Pinsko kunigaikštis).md#claim-t-186074|Narimantas (Pinsko kunigaikštis)]]: Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu.
 - susijęs iš [[objektai/asmenys/Petras (Hermano iš Lichtenburgo nuodėmklausys).md#claim-t-60407|Petras (Hermano iš Lichtenburgo nuodėmklausys)]]: Kunigas ir nuodėmklausys Petras subarė brolį dėl grandininių šarvų, bet šis atsisakė juos nusivilkti, kol gyvas.
+- susijęs iš [[objektai/asmenys/Rekas.md#claim-t-190112|Rekas]]: Narbutas pasakoja, kad aistruoliu lošėju laikytas Rekas, lošdamas nepaklausė bitės pranešimo ir vos jos neužmušė dėl zvimbimo.
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas.md#claim-t-87857|Stanislovas Augustas]]: Stanislovas Augustas suteikė privilegiją, dėl kurios Akademijos spaustuvė turėjo karališkosios vardą.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Magdeburgo.md#claim-t-184136|Ulrichas iš Magdeburgo]]: Ulrichui iš Magdeburgo buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus, atplaukiančius į Prūsiją.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114011|Valerijonas Protasevičius (vyskupas)]]: 1579 m. Vilniuje duotą Bursos įkūrėjo atminimo aktą vyskupas Valerijonas pasirašė savo ranka.
@@ -115,10 +124,13 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-182749|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-184920|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Jonas su keliais vyrais įsiveržė į Žygimanto Kęstutaičio miegamąjį, partrenkė valdovą ir prisidėjo prie jo nužudymo.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173331|Žygimantas Senasis]]: Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa.
+- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190317|Herodotas]]: Pasak Herodoto, skitai, laidodami savo karalius, užmušdavo jų mylimiausius tarnus.
 - susijęs iš [[objektai/daiktai/Durklas.md#claim-t-59683|Durklas]]: Neįvardytas asmuo praliejo kito žmogaus kraują, pervėręs jį durklu.
 - susijęs iš [[objektai/daiktai/Negęstančioji ugnis.md#claim-t-59695|Negęstančioji ugnis]]: Prūsai pagal senovinį paprotį garbino negęstančiąją ugnį.
 - susijęs iš [[objektai/daiktai/Paplotėlis.md#claim-t-59699|Paplotėlis]]: Žygio prieš Lietuvą metu broliui Albertui prie burnos pasirodė Viešpaties kūnas paplotėlio pavidalu.
+- susijęs iš [[objektai/daiktai/Vaidilų apeiginiai drabužiai.md#claim-t-189665|Vaidilų apeiginiai drabužiai]]: Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų.
 - susijęs iš [[objektai/daiktai/Šventojo kryžiaus ženklas.md#claim-t-59715|Šventojo kryžiaus ženklas]]: Broliai paženklino save šventojo kryžiaus ženklu ir prasiveržė pro didelę lietuvių kariuomenę.
+- susijęs iš [[objektai/grupes/Galai ir skandinavai.md#claim-t-189515|Galai ir skandinavai]]: Narbutas rašė, kad lietuviai ant laidotuvių laužo kraudami mirusiajam brangius daiktus sekė senovės galais ir skandinavais.
 - susijęs iš [[objektai/grupes/Kalvinai.md#claim-t-01343|Kalvinai]]: Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178797|Kryžiuočių ordinas]]: 1323 m. Vilniuje duotame rašte teigta, kad kryžiuočiai įmetė į ugnį Gedimino pasiuntinybės antspaudą.
 - susijęs iš [[objektai/grupes/Liuterionys.md#claim-t-01413|Liuterionys]]: Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
@@ -138,6 +150,7 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai.md#claim-t-01937|Bendri Lietuvos ir Lenkijos seimai]]: Akte numatyti bendri seimai ir bendra karaliaus elekcija, tačiau jų vykdymo tvarka turėjo būti nustatyta vėliau.
 - susijęs iš [[objektai/paprociai/Kapinių šventinimas ir kapų šlakstymas švęstu vandeniu.md#claim-t-91922|Kapinių šventinimas ir kapų šlakstymas švęstu vandeniu]]: Kapinių šventinimo metu vyskupas šlakstė mirusiųjų kapus švęstu vandeniu.
 - susijęs iš [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje.md#claim-t-87213|Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]: 1452 m. vasarį Lucke mirusio Švitrigailos kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.
+- susijęs iš [[objektai/paprociai/Laidotuvių palyda su kardų žvanginimu ir Pykuolio varymo šūksniais.md#claim-t-189925|Laidotuvių palyda su kardų žvanginimu ir Pykuolio varymo šūksniais]]: Narbutas aprašo laidotuvių paprotį, kai mirusįjį lydintys raiti giminaičiai ir bičiuliai žvangindavo kardais ir šūksniais vydavo Pykuolį.
 - susijęs iš [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas.md#claim-t-05354|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]: Jogailos įsakymu lietuviams buvo draudžiamos mišrios santuokos su rusais ir nekatalikais, kol antroji pusė priims katalikų tikėjimą.
 - susijęs iš [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas.md#claim-t-05355|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]: Jogaila dokumente įsipareigojo lietuvius priversti paklusti Romos Bažnyčiai, įvedant privalomą lotynišką krikštą ir draudžiant mišrias santuokas.
 - susijęs iš [[objektai/paprociai/Maldininko įžadų vykdymas Prūsijoje.md#claim-t-62693|Maldininko įžadų vykdymas Prūsijoje]]: Kryžininkas iš Meiseno per vienus metus Prūsijoje įvykdė maldininko įžadus ir mirė kelyje grįždamas į tėvynę.
@@ -162,15 +175,15 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš Akademijos aikštė: Akademijos aikštė buvo netaisyklingas ketvirtainis, apsuptas bažnyčios, kolegijos sienų ir mokymosi patalpų kolonadų.
 - susijęs iš Akademijos visuotinių iškilmių salė: Akademijos visuotinių iškilmių salė buvo pailgos formos salė kairėje pusėje prie bokšto arba varpinės.
 - susijęs iš Bartos žemė: Po Varmės nuniokojimo lietuviai nuvedė grobiu apsikrovusius karius į Bartos žemę ir sustojo pailsėti atvirame lauke.
+- susijęs iš Eliziejaus laukai: Narbutas aiškino, kad kūnui sunykus žmogaus šešėlis išsivaduoja ir gali skristi į Eliziejaus laukus.
 - susijęs iš Kaunas: Sportas tapo integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olimpiadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.
 - susijęs iš Kirsnava: Brolis Fridrichas, grįždamas su grobiu iš Kirsnavos valsčiaus, buvo priešų nukautas kartu su 30 vyrų.
 - susijęs iš Krokuva: Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje prie tėvo kapo.
 - susijęs iš Lenkijos karalystė: Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje.
 - susijęs iš Maskva: Kunigaikštis Mykolas tremtyje Maskvoje mirė nunuodytas kažkokiame vienuolyne.
 - susijęs iš Mazovija: 1323 m. Vilniuje duotame laiške skelbta, kad per Mazovijos kunigaikščio Boleslavo valdas galima saugiai atvykti į Lietuvą.
-- susijęs iš Nemunas: Dusburgiečio pasakojime iš Lietuvos traukianti brolių kariuomenė vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą.
-- susijęs iš Nemunas: Susitikimas vyko Salyne, Nemuno saloje prie dabartinės Kulautuvos.
-- susijęs iš Nemunas: Vytauto ir magistro susitikimas įvyko Salyne, Nemuno saloje netoli dabartinės Kulautuvos.
+- susijęs iš Nemunas: Brolis Ditrichas, sembų fogtas, su kariuomene įžengė į skalvių žemę abipus Nemuno ir užpuolė pilį, stovėjusią dabartinės Ragainės vietoje.
+- susijęs iš Nemunas: Narbutas pažymėjo, kad Nemuno žemupio lietuviai vietoj „Gej“ šaukdavę „Hej“.
 - susijęs iš Rudinas: Sargybinis rado sužeistą Martyną kovos vietoje ir nuvežė jį į Rudino pilį.
 - susijęs iš Tikocinas: Tikocine pas Zaleskį buvę bažnytiniai reikmenys turėjo būti perduoti Vilniaus Šv. Onos bažnyčiai.
 - susijęs iš Vidugiriai: 1920 m. rugsėjo 22 d. leitenantas Jonas Kuklieris buvo žuvęs mūšyje netoli Vidugirio kaimo.
@@ -185,6 +198,11 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Naujoji Šv. Onos bažnyčia Vilniaus pilyje buvo nurodyta kaip palaidojimo vieta mirties Lietuvos Kunigaikštystėje atveju.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
+- susijęs iš [[objektai/zodynas/Aitvaras viršgulis.md#claim-t-189112|Aitvaras viršgulis]]: Narbutas cituoja F. Noelį, kad demonografai išgalvojo viršgulius Incubi ir apačgulius Succubi, kankinančius žmones per miegą.
+- susijęs iš [[objektai/zodynas/Mėnuo Lėlė Mėnulė.md#claim-t-189162|Mėnuo Lėlė Mėnulė]]: Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, nakties karalių ir laiko tarpsnių valdovą, antrą po Saulės.
+- susijęs iš [[objektai/zodynas/Raudotojos Werksme.md#claim-t-189136|Raudotojos Werksme]]: Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta, jog jos nuramina vėles.
+- susijęs iš [[objektai/zodynas/Slenkstis Slynksnis-Perlevenu.md#claim-t-189179|Slenkstis Slynksnis-Perlevenu]]: Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų dievaitį ir žemdirbio nuosavybės globėją.
+- susijęs iš [[objektai/zodynas/Upinė.md#claim-t-189185|Upinė]]: Narbutas rašė, kad prie Zapyškio tekėjęs mažas upelis anksčiau vadintas Upinės upeliu, o vėliau - Išganytojo vardu.
 - susijęs iš [[objektai/zodynas/Vėlė.md#claim-t-70067|vėlė]]: Vėlėmis Daukanto tekste vadintos mirusiųjų dūšios, kurios galėdavo apsireikšti gyviesiems.
 - susijęs iš [[objektai/zodynas/Vėlė.md#claim-t-70068|vėlė]]: Vėlės siejamos su išganymo prašymu ir naktiniu pasirodymu.
 - susijęs iš [[objektai/zodynas/arkibrolija arkikonfratrija.md#claim-t-86582|arkibrolija arkikonfratrija]]: 1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę dėl Dievo Kūno arkibrolijos steigimo.

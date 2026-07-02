@@ -408,8 +408,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90040|Sventopelkas]]: Sventopelkas sudarė sąjungą su prūsais, kad jie išvarytų Teutonų ordino brolius ir kitus krikščionis iš Prūsijos.
 - susijęs iš [[objektai/asmenys/Valteris, pravarde Goldinas.md#claim-t-60218|Valteris, pravarde Goldinas]]: 1296 m. Valteris Goldinas pagal kraujo pėdsakus surado brolio Henriko žirgą pagrobusį rusą ir jį nukovė.
 - susijęs iš [[objektai/asmenys/Valteris, pravarde Goldinas.md#claim-t-60219|Valteris, pravarde Goldinas]]: Valteris, pravarde Goldinas, 1296 m. prie Gardino pilies sekė pėdsakais, išžudė bėglius ir vėliau nudėjo sužeistą rusą.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176816|Vytenis]]: Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176843|Vytenis]]: Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176816|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176843|Vytenis (valdovas, XIII–XIV a.)]]: Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m.
 - susijęs iš [[objektai/asmenys/Zigfridas iš Rechbergo.md#claim-t-60473|Zigfridas iš Rechbergo]]: 1296 m. žiemą Baigos komtūras Zigfridas iš Rechbergo iš Notangos patraukė link Lietuvos ir priėjo Gardino pilį.
 - susijęs iš [[objektai/daiktai/Medinis kryžius.md#claim-t-59693|Medinis kryžius]]: Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje.
 - susijęs iš [[objektai/grupes/Bazelio bažnytinis susirinkimas.md#claim-t-40864|Bazelio bažnytinis susirinkimas]]: Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti Lietuvos valdovą ir Jogailą.

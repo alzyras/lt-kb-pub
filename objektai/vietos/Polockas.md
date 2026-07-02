@@ -8,11 +8,14 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1183 m.'
+  - '1232 m.'
   - '1255 m.'
+  - '1264 m.'
   - '1307 m.'
   - '1320 m.'
   - '1340 m.'
@@ -24,14 +27,14 @@ date_start: '1183'
 date_end: '1580'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XII'
+  - 'XVI'
 tags:
   - karalius
   - kraštas
   - kunigaikštis
   - vieta
-amziai:
-  - 'XII'
-  - 'XVI'
 ---
 # Polockas
 
@@ -40,7 +43,6 @@ amziai:
 Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis artino į aisčių kraštą. Todėl prie Dauguvos iškilo didelis prekybos centras Polockas, o prie Nemuno — Kaunas. Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos.
 
 ## Teiginiai
-
 <a id="claim-t-180424"></a>
 - t-001
   global_id: t-180424
@@ -533,7 +535,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   global_id: t-180462
   teiginys: 'Vytenio ir Gedimino brolis Vainys valdė Polocką.'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]'
   temporaliniai_duomenys: 'įvykio data: 1341 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėstas neaiškus įvardis.'
@@ -641,7 +643,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-039
   global_id: t-180472
   teiginys: 'Vainys buvo vienas iš brolių ir valdė Polocką.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]'
   temporaliniai_duomenys: 'įvykio data: 1341 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -830,7 +832,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs ilgas fragmentas ir paliktas aiškus faktas.'
-  susije_objektai: 'llm_object: Polockas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Černigovas; llm_object: Kijevas; llm_object: Černigovas'
+  susije_objektai: 'llm_object: Polockas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Černigovas'
   semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Polockas; [[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė teritoriją Polockas'
   pagrindžia:
     - c-037
@@ -963,6 +965,43 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=64
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188804"></a>
+- t-062
+  global_id: t-188804
+  teiginys: 'Narbutas pasakoja, kad po Mindaugo žūties Treniota nužudė Polocko Tautvilą, o bijodamas polockiečių keršto įkalino Polocko bajorus.'
+  pagrindžia:
+    - c-044
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 361981-362619; hash=5d73ace79a00eea919dcbea90725c61ea1efbf8ce97d48f82c477ff7a6516a31; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_brolis -> Vytenis: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Gediminas buvo Vytenio brolis.
+<a id="claim-t-188805"></a>
+- t-063
+  global_id: t-188805
+  teiginys: '1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.'
+  pagrindžia:
+    - c-045
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 362620-363124; hash=0c321c6e4db0c2f2d7087b2ddacef5c4d11e60a7e70bad1c82c742eb01f98b25; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: siunte_i -> Polockas: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos ponai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Lietuvos ponai pasiuntė Liutaurą į Polocką jo užimti.
 - susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186722|Andriaus Algirdaičio maištas prieš Jogailą]]: 1387 m. balandžio pirmojoje pusėje Skirgaila užėmė Polocką, o Andrius Algirdaitis buvo suimtas.
 - susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-183825|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą.
 - susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87211|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Strijkovskis ir Kojalavičius rašė, kad Vytautas kelionę į Vilnių dangstė sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku dingstimi.
@@ -983,6 +1022,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - susijęs iš Vilniaus Aukštutinė pilis: Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
 - susijęs iš Vitebskas: Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis.
 - susijęs iš [[objektai/asmenys/Florijonas Zebžidovskis.md#claim-t-186109|Florijonas Zebžidovskis]]: Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus į Polocką.
+- susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-188604|Prokopas]]: Narbutas Prokopą vaizduoja kaip Polocko kunigaikščio patikėtinį ir išdaviką, kurį Treniota pasiuntė į Polocką po Tautvilos nužudymo.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179642|Skirgaila]]: Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, ir dėl to kilo atviras susirėmimas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176768|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas bandė užimti Žemutinę pilį, į Vilnių pasiuntęs roges su jose paslėptais ginkluotais žmonėmis.
 - susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185753|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
@@ -992,6 +1032,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/ivykiai/Polocko užvaldymas ir Naugarduko metropolijos įkūrimas (apie 1300 m.).md#claim-t-31466|Polocko užvaldymas ir Naugarduko metropolijos įkūrimas (apie 1300 m.)]]: Apie 1300 m. Vytenis ilgam užvaldė Polocką Lietuvai, nes po Mindaugo mirties šis miestas buvo atsipalaidavęs nuo Lietuvos.
 - susijęs iš [[objektai/ivykiai/Rygos ir Polocko pirklių laisvos prekybos sutartis (1405–1406 m.).md#claim-t-34554|Rygos ir Polocko pirklių laisvos prekybos sutartis (1405–1406 m.)]]: 1405 m. Rygoje Rygos ir Polocko pirkliai sudarė sutartį laisvai prekiauti net kilus karui tarp Livonijos ordino ir Vytauto.
+- susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
+- susijęs iš [[objektai/asmenys/Liutauras.md#claim-t-190106|Liutauras]]: Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė Liutaurą užimti ir vietininko teisėmis valdyti Polocką.
 - susijęs iš [[objektai/asmenys/Mechmet Girėjus.md#claim-t-186148|Mechmet Girėjus]]: Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir grįžo su dideliu grobiu.
 - susijęs iš Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko: 1432 m. rugsėjo 3 d. laiške iš Polocko Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
 - susijęs iš Naugardas Sieverskas: Po sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Naugardo Sieversko bei kelias kitas sritis.
@@ -1008,12 +1050,15 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54971|Gabrielius Bekešas]]: Gabrielius Bekešas prie Polocko rizikavo gyvybe, o vėliau ties Velikije Lūki buvo paskirtas vadovauti vengrų kariuomenės riteriams.
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Ivanas.md#claim-t-185962|Ivanas]]: Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir gruodžio pabaigoje apsupo jos sostinę bei abi pilis.
+- susijęs iš [[objektai/asmenys/Jaunė (Jievna).md#claim-t-188540|Jaunė (Jievna)]]: Jaunė, arba Ieva, Narbuto genealogijoje pateikiama kaip trečioji Gedimino žmona ir Polocko kunigaikščio duktė.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176510|Julijona (Algirdo žmona)]]: Julijona, Vitebsko kunigaikštytė, buvo antroji Algirdo žmona ir Polocko kunigaikščio Andriaus motina.
+- susijęs iš [[objektai/asmenys/Liutauras.md#claim-t-190106|Liutauras]]: Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė Liutaurą užimti ir vietininko teisėmis valdyti Polocką.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113891|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas, kad P. Šuiskis sausio 23 d. su kariuomene pajudėjo iš Polocko.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113892|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas apie P. Šuiskio žygį iš Polocko ir tuo metu buvo Lukomlyje.
 - susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-184790|Mingaila]]: Mingaila prie Gorodeco drąsiai užpuolė polockiečių kariuomenę ir privertė ją sprukti iš kovos lauko bei stovyklos.
 - susijęs iš [[objektai/asmenys/Petras Šuiskis.md#claim-t-40392|Petras Šuiskis]]: Kunigaikštis Petras Šuiskis su savo kariuomene iš Polocko pajudėjo sausio 23 d.
 - susijęs iš [[objektai/asmenys/Petras Šuiskis.md#claim-t-40393|Petras Šuiskis]]: Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.
+- susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-188604|Prokopas]]: Narbutas Prokopą vaizduoja kaip Polocko kunigaikščio patikėtinį ir išdaviką, kurį Treniota pasiuntė į Polocką po Tautvilos nužudymo.
 - susijęs iš [[objektai/asmenys/Rogvoldas Borisovičius.md#claim-t-87846|Rogvoldas Borisovičius]]: Rogvoldas Borisovičius buvo Polocko Riuriko giminės kunigaikščio Rostislavo tėvas.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179642|Skirgaila]]: Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, ir dėl to kilo atviras susirėmimas.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179650|Skirgaila]]: Skirgailai išvykus į Polocką, Vytautui atsirado proga bandyti įgyvendinti sumanymą užimti Vilniaus Žemutinę pilį.
@@ -1023,12 +1068,16 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121172|Tautvilas]]: Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121173|Tautvilas]]: Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-184840|Tautvilas]]: Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą.
+- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-188644|Treniota]]: Narbutas pasakoja, kad po Mindaugo žūties dėl grobio susikivirčijęs Žemaičių Treniota nužudė Polocko kunigaikštį Tautvilą.
 - susijęs iš [[objektai/asmenys/V. B. Seremetjevas.md#claim-t-40482|V. B. Seremetjevas]]: Rusų karvedys V. B. Seremetjevas su maždaug 15 000 karių užėmė Polocką ir Dysną.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-188651|Vytenis (valdovas, XIII–XIV a.)]]: Narbuto pasakojime Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocką.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179734|Švitrigaila]]: 1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o Švitrigaila pabėgo į Polocką.
 - susijęs iš [[objektai/autoriai/Pranciškus Skorina.md#claim-t-64824|Pranciškus Skorina]]: Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas, gimęs Polocko pirklių šeimoje.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-10757|Hanza]]: Hanza Kaune ir Polocke įsteigė savo agentūras, vadintas pirklių kontoromis.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116694|Hanza]]: Rygiečiai Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179402|Livonijos ordinas]]: Jogailos kariuomenė kartu su Livonijos magistru pasiuntė būrius Skirgailai į pagalbą prie Polocko.
+- susijęs iš [[objektai/grupes/Polockiečiai.md#claim-t-185445|Polockiečiai]]: Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas.
+- susijęs iš [[objektai/grupes/Polocko bajorai ir ponai.md#claim-t-189528|Polocko bajorai ir ponai]]: Narbutas pasakoja, kad Treniota įkalino Polocko bajorus, o Jonas, gelbėdamas Polocko ponus, išjojo į Naugardą ir tapo vienuoliu.
 - susijęs iš [[objektai/grupes/Polocko kunigaikščiai.md#claim-t-187772|Polocko kunigaikščiai]]: Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui nebeliko Polocko kunigaikščių, vadinama nepagrįsta.
 - susijęs iš [[objektai/grupes/Rusai.md#claim-t-117248|Rusai]]: Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko.
 - susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186720|Andriaus Algirdaičio maištas prieš Jogailą]]: 1971 m. komentare Andriui Algirdaičiui priskiriamas siekis atplėšti Polocką nuo LDK, o 1385 m. spalio 10 d. jis pasidavė Livonijos ordinui kaip vasalas.
@@ -1057,6 +1106,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - susijęs iš 1579 m. Niurnbergo leidinys apie Polocko atsiėmimą: 1579 m. Niurnbergo leidinio aprašyme pasakojama, kaip karalius po apgulties išvadavo Polocką ir išlaisvino belaisvius.
 - susijęs iš Eilėtoji Livonijos kronika: Tautvilas, remiamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką.
 - susijęs iš Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko: 1432 m. rugsėjo 3 d. laiške iš Polocko Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
+- susijęs iš Ariogala: Narbutas rašo, kad Liutauro sūnus Vytenis, gimęs 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocko kunigaikštystę.
 - susijęs iš Baltoji Rusia: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.
 - susijęs iš Belčica: Belčica yra upelis, įtekantis į Dauguvą iš pietų priešais Polocką.
 - susijęs iš Berezina: Berezinos upė buvo sutarta riba tarp Polocko kunigaikštystės ir Lietuvos.
@@ -1067,6 +1117,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - susijęs iš Konstantinopolis: Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.
 - susijęs iš Konstantinopolis: Po Ciprijono mirties Vytautas pristatė Konstantinopolio patriarchui Eufimėjui Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus.
 - susijęs iš Konstantinopolis: Po Ciprijono mirties Vytautas Konstantinopolio patriarchui Eufimėjui pristatė Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus.
+- susijęs iš Kumanų žemė: Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, iš kurios Vytenis vėliau grįžo į Polocką.
 - susijęs iš Lietuva: Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.
 - susijęs iš Lietuva: 1388 m. dokumente Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.
 - susijęs iš Liubekas: Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.
@@ -1079,6 +1130,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - susijęs iš Smolenskas: Kojelavičius ir Stryjkovskis klydo teigdami, kad Švitrigaila pabėgo į Smolenską, o ne į Polocką.
 - susijęs iš Targovica: Targovicos konfederatams į pagalbą atėjusi Rusijos kariuomenė 1792 m. gegužės 22 d. įžengė į LDK prie Polocko.
 - susijęs iš Velikije Lūki: 1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką.
+- susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
 - susijęs iš [[objektai/zodynas/etmonas.md#claim-t-187522|etmonas]]: Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą.
 - susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronikoje Andrius Algirdaitis supainiotas su Vaidotu Kęstutaičiu, todėl atsirado išgalvotas Andrius Vaidotas.
 - susijęs iš M. Strijkovskio kronika: Strijkovskis ir Kojelavičius supainiojo Andrių, Algirdo sūnų, su Vaidotu, Kęstučio sūnumi.
@@ -1123,6 +1175,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87479|Stanislovas Goštautas]]: 1542 metais Vilniuje Naugarduko vaivada Stanislovas Goštautas dalyvavo patvirtinant raštą valdovo antspaudu.
 - susijęs iš [[objektai/asmenys/Stanislovas Lesniovolskis.md#claim-t-186080|Stanislovas Lesniovolskis]]: Susirgęs Zebžidovskis perdavė pareigas Stanislovui Lesniovolskiui ir patarė žvalgyti pakrantę bei sekti priešą.
 - susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179683|Sviatoslavas]]: Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
+- susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-188621|Tautvila]]: Narbutas pasakoja, kad po Mindaugo žūties Polocko kunigaikštį Tautvilą per ginčą dėl grobio nužudė Treniota.
 - susijęs iš [[objektai/asmenys/Teodosijus.md#claim-t-30394|Teodosijus]]: Vytautas siekė, kad Polocko vyskupas Teodosijus taptų Lietuvos stačiatikių metropolitu.
 - susijęs iš [[objektai/asmenys/Teodozijus.md#claim-t-35295|Teodozijus]]: Po Ciprijono mirties Vytautas pristatė Polocko vyskupą Teodozijų Konstantinopolio patriarchui kaip kandidatą į Kijevo metropolitus.
 - susijęs iš [[objektai/asmenys/Vaclovas (Medininkų vyskupas).md#claim-t-87481|Vaclovas (Medininkų vyskupas)]]: Medininkų vyskupas Vaclovas dalyvavo 1542 m. Vilniuje duoto rašto patvirtinime kartu su kitais dignitoriais ir pareigūnais.
@@ -1240,6 +1293,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - susijęs iš Minskas: XII a. iš Polocko kunigaikštijos miestų, tarp jų Minsko, susidarė atskiros kunigaikštijos.
 - susijęs iš Mstislavlis: Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
 - susijęs iš Naugardas Sieverskas: Po sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Naugardo Sieversko bei kelias kitas sritis.
+- susijęs iš Naugardas: Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu.
 - susijęs iš Naugardukas: 1044 m. Jaroslavas įkūrė Naugarduką, turbūt dar lietuvių gyvenamoje žemėje.
 - susijęs iš Naugardukas: Kunigaikščių Baziliaus Serebriano ir Petro Šuiskio pajėgos planavo pulti Minsko, Naugarduko ir Vilniaus kryptimi.
 - susijęs iš Naugardukas: 1044 m. Jaroslavo įkurtas Naugardukas, turbūt, buvo dar lietuvių gyvenamoje žemėje.
@@ -1263,13 +1317,10 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - susijęs iš Tartu: Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline.
 - susijęs iš Tauro Gedimino kalnas: Jogailos laikų Vilniaus miesto plane Aukštutinė pilis pažymėta ant Tauro kalno.
 - susijęs iš Trakai: 1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės.
-- susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį.
-- susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį.
 - susijęs iš Velikije Lūki: Velikije Lūki citatos pastaboje įvardijami kaip vienas iš Lietuvos miestų, kuriuos 1406 m. puolė pskoviečiai.
 - susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
 - susijęs iš Vilniaus Aukštutinė pilis: Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
 - susijęs iš Vilnius: 1564 m. pradžioje į LDK įsiveržusios dvi Maskvos kariuomenės planavo pulti Minsko, Naugarduko ir Vilniaus kryptimi.
-- susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
 - susijęs iš Vilnius: Vytautas bandė užimti Vilnių, į dengtas roges su atsargomis paslėpęs ginkluotų žmonių būrį.
 - susijęs iš Vilnius: Pranciškus Skorina 1522 m. įkūrė spaustuvę Vilniuje.
 - susijęs iš Vitebskas: XII a. iš Polocko kunigaikštijos miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos.
@@ -1303,10 +1354,12 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-187536|viečė]]: Viečė buvo žymesnių Kijevo Rusios miestų gyventojų susirinkimas karo, taikos, pareigūnų ir kitiems svarbiausiems klausimams svarstyti.
 - susijęs iš Kijevas: Po sąmokslininkų puolimo Švitrigaila paspruko į Polocką ir perėmė Kijevo bei kelias kitas sritis.
 - susijęs iš Koloža: 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos miestą.
+- susijęs iš Kumanų žemė: Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, iš kurios Vytenis vėliau grįžo į Polocką.
 - susijęs iš [[objektai/asmenys/Florijonas Zebžidovskis.md#claim-t-186109|Florijonas Zebžidovskis]]: Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus į Polocką.
 - susijęs iš Rusija: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko ir pradėjo LLV karą su Rusija.
 - susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186738|Švitrigailos užpuolimas Ašmenoje]]: Redakcinė pastaba nurodo, kad po pabėgimo iš Ašmenos 1432 m. rugsėjo 1 d. naktį Švitrigaila jau rugsėjo 3 d. buvo Polocke.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.
+- susijęs iš Ariogala: Narbutas rašo, kad Liutauro sūnus Vytenis, gimęs 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocko kunigaikštystę.
 - susijęs iš [[objektai/asmenys/Rostislavas Rogvoldovičius.md#claim-t-87572|Rostislavas Rogvoldovičius]]: 1129 m. didysis kunigaikštis Mstislavas Vladimirovičius išvijo Polocko kunigaikštį Rostislavą Rogvoldovičių su broliais iš Polocko.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54944|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-82221|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę.
@@ -1316,7 +1369,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-82313|Gabrielius Bekešas]]: Gabrielius Bekešas Skornatas vadovavo karaliaus vengrų pulkams ir buvo įvertintas už ištikimą, drąsią bei pasiaukojamą tarnybą.
 - susijęs iš Vitebskas: Gediminas prie anksčiau lietuvių užvaldytų žemių pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2221,6 +2273,48 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-061
+- c-044
+  santrauka: 'Narbutas pasakoja, kad po Mindaugo žūties Treniota nužudė Polocko Tautvilą, o bijodamas polockiečių keršto įkalino Polocko bajorus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
+    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
+    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
+    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
+    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
+    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
+    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
+    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­
+    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
+    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
+    imtus bajorus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-062
+- c-045
+  santrauka: '1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Todėl Jonas, išvaduodamas nuo nelaimės Po­
+    locko ponus, išjojo į Naugardą ir ten tapo vienuoliu. O Lietu­
+    vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
+    niotos mirties, nusiuntė Liutaurą užimti Polocko, kad šis val­
+    dytų jį kaip vietininkas. Liutauro sūnus Vytenis, gimęs 1232
+    metais Žemaitijoje, gyveno Ariogaloje; jis išgarsėjo rusų ka­
+    ruose su totoriais, buvo paimtas į nelaisvę, buvo Batu stovyk­
+    loje, Kumanų žemėje, pagaliau grįžo ir valdė Polocko kuni­
+    gaikštystę kartu su savo tėvu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-063
 
 ## Ryšiai
 - [[objektai/asmenys/Skirgaila]] uzeme Polockas
@@ -2245,12 +2339,15 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] valde_miesta Polockas
 - Polockas priklause [[objektai/vietos/Baltoji Rusia]]
 - [[objektai/vietos/Ryga]] prekiavo_su Polockas
-- [[objektai/asmenys/Vytenis]] valde_miesta Polockas
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] valde Polockas
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] valde_miesta Polockas
 - [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Polockas
+- [[objektai/grupes/Lietuvos ponai]] siunte_i Polockas
 - Polockas priklause [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusijos kariuomenė]] surenge_zygi_i Polockas
 - [[objektai/asmenys/Švitrigaila]] valde Polockas
 - [[objektai/asmenys/Florijonas Zebžidovskis]] surenge_zygi_i Polockas
+- [[objektai/asmenys/Liutauras]] valde Polockas
 - Polockas prekiavo_su [[objektai/vietos/Dauguva]]
 - [[objektai/grupes/Totoriai]] surenge_zygi_i Polockas
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] keliavo_i Polockas

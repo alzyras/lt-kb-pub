@@ -5,19 +5,21 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1259 m.'
+  - '1805 m.'
   - '2026 m.'
 date_start: '1259'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - pilis
-  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
+tags:
+  - pilis
+  - vieta
 ---
 # Jurbarkas
 
@@ -26,7 +28,6 @@ amziai:
 Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurios žemaičiai taip pat neįstengė išgriauti.
 
 ## Teiginiai
-
 <a id="claim-t-83423"></a>
 - t-001
   global_id: t-83423
@@ -48,7 +49,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - t-003
   global_id: t-83426
   teiginys: 'Apgriautos pilies plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.'
-  susije_objektai: 'mentioned_place: Bokštai; mentioned_place: Nemunas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Veliuona'
   pagrindžia:
     - c-003
 
@@ -56,28 +57,28 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - t-004
   global_id: t-83427
   teiginys: '1259 m. prie Nemuno buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Bokštai; mentioned_place: Nemunas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Veliuona'
   temporaliniai_duomenys: 'pastatymo data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2d53e6e38dfcdffbac53074ee0aa16228d1051af5102bfe03fc72f4c17bd282e; match=fallback; occurrences=0
+  saltinio_vieta: 226784-226989; hash=c38560062b2ba4c71487236f45fd1faa02381e3cacd7b3630be9a913f0742dec; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bokštai: 0.83
+  ryšio_patikimumas: susije_su -> Veliuona: 0.83
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Jurbarkas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bokštai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurbarkas" parinktas kaip owner_note_path. Targetas "Bokštai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_targeto_parinkimas: Veliuona: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurbarkas" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-83428"></a>
 - t-005
   global_id: t-83428
   teiginys: 'Aprašomu metu apgriuvusios sienos ir bokštų plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis kontekstas ir paliktas su Jurbarku susijęs faktas.'
-  susije_objektai: 'mentioned_place: Bokštai; mentioned_place: Nemunas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Bokštai; mentioned_place: Veliuona'
   pagrindžia:
     - c-003
 
@@ -93,7 +94,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2d53e6e38dfcdffbac53074ee0aa16228d1051af5102bfe03fc72f4c17bd282e; match=fallback; occurrences=0
+  saltinio_vieta: 226784-226989; hash=c38560062b2ba4c71487236f45fd1faa02381e3cacd7b3630be9a913f0742dec; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Bokštai: 0.83
   ryšio_patikimumo_lygis: vidutinis
@@ -102,6 +103,43 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   ryšio_subjekto_parinkimas: Jurbarkas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Bokštai: mention_match, place, gap=48
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurbarkas" parinktas kaip owner_note_path. Targetas "Bokštai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+<a id="claim-t-188701"></a>
+- t-007
+  global_id: t-188701
+  teiginys: 'Narbutas Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, minėjo labai seną mūro pilį.'
+  pagrindžia:
+    - c-005
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 218913-219155; hash=97d801f3fcc0d520d290f572a4c34da1dea16e84128d1fc0febe21a3841c33f5; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jurbarkas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurbarkas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188702"></a>
+- t-008
+  global_id: t-188702
+  teiginys: 'Narbutas Veliuoną apibūdino kaip menką miestelį dešiniajame Nemuno krante, esantį penkios mylios nuo Jurbarko.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 226784-226989; hash=c38560062b2ba4c71487236f45fd1faa02381e3cacd7b3630be9a913f0742dec; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žemaičiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jurbarkas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Žemaičiai: mention_match, group, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurbarkas" parinktas kaip owner_note_path. Targetas "Žemaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97459|Kaributas]]: Kaributas, Jogailos brolis ir Naugardo Sieversko kunigaikštis, sukilo prieš Kęstutį, kai šis buvo apgulęs Jurbarką.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
 - susijęs iš [[objektai/asmenys/Barkus.md#claim-t-186097|Barkus]]: Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitijos dalį iki Kuršių įlankos.
@@ -111,14 +149,16 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
 - susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: Zajączkowskio veikalas nurodomas tarp šaltinių, Kolainių pilį siejančių su Kalnėnais į vakarus nuo Jurbarko.
 - susijęs iš Georgenburgas: 1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą pilį Georgenburgą, tapatinamą su Jurbarku.
+- susijęs iš Kiduliai: Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, Narbutas mini labai seną mūro pilį.
 - susijęs iš Kolainių pilis (pilis): Kolainių pilis dažniausiai siejama su Kalnėnais į vakarus nuo Jurbarko, nors jos vieta tiksliai nenustatyta.
 - susijęs iš Medraba: Medrabos pilis galėjusi būti Meškininkų piliakalnyje, į šiaurės vakarus nuo Jurbarko kairiajame Mituvos krante.
 - susijęs iš Nemunas: Veliuona buvo įsikūrusi ties Nemunu, už 7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per pusantros mylios nuo Prūsijos sienos.
 - susijęs iš Nemunas: Barkus Jūros žiotyse, kur ji įteka į Nemuną, pasistatė Jurbarko pilį ir gavo valdyti dalį Žemaitijos.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176353|Gediminas]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse prie Nemuno.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176372|Gediminas]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse.
+- susijęs iš Nemunas: Narbutas Veliuoną apibūdino kaip menką miestelį dešiniajame Nemuno krante, penkių mylių atstumu nuo Jurbarko.
+- susijęs iš Šventoji ties Smalininkais: Šventoji (Swięta) ties Smalininkais minima kaip upė, įtekanti į Nemuną žemiau Jurbarko prie Prūsijos sienos.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176353|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse prie Nemuno.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176372|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178923|Kryžiuočių ordinas]]: Veliuonos pilis tikriausiai buvo pastatyta XIII a., kad Žemaitijos siena būtų saugoma nuo kryžiuočių puldinėjimų.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
 - susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66821|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.
 - susijęs iš [[objektai/ivykiai/Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis).md#claim-t-95965|Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)]]: Praėjus trims savaitėms po paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti atsiskyrimo nuo kryžiuočių planą.
 - susijęs iš Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts: Skronaitę bandyta tapatinti su Skeršpile prie Mituvos aukštupio, bet dabartiniuose Skeršpyliuose piliakalnio pėdsakų nerasta.
@@ -127,6 +167,9 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - susijęs iš Kimelis: Dusburgietis Kimelį vadino Kymel, o Jerošinas - Kimel ir nurodė pilį buvus prie Nemuno.
 - susijęs iš Naujasis Kvidzinas: Naujasis Kvidzinas prie Kauno buvo viena iš trijų Vytauto valdžioje buvusių pilių, kurias turėjo sunaikinti.
 - susijęs iš Nemunas: Veliuona aprašyta kaip prie Nemuno nusidriekusi vietovė, buvusi už 7 mylių nuo Kauno.
+- susijęs iš Nemunas: Dusburgiečio pasakojime iš Lietuvos traukianti brolių kariuomenė vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą.
+- susijęs iš Nemunas: Susitikimas vyko Salyne, Nemuno saloje prie dabartinės Kulautuvos.
+- susijęs iš Nemunas: Vytauto ir magistro susitikimas įvyko Salyne, Nemuno saloje netoli dabartinės Kulautuvos.
 - susijęs iš Trakų pilis (pilis): Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio.
 - susijęs iš Trakų pilis (pilis): Ordino patrankos buvo išmėgintos imant Trakų pilį, o 1384 m. Jogaila jas panaudojo prieš Ordiną prie Marienverderio.
 - susijęs iš Trakų pilis (pilis): Jogaila gavo iš Ordino maršalkos Kuno von Hattenšteino patrankų, anksčiau vokiečių išmėgintų imant Trakų pilį.
@@ -137,7 +180,6 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-12313|Laivai]]: 1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.
 - susijęs iš [[objektai/ivykiai/Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis).md#claim-t-95965|Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)]]: Praėjus trims savaitėms po paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti atsiskyrimo nuo kryžiuočių planą.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -221,6 +263,40 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+- c-005
+  santrauka: 'Narbutas Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, minėjo labai seną mūro pilį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
+    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
+    125
+
+    ## Puslapis 125
+
+    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
+    nedailaus, bet labai patvaraus gipso.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-006
+  santrauka: 'Narbutas Veliuoną apibūdino kaip menką miestelį dešiniajame Nemuno krante, esantį penkios mylios nuo Jurbarko.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Skaityk žemiau atitinkamus straipsnius.
+    Ji turėjo savo šventyklą vietovėje, kuri iki šiol tebesivadina
+    Veliuona (Wellona). Dabar tai menkas miestelis dešiniajame
+    Nemuno krante, penkios mylios iki Jurbarko.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] apgule Jurbarkas

@@ -105,4 +105,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] dalyvavo_musyje Gedimino žūtis Bajerburgo mūšyje (1337 m.)
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] dalyvavo_musyje Gedimino žūtis Bajerburgo mūšyje (1337 m.)

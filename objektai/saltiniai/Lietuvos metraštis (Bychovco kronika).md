@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1368 m.'
@@ -34,13 +35,12 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
 - chunk_0026: antrinės bibliografinės nuorodos į Pabaisko mūšį, drąsią ataką ir grobio užgrobimą.
 
 ## Teiginiai
-
 <a id="claim-t-117482"></a>
 - t-001
   global_id: t-117482
   teiginys: 'Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo, bet citata pagrindžia aiškų perrašymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Algirdas|Algirdas]]'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1368 m.; valdymo laikotarpis: 1370 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Maskva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės triukšmo, bet citata pagrindžia aiškų perrašymą.'
@@ -102,8 +102,26 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
   ryšio_paaiskinimas: Citata rodo Algirdo atėjimą su kariuomene prie Maskvos, tai atitinka žygį į Maskvą.
 
-## Reikšmingi paminėjimai
+<a id="claim-t-188490"></a>
+- t-007
+  global_id: t-188490
+  teiginys: 'Narbutas cituoja Bychovco kroniką, kurioje rašoma, kad deginant lietuvių kunigaikštį ar didiką prie kūno dėdavo lūšies arba lokio nagus.'
+  pagrindžia:
+    - c-007
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 692382-693053; hash=c92b908bbdea80465fd066cf6d18e2f656e623ce3f5c33042d8f053bfdfcc702; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: kariavo_pries -> Algirdas (Lietuvos valdovas): 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dmitrijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Karo paskelbimo pasiuntimas Algirdui tiesiogiai rodo Dmitrijaus karo veiksmą prieš Algirdą.
 
+## Bibliografiniai įrodymai
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -224,3 +242,31 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+- c-007
+  santrauka: 'Narbutas cituoja Bychovco kroniką, kurioje rašoma, kad deginant lietuvių kunigaikštį ar didiką prie kūno dėdavo lūšies arba lokio nagus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Rankraš­
+    tinėje Lietuvos (Bychovco) kronikoje taip apie tai sakoma:
+    y
+    koli kotoroho kniazia Litovskoho abo pana sozženo tilo, tohdy
+    pry nich kladyvali, nohty rysij, abo medvežyi, dla toho iž viru
+    tuiu mili, iž sudny den mil byty, y tak snamenali sobi, ižby boh
+    milpryty y sedity nahory vysokoy, y sudyty žywych y mertvych, na
+    kotoruiuž horu tmdno budėt vzoyty, bez tych nohtey rysich, abo
+    medvežych, y dla toho tyle nohty podle nich kladyvali, na koto-
+    22 Lucas David. -  B. I. -  S. 21.
+    388
+
+    ## Puslapis 388
+
+    rych mili na tuiu horu lesty, y na sud do boha yty“ (Ir jeigu kurio
+    nors lietuvių kunigaikščio ar didiko kūną degindavo, tai priėjo
+    dėdavo lūšies ar lokio nagus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007

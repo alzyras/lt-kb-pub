@@ -117,7 +117,6 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
 - susijęs iš [[objektai/grupes/Lietuvos kunigaikščiai ir didikai.md#claim-t-86760|Lietuvos kunigaikščiai ir didikai]]: Lietuvių ir lenkų kunigaikščiai bei didikai dalyvavo iškilmingai pašventinant Vilniaus Šv. Stanislovo katedrą.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108317|Pranciškonų ordinas]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko pranciškoną Andrių iš Vasilevo.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108324|Pranciškonų ordinas]]: Pirmuoju Vilniaus diecezijos vyskupu Jogaila išrinko Andrių iš Vasilevo Važilą, Mažesniųjų brolių ordino vienuolį.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176117|Žemaičiai]]: 1413 m. vasario 6 d. Vilniuje Jogaila ir Vytautas įgaliojo dvasininkus vesti derybas su kryžiuočiais, atstovaujant žemaičiams.
 - susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54449|Lietuvos krikštas Vilniuje (1387 m.)]]: 1387 m. sausį Vladislovas Jogaila atvyko į Gedimino sostinę kartu su Jadvyga, dvasininkais, kunigaikščiais ir didikais.
 - susijęs iš [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas.md#claim-t-176181|Vilniaus vyskupystės įkūrimas]]: Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją.
 - susijęs iš Dogiel, Codex Diplomaticus: Dogielio „Codex Diplomaticus“ pateikia 1413 m. vasario 6 d. Vilniuje Jogailos ir Vytauto duotą įgaliojimą deryboms su kryžiuočiais.

@@ -512,6 +512,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Dailininkų sąjunga.md#claim-t-19667|Dailininkų sąjunga]]: Sąjūdžio priešistorėje Dailininkų sąjunga įsitraukė į visuomeninį aktyvumą kartu su ekonomistais ir filosofais.
 - susijęs iš [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa).md#claim-t-20249|LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]: 1988 m. birželio 10 d. LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 d. – Klaipėdoje, o pirmieji masiniai mitingai vyko Vilniuje.
 - susijęs iš Kaunas: Birželio 10 d. Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė buvo įsteigta Kaune.
+- susijęs iš Kaunas: Narbutas nurodo, kad Kauno šventasis miškas buvęs prie Neries ir Nemuno santakos.
 - susijęs iš Klaipėda: 1988 m. birželio 10 d. LPS iniciatyvinė grupė įsteigta Kaune, o liepos 6 d. – Klaipėdoje.
 ## Reikšmingi paminėjimai
 

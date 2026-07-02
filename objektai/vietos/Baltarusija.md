@@ -210,7 +210,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 - susijęs iš Lietuvos ir Baltarusijos sutartis dėl geros kaimynystės, bendradarbiavimo ir valstybės sienos: Lietuva 1991 m. spalį su Baltarusija pasirašė geros kaimynystės principų deklaraciją, o po ketverių metų – sutartį dėl geros kaimynystės, bendradarbiavimo ir valstybės sienos.
 - susijęs iš Ткачоў М. А. Абарочнычя забудаваннi заходнix зямель Беларуci XIII—XVIII ст. ст: M. A. Tkačiovo darbas apie Vakarų Baltarusijos žemių gynybinius statinius išleistas Minske 1978 m.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176310|Algirdas (Lietuvos valdovas)]]: Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
 - susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-183743|Jokūbas Kudenekovičius Čerkaskis]]: Kunigaikštis Jokūbas Kudenekovičius Čerkaskis faktiškai vadovavo Rusijos kariuomenei, nors oficialiu vadu buvo caras Aleksejus Michailovičius.
 - susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-40211|Jokūbas Kudenekovičius Čerkaskis]]: Kunigaikštis Jokūbas Kudenekovičius Čerkaskis iš tikrųjų vadovavo Rusijos kariuomenei kare su Lenkijos-Lietuvos valstybe.
 - susijęs iš [[objektai/autoriai/E. Griškūnaitė.md#claim-t-30592|E. Griškūnaitė]]: E. Griškūnaitė rašė apie 1905 m. sukilimą Lietuvoje.

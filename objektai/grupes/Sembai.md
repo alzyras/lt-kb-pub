@@ -681,7 +681,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
 - susijęs iš [[objektai/asmenys/Henrikas Ulenbušas.md#claim-t-60140|Henrikas Ulenbušas]]: Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais.
 - susijęs iš Girmava: Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.
-- susijęs iš Lietuva: Po lietuvių išpuolio Sembai lietuviai ir prūsai nuolat rengė karo žygius ir vieni kitiems smogė stiprių smūgių.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65939|Nadruviai]]: Nadruviai, skalviai ir sūduviai įsibrovė į Sembą, ją nusiaubė ir pastatė Vėluvos pilį gynybai nuo brolių ir sembų.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89224|Skalviai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
 - susijęs iš [[objektai/asmenys/Engelbertas I.md#claim-t-60110|Engelbertas I]]: Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį.
@@ -1300,7 +1299,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - [[objektai/asmenys/Henrikas Ulenbušas]] kariavo_pries Sembai
 - Sembai puole [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
 - [[objektai/vietos/Girmava]] priklause Sembai
-- [[objektai/grupes/Lietuviai]] puole Sembai
 - [[objektai/grupes/Nadruviai]] kariavo_pries Sembai
 - Sembai puole [[objektai/vietos/Bisenė]]
 - Sembai puole [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]

@@ -152,7 +152,9 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179109|Kryžiuočių ordinas]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179114|Kryžiuočių ordinas]]: Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-183144|Kryžiuočių ordinas]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-190569|Kryžiuočių ordinas]]: Narbutas Simoną Grunau vadina seniausiu žinomu šaltiniu ir pabrėžia, kad jis ne visuomet pagarbiai rašė apie kryžiuočius.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169586|Latviai]]: II tūkstantmečio pradžioje latviai pradėjo formuotis kartu su prūsų, jotvingių ir lietuvių tautomis.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188225|Latviai]]: Pasak Rusovo, latvių jaunimas garbino deivę Dahkla kaip laisvės ir vyriškumo globėją.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179174|Lenkai]]: Konstancos susirinkime Vokiečių ordinas kaltino Jogailą, tuo metu buvusį Lenkijos karaliumi, Kęstučio nužudymu.
 - susijęs iš [[objektai/grupes/Prūsijos valstybė.md#claim-t-19968|Prūsijos valstybė]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
 - susijęs iš [[objektai/paprociai/Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje.md#claim-t-54373|Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje]]: Vytautas pradėjo Mergelės Marijos garbinimo tradiciją Lietuvoje, siekdamas įtraukti Lietuvą į Europos katalikiškųjų šalių gretas.
@@ -279,14 +281,11 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
     - t-007
 
 ## Ryšiai
-- Vokiečių ordinas puole [[objektai/grupes/Lietuviai]]
 - Vokiečių ordinas uzkariavo [[objektai/grupes/Jotvingiai]]
 - Vokiečių ordinas reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Vokiečių ordinas valde_teritorija [[objektai/vietos/Pamaris]]
 - Vokiečių ordinas valde_teritorija [[objektai/vietos/Žemaitija]]
 - Vokiečių ordinas uzkariavo [[objektai/vietos/Prūsų žemė]]
-- Vokiečių ordinas keliavo_i [[objektai/vietos/Prūsija]]
-- Vokiečių ordinas uzkariavo [[objektai/grupes/Prūsai]]
-- Vokiečių ordinas keliavo_i [[objektai/vietos/Nemunas]]
 - Vokiečių ordinas prekiavo_su [[objektai/grupes/Lietuviai]]
+- Vokiečių ordinas puole [[objektai/vietos/Lietuva]]
 - Vokiečių ordinas kariavo_pries [[objektai/grupes/Totoriai]]

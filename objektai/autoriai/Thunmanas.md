@@ -39,7 +39,6 @@ i Kol istorikai neįstengė rasti patiki­ mos išvados apie lietuvių tautos ki
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Thunmanas" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Jornandesas.md#claim-t-88069|Jornandesas]]: Jornandesas Vyslos žiotyse gyvenusiai tautai suteikė vidivarijų vardą.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178772|Jotvingiai]]: Jotvingiai, pasistūmėję į Rusios gilumą, kalba ir papročiais buvo panašūs į slavus.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176123|Žemaičiai]]: Žemaičiai buvo viena iš šešių pagrindinių lietuvių tautos atšakų.
 - susijęs iš De geticae gentis origine ac rebus gestis: Veikale „De geticae gentis origine ac rebus gestis“ Jornandes minėjo prie Vyslos žiočių įsikūrusius vidivarijus.
 - susijęs iš Žemaitija: Žemaitija, siekianti Baltijos jūrą, apibūdinta kaip lietuvių genties centras, išsaugojęs gryniausius padermės bruožus.
 - susijęs iš Žemaitija: Žemaitija, siekusi Baltijos jūrą, apibūdinta kaip lietuvių genties centras, išsaugojęs gryniausius savo padermės bruožus.

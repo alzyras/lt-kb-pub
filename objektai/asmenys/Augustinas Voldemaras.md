@@ -8,6 +8,11 @@ datos:
   - '1928 m.'
 date_start: '1918'
 date_end: '1928'
+description: 'Augustinas Voldemaras – Lietuvos premjeras ir užsienio reikalų ministras, siekęs stiprios prezidento valdžios ir aktyvios Vilniaus politikos.'
+socialDescription: 'Augustinas Voldemaras siejamas su ankstyvos Lietuvos valstybės mobilizacija, autoritarinės krypties idėjomis ir įtempta užsienio politika dėl Vilniaus.'
+seo_atnaujinta: '2026-07-02T19:20:23.365538+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,7 +28,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą. Voldemarui teko skelbti mobilizaciją. Voldemaro vyriausybė neturėjo ginkluotųjų pajėgų.
+Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministras, pabrėžęs stiprias prezidento galias ir menkinęs partijų vaidmenį. 1918 m. lapkričio 23 d. jam teko skelbti mobilizaciją, nors jo vyriausybė neturėjo ginkluotųjų pajėgų. Užsienio politikoje jis laikėsi radikalesnės linijos Vilniaus klausimu, 1927 m. Ženevoje pareiškė, kad karo padėties tarp Lietuvos ir Lenkijos nėra, o Romoje pasirašė konkordatą su Vatikanu.
 
 ## Teiginiai
 

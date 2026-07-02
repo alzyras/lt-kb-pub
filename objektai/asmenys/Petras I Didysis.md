@@ -120,6 +120,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   ryšio_subjekto_parinkimas: Petras I Didysis: llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
   ryšio_paaiskinimas: Petras I tiesiogiai siejamas su Rusijos paskelbimu imperija kaip valdovas.
+- susijęs iš Europa: Narbutas vertino, kad apie 2000 m. pr. Kr. egiptiečiai pietiniuose Europos pakraščiuose rado žmones, kuriems buvo lemta iškilti.
 - susijęs iš Europa: Petras I Didysis nukreipė Rusijos politinį veidą į Europą ir įvedė ją tarp pirmaeilių Europos galybių.
 ## Reikšmingi paminėjimai
 

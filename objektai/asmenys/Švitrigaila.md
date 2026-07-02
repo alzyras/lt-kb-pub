@@ -12,6 +12,11 @@ datos:
   - '1452 m.'
 date_start: '1382'
 date_end: '1452'
+description: 'Švitrigaila – Jogailos brolis, siejamas su Vitebsku, Podolija, Maskva ir Ordinu, kėlęs pretenzijas į Lietuvą.'
+socialDescription: 'Švitrigaila: Jogailos brolis, Podolijos valdytojas ir Vytauto priešininkas, ieškojęs paramos Maskvoje, pas totorius ir Ordine.'
+seo_atnaujinta: '2026-07-02T19:20:23.278009+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,7 +32,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausias Jogailos brolis ir Julijonos sūnus, įsišeimininkavęs Vitebske, vėliau grįžęs pas Vytautą ir vėl įsivėlęs į sąmokslus su ordinu. Jis siejamas su Boleslovo krikšto vardu, Briansko bei Severijos valdymu ir įkalinimu Kremenetse. Papildomai akcentuojamas jo maištas Vitebske, bėgimai į Vengriją, Maskvą ir pas Ordiną, pretenzijos į Lietuvą po Vorsklos ir Podolijos perdavimas.
+Švitrigaila vaizduojamas kaip neramus Jogailos brolis, po Vytauto pralaimėjimo prie Vorsklos pareiškęs pretenzijas į Lietuvą. Jam buvo atiduota Podolija ir kiti Rusios plotai, tačiau jis vėliau bėgo į Maskvą, pas totorius ir pas Ordiną. Šaltiniuose jis siejamas su Vitebsko kovomis, Vilniaus apgulties sumanymais ir Ordino pastangomis silpninti Lietuvos ir Lenkijos vienybę.
 
 ## Teiginiai
 
@@ -787,7 +792,6 @@ periodo_grupes:
 - susijęs iš Pskovo prekybos sutartis su Švitrigaila: 1432 m. Pskovo vietininkai ir bojarinai sudarė sutartį su Švitrigaila, joje patvirtindami senovines sienas.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113785|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.
 - susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66812|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: 1435 m. rugsėjo 1 d. prie Ukmergės, prie Šventosios upės, įvyko mūšis, kuriame Žygimantas ir jo sūnus Mykolas sumušė Švitrigailos pajėgas.
-- susijęs iš Ukmergė: Ties Pabaisku prie Šventosios, netoli Ukmergės, Mykolo vadovaujama lietuvių ir lenkų kariuomenė užkirto kelią Švitrigailai.
 - susijęs iš Valakija: Valakijos vaivada kartu su kryžiuočiais ir Švitrigaila sudarė sąjungą prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Petrašu Montgirdaitis.md#claim-t-87561|Petrašu Montgirdaitis]]: Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.
 - susijęs iš [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas.md#claim-t-01875|Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]: Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą.
@@ -854,6 +858,7 @@ periodo_grupes:
 - susijęs iš [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas.md#claim-t-01875|Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]: Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą.
 - susijęs iš [[objektai/ivykiai/Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis.md#claim-t-185546|Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis]]: 1433 m. Boleslovas Švitrigaila padalijo kariuomenę į tris voras; viena įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo.
 - susijęs iš [[objektai/ivykiai/Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė.md#claim-t-185516|Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė]]: 1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.
+- susijęs iš [[objektai/ivykiai/Švitrigailos 1451 m. privilegija ir ankstesnių Vytauto bei Algirdo privilegijų patvirtinimas dėl Ostapo Kropotkovo herbo.md#claim-t-189638|Švitrigailos 1451 m. privilegija ir ankstesnių Vytauto bei Algirdo privilegijų patvirtinimas dėl Ostapo Kropotkovo herbo (privilegija, XIV–XV a.)]]: Narbutas mini Švitrigailos 1451 m. vasario 18 d. Lucke datuotą privilegiją, kuria patvirtinta Ostapo Kropotkovo kilmė ir herbas.
 - susijęs iš [[objektai/ivykiai/Švitrigailos Vitebsko žemės užėmimas.md#claim-t-185681|Švitrigailos Vitebsko žemės užėmimas]]: Švitrigaila be didelio vargo užėmė Vitebsko miestą, dvi pilis, Oršą ir visą kraštą tarp Dnepro ir Dauguvos.
 - susijęs iš [[objektai/ivykiai/Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.).md#claim-t-185794|Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)]]: Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė.
 - susijęs iš [[objektai/ivykiai/Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.).md#claim-t-185795|Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)]]: Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.
@@ -900,7 +905,6 @@ periodo_grupes:
 - susijęs iš Skirsnemunė: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį.
 - susijęs iš Stirė: Prie Stirės įvyko Švitrigailos pajėgoms nesėkmingas mūšis.
 - susijęs iš Tverė: Tverė teikė karinę pagalbą Švitrigailai, nes jos didysis kunigaikštis Borisas Aleksandravičius buvo jo giminaitis ir laikėsi sutarties su LDK.
-- susijęs iš Ukmergė: Ties Pabaisku prie Šventosios, netoli Ukmergės, Mykolo vadovaujama lietuvių ir lenkų kariuomenė užkirto kelią Švitrigailai.
 - susijęs iš Ukmergė: Kunigaikščio Mykolo pergalė netoli Ukmergės užbaigė Švitrigailos ir Livonijos magistro varžybas dėl Lietuvos.
 - susijęs iš Valakija: Valakijos vaivada kartu su kryžiuočiais ir Švitrigaila sudarė sąjungą prieš Lenkiją.
 - susijęs iš Vilnius: Vilnius tapo Žygimanto ir Švitrigailos grupuočių kovos taikiniu.
@@ -938,6 +942,7 @@ periodo_grupes:
 - susijęs iš [[objektai/asmenys/Kerskorfas.md#claim-t-183749|Kerskorfas]]: Livonijos magistras Kerskorfas žuvo Pabaisko, arba Šventosios, mūšyje.
 - susijęs iš [[objektai/asmenys/Kerskorfas.md#claim-t-40283|Kerskorfas]]: Livonijos magistras Kerskorfas žuvo Pabaisko, arba Šventosios, mūšyje.
 - susijęs iš [[objektai/asmenys/Konradas (Vroclavo vyskupas).md#claim-t-87758|Konradas (Vroclavo vyskupas)]]: 1432 m. Švitrigaila pasiuntė Vroclavo vyskupą Konradą į Kistriną pasiteirauti dėl galimos grėsmės iš Štolpensko kunigaikščio.
+- susijęs iš [[objektai/asmenys/Krunevičius.md#claim-t-190177|Krunevičius]]: Narbutas nurodė, kad Malachovskis pateikė žinių apie Gedimino suteiktą herbą Krunevičiui, bet šaltinis jam buvo neaiškus.
 - susijęs iš [[objektai/asmenys/Lengvenis Algirdaitis.md#claim-t-47960|Lengvenis Algirdaitis]]: Po Raciąžo taikos Lengvenis Algirdaitis buvo tarp pusbrolių, kuriuos Vytautas pasitelkė žygiui prieš Smolenską.
 - susijęs iš [[objektai/asmenys/Lengvenis.md#claim-t-47954|Lengvenis]]: Jogaila paskyrė savo brolį Lengvenį Didžiojo Naugardo kunigaikščiu, ir Lengvenis ten buvo pakviestas.
 - susijęs iš [[objektai/asmenys/Lengvenis.md#claim-t-47955|Lengvenis]]: Jogaila paskyrė savo brolį Lengvenį į Didžiojo Naugardo kunigaikščius maitinimuisi, ir Lengvenis ten buvo pakviestas.
@@ -948,9 +953,11 @@ periodo_grupes:
 - susijęs iš [[objektai/asmenys/Mikalojus Sachse.md#claim-t-87788|Mikalojus Sachse]]: Švitrigaila laiške prašė garantijų Mikalojui Sachsei, vykstančiam su reikalais į Sileziją.
 - susijęs iš [[objektai/asmenys/Mykolas.md#claim-t-64008|Mykolas]]: Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.
 - susijęs iš [[objektai/asmenys/Mykolas.md#claim-t-64009|Mykolas]]: Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.
+- susijęs iš [[objektai/asmenys/Neseckis.md#claim-t-190189|Neseckis]]: Narbutas nurodo, kad Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui.
 - susijęs iš [[objektai/asmenys/Nesselrodė.md#claim-t-183757|Nesselrodė]]: Pabaisko (Šventosios) mūšyje žuvo Livonijos maršalas Nesselrodė.
 - susijęs iš [[objektai/asmenys/Nesselrodė.md#claim-t-40371|Nesselrodė]]: Maršalas Nesselrodė žuvo Pabaisko mūšyje, kuriame taip pat krito dauguma Livonijos komtūrų ir riterijos.
 - susijęs iš [[objektai/asmenys/Olegas (Riazanės kunigaikštis).md#claim-t-87808|Olegas (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
+- susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-190235|Ostapas Kropotkovas]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
 - susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87574|Simonas (Alšėnų kunigaikštis)]]: 1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
 - susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-184825|Simonas Lengvenis (valdovas, XIV a.)]]: Paleidus kariuomenę Simonas Lengvenis grįžo į Mstislavlį.
 - susijęs iš [[objektai/asmenys/Sofija Vytautaitė.md#claim-t-79159|Sofija Vytautaitė]]: Sofijos Vytautaitės lankymasis su vaikais pas Vytautą Smolenske garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.
@@ -1081,6 +1088,7 @@ periodo_grupes:
 - susijęs iš Pabaiskas: Žygimantas mūšio lauką pavadino Pabaisku, per jį tekantį upelį – Viktorija, ir toje vietoje pastatė parapijos bažnyčią.
 - susijęs iš Pašilė: Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link.
 - susijęs iš Pilies kalnas (sujungti pirminiai pavadinimai Pilies kalnas; Vilniaus pilies kalnas): Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug nuostolių.
+- susijęs iš Podbužo dvaras: Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas Ostapui Kropotkovui už nuopelnus kare su totoriais.
 - susijęs iš Podolė: Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais.
 - susijęs iš Podolė: Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kryžiuočių ordinu.
 - susijęs iš Podolė: Podolės bajorai, vadovaujami Gregoro Kierdėjaus, suėmė Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos Lenkijos naudai.
@@ -1095,6 +1103,7 @@ periodo_grupes:
 - susijęs iš Polockas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.
 - susijęs iš Polockas: Lietuvos metraštis Kęstutį vadina didžiuoju kunigaikščiu ir rašo, kad užėmęs Vilnių jis pasiuntė du žmones į Polocką.
 - susijęs iš Polockas: Lietuvos metraštis Aleksandrą vadina didžiuoju kunigaikščiu ir rašo, kad jis su Elena bei didikais lankėsi Polocke.
+- susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
 - susijęs iš Prūsija: Livonija vis glaudžiau šliejosi prie Prūsijos.
 - susijęs iš Pskovas: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.
 - susijęs iš Pskovas: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.
@@ -1164,7 +1173,6 @@ periodo_grupes:
 - susijęs iš [[objektai/zodynas/šinkorystė propinacija.md#claim-t-86561|šinkorystė propinacija]]: Žygimantas garantavo Vilniui pajamas iš šinkorystės, apėmusios vyno, midaus ir alaus smukles.
 - susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87574|Simonas (Alšėnų kunigaikštis)]]: 1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
 - susijęs iš Moldova: Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais kovojo Jogaila.
-- susijęs iš Ukmergė: Kunigaikščio Mykolo pergalė prieš Švitrigailą ir Livonijos magistrą netoli Ukmergės užbaigė jų varžybas dėl Lietuvos.
 - susijęs iš Vilnius: Vilnius tapo Žygimanto ir Švitrigailos grupuočių kovos taikiniu.
 - susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87573|Simonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.
 - susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81606|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.
@@ -2165,14 +2173,12 @@ periodo_grupes:
 - Švitrigaila valde_teritorija [[objektai/vietos/Podolija]]
 - Švitrigaila valde_teritorija [[objektai/vietos/Černigovas]]
 - [[objektai/grupes/Kryžiuočių ordinas]] buvo_sajungininkas_su Švitrigaila
-- [[objektai/grupes/Lietuviai]] kariavo_pries Švitrigaila
 - Švitrigaila buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
 - Švitrigaila buvo_sunus [[objektai/asmenys/Julijona]]
 - Švitrigaila dalyvavo_musyje [[objektai/ivykiai/Karas tarp Švitrigailos ir Žygimanto Kęstutaičio]]
 - Švitrigaila valde [[objektai/vietos/Kijevas]]
 - [[objektai/asmenys/Žygimantas]] kariavo_pries Švitrigaila
 - [[objektai/asmenys/Žygimantas]] puole Švitrigaila
-- [[objektai/grupes/Lenkai]] kariavo_pries Švitrigaila
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Švitrigaila
 - Švitrigaila buvo_sajungininkas_su [[objektai/grupes/Livonijos ordinas]]
 - Švitrigaila puole [[objektai/vietos/Drohičinas]]
@@ -2180,6 +2186,8 @@ periodo_grupes:
 - Švitrigaila surenge_zygi_i [[objektai/vietos/Ukmergė]]
 - Švitrigaila valde_teritorija [[objektai/vietos/Naugardas Sieverskas]]
 - Švitrigaila keliavo_i [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Lenkai]] kariavo_pries Švitrigaila
+- [[objektai/grupes/Lietuviai]] kariavo_pries Švitrigaila
 - Švitrigaila gyveno [[objektai/vietos/Ašmena]]
 - Švitrigaila valde [[objektai/vietos/Polockas]]
 - [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]] puole Švitrigaila
@@ -2211,7 +2219,5 @@ periodo_grupes:
 - [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė)]] reme Švitrigaila
 - Švitrigaila prekiavo_su [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/asmenys/Žygimantas]] buvo_sajungininkas_su Švitrigaila
-- Švitrigaila kariavo_pries [[objektai/grupes/Lenkai]]
-- Švitrigaila kariavo_pries [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Jurgis Lengvenaitis]] buvo_sajungininkas_su Švitrigaila
 - Švitrigaila surenge_zygi_i [[objektai/vietos/Vilnius]]

@@ -483,6 +483,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179269|Lietuviai]]: Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stiprinimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų).
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179294|Lietuviai]]: Lietuvių lyderių prisitaikymas prie Vokietijos interesų provokavo konfliktus su lenkais ir tarp pačių lietuvių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179315|Lietuviai]]: XVII–XVIII a. LDK dar gyvavo lietuvių nacija, suprasta kaip politinė tauta.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190572|Lietuviai]]: Narbutas teigė, kad lietuvių mitologijoje visus ežerus globojo dievas Atrimpas, vadintas Ežeriniu.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169696|Lietuvos Didžioji Kunigaikštija]]: Po antrojo Abiejų Tautų Respublikos padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
 - susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-23308|Lietuvos Persitvarkymo Sąjūdis]]: 1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.
 - susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-26806|Lietuvos Persitvarkymo Sąjūdis]]: Lietuvos Persitvarkymo Sąjūdžio suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų politikos, kultūros, ekonomikos bei demokratijos klausimais.
@@ -648,7 +649,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - susijęs iš Velikije Lūki: 1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką.
 - susijęs iš Velikije Lūki: Velikije Lūki citatos pastaboje įvardijami kaip vienas iš Lietuvos miestų, kuriuos 1406 m. puolė pskoviečiai.
 - susijęs iš Vidurinė Lietuva: 1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.
-- susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
 - susijęs iš Voronačas: 1406 m. Vytautas dvi dienas buvo apgulęs Pskovui priklausiusį Voronačą.
 - susijęs iš Voronačas: 1406 m. Voronačas minimas kaip Pskovui priklausęs miestas, kurį Vytautas buvo apgulęs dvi dienas.
 - susijęs iš Šilutė: 1923 m. sausio 19 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje sušaukė vadinamąjį Visuotinį seimą.

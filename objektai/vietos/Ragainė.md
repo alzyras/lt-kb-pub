@@ -475,6 +475,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - susijęs iš [[objektai/asmenys/Jonas, vadinamas Pope.md#claim-t-60351|Jonas, vadinamas Pope]]: 1315 m. per lietuvių iš Žemaitijos Ragainės pilies užpuolimą buvo nukautas brolis Jonas, vadinamas Pope.
 - susijęs iš [[objektai/asmenys/Otonas iš Bergo.md#claim-t-60401|Otonas iš Bergo]]: 1294 m. Otonas iš Bergo su Ditrichu iš Ezbeko ir Otonu iš Cedlico buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.
 - susijęs iš [[objektai/asmenys/Otonas iš Cedlico.md#claim-t-60402|Otonas iš Cedlico]]: 1294 m. Otonas iš Cedlico su Ditrichu iš Ezbeko ir Otonu iš Bergo buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179299|Lietuviai]]: 1315 m. apie Žolinę lietuviai iš Žemaitijos su visa kariuomene slaptai ir netikėtai užpuolė Ragainės pilį.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60106|Ditrichas iš Ezbeko]]: 1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60106|Ditrichas iš Ezbeko]]: 1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59838|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.
@@ -672,6 +673,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - susijęs iš Nemunas: Remiantis Dusburgo pasakojimu, Gedimino pilis galėjo stovėti prie Nemuno.
 - susijęs iš Nemunas: Pilis buvusi pastatyta aukštame Nemuno krante (žr.
 - susijęs iš Nemunas: Remdamasis Dusburgu, Baliński darė išvadą, kad Gedimino pilis galėjo stovėti prie Nemuno, Lietuvos ar Žemaitijos pasienyje.
+- susijęs iš Nemunas: Narbutas rašė, kad žinioje apie Vilniaus Perkūno šventyklą minimas garsus pranašas kažkur Nemuno žemupyje.
 - susijęs iš Pagraudė: 1317 m. vasarą apie birželio 24 d. maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.
 - susijęs iš Paštuvos valsčius: 1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurių viena įsiveržė į Paštuvos valsčių, o kita patraukė į Gaižuvos valsčių.
 - susijęs iš Paštuvos valsčius: 1294 m. žiemą Ragainės broliai su sembais įsiveržė į Paštuvos valsčių, o kita kariuomenės dalis patraukė į Gaižuvos valsčių.
@@ -719,6 +721,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - susijęs iš [[objektai/paprociai/Burtų metimas prieš karo išpuolį.md#claim-t-62110|Burtų metimas prieš karo išpuolį]]: Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės, todėl tuojau pasuko atgal.
 - susijęs iš [[objektai/paprociai/Burtų traukimas prieš svarbesnius darbus.md#claim-t-62672|Burtų traukimas prieš svarbesnius darbus]]: Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės.
 - susijęs iš Skalvių pilis (pilis, XIII a.): Lietuviai pasitraukdami ištrypė ir sunaikino visus pasėlius Skalvių ir Ragainės pilių laukuose.
+- susijęs iš Vėluva: 1347 m. spalio pradžioje lietuvių karalius priėjo Vėluvą, o lietuviai tyliai įėję sudegino miestą.
 - susijęs iš [[objektai/asmenys/Draika.md#claim-t-60109|Draika]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
 - susijęs iš [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.).md#claim-t-66825|Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
 - susijęs iš [[objektai/asmenys/Draika.md#claim-t-60108|Draika]]: Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrikštytas su visa šeimyna.

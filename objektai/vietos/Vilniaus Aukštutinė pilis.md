@@ -103,7 +103,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   ryšio_subjekto_parinkimas: Vilniaus Aukštutinė pilis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Manvydas: mention_match, person, gap=39
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus Aukštutinė pilis" parinktas kaip owner_note_path. Targetas "Manvydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176329|Gediminas]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po sapno pastatydino Aukštutinę mūro pilį ir medinę pilį, pavadintą Vilniumi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176329|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po sapno pastatydino Aukštutinę mūro pilį ir medinę pilį, pavadintą Vilniumi.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172933|M. Strijkovskis Stryjkowski]]: Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.
 - susijęs iš [[objektai/autoriai/Stryjkowski Strijkovskis.md#claim-t-88007|Stryjkowski Strijkovskis]]: Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.
 - susijęs iš [[objektai/daiktai/Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis.md#claim-t-87098|Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis]]: Pasak sapno aiškinimo, Gediminas ant Tauro kalno turėjo pastatyti Aukštutinę mūro pilį, o slėnyje - medinę pilį, pavadintą Vilniumi.
@@ -114,8 +114,8 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 - susijęs iš Trakai: Pasakojime Gediminas po Trakų pilies įkūrimo medžiojo apylinkėse ir pasiekė Šventaragio slėnį už keturių mylių nuo Trakų.
 - susijęs iš Trakai: Pasak Strijkovskio ir Kojelavičiaus, po Trakų pilies įkūrimo Gediminas medžiojo aplinkinėse giriose.
 - susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176370|Gediminas]]: Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui, siedami jį su medžiokle Šventaragio slėnyje ir geležinio vilko sapnu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176400|Gediminas]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas medžioklės metu Šventaragio slėnyje sapnavo geležinį vilką.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176370|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui, siedami jį su medžiokle Šventaragio slėnyje ir geležinio vilko sapnu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176400|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas medžioklės metu Šventaragio slėnyje sapnavo geležinį vilką.
 - susijęs iš [[objektai/daiktai/Geležinis vilkas kaip simbolinis regėjimo objektas.md#claim-t-87078|Geležinis vilkas kaip simbolinis regėjimo objektas]]: Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas priminė šimto vilkų staugimą.
 - susijęs iš [[objektai/daiktai/Kilpinė ir strėlė.md#claim-t-87111|Kilpinė ir strėlė]]: Pasak Strijkovskio, Gediminas medžiodamas strėle iš kilpinės pašovė taurą ant kalno, vėliau vadinto Tauro kalnu.
 - susijęs iš [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose.md#claim-t-55157|Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]: Pasak Strijkovskio, Vytautas dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose gerdavo iš auksu aptaisytų tauro ragų.
@@ -283,4 +283,4 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] pastate Vilniaus Aukštutinė pilis
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] pastate Vilniaus Aukštutinė pilis

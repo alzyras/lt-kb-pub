@@ -82,9 +82,9 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 - susijęs iš [[objektai/grupes/Bizantijos imperija.md#claim-t-01290|Bizantijos imperija]]: Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175538|Kalavijuočių ordinas]]: Kalavijuočiai atsikraustė į Padauguvį, o kryžiuočiai į Pavyslį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178934|Kryžiuočių ordinas]]: Kryžiuočių ordino dvasininkai taikos metu laikė pamaldas, teikė sakramentus ir skatino brolius pasauliečius laikytis regulos.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179044|Kryžiuočių ordinas]]: XIII a. į prūsų žemes atsikraustęs vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179086|Kryžiuočių ordinas]]: XIII a. į Prūsiją atsikėlęs Vokiečių ordinas pirmiausia pavergė prūsus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-182899|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188218|Kryžiuočių ordinas]]: Narbutas pabrėžia, kad Dusburgietis 1326 m. įteikė kroniką didžiajam magistrui praėjus maždaug šimtmečiui nuo kryžiuočių atsikraustymo.
 - susijęs iš [[objektai/grupes/Romėnai.md#claim-t-66064|Romėnai]]: Romėnų rašytojas Tacitas pirmojo amžiaus pabaigoje veikale „Germania“ pirmasis paminėjo mūsų krašto gyventojus.
 - susijęs iš [[objektai/grupes/Vidivarii.md#claim-t-31369|Vidivarii]]: Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų.
 - susijęs iš [[objektai/grupes/Voluiniečiai.md#claim-t-52464|Voluiniečiai]]: Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais.

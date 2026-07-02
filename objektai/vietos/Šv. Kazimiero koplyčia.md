@@ -1,0 +1,62 @@
+---
+tipas: vieta
+pavadinimas: 'Šv. Kazimiero koplyčia'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - vieta
+---
+# Šv. Kazimiero koplyčia
+
+## Santrauka
+
+Narbutas Šv. Kazimiero koplyčią mini aiškindamas Katedros pusrūsio aprūkimą: jo pasakojime dūmai siejami ne su aukojimo laužais, o su koplyčios patarnautojų kūrenta ugnimi.
+
+## Pavadinimai šaltiniuose
+
+- šv. Kazimiero koplyčios
+
+## Kas tai
+
+Koplyčia minima kaip Vilniaus katedros aplinkos vieta.
+
+## Teiginiai
+<a id="claim-t-189087"></a>
+- t-001
+  global_id: t-189087
+  teiginys: 'Narbutas, remdamasis Strijkovskiu, Šv. Kazimiero koplyčią siejo su Vilniaus Perkūno šventykloje laikytų šliužų koplyčia.'
+  pagrindžia:
+    - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 342230-342585; hash=8a9e286669888bf3c4d9b8a86fb406ce5506e89841b8e7430cf01d19fc247b72; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šv. Kazimiero koplyčia: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Kazimiero koplyčia" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas, remdamasis Strijkovskiu, Šv. Kazimiero koplyčią siejo su Vilniaus Perkūno šventykloje laikytų šliužų koplyčia.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
+    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
+    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
+    riumi. Ji yra panaši į pusrūsį, be langų, viduje nuo dūmų aprū­
+    kusi, bet ne dėl aukojimo laužų, o dėl to, kad šv. Kazimiero
+    koplyčios patarnautojai užsikurdavo ugnį.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

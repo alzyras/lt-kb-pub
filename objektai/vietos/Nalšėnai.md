@@ -123,6 +123,7 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-82249|Daumantas (kunigaikštis, XV a.)]]: Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
 - susijęs iš Deltuva: Ipatijaus metraštis Deltuvą prie Ukmergės mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų.
 - susijęs iš Deltuva: Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų .
+- susijęs iš Deltuva: Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos.
 - susijęs iš [[objektai/zodynas/družina.md#claim-t-32773|družina]]: Nalšėnų Daumantas, bijodamas patekti Vaišvilkui į rankas, pabėgo į Pskovą su šeima, bajorais ir palydovais, vadinamais družina.
 ## Reikšmingi paminėjimai
 

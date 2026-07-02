@@ -39,6 +39,7 @@ Vėliau Lietuvos metropolitu pradė­ jo skaitytis Gniezno arkivyskupas, bet iš
 - susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23214|Povilas Ksaveras Bžostovskis]]: Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką.
 - susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23215|Povilas Ksaveras Bžostovskis]]: Povilo Ksavero Bžostovskio įkurtos Paulavos respublikos įstatus 1791 m. patvirtino Ketverių metų seimas.
 - susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23216|Povilas Ksaveras Bžostovskis]]: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma vienu Apšvietos epochos pradžios ženklų.
+- susijęs iš [[objektai/asmenys/Abraomas Vaina.md#claim-t-190127|Abraomas Vaina]]: Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abraomo Vainos sprendimu uždrausti ir likviduoti tą paprotį.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46005|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos datuojamos 1767 m. ir siejamos su Apšvietos epochos pradžia.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46007|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo 1767 m. reformos kartais laikomos vienu iš Apšvietos epochos pradžios įvykių.
 - susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-66450|Antano Tyzenhauzo reformos]]: Antano Tyzenhauzo reformos 1767 m. kartais laikomos vienu Apšvietos epochos pradžios ženklų.
@@ -49,6 +50,8 @@ Vėliau Lietuvos metropolitu pradė­ jo skaitytis Gniezno arkivyskupas, bet iš
 - susijęs iš Paulavos respublikos įstatai (1791 m.): 1791 m. Ketverių metų seimas patvirtino P. K. Bžostovskio įkurtos Paulavos respublikos įstatus.
 - susijęs iš Paulava: Povilas Ksaveras Bžostovskis įkūrė Paulavos respubliką kaip Apšvietos žingsnį Lietuvos ūkyje.
 - susijęs iš Paulava: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma Apšvietos epochos pradžios ženklu.
+- susijęs iš Vilniaus vyskupija Vilnius kaip vyskupų centras: Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stipriaisiais gėrimais uždraudė ir likvidavo paprotį.
+- susijęs iš Vilnius: Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina uždraudė paprotį, siejamą su piktnaudžiavimu stipriaisiais gėrimais.
 ## Reikšmingi paminėjimai
 
 - c-001

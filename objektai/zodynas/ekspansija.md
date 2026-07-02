@@ -45,6 +45,7 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
 - susijęs iš Kijevas: Lietuvos ekspansija Kijevo Rusios erdvę perskėlė į Kijevo ir Maskvos dalis, kurių istorija kelis amžius klostėsi atskirai.
 - susijęs iš Maskva: Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į Kijevo ir Maskvos dalis, kurių istorija vėliau klostėsi savarankiškai.
 - susijęs iš Prūsija: Dusburgiečio kronikoje Ordino karas Prūsijoje vaizduojamas kaip vykęs „pagal dievo valią“.
+- susijęs iš Prūsija: Narbutas pateikia Hartknocho duomenis apie lietuvių kalbą, vartotą Prūsijoje, Nemuno žemupyje.
 ## Reikšmingi paminėjimai
 
 - c-001

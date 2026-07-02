@@ -4,6 +4,7 @@ pavadinimas: 'Londonas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1390 m.'
   - '1863 m.'
@@ -14,11 +15,11 @@ date_start: '1390'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Londonas
 
@@ -27,7 +28,6 @@ amziai:
 Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos konstituciją, kuri deklaravo Vilnių Lietuvos sostine. Įvairiais duomenimis, nuo 1990 m. iš Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV, Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją. Londone 1935) sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
 
 ## Teiginiai
-
 <a id="claim-t-79713"></a>
 - t-001
   global_id: t-79713
@@ -77,10 +77,30 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-188769"></a>
+- t-004
+  global_id: t-188769
+  teiginys: 'Narbutas Londono alų laikė ištobulinta senojo lietuviško alaus forma.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 536964-537155; hash=7ed75908df0278b51bb31a7e186c8f781f27f07f86c20333f054777fedb5d785; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Alus: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Londonas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Alus: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Londonas" parinktas kaip owner_note_path. Targetas "Alus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Antanas Kazimeras Žemaitis.md#claim-t-18813|Antanas Kazimeras Žemaitis]]: Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, kuria grojo Jimi Hendrixas, Ericas Claptonas, Bobas Dylanas ir kiti muzikantai.
 - susijęs iš [[objektai/autoriai/Bełch, St. J.md#claim-t-29306|Bełch, St. J]]: St. J. Bełchas 1956 m. paskelbė darbą „Falkenberg“ ir 1965 m. Londone išleistą veikalą apie Pauliaus Vladimiri doktriną.
 - susijęs iš [[objektai/autoriai/Schmalstieg W. R.md#claim-t-60785|Schmalstieg W. R]]: W. R. Schmalstiegas 1974 m. Londone išleido knygą apie trijų katekizmų senosios prūsų kalbos fonologiją ir morfologiją.
 - susijęs iš Litwini, Biatorusini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego: W. Wielhorskio „Litwini, Biatorusini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego“ išėjo Londone 1951 m.
+- susijęs iš Londono „Sylloge“: Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno perrašą iš Volfgango Lazijaus istorijos.
 - susijęs iš Schmalstieg W. R. An Old Prussian Grammar The Phonology and Morphology of the Three Catechisms: W. R. Schmalstiego „An Old Prussian Grammar: The Phonology and Morphology of the Three Catechisms“ buvo išleista Londone 1974 m.
 - susijęs iš [[objektai/asmenys/Antanas Kazimeras Žemaitis.md#claim-t-18813|Antanas Kazimeras Žemaitis]]: Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, kuria grojo Jimi Hendrixas, Ericas Claptonas, Bobas Dylanas ir kiti muzikantai.
 - susijęs iš [[objektai/asmenys/Anthony Kiedis.md#claim-t-78044|Anthony Kiedis]]: Anthony Kiedis iš grupės „Red Hot Chili Peppers“ kildinamas iš Lietuvos emigrantų.
@@ -95,13 +115,15 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
 - susijęs iš [[objektai/asmenys/Leonard Cohen.md#claim-t-19105|Leonard Cohen]]: Leonardo Coheno motina buvo kilusi iš Lietuvos emigrantų.
 - susijęs iš [[objektai/asmenys/Paul McCartney.md#claim-t-19186|Paul McCartney]]: Paul McCartney grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.
 - susijęs iš [[objektai/asmenys/Ronnie Wood.md#claim-t-19215|Ronnie Wood]]: Ronnie Wood grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio sukurta gitara „Zemaitis“.
+- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-190629|Kristupas Hartknochas]]: Narbutas pažymi, kad Hartknochas, regis, abejojo, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo.
 - susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45488|Gitara „Zemaitis“]]: Tony’o Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.
 - susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45489|Gitara „Zemaitis“]]: Iš Lietuvos emigrantų kilęs Tony Zemaicis sukūrė gitarą „Zemaitis“.
 - susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45490|Gitara „Zemaitis“]]: Tony Zemaicis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
 - susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45491|Gitara „Zemaitis“]]: Gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.
+- susijęs iš Hartknocho „Alt- und Neues Preussen“: Narbutas rašo, kad Hartknochas abejojo, ar prūsai mokėjo gaminti alų iki kryžiuočių atsikraustymo.
+- susijęs iš Volfgango Lazijaus istorija: Narbutas rašo, kad Volfgangas Lazijus į savo istoriją įdėjo iš „Meklenburgo istorijos“ paimtą Dievo maldos užrašą.
 - susijęs iš [[objektai/zodynas/Bendrinė sąvoka.md#claim-t-21984|Bendrinė sąvoka]]: Tony Žemaitis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -155,6 +177,21 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-004
+  santrauka: 'Narbutas Londono alų laikė ištobulinta senojo lietuviško alaus forma.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­
+    vėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:
+    be jokių prieskonių. Londono A l yra tiesiog ištobulintas šitas
+    alus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 - [[objektai/asmenys/Antanas Kazimeras Žemaitis]] gime Londonas

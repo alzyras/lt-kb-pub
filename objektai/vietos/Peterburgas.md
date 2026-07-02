@@ -3,10 +3,12 @@ tipas: vieta
 pavadinimas: 'Peterburgas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1792 m.'
   - '1795 m.'
   - '1797 m.'
+  - '1807 m.'
   - '1815 m.'
   - '1832 m.'
   - '1840 m.'
@@ -17,14 +19,14 @@ date_start: '1792'
 date_end: '1917'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVIII'
+  - 'XX'
 tags:
   - miestas
   - reforma
   - sukilimas
   - valstybė
-amziai:
-  - 'XVIII'
-  - 'XX'
 ---
 # Peterburgas
 
@@ -33,7 +35,6 @@ amziai:
 Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius reformų priešininkus. Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo. 1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peterburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos valstybingumo likučius ir nubrėžė tikslias sienas.
 
 ## Teiginiai
-
 <a id="claim-t-77132"></a>
 - t-001
   global_id: t-77132
@@ -146,7 +147,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   global_id: t-77138
   teiginys: '1906 m. Peterburge rimtai nesvarstyta rezoliucija dėl politinės autonomijos suteikimo Lietuvai.'
   sudarymo_pagrindimas: 'Pašalintas publicistinis įterpinys ir patikslintas sakinys.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Austerlicas; mentioned_place: Rusija; mentioned_place: Tilžė'
   temporaliniai_duomenys: 'įvykio data: 1906 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas publicistinis įterpinys ir patikslintas sakinys.'
@@ -201,6 +202,25 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kaunas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+<a id="claim-t-188801"></a>
+- t-011
+  global_id: t-188801
+  teiginys: 'Cituojamas jaunuolis kurį laiką dėstytojavo Peterburgo kadetų korpuse.'
+  pagrindžia:
+    - c-011
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 5872-6076; hash=cf4e1c33809f328fe7d8ab43db540c5093be4be603a328843aad8f72bd096caf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170089|Stanislovas Augustas Poniatovskis (valdovas)]]: Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos.
 - susijęs iš [[objektai/autoriai/A. E. Presniakov.md#claim-t-30504|A. E. Presniakov]]: A. E. Presniakov 1908-1910 m. Peterburgo universiteto paskaitose lietė Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos.
 - susijęs iš [[objektai/grupes/Targovicos konfederacija.md#claim-t-182712|Targovicos konfederacija]]: Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.
@@ -220,7 +240,9 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - susijęs iš Sankt Peterburgas: 1772 m. Sankt Peterburge buvo pasirašytos padalijimo sutartys, kurias 1773-1775 m. patvirtino delegacinis seimas Varšuvoje.
 - susijęs iš Targovica: Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.
 - susijęs iš [[objektai/zodynas/delegacinis seimas.md#claim-t-42440|delegacinis seimas (seimas)]]: 1773–1775 m. delegacinis seimas Varšuvoje patvirtino 1772 m. Sankt Peterburge pasirašytas padalinimo sutartis.
+- susijęs iš [[objektai/asmenys/Antanas Marcinovskis.md#claim-t-190020|Antanas Marcinovskis]]: Narbutas nurodo, kad „Kurjer Litewski“ redaktorius ir jo veikalų leidėjas Marcinovskis atsiuntė jam tikslią piešinio kopiją.
 - susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-187937|Antanas Marcinovskis]]: Narbutas Marcinovskį įvardijo kaip „Kurjer Litewski“ redaktorių ir savo veikalų leidėją.
+- susijęs iš [[objektai/daiktai/Baltvyžių girios auksinė moneta su riteriu ir lokiu.md#claim-t-189656|Baltvyžių girios auksinė moneta su riteriu ir lokiu]]: Baltvyžių girios auksinę monetą Narbutas priskyrė vietos tautai ir vertino kaip meistriškai nukaltą Romos cezarių laikų stiliumi.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80769|Abiejų Tautų Respublika]]: 1797 m. Peterburgo konvencija patvirtino trečiąjį Abiejų Tautų Respublikos padalijimą ir panaikino jos valstybingumo likučius.
 - susijęs iš [[objektai/grupes/JAV lietuviai.md#claim-t-74138|JAV lietuviai]]: JAV lietuvius 1917 m. suaktyvino JAV įstojimas į karą prieš Vokietiją ir Woodrow Wilsono paskelbti „14 punktų“.
 - susijęs iš [[objektai/grupes/Rusijos kariuomenė.md#claim-t-66078|Rusijos kariuomenė]]: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, ir taip prasidėjo 1792 m. LLV karas su Rusija.
@@ -230,6 +252,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - susijęs iš [[objektai/ivykiai/Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos.md#claim-t-75126|Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos]]: Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.
 - susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.).md#claim-t-187803|T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.)]]: 1807 m. tarnaudamas Rusijos kariuomenėje T. Narbutas dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
 - susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.).md#claim-t-187804|T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.)]]: T. Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse.
+- susijęs iš [[objektai/ivykiai/Tilžės ir Austerlico kautynės.md#claim-t-189632|Tilžės ir Austerlico kautynės]]: Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse ir buvo sužeistas.
 - susijęs iš [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas.md#claim-t-20522|Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]: 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvenciją.
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45452|Vilniaus universiteto įkūrimas (1579 m.)]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
 - susijęs iš [[objektai/posakiai/„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“.md#claim-t-77854|„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“]]: Vilniaus akademiją steigęs jėzuitas rašė, kad iš Vilniaus atsiveria kelias į Maskoviją, o per totorius galima pasiekti Kiniją.
@@ -250,7 +273,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - susijęs iš Čikaga: 1917 m. JAV lietuvių imigrantus, gyvenusius daugiausia Čikagoje, Niujorke ir Pensilvanijoje, suaktyvino JAV įstojimas į karą.
 - susijęs iš Niujorkas: 1917 m. JAV įstojimas į karą suaktyvino daugiau kaip 300 000 lietuvių imigrantų, gyvenusių daugiausia Čikagoje, Niujorke ir Pensilvanijoje.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -435,6 +457,21 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-011
+  santrauka: 'Cituojamas jaunuolis kurį laiką dėstytojavo Peterburgo kadetų korpuse.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Jaunuolis nesibaidė vyriau­
+    sybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų
+    korpuse. Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
+    vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] gyveno Peterburgas

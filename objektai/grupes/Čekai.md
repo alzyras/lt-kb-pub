@@ -162,6 +162,7 @@ amziai:
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-183855|Žygimantas Senasis]]: Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis.
 - susijęs iš [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje.md#claim-t-87080|Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]: Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12318|Lietuvos pinigai]]: Vytauto laikais Jogailos ir Vytauto rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-188247|Lenkai]]: Narbutas perteikė autoriaus pranašystę, kad Lenkijos ir Lietuvos tautos nenukryps kaip čekai dėl valdovo tikėjimo ir valdinių prisirišimo prie sosto.
 - susijęs iš [[objektai/grupes/Čekų ir Silezijos savanoriai.md#claim-t-86838|Čekų ir Silezijos savanoriai]]: Čekų ir Silezijos savanorių vadai pateko į nelaisvę po nesėkmės brastoje per Šventosios upę ties Ukmerge.
 - susijęs iš [[objektai/grupes/Čekų karalystė.md#claim-t-187785|Čekų karalystė]]: Lietuvos metraštis Čekų karalystę vaizduoja teikusią didžią garbę šlovingajam valdovui.
 - susijęs iš [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją.md#claim-t-34539|Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]: Jogaila atsisakė čekų husitų siūlyto karališko vainiko, o Vytautas vėliau sutiko rūpintis jų reikalais.
@@ -267,6 +268,7 @@ amziai:
 - susijęs iš Vilniaus pilys: Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.
 - susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
 - susijęs iš Žemaitija: Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
+- susijęs iš [[objektai/zodynas/Barstukai piktukai pursčiai pirštukai.md#claim-t-189115|Barstukai piktukai pursčiai pirštukai]]: Narbutas nurodė nuomonę, kad pirštukai (Pirsztuki) taip vadinti nuo žodžio „pirštas“, nes tos mitinės būtybės laikytos mažomis kaip pirštai.
 - susijęs iš [[objektai/zodynas/atskala.md#claim-t-185347|atskala]]: Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdovą, daugiau neremti husitų atskalos.
 - susijęs iš [[objektai/zodynas/ekskomunika.md#claim-t-36780|ekskomunika]]: Vytautas prašė popiežiaus sustabdyti kryžiaus karus ir nuimti ekskomuniką, nes griežtos priemonės galėjo nepasiekti tikslo.
 - susijęs iš [[objektai/zodynas/grašis.md#claim-t-184241|grašis]]: Nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarė vieną rublį.

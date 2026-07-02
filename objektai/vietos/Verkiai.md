@@ -139,6 +139,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 - susijęs iš [[objektai/asmenys/Vaidila.md#claim-t-87462|Vaidila]]: Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md#claim-t-86717|Lenkų įgula Vilniaus Aukštutinėje pilyje]]: Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose bei aptvaruose.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179317|Lietuviai]]: Po mūšio tarp Verkių ir Šeškinės dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose ir aptvaruose.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190588|Lietuviai]]: Narbutas rašė, kad po prūsų stabmeldystės smūgio religinė sostinė buvo perkelta į Lietuvą, o vyriausiųjų žynių tvarka truko iki 1387 m.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176084|Vilniaus kapitula]]: Tarp Verkių ir Panerių, priklausiusių Vilniaus bažnyčios kapitulai, buvo uždrausta naudoti plaustus per Vilijos upę.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176095|Vilniaus kapitula]]: Tarp Verkių ir Panerių, priklausiusių Vilniaus bažnyčios kapitulai, buvo uždrausti perkėlimai plaustais per Viliją.
 - susijęs iš Bokštai: Bokštai buvo tarp valdų, kuriomis iškilmingu dovanojimo aktu buvo aprūpinta Vilniaus katedra.

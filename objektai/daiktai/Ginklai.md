@@ -61,6 +61,7 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Kalavijai.md#claim-t-39256|Kalavijai]]: Kalavijai kartu su ietimis buvo pagrindiniai kariuomenės ginklai.
 - susijęs iš [[objektai/daiktai/Kalvė.md#claim-t-08291|Kalvė]]: Kalvėje kalnėnai ir žemaičiai patys sau kalė padargus ir ginklus.
 - susijęs iš [[objektai/daiktai/Kardas.md#claim-t-92972|Kardas]]: Kautynėse po iečių buvo naudojami kirviai, kardai ir kiti ginklai.
+- susijęs iš [[objektai/daiktai/Karinė apranga, ginklai ir grandinės padėkos aukoje.md#claim-t-189684|Karinė apranga, ginklai ir grandinės padėkos aukoje]]: Narbutas padėkos auką aprašė kaip apeigą, per kurią ant laužo sudegindavo žymų belaisvį su žirgu, karine apranga ir ginklais.
 - susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-10150|Karinė ginkluotė]]: XIII a. Vakarų Europos pėstininkų karinė ginkluotė apėmė dvirankius artimosios kovos ginklus, lankus ir arbaletus.
 - susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-78663|Karinė ginkluotė]]: Didesnė Lietuvos karinės ginkluotės dalis galėjo būti saugoma valstybės, išduodama kariams prieš operacijas ir po jų grąžinama.
 - susijęs iš [[objektai/daiktai/Klaipėdos nacių organizacijų ginklai ir teismo įrodymai.md#claim-t-19543|Klaipėdos nacių organizacijų ginklai ir teismo įrodymai]]: Teismo salės pasienyje buvo išrikiuota 300 dėžių su įrodymais, tarp jų svastikomis, vėliavomis, uniformomis ir ginklais.
@@ -97,6 +98,7 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Ietininkų turnyras dėl žirgo, ginklų ir mergelės garbės.md#claim-t-62676|Ietininkų turnyras dėl žirgo, ginklų ir mergelės garbės]]: Ietininkų turnyre apsiginklavęs raitelis kvietė kautis dėl žirgo, ginklų ir savo mergelės garbės.
 - susijęs iš [[objektai/paprociai/Ordino karo religinio įprasminimo praktika.md#claim-t-67173|Ordino karo religinio įprasminimo praktika]]: Petras iš Dusburgo Ordino karą Prūsijoje ir Lietuvoje aiškino kaip Dievo kovą ir riterių ginklams suteikė religinę prasmę.
 - susijęs iš [[objektai/paprociai/Ordino karo religinio įprasminimo praktika.md#claim-t-67174|Ordino karo religinio įprasminimo praktika]]: Petras iš Dusburgo užkariavimus ir žudynes „viešpaties kare“ aukštino, Ordino riterių ginklams suteikdamas šventumo aureolę.
+- susijęs iš [[objektai/paprociai/Padėkos auka už karo pergalę ir belaisvio sudeginimas.md#claim-t-189797|Padėkos auka už karo pergalę ir belaisvio sudeginimas]]: Narbutas padėkos auką už karo pergalę aprašė kaip didžiąją auką ir vaišes, per kurias ant laužo sudegindavo žymų belaisvį su žirgu ir ginklais.
 - susijęs iš [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza.md#claim-t-07798|Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]: Kiekviena pavietė turėjo karūžąjį, kuris laikė surašytus žemlionus, o kartą per metus tikrino jų ginklus ir arklius.
 - susijęs iš [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas.md#claim-t-09538|Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]: Didesnė ginkluotės dalis galėjo būti valstybės saugoma, prieš operacijas išduodama kariams, o po jų grąžinama.
 - susijęs iš [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas.md#claim-t-09539|Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]: Po operacijų išduota ginkluotė turėjo būti grąžinama.
@@ -104,6 +106,7 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Žemesnio lygmens vadų ir atskirų padalinių ginklavimas pistoletais-kulkosvaidžiais.md#claim-t-09600|Žemesnio lygmens vadų ir atskirų padalinių ginklavimas pistoletais-kulkosvaidžiais]]: Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai ir atskiri padaliniai.
 - susijęs iš [[objektai/paprociai/Žemesnio lygmens vadų ir atskirų padalinių ginklavimas pistoletais-kulkosvaidžiais.md#claim-t-09601|Žemesnio lygmens vadų ir atskirų padalinių ginklavimas pistoletais-kulkosvaidžiais]]: Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai ir atskiri padaliniai.
 - susijęs iš [[objektai/posakiai/Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis.md#claim-t-89591|Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis]]: Pabėgę belaisviai krikščionims pranešė, kad netikėlių kariuomenė neturėjo ginklų ir kitų gynimosi priemonių.
+- susijęs iš [[objektai/posakiai/dievų valia visi turi be ginklų ir be jokių šarvų užpulti Mazovijos šalį.md#claim-t-189558|dievų valia visi turi be ginklų ir be jokių šarvų užpulti Mazovijos šalį]]: Narbuto pasakojime pranašė paskelbė, kad dievų valia krašto vyrai be ginklų ir šarvų turi pulti Mazoviją, kur jų laukiąs didelis laimikis.
 - susijęs iš 1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: 1565 m. rankraštyje minima, kad vertingiausi ginklai turėjo vardus, o dvi etmono patrankos vadintos Žygimantu Senuoju ir Žygimantu Augustu.
 - susijęs iš 1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: 1565 m. 39 lapų rankraštis aprašė Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją.
 - susijęs iš Pulavų bibliotekos rankraščiai: Pulavų bibliotekos rankraštis aprašė Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją.
@@ -111,8 +114,11 @@ Nenurodyta
 - susijęs iš Bendras kontekstas vietos išvardytos kaip ginklų ir amunicijos rankraščio vietovių pavadinimai: Ginklų ir amunicijos rankraštyje vietovių pavadinimai buvo išdėstyti pagal planus, pradedant Vilniaus arsenalu.
 - susijęs iš Berlynas: 1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir ten pasirašė 100 mln. markių paskolą ginklams įsigyti.
 - susijęs iš Kuršo gubernija: Sukilėliai siekė perimti Kuršo gubernijos vakarinės dalies kontrolę, kad galėtų priimti iš Vakarų Europos atgabentus ginklus.
+- susijęs iš Lokaičiai: 1809 m. Lokaičių kaime kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų.
+- susijęs iš Marijampolės apskritis: 1809 m. Lokaičių kaime Marijampolės apskrityje kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų.
 - susijęs iš Nadruva: Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš skalvius, kuriuos buvo galima pasiekti laivais Nemunu.
 - susijęs iš Nadruva: Po karo su nadruviais broliai nukreipė savo ginklus prieš skalvius, nes nadruviai gyveno toliau nuo Nemuno.
+- susijęs iš Nemunas: Narbutas rašė, kad 1809 m. Lokaičiuose prie kairiojo Nemuno kranto rasta daug ginklų nuolaužų ir metalinių daiktų.
 - susijęs iš Tikocinas: Tikocine buvę ginklai ir karinė amunicija turėjo likti ten kaip valdovo nuosavoje pilyje.
 - susijęs iš Vilniaus ginklų liejykla: Didžioji ginklų liejykla buvo įkurta prie Vilniaus pilies ir turėjo didelę įtaką amatininkų gerovei bei tobulėjimui.
 - susijęs iš Vilniaus ginklų liejykla: 1579 m. rengiantis žygiui į Livoniją Vilniaus ginklų liejykla liejo pabūklus pagal geriausius pavyzdžius.
@@ -133,6 +139,7 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Arvydas Pocius.md#claim-t-40042|Arvydas Pocius]]: AT gynėjas Arvydas Pocius vėliau tapo generolu leitenantu ir Lietuvos kariuomenės vadu.
 - susijęs iš [[objektai/asmenys/Auktumas.md#claim-t-60242|Auktumas]]: Prūsams atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.
 - susijęs iš [[objektai/asmenys/Blinkevičius.md#claim-t-80709|Blinkevičius]]: Apylinkės pirmininkas Blinkevičius gavo Pušaloto valsčiaus valdžios leidimą surinkti miške likusius lavonus.
+- susijęs iš [[objektai/asmenys/Daujotas.md#claim-t-190141|Daujotas]]: Narbutas rašo, kad 1813 m. Lokaičių palivarko nuomotojas Daujotas jam pasakojo gavęs varinį žiedą iš Lokaičiuose rastų daiktų.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59950|Ditrichas iš Altenburgo]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo su Fridrichu Kvicu ir kitais vyrais patraukė link Bisenės pilies.
 - susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59914|Divanas]]: Prūsams atkritus nuo tikėjimo, bartai savo kariuomenės vadu ir vyresniuoju išsirinko Divaną.
 - susijęs iš [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras).md#claim-t-87670|Firstenbergas (Livonijos ordino magistras)]]: 1557 m. žygis į Livoniją prieš magistrą Firstenbergą baigėsi jo nuolankumu Žygimantui Augustui ir valdžios Livonijoje pripažinimu.
@@ -205,6 +212,7 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Šarvai.md#claim-t-176220|Šarvai]]: Sunkiąją kavaleriją sudarė raiti kariai, apkaustyti tvirtais metaliniais šarvais nuo galvos iki kojų, šarvuodavę net arklius.
 - susijęs iš [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija.md#claim-t-87009|Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]: Išvardyti pabūklai buvo naujai pagaminti ir išsiuntinėti Lietuvos provincijos tvirtovėms.
 - susijęs iš [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija.md#claim-t-87010|Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]: Golembiovskio aprašyme keturios didžiosios akmenų patrankos vadintos Elgeta, Vytautu, Boba ir Augustu.
+- susijęs iš [[objektai/grupes/Alanai.md#claim-t-189465|Alanai]]: Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kildino ją iš žodžio, reiškiančio mūšį.
 - susijęs iš [[objektai/grupes/Antantė.md#claim-t-19634|Antantė]]: Antantės šalys pareikalavo, kad Vokietija leistų panaudoti savo dalinius bolševizmui stabdyti.
 - susijęs iš [[objektai/grupes/Augsburgo tikėjimo išpažinėjai Livonijoje.md#claim-t-86752|Augsburgo tikėjimo išpažinėjai Livonijoje]]: Ketlerio perduodamų Livonijos apskričių žmonėms buvo siūlyta leisti laisvai naudotis apeigomis, papročiais ir religija, išpažįstančia Augsburgo tikėjimą.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88525|Bartai]]: 1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų.
@@ -293,7 +301,6 @@ Nenurodyta
 - susijęs iš Georgenburgas: Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes.
 - susijęs iš Gostininas: Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui.
 - susijęs iš Jokubavo miškas: Dienos pabaigoje dalis partizanų, pasinaudoję tamsa, Jokubavo mišku prasiveržė Pakruojo link.
-- susijęs iš Kaunas: Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, greitosiomis kūrė Lietuvos karines pajėgas.
 - susijęs iš Klaipėda: Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes.
 - susijęs iš Kristburgas: Pastačius Kristburgo pilį, naujakrikščiai ir Sventopelkas nutarė ją sunaikinti.
 - susijęs iš Kristburgas: Prūsai ir Sventopelkas susitarė apsupti Kristburgo pilį ir nesitraukti, kol ji nebus sulyginta su žeme.
@@ -307,11 +314,13 @@ Nenurodyta
 - susijęs iš Livonija: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš kalavijuočių ordino magistrą Firstenbergą.
 - susijęs iš Livonija: Maskvos kariuomenės sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas.
 - susijęs iš Londonas: Zigmantą Sierakauską, ginklų ir savanorių iš Londono.
+- susijęs iš Mazovija: Narbutas pasakojo, kad pranašė paskelbė dievų valią be ginklų pulti Mazoviją, kur esą laukė didelis laimikis.
 - susijęs iš Nadruva: 1274 m. Ordino magistras ir broliai nukreipė ginklus prieš nadruvius, o daug kilmingų Nadruvos vyrų priėmė krikštą.
 - susijęs iš Nadruva: Po Tirsko pasidavimo daug galingų ir kilmingų Nadruvos vyrų su šeimynomis perėjo pas brolius ir buvo pakrikštyti.
 - susijęs iš Nadruva: 1274 m. magistras ir broliai nukreipė savo ginklus prieš nadruvius.
 - susijęs iš Pakruojis: Dienos pabaigoje dalis partizanų, pasinaudoję tamsa, Jokubavo mišku prasiveržė Pakruojo link.
 - susijęs iš Palanga: Sukilėliai planavo užimti Palangos ir Liepojos uostus.
+- susijęs iš Palanga: Jucevičiaus nuomone, prie Palangos gyvenę lietuviai žvejai Atrimpą vadino „Dzivsvits“.
 - susijęs iš Podolė: Apsirūpinus artilerija ir amunicija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis.
 - susijęs iš Prūsija: Po Žygimanto Kęstutaičio mirties Prūsijos ordino įtaka Lietuvos likimui liovėsi vyravusi.
 - susijęs iš Riazanė: Stanislovas, kijeviečiams ginantis nuo Gedimino, pabėgo į Riazanę ir ten išsižadėjo bet kokių vilčių.
@@ -332,7 +341,6 @@ Nenurodyta
 - susijęs iš Vengrija: Totoriai nuniokojo Vengriją ir Lenkiją.
 - susijęs iš Vengrija: Rengiantis 1579 m. žygiui, kareivių buvo samdoma Vengrijoje ir Vokietijoje.
 - susijęs iš Vilnius: Iki 1565 m. Žygimanto Augusto lėšomis pagamintų ginklų ir amunicijos dalis buvo palikta Vilniuje, o kita išsiųsta į pilis.
-- susijęs iš Vilnius: Miestuose, ypač Vilniuje, kur mišrai gyveno katalikai su protestantais, kildavo visokių nesusipratimų ir muštynių.
 - susijęs iš Vokietija: Rengiant 1579 m. žygį prieš caro kariuomenę, kareivių buvo prisisamdyta Vengrijoje ir Vokietijoje.
 - susijęs iš Voluinė: Apsirūpinus artilerija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis.
 - susijęs iš [[objektai/zodynas/Augsburgo Augustino tikėjimas.md#claim-t-86514|Augsburgo Augustino tikėjimas]]: Gotardas Ketleris siekė, kad perduodamų apskričių žmonėms būtų leista laisvai išpažinti Augustino tikėjimą.

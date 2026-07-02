@@ -60,6 +60,8 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą apie Gediminaičių stulpų panaudojimą, bet įvestyje yra puslapio ir OCR triukšmo.'
   pagrindžia:
     - c-001
+- susijęs iš Druskininkų kapavietė: 1841 metais prie Druskininkų tik ką atkastoje kapavietėje rasta moneta, kurios vienoje pusėje buvo pavaizduoti Gediminaičių Stulpai.
+- susijęs iš Kaunas: Prie Kauno rastos senovinės lietuviškos monetos vienoje pusėje buvo Gediminaičių Stulpai ir neaiški raidė.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176215|Vėliavos]]: XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje.
 - susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67160|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.
 ## Reikšmingi paminėjimai

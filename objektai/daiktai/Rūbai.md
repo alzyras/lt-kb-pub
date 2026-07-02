@@ -70,6 +70,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175081|Sembai]]: Sembai nukankino Teutonų ordino kunigą, atsiųstą jų krikštyti, suspaudę jam kaklą dviem kartimis.
 - susijęs iš [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.).md#claim-t-183912|Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]: Prūsų sukilėliai degino bažnyčias, koplyčias ir kitus maldos namus, niekino šventenybes ir žudė kunigus bei bažnyčios tarnus.
 - susijęs iš [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.).md#claim-t-66454|Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]: Prūsų vadai paskyrė dieną krikščionims Prūsijoje išžudyti, o nepaslėptus už įtvirtinimų nužudė arba išsivarė į vergovę.
+- susijęs iš [[objektai/paprociai/Įkapių dėjimas pagal mirusiojo luomą ir gyvenimo užsiėmimą.md#claim-t-189901|Įkapių dėjimas pagal mirusiojo luomą ir gyvenimo užsiėmimą]]: Žymesni asmenys laidoti su luomui būdingais drabužiais ir gyvenimo užsiėmimą žymėjusiais daiktais, pavyzdžiui, karys su ginklu, o amatininkas su įrankiais.
 - susijęs iš Kijevo Rusia: Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.
 - susijęs iš Kijevo Rusia: Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.
 - susijęs iš Šventasis Kalnas: Dėl sąmyšio anuose kraštuose Vaišvilkas Šventojo Kalno nepasiekė.

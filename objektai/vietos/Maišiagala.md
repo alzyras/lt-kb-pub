@@ -43,9 +43,7 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
   ryšio_paaiskinimas: Ordino maršalo vadovaujama kryžiuočių kariauna tiesiogiai įvardyta kaip užėmusi Kernavę.
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184432|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.
 - susijęs iš [[objektai/grupes/Vytauto šalininkai.md#claim-t-86739|Vytauto šalininkai]]: Ordino maršalo vadovaujama kryžiuočių kariauna susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.
-- susijęs iš Kernavė: Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178834|Kryžiuočių ordinas]]: Ordino maršalas su 40 000 kryžiuočių įsiveržė į Lietuvą, susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.
-- susijęs iš Kernavė: Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.
 - susijęs iš [[objektai/asmenys/Charitonas Charotičius.md#claim-t-87644|Charitonas Charotičius]]: Vilniaus burmistras Charitonas Charotičius gavo patvirtinimą žemei Maišiagalos ir Rudaminos paviete pagal karaliaus Aleksandro jo broliui duotą privilegiją.
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184432|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178834|Kryžiuočių ordinas]]: Ordino maršalas su 40 000 kryžiuočių įsiveržė į Lietuvą, susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.
@@ -64,7 +62,7 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
 - susijęs iš Labanoro giria: 1951 m. kovo 19 d. Labanoro girioje MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai puolė dvi partizanų žemines.
 - susijęs iš Naručio apylinkės: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines.
 - susijęs iš Pagaigalė: 1951 m. kovo 19 d. MGB 137-ojo šaulių pulko kareiviai Pagaigalės kaimo apylinkėse puolė dvi partizanų žemines.
-- susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
+- susijęs iš Kernavė: Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą.
 - susijęs iš [[objektai/daiktai/Laužas.md#claim-t-186856|Laužas]]: Pagal komentare minimą J. Dlugošą, mirusio Algirdo palaikai Kukovaičio miške prie Maišiagalos buvo sudeginti ant laužo.
 ## Reikšmingi paminėjimai
 

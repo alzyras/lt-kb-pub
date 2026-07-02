@@ -406,6 +406,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 - susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-45487|Ginklai ir ginkluotė]]: 1918 m. gruodžio 21 d. A. Smetona Berlyne pasirašė 100 mln. markių paskolą ginklams įsigyti.
 - susijęs iš [[objektai/grupes/Laikinoji vyriausybė.md#claim-t-19775|Laikinoji vyriausybė]]: 1941 m. birželio 23 d. sudarytos Laikinosios vyriausybės vadovu tapo literatūros dėstytojas Juozas Ambrazevičius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179342|Lietuviai]]: Oberosto režimo metu lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190571|Lietuviai]]: Narbutas rašė, kad senojoje lietuvių religijoje šventais laikyti ne tik tekantys, bet ir kai kurie stovintys vandenys.
 - susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-26625|Lietuvių aktyvistų frontas]]: Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir iš Vokietijos siuntė instrukcijas dėl valstybingumo atkūrimo bei sukilimo.
 - susijęs iš [[objektai/ivykiai/Laikinosios vyriausybės sudarymas (1941 m. birželio 23 d.).md#claim-t-20252|Laikinosios vyriausybės sudarymas (1941 m. birželio 23 d.)]]: 1941 m. birželio 23 d. sudarytos Laikinosios vyriausybės vadovu tapo literatūros dėstytojas Juozas Ambrazevičius.
 - susijęs iš [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.).md#claim-t-75120|Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]: Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija.
@@ -427,7 +428,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 - susijęs iš SSRS ir Vokietijos slaptasis protokolas (1941 m. sausio 10 d.): 1941 m. sausio 10 d. slaptuoju protokolu SSRS iš Vokietijos už 7,5 mln. aukso dolerių nusipirko pietvakarines lietuvių žemes.
 - susijęs iš Scriptores rerum Prussicarum: M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį kronikos leidimą lotynų kalba.
 - susijęs iš Elbingas: Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.
-- susijęs iš Kaunas: Emmanuelis Levinas gimė Kaune ir baigė gimnaziją.
 - susijęs iš Kaunas: Po pirmojo bolševikmečio pertraukos Z. Ivinskis tęsė Lietuvos istorijos darbą Filosofijos fakultete Kaune.
 - susijęs iš Klaipėdos kraštas: Berlyne nustatyta sienos linija Klaipėdos teritoriją paliko Lietuvos pusėje.
 - susijęs iš Lietuva: Vokiečių vermachtui įžengiant į Lietuvą, daug lietuvių jį sutiko palankiai, kai kurie net su gėlėmis rankose.

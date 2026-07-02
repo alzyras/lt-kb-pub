@@ -9,12 +9,12 @@ date_start: '1863'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+tags:
+  - asmuo
 ---
 # Boleslovas Narbutas
 
@@ -34,33 +34,36 @@ Boleslovas Narbutas minimas kaip vienas iš Teodoro Narbuto sūnų, 1863 m. suki
 - date_start: 1863
 
 ## Teiginiai
-
-<a id="claim-t-188040"></a>
-- t-001
-  global_id: t-188040
+- t-002
   teiginys: '1863 m. sukilimo metu Boleslovas, vienas iš Teodoro Narbuto sūnų, išėjo į miškus.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Boleslovo Narbuto dalyvavimą 1863 m. sukilime. Citata tiesiogiai remia jo išėjimą į miškus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Narbutai|Narbutai]]; mentioned_person: [[objektai/asmenys/Liudvikas Narbutas|Liudvikas Narbutas]]; mentioned_person: [[objektai/asmenys/Pranciškus|Pranciškus]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1863 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Boleslovo Narbuto dalyvavimą 1863 m. sukilime. Citata tiesiogiai remia jo išėjimą į miškus.'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 19559-19774; hash=2071d1c66c6582690388c4e92683c3b1c4bee7e272f43848cebb198cb9d3ab6e; match=exact
+  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
+  ryšio_patikimumas: susije_su -> Liudvikas Narbutas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Boleslovas Narbutas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Liudvikas Narbutas: mention_match, person, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Boleslovas Narbutas" parinktas kaip owner_note_path. Targetas "Liudvikas Narbutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1863 m. sukilimo metu Boleslovas, vienas iš Teodoro Narbuto sūnų, išėjo į miškus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Tai buvo didelis smūgis tėvui. Sėkmingai iš­
     vengęs kalniečių kulkų, L. Narbutas žuvo Lietuvoje 1863 m.
     pavasarį. 1863 m. sukilime aktyviai dalyvavo visa Narbutų šei­
     ma: į miškus išėjo sūnūs Boleslovas, Pranciškus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

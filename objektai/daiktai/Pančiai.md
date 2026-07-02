@@ -56,6 +56,7 @@ Nenurodyta
   ryšio_targeto_parinkimas: Sarkis: mention_match, person, gap=40
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pančiai" parinktas kaip owner_note_path. Targetas "Sarkis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Henrikas I Paukštininkas.md#claim-t-87688|Henrikas I Paukštininkas]]: Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.
+- susijęs iš [[objektai/asmenys/Vitolfas.md#claim-t-190119|Vitolfas]]: Narbutas pasakoja legendą, kad Vitolfas po žirgo praradimo grįžo su kariuomene, nugalėjo slibiną Pukį ir susitaikė su karaliumi.
 - susijęs iš [[objektai/asmenys/Šventoji Barbora.md#claim-t-60079|Šventoji Barbora]]: Broliai rūsyje rado dėžutę su šventosios Barboros galva ir pasiėmė ją kaip šventą relikviją.
 - susijęs iš [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.).md#claim-t-89398|Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]: 1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir dvidešimt keturiais ginklanešiais slapta įsigavo į Sartovicų pilį.
 - susijęs iš [[objektai/zodynas/Cechas.md#claim-t-54804|Cechas]]: Cechų steigimas Vokietijos miestuose siejamas su amatų ir prekybos įsitvirtinimu XII a. antrojoje pusėje.

@@ -85,6 +85,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 - susijęs iš [[objektai/ivykiai/Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.).md#claim-t-185610|Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)]]: Lietuvių kariuomenė įsiveržė į Sandomiro vaivadiją, sumušė ją gynusius lenkus ir nuniokojo kraštą kalaviju bei ugnimi.
 - susijęs iš [[objektai/ivykiai/Sandomiro pasitarimas dėl Vytauto karūnacijos (1429 m. rugsėjo 8 d.).md#claim-t-35875|Sandomiro pasitarimas dėl Vytauto karūnacijos (1429 m. rugsėjo 8 d.)]]: Sandomiro suvažiavime Olesnickis pasiūlė Vytautui Jogailos karūną, tačiau abejojama, ar tam pritarė Jogaila.
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.).md#claim-t-185790|Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.)]]: Vytenis, sutelkęs didesnę nei įprasta kariuomenę, užpuolė lenkų kraštą, nuniokojo Lukovo apylinkes ir įsiveržė į Sandomiro žemę.
+- susijęs iš Lenkijos Plikasis kalnas prie Sandomiro: Narbutas Lenkijos Plikąjį kalną prie Sandomiro įvardijo kaip garsų kalną, vėliau vadintą Šventojo Kryžiaus kalnu.
 - susijęs iš Liublino kraštas (kraštas): Po Liublino žemių nuniokojimo priešas siaubė Sandomiro kraštą.
 - susijęs iš Lukovas: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.
 - susijęs iš [[objektai/zodynas/Teutonų teisė vokiečių miestų teisės.md#claim-t-86642|Teutonų teisė vokiečių miestų teisės]]: Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a.
@@ -92,7 +93,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 - susijęs iš [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus).md#claim-t-87764|Leonas (Haličo kunigaikščio sūnus)]]: Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.
 - susijęs iš [[objektai/asmenys/Lešekas Juodasis.md#claim-t-87765|Lešekas Juodasis]]: Lešekas Juodasis Krokuvai suteikė svarbias privilegijas ir sustiprino miestą geriausiomis mūro sienomis.
 - susijęs iš [[objektai/asmenys/Mikalojus Michalovskis.md#claim-t-87918|Mikalojus Michalovskis]]: Sandomiro vaivada Mikalojus Michalovskis, karaliaus ir Lenkijos senato siųstas į Vilnių, grasino Vytautui karu, jei šis neatsisakys savo sumanymo.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184884|Vytenis]]: Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184884|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.
 - susijęs iš [[objektai/asmenys/Zbignevas Olesnickis.md#claim-t-87889|Zbignevas Olesnickis (vyskupas)]]: Karaliaus ir Lenkijos senato pasiųstas Zbignevas Olesnickis Vilniuje grasino Vytautui karu, jei šis neatsisakys savo sumanymo.
 - susijęs iš [[objektai/daiktai/Kristaus Kančios relikvija.md#claim-t-186861|Kristaus Kančios relikvija]]: Komentare nurodoma, kad J. Dlugošas pasakojo legendą apie Algirdo ir Kęstučio pagrobtą šventojo kryžiaus relikviją.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184522|Lenkai]]: Mūšyje lenkai atsiėmė visą grobį, o keli tūkstančiai lietuvių žuvo kautynėse ir bėgdami.
@@ -110,7 +111,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 - susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka.md#claim-t-54792|Municipalinė teisėtvarka]]: Teutonų teisė Lenkijos miestų kontekste siejama su atleidimu nuo duoklių, krašto teisės prievolių, sava teisėtvarka ir atskiru miesto valdymu.
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.).md#claim-t-185790|Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.)]]: Vytenis, sutelkęs didesnę nei įprasta kariuomenę, užpuolė lenkų kraštą, nuniokojo Lukovo apylinkes ir įsiveržė į Sandomiro žemę.
 - susijęs iš [[objektai/daiktai/Kristaus Kančios relikvija.md#claim-t-186861|Kristaus Kančios relikvija]]: Komentare nurodoma, kad J. Dlugošas pasakojo legendą apie Algirdo ir Kęstučio pagrobtą šventojo kryžiaus relikviją.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184884|Vytenis]]: Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184884|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -210,7 +211,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] puole Sandomiras
-- [[objektai/asmenys/Vytenis]] surenge_zygi_i Sandomiras
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] surenge_zygi_i Sandomiras
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] puole Sandomiras
-- [[objektai/asmenys/Vytenis]] puole Sandomiras
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Sandomiras
 - [[objektai/grupes/Lenkai]] priklause Sandomiras

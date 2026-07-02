@@ -8,6 +8,11 @@ datos:
   - '1254 m.'
 date_start: '1217'
 date_end: '1254'
+description: 'Pomeranijos kunigaikštis Sventopelkas šaltiniuose siejamas su prūsų sąjunga, kovomis prieš Ordiną ir pilimis prie Vyslos.'
+socialDescription: 'Sventopelkas pristatomas kaip Pomeranijos kunigaikštis, Dusburgiečio kaltintas sąjunga su prūsais prieš Teutonų ordiną.'
+seo_atnaujinta: '2026-07-02T19:20:23.342837+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,7 +26,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip bendros kovos su Lietuva ir prūsais dalyvis kituose aptariamuose šaltiniuose.
+Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs su prūsų pasipriešinimu Teutonų ordino broliams. Petras Dusburgietis jį vadina „išdaviku“ dėl bendradarbiavimo su prūsais, o pasakojimuose minimi jo žygiai į Kulmo žemę, pilys prie Vyslos ir karas, pasibaigęs 1253 m.
 
 ## Teiginiai
 

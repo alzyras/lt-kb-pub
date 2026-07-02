@@ -3,9 +3,19 @@ tipas: asmuo
 pavadinimas: 'Žygimantas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1567 m.'
+  - '1568 m.'
+date_start: '1567'
+date_end: '1568'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 tags:
   - asmuo
   - kunigaikštis
@@ -17,7 +27,6 @@ tags:
 Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas. Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu Žygimantu ir Švitrigaila, pasisekė pabėgti.
 
 ## Teiginiai
-
 <a id="claim-t-184380"></a>
 - t-001
   global_id: t-184380
@@ -63,7 +72,7 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia Žygimanto sprendimą ir tikslą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -85,8 +94,7 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai atitinka citatos faktą.'
-  susije_objektai: 'mentioned_place: Borisovas; mentioned_place: Lietuva; mentioned_place: Smolenskas; llm_object: Borisovas'
-  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas|Žygimantas]] keliavo į Borisovas'
+  susije_objektai: 'mentioned_place: Borisovas; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gardinas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -121,11 +129,49 @@ tags:
   ryšio_subjekto_parinkimas: Žygimantas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Saulė: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas" parinktas kaip owner_note_path. Targetas "Saulė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+<a id="claim-t-188655"></a>
+- t-007
+  global_id: t-188655
+  teiginys: 'Karalius Žygimantas tais metais dalyvavo Piotrkovo seimo reikaluose ir šiaurėje kariavo su Rusija.'
+  pagrindžia:
+    - c-007
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 898002-898507; hash=d839231627213ecd5eafcb19c78c4e37adc380af8316155e0b1f24f671ddd945; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Piotrkovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žygimantas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Piotrkovas: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas" parinktas kaip owner_note_path. Targetas "Piotrkovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188656"></a>
+- t-008
+  global_id: t-188656
+  teiginys: 'Karalius Žygimantas 1567 m. pabaigoje skubėjo sušaukti Gardino seimą ir išsiuntinėjo universalus Lietuvai.'
+  pagrindžia:
+    - c-008
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 898508-899166; hash=4b2a9730ec129542814c8c8bde0bbec9d547ab04ef9122f257e23a1a52ee878d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Žygimantas išsiuntinėjo universalus Lietuvai.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87559|Mykolas (Žygimanto sūnus)]]: 1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas.
 - susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185995|Vasilijus (Maskvos kunigaikštis)]]: Vasilijus raštu paskelbė karą Žygimantui, nors Glinskis jau buvo įsiveržęs į Lietuvos žemes.
 - susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-173117|Aleksandras Balinskis]]: Po karaliaus Aleksandro mirties Aleksandras Balinskis kalėjo Vilniuje iki Žygimanto atvykimo.
 - susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-54933|Aleksandras Balinskis]]: Balinskis po karaliaus mirties kalėjo Vilniuje iki Žygimanto atvykimo, o grįžęs į Krokuvą vėl buvo įkalintas.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113785|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-188574|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Narbutas rašė, kad Kęstutis su Birute turėjo sūnus Patriką, Vytautą, Tautvilą, Sigailą arba Žygimantą ir dukterį Danutę.
 - susijęs iš [[objektai/asmenys/Laurynas Zaremba.md#claim-t-186138|Laurynas Zaremba]]: Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir prisidėti prie Žygimanto šalininkų.
 - susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-87378|Manvydas]]: Trakų vaivada Manvydas buvo sučiuptas ir Žygimanto įsakymu nukirsdintas.
 - susijęs iš [[objektai/asmenys/Olelka.md#claim-t-87809|Olelka]]: Kopylę valdęs Olelka, Algirdo palikuonis, buvo įkalintas prieš diduomenei nutariant gelbėtis Žygimanto gyvybės kaina.
@@ -138,6 +184,7 @@ tags:
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179709|Švitrigaila]]: Švitrigaila ir Žygimantas buvo Vytauto politikos tęsėjai.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179712|Švitrigaila]]: Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184530|Lenkai]]: Lenkai tvirtino, kad Jogailos, Vytauto ir Žygimanto laikų susitarimų negalima keisti.
+- susijęs iš [[objektai/grupes/Lenkijos seimas Piotrkove.md#claim-t-189520|Lenkijos seimas Piotrkove (seimas, XVI a.)]]: Narbutas rašė, kad 1567 m. Lenkijos seimas Piotrkove ilgai ir sėkmingai posėdžiavo, kai Žygimantas rengė abiejų tautų žygį.
 - susijęs iš [[objektai/grupes/Lenkijos senatas.md#claim-t-184539|Lenkijos senatas]]: Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/grupes/Lenkų senatas.md#claim-t-185430|Lenkų senatas]]: Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/grupes/Smolenskiečiai.md#claim-t-187745|Smolenskiečiai]]: Smolenskiečiai Oršoje pasitiko kunigaikštį Mykolą ir pasidavė didžiajam kunigaikščiui Žygimantui bei jo sūnui Mykolui.
@@ -161,6 +208,7 @@ tags:
 - susijęs iš Brudzevas: Krokuvos vaivada Jarandas iš Brudzevo buvo įtrauktas į senato pasiuntinybę, išsiųstą į Lietuvą dėl Žygimanto pakėlimo.
 - susijęs iš Drohičinas: Kazimierui būnant Vilniuje, Drohičino ir Melniko seniūnu buvo dar Žygimanto paskirtas Jurgis Nosuta.
 - susijęs iš Melnikas: Lietuvos metraštyje Kazimierui būnant Vilniuje Jurgis Nosuta minimas kaip Drohičino ir Melniko seniūnas, dar Žygimanto paskirtas į šias pareigas.
+- susijęs iš Piotrkovas: Piotrkovo seime karalius Žygimantas parengė abiejų tautų žygį, o rudenį su kariuomene išžygiavo iš Vilniaus.
 - susijęs iš Trakai: Trakuose sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.
 - susijęs iš Trakai: Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.
 - susijęs iš Vilnius: Vilnius tapo Žygimanto ir Švitrigailos grupuočių kovos taikiniu.
@@ -259,6 +307,7 @@ tags:
 - susijęs iš Polockas: 1432 m. rugsėjo 3 d. Švitrigaila iš Polocko parašė laišką didžiajam magistrui, prašydamas skubios pagalbos.
 - susijęs iš Polockas: Lietuvos metraštis Kęstutį vadina didžiuoju kunigaikščiu ir rašo, kad užėmęs Vilnių jis pasiuntė du žmones į Polocką.
 - susijęs iš Polockas: Lietuvos metraštis Aleksandrą vadina didžiuoju kunigaikščiu ir rašo, kad jis su Elena bei didikais lankėsi Polocke.
+- susijęs iš Radaškovičiai: 1567 metų rudenį Žygimantas su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius, kur susitiko su caro pasiuntiniais.
 - susijęs iš Smolenskas: Vykdamas į Lietuvą, Goštautas Smolenske vietininku paliko Andrių Sakavičių.
 - susijęs iš Smolenskas: Jonas Goštautas buvo Smolensko vietininkas ir tuo metu buvo Smolenske, tolimame Didžiosios Kunigaikštystės mieste.
 - susijęs iš Trakai: Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos reikalus.
@@ -280,6 +329,7 @@ tags:
 - susijęs iš Vilnius: Žinia apie pergalę Aleksandrą pasiekė Vilniuje, kai valdovas jau merdėjo.
 - susijęs iš Vilnius: Žygimantas po nesėkmingo Švitrigailos persekiojimo Ašmenoje tučtuojau užėmė Vilnių ir Trakus.
 - susijęs iš Vilnius: 1432 m. rugsėjo 23 d. Žygimantas suteikė Vilniaus miestiečiams teisę be muitų gabenti prekes Lietuvos žemėje.
+- susijęs iš Vilnius: Karalius Žygimantas po Piotrkovo seimo su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius.
 - susijęs iš Vitebskas: Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutines audringos senatvės dienas.
 - susijęs iš Vitebskas: Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutines audringos senatvės dienas.
 - susijęs iš Zaslavlis: Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno.
@@ -301,7 +351,6 @@ tags:
 - susijęs iš [[objektai/grupes/Smolenskiečiai.md#claim-t-187745|Smolenskiečiai]]: Smolenskiečiai Oršoje pasitiko kunigaikštį Mykolą ir pasidavė didžiajam kunigaikščiui Žygimantui bei jo sūnui Mykolui.
 - susijęs iš [[objektai/asmenys/Vladislovas Varnietis.md#claim-t-87886|Vladislovas Varnietis]]: Mirus Jogailai, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės į Didžiąją Kunigaikštystę.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -432,6 +481,53 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Karalius Žygimantas tais metais dalyvavo Piotrkovo seimo reikaluose ir šiaurėje kariavo su Rusija.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Iš tikrųjų tais me­
+    tais vyko Lenkijos seimas Piotrkove, trukęs ilgai
+    ir sėkmingai posėdžiavęs. Tais metais karaliui Žy­
+    gimantui buvo daug darbų ir rūpesčių; mat, be ši­
+    to darbštaus seimo, dar kariavo šiaurėje karą su
+    Rusija. Romanas Sanguška kovojo kruvinus mū­
+    šius su Rusija; įvyko taip, kad karalius, Piotrkovo
+    seime parengęs abiejų tautų žygį, rudenį su ka­
+    riuomene išžygiavo iš Vilniaus, bet pasiekė tik Ra-
+    daškovičius; ten jis susitiko su caro pasiuntiniais,
+    pareiškusiais pageidavimą taikytis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Karalius Žygimantas 1567 m. pabaigoje skubėjo sušaukti Gardino seimą ir išsiuntinėjo universalus Lietuvai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Nors karalius
+    nenutraukė karo veiksmų, už kuriuos stojo San­
+    guška ir Jonas Chodkevičius, tačiau, matyt, sku­
+    bėjo sušaukti seimą Gardine dar 1567 metų pa­
+    baigoje, išsiuntinėjęs universalus Lietuvai. Čia ap­
+    rašomas seimas pradėjo posėdžiauti 1568 metų pa­
+    vasarį, nes Gardino archyvuose yra likęs pėdsa­
+    kas, jog tų metų balandžio 28 dieną karaliaus bū­
+    ta Gardine. Tą patvirtina ir įstatymų knyga: „Lie­
+    tuvos seimas Gardine 1568 metais sutiko, kad ka­
+    ralius kiekvienu atveju išduotų apsaugos raštus,
+    išskyrus atvejį, kai sugaunama nusikaltimo vieto­
+    je, tai yra išskyrus akivaizdų nusikaltimą, nuo ku­
+    rio dar nepraėjo metai ir šešios savaitės“ (Czacki.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] buvo_sunus Žygimantas
@@ -442,19 +538,22 @@ tags:
 - Žygimantas keliavo_i [[objektai/vietos/Ašmena]]
 - Žygimantas puole [[objektai/vietos/Ašmena]]
 - Žygimantas buvo_palaidotas [[objektai/vietos/Vilnius]]
+- Žygimantas buvo_sunus [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Žygimantas buvo_valdovas [[objektai/vietos/Lietuva]]
 - Žygimantas paskyre [[objektai/asmenys/Jurgis Nosuta]]
 - Žygimantas dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
 - Žygimantas kariavo_pries [[objektai/asmenys/Švitrigaila]]
 - Žygimantas puole [[objektai/asmenys/Švitrigaila]]
+- Žygimantas siunte_i [[objektai/vietos/Lietuva]]
 - Žygimantas surenge_zygi_i [[objektai/vietos/Ašmena]]
+- Žygimantas keliavo_i [[objektai/vietos/Radaškovičiai]]
 - [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] buvo_sajungininkas_su Žygimantas
 - [[objektai/asmenys/Petrašu Montgirdaitis]] buvo_sajungininkas_su Žygimantas
 - Žygimantas buvo_priesas [[objektai/asmenys/Švitrigaila]]
 - Žygimantas valde_miesta [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Smolenskiečiai]] reme Žygimantas
 - Žygimantas buvo_brolis [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Žygimantas keliavo_i [[objektai/vietos/Borisovas]]
 - [[objektai/asmenys/Vladislovas Varnietis]] reme Žygimantas
+- Žygimantas keliavo_i [[objektai/vietos/Gardinas]]
 - Žygimantas buvo_sajungininkas_su [[objektai/asmenys/Švitrigaila]]
 - Žygimantas pastate [[objektai/vietos/Pabaiskas]]

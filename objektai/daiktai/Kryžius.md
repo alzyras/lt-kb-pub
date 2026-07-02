@@ -57,6 +57,8 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Kryžius: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžius" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Vilniaus Plikasis kalnas: Narbutas rašė, kad pirmieji misionieriai pranciškonai ant Vilniaus Plikojo kalno pastatė tris kryžius kaip savo misijos ženklą.
+- susijęs iš [[objektai/asmenys/Antonijus Bosija.md#claim-t-190129|Antonijus Bosija]]: Cezaris Ripa pas Antonijų Bosiją matė Romoje atkastą senovinę Kanopo Serapio statulą su į kryžių panašiu ženklu.
 - susijęs iš [[objektai/asmenys/Chosrovas.md#claim-t-184051|Chosrovas]]: Apie 600 m. persų karalių Chosrovą nugalėjo imperatorius Heraklijus, susigrąžinęs Viešpaties kryžiaus dalį.
 - susijęs iš [[objektai/asmenys/Chosrovas.md#claim-t-60257|Chosrovas]]: Apie 600 m. persų karalių Chosrovą nugalėjo imperatorius Heraklijus, susigrąžinęs Viešpaties kryžiaus dalį.
 - susijęs iš [[objektai/asmenys/Flekenšteinas.md#claim-t-60275|Flekenšteinas]]: Brolis Flekenšteinas iš Reino krašto į Brandenburgo pilį atgabeno Viešpaties kryžiaus atskalą.
@@ -69,23 +71,26 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Jonas Paulius II.md#claim-t-71297|Jonas Paulius II]]: Popiežius Jonas Paulius II 1993 m. aplankė Kryžių kalną, pramintą lietuviška Golgota.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93423|Konradas (Mozūrijos kunigaikštis)]]: 1230 m. Mozūrijos kunigaikštis Konradas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė į pagalbą Kryžiuočių ordiną.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93424|Konradas (Mozūrijos kunigaikštis)]]: Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę, po ko prasidėjo metodiški kryžiaus žygiai į Prūsiją.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93432|Kristijonas]]: 1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-10692|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis kartu su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54990|Petras Goštautas]]: Pagal Waddyngo pasakojimą Petras Goštautas 1333 m. atkvietė į Vilnių keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
 - susijęs iš [[objektai/asmenys/Philippe de Mezières.md#claim-t-100077|Philippe de Mezières]]: Philippe de Mezières siūlė į kryžiaus žygį prieš krikščionybės priešus pritraukti ir lietuvius.
 - susijęs iš [[objektai/asmenys/Popiežius Honorijus II.md#claim-t-60415|Popiežius Honorijus II]]: Popiežius Honorijus II 1218 m. organizavo didelį kryžiaus žygį į Prūsiją.
 - susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173220|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Vilniaus vyskupas Povilas savo sode pastatydino nedidelę Šv. Kryžiaus oratoriją vietoje, kur buvo palaidoti pranciškonai kankiniai.
 - susijęs iš [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus).md#claim-t-60446|Tomas (Hertvigo iš Pokarvių sūnus)]]: Kronikoje pasakojama, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, mirė ir atgijo per Viešpaties kryžiaus atskalą.
+- susijęs iš [[objektai/asmenys/Šventasis Augustinas.md#claim-t-190121|Šventasis Augustinas]]: Narbutas rašė, kad Šventasis Augustinas kryžiaus ženklą siejo su egiptiečių amžinojo gyvenimo vaizdavimu.
+- susijęs iš [[objektai/autoriai/Aleksandras Gvaninis.md#claim-t-190626|Aleksandras Gvaninis]]: Gvaninio pasakojime krikščionis šeimininkas šventu kryžiumi nuvijo pabaisą, kuri tuoj pat nežinia kur dingo.
 - susijęs iš [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi.md#claim-t-59679|Baltas apsiaustas su juodu kryžiumi]]: Popiežius leido Jeruzalės ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi.
 - susijęs iš [[objektai/daiktai/Baltijos kryžius.md#claim-t-40695|Baltijos kryžius]]: Baltijos kryžius buvo teikiamas pasižymėjusiems vokiečių bermontininkams.
 - susijęs iš [[objektai/daiktai/Bermondto-Avalovo kryžius.md#claim-t-40696|Bermondto-Avalovo kryžius]]: Bermondto-Avalovo kryžius buvo teikiamas pasižymėjusiems bermontininkams.
 - susijęs iš [[objektai/daiktai/Dubnia herbas.md#claim-t-186864|Dubnia herbas]]: Pagal herbynus Davainų giminės ženklas buvo ne Dubnios, o į Seligos herbą panašus kryžius gulsčiame pusmėnulyje.
 - susijęs iš [[objektai/daiktai/Dubnia herbas.md#claim-t-186865|Dubnia herbas]]: Dubnios herbas buvo Habdanko herbo atmaina su baltu kryžiumi raudoname skyde ir kryžiumi tarp dviejų jaučio ragų virš skydo.
+- susijęs iš [[objektai/daiktai/Kalnėnų blindės gėlių vainikai ir kryžius.md#claim-t-189722|Kalnėnų blindės gėlių vainikai ir kryžius]]: Narbutas 1805 m. Kalnėnų kaime matė gėlių vainikais papuoštą blindę, prie kurios kunigai buvo liepę prikalti kryžių.
 - susijęs iš [[objektai/daiktai/Kryžius ant kardo galo.md#claim-t-71565|Kryžius ant kardo galo]]: Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.
 - susijęs iš [[objektai/daiktai/Kryžių kalno kryžiai.md#claim-t-77918|Kryžių kalno kryžiai]]: Priklausomybės dešimtmečiais Kryžių kalno kryžiai tapo stiprybės ir vilties simboliu.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12319|Lietuvos pinigai]]: Lietuviški denariukai atsirado 1387-1390 m.; jų pusėse buvo ieties galas, kryžius ir Gedimino stulpai.
 - susijęs iš [[objektai/daiktai/Medinis nukryžiuotasis.md#claim-t-59694|Medinis nukryžiuotasis]]: Pasak Petro Dusburgiečio, medinis nukryžiuotasis koplyčioje ištiesė rankas ir palaimino besimeldžiantįjį kryžiaus ženklu.
 - susijęs iš [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius.md#claim-t-11542|Pirmosios katedros didysis altoriaus kryžius]]: Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius.
+- susijęs iš [[objektai/daiktai/Slenksčio religinis ženklas ir kryžius.md#claim-t-189703|Slenksčio religinis ženklas ir kryžius]]: Narbutas nurodė, kad Lietuvos kaimiečiai statydami namą virš durų paprastai įpjaudavo kryžių arba nutapydavo jį raudonais dažais.
 - susijęs iš [[objektai/daiktai/Vyties kryžius.md#claim-t-40788|Vyties kryžius]]: Emilis Jeneris 1928 m. sukūrė darbą „Pirmasis Vyties Kryžiaus apdovanojimas karių, pasižymėjusių fronte 1919 m.“.
 - susijęs iš [[objektai/daiktai/Šventojo kryžiaus relikvija.md#claim-t-59714|Šventojo kryžiaus relikvija]]: Imperatorius Fridrichas II Šventojo kryžiaus relikviją perdavė magistrui, kuris ją nusiuntė į Elbingo pilį Prūsijoje.
 - susijęs iš [[objektai/daiktai/Šventojo kryžiaus ženklas.md#claim-t-59715|Šventojo kryžiaus ženklas]]: Broliai paženklino save šventojo kryžiaus ženklu ir prasiveržė pro didelę lietuvių kariuomenę.
@@ -101,6 +106,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179085|Kryžiuočių ordinas]]: Iki Tannenbergo kautynių kryžiuočiai Vakarų Europai pristatydavo lietuvius kaip pavojingus rytų saracėnus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179119|Kryžiuočių ordinas]]: Kryžiuočių ordino broliai perdavė Sartovicų pilį Samborui, o vėliau Sventopelkas pradėjo statyti Svečės pilį.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-190568|Kryžiuočių ordinas]]: Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108280|Pranciškonų ordinas]]: 1261 m. pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108313|Pranciškonų ordinas]]: 1261 m. pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108321|Pranciškonų ordinas]]: Pranciškonai prie Žemutinės pilies turėjo Gedimino laikais pastatydintą bažnyčią dabartinės Šventojo Kryžiaus bažnyčios vietoje.
@@ -146,8 +152,11 @@ Nenurodyta
 - susijęs iš Kreivasis kalnas: Kreivasis, arba Pilkasis, kalnas tapatinamas su Trijų Kryžių kalnu.
 - susijęs iš Kryžių kalnas: Priklausomybės dešimtmečiais Kryžių kalnas išryškino kryžiaus kaip stiprybės ir vilties šaltinio prasmę.
 - susijęs iš Kryžių kalnas: Kryžių kalnas tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
+- susijęs iš Lenkijos Plikasis kalnas prie Sandomiro: Narbutas Lenkijos Plikąjį kalną prie Sandomiro įvardijo kaip garsų kalną, vėliau vadintą Šventojo Kryžiaus kalnu.
 - susijęs iš Nacionalinė M. Mažvydo biblioteka: Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios medicinos pagalbos ir medicininio vadovavimo punktą.
 - susijęs iš Ortrantas: 1227 m. rugsėjo 11 d. Sicilijos mieste Ortrante mirė Šventos Elžbietos vyras landgrafas, keliavęs po kryžiaus žygio vėliava.
+- susijęs iš Trakų pilis (pilis): Senojoje Trakų pilyje virš didžiųjų vartų anksčiau buvo akmenyje iškaltas kryžius skyde.
+- susijęs iš Vilniaus Plikasis kalnas: Narbutas rašė, kad pirmieji misionieriai pranciškonai ant Vilniaus Plikojo kalno pastatė tris kryžius kaip savo misijos ženklą.
 - susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus katedros bažnyčioje ties šventovės viduriu buvo Šventojo Kryžiaus altorius.
 - susijęs iš Vilniaus katedros bažnyčia ir Šventojo Kryžiaus altorius: Šventojo Kryžiaus altorius buvo Vilniaus katedros bažnyčioje ties šventovės viduriu.
 - susijęs iš Vilnius: Vilniaus vaivada Petras Goštautas pakvietė į Vilnių švento Pranciškaus ordino vienuolių ir juos įkurdino būsimos Šv. Kryžiaus bažnyčios vietoje.
@@ -173,9 +182,10 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Davaina.md#claim-t-186104|Davaina]]: Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė krikščionybę ir pasiliko Lenkijoje.
 - susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-82297|Elžbieta]]: 1227 m. rugsėjo 11 d. Ortrante mirė šventos Elžbietos vyras landgrafas.
 - susijęs iš [[objektai/asmenys/Feliksas Liangurga.md#claim-t-87500|Feliksas Liangurga]]: 1548 m. Feliksas Liangurga buvo iš Krokuvos kilęs Vilniaus vaitas ir uolus katalikas.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176330|Gediminas]]: Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176361|Gediminas]]: Šv. Kryžiaus ir dominikonų bažnyčių griuvėsiai Vilniuje buvo laikomi Gedimino palankumo krikščionybei atminimu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-183532|Gediminas]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176330|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176361|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Šv. Kryžiaus ir dominikonų bažnyčių griuvėsiai Vilniuje buvo laikomi Gedimino palankumo krikščionybei atminimu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-183532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
+- susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-188535|Gerimantas]]: Narbutas perteikia Mitrofano Pinskiečio metraščio žinią, kad Gerimantui sumanius statyti šventyklą Šventaragis siuntė pasiuntinius pas Nemuno orakulą.
 - susijęs iš [[objektai/asmenys/Gerlachas Rudasis.md#claim-t-60289|Gerlachas Rudasis]]: Gerlachas Rudasis atvyko iš Livonijos ir pranešė, kad magistras Folkvinas, daug brolių bei maldininkų krito kovoje.
 - susijęs iš [[objektai/asmenys/Gotfridas Lindenas.md#claim-t-87509|Gotfridas Lindenas]]: Ordino maršalas Gotfridas Lindenas sudegino Semeliškes Trakų paviete ir, nepajėgęs staiga užimti Vilniaus, grįžo plėšti apylinkių.
 - susijęs iš [[objektai/asmenys/Heidenrichas.md#claim-t-60302|Heidenrichas (kunigas)]]: Brolis Heidenrichas, tos pačios pilies kunigas, matė ir viešai skelbė pasakojimą apie medinio nukryžiuotojo palaiminimą.
@@ -192,6 +202,7 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Laurynas Volskis.md#claim-t-87442|Laurynas Volskis]]: Vilniaus kanauninkas Laurynas Volskis prisidėjo 250 auksinų prie sumos, kuri išaugo iki 4000 auksinų.
 - susijęs iš [[objektai/asmenys/Marcelis Suchodolskis.md#claim-t-87772|Marcelis Suchodolskis]]: Vilniaus kanauninkas Marcelis Suchodolskis prie fundacijos sumos prisidėjo 500 auksinų.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-183560|Mindaugas (valdovas, XIII a.)]]: Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą.
+- susijęs iš [[objektai/asmenys/Mozė.md#claim-t-188598|Mozė]]: Narbutas mini Florencijos tapybos paminkluose pavaizduotą varinį žaltį, kurį Mozė dykumoje įsakė išliedinti.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184821|Petras Goštautas]]: Petras Goštautas įsakė surasti nužudytų vienuolių kūnus ir palaidoti juos aikštėje, kur jie skelbė Kristaus žodį.
 - susijęs iš [[objektai/asmenys/Pilypas Frizijus.md#claim-t-87562|Pilypas Frizijus]]: 1631 m. kunigas Pilypas Frizijus prie Vilniaus kapitulos 4000 auksinų pridėjo 1500 savų ir 5500 auksinų perdavė Vilniaus kahalo žydams.
 - susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59999|Pipinas]]: Pipinas buvo vienas pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją.
@@ -202,10 +213,13 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114001|Valerijonas Protasevičius (vyskupas)]]: 1579 m. kovo 6 d. Valerijonas Protasevičius fundacijos teise užrašė Akademijai ir kolegijai tris mūrinius namus.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114011|Valerijonas Protasevičius (vyskupas)]]: 1579 m. Vilniuje duotą Bursos įkūrėjo atminimo aktą vyskupas Valerijonas pasirašė savo ranka.
 - susijęs iš [[objektai/asmenys/Vinrichas Kniprodė.md#claim-t-87591|Vinrichas Kniprodė]]: Vinrichas Kniprodė 1375 metais dėl staigaus atodrėkio ir upių polaidžio turėjo skubiai trauktis atgal į Prūsiją.
+- susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-188653|Šventaragis]]: Narbutas, remdamasis senu pasakojimu, rašo, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno upės orakulą klausti apie šventyklos ateitį.
+- susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-188654|Šventaragis]]: Narbutas teigė, kad kunigaikštis Šventaragis 1282 m. priėmė lietuvių Vytį kaip valstybinį herbą.
 - susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-60477|Živinbudas]]: Živinbudo, kaip manoma, valdoma priešmindauginė Lietuva 1219 m. sudarė sutartį su Volyne.
 - susijęs iš [[objektai/autoriai/J. Aničas.md#claim-t-39866|J. Aničas]]: J. Aničas parašė biografinę apybraižą „Generolas Silvestras Žukauskas (1861–1937)“.
 - susijęs iš [[objektai/autoriai/M. Perlbachas.md#claim-t-175146|M. Perlbachas]]: M. Perlbachas nagrinėtas aiškinant Dusburgiečio pasakojimo ryšį su 1230 ir 1232 metų popiežiaus bulėmis.
 - susijęs iš [[objektai/autoriai/M. Perlbachas.md#claim-t-175148|M. Perlbachas]]: M. Perlbachas rašė apie senesniąją Olivos kroniką.
+- susijęs iš [[objektai/autoriai/Mitrofanas Pinskietis.md#claim-t-190442|Mitrofanas Pinskietis]]: Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. Šventaragis siuntė pasiuntinius pas Nemuno orakulą.
 - susijęs iš [[objektai/autoriai/V. J. Mansikka.md#claim-t-31028|V. J. Mansikka]]: V. J. Mansikka 1922 m. Helsinkyje paskelbė šaltinių tomą apie rytų slavų religiją.
 - susijęs iš [[objektai/daiktai/Habdankas.md#claim-t-186862|Habdankas]]: Habdanko ženklas sudarė Dubnios herbo atmainos detalę: baltą W raidę apatiniame kairiajame raudono skydo kampe.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92963|Herbai]]: Gedimino stulpai ir Jogailos kryžius XVI a. viduryje buvo pavaizduoti herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.
@@ -214,6 +228,7 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra.md#claim-t-23463|Nelegaliai išspausdinta religinė literatūra]]: Religinėse manifestacijose maldininkai įsigydavo nelegaliai išspausdintų maldaknygių, katekizmų ir Šventojo Rašto leidinių.
 - susijęs iš [[objektai/daiktai/Paplotėlis.md#claim-t-59699|Paplotėlis]]: Žygio prieš Lietuvą metu broliui Albertui prie burnos pasirodė Viešpaties kūnas paplotėlio pavidalu.
 - susijęs iš [[objektai/daiktai/Religinės relikvijos.md#claim-t-23464|Religinės relikvijos]]: Religinėse manifestacijose maldininkai įsigydavo draustų religinių relikvijų ir nelegaliai išspausdintos religinės literatūros.
+- susijęs iš [[objektai/daiktai/Sibilės plytos su hieroglifais.md#claim-t-189648|Sibilės plytos su hieroglifais]]: Narbutas perpasakojo legendą, kad Nemuno orakulas liepė pagaminti 122 plytas su hieroglifais, iš kurių turėjo būti pranašaujami metai.
 - susijęs iš [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu.md#claim-t-87061|Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]: 1548 metais Vilniaus miesto herbas buvo šv. Kristoforo atvaizdas raudoname fone.
 - susijęs iš [[objektai/daiktai/Žirgai.md#claim-t-59717|Žirgai]]: Henriko arklys naktį sustojo prie skardžio, nes matė pavojų, kurio raitelis tamsoje negalėjo išvysti.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172095|Dominikonų ordinas]]: Algirdo laikais sugriautos dominikonų ordino brolių bažnyčios griuvėsiai išlaikė Gedimino palankumo krikščionybei atminimą.
@@ -240,6 +255,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171424|Totoriai]]: Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176089|Vilniaus kapitula]]: 1631 m. Vilniaus kapitula kunigui Pilypui Frizijui davė 4000 auksinų.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176098|Vilniaus kapitula]]: 1631 m. Vilniaus kapitula 4000 auksinų perdavė kunigui Pilypui Frizijui, o šis padidintą sumą atidavė Vilniaus kahalui.
+- susijęs iš [[objektai/ivykiai/1387 m. pirmoji ranka Vilniaus šventyklai sugriauti.md#claim-t-189616|1387 m. pirmoji ranka Vilniaus šventyklai sugriauti]]: Narbutas pasakoja, kad 1387 m., pirmadienį po Baltojo sekmadienio, buvo pakelta pirmoji ranka Vilniaus šventyklai sugriauti.
 - susijęs iš [[objektai/ivykiai/Akono miesto sugriovimas (1290 m. gegužės 19 d.).md#claim-t-62739|Akono miesto sugriovimas (1290 m. gegužės 19 d.)]]: 1290 m. gegužės 19 d. sultonas sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė daug krikščionių.
 - susijęs iš [[objektai/ivykiai/G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje.md#claim-t-20184|G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje]]: 1418 m. Vytauto į Konstancą siųstos G. Camblako delegacijos mišios Konstanco katedroje buvo išsamiai vaizduojamos to meto kronikose.
 - susijęs iš [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.).md#claim-t-62814|Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]: Po Folkvino ir daugelio brolių žūties popiežius įsakė Livonijos Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius.
@@ -277,6 +293,7 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67161|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, tarsi atstūmė Lietuvą nuo krikščionybės.
 - susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto.md#claim-t-183323|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]: Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, bet Europa nebeleido valstybėms savarankiškai krikštytis.
 - susijęs iš [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas.md#claim-t-05354|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]: Jogailos įsakymu lietuviams buvo draudžiamos mišrios santuokos su rusais ir nekatalikais, kol antroji pusė priims katalikų tikėjimą.
+- susijęs iš [[objektai/paprociai/Metų pranašavimas iš orakulo nurodytų plytų.md#claim-t-189847|Metų pranašavimas iš orakulo nurodytų plytų]]: Narbutas pasakoja, kad apvaliame šventyklos bokšte orakulo nurodytos plytos su ženklais turėjo rodyti gerus ar prastus metus.
 - susijęs iš [[objektai/paprociai/Ordino karo religinio įprasminimo praktika.md#claim-t-67174|Ordino karo religinio įprasminimo praktika]]: Petras iš Dusburgo užkariavimus ir žudynes „viešpaties kare“ aukštino, Ordino riterių ginklams suteikdamas šventumo aureolę.
 - susijęs iš [[objektai/paprociai/Ordino karo religinio įprasminimo praktika.md#claim-t-67176|Ordino karo religinio įprasminimo praktika]]: 600; PD, III, 58) formą, Ordino aktuose vartotą nuo XIII a.
 - susijęs iš [[objektai/paprociai/Senjoro atsakomybė už pavaldinio tikėjimą.md#claim-t-183335|Senjoro atsakomybė už pavaldinio tikėjimą]]: Feodaliniuose senjoro ir pavaldinio santykiuose senjorui priskirta atsakomybė už pavaldinio išganymą.
@@ -297,6 +314,7 @@ Nenurodyta
 - susijęs iš [[objektai/posakiai/„švento valdovo“ įvaizdis.md#claim-t-20971|„švento valdovo“ įvaizdis]]: Vytauto politika buvo siejama su „švento valdovo“ įvaizdžiu, lyginant jį su šventuoju tapusiu Vengrijos valdovu Steponu.
 - susijęs iš 1579 m. kovo 6 d. Valerijono Protasevičiaus fundacijos užrašymas Akademijai ir Collegio: 1579 m. kovo 6 d. Vilniaus vyskupas Valerijonas Protasevičius fundacijos teise užrašė Akademijai ir Collegio tris mūrinius namus.
 - susijęs iš Generolas Silvestras Žukauskas (1861-1937): Jono Aničo biografinė apybraiža „Generolas Silvestras Žukauskas (1861–1937)“ išleista Vilniuje 2006 m.
+- susijęs iš Mitrofano Pinskiečio rusiškas metraštis: Narbutas Mitrofano Pinskiečio rusiškam metraščiui priskiria pasakojimą, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno orakulą dėl Gerimanto statomos šventyklos ateities.
 - susijęs iš Preussisches Urkundenbuch: „Preussisches Urkundenbuch“ nurodomas prie teiginio, kad Kristijonas 1215 m. antroje pusėje arba 1216 m. pradžioje paskelbtas pirmuoju Prūsijos vyskupu.
 - susijęs iš Pskovskije letopisi: Pskovskije letopisi 1-asis leidimas buvo išleistas Maskvoje-Leningrade 1941 m.
 - susijęs iš Vilniaus miesto planas Jogailos laikais: Vilniaus miesto planas Jogailos laikais žymėjo Aukštutinę pilį, Kreivąją pilį, Perkūno šventyklą, kelius, bažnyčias ir vienuolynus.
@@ -321,21 +339,21 @@ Nenurodyta
 - susijęs iš Lietuva: 1219 m. priešmindauginė Lietuva, greičiausiai valdoma Živinbudo ir susijungusi su Žemaitija, sudarė sutartį su Volyne.
 - susijęs iš Lietuva: Žygio prieš Lietuvą metu Karaliaučiaus komtūrui Albertui meldžiantis, kronikoje aprašytas viešpaties kūno pasirodymas paplotėlio pavidalu.
 - susijęs iš Melnikas: Lietuvos metraštyje Jogailos karas su Mazovija ir lenkais aiškinamas tuo, kad Mazovijos kunigaikštis, lenkų padedamas, buvo užgrobęs Drohičiną ir Melniką.
-- susijęs iš Nemunas: Dusburgiečio pasakojime iš Lietuvos traukianti brolių kariuomenė vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą.
-- susijęs iš Nemunas: Susitikimas vyko Salyne, Nemuno saloje prie dabartinės Kulautuvos.
-- susijęs iš Nemunas: Vytauto ir magistro susitikimas įvyko Salyne, Nemuno saloje netoli dabartinės Kulautuvos.
 - susijęs iš Palestina: Europoje skelbiami kryžiaus karai prieš turkus Palestinoje skatino savanorius karius vykti į kovas su pagonimis.
 - susijęs iš Poleksija: Goštautui išvykus į Tikociną Palenkėje, arba Poleksijoje, Vilniuje minia nužudė krikščionių tikėjimo skelbėjus.
 - susijęs iš Pomeranija: 1246 m. magistras ir broliai su sąjungininkais įsiveržė į Pomeraniją ir devynias dienas bei naktis ją niokojo.
 - susijęs iš Prūsija: 1375 m. ekspedicija iš Prūsijos sukėlė Vilniui grėsmę.
 - susijęs iš Prūsija: Dusburgiečio kronikoje teigiama, kad kryžiaus karui „viešpats pasirinko Prūsijos žemę“, o Ordino veiksmai laikyti Dievo veiksmais.
 - susijęs iš Prūsija: 1375 m. ekspedicija iš Prūsijos sukėlė Vilniui grėsmę.
+- susijęs iš Pulavai: Narbutas rašo matęs Trakų pilies tyrimų žinias ir piešinius, kuriuos buvusio Vilniaus universiteto narys pasiuntė į Pulavus.
 - susijęs iš Santyras: Petras Dusburgietis Santyro pilį apibūdino kaip pastatytą kenkti tikėjimui ir tikintiesiems.
 - susijęs iš Sirija: Kronikoje atpasakotoje kryžiaus žygių istorijoje aprašyti totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis.
 - susijęs iš Sirija: Dusburgo kronikoje aprašomi totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis.
 - susijęs iš Sirija: Petras iš Dusburgo kryžiaus žygių istorijoje aprašė totorių ir mongolų žygius prieš Siriją bei kitas musulmoniškąsias šalis.
 - susijęs iš Tikocinas: Goštautas kartą išvyko į Tikociną Palenkėje, arba Poleksijoje.
 - susijęs iš Tikocinas: Tikocine pas Zaleskį buvę bažnytiniai reikmenys turėjo būti perduoti Vilniaus Šv. Onos bažnyčiai.
+- susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį.
+- susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį.
 - susijęs iš Valerijono Bursa (sujungti pirminiai pavadinimai Valerijono bursos; Valerijono Bursa): 1579 m. Vilniaus vyskupas Protasevičius nustatė, kad Akademijai užrašyti namai būtų vadinami Valerijono bursomis.
 - susijęs iš Valerijono bursos: 1579 m. Vilniaus vyskupas Protasevičius nustatė, kad Akademijai užrašyti namai būtų vadinami Valerijono bursomis.
 - susijęs iš Vilnius: Vilniuje minia nužudė keturiolika krikščionių vienuolių: septynis aikštėje, o septynis prie Plikojo kalno.
@@ -399,6 +417,8 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
+- [[objektai/grupes/Pranciškonų ordinas]] pastate Kryžius
+- Kryžius priklause [[objektai/vietos/Trakų pilis|Trakų pilis (pilis)]]
 - Kryžius priklause [[objektai/vietos/Krokuva]]
 - Kryžius priklause [[objektai/asmenys/Fridrichas II]]
 - Kryžius priklause [[objektai/asmenys/Hermanas]]

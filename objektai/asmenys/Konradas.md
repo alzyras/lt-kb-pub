@@ -101,11 +101,9 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - susijęs iš [[objektai/asmenys/Helvigas fon Goldbachas.md#claim-t-186208|Helvigas fon Goldbachas]]: Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą.
 - susijęs iš [[objektai/asmenys/Henrikas iš Berkos.md#claim-t-60311|Henrikas iš Berkos]]: Henrikas iš Berkos iš Tiuringijos buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
 - susijęs iš [[objektai/asmenys/Hermanas Balkas.md#claim-t-89816|Hermanas Balkas]]: 1230 m. didysis magistras Hermanas iš Zalcos pasiuntė Hermaną Balką eiti magistro pareigų Prūsijoje.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93432|Kristijonas]]: 1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93432|Kristijonas (vyskupas, XIII a.)]]: 1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59894|Mstivojus]]: Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią.
 - susijęs iš [[objektai/asmenys/Petras (Krokuvos vaivada).md#claim-t-186155|Petras (Krokuvos vaivada)]]: Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-184897|Švitrigaila]]: Konradui du mėnesius nesėkmingai puolus Vilnių, Švitrigaila nutarė miesto puolime griebtis apgaulės.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65110|Dobrynės broliai]]: Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65113|Dobrynės broliai]]: 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.
@@ -227,7 +225,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - Konradas gyne [[objektai/vietos/Semba]]
 - Konradas paskyre [[objektai/grupes/Kryžiuočių ordinas]]
 - Konradas siunte_i [[objektai/vietos/Semba]]
-- Konradas puole [[objektai/grupes/Lietuviai]]
 - Konradas keliavo_i [[objektai/vietos/Nagutinas]]
 - Konradas sudare_sutarti_su [[objektai/grupes/Dobrynės broliai]]
 - Konradas buvo_sajungininkas_su [[objektai/asmenys/Albrechtas iš Hageno]]

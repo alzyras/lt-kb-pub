@@ -68,7 +68,7 @@ Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas n
   ryšio_targeto_parinkimas: Arkivyskupija: mention_match, thing, gap=41
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Teofilis (arkivyskupas)" parinktas kaip owner_note_path. Targetas "Arkivyskupija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/zodynas/Arkivyskupija.md#claim-t-32746|Arkivyskupija]]: Naugarduke Gedimino palaikyta Lietuvos stačiatikių arkivyskupija apie 1330 m. žlugo po arkivyskupo Teofilio mirties.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176360|Gediminas]]: Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176360|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
 - susijęs iš Naugardukas: Gediminas Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
 - susijęs iš Naugardukas: Gediminas Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
 - susijęs iš [[objektai/zodynas/metropolija.md#claim-t-05446|metropolija]]: Kijevo metropolijos rezidencija buvo perkelta į Vladimirą Maskvos žemėse.

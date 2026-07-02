@@ -422,12 +422,11 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 - susijęs iš [[objektai/asmenys/Nameisis.md#claim-t-60394|Nameisis]]: 1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį.
 - susijęs iš [[objektai/asmenys/Ptolemajas.md#claim-t-17607|Ptolemajas]]: Ptolemajas II a. žinojo galindus ir jotvingius, arba sūduvius.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90055|Traidenis (valdovas, XIII a.)]]: 1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario, siekdamas sulaikyti kryžiuočius nuo Sūduvos.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/daiktai/Apgulties mašinos.md#claim-t-179463|Apgulties mašinos]]: 1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175550|Kalavijuočių ordinas]]: Kalavijuočių ordinas, bijodamas vienas neatsilaikyti, susidėjo su Prūsuose kariavusiu Kryžiuočių ordinu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178899|Kryžiuočių ordinas]]: Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65567|Kuršiai]]: Livonijoje sukilę kuršiai buvo pajungti tik po septynerių metų kovos, 1267 m.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188223|Latviai]]: Pasak Stenderio, latviai kiekvieną deivę vadino motina, o dievą - tėvu, todėl mitus siejo su vyriškąja ir moteriškąja dievybės lytimis.
 - susijęs iš [[objektai/grupes/Lietgaliai.md#claim-t-184331|Lietgaliai]]: Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų.
 - susijęs iš [[objektai/grupes/Lietgaliai.md#claim-t-31268|Lietgaliai]]: Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175124|Sūduviai-jotvingiai]]: 1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.

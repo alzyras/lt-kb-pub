@@ -4,6 +4,7 @@ pavadinimas: 'Simonas Daukantas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1793 m.'
   - '1875 m.'
@@ -11,16 +12,16 @@ date_start: '1793'
 date_end: '1875'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - dokumentas
-  - kraštas
-  - valstybė
 amziai:
   - 'XVIII'
   - 'XIX'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - dokumentas
+  - kraštas
+  - valstybė
 ---
 # Simonas Daukantas
 
@@ -29,7 +30,6 @@ periodo_grupes:
 Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu. Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais.
 
 ## Teiginiai
-
 <a id="claim-t-105707"></a>
 - t-001
   global_id: t-105707
@@ -170,25 +170,57 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   ryšio_subjekto_parinkimas: Simonas Daukantas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=61
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simonas Daukantas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-105714"></a>
+- t-008
+  global_id: t-105714
+  teiginys: 'Manoma, kad Simonas Daukantas tuo metu jau buvo parašęs „Darbus senųjų lietuvių ir žemaičių“.'
+  pagrindžia:
+    - c-007
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 91482-91786; hash=127516425078ef4911e9565f6344edb6917f8224e90c4bd5375692d31c4b0fd2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Simonas Daukantas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simonas Daukantas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188607"></a>
+- t-009
+  global_id: t-188607
+  teiginys: 'Savo „Darbų“ pratarmėje Simonas Daukantas rašė: „<...> aš ne dėl mokytų vyrų ir galvočių, bet dėl tų motinų rašiau“.'
+  pagrindžia:
+    - c-008
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 91787-92038; hash=6f56820921ae47c3eeea97d7de63a68c6846c5c8ab859f000926d9db7221b80c; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Simonas Stanevičius.md#claim-t-169894|Simonas Stanevičius]]: Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, laikomu kone tautinio kultūrinio sąjūdžio himnu ar manifestu.
 - susijęs iš [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba.md#claim-t-67138|Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]: Lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“.
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186516|Teodoras Narbutas]]: Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos praeities veikalų buvo nedaug.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182792|Michał Baliński Mykolas Balinskis]]: Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m.
 - susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55013|Mykolas Balinskis]]: Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m.
-- susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-187872|Baltarusiai]]: Įvadiniame straipsnyje baltarusiai priskiriami Lietuvos Didžiosios Kunigaikštystės politinio, socialinio ir kultūrinio paveldo arealui.
+- susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-187872|Baltarusiai]]: Baltarusiai įtraukiami į Istorinės Lietuvos, arba Lietuvos Didžiosios Kunigaikštystės, politinio, socialinio ir kultūrinio paveldo arealą.
 - susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-187882|Lietuvos bajorija]]: Įvadinio straipsnio autorius XVI–XVIII a. lietuvį istorinėje Lietuvoje apibrėžia kaip bajorą, gynusį politines laisves ir Lietuvos Statuto teises.
 - susijęs iš [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas.md#claim-t-54747|Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]: Istorikų darbai buvo aptarinėjami bajorų pobūviuose.
 - susijęs iš [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas.md#claim-t-54748|Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]: Privačiose kolekcijose buvo kaupiami archeologiniai radiniai ir meno objektai.
 - susijęs iš [[objektai/posakiai/„Šlovė žemaičių“.md#claim-t-77862|„Šlovė žemaičių“]]: Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, vadinamu kone žemaičių sąjūdžio himnu ar poetiniu manifestu.
 - susijęs iš Būdas senovės lietuvių, žemaičių ir kalnėnų: Simonas Daukantas išleido beletrizuotą etninių lietuvių kultūros studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“.
 - susijęs iš Darbai žemaičių ir lietuvių: Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“, kai Lietuvos praeities tyrimų dar buvo nedaug.
+- susijęs iš Herbynas: Simonas Daukantas atsiuntė Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną“, Lietuvos bajorų giminių genealogijų rinkinį.
 - susijęs iš Lietuvių tautos istorija: 1835 m. pasirodė pirmasis Teodoro Narbuto „Lietuvių tautos istorijos“ tomas.
 - susijęs iš Lietuvių tautos istorija: Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvoje stigo veikalų apie krašto istoriją nuo seniausių laikų.
 - susijęs iš Šlovė žemaičių: Simono Stanevičiaus poezijos knygoje išspausdintas eilėraštis „Šlovė žemaičių“ laikytas etninių lietuvių tautinio kultūrinio sąjūdžio poetiniu manifestu.
 - susijęs iš Šlovė žemaičių: Eilėraštis „Šlovė žemaičių“ laikytas kone šio sąjūdžio himnu ar poetiniu manifestu.
 - susijęs iš Žemaičių vyskupystės istorija: Simonas Daukantas įkalbino Motiejų Valančių Sankt Peterburge rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.
+- susijęs iš Lietuva: 1506 m. rugpjūtį ties Kłecku pasiekta Lietuvos pergalė užkirto Krymo ordai kelią į artimiausias valstybės vaivadijų sostines.
+- susijęs iš Lietuva: Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie tuvos palikimą.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -302,3 +334,36 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-007
+  santrauka: 'Manoma, kad Simonas Daukantas tuo metu jau buvo parašęs „Darbus senųjų lietuvių ir žemaičių“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Manoma, kad tuo metu jau buvo parašyti
+    S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
+    buvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo
+    persirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­
+    rytum pastangų parašyti lietuvių tautos istoriją iki pat 1829
+    metų ir nebuvo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-008
+  santrauka: 'Savo „Darbų“ pratarmėje Simonas Daukantas rašė: „<...> aš ne dėl mokytų vyrų ir galvočių, bet dėl tų motinų rašiau“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Galbūt geriausiai šį faktą paaiškintų paties
+    S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­
+    kytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba
+    savo vaikams darbus jų bočių prabočių papasakoti, o be raštų
+    daug kartų apsirinka“12.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009

@@ -85,6 +85,8 @@ Nenurodyta
 - susijęs iš Antakalnis: Dabartinio Antakalnio užuomazgos buvo vienišos trobos palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.
 - susijęs iš Lukiškės: Ankstyvojo Vilniaus aprašyme Lukiškėse šventų girių kryptimi buvo išsibarsčiusios vienišos trobos.
 - susijęs iš [[objektai/daiktai/Žibintojas.md#claim-t-08364|Žibintojas]]: Ant akmens, vadinamo žibintoju, sukurdavo ugnį vakarojant.
+- susijęs iš [[objektai/paprociai/Chauturej arba Dziady metinis mirusių giminaičių ir bičiulių paminėjimas.md#claim-t-189800|Chauturej arba Dziady metinis mirusių giminaičių ir bičiulių paminėjimas]]: Narbutas rašo, kad per Dziady pirmoji gėrimo taurė būdavo skiriama mirusiųjų vėlių dievybėms ir statoma už lango.
+- susijęs iš [[objektai/paprociai/Vėlinės po Ilgių šventės ir kaimo mirusiųjų pagerbimas.md#claim-t-189952|Vėlinės po Ilgių šventės ir kaimo mirusiųjų pagerbimas]]: Narbutas aprašo Vėlinių paprotį, kai mirusiųjų vėlės pirmiausia kviestos į pirtį, o joms paruošti prausimo reikmenys ir drabužiai.
 ## Reikšmingi paminėjimai
 
 - c-001

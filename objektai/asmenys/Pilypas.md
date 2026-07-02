@@ -49,11 +49,11 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   ryšio_subjekto_parinkimas: Pilypas: llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
   ryšio_paaiskinimas: Citata tiesiogiai sako, kad Pilypas atvyko į Prūsiją.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184889|Vytenis]]: Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184889|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo.
 - susijęs iš [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara).md#claim-t-35895|Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]: 1394 m. vasaros žygyje į Lietuvos gilumą dalyvavo svečiai iš Vakarų Europos ir Burgundijos hercogas Pilypas su 200 šaulių.
 - susijęs iš [[objektai/ivykiai/Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.).md#claim-t-185670|Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)]]: 1305 m. Pilypas fon Bolandas, pasinaudojęs kunigaikščių ir bajorų išvykimu, nusiaubė Lietuvos pasienio kaimiečius.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184611|fogtas]]: Sembos vyskupystės fogtas Pilypas fon Bolandas pasinaudojo Vytenio sušauktu luomų pasitarimu ir nusiaubė pasienio kaimiečius.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184889|Vytenis]]: Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184889|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -80,4 +80,4 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 ## Ryšiai
 - Pilypas keliavo_i [[objektai/vietos/Prūsija]]
 - Pilypas puole [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Vytenis]] kariavo_pries Pilypas
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] kariavo_pries Pilypas

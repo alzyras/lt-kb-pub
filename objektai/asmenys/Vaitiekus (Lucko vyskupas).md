@@ -51,7 +51,7 @@ periodo_grupes:
 - susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.).md#claim-t-07572|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]: Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.
 - susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.).md#claim-t-07573|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]: Po žūties aisčių krašte vyskupas Vaitiekus buvo paskelbtas šventuoju ir krikščionybės kankiniu.
 - susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis.md#claim-t-01895|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]: Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93427|Kristijonas]]: Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93427|Kristijonas (vyskupas, XIII a.)]]: Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius.
 - susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis.md#claim-t-01894|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]: Kunigaikštis Boleslovas išpirko nužudytų misijonierių lavonus.
 ## Reikšmingi paminėjimai
 

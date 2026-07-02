@@ -71,13 +71,11 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
     irgi sėkmingai pasitraukė.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais buvo paliktas pridengti besitraukiančios traukinio įgulos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -88,10 +86,9 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
     valandas neleido lenkams prisiartinti prie traukinio.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
 

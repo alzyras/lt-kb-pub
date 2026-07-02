@@ -4,6 +4,7 @@ pavadinimas: 'Betygala'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1254 m.'
@@ -14,11 +15,11 @@ date_start: '1254'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Betygala
 
@@ -27,7 +28,6 @@ amziai:
 Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš Vytauto funduotų Žemaitijos bažnyčių vietų.
 
 ## Teiginiai
-
 <a id="claim-t-179756"></a>
 - t-001
   global_id: t-179756
@@ -97,6 +97,25 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   ryšio_subjekto_parinkimas: Betygala: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Dubysa: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Betygala" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+<a id="claim-t-188676"></a>
+- t-006
+  global_id: t-188676
+  teiginys: 'Narbutas Betygalos pavadinimą kildino iš keliautojų dainos žodžių „Bet ir galas, bet yra galas“, esą išreiškusių kelionės pabaigos džiaugsmą.'
+  pagrindžia:
+    - c-005
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 375332-375860; hash=2714bfadeb9dc43a2037515ce049dd77dc0208b549cbc3e913a102e2a605f995; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Kėdainiai: 0.58
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: NKVD: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kėdainiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas sieja NKVD Betygalos stribus su užduotimi Kėdainių apskrityje, bet judėjimo kryptis yra grįžimas iš ten.
 - susijęs iš Aukokalnis: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
 - susijęs iš Dubysa: Žemaitijos apaštalavimo kelionė vyko Nemunu iki Dubysos upės ir ja iki Aukokalnio ties dabartine Betygala.
 - susijęs iš Dubysa: 1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala.
@@ -107,10 +126,14 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
 - susijęs iš Raseinių apskritis: 1945 m. vasario 15 d. Raseinių apskrityje Vlado Pabarčiaus partizanų būrys surengė pasalą NKVD Betygalos stribams.
 - susijęs iš Uturiai: Uturiai buvo prie Betygalos.
 - susijęs iš Šilainiai: 1945 m. vasario 15 d. prie Šilainių miško Vlado Pabarčiaus partizanų būrys surengė pasalą NKVD Betygalos stribams, žuvo 6 stribai.
+- susijęs iš [[objektai/asmenys/Nemunas (jūrininkas).md#claim-t-190076|Nemunas (jūrininkas)]]: Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje prie Nemuno.
 - susijęs iš Užsienio Lietuvių Spaudos Metraštis: „Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
 - susijęs iš Dubysa: Žygio į Žemaitiją metu kelias Nemunu vedė iki Dubysos upės ir toliau iki Aukokalnio.
+- susijęs iš Nemunaitis: Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.
+- susijęs iš Nemunas: Nemunas prasideda Rusios valdose, prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.
+- susijęs iš Nemunas: Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.
+- susijęs iš Trakų apskritis: Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje, Trakų apskrityje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1945 m. vasario 15 d. NKVD Betygalos stribai prie Šilainių miško pateko į Vlado Pabarčiaus partizanų būrio pasalą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -184,3 +207,24 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-005
+  santrauka: 'Narbutas Betygalos pavadinimą kildino iš keliautojų dainos žodžių „Bet ir galas, bet yra galas“, esą išreiškusių kelionės pabaigos džiaugsmą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Plaukdami tolyn,
+    jie pateko į neaprėpiamus miškus ir, susidūrę su daugybe kliū­
+    čių, trukdančių toliau keliauti, kalbėjo: E-ira galas, nėra ga­
+    lo; toji vieta buvo praminta Eiriogala (Ariogala), o miestelis
+    iki šiol tebesivadina tokiu vardu. Siek tiek pasistūmėję upe
+    aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
+    ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
+    nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
+    (Betygola) pavadinimas. Šių keliautojų vadas vadinosi Nemu­
+    nas (Nemon).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006

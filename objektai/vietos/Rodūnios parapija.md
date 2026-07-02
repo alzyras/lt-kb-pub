@@ -1,0 +1,56 @@
+---
+tipas: vieta
+pavadinimas: 'Rodūnios parapija'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+sukurta: ''
+atnaujinta: ''
+---
+# Rodūnios parapija
+
+## Santrauka
+
+Narbutas Rodūnios parapiją mini kaip Lydos krašto vietą, kur netoli vienas kito buvo Leliušių ir Lelionių kaimai.
+
+## Teiginiai
+<a id="claim-t-189051"></a>
+- t-001
+  global_id: t-189051
+  teiginys: 'Narbutas Rodūnios parapiją mini kaip Lydos krašto vietą, kur netoli vienas kito buvo Leliušių ir Lelionių kaimai.'
+  pagrindžia:
+    - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 179175-179508; hash=8cb68d6d0f7bb0d8a4a36fc0f39b869f0e96ed1ba8096dfabd4ca5b26a005628; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Rodūnios parapija: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Leliušiai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Rodūnios parapija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Leliušiai aprašomi kaip kaimas Rodūnios parapijoje.
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas Rodūnios parapiją mini kaip Lydos krašto vietą, kur netoli vienas kito buvo Leliušių ir Lelionių kaimai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Vie­
+    noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­
+    lius. Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito
+    yra du kaimai: Leliušių (Lelusze) ir Lelionių (Lelaiice); taip pat
+    Trakų apskrityje, ponų Gorskių dvare, yra Lelionių milžinka­
+    pis. Visa tai paaiškina dar mažai ištirtus Siaurės mitologijos mi­
+    tus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+- [[objektai/vietos/Leliušiai]] priklause Rodūnios parapija

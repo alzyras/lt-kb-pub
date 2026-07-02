@@ -94,6 +94,7 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
 - susijęs iš Daugavgryvos pilis (pilis): Ordinui įsigijus Daugavgryvos pilį Dauguvos žiotyse, rygiečiai ją šturmavo 1328 m. liepą.
 - susijęs iš [[objektai/autoriai/A. Prochaska.md#claim-t-47872|A. Prochaska]]: A. Prochaska gynė Gedimino laiškų autentiškumą.
 - susijęs iš [[objektai/autoriai/K. Chodynicki.md#claim-t-30731|K. Chodynicki]]: K. Chodynicki gynė Gedimino laiškų autentiškumą.
+- susijęs iš [[objektai/autoriai/Tadeušas Čackis.md#claim-t-190320|Tadeušas Čackis]]: Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179486|Laivai]]: Rygiečiai ir Livonijos kariuomenė laivais judėjo į puolimo vietas.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116691|Hanza]]: Gediminas per rygiečius kreipėsi į Hanzos miestus ir kvietė amatininkus, pirklius, žemdirbius bei riterius vykti į Lietuvą.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116694|Hanza]]: Rygiečiai Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.
@@ -178,11 +179,11 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Rygiečiai
-- Rygiečiai buvo_sajungininkas_su [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Gediminas]] buvo_sajungininkas_su Rygiečiai
+- Rygiečiai buvo_sajungininkas_su [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] buvo_sajungininkas_su Rygiečiai
 - Rygiečiai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
 - Rygiečiai prekiavo_su [[objektai/vietos/Lietuva]]
 - Rygiečiai buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
 - Rygiečiai puole [[objektai/vietos/Daugavgryva]]
-- [[objektai/asmenys/Vytenis]] buvo_sajungininkas_su Rygiečiai
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] buvo_sajungininkas_su Rygiečiai
 - Rygiečiai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]

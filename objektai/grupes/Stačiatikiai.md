@@ -96,8 +96,8 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - susijęs iš [[objektai/asmenys/Ciprijonas.md#claim-t-35044|Ciprijonas]]: Ciprijonas buvo bulgaras ir atskiras Kijevo metropolitas Lietuvai, vėliau Maskvoje suvienijęs Rusijos ir Lietuvos stačiatikius.
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93202|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Focijus siuntė Lietuvos stačiatikiams raštus, kuriuose kaltino Gregorijų Cemblaką ir reikalavo jį ištremti iš Lietuvos.
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93204|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Focijus Lietuvos stačiatikiams siuntė raštus, kuriuose kaltino Gregorijų Cemblaką ir reikalavo jį ištremti iš Lietuvos.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05170|Gediminas]]: Gediminas iki gyvenimo galo liko pagonis, nieko dėl religinių priežasčių nepersekiojo ir Naugarduke palaikė atskirą Lietuvos stačiatikių arkivyskupiją.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176360|Gediminas]]: Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05170|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas iki gyvenimo galo liko pagonis, nieko dėl religinių priežasčių nepersekiojo ir Naugarduke palaikė atskirą Lietuvos stačiatikių arkivyskupiją.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176360|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
 - susijęs iš [[objektai/asmenys/Jonas Kristupas Glaubicas.md#claim-t-23203|Jonas Kristupas Glaubicas]]: Jonas Kristupas Glaubicas kūrė liuteronams, katalikams, graikams katalikams, stačiatikiams ir žydams.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176511|Julijona (Algirdo žmona)]]: Julijoną su Rytų Bažnyčia siejo praeitis, tradicijos, tautybė ir jos giminės stačiatikių šventieji.
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87350|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: 1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.
@@ -163,7 +163,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93200|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: 1408 m. Konstantinopolio patriarchas metropolitu paskyrė Maskvos kandidatą graiką Focijų.
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93203|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: 1408 m. Konstantinopolio patriarchas metropolitu paskyrė Maskvos kandidatą graiką Focijų.
 - susijęs iš [[objektai/asmenys/Fotijus.md#claim-t-82302|Fotijus]]: Fotijus 1408-1431 m. buvo pripažintas Kijevo ir visos Rusios metropolitu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176327|Gediminas]]: Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu ir rodo nuoseklią Lietuvos europėjimo programą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176327|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu ir rodo nuoseklią Lietuvos europėjimo programą.
 - susijęs iš [[objektai/asmenys/Gregorijus (Vladimiro vyskupas).md#claim-t-35082|Gregorijus (Vladimiro vyskupas)]]: Bonifacas IX domininkoną Gregorijų paskyrė Vytauto įkurtos Vladimiro vyskupijos Volynijoje vyskupu.
 - susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93284|Gregorijus Cemblakas]]: Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu.
 - susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-176408|Jadvyga]]: 1388–1389 m. Algirdaitis dviem raštais prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai.
@@ -255,8 +255,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - susijęs iš Žygimanto 1432 m. Vilniaus Magdeburgo teisių patvirtinimo privilegijos: 1432 m. Vilnius gavo Magdeburgo teisių atnaujinimą ir patvirtinimą dviem privilegijomis lotynų ir rusų kalbomis.
 - susijęs iš Brasta: Vytauto laikais Brasta minima kaip galima pilies statybos vieta Palenkėje, rusėniškose LDK žemėse.
 - susijęs iš Brasta: Vytauto laikais Palenkėje pilys imtos statyti Melnike ir galbūt Brastoje.
-- susijęs iš Gardinas: Vytauto laikais Gardine, Naugarduke, Melnike ir Lucke imta statyti pilis toli nuo etninės Lietuvos.
-- susijęs iš Gardinas: Vytauto laikais Gardine, Juodosios Rusios LDK žemėje, imta statyti gotikines pilis.
 - susijęs iš Kaunas: Vytauto laikais Kaunas kartu su Vilniumi ir Trakais išryškėjo kaip Lietuvos gotikos epicentro dalis.
 - susijęs iš Kijevas: Po Lietuvos krikšto LDK buvo suformuota Kijevo katalikų vyskupija kartu su Vilniaus, Žemaičių ir Lucko vyskupijomis.
 - susijęs iš Konstanca: G. Camblako ekumeninės mišios Konstanco katedroje amžininkams paliko didelį įspūdį ir buvo vaizduojamos to meto kronikose.
@@ -285,6 +283,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - susijęs iš Zapyškis: XV a. pabaigoje–XVI a. pirmame trečdalyje gotika pasiekė provinciją, įskaitant Kėdainius ir Zapyškį.
 - susijęs iš Švedija: 1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama „tvanu“.
 - susijęs iš Švedija: Valdant Vazų dinastijai Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija 1654–1667 metais.
+- susijęs iš Švedija: Narbutas Švediją ir Daniją pateikė kaip kraštus, kuriuose prie didžiųjų šventyklų susirinkdavo gausios žmonių minios.
 - susijęs iš Žemaitija: Po Žalgirio mūšio Žemaitija buvo apkrikštyta 1413 m., o 1417 m. įsteigta Žemaičių vyskupija.
 - susijęs iš [[objektai/zodynas/Arkivyskupija.md#claim-t-32746|Arkivyskupija]]: Naugarduke Gedimino palaikyta Lietuvos stačiatikių arkivyskupija apie 1330 m. žlugo po arkivyskupo Teofilio mirties.
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-183400|Bajorų respublika liberum veto]]: Lenkijoje ir Lietuvoje visuomenės agrarinis pobūdis ir miestų silpnumas lėmė Bajorų respublikos susiformavimą.
@@ -309,7 +308,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba.md#claim-t-22294|rusėnų kalba LDK slavų kanceliarinė kalba]]: Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.
 - susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-22359|„lenkų pradai“ „rusų pradai“]]: „Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, todėl lietuvių kalba į švietimo įstaigas neįleista.
 - susijęs iš [[objektai/zodynas/Arkivyskupija.md#claim-t-32746|Arkivyskupija]]: Naugarduke Gedimino palaikyta Lietuvos stačiatikių arkivyskupija apie 1330 m. žlugo po arkivyskupo Teofilio mirties.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176360|Gediminas]]: Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176360|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -413,7 +412,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 
 ## Ryšiai
 - Stačiatikiai gyveno [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Gediminas]] reme Stačiatikiai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] reme Stačiatikiai
 - Stačiatikiai keliavo_i [[objektai/vietos/Konstanca]]
 - Stačiatikiai gyveno [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] reme Stačiatikiai

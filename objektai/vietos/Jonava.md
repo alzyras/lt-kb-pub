@@ -40,6 +40,7 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
 - susijęs iš [[objektai/grupes/Ypatingasis SD būrys Vilniuje.md#claim-t-20093|Ypatingasis SD būrys Vilniuje]]: Ypatingasis SD būrys Vilniuje (Paneriuose) buvo iš lietuvių sudaryta speciali zonderkomanda, vykdžiusi šaudymus.
 - susijęs iš Kaunas: Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį.
 - susijęs iš Kaunas: Atšilimo laikotarpiu sovietinės industrializacijos metu Lietuvoje pastatyta Kauno hidroelektrinė.
+- susijęs iš Kaunas: Pasak Narbuto minimų vietos padavimų, Kauno Nemuno ir Neries santakoje augusi dievams skirta giraitė tęsėsi iki pilies griuvėsių.
 - susijęs iš Kauno HES: Atšilimo laikotarpiu Kauno HES minima tarp didelių naujų pramonės objektų, statytų sparčios sovietinės industrializacijos ir urbanizacijos metu.
 - susijęs iš Mažeikių naftos perdirbimo įmonė: Septintąjį–aštuntąjį dešimtmetį per sovietinę industrializaciją Lietuvoje pastatyta Mažeikių naftos perdirbimo įmonė.
 - susijęs iš Paneriai: Paneriuose veikęs Ypatingasis SD būrys buvo viena iš dviejų lietuvių zonderkomandų, daugiausia vykdžiusių šaudymus.

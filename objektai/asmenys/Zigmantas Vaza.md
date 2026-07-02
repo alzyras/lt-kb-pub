@@ -71,6 +71,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - c-001
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78204|Lenkijos kariuomenė]]: Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
 - susijęs iš Livonija: 1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu.
+- susijęs iš Livonija: Narbutas rašė, kad 1243 m. Livonijos riteriai, šaukdami tikrojo Dievo vardą, užpuolė lietuvius.
 - susijęs iš Podolė: Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
 - susijęs iš Podolė: Susidarius grėsmingai situacijai, Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir padėti Lenkijos kariuomenei.
 ## Reikšmingi paminėjimai

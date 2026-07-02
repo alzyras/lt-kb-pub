@@ -1,31 +1,35 @@
 ---
 tipas: autorius
-pavadinimas: 'Vytautas Berenis'
+pavadinimas: 'Vytautas Berenis (istorikas, XX–XXI a.)'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1995 m.'
   - '2007 m.'
 date_start: '1995'
 date_end: '2007'
+variantai:
+  - 'Vytautas Berenis'
+aliases:
+  - 'Vytautas Berenis'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
 amziai:
   - 'XX'
   - 'XXI'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
+tags:
+  - autorius
 ---
-# Vytautas Berenis
+# Vytautas Berenis (istorikas, XX–XXI a.)
 
 ## Santrauka
 
 Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istorikas“ ir 1995 m. straipsnio „Provincialų dialogai apie žemaičių tautą“ bibliografine nuoroda.
 
 ## Teiginiai
-
 <a id="claim-t-54651"></a>
 - t-001
   global_id: t-54651
@@ -65,8 +69,29 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
   ryšio_subjekto_parinkimas: Vytautas Berenis: owner_note_path, author, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas Berenis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius – įvedamųjų straipsnių autoriais.
+
+<a id="claim-t-188487"></a>
+- t-003
+  global_id: t-188487
+  teiginys: 'Vytautas Berenis Teodorą Narbutą pavadino lietuvių mitologijos tėvu ir nepagydomu svajotoju bei romantiku.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 21356-22087; hash=ed27c703d2af5698887046620a369383bfa10ec3d60e060d87cfa3cc8daeea57; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Teodoras Narbutas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vytautas Berenis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Teodoras Narbutas: mention_match, person, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas Berenis" parinktas kaip owner_note_path. Targetas "Teodoras Narbutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.
+- susijęs iš Vytauto Berenio ir Norberto Vėliaus įvadiniai straipsniai Teodoro Narbuto LTI leidinyje: Įvadiniuose straipsniuose Vytautas Berenis ir Norbertas Vėlius išsamiai aptarė „Lietuvių mitologijai“ tekusią mokslinę kritiką.
 - susijęs iš [[objektai/asmenys/Tadas Kosciuška.md#claim-t-82740|Tadas Kosciuška]]: Tadas Kosciuška mėgino gelbėti Lenkijos-Lietuvos valstybę jos žlugimo išvakarėse.
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188629|Teodoras Narbutas]]: Vytautas Berenis Teodorą Narbutą vadina lietuvių mitologijos tėvu ir tipišku savo epochos atstovu.
 - susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55011|Mykolas Balinskis]]: Vytautas Berenis apibūdino Mykolą Balinskį kaip kruopštų, pedantišką istoriką, vengusį rašyti be faktografinės bazės.
 - susijęs iš [[objektai/autoriai/Skirmantė Ramanauskaitė.md#claim-t-55022|Skirmantė Ramanauskaitė]]: Skirmantė Ramanauskaitė buvo 2007 m. „Vilniaus miesto istorijos“ leidimo redaktorė.
 - susijęs iš [[objektai/autoriai/Skirmantė Ramanauskaitė.md#claim-t-81964|Skirmantė Ramanauskaitė]]: Skirmantė Ramanauskaitė buvo 2007 m. lietuviško „Vilniaus miesto istorijos“ leidimo redaktorė.
@@ -74,7 +99,6 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
 - susijęs iš [[objektai/grupes/Lietuvos tūkstantmečio minėjimo direkcija.md#claim-t-86806|Lietuvos tūkstantmečio minėjimo direkcija]]: Knyga „Vilniaus miesto istorija“ 2007 m. išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus.
 - susijęs iš Vilnius: Mykolas Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei Vilniaus kultūrinio gyvenimo dalyvis.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -110,3 +134,31 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Vytautas Berenis Teodorą Narbutą pavadino lietuvių mitologijos tėvu ir nepagydomu svajotoju bei romantiku.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Dabar mes iš naujo atrandame nežinomą bajoriškąją Lie­
+    tuvos kultūrą. T. Narbuto LTI -  viena iš pirmųjų pažinčių su ja.
+    Vytautas Berenis
+
+    ## Puslapis 15
+
+    TEODORAS NARBUTAS -
+    LIETUVIŲ MITOLOGIJOS TYRINĖTOJAS
+    Teodorą Narbutą visai pagrįstai galima vadinti lietuvių mi­
+    tologijos tėvu, tėvu, kurį, dar maži būdami, vaikai gerbė ir my­
+    lėjo, o bręsdami, kaip dažnai esti, išjuokė ir išsižadėjo stebė­
+    damiesi, koks jis atsilikęs ir senamadiškas, tik subrendę pra­
+    dėjo suvokti, kad vaikai negali pasirinkti savo tėvų ir kad tas
+    jų pašiepiamas tėtušis ne toks jau blogas ir neišmanantis -  kaip
+    ir visi kiti tėvai: labai darbštus, mylintis, todėl gal kiek ir nai­
+    vokas ir, kas tiesa, tai tiesa, nepagydomas svajotojas ir roman­
+    tikas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

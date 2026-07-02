@@ -59,6 +59,7 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 - susijęs iš [[objektai/asmenys/Juozefas Mianovskis.md#claim-t-87737|Juozefas Mianovskis]]: Juzefo Mianovskio užmiesčio namas, pramintas Belvederiu, stovėjo spėjamoje senosios liejyklos vietoje.
 - susijęs iš [[objektai/asmenys/Stanislovas Liubomirskis.md#claim-t-40442|Stanislovas Liubomirskis]]: LDK kariuomenė sutiko laikinai paklusti Stanislovui Liubomirskiui tik karalaičiui Vladislovui ją įkalbėjus.
 - susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-40522|Vladislovas]]: Karalaičiui Vladislovui įkalbėjus, LDK kariuomenė laikinai sutiko paklusti Stanislovui Liubomirskiui.
+- susijęs iš [[objektai/autoriai/Bergeronas.md#claim-t-190415|Bergeronas]]: Narbutas iš Bergerono kelionių aprašymų siejo Kantorinio liudijimą su lietuviška apeigų muzika.
 - susijęs iš [[objektai/autoriai/Girolamo Lippomano.md#claim-t-40618|Girolamo Lippomano]]: Girolamo Lippomano 1575 m. aprašė Lenkijos ir Lietuvos kariuomenių stovyklos įsirengimo būdą.
 - susijęs iš [[objektai/grupes/Lotynai.md#claim-t-63146|Lotynai]]: Po Konstantinopolio užėmimo imperatoriumi tapo Flandrijos grafas Balduinas, o lotynai ten valdė 57 metus.
 - susijęs iš [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais.md#claim-t-78696|Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]: Kariuomenė stovykloje apsisupdavo amuniciją, proviantą ir kitus daiktus gabenusiais vežimais, palikdama tik kelis praėjimus.

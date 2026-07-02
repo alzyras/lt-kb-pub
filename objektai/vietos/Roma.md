@@ -45,8 +45,10 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=813836aaedd8a960151262ea24ebef284a0b65841a9405fac9d560b84c42d4e9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
+- susijęs iš [[objektai/asmenys/Enėjas.md#claim-t-190093|Enėjas]]: Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbinimą, vėliau siejamą su Alba ir Roma.
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172096|Husitai]]: Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
 - susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
+- susijęs iš [[objektai/zodynas/Budintoja Varpas Paparona.md#claim-t-189284|Budintoja Varpas Paparona]]: Narbutas žodį Paparona laikė grynai lietuvišku sargyboje stovinčio kariškio pavadinimu, o ne kilusiu iš Parta Roma.
 - susijęs iš [[objektai/autoriai/A. Baltinis.md#claim-t-30496|A. Baltinis]]: A. Baltinis parašė veikalą „Vysk. V. Borisevičiaus gyvenimas ir darbai“, išleistą Romoje 1975 m.
 - susijęs iš [[objektai/autoriai/A. Dambrauskas-Jakštas.md#claim-t-30503|A. Dambrauskas-Jakštas]]: A. Dambrausko-Jakšto „Užgesę Žiburiai“ antrasis leidimas 1975 m. išėjo Romoje.
 - susijęs iš [[objektai/autoriai/A. Kučas.md#claim-t-30513|A. Kučas]]: A. Kučas 1965 m. Romoje paskelbė knygą „Kun. Antanas Staniukynas“.
@@ -61,6 +63,7 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179524|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: A. Prochaska rašė apie XIV-XV a. Lietuvą, išleido Vytauto Didžiojo aktų kodeksą ir parašė Jogailos bei Vytauto monografijas.
 - susijęs iš [[objektai/autoriai/O. Halecki.md#claim-t-179557|O. Halecki]]: O. Haleckio 1958 m. darbe „From Florence to Brest“ išsamiai įvertintas Vytauto vaidmuo.
 - susijęs iš [[objektai/autoriai/V. Jatulis.md#claim-t-31029|V. Jatulis]]: V. Jatulis redagavo 1964-1975 m. Romoje leistus „Monumenta Ucrainae Historica“ tomus.
+- susijęs iš [[objektai/grupes/Senovės graikai.md#claim-t-189381|Senovės graikai]]: A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima rasti tai, ką sukūrė Indija, Iranas, Graikija ir Roma.
 - susijęs iš J. Andrius Kng. Radvilos Lietuvos žemėlapis: J. Andriaus „Kng. Radvilos Lietuvos žemėlapis“ paskelbtas žurnalo „Aidai“ 1952 m. 10 numeryje, p. 445–448.
 - susijęs iš Monumenta Ucrainae Historica: A. Šeptyckio „Monumenta Ucrainae Historica“ I–XII tomai išleisti Romoje 1964–1975 m., redaguojant V. Jatuliui.
 - susijęs iš P. Rėklaitis Lietuvos senoji kartografija: P. Rėklaičio „Lietuvos senoji kartografija“ paskelbta „Tautos Praeities“ II tomo 1 dalyje, Romoje 1964 m., p. 64-76.

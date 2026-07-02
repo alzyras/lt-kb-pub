@@ -272,15 +272,17 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90029|Sventopelkas]]: Dusburgietis Sventopelką vaizduoja kaip Prūsijos tikėjimo ir tikinčiųjų persekiotoją.
 - susijęs iš [[objektai/daiktai/Pjūklai.md#claim-t-59701|Pjūklai]]: Kaimiečiai pjūklais papjovė medžius miškuose, kad grįžtančius vengrus užgriūtų vienas kitą parbloškiantys medžiai.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88524|Bartai]]: Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-190568|Kryžiuočių ordinas]]: Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89171|Pagudėnai]]: Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175131|Sūduviai-jotvingiai]]: Skomantas su sūduviais įsibrovė į Kulmo žemę ir padalijo kariuomenę į dvi dalis, nukreiptas prieš Torunę ir Kulmo miestą.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89242|Sūduviai]]: Skomantas su sūduviais įsiveržė į Kulmo žemę, padalijo kariuomenę ir niokojo kelią į Torunę bei Kulmo miestą.
 - susijęs iš [[objektai/grupes/Vengrai.md#claim-t-66254|Vengrai]]: Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių.
 - susijęs iš [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas.md#claim-t-66897|Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]: Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę, plėšdamas ir degindamas.
 - susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185648|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.
+- susijęs iš Nemunas: Tyrimų duomenimis, Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į jo valstybę patekusį plotą nuo Vyslos iki Nemuno.
+- susijęs iš Prūsija: Petro iš Dusburgo kronikoje Prūsijos vardu politine prasme vadintas Ordino užkariautas plotas nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89795|Helmerichas]]: Helmerichas sutelkė savo pajėgas, nusekė paskui priešus iki Lubavos žemės ir surikiavęs kariuomenę juos užpuolė.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59828|Skomantas]]: Skomantas su sūduviais įsiveržė į Kulmo žemę ir padalijo kariuomenę į dvi dalis puolimams prieš Torunę ir Kulmo miestą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178942|Kryžiuočių ordinas]]: Prūsams buvo sunkiau gintis nuo Kryžiuočių ordino, nes jie neturėjo vieningos valstybės ir negalėjo sutartinai priešintis.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175133|Sūduviai-jotvingiai]]: Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89243|Sūduviai]]: Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę.
 - susijęs iš [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.).md#claim-t-185683|Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]: Sūduvos prūsai ir jiems padėję žemaičiai nusiaubė Kulmo kraštą, bet prie Liubavos pasitraukė nuo kryžiuočių puolimo.
@@ -500,7 +502,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93425|Konradas (Mozūrijos kunigaikštis)]]: „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas ir Vokiečių ordino pakvietimą.
 - susijęs iš [[objektai/asmenys/Konradas Švabas iš Elbingo.md#claim-t-184103|Konradas Švabas iš Elbingo]]: Konradas Švabas iš Elbingo išėjo iš Belichovo pilies su daugybe ginklanešių ir ietimis susirėmė su priešais.
 - susijęs iš [[objektai/asmenys/Konradas Švabas iš Elbingo.md#claim-t-60369|Konradas Švabas iš Elbingo]]: Konradas Švabas iš Elbingo išėjo iš Belichovo pilies su daugybe ginklanešių ir ietimis susirėmė su priešais.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93436|Kristijonas]]: Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93436|Kristijonas (vyskupas, XIII a.)]]: Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.
 - susijęs iš [[objektai/asmenys/Luterbergas.md#claim-t-60167|Luterbergas]]: Kulmo landkomtūras Luterbergas Drevantos upės pakrantėje pastatė miestą, vardu Noimarkas.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113898|Mindaugas (valdovas, XIII a.)]]: 1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59895|Mstivojus]]: Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.
@@ -523,8 +525,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90036|Sventopelkas]]: Prieš mirtį Sventopelkas sušaukė savo sūnus ir patarė jiems niekada nesipriešinti Ordino broliams.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90037|Sventopelkas]]: Sventopelkas su kariuomene atvyko stiprinti Marienverderio miesto ir pilies.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90060|Treniota]]: Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamedę, o jo pajėgos paėmė Birgelavos pilį.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90071|Vladislovas Lokietka]]: Dusburgietis Vladislovą Lokietką vaizduoja kaip Gedimino sąjungininką, kovojusį prieš Ordiną dėl Pamario.
 - susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-184856|Vladislovas]]: Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums.
 - susijęs iš [[objektai/autoriai/Batūra R.md#claim-t-91940|Batūra R]]: Batūros darbas cituojamas aiškinant, kad 1262 m. žygį organizavo Mindaugas, o kariuomenei vadovavo Treniota.
@@ -554,13 +554,16 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179119|Kryžiuočių ordinas]]: Kryžiuočių ordino broliai perdavė Sartovicų pilį Samborui, o vėliau Sventopelkas pradėjo statyti Svečės pilį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-183884|Kryžiuočių ordinas]]: Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184493|Kryžiuočių ordinas]]: Sūduvos prūsai ir žemaičiai prie Liubavos neišdrįso stoti į atvirą mūšį su kryžiuočiais ir pabėgo, palikę stovyklą bei gurguoles.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-190568|Kryžiuočių ordinas]]: Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169587|Latviai]]: Kronikoje vaizduojamu laikotarpiu latviai, lietuviai ir prūsai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188221|Latviai]]: Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu ir padavimu apie supykusio Likimo plakamos žemės drebėjimą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179185|Lenkai]]: Lenkijos vyrai stojo į kovą su įsiveržusia prūsų kariuomene, bet prūsai privertė lenkus bėgti ir išžudė daugybę žmonių.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184520|Lenkai]]: Giliginui valdant lietuvių kariaunos nusiaubė Mazoviją, Kulmo kraštą ir Kujaviją, o lenkai buvo smarkiai sumušti.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179278|Lietuviai]]: Kronikoje vaizduojamu laikotarpiu lietuviai, prūsai ir latviai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179285|Lietuviai]]: Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179289|Lietuviai]]: Lietuvių ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš pavyslyje įsikūrusį Kryžiuočių ordiną.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179339|Lietuviai]]: 1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190600|Lietuviai]]: Narbutas mirusiųjų deginimą kildino iš indų ir teigė, kad vėlyvojoje lietuvių stabmeldystėje jis taikytas tik žymesniems žmonėms.
 - susijęs iš [[objektai/grupes/Marienverderio miestiečiai.md#claim-t-63149|Marienverderio miestiečiai]]: Prūsai po ilgų grumtynių sugriovė Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba užmušė.
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78415|Pamedėnai]]: Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78420|Pamedėnai]]: Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.
@@ -661,6 +664,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš Nemunas: Tyrimų duomenimis, Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į jo valstybę patekusį plotą nuo Vyslos iki Nemuno.
 - susijęs iš Nemunas: Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.
 - susijęs iš Nemunas: Kronikininkas, aprašęs kovas Skalvoje abipus Nemuno, pažymėjo, kad broliai daug kartų kariavo su skalviais.
+- susijęs iš Nemunas: Narbutas 1805 m. Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, matė labai seną mūro pilį.
+- susijęs iš Nemunas: Narbutas Zapyškį lokalizavo kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, anksčiau vadinto Upinės upeliu.
 - susijęs iš Notanga: Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Osa: Osa buvo dešinysis Vyslos intakas, iki kurio driekėsi beveik visos prūsų žemės, vadintos tėvonija.
 - susijęs iš Pagudė: Petro iš Dusburgo kronikoje Pagudė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.
@@ -672,6 +677,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš Prieglius: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš Prūsija: Petro iš Dusburgo kronikoje Prūsijos žemė skirstoma į 11 atskirų žemių.
 - susijęs iš Prūsija: Petro iš Dusburgo kronikoje Prūsijos vardu politine prasme vadintas Ordino užkariautas plotas nuo Vyslos iki Nemuno.
+- susijęs iš Prūsija: Narbutas rašo, kad Prūsijos kronikininkai šiuo vardu siejo dievintą senovės kunigaikštį Vaidevutį.
+- susijęs iš Prūsija: Narbutas rašo, kad Prūsijos kronikininkai burtininkams priskyrė ateities pranašavimą liejant ištirpintą vašką į šaltą vandenį.
 - susijęs iš Rudinas: Antrosios atskalūnybės metais Rudino broliai ir miestiečiai gynė krikščionių tikėjimą nuo prūsų.
 - susijęs iš Santyras: Petras Dusburgietis Santyro pilį apibūdino kaip pastatytą kenkti tikėjimui ir tikintiesiems.
 - susijęs iš Semba: 1254 m. į Sembos pavergimo žygį vyko Čekijos karalius Otokaras, Otonas ir kiti didikai bei dvasininkai.
@@ -725,13 +732,14 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175191|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175194|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. mūšio lauke sutriuškino kryžiuočius.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59828|Skomantas]]: Skomantas su sūduviais įsiveržė į Kulmo žemę ir padalijo kariuomenę į dvi dalis puolimams prieš Torunę ir Kulmo miestą.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179285|Lietuviai]]: Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190600|Lietuviai]]: Narbutas mirusiųjų deginimą kildino iš indų ir teigė, kad vėlyvojoje lietuvių stabmeldystėje jis taikytas tik žymesniems žmonėms.
 - susijęs iš Kulmenzė: Lenkų karys Ninerikas įsigavo į Kulmenzę, pasižadėjęs išduoti miestą sūduvių vadui Skomantui.
 - susijęs iš Kulmenzė: Lenkų karys Ninerikas įsigavo į Kulmenzę, pasižadėjęs išduoti miestą sūduvių vadui Skomantui.
 - susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66520|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Divano ir Linko puolimas Kulmo žemėje datuojamas 1271 m.
 - susijęs iš [[objektai/asmenys/Hermanas iš Šenenbergo.md#claim-t-60327|Hermanas iš Šenenbergo (karvedys, XIII a.)]]: Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.
 - susijęs iš [[objektai/asmenys/Šventoji Barbora.md#claim-t-60081|Šventoji Barbora]]: Šventoji Barbora moteriai tris kartus pasirodė naktį ir sakė ketinanti eiti į Kulmo miestą klausyti mišių.
 - susijęs iš Traupeinas: Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179285|Lietuviai]]: Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.
 - susijęs iš Lubava: Pavyslyje, ypač Kulmo ir Lubavo srityse, gyventojai buvo mišrūs: lenkai ir prūsai.
 - susijęs iš [[objektai/asmenys/Hermanas ton Senenbergas.md#claim-t-186210|Hermanas ton Senenbergas]]: Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuolikus ir vėliau sumušė priešą.
 - susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89390|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: 1243 m. Kulmo žemės nusiaubime ir Ordino pajėgų sutriuškinime dalyvavo Lietuvos kariuomenė.
@@ -1049,6 +1057,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - [[objektai/grupes/Lietuviai]] surenge_zygi_i Kulmas
 - [[objektai/asmenys/Linkas]] puole Kulmas
 - [[objektai/asmenys/Linkas]] surenge_zygi_i Kulmas
+- [[objektai/grupes/Prūsai]] valde_teritorija Kulmas
 - [[objektai/grupes/Sūduviai]] surenge_zygi_i Kulmas
 - [[objektai/grupes/Vengrai]] puole Kulmas
 - [[objektai/asmenys/Vladislovas Lokietka]] puole Kulmas
@@ -1072,6 +1081,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - [[objektai/asmenys/Šventoji Barbora]] keliavo_i Kulmas
 - [[objektai/asmenys/Hermanas ton Senenbergas]] gyne Kulmas
 - [[objektai/grupes/Lietuvos kariuomenė]] puole Kulmas
-- [[objektai/asmenys/Gediminas]] puole Kulmas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] puole Kulmas
 - [[objektai/asmenys/Sventopelkas]] uzkariavo Kulmas
 - [[objektai/daiktai/Pilys]] priklause Kulmas

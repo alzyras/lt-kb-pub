@@ -139,7 +139,7 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
 - susijęs iš [[objektai/asmenys/Engelbertas.md#claim-t-80713|Engelbertas]]: Kuršo vyskupas Engelbertas buvo išnaikintas kartu su tos bažnyčios dvasininkais ir tikinčiųjų tauta.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54964|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89713|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176384|Gediminas]]: Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176384|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui.
 - susijęs iš [[objektai/asmenys/Grigalius IX.md#claim-t-79023|Grigalius IX]]: Popiežius Grigalius IX su kardinolų taryba 1235 m. nutarė suvienyti gyvus išlikusius Kristaus karių brolijos brolius su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Jonas (Sembos vyskupas).md#claim-t-87711|Jonas (Sembos vyskupas)]]: Sembos vyskupas Jonas Elblionge dalyvavo pasitarime ir su kitais vyskupais pasiuntė laišką, kuriame taikos sutartį vadino pražūtinga.
 - susijęs iš [[objektai/asmenys/Jonas de Lovenbinkė.md#claim-t-87716|Jonas de Lovenbinkė]]: Jonas de Lovenbinkė paminėtas tarp Ordino Livonijoje pusės atstovų.
@@ -182,7 +182,6 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
 - susijęs iš Varmė: Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties.
 - susijęs iš Varmė: Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl gautos žinios apie taikos sutartį.
 - susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
-- susijęs iš Žemaitija: 1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178866|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179223|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179287|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.

@@ -4,21 +4,23 @@ pavadinimas: 'Dauguva'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1266 m.'
+  - '1663 m.'
   - '2026 m.'
 date_start: '1266'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+  - 'XXI'
 tags:
   - karas
   - upė
   - vieta
-amziai:
-  - 'XIII'
-  - 'XXI'
 ---
 # Dauguva
 
@@ -27,7 +29,6 @@ amziai:
 Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją. Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją. Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.
 
 ## Teiginiai
-
 <a id="claim-t-182751"></a>
 - t-001
   global_id: t-182751
@@ -96,12 +97,87 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Aizkrauklė'
   pagrindžia:
     - c-001
+
+<a id="claim-t-188680"></a>
+- t-008
+  global_id: t-188680
+  teiginys: 'Narbutas Gercikos pilį prie Dauguvos tapatino su dabartiniu Daugpiliu.'
+  pagrindžia:
+    - c-007
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 172376-173026; hash=f746f7d9993a2da86612a9eec7e4299bdf7a8561578edd5e6db4d00324ac4890; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: kariavo_pries -> Livonijos riteriai: 0.80
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonijos riteriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje lietuviai apibūdinami kaip kovoję su livoniečiais; artimiausias leidžiamas objektas yra Livonijos riteriai.
+<a id="claim-t-188681"></a>
+- t-009
+  global_id: t-188681
+  teiginys: 'Narbutas Krivių Krivaičio valdžią vaizdavo kaip kadaise apėmusią žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.'
+  pagrindžia:
+    - c-008
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 775467-776070; hash=374bd074ae46d538d6dfa64ea5f68c45250ad2f7b90c4e48c261758275d20f61; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dauguva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dauguva" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188682"></a>
+- t-010
+  global_id: t-188682
+  teiginys: 'Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“.'
+  pagrindžia:
+    - c-009
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 828802-829230; hash=90c4985fa3ae0710a1d18dc0084b42b68728b46f86e4b4671371c21b97e21185; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ukmergė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dauguva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ukmergė: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dauguva" parinktas kaip owner_note_path. Targetas "Ukmergė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188683"></a>
+- t-011
+  global_id: t-188683
+  teiginys: 'Narbutas dainelės žodį „dewine“ aiškino kaip „Dwine upe“ ir siejo jį su devintąja upe, Dvina arba Dauguva.'
+  pagrindžia:
+    - c-010
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 829736-830024; hash=a733503f5f3cd09844f047c3f4a6456085ed153dcdf318ccf627d6f0c493ebf1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dvina: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dauguva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dvina: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dauguva" parinktas kaip owner_note_path. Targetas "Dvina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
 - susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52441|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
 - susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52442|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96077|Baltai]]: Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.
 - susijęs iš Latgalija: XII–XIII a. sandūroje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemę.
+- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
+- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-31222|Krivičiai]]: Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.
 - susijęs iš [[objektai/grupes/Kuršiečiai.md#claim-t-40966|Kuršiečiai]]: Kuršiečiai su Kuršo kunigaikščiu Fridrichu Ketleriu perplaukė Dauguvą ir prisistatė didžiajam etmonui.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10072|Algirdas (Lietuvos valdovas)]]: Tose pačiose derybose Algirdas reikalavo sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos, Priegliaus ir Dauguvos.
@@ -132,6 +208,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš [[objektai/ivykiai/Šv. Kazimierui priskiriamos Lietuvos kariuomenės pergalės prie Polocko ir Dauguvos.md#claim-t-20576|Šv. Kazimierui priskiriamos Lietuvos kariuomenės pergalės prie Polocko ir Dauguvos]]: Tikėta, kad šv. Kazimieras 1518 m. padėjo Lietuvos kariuomenei įveikti priešą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.
 - susijęs iš [[objektai/ivykiai/Švitrigailos Vitebsko žemės užėmimas.md#claim-t-185681|Švitrigailos Vitebsko žemės užėmimas]]: Švitrigaila be didelio vargo užėmė Vitebsko miestą, dvi pilis, Oršą ir visą kraštą tarp Dnepro ir Dauguvos.
 - susijęs iš [[objektai/posakiai/Jūsų Karališkoji Didenybe, greičiau išvysite Dauguvą aukštyn tekančią.md#claim-t-41452|Jūsų Karališkoji Didenybe, greičiau išvysite Dauguvą aukštyn tekančią]]: Posakiu teigta, kad karalius greičiau išvys Dauguvą aukštyn tekančią, negu lietuvius ir jų etmoną bėgančius iš kovos lauko.
+- susijęs iš [[objektai/posakiai/Založym do san koniki.md#claim-t-189570|Založym do san koniki]]: Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kaip Dauguvos vardo kilmės iš „Dewine Upes“ aiškinimo pavyzdį.
 - susijęs iš Aiviekstė: Lietuvos valstybės šiaurinė siena buvo brėžiama iki vietos, kur iš Liubano ežero ištekanti Aiviekstė įteka į Dauguvą.
 - susijęs iš Alūkšta: 1917 m. Berno konferencijoje Alūkštos apskritį Kurše iki Dauguvos upės numatyta įtraukti į būsimos Lietuvos teritoriją.
 - susijęs iš Aukštutinė Dauguva: Aukštutinės Dauguvos ir Dniepro sričių gyventojai mokesčius mokėjo laukinių žvėrių kailiukais ir medumi.
@@ -141,8 +218,11 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš Belčica: Belčica yra upelis prie Polocko, iš pietų įtekantis į Dauguvą.
 - susijęs iš Daugavgryvos pilis (pilis): Ordinui įsigijus Daugavgryvos pilį Dauguvos žiotyse, rygiečiai ją šturmavo 1328 m. liepą.
 - susijęs iš Daugpilis: Vytautas, įsiveržęs į Livoniją ir nusiaubęs kaimus, užėmė Daugpilį Dauguvos pakrantėje.
+- susijęs iš Dauguva Dvina: Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“.
+- susijęs iš Dauguva Dvina: Narbutas dainelės žodį „dewine“ aiškino kaip „Dwine upe“ ir siejo jį su devintąja upe, Dvina arba Dauguva.
 - susijęs iš Dauguvos žiotys: 1202 m. Dauguvos žiotyse susikūrė Kalavijuočių ordinas, vėliau pradėjęs užkariauti lybius, latvius, estus ir kuršius.
 - susijęs iš Gercike: Gercikė buvo viena iš Dauguvos pilių, patekusių į lietuvių įtakos sferą.
+- susijęs iš Gercikos pilis (pilis): Narbutas Gercikos pilį prie Dauguvos vadina rusų kunigaikščio Visvaldžio sostine ir sieja ją su dabartiniu Daugpiliu.
 - susijęs iš Kukenois: Kukenois buvo viena iš Dauguvos pilių, patekusių į lietuvių įtakos sferą.
 - susijęs iš Kuoknesė: Prieš Kuoknesės mūšį Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus Dauguva plukdytus laivus.
 - susijęs iš Lielvardės pilis (pilis, XIII a.): Mindaugo karvedžių siaubiamoje Livonijoje vyko kovos prie Lielvardės pilies Dauguvos pakrantėse.
@@ -153,9 +233,11 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš Polockas: Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.
 - susijęs iš Ryga: Ryga buvo turtingas miestas, per kurį ėjo prekyba su Dauguvos ir Dniepro upyno miestais.
 - susijęs iš Ryga: 1621 m. Rygai atitekus Švedams, Lietuvos laisvoji prekyba Dauguvos keliu per Rygą užsidarė.
+- susijęs iš Ukmergės apskritis: Narbutas iš Ukmergės apskrities gautą dainelę laikė įrodymu, kad Dauguvos pavadinimas kilo iš „Dewine Upes“.
 - susijęs iš Vitebskas: Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
+- susijęs iš Vysla: Narbutas mitologiniame aiškinime siejo Krivių Krivaičio valdžios ribas su žemėmis nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.
 - susijęs iš [[objektai/asmenys/Fridrichas Ketleris.md#claim-t-40109|Fridrichas Ketleris]]: Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, matydamas besirikiuojančius lietuvius, savo 300 raitelių įsakė persikelti į dešinįjį krantą.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175191|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
 - susijęs iš [[objektai/asmenys/Jurgis Šaulys.md#claim-t-19033|Jurgis Šaulys]]: Jurgis Šaulys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
@@ -169,8 +251,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Trobius.md#claim-t-186083|Trobius]]: Mirus Romuntui, Žemaitijos kunigaikščiui Trobiui buvo pavesta valdyti Lietuvą.
 - susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40510|Virgoličius]]: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184894|Zemovitas]]: Mindaugas, padedamas rusų, įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.
 - susijęs iš [[objektai/asmenys/Šv. Kazimieras.md#claim-t-78017|Šv. Kazimieras]]: XVI a. pradžioje karalaitis Kazimieras buvo garbinamas Vilniaus apylinkėse.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88533|Bartai]]: Bartai buvo viena iš vakarinių baltų, arba prūsų, genčių, žinomų Rytprūsiuose.
@@ -213,6 +293,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš Salaspilio mūšis: Salaspilio mūšio schemų viršus orientuotas į pietus, kad jos sutaptų su P. Snayerso paveikslu „Salaspilio mūšis“.
 - susijęs iš Aizkrauklė: XII–XIII a. sąvartoje latvių gyvenama sritis dešiniajame Dauguvos krante driekėsi nuo Aizkrauklės iki Burtnieko ežero.
 - susijęs iš Alna: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros.
+- susijęs iš Baltijos jūra: Narbutas teigė, kad Krivių Krivaičio valdžia anksčiau apėmė žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.
 - susijęs iš Barta: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtą Bartą ir kitas žemes.
 - susijęs iš Bauskė: Livonijos riterių ordinas sąjungos sąlygomis turėjo atiduoti Lietuvai Bauskės pilį su apylinkėmis.
 - susijęs iš Belčica: Belčicoje buvo vyrų vienuolynas, įkurtas XI ir XII a. riboje.
@@ -220,6 +301,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš Burtnieko ežeras: XII–XIII a. sandūroje latvių gyvenama rytinė Vidžemės dalis siekė Burtnieko ežerą.
 - susijęs iš Chotinas: Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d.
 - susijęs iš Chotinas: Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d.
+- susijęs iš Daugpilis: Narbutas Gercikos pilį prie Dauguvos tapatino su dabartiniu Daugpiliu.
 - susijęs iš Diunamiundė: Diunamiundėje XIII a. Ordino statytas įtvirtintas vienuolynas XIV a. pradžioje buvo perstatytas į pilį.
 - susijęs iš Gardinas: 1917 m. Berno konferencijoje Lietuvos teritorijai siūlyta priskirti Balstogės, Gardino, Slanimo ir Valkavisko apskritis.
 - susijęs iš Gardinas: Užsienio lietuvių atstovai siūlė į „Lithuania Propria“ ribas įtraukti Gardino apskritį.
@@ -229,6 +311,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš Latgalija: XII–XIII a. sandūroje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemę.
 - susijęs iš Liepoja: 1917 m. lapkričio 2–10 d. Berno konferencijoje lietuvių atstovai numatė reikalauti Liepojos uosto.
 - susijęs iš Lietuva: Livonijos atstovai seime nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
+- susijęs iš Lietuva: Narbutas nurodė, kad rankraštis baigiasi pagyrimu lietuvių tautos svetingumui, darbštumui ir namų gyvenimo dorybėms.
 - susijęs iš Liubano ežeras: Šiaurinė siena buvo vedama nuo Dauguvos žiočių iki vietos, kur iš Liubano ežero ištekanti Aiviekstė įteka į Dauguvą.
 - susijęs iš Livonija: Stepono Batoro laikais Lietuvos ir Lenkijos karai su Maskva baigėsi Polocko ir visos Livonijos atgavimu.
 - susijęs iš Livonija: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
@@ -259,8 +342,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
 - susijęs iš Aizkrauklė: XII–XIII a. sąvartoje latvių gyvenama sritis dešiniajame Dauguvos krante driekėsi nuo Aizkrauklės iki Burtnieko ežero.
 - susijęs iš Vidžemė: XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį.
-- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
-- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96813|Lybiai]]: Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175543|Kalavijuočių ordinas]]: Kalavijuočių ordinas pirmiausia ėmė stiprintis prie Dauguvos krantų.
 - susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
@@ -268,7 +349,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40452|T. Dambrava]]: T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.
 - susijęs iš Polockas: Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Ordino kariuomenė buvo užpulta prie Aizkrauklės ant Dauguvos kranto.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -405,6 +485,96 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Narbutas Gercikos pilį prie Dauguvos tapatino su dabartiniu Daugpiliu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
+    sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
+    kalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­
+    ją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­
+    sų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo
+    Gercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis
+    Daugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;
+    kiek kartų jį turėję su savimi kovodami su livoniečiais, tiek
+    kartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės
+    keršydamas už nužudymą Dangeručio, kuris, kaip jie manė,
+    nelaisvėje buvo nužudytas tuo kalaviju.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-008
+  santrauka: 'Narbutas Krivių Krivaičio valdžią vaizdavo kaip kadaise apėmusią žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Dabar pateiksime šį lietuvių mitologijos gabalėlį.
+    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
+    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
+    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
+    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
+    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
+    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
+    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
+    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
+    nių apeigų papročių, vienodų su jų lietuvių apeigomis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-009
+  santrauka: 'Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    1663)*.
+    456
+
+    ## Puslapis 456
+
+    VIII priedas
+    Daug buvo ištyrinėta šaltinių, norint išsiaiškinti Dauguvos
+    upės pavadinimo kilmę. Mums iš Ukmergės apskrities pavyko
+    gauti dainelę, kuri rodo, kad šis pavadinimas atsirado nuo „ De­
+    wine Upes“: dainininkas sako, jog pasikinkys į roges žirgelius ir
+    važiuos grobio:
+    Založym do san koniki,
+    Osiadlamy wrone žrebie,
+    Pojedziem wojowac,
+    Wojnę toczyč w Ryški kraj,
+    O žeby tylko wody zamarzly.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-010
+  santrauka: 'Narbutas dainelės žodį „dewine“ aiškino kaip „Dwine upe“ ir siejo jį su devintąja upe, Dvina arba Dauguva.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    457
+
+    ## Puslapis 457
+
+    Iš Lietuvos važiuojant į Livoniją, reikia pervažiuoti nemažai
+    upių. Dainininkas suskaičiuoja net astuonias, o „dewine“, tai
+    yra „Dwine upe“, devintoji upė, tai, be abejo, Dvina (Dauguva).
+    Bet kodėl taip vadinama ir antroji Dvina, šiaurinė, įtekanti į Bal­
+    tąją jūrą?
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 - [[objektai/grupes/Latviai]] gyveno Dauguva

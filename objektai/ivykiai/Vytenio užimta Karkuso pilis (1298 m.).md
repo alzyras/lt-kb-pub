@@ -91,4 +91,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytenis]] uzeme Vytenio užimta Karkuso pilis (1298 m.)
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] uzeme Vytenio užimta Karkuso pilis (1298 m.)

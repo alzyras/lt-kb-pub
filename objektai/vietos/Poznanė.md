@@ -305,7 +305,10 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114074|Zigmantas I]]: Karalius Zigmantas I buvo Jono II, 1519 m. paskelbto Vilniaus vyskupu, tėvas.
 - susijęs iš [[objektai/autoriai/Godzislavas Baško.md#claim-t-88090|Godzislavas Baško]]: Godzislavo Baško parašyta „Kronika Lechitów i Polaków“ mini, kad Vitas buvo pirmasis Lietuvos vyskupas.
 - susijęs iš [[objektai/autoriai/Ossoliński.md#claim-t-88048|Ossoliński]]: Mokslininkas Ossolińskis aprašė Lauryno Goslickio gyvenimą.
+- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190282|Tadas Volianskis]]: Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, ypač pirmąjį tomą.
 - susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86983|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Martinas Galias rašė, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.
+- susijęs iš [[objektai/daiktai/Skandinaviškos monetos ir auksiniai brakteatai.md#claim-t-189747|Skandinaviškos monetos ir auksiniai brakteatai]]: T. Volianskis atkreipė T. Narbuto dėmesį į skandinaviškas monetas ir auksinius brakteatus, kuriuos laikė susijusiais su Lietuva.
+- susijęs iš [[objektai/daiktai/T. Narbuto parankinis LTI egzempliorius.md#claim-t-189640|T. Narbuto parankinis LTI egzempliorius]]: Narbutas, remdamasis T. Volianskio numizmatiniais tyrinėjimais, pildė parankinio LTI egzemplioriaus tomus ir pridėjo naujų iliustracijų.
 - susijęs iš [[objektai/daiktai/Vaišių stalai.md#claim-t-81865|Vaišių stalai]]: Martinas Galas rašė, kad Boleslovo Didžiojo dvare kasdien būdavo parengiama keturiasdešimt pagrindinių stalų, neskaitant mažesnių.
 - susijęs iš [[objektai/grupes/12-asis ulonų pulkas.md#claim-t-38925|12-asis ulonų pulkas]]: 12-asis ulonų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.
 - susijęs iš [[objektai/grupes/2-asis pėstininkų pulkas.md#claim-t-38927|2-asis pėstininkų pulkas]]: 2-asis pėstininkų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.
@@ -332,6 +335,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - susijęs iš Krokuva: Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai.
 - susijęs iš Lietuva: XIII a., Mindaugui pasiskelbus Lietuvos karaliumi ir siekus priimti Romos tikėjimą, popiežius paskyrė Lietuvai vyskupą.
 - susijęs iš Lietuva: Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją.
+- susijęs iš Lietuva: Narbutas lietuvių bajorų linkimą į Rytų krikščionybę vadino lietuviškuoju manicheizmu, Manicheismus Lilhuanicus.
 - susijęs iš Liublinas: Liublinas Vladislovo Lokietkos laikais, 1317 m., ėmė tvarkytis pagal vokiečių miestų teises.
 - susijęs iš Sroda: Keliaudamas iš Poznanės į Srodą karalius vos nežuvo, kai audros žaibas nutrenkė du jo kinkinio palydovus ir kelis arklius.
 - susijęs iš Tauro Gedimino kalnas: Jogailos laikų Vilniaus miesto plane Aukštutinė pilis pažymėta ant Tauro kalno.

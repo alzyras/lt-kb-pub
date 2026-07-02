@@ -267,7 +267,7 @@ amziai:
 - susijęs iš [[objektai/asmenys/Jonas (kancleris).md#claim-t-60342|Jonas (kancleris)]]: Kancleris Jonas buvo tarp liudytojų, dalyvavusių apie 1226 arba 1230 m. patvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-184745|Julijona (Vytauto žmona)]]: Kojelavičius vaizduoja Vilniaus vyskupą Petrą kaip atkakliai prieštaravusį Vytauto ir Julijonos santuokai, nes ji esą pažeidė Dievo ir žmonių įstatymus.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93436|Kristijonas]]: Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93436|Kristijonas (vyskupas, XIII a.)]]: Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.
 - susijęs iš [[objektai/asmenys/Mykolas (Kujavijos vyskupas).md#claim-t-60390|Mykolas (Kujavijos vyskupas)]]: Kujavijos vyskupas Mykolas buvo tarp liudytojų, dalyvavusių tvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
 - susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
 - susijęs iš [[objektai/asmenys/Petras (Vilniaus vyskupas).md#claim-t-184819|Petras (Vilniaus vyskupas)]]: Kojelavičius vaizduoja Vilniaus vyskupą Petrą kaip atkakliai prieštaravusį Vytauto santuokai, nes ji esą pažeidė Dievo ir žmonių įstatymus.
@@ -277,7 +277,7 @@ amziai:
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-05202|Traidenis (valdovas, XIII a.)]]: 1279 m. Traidenio dukra Gaudimantė ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90058|Traidenis (valdovas, XIII a.)]]: Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose.
 - susijęs iš [[objektai/asmenys/Vilhelmas (dekanas).md#claim-t-60462|Vilhelmas (dekanas)]]: Dekanas Vilhelmas dalyvavo kaip liudytojas tvirtinant apie 1226 arba 1230 m. sudarytą Kulmo ir Lubavos žemių dovanojimą Ordinui.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176846|Vytenis]]: Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176846|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę.
 - susijęs iš [[objektai/asmenys/Zemislovas.md#claim-t-186268|Zemislovas]]: Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemislovo prasidėjo vaidai ir ginkluoti susidūrimai.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88536|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis, skelbęs krikščionybę prūsams.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88538|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis ir ragino prūsus atsisakyti stabų garbinimo.
@@ -463,6 +463,6 @@ amziai:
 - Kujavija priklause [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]
 - [[objektai/vietos/Sedlcai]] priklause Kujavija
 - [[objektai/asmenys/Skomantas]] puole Kujavija
-- [[objektai/asmenys/Vytenis]] puole Kujavija
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Kujavija
 - [[objektai/grupes/Lietuviai]] keliavo_i Kujavija
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]] valde Kujavija

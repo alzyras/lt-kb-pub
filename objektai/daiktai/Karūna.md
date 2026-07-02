@@ -181,12 +181,13 @@ Nenurodyta
   pagrindžia:
     - c-008
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176298|Algirdas (Lietuvos valdovas)]]: Algirdas, nelaukdamas pripažinimo ir karūnos iš svetur, vadinosi karaliumi.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176330|Gediminas]]: Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176330|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.
 - susijęs iš [[objektai/asmenys/Hinka iš Valdšteino.md#claim-t-34792|Hinka iš Valdšteino]]: 1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o šiam delsus čekai kreipėsi į Vytautą.
 - susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-176408|Jadvyga]]: 1388–1389 m. Algirdaitis dviem raštais prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176438|Jaunutis (valdovas, XIV a.)]]: Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.
 - susijęs iš [[objektai/asmenys/Jonas Šafranas.md#claim-t-35160|Jonas Šafranas]]: Kancleris Jonas Šafranas buvo vienas iš karūnos politikos vairininkų, dariusių kliūčių Vytauto siekimams.
 - susijęs iš [[objektai/asmenys/Lengvenis.md#claim-t-47958|Lengvenis]]: Lengvenis prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai.
+- susijęs iš [[objektai/asmenys/Mykolas Kosakovskis.md#claim-t-190061|Mykolas Kosakovskis]]: Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu globėju, kurį esą rodė karūna.
 - susijęs iš [[objektai/asmenys/Rusdorfas.md#claim-t-113964|Rusdorfas]]: Magistrui Rusdorfui buvo rašyti Vytauto laiškai dėl Lietuvos karūnos, saugoti Kryžiuočių Slaptajame archyve Karaliaučiuje.
 - susijęs iš [[objektai/asmenys/Vasilijus Vasiljevičius.md#claim-t-87932|Vasilijus Vasiljevičius]]: Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.
 - susijęs iš [[objektai/asmenys/Vladislovas Oporovskis.md#claim-t-35322|Vladislovas Oporovskis]]: Vladislovas Oporovskis, pakeltas pakancleriu, kliudė Vytauto siekimams karūnos politikoje.
@@ -220,6 +221,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78202|Lenkijos kariuomenė]]: Lenkijos kariuomenė buvo sunaikinta mūšyje prie Cecoros, kur žuvo didysis karūnos etmonas Stanislovas Žolkievskis.
 - susijęs iš [[objektai/grupes/Lenkijos senatas.md#claim-t-86758|Lenkijos senatas]]: Be Vladislovo Jogailos ir Lenkijos senato valios Vytautui nebuvo galima uždėti Lietuvos karaliaus karūnos.
 - susijęs iš [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md#claim-t-86719|Lenkų įgula Vilniaus Aukštutinėje pilyje]]: Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188319|Prūsai]]: Narbutas rašo, kad kitas tautinis prūsų herbas vaizdavo dvi karališkas karūnas vieną virš kitos, o apatinė karūna buvo apversta.
 - susijęs iš [[objektai/grupes/Vengrai.md#claim-t-66255|Vengrai]]: Zigmantas buvo įtraukęs vengrus į koaliciją prieš Lenkijos Karūną.
 - susijęs iš [[objektai/grupes/Čekai.md#claim-t-50768|Čekai]]: 1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o vėliau čekai kreipėsi į Vytautą.
 - susijęs iš [[objektai/grupes/Čekai.md#claim-t-50769|Čekai]]: Vytautas atsisakė su čekais susijusio sumanymo, supratęs, kad husitų siūlyta karūna galėtų per brangiai kainuoti.
@@ -249,6 +251,7 @@ Nenurodyta
 - susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus.
 - susijęs iš Horodlės aktai: 1755 m. Nesvyžiaus pilies archyvų liustracijoje buvo minimas Horodlėje sudarytas Lietuvos unijos su Lenkijos Karūna aktas.
 - susijęs iš Aukštutinė pilis: Aukštutinėje tvirtovėje buvo užsidarę lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.
+- susijęs iš Kaunas: Narbutas perteikia Kosakovskio nuomonę, kad rastasis atvaizdas buvęs Kauno miesto dievas globėjas, kaip rodžiusi jo karūna.
 - susijęs iš Krokuva: Vytautas mėgino dovanomis ir pažadais palenkti Krokuvos vyskupą Olesnickį palaikyti jo karūnavimo siekį.
 - susijęs iš Kėzmarkas: 1429 m., praėjus dvidešimt metų po Kėzmarko suvažiavimo, vėl iškilo Vytauto karūnos klausimas.
 - susijęs iš Riazanė: 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
@@ -260,9 +263,9 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/karūnacija karūnuotis.md#claim-t-104168|karūnacija karūnuotis]]: Vytautas paskyrė karūnacijos datą, rugsėjo 8 d., susikvietė svečių ir laukė imperatoriaus žadėtos karūnos su dokumentais.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176293|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176300|Algirdas (Lietuvos valdovas)]]: Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05167|Gediminas]]: Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05170|Gediminas]]: Gediminas iki gyvenimo galo liko pagonis, nieko dėl religinių priežasčių nepersekiojo ir Naugarduke palaikė atskirą Lietuvos stačiatikių arkivyskupiją.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176383|Gediminas]]: Gedimino vardu naudotame antspaude jis tituluotas lietuvių ir rusų karaliumi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05167|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05170|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas iki gyvenimo galo liko pagonis, nieko dėl religinių priežasčių nepersekiojo ir Naugarduke palaikė atskirą Lietuvos stačiatikių arkivyskupiją.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176383|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino vardu naudotame antspaude jis tituluotas lietuvių ir rusų karaliumi.
 - susijęs iš [[objektai/asmenys/J. Mikoliūnas.md#claim-t-40159|J. Mikoliūnas]]: J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių, šautuvų ugnimi sustabdė priešo puolimą prie Kėdainių-Šėtos vieškelio.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51024|Jadvyga (Jogailos duktė)]]: Vytautas buvo pašauktas būti karalaitės Jadvygos globėju ir nuo tada turėjo ryškią įtaką Lenkijos reikaluose.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51028|Jadvyga (Jogailos duktė)]]: Karalaitė Jadvyga buvo pavesta Vytauto globai, nuo kurios prasidėjo ryški jo įtaka lenkų reikaluose.
@@ -310,6 +313,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179269|Lietuviai]]: Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stiprinimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų).
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179360|Livonijos ordinas]]: Per Prūsų ir Livonijos magistrų surengtą puotą Salyno suvažiavime Vytautas paskelbtas Lietuvos karaliumi.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179373|Livonijos ordinas]]: Salyno suvažiavime per Prūsų ir Livonijos magistrų surengtą puotą Vytautas buvo paskelbtas Lietuvos karaliumi.
+- susijęs iš [[objektai/grupes/Radvilos.md#claim-t-188322|Radvilos]]: Šalia aprašyto antspaudo buvo kitas antspaudas su skyde pavaizduotu Vyčiu po karūna ir apačioje esančiu Radvilų Trimitų herbu.
 - susijęs iš [[objektai/ivykiai/Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris).md#claim-t-31419|Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris)]]: Ieškodamas taikos su Vytautu, Jogaila veikė drauge su Skirgaila, kuris buvo didelis Kęstutaičio priešas.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49163|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: Po Kuoknesės mūšio Livonijoje prie Lietuvos kariuomenės prisijungė ir Lenkijos pajėgos, o vadovavimą perėmė Janas Zamoiskis.
 - susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės.md#claim-t-41297|Kėdainių-Šėtos kautynės]]: Kėdainių gynyboje J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių išskleidė abipus vieškelio Kėdainiai-Šėta ir sustabdė bolševikų puolimą.
@@ -364,6 +368,8 @@ Nenurodyta
 - susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai.
 - susijęs iš Tverė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.
 - susijęs iš Tverė: 1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.
+- susijęs iš Vilnius: Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.
+- susijęs iš Vilnius: VI lentelės 40-ajame piešinyje Narbutas nurodė Vilniaus miesto senovinį herbą.
 - susijęs iš Vitebskas: Algirdas dar Gediminui gyvam esant viešpatavo Vitebske ir Krėvoje.
 - susijęs iš Vitebskas: Algirdas, Gediminui dar gyvam esant, viešpatavo Vitebske ir Krėvoje.
 - susijęs iš Volinija: Konflikte su lenkais buvo ginčijamasi dėl Podolės ir Volinijos.

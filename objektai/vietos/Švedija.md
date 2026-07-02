@@ -6,6 +6,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '650 m.'
@@ -22,14 +23,14 @@ date_start: '650'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'VII'
+  - 'XXI'
 tags:
   - karas
   - kunigaikštis
   - upė
   - valstybė
-amziai:
-  - 'VII'
-  - 'XXI'
 ---
 # Švedija
 
@@ -38,7 +39,6 @@ amziai:
 Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras. Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija. Tėvui mirus, 1593 m. jis nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei, Sudermanlandijos kunigaikščiui Karoliui.
 
 ## Teiginiai
-
 <a id="claim-t-122987"></a>
 - t-001
   global_id: t-122987
@@ -71,7 +71,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 121070-121973; hash=ec66c0901c2058d34232f33984d25d4d7042c53b3cd19ae7b095227a29787c76; match=whitespace_regex
+  saltinio_vieta: 749199-749668; hash=194d14699e1b3f41d066f1bc455222035433aecf4553528530b826f710db3207; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Švedai: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -126,7 +126,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - t-006
   global_id: t-122994
   teiginys: 'Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Maskva; mentioned_place: Vilnius; llm_object: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -229,7 +229,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 121070-121973; hash=ec66c0901c2058d34232f33984d25d4d7042c53b3cd19ae7b095227a29787c76; match=whitespace_regex
+  saltinio_vieta: 749199-749668; hash=194d14699e1b3f41d066f1bc455222035433aecf4553528530b826f710db3207; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Švedai: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -260,6 +260,61 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   ryšio_subjekto_parinkimas: Švedija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švedija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188876"></a>
+- t-014
+  global_id: t-188876
+  teiginys: 'Teodoras Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare ir mūšyje prie Abo miesto buvo kontūzytas.'
+  pagrindžia:
+    - c-011
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 6077-6239; hash=6256398b701e4b560d7d7a011982ce89e5076ad0ec51dad55ef05edba899aaf4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: siunte_i -> Švedija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švedija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys ir citata tiesiogiai sako, kad Steponas Batoras išsiuntė pasiuntinybę į Švediją.
+<a id="claim-t-188878"></a>
+- t-015
+  global_id: t-188878
+  teiginys: 'Narbutas Švediją ir Daniją pateikė kaip kraštus, kuriuose prie didžiųjų šventyklų susirinkdavo gausios žmonių minios.'
+  pagrindžia:
+    - c-012
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 749199-749668; hash=194d14699e1b3f41d066f1bc455222035433aecf4553528530b826f710db3207; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Danija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Švedija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Danija: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švedija" parinktas kaip owner_note_path. Targetas "Danija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188879"></a>
+- t-016
+  global_id: t-188879
+  teiginys: 'Narbutas rašė, kad Švedijoje vyriausiasis žynys ir teisėjas dėl savo pareigų laikė save aukščiausiuoju karaliumi.'
+  pagrindžia:
+    - c-013
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 749966-750160; hash=89630ebd48b53f85715626cdb6bcd85d886ccfc04a40caf4b3ad578a4753ef2d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Gotlandas: 0.62
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gotlandas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ekspansija iš Gotlando rodo švedų judėjimo kilmę, bet santykis „keliavo_i“ tik apytikriai perteikia kryptį.
 - susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82987|Zigmantas Vaza]]: 1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.
 - susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79082|Karolis IX]]: Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas.
 - susijęs iš [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes.md#claim-t-78705|Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]: Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
@@ -280,6 +335,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184422|Petras I Didysis]]: Augustas II ir Petras I sudarė sutartį atimti iš Švedijos Baltijos pajūrį.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184425|Petras I Didysis]]: Petras I susitarė su Augustu II dėl Rusijos paramos prieš Švediją.
 - susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82987|Zigmantas Vaza]]: 1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.
+- susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-188391|Adomas Bremenietis]]: Narbutas rašė, kad Adomas Bremenietis mini šventąjį ąžuolą, augusį Švedijoje netoli Upsalos.
 - susijęs iš [[objektai/daiktai/Lietuvos auksas.md#claim-t-13781|Lietuvos auksas]]: Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.
 - susijęs iš [[objektai/daiktai/Lietuvos auksas.md#claim-t-13782|Lietuvos auksas]]: Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65560|Kuršiai]]: Kuršiai XI a. jau rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
@@ -356,7 +412,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79079|Karolis IX]]: Karolis IX vos nepakliuvo į nelaisvę, bet išsigelbėjo, kai švedų reitaras Henrikas Vrede atidavė jam savo žirgą.
 - susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79081|Karolis IX]]: Salaspilio mūšyje Karolis IX netrukus turėjo duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką.
 - susijęs iš [[objektai/asmenys/Karolis XII.md#claim-t-171587|Karolis XII]]: Dalis Livonijos aristokratijos, nepatenkintos Karolio XII valdymu, rėmė Augusto II siekius.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93437|Kristijonas]]: Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93437|Kristijonas (vyskupas, XIII a.)]]: Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus.
 - susijęs iš [[objektai/asmenys/Mieška.md#claim-t-78066|Mieška]]: Lenkijos valdovas Mieška krikštijosi 966 m.
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40368|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų.
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40369|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų strateginį punktą Ladogos paežerėje prie Nevos ištakų.
@@ -395,7 +451,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-183157|Lietuvos kariuomenė]]: 1605 m. Lietuvos kariuomenė Salaspilio mūšyje pasiekė didelę pergalę prieš švedus.
 - susijęs iš [[objektai/grupes/Liuteronai.md#claim-t-45109|Liuteronai]]: LDK santvarka leido liuteronams egzistuoti šalia katalikų ir kitų etnokonfesinių bendrijų.
 - susijęs iš [[objektai/grupes/Raudonoji armija.md#claim-t-78427|Raudonoji armija]]: Po liepos 3 d. Lietuvos kariuomenės pertvarkymo įstatymo Lietuvos kariuomenė tapo Liaudies kariuomene, vėliau – Raudonosios armijos 29-uoju šaulių korpusu.
-- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-66129|Skandinavai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
 - susijęs iš [[objektai/grupes/Stačiatikiai.md#claim-t-182593|Stačiatikiai]]: Bajoriškoji santvarka leido šalia katalikų egzistuoti stačiatikiams ir kitoms etnokonfesinėms bendrijoms.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-183669|Totoriai]]: Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją.
 - susijęs iš [[objektai/grupes/Unitų bažnyčia unitai.md#claim-t-101480|Unitų bažnyčia unitai]]: Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms.
@@ -420,6 +475,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - susijęs iš Žygimanto Augusto paliaubų aktas: Kojelavičiaus vertinimu, Žygimanto Augusto paliaubų aktas galutinai pakirto Lietuvos valstybės jėgas.
 - susijęs iš Birka (Švedijos uostas): Sembai palaikė ryšius su Švedijos uostu Birka ir patys savo laivais ten nuplaukdavo.
 - susijęs iš Biržų pilis (pilis): Iki 1657 m. V. Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė Biržų pilyje buvusi švedų įgula.
+- susijęs iš Danija: Narbutas Daniją mini kaip kraštą, kuriame prie didžiųjų šventyklų susirinkdavo minios žmonių.
 - susijęs iš Daugavgryva: 1609 m. kovą Jonas Karolis Chodkevičius nesėkmingai puolė Daugavgryvą, mėgindamas pralaužti Rygos blokadą.
 - susijęs iš Daugavgryva: 1609 m. kovą Jonas Karolis Chodkevičius puolė Daugavgryvą, siekdamas pralaužti Rygos blokadą, bet švedų įgula atsilaikė.
 - susijęs iš Gdanskas: Kova dėl Livonijos labiausiai domino didesnio uosto neturėjusią Lietuvą, nes Lenkija turėjo Gdansko uostą.
@@ -434,15 +490,14 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - susijęs iš Lenkija: 1791 m. Lietuvos atstovų Spalio 20-osios pataisa neleido LLV Konstitucijos laikyti vien tik Lenkijos konstitucija.
 - susijęs iš Lietuva: Per Šiaurės karą Lietuva ir Lenkija ekonomiškai ir politiškai nusilpo, o jų teritorijas nuniokojo kariuomenės.
 - susijęs iš Lietuvos Brasta: 1657 m. švedų apsiausta Lietuvos Brasta galiausiai pasidavė priešui ir buvo gerokai suniokota.
-- susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
 - susijęs iš Livonija: Didesnio uosto neturėjusi Lietuva buvo labiausiai suinteresuota kova dėl Livonijos, nes Lenkija turėjo Gdansko uostą.
 - susijęs iš Livonija: Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.
-- susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
 - susijęs iš Livonija: 1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu.
 - susijęs iš Livonija: Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.
 - susijęs iš Livonija: 1621 m. švedai užėmė didelę dalį Livonijos, o Rusija tuo metu grasino Lietuvai karu.
 - susijęs iš Livonija: 1621 m. švedai užėmė didelę Livonijos dalį, o Rusija tuo metu grasino Lietuvai karu.
 - susijęs iš Livonija: Stepono Batoro laikais Lietuvos ir Lenkijos karai su Maskva baigėsi Polocko ir visos Livonijos atgavimu.
+- susijęs iš Livonija: Narbutas rašė, kad 1243 m. Livonijos riteriai, šaukdami tikrojo Dievo vardą, užpuolė lietuvius.
 - susijęs iš Maskva: Karai su Maskvos didžiąja kunigaikštyste dėl rytinių teritorijų kėlė ATR ir Rusijos konfliktus XVII a.
 - susijęs iš Maskva: Karai su Maskvos didžiąja kunigaikštyste dėl rytinių teritorijų kėlė konfliktus tarp Abiejų Tautų Respublikos ir Rusijos.
 - susijęs iš Maskva: Maskva minima kaip imperines ambicijas užauginusi rytų grėsmė Lietuvos sukurtai didvalstybei.
@@ -463,7 +518,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - susijęs iš Vilnius: 1933 m. vasarą Šapoka Vilniuje rinko archyvinę medžiagą apie Ketverių metų seimo laikotarpį.
 - susijęs iš Vilnius: A. Šapoka, 1933 m. vasarą Vilniuje prisirinkęs archyvinės medžiagos, paskelbė keturias studijas apie Ketverių metų seimą.
 - susijęs iš Vilnius: Valerijonas Protasevičius Šuškovskis 1556 m. buvo perkeltas į Vilniaus katedrą ir mirė 1579 m. gruodžio 21 d.
-- susijęs iš Vilnius: Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.
 - susijęs iš Vokietija: Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo pergalių prieš katalikų kariuomenes.
 - susijęs iš Vyborgas: Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.
 - susijęs iš Šventaragio slėnis: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
@@ -476,7 +530,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - susijęs iš Rusija: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
 - susijęs iš Rusija: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -678,6 +731,59 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+- c-011
+  santrauka: 'Teodoras Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare ir mūšyje prie Abo miesto buvo kontūzytas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    T. Nar­
+    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
+    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
+    siliepė sveikatai -  jis apkurto.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014
+- c-012
+  santrauka: 'Narbutas Švediją ir Daniją pateikė kaip kraštus, kuriuose prie didžiųjų šventyklų susirinkdavo gausios žmonių minios.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    416
+
+    ## Puslapis 416
+
+    giminių vadai buvo pirmieji žyniai; vykdydami šį pašaukimą,
+    jie teisėjaudavo ir atlikdavo sprendimus; tai ši aplinkybė, at­
+    rodo, paaiškina Tacito prielaidą, kad tik žyniai turėjo baudi­
+    mo teisę. Kai kuriose tautose tie santykiai buvo labiau išryš­
+    kėję, ypač ten, kur į didžiąsias šventyklas susirinkdavo minios
+    žmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau
+    bendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­
+    tykiui.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-015
+- c-013
+  santrauka: 'Narbutas rašė, kad Švedijoje vyriausiasis žynys ir teisėjas dėl savo pareigų laikė save aukščiausiuoju karaliumi.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kaip tik
+    Švedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­
+    jas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­
+    raliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-016
 
 ## Ryšiai
 - [[objektai/asmenys/Zigmantas Vaza]] keliavo_i Švedija

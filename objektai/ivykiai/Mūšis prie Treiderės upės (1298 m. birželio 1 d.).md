@@ -116,4 +116,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Vytenis]] dalyvavo_musyje Mūšis prie Treiderės upės (1298 m. birželio 1 d.)
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] dalyvavo_musyje Mūšis prie Treiderės upės (1298 m. birželio 1 d.)

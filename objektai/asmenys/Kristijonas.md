@@ -1,10 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Kristijonas'
+pavadinimas: 'Kristijonas (vyskupas, XIII a.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -12,24 +13,27 @@ datos:
   - '1259 m.'
 date_start: '1215'
 date_end: '1259'
+variantai:
+  - 'Kristijonas'
+aliases:
+  - 'Kristijonas'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - vyskupas
 amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+tags:
+  - asmuo
+  - vyskupas
 ---
-# Kristijonas
+# Kristijonas (vyskupas, XIII a.)
 
 ## Santrauka
 
 Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, kuriam turėjo ir priklausyti. Kristijonui pasisekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215 m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius. Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristijonas.
 
 ## Teiginiai
-
 <a id="claim-t-93427"></a>
 - t-001
   global_id: t-93427
@@ -47,7 +51,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   global_id: t-93428
   teiginys: 'Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų Kristijono vaidmenį, o pradinis teiginys nutrūkęs ir negramatiškas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Prūsijos vyskupas Kristijonas|Prūsijos vyskupas Kristijonas]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]; mentioned_place: Lukas; mentioned_place: Prūsija; mentioned_place: Romovė'
   pagrindžia:
     - c-005
 
@@ -77,7 +81,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   global_id: t-93432
   teiginys: '1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų.'
   sudarymo_pagrindimas: 'Citatoje veikė ir Konradas, todėl reikia tikslinti veikėjus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Prūsų žemė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Lukas'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1230 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citatoje veikė ir Konradas, todėl reikia tikslinti veikėjus.'
@@ -160,7 +164,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys per ilgas ir turi vertinamąją formuluotę, todėl sutrumpintas iki aiškaus fakto apie Kristijoną.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_author: [[objektai/autoriai/Foigtas|Foigtas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Livonija; mentioned_place: Lukas'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -173,6 +177,61 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   ryšio_subjekto_parinkimas: Kristijonas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kujavija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristijonas" parinktas kaip owner_note_path. Targetas "Kujavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+<a id="claim-t-188568"></a>
+- t-010
+  global_id: t-188568
+  teiginys: 'Narbutas teigė, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūrimą bei krivį grindė pirmojo Prūsijos vyskupo Kristijono kronika.'
+  pagrindžia:
+    - c-010
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 747567-747820; hash=efdfedfa3a4b582cb724c5e2c0ac357ecf2cb36572e86cfd39fcf037f157341d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krivis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristijonas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Krivis: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristijonas" parinktas kaip owner_note_path. Targetas "Krivis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+<a id="claim-t-188569"></a>
+- t-011
+  global_id: t-188569
+  teiginys: 'Narbutas sprendė, kad vyskupas Kristijonas žinojo apie krivio buvimą ir galėjo jį pažinti būdamas prūsų nelaisvėje.'
+  pagrindžia:
+    - c-011
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 747961-748625; hash=6727b5a10c9e2bd2fed957354ec12981d6ae60176db9385d22e861deb485a88f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krivis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristijonas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Krivis: mention_match, person, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristijonas" parinktas kaip owner_note_path. Targetas "Krivis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188570"></a>
+- t-012
+  global_id: t-188570
+  teiginys: 'Narbutas laikė tikėtina, kad Grunau žinią apie vyriausiuosius žynius paėmė iš vyskupo Kristijono kronikos.'
+  pagrindžia:
+    - c-012
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 781062-781787; hash=dcc6cfd056ba18355d50b34fecf3eba877fff15778830718f7fa0caa6105381e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristijonas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=85
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristijonas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Lubavos žemė: Dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59932|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, vyskupo Kristijono ir kai kurių didikų patartas, savo žemei ginti ėmė burti Kristaus karius.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59934|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.
@@ -223,7 +282,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - susijęs iš [[objektai/grupes/Dobrinės ordinas.md#claim-t-01302|Dobrinės ordinas]]: Dobrinės ordinas buvo 1228 m. įkurtas vyskupui priklausęs riterių ordinas.
 - susijęs iš Lubavos žemė: Lubavos žemės nobiliai, vadovaujami Survabūno, pripažino Kristijono valdžią.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -388,11 +446,73 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Narbutas teigė, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūrimą bei krivį grindė pirmojo Prūsijos vyskupo Kristijono kronika.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Abu šie kronikinin­
+    kai -  Lukas Davidas (kn. I. -  P. 16,53-54) ir Simonas Grunau
+    (traktatas II. -  Skyrius 1. -  Skirsnis 4) -  aiškiai įtikina, kad jų
+    žinios apie Romovės įkūrimą ir krivio buvimą remiasi pirmo­
+    jo Prūsijos vyskupo Kristijono kronika.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Narbutas sprendė, kad vyskupas Kristijonas žinojo apie krivio buvimą ir galėjo jį pažinti būdamas prūsų nelaisvėje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    O pats
+    krivis visoje jų istorijoje atlieka tokį svarbų vaidmenį ir yra
+    toks svarbus objektas, kad jeigu jis būtų buvęs pramanytas, tai
+    būtų sugriuvusi visa jos sandara. Todėl reiktų padaryti prie­
+    kaištą Lukui Davidui, kad arba jis išgalvojo pačią vyskupo Kris­
+    tijono kroniką, arba pripasakojo nebūtų joje dalykų; kai dėl
+    antrojo, tai negalima nieko sakyti, nes yra ir kitas liudytojas -
+    kronikininkas Grunau, kuris tą patį perskaitė minėtoje kroni­
+    koje, tad nėra abejonės, kad vyskupas Kristijonas žinojo krivį
+    esant, o gal ir pažino jį iš arti, būdamas prūsų nelaisvėje.
+    Prie šių svetimų įrodymų galima būtų pridurti dar kitus,
+    išplaukiančius iš paties dalyko.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Narbutas laikė tikėtina, kad Grunau žinią apie vyriausiuosius žynius paėmė iš vyskupo Kristijono kronikos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru-
+    nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui,
+    taip pat turėdami omenyje kronikininkams būdingus trūku­
+    mus, negalime neginti Grunau15. Žinią apie vyriausiuosius žy­
+    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
+    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
+    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
+    Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
+    kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
+    Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
+    ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko
+    Davido mirties rankraščių net rasti išrašų iš jos likučiai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
-- [[objektai/vietos/Lubavos žemė]] priklause Kristijonas
-- Kristijonas gyveno [[objektai/vietos/Santyras]]
-- Kristijonas gyveno [[objektai/vietos/Prūsija]]
-- Kristijonas valde [[objektai/vietos/Lanzanija]]
-- Kristijonas valde [[objektai/vietos/Lubava]]
-- [[objektai/grupes/Dobrinės ordinas]] priklause Kristijonas
+- [[objektai/vietos/Lubavos žemė]] priklause Kristijonas (vyskupas, XIII a.)
+- Kristijonas (vyskupas, XIII a.) gyveno [[objektai/vietos/Santyras]]
+- Kristijonas (vyskupas, XIII a.) gyveno [[objektai/vietos/Prūsija]]
+- Kristijonas (vyskupas, XIII a.) valde [[objektai/vietos/Lanzanija]]
+- Kristijonas (vyskupas, XIII a.) valde [[objektai/vietos/Lubava]]
+- [[objektai/grupes/Dobrinės ordinas]] priklause Kristijonas (vyskupas, XIII a.)

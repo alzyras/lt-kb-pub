@@ -97,8 +97,8 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
   ryšio_subjekto_parinkimas: Bremeno pirkliai: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Pamaris: llm_allowed_candidate, place
   ryšio_paaiskinimas: Citata tiesiogiai mini prekybinių ryšių užmezgimą su pamariu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176343|Gediminas]]: Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176343|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.
 - susijęs iš [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.).md#claim-t-86973|Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]: Gediminas 1337 m. žuvo mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
 - susijęs iš [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.).md#claim-t-86976|Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]: Gediminas 1337 m. buvo nužudytas mūšyje su kryžiuočiais prie Bajerburgo pilies, netoli Veliuonos.
 - susijęs iš [[objektai/paprociai/Kolonistų vadovavimasis Rygos miesto civiline teise.md#claim-t-87244|Kolonistų vadovavimasis Rygos miesto civiline teise]]: Gediminas laiške pranešė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise, kol bus sukurti geresni įstatymai.

@@ -1,0 +1,142 @@
+---
+tipas: asmuo
+pavadinimas: 'Antanas Marcinovskis'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+datos:
+  - '1781 m.'
+  - '1859 m.'
+date_start: '1781'
+date_end: '1859'
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XVIII'
+  - 'XIX'
+periodo_grupes:
+  - 'LDK'
+---
+# Antanas Marcinovskis
+
+## Santrauka
+
+Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių tautos istorija“. Narbutas nurodo, kad „Kurjer Litewski“ redaktorius ir jo veikalų leidėjas Marcinovskis atsiuntė jam tikslią piešinio kopiją. Antanas Marcinovskis buvo Vilniaus literatas, redaktorius ir leidėjas, kuriam Tadas Bulgarinas buvo pasiuntęs monetą perduoti Narbutui.
+
+## Teiginiai
+<a id="claim-t-190019"></a>
+- t-001
+  global_id: t-190019
+  teiginys: 'Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių tautos istorija“.'
+  pagrindžia:
+    - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 99897-100426; hash=434b1579bd1cc1859d44f5714fe1f98cbc02c76e8721f08e2f8b485d2f04c2b9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antanas Marcinovskis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antanas Marcinovskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Antanas Marcinovskis: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Marcinovskis" parinktas kaip owner_note_path. Targetas "Antanas Marcinovskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-190020"></a>
+- t-002
+  global_id: t-190020
+  teiginys: 'Narbutas nurodo, kad „Kurjer Litewski“ redaktorius ir jo veikalų leidėjas Marcinovskis atsiuntė jam tikslią piešinio kopiją.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 440956-441221; hash=733467515c66fa12873e0a71067ff53a3f4bed6044d657871490cd663ef48dd7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antanas Marcinovskis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antanas Marcinovskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Antanas Marcinovskis: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Marcinovskis" parinktas kaip owner_note_path. Targetas "Antanas Marcinovskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-190021"></a>
+- t-003
+  global_id: t-190021
+  teiginys: 'Antanas Marcinovskis buvo Vilniaus literatas, redaktorius ir leidėjas, kuriam Tadas Bulgarinas buvo pasiuntęs monetą perduoti Narbutui.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 868395-868885; hash=b7e1ea73cc96a5e103fb9975c275f79b86cf8d0c60948b87e818be0dffce054b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antanas Marcinovskis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antanas Marcinovskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Antanas Marcinovskis: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Marcinovskis" parinktas kaip owner_note_path. Targetas "Antanas Marcinovskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių tautos istorija“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Enciklopedinės žinios, šviesus protas, publicistiniai
+    sugebėjimai, darbštumas -  tai bruožai, kurie buvo būdingi pra­
+    ėjusio, XVIII amžiaus leidėjui. Taigi A. Marcinovskiui rūpėjo
+    ne tik nauda -  visi XIX amžiaus tyrinėtojai kaip pavyzdį patei­
+    kia faktą, kad būtent jo leidykloje buvo leidžiama LTI. Pats
+    T. Narbutas, jau praėjus daugeliui metų po paskutinio tomo
+    publikavimo, teigė, jog A. Marcinovskis jo „Istorija“ pelnė ir
+    naudą, ir šlovę. Jis buvo teisus: „Marcinovskis“ ir „Narbuto
+    leidėjas“ tapo neatskiriamais epitetais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Narbutas nurodo, kad „Kurjer Litewski“ redaktorius ir jo veikalų leidėjas Marcinovskis atsiuntė jam tikslią piešinio kopiją.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pieši­
+    nys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią
+    piešinio kopiją atsiuntė ponas Marcinovskis, „Kurjer Litewski“
+    redaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir
+    tikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Antanas Marcinovskis buvo Vilniaus literatas, redaktorius ir leidėjas, kuriam Tadas Bulgarinas buvo pasiuntęs monetą perduoti Narbutui.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    506
+
+    ## Puslapis 494
+
+    Pasirodo, kad T. Bulgarinas (1789-1859) ją iš tik­
+    rųjų buvo pasiuntęs garsiam Vilniaus literatui, re­
+    daktoriui, leidėjui (žinoma, ir T. Narbuto LTI) An­
+    tanui Marcinovskiui (1781-1842). Šis peterburgiš-
+    kio literato prašymu monetą turėjęs perduoti
+    T. Narbutui, bet pažado neįvykdė: radinį įteikė Vil­
+    niuje viešėjusiam ministrui (kokiam -  neaišku), o
+    istorikui nusiuntė tik litografo Juozapo Ozemblov-
+    skio padarytą piešinį (MAB RS. -  F. 17. -  B. 247C. -
+    L. 435).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

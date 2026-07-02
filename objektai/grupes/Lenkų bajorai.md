@@ -36,6 +36,8 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   saltinio_vieta: hash=365a82de19dc30c5b5d970d390a193dc7c54f794d1deec9b7560ad7860af7f9f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
 - susijęs iš [[objektai/ivykiai/Vilniaus-Radomo susitarimas.md#claim-t-66976|Vilniaus-Radomo susitarimas]]: 1401 m. po ilgų derybų pasiektą Vilniaus-Radomo susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkijos bajorai.
+- susijęs iš Horodlė: 1413 m. Horodlės seime lenkų bajorai suteikė savo herbus lietuvių bajorams kaip abiejų tautų susijungimo ženklą.
+- susijęs iš Horodlė: 1413 m. Horodlės seime lenkų bajorai suteikė savo herbus lietuvių bajorams kaip abiejų tautų susijungimo ženklą.
 - susijęs iš [[objektai/asmenys/Vilhelmas Habsburgas.md#claim-t-64243|Vilhelmas Habsburgas]]: Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu.
 - susijęs iš [[objektai/asmenys/Vilhelmas.md#claim-t-51186|Vilhelmas]]: Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu.
 - susijęs iš [[objektai/asmenys/Vilhelmas.md#claim-t-51187|Vilhelmas]]: Austrijos hercogas Vilhelmas buvo sužieduotas su vienuolikmete Jadvyga dar jos tėvui mirštant.
@@ -79,3 +81,6 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/daiktai/Herbai]] priklause Lenkų bajorai

@@ -382,7 +382,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 - susijęs iš [[objektai/asmenys/Brunonas.md#claim-t-89681|Brunonas]]: Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų.
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185987|Jonušas (Mazovijos kunigaikštis)]]: Jonušas ir Zemovitas priėmė į Mazoviją pasitraukusį Vytautą, bet nesistengė suteikti jam deramos pagalbos.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59932|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, vyskupo Kristijono ir kai kurių didikų patartas, savo žemei ginti ėmė burti Kristaus karius.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93428|Kristijonas]]: Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.
 - susijęs iš [[objektai/asmenys/Kristupas iš Viljandžio.md#claim-t-186229|Kristupas iš Viljandžio]]: Kristupas iš Viljandžio, krašto maršalas, buvo vienas iš dviejų riterių išrinktų vyrų, savo parašais patvirtinusių susitarimo raštus.
 - susijęs iš [[objektai/asmenys/Liubartas Gediminaitis.md#claim-t-30353|Liubartas Gediminaitis]]: Liubartas Gediminaitis mirė apie 1385 m.
 - susijęs iš [[objektai/asmenys/Liudvikas Bavaras.md#claim-t-60052|Liudvikas Bavaras]]: 1325–1326 m. Liudvikas Bavaras buvo vienoje jėgų grupuotėje su Brandenburgu, Kryžiuočių ordinu ir Galičo–Volynės kunigaikštyste.
@@ -410,8 +409,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 - susijęs iš Drohičinas: Lietuvos metraštyje pasakojama, kad Erdvilas rado Drohičiną Batu nusiaubtą ir sunaikintą, vėliau jį atstatė ir jame kunigaikščiavo.
 - susijęs iš Drohičinas: Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis.
 - susijęs iš Gardinas: Vytautas Gardine rėmė dominikonus ir pranciškonus, skirdamas jiems donacijas ir bažnyčias.
-- susijęs iš Gardinas: Vytauto laikais Gardine, Naugarduke, Melnike ir Lucke imta statyti pilis toli nuo etninės Lietuvos.
-- susijęs iš Gardinas: Vytauto laikais Gardine, Juodosios Rusios LDK žemėje, imta statyti gotikines pilis.
 - susijęs iš Gardinas: Prie Trakų Kęstutis rado Vytautą, atsivedusį kariuomenės būrį iš Gardino.
 - susijęs iš Gardinas: Prie Trakų Kęstutis rado Vytautą, kuris buvo atsivedęs kariuomenės būrį iš Gardino.
 - susijęs iš Juodoji Rusia: Vytauto laikais Juodojoje Rusioje, Gardine ir Naugarduke, pradėtos statyti LDK pilys.

@@ -3,19 +3,20 @@ tipas: grupe
 pavadinimas: 'Normanai'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1420 m.'
 date_start: '1420'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
 tags:
   - ežeras
   - grupe
   - kunigaikštis
   - miestas
-amziai:
-  - 'XV'
 ---
 # Normanai
 
@@ -24,7 +25,6 @@ amziai:
 Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję plėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam tikros pažangos tiems varganiems gyventojams, panašiai kaip ir į Rusios kraštus už Dvinos. Visi žemaičiai nuo se­ nų laikų lietuviais save vadino, bet niekados - žemaičiais, ir dėl tokio ta­ patumo mes mūsų titule nerašome Žemaitijos vardo, nes viskas yra vie­ na - ir žemė, ir žmonės/' 3 Kraštas, lankytas normanų piratų iš Švedijos, Norvegijos ir. Tad galėjo čia pirmiau būti skandinavų nausėdijos, taigi Vilniaus pradžia gal siekia normanų piratus, kūrusius Lietuvoje seniausias gyvenvietes IX-X amžiuje.
 
 ## Teiginiai
-
 <a id="claim-t-86723"></a>
 - t-001
   global_id: t-86723
@@ -64,6 +64,25 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
   ryšio_subjekto_parinkimas: Normanai: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
   ryšio_paaiskinimas: Kraštas prie Baltijos pakrantės apibūdinamas kaip normanų piratų lankytas, tad fiksuojama jų kelionių kryptis.
+
+<a id="claim-t-188289"></a>
+- t-003
+  global_id: t-188289
+  teiginys: 'Narbutas rašo, kad šiaurės sagose minimi normanų jūros žygiai į turtingą Permę, arba Biarmiją.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 374183-374607; hash=75a7e4135ed95a749518e08b6e7da311433ab64b1e08a488b94a93c48f8c9b76; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: surenge_zygi_i -> Biarmija: 0.80
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Normanai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Biarmija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini normanų jūros žygius į Permę, arba Biarmiją.
 - susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
 - susijęs iš Saga Olafs konungs Tryggvasonar: „Saga Olafs konungs Tryggvasonar“ rytų Pabaltijį kartą pavadina senuoju terminu „Eistr“.
 - susijęs iš Vilnius: Balińskis svarstė, kad Vilniaus pradžia galėjo siekti IX-X a. normanus, kūrusius seniausias gyvenvietes Lietuvoje.
@@ -98,7 +117,6 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
 - susijęs iš [[objektai/zodynas/Variagai.md#claim-t-55271|Variagai]]: IX a. Rusioje pirmieji normanai iš Skandinavijos buvo žinomi variagų vardu.
 - susijęs iš [[objektai/zodynas/bajorkaimiai.md#claim-t-28571|bajorkaimiai]]: Essenas normanų įtakos pėdsakų siūlė ieškoti Lietuvos bajorkaimiuose, bet tam reikėjo gilesnio moksliško pagrindimo.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -172,8 +190,28 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-003
+  santrauka: 'Narbutas rašo, kad šiaurės sagose minimi normanų jūros žygiai į turtingą Permę, arba Biarmiją.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Panemunių Žemaitijoje paplitęs garsus padavimas skel­
+    bia štai ką . Jūrininkai, atplaukę iš už jūros, plaukė Nemunu
+    10
+    Permė, arba Biarmija, buvo turtingas kraštas, ypač tauriųjų
+    metalų, todėl traukė plėšikus normanus; šito įrodymų yra šiaurės
+    sagose, tarp kitų Kormaks -  saga pasakoja, kad Norvegijos karalius
+    Hanaldas Graurokas darė jūros žygius į Biarmenlandiją. Tai buvo X
+    amžiaus pirmojoje pusėje (Sagaen Bibliothek v.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] prekiavo_su Normanai
+- Normanai surenge_zygi_i [[objektai/vietos/Biarmija]]
 - Normanai keliavo_i [[objektai/vietos/Baltija]]
 - Normanai gyveno [[objektai/vietos/Lietuva]]

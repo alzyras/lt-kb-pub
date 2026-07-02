@@ -69,8 +69,7 @@ Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornva
   ryšio_subjekto_parinkimas: Alfonsas (Kastilijos karalius): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Anglija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alfonsas (Kastilijos karalius)" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188050|Norbertas Vėlius]]: Norbertas Vėlius nurodytas kaip vieno šio leidinio įvedamojo straipsnio autorius.
-- susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188052|Norbertas Vėlius]]: Norbertas Vėlius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
+
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -97,13 +97,11 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     kad atvykę deramai pataisytų tai, kas atsitiko.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Šv. Teofrido vienuolyno abatas Bernardas kartu su Alėto vyskupu Baltramiejumi tapo pasiuntiniu taikos ir krikšto reikalu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -118,10 +116,9 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     vienuolyno abatas Bernardas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
 

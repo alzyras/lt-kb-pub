@@ -139,7 +139,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš Naugardas: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
 - susijęs iš [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas).md#claim-t-60250|Bernardas (Šv. Teofrido vienuolyno abatas)]]: Bernardas, Šv. Teofrido vienuolyno abatas, 1324 m. buvo popiežiaus Jono XXII pasiųstas į Livoniją kaip legatas.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79042|Jonas Karolis Katkevičius]]: 1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176835|Vytenis]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176835|Vytenis (valdovas, XIII–XIV a.)]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178830|Kryžiuočių ordinas]]: Popiežiaus rūmuose Avinjone buvo svarstomi Kryžiuočių ordino santykiai su Lenkija, Ryga ir Lietuvos valdovu.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179377|Livonijos ordinas]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.
 - susijęs iš [[objektai/ivykiai/Livonijos karai.md#claim-t-45427|Livonijos karai]]: Livonijos karuose 1558–1583 m. Lietuva ir Lenkija gavo didžiąją Livonijos dalį kartu su Ryga.
@@ -181,22 +181,22 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89716|Fridrichas (Rygos arkivyskupas)]]: Balińskis manė, kad Rygos arkivyskupas Fridrichas Gedimino vardu parengė ir išsiuntinėjo laiškus prieš Kryžiuočių ordiną.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos vyskupas).md#claim-t-186204|Fridrichas (Rygos vyskupas)]]: Rygos vyskupas Fridrichas bandė sutaikyti Livonijos ordiną ir Lietuvą, pasitelkęs popiežiaus Jono XXII autoritetą.
 - susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60014|Fridrichas (Švabijos kunigaikštis)]]: Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį Henriką, kad šis tarpininkautų popiežiaus kurijoje.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176324|Gediminas]]: Gediminas per pasiuntinius esą garantavo, kad jo valia nebuvo siunčiami jokie laiškai miestams, šalims ar popiežiui.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176336|Gediminas]]: Popiežiaus legatai išsiuntė pasiuntinybę pas Gediminą ištirti, ar lietuvių karalius su savo žmonėmis nori priimti krikštą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176341|Gediminas]]: Balińskio nuomone, Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176343|Gediminas]]: Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176344|Gediminas]]: Michałas Balińskis rašė, kad Rygos arkivyskupas slapta parašė ir Gedimino vardu pasiuntė laiškus popiežiui, pajūrio miestams ir vienuoliams.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176355|Gediminas]]: Balińskis teigė, kad laiškai popiežiui, ordinams ir Vokietijos miestams buvo parašyti ne Gedimino žinia ar valia.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176356|Gediminas]]: Gediminas per pasiuntinius garantavo, kad jo valia laiškai miestams, šalims ar popiežiui nebuvo siuntinėjami.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176362|Gediminas]]: Į popiežiaus rūmus atvykusi misija pranešė apie Gedimino ryžtą pereiti į naują tikėjimą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176367|Gediminas]]: Michałas Balińskis rašė, kad Gedimino vardu laiškus popiežiui, pajūrio miestams ir vienuoliams slapta parašė Rygos arkivyskupas.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176371|Gediminas]]: Gedimino misija popiežiui žodžiu pranešė apie jo ryžtą pereiti į naują tikėjimą ir prašė siųsti tikėjimo mokytojų.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176378|Gediminas]]: Gedimino valdymo metu Vilnius, regis, tapo gana svarbiu prekybos centru.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176384|Gediminas]]: Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176394|Gediminas]]: Gedimino valdymo metu Vilnius, regis, ėmė darytis gana svarbiu prekybos centru.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176395|Gediminas]]: 1317 m. Gediminas iš popiežiaus Jono XXII gavo raginimą krikštytis.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176396|Gediminas]]: Gediminas, kaip skelbė Prūsijoje pasklidęs gandas, į visas šalis išsiuntinėjo laiškus apie norą priimti krikštą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176324|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas per pasiuntinius esą garantavo, kad jo valia nebuvo siunčiami jokie laiškai miestams, šalims ar popiežiui.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176336|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Popiežiaus legatai išsiuntė pasiuntinybę pas Gediminą ištirti, ar lietuvių karalius su savo žmonėmis nori priimti krikštą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176341|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskio nuomone, Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176343|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176344|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Michałas Balińskis rašė, kad Rygos arkivyskupas slapta parašė ir Gedimino vardu pasiuntė laiškus popiežiui, pajūrio miestams ir vienuoliams.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176355|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis teigė, kad laiškai popiežiui, ordinams ir Vokietijos miestams buvo parašyti ne Gedimino žinia ar valia.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176356|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas per pasiuntinius garantavo, kad jo valia laiškai miestams, šalims ar popiežiui nebuvo siuntinėjami.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176362|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Į popiežiaus rūmus atvykusi misija pranešė apie Gedimino ryžtą pereiti į naują tikėjimą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176367|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Michałas Balińskis rašė, kad Gedimino vardu laiškus popiežiui, pajūrio miestams ir vienuoliams slapta parašė Rygos arkivyskupas.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176371|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino misija popiežiui žodžiu pranešė apie jo ryžtą pereiti į naują tikėjimą ir prašė siųsti tikėjimo mokytojų.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176378|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino valdymo metu Vilnius, regis, tapo gana svarbiu prekybos centru.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176384|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176394|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino valdymo metu Vilnius, regis, ėmė darytis gana svarbiu prekybos centru.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176395|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1317 m. Gediminas iš popiežiaus Jono XXII gavo raginimą krikštytis.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176396|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, kaip skelbė Prūsijoje pasklidęs gandas, į visas šalis išsiuntinėjo laiškus apie norą priimti krikštą.
 - susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60020|Gotfridas Hohenlohė]]: 1298 m. Gotfridas Hohenlohė lankėsi Prūsijoje ir pasiuntė Bertoldą Briuhaveną su kariais į pagalbą Livonijos broliams.
 - susijęs iš [[objektai/asmenys/Gotfridas fon Ustas.md#claim-t-87506|Gotfridas fon Ustas]]: Gotfridas fon Ostas buvo vienas iš Ordino riterių Liubeke, kurių patarimo nutarta prašyti dėl Gedimino laiškų.
 - susijęs iš [[objektai/asmenys/Gotszalk Schutte.md#claim-t-35080|Gotszalk Schutte]]: Rygos arkivyskupas Gotszalk Schutte reiškė pretenzijas į Žemaičių vyskupiją.
@@ -236,9 +236,9 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Vytenis (Lietuvos karalius).md#claim-t-39419|Vytenis (Lietuvos karalius)]]: 1311 m. per Užgavėnes Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176838|Vytenis]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis bandė pasinaudoti Livonijos vidaus prieštaravimais.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176839|Vytenis]]: Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis (valdovas, XIII–XIV a.)]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176838|Vytenis (valdovas, XIII–XIV a.)]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis bandė pasinaudoti Livonijos vidaus prieštaravimais.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176839|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179696|Švitrigaila]]: Didysis magistras apstatė Švitrigailą savo parankiniais, siekdamas silpninti Lietuvos ir Lenkijos vienybę.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179707|Švitrigaila]]: Po sėkmingo žygio Švitrigaila sudarė ilgalaikes paliaubas su karaliumi.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179718|Švitrigaila]]: Švitrigaila su iš Didžiojo Naugardo atsiųstais bojarinais sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.
@@ -293,7 +293,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179120|Kryžiuočių ordinas]]: Rygos pasiuntiniai pranešė popiežiui, kad Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti taikai.
 - susijęs iš [[objektai/grupes/Latvijos Lietuvių Sąjunga.md#claim-t-74046|Latvijos Lietuvių Sąjunga]]: Latvijos Lietuvių Sąjunga tuo metu buvo viena iš Latvijos lietuvių organizacijų.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179223|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179265|Lietuviai]]: 1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179287|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169699|Lietuvos Didžioji Kunigaikštystė]]: 1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-183158|Lietuvos kariuomenė]]: 1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.
@@ -732,6 +731,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - [[objektai/vietos/Livonija]] priklause Ryga
 - [[objektai/grupes/Kryžiuočių ordinas]] puole Ryga
 - [[objektai/vietos/Lietuva]] prekiavo_su Ryga
+- Ryga priklause [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Naugardas]] prekiavo_su Ryga
 - Ryga priklause [[objektai/grupes/Kryžiuočių ordinas]]
 - Ryga prekiavo_su [[objektai/vietos/Lietuva]]

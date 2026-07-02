@@ -128,6 +128,7 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
 - susijęs iš Vilnius: 1580 m. birželio 18 d. Vilniaus turguje už klastą ir tėvynės išdavystę buvo nukirsdintas Jurgis Astikas.
 - susijęs iš Vilnius: Vilnius tuo metu tapo vienu gražiausių Rytų Europos miestų ir turėjo daug ponų rūmų.
 - susijęs iš Vilnius: Vilniuje ponai prisistatė daugybę rūmų, o miestas tapo vienu gražiausių Rytų Europos miestų.
+- susijęs iš Vilnius: Narbuto minima knygelė eilėmis pasakojo 1748 ir 1749 m. Vilniuje įvykusių gaisrų istoriją.
 - susijęs iš Žemaitija: Vytautui priskiriama bažnyčios fundacija buvo laikoma viena pirmųjų bažnyčių Žemaitijoje po krikščionybės įvedimo.
 - susijęs iš [[objektai/zodynas/Sanctuarium.md#claim-t-86616|Sanctuarium]]: Veliuonos aukštutinio miestelio gotikinės mūro bažnyčios mažesnioji dalis buvo vadinama Sanctuarium.
 - susijęs iš [[objektai/zodynas/beneficija.md#claim-t-86583|beneficija]]: Vilniaus bažnyčios prelatai, kanauninkai ir kiti diecezijos beneficijų turėtojai buvo raginami dalį skirti kolegijai.

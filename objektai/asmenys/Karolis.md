@@ -40,6 +40,7 @@ Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatori
 - susijęs iš [[objektai/asmenys/Karolis (švedų kunigaikštis).md#claim-t-40261|Karolis (švedų kunigaikštis)]]: Švedų kunigaikštis Karolis vadovavo Revelio danų kariuomenei ir turėjo savo būrį.
 - susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40108|Frederikas Joachimas Mansfeldas]]: 1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje.
 - susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82987|Zigmantas Vaza]]: 1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-188343|Slavai]]: Narbutas aiškino, kad slavai rusinai Perūno kultą iškilmingai perėmė tik po Vladimiro Didžiojo ir Sveneldo veiksmų.
 - susijęs iš [[objektai/ivykiai/Junigedos papilio sudeginimas (1315 m. spalio 12 d.).md#claim-t-62300|Junigedos papilio sudeginimas (1315 m. spalio 12 d.)]]: 1315 m. spalio 12 d. Karolis su 6000 vyrų naktį puolė Junigedos papilį, paėmė 78 žmones į nelaisvę ir sudegino papilį iki pamatų.
 - susijęs iš [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.).md#claim-t-01806|Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]: 1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.
 - susijęs iš Junigeda: 1315 m. spalio 12 d. didysis magistras Karolis naktį nuplaukė prie Junigedos pilies ir sudegino jos papilį.

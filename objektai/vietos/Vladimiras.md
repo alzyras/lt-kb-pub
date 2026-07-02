@@ -72,9 +72,11 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 - susijęs iš Maskva: 1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas diegė Maskvos sprendimus.
 - susijęs iš Maskva: 1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas perėmė realią aukščiausiąją valdžią.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176281|Algirdas (Lietuvos valdovas)]]: 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.
+- susijęs iš [[objektai/asmenys/Sveneldas.md#claim-t-190212|Sveneldas]]: Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiajame Naugarde.
 - susijęs iš [[objektai/daiktai/Vytauto paveikslas.md#claim-t-65004|Vytauto paveikslas]]: 1930 m. Pasvalyje ypatinga ceremonija buvo pagerbtas po Lietuvą keliavęs Vytauto Didžiojo paveikslas.
 - susijęs iš Kijevas: Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį.
 - susijęs iš Kijevas: Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo.
+- susijęs iš Naugardas: Narbutas teigė, kad Vladimiras X a. Kijeve ir Naugarde pastatė Perkūno stabus, panašius į lietuvių Perkūno stabą.
 - susijęs iš Oviučis: Vytautas tą patį pavasarį paėmė Žitomiro ir Oviučio miestus.
 - susijęs iš Oviučis: Vytautas tą patį pavasarį paėmė Žitomiro ir Oviučio miestus.
 - susijęs iš Ovručas: 1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.
@@ -126,6 +128,6 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] apgule Vladimiras
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] apgule Vladimiras
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Vladimiras
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Vladimiras

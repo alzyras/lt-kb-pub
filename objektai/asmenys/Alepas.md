@@ -3,16 +3,13 @@ tipas: asmuo
 pavadinimas: 'Alepas'
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-datos:
-  - '1265 m.'
-date_start: '1265'
+datos: []
+date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
+amziai: []
+periodo_grupes: []
 ---
 # Alepas
 
@@ -48,64 +45,125 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
       - Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
 
 ## Teiginiai
-
-<a id="claim-t-187909"></a>
-- t-001
-  global_id: t-187909
+<a id="claim-t-190647"></a>
+- t-007
+  global_id: t-190647
   teiginys: 'Narbutas Alepą vadina paskutiniu Prūsijos Krivių Krivaičiu.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Alepą ir Narbuto vartojamą titulą. Atribucija palikta, nes titulinis įvardijimas šiame profilyje jautrus interpretacijai.'
-  susije_objektai: 'mentioned_place: Prūsija'
   pagrindžia:
     - c-001
-
-<a id="claim-t-187910"></a>
-- t-002
-  global_id: t-187910
-  teiginys: 'Narbutas pasakoja, kad 1265 m. Alepas ragino žymiausius žmones išsižadėti stabmeldystės, priimti krikštą ir užsitikrinti politinę ramybę.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai sieja Alepą su 1265 m. veiksmu. Religinė ir motyvacinė kalba palikta Narbuto pasakojimo atribucijoje.'
-  susije_objektai: 'mentioned_place: Prūsija'
-  temporaliniai_duomenys: 'įvykio data: 1265 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir aiškiai sieja Alepą su 1265 m. veiksmu. Religinė ir motyvacinė kalba palikta Narbuto pasakojimo atribucijoje.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-187911"></a>
-- t-003
-  global_id: t-187911
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 499734-500189; hash=de57e529edce353f4b980bb88b0cf0b0cb9d89cc2b7edea8f81b1e9a16ad8f18; match=exact
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Alepas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alepas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- t-008
   teiginys: 'Narbutas spėja, kad Alepas buvo išguitas iš Romovės, gyveno įvairiose vietovėse ir slapstėsi nuo kryžiuočių.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Išskleistas Alepo gyvenimas įvairiose vietovėse, tiesiogiai paremtas citata. Spėjimas paliktas su Narbuto atribucija, nepridedant priežasčių už citatos ribų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Alepas|Alepas]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
-
-<a id="claim-t-187912"></a>
-- t-004
-  global_id: t-187912
-  teiginys: 'Narbutas vaizduoja Alepą kaip pasprukusį nuo žynių ir liaudies, kuriuos vadina užsispyrusiais savasties gynėjais, ir pabėgusį pas kryžiuočius.'
-  teiginio_tipas: 'saltinio_vaizdinys'
-  sudarymo_pagrindimas: 'Neaiškus „savųjų“ pakeistas citatoje įvardytais žyniais ir liaudimi. Vertinamasis apibūdinimas išlaikytas kaip Narbuto vaizdavimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 499734-500189; hash=de57e529edce353f4b980bb88b0cf0b0cb9d89cc2b7edea8f81b1e9a16ad8f18; match=exact
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Alepas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alepas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- t-009
+  teiginys: 'Narbutas pasakoja, kad 1265 m. Alepas ragino žymiausius žmones išsižadėti stabmeldystės, priimti krikštą ir užsitikrinti politinę ramybę.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-187913"></a>
-- t-005
-  global_id: t-187913
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 499855-500489; hash=639693c2ad3640f9eb7a27263f050aad6b08bda8de418e2e25b8de8794d18ff5; match=exact
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Prūsija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Alepas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alepas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- t-010
+  teiginys: 'Narbutas vaizduoja Alepą kaip pasprukusį nuo žynių ir liaudies, kuriuos vadina užsispyrusiais savasties gynėjais, ir pabėgusį pas kryžiuočius.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 500190-500845; hash=23d5ef52086663cbf7e66b01855b96dfcc9861c73e00399f91eede1c37050ebc; match=exact
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Žyniai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Alepas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Žyniai: mention_match, group, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alepas" parinktas kaip owner_note_path. Targetas "Žyniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- t-011
   teiginys: 'Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip stiprų smūgį prūsų stabmeldystei ir sieja su religinės sostinės perkėlimu į Lietuvą.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Narbuto religinę interpretaciją apie Alepo atsivertimą. Atribucija būtina, todėl ji palikta pačiame sakinyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
-
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 501362-501950; hash=5a477774f391b8a76210160e0d7186e51173c5449033822cc05352f260d69c6c; match=exact
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Alepas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=124
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alepas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- t-012
+  teiginys: 'Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip smūgį prūsų stabmeldystei, po kurio religinė sostinė buvo perkelta į Lietuvą.'
+  pagrindžia:
+    - c-005
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 501579-502048; hash=a632a57e73c7431651c96efeeb8c34745ece6af854e221849cf37f615a805ab8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Alepas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=117
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alepas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- t-013
+  teiginys: 'Narbutas, remdamasis Prūsijos kronikomis, nurodo, kad iki vyriausiojo žynio Alepo buvo 481 žynys, o 1265–1414 m. jų dar buvo 23.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 779189-779659; hash=4f311a90f6d54b3ce61acb2eb520429b6a74eaa5b50dbfc700a1352b962e252c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gintautas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Alepas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gintautas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alepas" parinktas kaip owner_note_path. Targetas "Gintautas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188215|Kryžiuočių ordinas]]: Narbutas pasakoja, kad paskutinis Prūsijos Krivių Krivaitis Alepas 1265 m. pabėgo pas kryžiuočius ir buvo pakrikštytas.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188309|Prūsai]]: Narbutas spėja, kad paskutinis Prūsijos Krivių Krivaitis Alepas buvo išguitas iš Romovės ir slapstėsi nuo kryžiuočių, siekusių jį sučiupti.
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Narbutas Alepą vadina paskutiniu Prūsijos Krivių Krivaičiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Tada būtų pridėtos
@@ -116,15 +174,37 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
     je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
     žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-003
+    - t-007
+    - t-008
 - c-002
+  santrauka: 'Narbutas pasakoja, kad 1265 m. Alepas ragino žymiausius žmones išsižadėti stabmeldystės, priimti krikštą ir užsitikrinti politinę ramybę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Todėl vyriausiųjų žy­
+    nių sąrašo autentiškumas nekelia įtarimo. Paskutinis Prūsijos
+    Krivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­
+    rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
+    je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
+    žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti. Paga­
+    liau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
+    žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
+    pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
+    ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
+    ir garantuotų sau politinę ramybę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-003
   santrauka: 'Narbutas vaizduoja Alepą kaip pasprukusį nuo žynių ir liaudies, kuriuos vadina užsispyrusiais savasties gynėjais, ir pabėgusį pas kryžiuočius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -140,36 +220,15 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     apie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už­
     kietėjusių savo savasties gynėjų -  žynių ir liaudies, pabėgo pas
     kryžiuočius.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_vaizdinys
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-003
-  santrauka: 'Narbutas pasakoja, kad 1265 m. Alepas ragino žymiausius žmones išsižadėti stabmeldystės, priimti krikštą ir užsitikrinti politinę ramybę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Todėl vyriausiųjų žy­
-    nių sąrašo autentiškumas nekelia įtarimo. Paskutinis Prūsijos
-    Krivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­
-    rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
-    je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
-    žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti. Paga­
-    liau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
-    žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
-    pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
-    ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
-    ir garantuotų sau politinę ramybę.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - t-010
 - c-004
+  santrauka: 'Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip stiprų smūgį prūsų stabmeldystei ir sieja su religinės sostinės perkėlimu į Lietuvą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Tačiau dievai beveik niekad nepriimdavo šių maldavimų
@@ -182,13 +241,50 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     čionybę, religinė sostinė buvo perkelta į Lietuvą, kur susiklos­
     tė nauja vyriausiųjų žynių tvarka, trukusi 122 metus, kol 1387
     metais visuotinai buvo priimtas krikščionių tikėjimas.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-
-## Ryšiai
-- Alepas buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
+    - t-011
+- c-005
+  santrauka: 'Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip smūgį prūsų stabmeldystei, po kurio religinė sostinė buvo perkelta į Lietuvą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pagyvenęs su atgaila, netru­
+    kus pasimirė kaip krikščionis14.
+    Pirmą kartą griuvus prūsų stabmeldystei, kuriai stiprų smū­
+    gį kirto pats vyriausiasis žynys Alepas, pats atvirsdamas į krikš­
+    čionybę, religinė sostinė buvo perkelta į Lietuvą, kur susiklos­
+    tė nauja vyriausiųjų žynių tvarka, trukusi 122 metus, kol 1387
+    metais visuotinai buvo priimtas krikščionių tikėjimas. Straips­
+    nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
+    buveinių vietos Lietuvoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
+- c-006
+  santrauka: 'Narbutas, remdamasis Prūsijos kronikomis, nurodo, kad iki vyriausiojo žynio Alepo buvo 481 žynys, o 1265–1414 m. jų dar buvo 23.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Ma­
+    tyt, autorius turėjo rankoje istorijos šaltinį, iš kurio pasisėmė
+    žinią, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis
+    vyriausiųjų žynių eilėje. Žynių, anot Prūsijos kronikų, iki ga­
+    lutinio stabmeldystės žlugimo, arba iki vyriausiojo žynio Ale-
+    po, buvo 481 12; taigi nuo krikšto priėmimo datos, arba nuo 1265
+    iki 1414 metų, per 149 metus, jų buvo dar 23. Tą patvirtina
+    mūsų anksčiau pasakyti dalykai apie šio padavimo autentiš­
+    kumą (straipsnis „Žyniai“).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013

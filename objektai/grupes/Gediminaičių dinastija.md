@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -22,14 +23,14 @@ variantai:
   - 'Gedimino dinastija'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 tags:
   - dinastija
   - grupe
   - valdovas
   - valstybė
-amziai:
-  - 'XIV'
-  - 'XXI'
 ---
 # Gediminaičių dinastija
 
@@ -38,7 +39,6 @@ amziai:
 Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo). Tačiau, kai paskutinysis tos dinastijos valdovas, Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,.
 
 ## Teiginiai
-
 <a id="claim-t-12359"></a>
 - t-001
   global_id: t-12359
@@ -417,6 +417,25 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   ryšio_subjekto_parinkimas: Gediminaičių dinastija: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminaičių dinastija" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188187"></a>
+- t-024
+  global_id: t-188187
+  teiginys: 'Prie Kauno rastoje senovinėje lietuviškoje monetoje Narbutas vienoje pusėje nurodė Gediminaičių Stulpų herbą ir neaiškią raidę.'
+  pagrindžia:
+    - c-025
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 437958-438204; hash=b2c1eb67ef50bf7034dad9cbc33c8476f8d42da9860caaf073a86e4568dfa52b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Gediminaičių dinastija: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stulpai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Gediminaičių dinastija: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė tiesiogiai nusako, kad Stulpai yra Gediminaičių herbas.
 - susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-187453|Palemonas]]: Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės tradicijos pagrindu.
 - susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
 - susijęs iš [[objektai/daiktai/Vytis.md#claim-t-186858|Vytis]]: Komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas.
@@ -425,7 +444,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - susijęs iš [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija.md#claim-t-54265|LDK politinės tautos savivoka ir Palemono kilmės tradicija]]: Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
 - susijęs iš [[objektai/zodynas/politinė tauta lietuvių nacija.md#claim-t-22247|politinė tauta lietuvių nacija]]: Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai vesti savo kilmę Palemono tradicija.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -901,3 +919,22 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+- c-025
+  santrauka: 'Prie Kauno rastoje senovinėje lietuviškoje monetoje Narbutas vienoje pusėje nurodė Gediminaičių Stulpų herbą ir neaiškią raidę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Si moneta yra senesnė už mūsų turimą.
+    Senovinė lietuviška moneta, rasta prie Kauno (buvo aptikta
+    ir daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau
+    nukentėjusios). Vienoje pusėje -  Gediminaičių herbas Stulpai ir
+    kažkokia neaiški raidė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-024
+
+## Ryšiai
+- [[objektai/daiktai/Stulpai]] priklause Gediminaičių dinastija

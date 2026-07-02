@@ -39,7 +39,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-55171"></a>
 - t-001
   global_id: t-55171
@@ -76,24 +75,22 @@ Nenurodyta
 - t-003
   global_id: t-187830
   teiginys: 'Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys sutelktas į note objektą: narių pseudonimus ir pareigą rinkti medžiagą. 1816–1822 m. palikti nuošalyje, nes citatoje jie tiesiogiai siejami su laikraščiu, ne visa praktika.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Raseiniai'
   pagrindžia:
     - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 25989-26719; hash=f241da58c7a8e6261a5140cce66342cad8c933f31ac72abe009e7a4dc7461fc3; match=exact
   sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair
-  ryšio_patikimumas: susije_su -> Šubravcų draugija: 0.85
+  ryšio_patikimumas: susije_su -> Lietuvių mitologija: 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Šubravcų draugija: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais" parinktas kaip owner_note_path. Targetas "Šubravcų draugija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_targeto_parinkimas: Lietuvių mitologija: mention_match, thing, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais" parinktas kaip owner_note_path. Targetas "Lietuvių mitologija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -133,10 +130,10 @@ Nenurodyta
     prisidėtų prie sudarymo lietuvių mitologijos, kuri su laiku ga­
     lėtų būti draugijos išleista4. Mitinio personažo Palemono var­
     du buvo pasivadinusi Raseinių masonų lošė5.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

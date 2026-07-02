@@ -1093,6 +1093,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/autoriai/Soltykovičius.md#claim-t-88098|Soltykovičius]]: Soltykovičius rašė, kad Mikalojus iš Gožkovo buvo trečiasis Krokuvos akademijos rektorius ir trečiasis Lietuvos vyskupas.
 - susijęs iš [[objektai/autoriai/St. Smolka.md#claim-t-54137|St. Smolka]]: St. Smolka 1889 m. Krokuvoje paskelbė darbą „Kiejstut i Jagiełło“ „Pamiętnik AU“ 7 tome.
 - susijęs iš [[objektai/autoriai/St. Smolka.md#claim-t-54138|St. Smolka]]: St. Smolka 1889 m. Krokuvoje paskelbė darbą „Kiejstut i Jagiełło“.
+- susijęs iš [[objektai/autoriai/Stanislovas Sarnickis.md#claim-t-190405|Stanislovas Sarnickis]]: Pastaboje nurodomas Stanislovo Sarnickio 1587 m. Krokuvoje išleistas veikalas „Annales, sive de origine et rebus gestis Polonorum et Lituanorum“.
 - susijęs iš [[objektai/daiktai/Kalavijas.md#claim-t-186870|Kalavijas]]: Žygimanto Kęstutaičio pakėlimo didžiuoju kunigaikščiu ceremonijoje kalaviją Gardine 1432 m. spalio 15 d. įteikė Krokuvos vyskupas Zbignevas Olesnickis.
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86993|Laivai, valtys, sieliai ir plaustai]]: Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.
 - susijęs iš [[objektai/daiktai/Zigmanto Augusto antkapis.md#claim-t-01248|Zigmanto Augusto antkapis]]: Zigmanto Augusto antkapis yra Krokuvos katedroje.
@@ -1156,6 +1157,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš Ročka M. Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje (XV a. — XVI a. pradžia): M. Ročkos straipsnis „Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje“ 1966 m. paskelbtas leidinyje „Literatūra“.
 - susijęs iš Rymut K., Nazwy miast Polski: K. Rymuto „Nazwy miast Polski“ buvo išleista 1980 m., leidimo vietomis nurodant Wrocławą, Varšuvą, Krokuvą ir Gdanską.
 - susijęs iš Ród Gediminą: Józefo Wolffo veikalas „Ród Gediminą“ buvo išleistas Krokuvoje 1886 m.
+- susijęs iš Stanislai Sarnicii, Annales, sive de origine et rebus gestis Polonorum et Lituanorum: Stanislovo Sarnickio veikalas „Annales, sive de origine et rebus gestis Polonorum et Lituanorum“ 1587 m. išleistas Krokuvoje.
 - susijęs iš Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu Opracowała К. Porębska przy współpracy M Grzegorza; Pod. red. M. Biskupa: „Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu“ išleistas 1971 m. Vroclave, Varšuvoje, Krokuvoje ir Gdanske.
 - susijęs iš Słownik starożytności słowiańskich 6 t., 1962—1980: „Słownik starożytności słowiańskich“ sudaro šeši tomai, leisti 1962–1980 m. Vroclave, Varšuvoje ir Krokuvoje.
 - susijęs iš Žygimanto 1432 m. Vilniaus Magdeburgo teisių patvirtinimo privilegijos: Žygimantas privilegijose Vilniui amžiams suteikė vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.
@@ -1263,7 +1265,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64600|H. Paszkiewicz]]: H. Paszkiewicz parašė veikalą „O genezie i wartości Krewa“.
 - susijęs iš [[objektai/autoriai/H. Spliet.md#claim-t-30631|H. Spliet]]: H. Splietas 1953 m. Sinsheime paskelbė veikalą „Die Briefe Gedimins“.
 - susijęs iš [[objektai/autoriai/J. Bardach.md#claim-t-30660|J. Bardach]]: J. Bardach knygoje apie Lietuvos Didžiosios Kunigaikštystės santvarką ir teisę paskelbė darbą „Akt w Krewie“.
-- susijęs iš [[objektai/autoriai/J. Lebedys.md#claim-t-30687|J. Lebedys]]: J. Lebedys kartu su K. Korsaku parengė „Lietuvių literatūros chrestomatiją“, išleistą Vilniuje 1957 m.
+- susijęs iš [[objektai/autoriai/J. Lebedys.md#claim-t-30687|Jurgis Lebedys]]: J. Lebedys kartu su K. Korsaku parengė „Lietuvių literatūros chrestomatiją“, išleistą Vilniuje 1957 m.
 - susijęs iš [[objektai/autoriai/J. Talmantas.md#claim-t-64648|J. Talmantas]]: J. Talmantas redagavo 1935 m. Kaune išleistą Simono Daukanto veikalą „Būdas senovės lietuvių Kalnėnų ir Žemaičių“.
 - susijęs iš [[objektai/autoriai/K. Korsakas.md#claim-t-186446|K. Korsakas]]: K. Korsakas su J. Lebedžiu parengė 1957 m. Vilniuje išleistą „Lietuvių literatūros chrestomatiją“.
 - susijęs iš [[objektai/autoriai/Kromero M.md#claim-t-100117|Kromero M]]: M. Kromero kronika šiame šaltinyje nurodyta 45 puslapyje.
@@ -1400,7 +1402,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš Luckas: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams.
 - susijęs iš Mazovija: Prūsijos žemę iš vienos pusės ribojo Mazovijos kunigaikštystė.
 - susijęs iš Narevas: Lietuviai, prieš kelias dienas perkėlę grobį ir kariuomenę per Narevą, pasislėpė miško tankmėje.
-- susijęs iš Nemunas: Nemunas prasideda Rusios valdose, prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.
 - susijęs iš Opatovas: Opatovas yra Lenkijos Kielcų vaivadijos miestas, esantis apie 30 km į vakarus nuo Zavichosto ir Vislos.
 - susijęs iš Palenkė: Vytautas pradėjo telkti karius Žemaitijoje ir Palenkėje, susitaręs su kryžiuočiais dėl taikos ir pagalbos.
 - susijęs iš Podolija: Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai.
@@ -1414,7 +1415,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš Prancūzija: LLV Konstitucija buvo priimta keliais mėnesiais anksčiau už Prancūzijos konstituciją.
 - susijęs iš Prancūzija: Į Prancūzijos universitetus vykdavo mokytis tie, kurie nesiruošė dvasininkais.
 - susijęs iš Prancūzija: Aukštojo mokslo siekę ne dvasininkai vykdavo į Vakarų Europos universitetus Vokietijoje, Italijoje ir Prancūzijoje.
-- susijęs iš Prūsija: Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
 - susijęs iš Rusios žemė: Nemunas prasidėjo Rusios valdose ir skyrė Prūsiją nuo Rusios, Lietuvos bei Kuršo.
 - susijęs iš Rusios žemė: Rusios žemė buvo minima tarp Prūsijos žemę ribojusių vietovių ir gamtinių ribų.
 - susijęs iš Silezija: Silezijoje, ties Byčina, Maksimilijonas pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir atsisakė sosto.

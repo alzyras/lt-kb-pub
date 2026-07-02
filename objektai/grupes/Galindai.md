@@ -3,6 +3,7 @@ tipas: grupe
 pavadinimas: 'Galindai'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1058 m.'
   - '1147 m.'
@@ -10,12 +11,12 @@ date_start: '1058'
 date_end: '1147'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - grupe
-  - upė
 amziai:
   - 'XI'
   - 'XII'
+tags:
+  - grupe
+  - upė
 ---
 # Galindai
 
@@ -24,7 +25,6 @@ amziai:
 Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai ir stavanai ligi alanų; už jų igilionai... ) 104 I SKYRIUS: LIETUVOS PROISTORĖ teminimuose prūsų giminių pavadinimuose : galindai (« Galindite ») ir sūduviai (« Sudowite »). Su jau Ptolomėjaus minimais galindais yra tapatinama Ipati­ jaus kronikoje du kartu (1058 ir 1147 m.) minimi «ljudi Goliad’ ».
 
 ## Teiginiai
-
 <a id="claim-t-65156"></a>
 - t-001
   global_id: t-65156
@@ -65,7 +65,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 205853-206484; hash=1eb57352219fea489e06562b97b11343c0ab0ed1d2ac226c94e8184769c751b2; match=exact
+  saltinio_vieta: 386513-387058; hash=10b87461ddb45bc894347c0c2d3dc3ef189ff0e9045c9dfdb2c2a971d02a4604; match=ocr_normalized
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Galinda: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -74,6 +74,54 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   ryšio_subjekto_parinkimas: Galindai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Galinda: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Galindai" parinktas kaip owner_note_path. Targetas "Galinda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188184"></a>
+- t-004
+  global_id: t-188184
+  teiginys: 'Narbutas Galindams priskyrė Rosės vardu vadintas šventas upes ir siejo jas su lietuvių genčių papročiu šventinti upes.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 386513-387058; hash=10b87461ddb45bc894347c0c2d3dc3ef189ff0e9045c9dfdb2c2a971d02a4604; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Galinda: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Galindai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Galinda: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Galindai" parinktas kaip owner_note_path. Targetas "Galinda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188185"></a>
+- t-005
+  global_id: t-188185
+  teiginys: 'Narbutas pasakojo, kad ilgai taikiai gyvenusiame Galindų krašte žmonių padaugėjo tiek, jog seniūnai nutarė žudyti moteriškos lyties kūdikius.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 532209-532593; hash=b6a6b30c1c1efa876bb0c12f2d9ee56cbb406a98f2fffb5b2703837b2cdf8fe3; match=exact
+  sprendimo_priezastis: auto
+<a id="claim-t-188186"></a>
+- t-006
+  global_id: t-188186
+  teiginys: 'Narbutas pasakojo, kad po galindų žygio krikščionys juos išmušė, o supykdyti kaimynai nuniokojo Galindą beveik iki negyvenamos šalies.'
+  pagrindžia:
+    - c-005
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 533129-533482; hash=11ce05ef6e749162c8c332c43db964609281b637de8aae5f5ecf2e95f05abb6f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: puole -> Galindai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krikščionys: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Galindai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad krikščionys puolė galindus.
 - susijęs iš [[objektai/asmenys/Ptolemajas.md#claim-t-17607|Ptolemajas]]: Ptolemajas II a. žinojo galindus ir jotvingius, arba sūduvius.
 - susijęs iš [[objektai/autoriai/Jaskanis J.md#claim-t-60720|Jaskanis J]]: J. Jaskanio recenzija cituojama prie nuomonės, kad prūsiškuosius ir rytinius galindus siejo tik vardų panašumas.
 - susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91904|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.
@@ -84,6 +132,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - susijęs iš Galinda: Galindos žemė buvo į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.
 - susijęs iš [[objektai/asmenys/Michailas Jaroslavičius.md#claim-t-79112|Michailas Jaroslavičius]]: Lietuviai prie Protvos nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.
 - susijęs iš [[objektai/asmenys/Michailas Jaroslavičius.md#claim-t-79113|Michailas Jaroslavičius]]: Pamaskvėje prie Protvos lietuviai nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.
+- susijęs iš [[objektai/autoriai/Hiegels.md#claim-t-190427|Hiegels]]: Narbutas nurodo, kad Hiegels Kašmiro žemumoje pastebėjo paprotį prie dviejų upių santakos statyti šventoves ir garbinti upes.
 - susijęs iš [[objektai/autoriai/Вилинбахов В. Б.md#claim-t-91957|Вилинбахов В. Б]]: Imperatoriaus Voluziano (252— 253 m.) titule įrašyti ir galindai (Вилинбахов В.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89218|Skalviai]]: Materialinės kultūros požiūriu skalviai prie Nemuno žemupio siejami su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89342|Žiemgaliai]]: Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradėjo minėti žiemgalius.
@@ -91,7 +140,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - susijęs iš [[objektai/posakiai/Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą.md#claim-t-59099|Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą]]: Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui.
 - susijęs iš Protvos upė: Prie Protvos upės liko asimiliacijai atkirsta toliausiai į rytus įsiterpusi baltiškos kilmės Goliadės atplaiša.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -130,7 +178,65 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Narbutas Galindams priskyrė Rosės vardu vadintas šventas upes ir siejo jas su lietuvių genčių papročiu šventinti upes.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lietu­
+    vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
+    arba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą­
+    ja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno
+    atšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė). Pa­
+    galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
+    kančios per jų svarbiausias sodybas, būdavo praminamos tuo
+    pačiu šventu vardu Ross. Šitaip galindų tauta turėjo Rosės * 5
+    šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
+    likti tokį garbinimą (Hiegels.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-004
+  santrauka: 'Narbutas pasakojo, kad ilgai taikiai gyvenusiame Galindų krašte žmonių padaugėjo tiek, jog seniūnai nutarė žudyti moteriškos lyties kūdikius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Galindų krašte, klestinčiame dėl ilgos taikos, taip padau­
+    gėjo žmonių, kad jie vos galėjo sutilpti. Tuomet krašto seniū­
+    nai nutarė, kad moteriškos lyties kūdikiai kurį laiką privalą
+    būti žudomi paliekant vien berniukus karo reikalui. Tačiau mo­
+    tinų meilė dažnai sugebėdavo nuslėpti ką tik gimusias dukte­
+    ris, ir jos su moterišku išradingumu rasdavo būdų, kaip jas
+    išsaugoti gyvas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-005
+  santrauka: 'Narbutas pasakojo, kad po galindų žygio krikščionys juos išmušė, o supykdyti kaimynai nuniokojo Galindą beveik iki negyvenamos šalies.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šie, patikėję žynės žodžiu, tuojau sutelkė
+    vyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,
+    baisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.
+    Tačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­
+    sus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­
+    niokojo, kad Galinda daugeliui metų paliko beveik negyve­
+    nama.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
+- [[objektai/grupes/Krikščionys]] puole Galindai
 - Galindai kariavo_pries [[objektai/grupes/Krikščionys]]
 - Galindai gyveno [[objektai/vietos/Galinda]]

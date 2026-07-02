@@ -3,18 +3,19 @@ tipas: grupe
 pavadinimas: 'Lietuvos totoriai'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1572 m.'
 date_start: '1572'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
 tags:
   - ginklas
   - grupe
   - mūšis
-amziai:
-  - 'XVI'
 ---
 # Lietuvos totoriai
 
@@ -23,7 +24,6 @@ amziai:
 Šio sparno jėga - reitarų sutelkta ugnis, husarų geležinis smūgis, Lietuvos totorių ir kazokų manevringumas persekiojant bėgantį priešą. Prasidėjo panika, kurią dar labiau padidino rotmistrų Machmeto ir Zakaro Lietuvos totorių vėliavų įvedimas į mūšį. Tokias strėlines naudodavo Lietuvos totoriai ir kita Lietuvos lengvoji „Rengiasi jie beveik taip pat kaip totoriai, ir ginkluoti taip pat - lanku, kardu ir skydu.
 
 ## Teiginiai
-
 <a id="claim-t-78379"></a>
 - t-001
   global_id: t-78379
@@ -101,6 +101,25 @@ amziai:
   ryšio_subjekto_parinkimas: Lietuvos totoriai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos totoriai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188287"></a>
+- t-005
+  global_id: t-188287
+  teiginys: 'Narbutas rašo, kad Lietuvos totoriai mitines būtybes vadino fereikomis ir džinais, o jų religinė raštija joms priskyrė kenksmingumą.'
+  pagrindžia:
+    - c-005
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 310733-311472; hash=5eda55cba552328924324da7fc5796b4aa14067b9982e7ce7b05cc0d3414f56b; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos totoriai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos totoriai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Kurovičius.md#claim-t-39772|Kurovičius]]: Kurovičius buvo „vengrų“ pėstininkų rotmistras, kurį paryčiais girti bajorai nužudė kartu su kitais žymesniais belaisviais.
 - susijęs iš [[objektai/asmenys/M. Vaina.md#claim-t-39781|M. Vaina]]: Breslaujos seniūnas M. Vaina buvo nužudytas kartu su M. P. Sapiega ir rotmistru Kurovičiumi.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65305|Kazokai]]: Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.
@@ -111,7 +130,6 @@ amziai:
 - susijęs iš [[objektai/zodynas/Mahometoniškas tikėjimas.md#claim-t-32754|Mahometoniškas tikėjimas]]: Vytauto privilegijas gavę Lietuvos totoriai išlaikė mahometonišką tikėjimą ir papročius.
 - susijęs iš [[objektai/zodynas/ulonai.md#claim-t-86620|ulonai]]: Lietuvos totoriai tarnavo specialiuose raitininkų pulkuose, vadinamuose totorių ulonų pulkais.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lietuvos totoriai naudodavo rytietiškas strėlines, kaip ir kita Lietuvos lengvoji kariuomenė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -194,6 +212,33 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-005
+  santrauka: 'Narbutas rašo, kad Lietuvos totoriai mitines būtybes vadino fereikomis ir džinais, o jų religinė raštija joms priskyrė kenksmingumą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šių dievaičių atminimas neišnyko iki šiol; jei žinoma ne
+    pati reikalo esmė, tai bent iš pasakojimų aišku, kas jie tokie.
+    Lietuvos totoriai žino tas mitines būtybes, jų egzistavimu šiaip
+    ar taip tiki; vadina jas fereikomis (Fierejki) ir džinais (Dženie);
+    jų religinė raštija tikina, kad tos būtybės esančios blogesnės
+    už šėtonus, be galo kenksmingos, atsiunčiančios žmonėms 70
+    18 Šiame žodyne vietoj B klaidingai parašyta P.
+    181
+
+    ## Puslapis 181
+
+    ligų; pagaliau pripažįsta joms Aitvaro ir barstukų ypatybes.
+    Jie esą Ievos vaikai, sugyventi su velniu, kuris tą pirmąją žmo­
+    nių giminės motiną sugundė nusikalsti. Jie yra šviesaus gymio,
+    gyvena po žeme. Pagaliau totoriai painioja Rytų musulmoniš­
+    kas pasakas su mūsų vietinėmis fantazijomis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 - Lietuvos totoriai kariavo_pries [[objektai/grupes/Švedai]]

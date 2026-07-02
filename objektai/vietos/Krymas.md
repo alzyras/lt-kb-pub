@@ -217,6 +217,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 - susijęs iš Juodmarių pakraštys: Vytautas savo valdymo pabaigoje valdė Juodmarių pakraščio totorius.
 - susijęs iš Kafa: Žygio metu buvo pasiektas pietinėje Krymo pakrantėje buvęs tarptautinės reikšmės uostas Kafa.
 - susijęs iš Kaunas: Šach Achmedas buvo iki gyvos galvos įkalintas Kauno kalėjime.
+- susijęs iš Kaunas: Kadangi Kauno priemiestis vadinosi Aleksotu, Narbutas lietuviškosios Aleksotos grožį apdainuojančias dainas siejo su Kauno apylinkėmis.
 - susijęs iš Kijevas: Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
 - susijęs iš Kleckas: Krymo totoriai apie liepos 20-22 d. apsistojo ties Klecku ir pradėjo grobti žmones bei turtą.
 - susijęs iš Liublinas: Iš Liublino seimo į Vilnių atvykęs karalius ėmėsi reikalų su totoriais.

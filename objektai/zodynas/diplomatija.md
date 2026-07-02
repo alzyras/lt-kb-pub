@@ -37,7 +37,7 @@ Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­ būs Malburgo
   ryšio_subjekto_parinkimas: diplomatija: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Malburgas: mention_match, place, gap=36
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "diplomatija" parinktas kaip owner_note_path. Targetas "Malburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05173|Gediminas]]: Gediminas buvo apibūdintas ne tik kaip karys, bet ir kaip valstybininkas, veikęs diplomatija.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05173|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas buvo apibūdintas ne tik kaip karys, bet ir kaip valstybininkas, veikęs diplomatija.
 - susijęs iš Lietuvos diplomatija nuo 1990 m. kovo 11: Leidinį „Lietuvos diplomatija nuo 1990 m. kovo 11“ 2001 m. Vilniuje išleido Lietuvos užsienio reikalų ministerija.
 - susijęs iš Lietuvos diplomatija nuo 1990 m. kovo 11: Leidinys „Lietuvos diplomatija nuo 1990 m. kovo 11“ išleistas Vilniuje Lietuvos užsienio reikalų ministerijos 2001 m.
 - susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169879|Alfonsas Eidintas]]: Alfonsas Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m.

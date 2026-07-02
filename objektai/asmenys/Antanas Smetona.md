@@ -6,6 +6,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+description: 'Antanas Smetona – Lietuvos prezidentas, po 1926 m. perversmo stiprinęs prezidento galias ir tautininkų politinę kryptį.'
+socialDescription: 'Antanas Smetona siejamas su Lietuvos valstybės atkūrimu, 1926 m. perversmu, autoritariniu režimu ir stipraus prezidento galios idėja.'
+seo_atnaujinta: '2026-07-02T19:20:23.293385+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +25,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis. Smetonos, „ji liovėsi būti valstybe“. Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius.
+Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejamas su valstybės atkūrimo laikotarpiu ir tautininkų politine kryptimi. Po 1926 m. gruodžio 17 d. perversmo jis su Augustinu Voldemaru pabrėžė stiprių prezidento galių būtinybę, o 1928 m. gegužės 15 d. konstitucija sustiprino prezidento viršenybę prieš Seimą. 1927 m. Smetona keliavo po Lietuvos miestelius, lankė maldos namus ir aiškino naujos vadovybės planus įvesti tvarką šalyje.
 
 ## Teiginiai
 

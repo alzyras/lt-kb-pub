@@ -102,10 +102,8 @@ amziai:
 - susijęs iš Bernardinų bažnyčia Vilniuje: Mikalojus Radvila II savo lėšomis naujai pamūrijo bernardinų bažnyčią, vadintą Šv. Pranciškaus ir Bernardo vardu.
 - susijęs iš Bernardinų bažnyčia Vilniuje: 1500 m. karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną, ardžiusį pastatų pamatus.
 - susijęs iš Gardinas: 1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.
-- susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
 - susijęs iš [[objektai/zodynas/lengvoji raitija.md#claim-t-185367|lengvoji raitija]]: Prieš pagrindinių jėgų susidūrimą kovėsi abiejų pusių lengvosios raitijos žvalgybiniai būriai, o sėkmė lydėjo karaliaus karius.
 - susijęs iš Minskas: Aleksandras su pagrindinėmis jėgomis lėtai sekė Konstantino Ostrogiškio dalinius, stabtelėdamas Minske ir Borisove.
-- susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184907|Žygimantas]]: Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -211,4 +209,3 @@ amziai:
 ## Ryšiai
 - [[objektai/grupes/Totorių pajėgos]] uzeme Borisovas
 - [[objektai/asmenys/Aleksandras]] keliavo_i Borisovas
-- [[objektai/asmenys/Žygimantas]] keliavo_i Borisovas

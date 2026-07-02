@@ -4,8 +4,10 @@ pavadinimas: 'Daugpilis'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1396 m.'
+  - '1618 m.'
   - '1919 m.'
   - '1920 m.'
   - '2026 m.'
@@ -13,13 +15,13 @@ date_start: '1396'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 tags:
   - ordinas
   - paliaubos
   - vieta
-amziai:
-  - 'XIV'
-  - 'XXI'
 ---
 # Daugpilis
 
@@ -28,7 +30,6 @@ amziai:
 Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Daugpilį. Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.
 
 ## Teiginiai
-
 <a id="claim-t-181496"></a>
 - t-001
   global_id: t-181496
@@ -135,17 +136,57 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   ryšio_subjekto_parinkimas: Daugpilis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=9
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugpilis" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188678"></a>
+- t-006
+  global_id: t-188678
+  teiginys: 'Narbutas Gercikos pilį prie Dauguvos tapatino su dabartiniu Daugpiliu.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 172376-173026; hash=f746f7d9993a2da86612a9eec7e4299bdf7a8561578edd5e6db4d00324ac4890; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Daugpilis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugpilis" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+<a id="claim-t-188679"></a>
+- t-007
+  global_id: t-188679
+  teiginys: 'Narbutas rašo, kad 1618 m. Rezeknės, Daugpilio ir kitose Livonijos apylinkėse buvo 418 neapkrikštytų suaugusiųjų.'
+  pagrindžia:
+    - c-007
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 655148-655658; hash=5ce45f9b740d619e4e1c2da58408e1e91a4b67bfcd794e0ab42c3bf63de5921e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Daugpilis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugpilis" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
 - susijęs iš [[objektai/daiktai/Apgulties mašinos.md#claim-t-179463|Apgulties mašinos]]: 1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas.
 - susijęs iš [[objektai/asmenys/Liudvikas Pliateris.md#claim-t-40308|Liudvikas Pliateris]]: Po nesėkmingo Liudviko Pliaterio antpuolio prieš į Daugpilį vykusią Rusijos karinę gurguolę sukilėliai atsisakė Daugpilio tvirtovės puolimo.
 - susijęs iš [[objektai/grupes/Latvijos kariuomenė.md#claim-t-38971|Latvijos kariuomenė]]: 1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.).md#claim-t-185789|Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.)]]: 1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
+- susijęs iš Dauguva: Narbutas Gercikos pilį prie Dauguvos tapatino su dabartiniu Daugpiliu.
+- susijęs iš Gercikos pilis (pilis): Narbutas Gercikos pilį prie Dauguvos vadina rusų kunigaikščio Visvaldžio sostine ir sieja ją su dabartiniu Daugpiliu.
 - susijęs iš Jieznas: Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.
 - susijęs iš Latvija: 1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.
 - susijęs iš Latvija: ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.
 - susijęs iš Latvija: 1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.
 - susijęs iš Livonija: Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
 - susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
+- susijęs iš Rezeknė: 1618 m. Rezeknės, Daugpilio ir kitose Livonijos apylinkėse buvo rasti 418 neapkrikštyti suaugę asmenys.
 - susijęs iš Ukmergė: 1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.
 - susijęs iš Ukmergė: 1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.
 - susijęs iš Ukmergė: 1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.
@@ -162,8 +203,10 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 - susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186744|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186746|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. sausio 25 d. buvo sutarta, kad Livonijos ordino magistras Rutenbergas įsiverš į Lietuvą, o Švitrigaila žygiuos nuo Vitebsko.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186747|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. vasario 15 d. Livonijos ordino magistras Rutenbergas ir Švitrigaila turėjo susijungti Kurenece bendram žygiui į Vilnių.
+- susijęs iš [[objektai/paprociai/Aukojimas Atmeszenes Wiete akmenims, ąžuolams, liepoms ir Cerokliui.md#claim-t-189889|Aukojimas Atmeszenes Wiete akmenims, ąžuolams, liepoms ir Cerokliui]]: Narbutas rašo, kad 1618 m. nekrikštyti valstiečiai garbino didžiulius akmenis, vadintus „Atmeszenes Wiete“.
 - susijęs iš [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“.md#claim-t-186420|„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]: Posakis „Toji tvirtovė yra pastatyta mano širdyje“ Eiliuotinėje kronikoje pateiktas kaip skundas dėl tvirtovės.
 - susijęs iš [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“.md#claim-t-186421|„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]: Po nesėkmingos Daugpilio apgulos 1278 m. Eiliuotinė kronika Traideniui priskyrė skundą dėl tvirtovės.
+- susijęs iš Kražiai: Narbutas rašė, kad 1618 m. Kražiuose įsitvirtinę jėzuitai savo misijoje rado apie šešis tūkstančius nekrikštytų valstiečių.
 - susijęs iš Kurenecas: Kurenecas lokalizuojamas į šiaurę nuo Molodečno.
 - susijęs iš Kurenecas: 1433 m. vasario 15 d. Švitrigailos ir Livonijos ordino magistro Rutenbergo pajėgos turėjo susijungti Kurenece bendram žygiui į Vilnių.
 - susijęs iš Kuršo gubernija: Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.
@@ -171,13 +214,14 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 - susijęs iš Maskva: Keliais šimtmečiais Lietuva gynė sukurtą didvalstybę nuo stiprėjančių rytų grėsmių, tarp jų Maskvos.
 - susijęs iš Maskva: Po Lietuvos didvalstybės sukūrimo Maskva laikyta viena iš stiprėjančių rytų grėsmių.
 - susijęs iš Utena: 1919 m. gegužės 24 d. gen. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės–Daugpilio plentu ir užimti Uteną.
+- susijęs iš Vendeno pilis (pilis): Narbutas rašė, kad Dangerutis buvo Livonijos riterių suimtas ir surakintas Vendeno pilyje, kur nusidūrė savo kalaviju.
+- susijęs iš [[objektai/zodynas/Atmeszenes Wiete.md#claim-t-189277|Atmeszenes Wiete]]: Narbutas rašė, kad 1618 m. Livonijoje nekrikštyti suaugusieji garbino didžiulius akmenis, vadintus „Atmeszenes Wiete“.
 - susijęs iš [[objektai/zodynas/globėjo titulas laikinas valdytojas.md#claim-t-185404|globėjo titulas laikinas valdytojas]]: Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą, kai buvo tinkamų Romunto sūnų.
 - susijęs iš [[objektai/grupes/Latvijos kariuomenė.md#claim-t-38971|Latvijos kariuomenė]]: 1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.
 - susijęs iš [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“.md#claim-t-186420|„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]: Posakis „Toji tvirtovė yra pastatyta mano širdyje“ Eiliuotinėje kronikoje pateiktas kaip skundas dėl tvirtovės.
 - susijęs iš [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“.md#claim-t-186421|„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]: Po nesėkmingos Daugpilio apgulos 1278 m. Eiliuotinė kronika Traideniui priskyrė skundą dėl tvirtovės.
 - susijęs iš [[objektai/grupes/11 brigada.md#claim-t-38839|11 brigada]]: Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Zigmantas Sierakauskas planavo sukilėlių pajėgomis žygiuoti Daugpilio link ir bandyti užimti šią carinės kariuomenės tvirtovę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -286,6 +330,47 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Narbutas Gercikos pilį prie Dauguvos tapatino su dabartiniu Daugpiliu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
+    sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
+    kalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­
+    ją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­
+    sų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo
+    Gercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis
+    Daugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;
+    kiek kartų jį turėję su savimi kovodami su livoniečiais, tiek
+    kartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės
+    keršydamas už nužudymą Dangeručio, kuris, kaip jie manė,
+    nelaisvėje buvo nužudytas tuo kalaviju.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Narbutas rašo, kad 1618 m. Rezeknės, Daugpilio ir kitose Livonijos apylinkėse buvo 418 neapkrikštytų suaugusiųjų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
+    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
+    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
+    Jie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-
+    te“, tai yra, anot autoriaus vertimo, „loca adiectorum “.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] gyveno Daugpilis

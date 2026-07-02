@@ -3,21 +3,23 @@ tipas: vieta
 pavadinimas: 'Bajerburgas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1329 m.'
   - '1384 m.'
   - '2026 m.'
-date_start: '1384'
+date_start: '1329'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ordinas
-  - vieta
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - ordinas
+  - vieta
 ---
 # Bajerburgas
 
@@ -26,7 +28,6 @@ amziai:
 Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir kitos (žiūr.
 
 ## Teiginiai
-
 <a id="claim-t-71843"></a>
 - t-001
   global_id: t-71843
@@ -36,22 +37,22 @@ amziai:
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ee171ab73e8c4d3fa3a31eccd01109f44d8fec9f9047493fbe5e1ddee8b1b4c0; match=fallback; occurrences=0
+  saltinio_vieta: 227078-227465; hash=0e6c2a99de74c01688eb40ba095d56c375b48ea81a01923746ce830b384ddb06; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumas: susije_su -> Veliuona: 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Bajerburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajerburgas" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajerburgas" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-71844"></a>
 - t-002
   global_id: t-71844
   teiginys: 'Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės, Marienburgui apsaugoti.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo Bajerburgo vietą ir statybos tikslą.'
-  susije_objektai: 'mentioned_place: Marienburgas; mentioned_place: Nemunas; mentioned_place: Veliuona; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_place: Marienburgas; mentioned_place: Veliuona'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -90,11 +91,11 @@ amziai:
   global_id: t-71846
   teiginys: 'Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia Bajerburgo vietą.'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Veliuona; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_place: Veliuona'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ee171ab73e8c4d3fa3a31eccd01109f44d8fec9f9047493fbe5e1ddee8b1b4c0; match=fallback; occurrences=0
+  saltinio_vieta: 227078-227465; hash=0e6c2a99de74c01688eb40ba095d56c375b48ea81a01923746ce830b384ddb06; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Marienburgas: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -125,36 +126,62 @@ amziai:
   ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
   ryšio_paaiskinimas: Marienburgo sudeginimas rodo karinį puolimą prieš šią vietą.
+
+<a id="claim-t-188670"></a>
+- t-006
+  global_id: t-188670
+  teiginys: 'XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pastatė Fridburgą ir Bajerburgą, nes žygyje dalyvavo Bavarijos kunigaikštis.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 227078-227465; hash=0e6c2a99de74c01688eb40ba095d56c375b48ea81a01923746ce830b384ddb06; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fridburgas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bajerburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Fridburgas: mention_match, place, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajerburgas" parinktas kaip owner_note_path. Targetas "Fridburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Fridburgas: XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pasistatė Fridburgą ir Bajerburgą.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188208|Kryžiuočių ordinas]]: XIV a. pradžioje kryžiuočiai apgulė Veliuonos pilį, o negalėdami jos paimti priešais pastatė Fridburgą ir Bajerburgą.
+- susijęs iš Nemunas: Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.
 - susijęs iš Vilnius: Gedimino rūpesčiu iškilusiame Vilniuje buvo prigiję feodalinio valdymo principai.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Henrikas Duseneris.md#claim-t-87686|Henrikas Duseneris]]: Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.
 - susijęs iš [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.).md#claim-t-86973|Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]: Gediminas 1337 m. žuvo mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
 - susijęs iš Gedimino laiškas Liubeko, Rostoko, Zundo, Greifsvaldo, Štetino miestams ir Gotlando gyventojams: Gedimino laiške šiaurės Vokietijos miestams ir Gotlando gyventojams nurodyta, kad į Vilnių atvykę kolonistai galės naudotis Rygos civiline teise.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178890|Kryžiuočių ordinas]]: 1337 m. birželio 15 d. Gediminas su kariuomene sustojo ties Bajerburgu ir puolė kryžiuočių tvirtovę.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176354|Gediminas]]: Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176354|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
 - susijęs iš [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis).md#claim-t-87684|Henrikas (Bavarijos kunigaikštis)]]: Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.
 - susijęs iš [[objektai/asmenys/Henrikas Duseneris.md#claim-t-87686|Henrikas Duseneris]]: Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.
+- susijęs iš [[objektai/grupes/Bavarijos kunigaikščio kariuomenė.md#claim-t-189513|Bavarijos kunigaikščio kariuomenė]]: XIV a. pradžioje Bavarijos kunigaikščio kariuomenė dalyvavo kryžiuočių žygyje, per kurį prieš apgultą pilį pastatyti Fridburgas ir Bajerburgas.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178963|Kryžiuočių ordinas]]: Kryžiuočių pilis Fridbergas buvo pastatyta tuo pat metu kaip Bajerburgas, už dviejų mylių nuo Veliuonos žemyn Nemunu.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188208|Kryžiuočių ordinas]]: XIV a. pradžioje kryžiuočiai apgulė Veliuonos pilį, o negalėdami jos paimti priešais pastatė Fridburgą ir Bajerburgą.
 - susijęs iš [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.).md#claim-t-86973|Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]: Gediminas 1337 m. žuvo mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
 - susijęs iš [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.).md#claim-t-86976|Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]: Gediminas 1337 m. buvo nužudytas mūšyje su kryžiuočiais prie Bajerburgo pilies, netoli Veliuonos.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas.md#claim-t-66565|Jogailos ir Vytauto susitaikinimas]]: Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą.
 - susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Narbuto pasakojime pagal 1331 m. rugsėjo 17 d. sutartį prie Bartenšteino buvo sunaikintos Fridburgo ir Bajerburgo pilys.
+- susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Pagal 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino, Fridburgo ir Bajerburgo pilys buvo sunaikintos.
 - susijęs iš Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė): Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.
 - susijęs iš Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė): Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų.
 - susijęs iš Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė): Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.
 - susijęs iš Bajerburgas Raudonė: Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.
 - susijęs iš Bajerburgas Raudonė: Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų.
 - susijęs iš Bajerburgo pilis: Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.
+- susijęs iš Fridburgas: XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pasistatė Fridburgą ir Bajerburgą.
 - susijęs iš Marienburgas: 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą.
 - susijęs iš Nemunas: Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.
 - susijęs iš Panemunė: Vytautas, išvykęs į žvalgybą Panemunėje, pranešė Kęstučiui apie kryžiuočius Bajerburgo pilyje prie Veliuonos.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176343|Gediminas]]: Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176346|Gediminas]]: Gediminas, matydamas kryžiuočius kuriantis priešais jo Veliuonos pilį, nusprendė juos iš ten išvyti.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176373|Gediminas]]: Prie Veliuonos esantis Gedimino kalno pilkapis laikytas tikėtina Gedimino kapaviete.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176343|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176346|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, matydamas kryžiuočius kuriantis priešais jo Veliuonos pilį, nusprendė juos iš ten išvyti.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176373|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Prie Veliuonos esantis Gedimino kalno pilkapis laikytas tikėtina Gedimino kapaviete.
 - susijęs iš [[objektai/asmenys/Mykolas Zaleskis.md#claim-t-87804|Mykolas Zaleskis]]: Mykolui Zaleskiui priklausė Veliuona.
 - susijęs iš [[objektai/grupes/Eperješai.md#claim-t-86790|Eperješai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
 - susijęs iš [[objektai/grupes/Gelgaudai.md#claim-t-86792|Gelgaudai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
@@ -190,18 +217,17 @@ amziai:
 - susijęs iš Vilnius: Gedimino rūpesčiu iškilusiame Vilniuje buvo prigiję feodalinio valdymo principai.
 - susijęs iš [[objektai/zodynas/Feodalinis ir leninis valdymas.md#claim-t-86458|Feodalinis ir leninis valdymas]]: Gedimino iškeltame Vilniuje, kaip ir visame krašte, buvo prigiję feodalinio valdymo principai.
 - susijęs iš [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės.md#claim-t-86570|Rygos miesto civilinė teisė vokiečių teisės]]: Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176354|Gediminas]]: Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176354|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
 - susijęs iš [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis).md#claim-t-87684|Henrikas (Bavarijos kunigaikštis)]]: Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas.md#claim-t-66565|Jogailos ir Vytauto susitaikinimas]]: Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą.
+- susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Narbuto pasakojime pagal 1331 m. rugsėjo 17 d. sutartį prie Bartenšteino buvo sunaikintos Fridburgo ir Bajerburgo pilys.
 - susijęs iš Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė): Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.
 - susijęs iš Bajerburgas Raudonė: Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.
-- susijęs iš Nemunas: Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.
 - susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai.
 - susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -254,14 +280,32 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-004
+  santrauka: 'XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pastatė Fridburgą ir Bajerburgą, nes žygyje dalyvavo Bavarijos kunigaikštis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kaip tik ten buvo minima Velionos šventykla. XIV am­
+    žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
+    jos paimti, pasistatė priešais ją dvi pilis -  Fridburgą ir Bajer-
+    burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
+    lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
+    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
+    kiu šaunamuoju ginklu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] mire Bajerburgas
-- [[objektai/asmenys/Gediminas]] apgule Bajerburgas
-- [[objektai/asmenys/Gediminas]] puole Bajerburgas
-- [[objektai/asmenys/Gediminas]] surenge_zygi_i Bajerburgas
-- [[objektai/asmenys/Gediminas]] keliavo_i Bajerburgas
 - [[objektai/grupes/Kryžiuočių ordinas]] pastate Bajerburgas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] mire Bajerburgas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] apgule Bajerburgas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] puole Bajerburgas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] surenge_zygi_i Bajerburgas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] keliavo_i Bajerburgas
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Bajerburgas
 - [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis)]] pastate Bajerburgas
 - [[objektai/grupes/Kryžiuočių ordinas]] gyveno Bajerburgas

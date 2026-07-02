@@ -84,7 +84,9 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75728|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. balandžio 12 d. Antanas Smetona prezidento aktu paleido III Seimą ir nustūmė krikščionis demokratus nuo valdžios.
 - susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75994|Mykolas Sleževičius]]: Mykolas Sleževičius laikėsi šūkio „Kova eina, ji eis iki Seimas bus sušauktas“.
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170094|Stanislovas Augustas Poniatovskis (valdovas)]]: Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą.
+- susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-188656|Žygimantas]]: Karalius Žygimantas 1567 m. pabaigoje skubėjo sušaukti Gardino seimą ir išsiuntinėjo universalus Lietuvai.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80772|Abiejų Tautų Respublika]]: 1793 m. Rusija ir Prūsija įvykdė antrąjį Abiejų Tautų Respublikos padalijimą, kurį Gardino seimas buvo priverstas patvirtinti.
+- susijęs iš [[objektai/grupes/Abiejų tautų seimas.md#claim-t-189511|Abiejų tautų seimas (seimas, XVI a.)]]: Narbutas abiejų tautų seimą tapatino su Liublino unija ir siejo jį su tų metų pabaiga.
 - susijęs iš [[objektai/grupes/Aukščiausioji Taryba.md#claim-t-40859|Aukščiausioji Taryba (institucija)]]: 1991 m. sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.
 - susijęs iš [[objektai/grupes/Gardino seimas.md#claim-t-72073|Gardino seimas]]: Gardino seimas buvo sušauktas padalinimui patvirtinti ir naujai taikos sutarčiai su apkarpyta Respublika sudaryti.
 - susijęs iš [[objektai/grupes/III Seimas.md#claim-t-74135|III Seimas]]: 1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai neskelbti, remiantis rengiamu plebiscitu.
@@ -97,6 +99,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184506|Kryžiuočių ordinas]]: Seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius, kad šis skatintų magistrą draugiškai baigti ginčą su Vytautu.
 - susijęs iš [[objektai/grupes/LDK žemių seimas.md#claim-t-187781|LDK žemių seimas (seimas, XV a.)]]: 1492 m. liepos 18 d. Vilniuje visų LDK žemių seimas patvirtino Aleksandrą Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184533|Lenkai]]: Lenkų seimas susirinko Parčeve, o lietuvių seimas Breste; po ginčų nutarta susitikti Lomžoje.
+- susijęs iš [[objektai/grupes/Lenkijos seimas Piotrkove.md#claim-t-189520|Lenkijos seimas Piotrkove (seimas, XVI a.)]]: Narbutas rašė, kad 1567 m. Lenkijos seimas Piotrkove ilgai ir sėkmingai posėdžiavo, kai Žygimantas rengė abiejų tautų žygį.
 - susijęs iš [[objektai/grupes/Lenčicos seimas.md#claim-t-185452|Lenčicos seimas (seimas)]]: Lenčicos seimas buvo sušauktas karaliui atleidus kryžiuočių žygūną.
 - susijęs iš [[objektai/grupes/Liaudies seimas.md#claim-t-183149|Liaudies seimas (seimas)]]: Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.
 - susijęs iš [[objektai/grupes/Liaudies seimas.md#claim-t-183150|Liaudies seimas (seimas)]]: Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti.
@@ -107,6 +110,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš [[objektai/grupes/Lietuvos Respublikos Seimas.md#claim-t-74773|Lietuvos Respublikos Seimas (seimas)]]: Pagal Konstituciją Seimas kartu su Respublikos prezidentu, Vyriausybe ir teismu vykdo valstybės valdžią Lietuvoje.
 - susijęs iš [[objektai/grupes/Lietuvos seimas (1924 m.).md#claim-t-01407|Lietuvos seimas (1924 m.)]]: Lietuvos seimas liepos 30 d. ratifikavo konvenciją.
 - susijęs iš [[objektai/grupes/Lietuvos seimas (XVI a.).md#claim-t-01408|Lietuvos seimas (XVI a.)]]: Prieš bendrąjį unijos seimą sušauktame Lietuvos seime unijos klausimas nepasistūmėjo.
+- susijęs iš [[objektai/grupes/Lietuvos seimas Gardine.md#claim-t-189496|Lietuvos seimas Gardine (seimas, XVI a.)]]: Lietuvos seimas Gardine pradėjo posėdžiauti 1568 m. pavasarį, o balandžio 28 d. karalius buvo Gardine.
 - susijęs iš [[objektai/grupes/Lietuvos seimas.md#claim-t-72534|Lietuvos seimas (seimas)]]: Lietuvos seimas liepos 30 d. ratifikavo konvenciją.
 - susijęs iš [[objektai/grupes/Lietuvos seimas.md#claim-t-72535|Lietuvos seimas (seimas)]]: Lietuvos seimas konvenciją ratifikavo liepos 30 d.
 - susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101471|Lietuvos valstiečių liaudininkų sąjunga]]: Kairė laikėsi liaudininko M. Sleževičiaus šūkio, kad kova tęsis, kol bus sušauktas Seimas.
@@ -141,7 +145,9 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš Gegužės 3 d. konstitucija (1791 m.): 1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.
 - susijęs iš Gegužės 3 d. konstitucija (1791 m.): 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimas priėmė konstituciją, panaikinusią valdovų elekciją ir paskelbusią sosto paveldimumą.
 - susijęs iš Prezidento aktas dėl III Seimo paleidimo (1927 m.): 1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o naujų rinkimų neskelbimas teisintas rengiamu plebiscitu.
+- susijęs iš Gardinas: Narbutas rašė, kad Gardine aprašomas seimas pradėjo posėdžiauti 1568 m. vasarį, o balandžio 28 d. ten buvo karalius.
 - susijęs iš Lenkija: Lenkijos karalystės Seimas paskelbė šalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai.
+- susijęs iš Lietuva: 1567 m. pabaigoje karalius, nenutraukęs karo veiksmų, išsiuntė Lietuvai universalus dėl Gardino seimo sušaukimo.
 - susijęs iš Liublinas: Liublino seimas unijos klausimui spręsti susirinko 1569 m. sausio 10 d.
 - susijęs iš Radomas: Radomo seimas vyko 1505 m. balandžio-birželio mėn.
 - susijęs iš Sankt Peterburgas: 1772 m. Sankt Peterburge buvo pasirašytos padalijimo sutartys, kurias 1773-1775 m. patvirtino delegacinis seimas Varšuvoje.
@@ -164,8 +170,10 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75781|Augustinas Voldemaras]]: Augustinas Voldemaras buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184729|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo.
 - susijęs iš [[objektai/asmenys/Jokūbas Jasinskis.md#claim-t-63710|Jokūbas Jasinskis]]: 1794 m. balandžio 16 d. Šiauliuose prasidėjus sukilimui Lietuvoje, jo vadu tapo Jokūbas Jasinskis.
+- susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-188549|Jonas Chodkevičius]]: Narbutas rašo, kad Jonas Chodkevičius ir Romanas Sanguška 1567 metais palaikė karo veiksmų su Rusija tęsimą.
 - susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101650|Jonas Jeronimaitis Chodkevičius]]: 1562 m. Vitebsko karo lauko seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
 - susijęs iš [[objektai/asmenys/Mikalojus Kurovskis.md#claim-t-186239|Mikalojus Kurovskis]]: Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius skatinti magistrą taikiai baigti ginčą su Vytautu.
+- susijęs iš [[objektai/asmenys/Romanas Sanguška.md#claim-t-188606|Romanas Sanguška]]: Romanas Sanguška kariavo su Rusija ir, Narbuto apibūdinimu, kovojo kruvinus mūšius.
 - susijęs iš [[objektai/asmenys/Vladas Mironas.md#claim-t-54006|Vladas Mironas]]: Po Klaipėdos atplėšimo V. Mironą ministro pirmininko poste pakeitė generolas Jonas Černius.
 - susijęs iš [[objektai/asmenys/Šarlis Monteskjė.md#claim-t-183577|Šarlis Monteskjė]]: Konstitucija rėmėsi Šarlio Monteskjė valdžių padalijimo principu, aptardama valstybės politinę santvarką.
 - susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-186027|Šich Achmetas]]: Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.
@@ -181,6 +189,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179136|Lenkai]]: Lenkai siekė unitarinės valstybės, tačiau po Liublino unijos teoriškai susikūrė federacinė, o realiai konfederacinė valstybė.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179203|Lenkai]]: Lenkai siekė unitarinės valstybės, bet Abiejų Tautų Respublika realiai veikė kaip konfederacinė valstybė.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179217|Lietuviai]]: Konferencijos rezoliucijoje lietuviai numatė nepriklausomą demokratišką valstybę etnografinėmis ribomis.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190573|Lietuviai]]: Narbutas rašė, kad lietuvių religija mokė pamaldumo medžiams, o šventieji medžiai buvo puošiami trofėjais ir girliandomis.
 - susijęs iš [[objektai/grupes/Lietuvių tautininkų sąjunga.md#claim-t-44996|Lietuvių tautininkų sąjunga]]: Kandidatus į Seimą galėjo kelti tik tautininkų kontroliuojamos savivaldybės, o ne visuomeninės organizacijos ar piliečių grupės.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187722|Lietuvos Didžioji Kunigaikštystė]]: Visų LDK žemių seimas Vilniuje 1492 m. liepos 18 d. patvirtino Aleksandrą Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba.md#claim-t-65777|Lietuvos SSR Aukščiausioji Taryba]]: 1940 m. rugpjūčio 25 d. Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba.
@@ -226,6 +235,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš [[objektai/ivykiai/Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.).md#claim-t-23356|Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)]]: 1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą.
 - susijęs iš [[objektai/ivykiai/Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.).md#claim-t-23357|Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)]]: Įstatymas numatė įvairių žemių paėmimą į Valstybinį žemės fondą.
 - susijęs iš [[objektai/paprociai/Bajoriškoji demokratija, seimavimai ir liberum veto praktika.md#claim-t-77932|Bajoriškoji demokratija, seimavimai ir liberum veto praktika]]: Prieš vykdami į bendrus seimus Lietuvos atstovai rengdavo seimavimus bendrai pozicijai aptarti.
+- susijęs iš [[objektai/paprociai/Karaliaus apsaugos raštų išdavimas su akivaizdaus nusikaltimo išimtimi.md#claim-t-189920|Karaliaus apsaugos raštų išdavimas su akivaizdaus nusikaltimo išimtimi]]: 1568 m. Lietuvos seimas Gardine sutiko, kad karalius išduotų apsaugos raštus, išskyrus akivaizdaus nusikaltimo atvejį.
 - susijęs iš [[objektai/paprociai/Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų.md#claim-t-87232|Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų]]: Vilniaus gyventojai, dar buvę pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.
 - susijęs iš [[objektai/paprociai/Vilniaus magistrato tarnybos kelias į bajorystę.md#claim-t-87308|Vilniaus magistrato tarnybos kelias į bajorystę]]: Gardino seimo privilegija Vilniaus miestiečius, nepriekaištingai ėjusius vaito, tarybos nario ar šuolininko pareigas, pakėlė į bajorų luomą.
 - susijęs iš [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu.md#claim-t-54746|Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]: Viešiesiems reikalams Vilniaus magistratas galėjo naudoti tik senąjį miesto antspaudą su šv. Kristoforo atvaizdu ant raudono lako.
@@ -253,21 +263,28 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš Žemės nacionalizavimo deklaracija: Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.
 - susijęs iš Žemės nacionalizavimo deklaracija: Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.
 - susijęs iš Chotinas: 1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus.
+- susijęs iš Gardinas: XVIII a. tribunolas rinkdavosi tik Vilniuje ir Gardine.
+- susijęs iš Gardinas: Lietuvių politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Gardino gubernijoje.
+- susijęs iš Gardinas: Lietuvos teritorinės aspiracijos apėmė Vilniaus, Kauno, Suvalkų ir Gardino gubernijų lietuvių žemes bei dalį Kuršo.
 - susijęs iš Gardinas: 1568 m. birželio 15 d. Lietuvos seimas Gardine apsaugojo miestiečius nuo dvariškių, valdininkų ir pasiuntinių apgyvendinimo be miesto tarybos leidimo.
+- susijęs iš Gardinas: Narbutas abejojo, ar Lietuvos seimas posėdžiavo Gardine 1567 m., nes vien kronikos šios abejonės nepašalino.
 - susijęs iš Kauno tvirtovė: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę.
 - susijęs iš Krokuva: Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą.
 - susijęs iš Lietuva: Okupantų paskirto Liaudies seimo nutarimai panaikinti Lietuvos valstybingumą ir prašytis į SSRS buvo neteisėti.
 - susijęs iš Maskva: J. Paleckio vadovaujama delegacija Maskvoje 1940 m. rugpjūčio 3 d. pasiprašė įeiti į SSRS sudėtį.
 - susijęs iš Mažoji Lietuva: 1921 m. lapkričio 11 d. Steigiamasis Seimas vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį, demonstruodamas vienybę su Mažąja Lietuva.
+- susijęs iš Piotrkovas: Narbutas aiškina, kad 1567 metais vietoj abejotino Gardino seimo iš tikrųjų vyko ilgai posėdžiavęs Lenkijos seimas Piotrkove.
 - susijęs iš Podolės Kameneco tvirtovė: Turkai stiprino įtvirtinimus prie Podolės Kameneco tvirtovės, numatydami lenkų ir lietuvių puolimo kryptį.
 - susijęs iš SSRS: Lietuvą pavertus SSRS dalimi, jos valdymo sistema buvo pertvarkoma pagal Sovietų Sąjungos modelį.
 - susijęs iš SSRS: Pavertus Lietuvą SSRS dalimi, jos valdymo sistema buvo pertvarkyta pagal Sovietų Sąjungos modelį.
 - susijęs iš Trakai: Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose.
 - susijęs iš Varšuva: Padalinimo sutartys pasirašytos 1772 m. Sankt Peterburge, o 1773-1775 m. jas patvirtino delegacinis seimas Varšuvoje.
 - susijęs iš Varšuva: 1830 m. lapkričio pabaigoje Varšuvoje pasikėsinus prieš caro brolį, kuris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukilimas.
+- susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
 - susijęs iš Vilnius: Vilniuje pakrikštyti pagonys gyventojai, užgesinta amžinoji ugnis ir pradėta statyti Šv. Stanislovo katedra.
 - susijęs iš Vilnius: 1915 m. rugsėjo 15 d. vokiečiai įžengė į Vilnių, o senoji Lenkijos ir Lietuvos valstybės teritorija atsidūrė Vokietijos ir Austrijos kariuomenių kontrolėje.
 - susijęs iš Vilnius: 1568 m. Gardino seimas suteikė privilegiją Vilniaus magistrato pareigūnams ir jų palikuonims būti pakeltiems į bajorų luomą.
+- susijęs iš Vilnius: Karalius Žygimantas po Piotrkovo seimo su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius.
 - susijęs iš Čikaga: Lietuvių katalikų seimas Čikagoje rugsėjį pritarė Lietuvos autonomijai.
 - susijęs iš [[objektai/zodynas/Valstybinis žemės fondas.md#claim-t-77807|Valstybinis žemės fondas]]: Į Valstybinį žemės fondą buvo paimta valstybinė žemė, kai kurių dvarų ir virš 80 ha turėjusių privačių ar bažnytinių savininkų žemė.
 - susijęs iš [[objektai/zodynas/aneksija.md#claim-t-183395|aneksija]]: Lietuvos pasiuntiniams užsienyje pareiškus protestus prieš okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas turtas.

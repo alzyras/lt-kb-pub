@@ -106,7 +106,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) puolė Vytautas (Lietuvos valdovas, XIV–XV a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) puolė Kaunas“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176377|Gediminas]]: Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176377|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos.
 - susijęs iš [[objektai/autoriai/Olivos metraščiai.md#claim-t-88077|Olivos metraščiai]]: Olivos metraščiai rašo, kad Gediminui ar jo kariui stumiant karinę mašiną pataikė Marijano iš bombardos paleistas šūvis.
 - susijęs iš [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos.md#claim-t-87024|Bombardos, patrankos ir artilerijos karo mašinos]]: Vilniaus puolimo metu artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į Aukštutinės pilies mūrus.
 - susijęs iš [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos.md#claim-t-87025|Bombardos, patrankos ir artilerijos karo mašinos]]: Dlugošo tekste prūsiškos bombardos stovėjo pievoje, kurioje už kojų ant medžio pakabintas Narimundas buvo kankinamas strėlėmis.

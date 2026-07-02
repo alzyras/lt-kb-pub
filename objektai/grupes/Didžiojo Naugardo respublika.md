@@ -246,19 +246,24 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Naugardo žemę ir Porchovo apgultis.md#claim-t-186596|Vytauto žygis į Naugardo žemę ir Porchovo apgultis]]: Lietuvos metraštis vaizduoja Vytautą siuntus pasiuntinius į Didįjį Naugardą ir Pskovą, kad miestai pripažintų jį valdovu ir mokėtų duoklę.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Naugardo žemę ir Porchovo apgultis.md#claim-t-186597|Vytauto žygis į Naugardo žemę ir Porchovo apgultis]]: Lietuvos metraštis pasakoja, kad naugardiečiams ir pskoviečiams atsisakius duoklės Vytautas ištraukė į Naugardo žemę ir šešis mėnesius stovėjo prie Porchovo.
 - susijęs iš Wremiennik Sofijski: Sofijski Wremiennik minimas greta kitų šaltinių aiškinant Narimanto, Patriko ir Lengvenio valdžios seką Didžiajame Naugarde.
+- susijęs iš Biarmija: Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, palaikiusią santykius su Naugardo slavais.
 - susijęs iš Didysis Naugardas: 1428 m. Vytautas surengė paskutinį savo žygį į Didįjį Naugardą ir paėmė iš jo 10 000 rublių kontribuciją.
 - susijęs iš Didysis Naugardas: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino sutartį, o Švitrigaila sustiprino ryšius su Naugardu.
 - susijęs iš Didysis Naugardas: Vytautas 1428 m. pajungė Didįjį Naugardą tikrindamas rytinius Lietuvos valstybės pakraščius.
 - susijęs iš Didysis Naugardas: Lietuvos metraštis vaizduoja, kad naugardiečiai pagerbė Sofiją ir Joną Algimantaitį ir nulydėjo juos į Maskvą pas Vasilijų Dimitrijevičių.
+- susijęs iš Naugardas: Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, bendravusią su Naugardo slavais.
 - susijęs iš [[objektai/asmenys/Chariničius.md#claim-t-87643|Chariničius]]: Didžiojo Naugardo bojarinas Chariničius su Ivanu Jermoliničiumi Vilniuje sudarė sutartį su Švitrigaila dėl saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87453|Paulius Rusdorfas]]: Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais.
 - susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-82662|Simonas Lengvenis (valdovas, XIV a.)]]: Simonas Lengvenis citatoje vadinamas Lietuvos kunigaikščiu, Algirdo sūnumi ir Rusios bei Ladogos kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179707|Švitrigaila]]: Po sėkmingo žygio Švitrigaila sudarė ilgalaikes paliaubas su karaliumi.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-12313|Laivai]]: 1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.
+- susijęs iš [[objektai/grupes/Biarmiai.md#claim-t-189431|Biarmiai]]: Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-183155|Lietuvos Didžioji Kunigaikštystė]]: Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187725|Lietuvos kariuomenė]]: Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.
 - susijęs iš [[objektai/grupes/Pamario kunigaikščių sąjunga.md#claim-t-35744|Pamario kunigaikščių sąjunga]]: Jogaila su Pamario kunigaikščių sąjunga rėmė koaliciją, kuri priešinosi Vytautui dėl Smolensko.
 - susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113194|Pskovo respublika]]: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
+- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-190619|Skandinavai]]: Narbutas iš skandinavų legendų sprendžia, kad Biarmija buvo turtinga brangiųjų metalų ir viliojo skandinavų plėšikus.
+- susijęs iš [[objektai/grupes/Skitai.md#claim-t-189483|Skitai]]: Narbutas rašo, kad senovės Graikijos geografai žinias apie Biarmijos gyventojus gavo iš skitų.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172836|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomas turėjo nustatytą vietą Lietuvos seimuose ir dalyvavo krašto reprezentacijose.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55084|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117311|Vokiečiai]]: Naugardiečiai teigė su vokiečiais sudarę atskirą taikos sutartį.

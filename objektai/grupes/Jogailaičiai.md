@@ -101,6 +101,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184415|Kazimieras Didysis]]: Kazimieras Didysis buvo paskutinysis Piastas, miręs 1370 m. prieš Jogailaičių epochos pradžią.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
+- susijęs iš [[objektai/autoriai/Jonas Kantas Boreiša.md#claim-t-190431|Jonas Kantas Boreiša]]: Narbutas nurodo, kad Jono Kanto Boreišos 1689 m. lotyniškame pamoksle rado iš esmės tą pačią Jogailaičių genealogiją.
 - susijęs iš [[objektai/grupes/Gediminaičiai.md#claim-t-19691|Gediminaičiai]]: Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96102|Gediminaičių dinastija]]: Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis.
 - susijęs iš [[objektai/grupes/Jogailaičių dinastija.md#claim-t-182855|Jogailaičių dinastija]]: Jogailaičių epocha truko beveik du amžius, nuo 1386 iki 1572 metų.

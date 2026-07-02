@@ -1,0 +1,63 @@
+---
+tipas: vieta
+pavadinimas: 'Nerčia'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+sukurta: ''
+atnaujinta: ''
+---
+# Nerčia
+
+## Santrauka
+
+Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas.
+
+## Teiginiai
+<a id="claim-t-189028"></a>
+- t-001
+  global_id: t-189028
+  teiginys: 'Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas.'
+  pagrindžia:
+    - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 766883-767543; hash=e3e67a81873cef7accfb0a9d5fd453514b96c6a94c18ed14ac26850c569a8ddb; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Sibiras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nerčia: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Sibiras: mention_match, place, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nerčia" parinktas kaip owner_note_path. Targetas "Sibiras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Rytų Sibiras: Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas.
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Rei­
+    kia turėti tvirtą ir atskirą vertinimo skalę kiekvienam amžiui
+    ir kiekvienam rašytojui -  skalę, kurią net būtų galima tikslinti
+    atsižvelgiant į galimą atsiradimą įrodymų, patvirtinančių kro­
+    nikoje teigiamus dalykus, idant nepasirodytum toks kaip švento
+    atminimo Lėrbergas su tariamo Šiaurės popiežiaus išradimu.
+    II priedas
+    Apie N erčios upę
+    Papildymas apie ypatumą visų kraštų vandenų pavadini­
+    mo, kurio etimologiją išreiškia skiemuo N  ar, Nėr, Nor, Nur.
+    Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu­
+    je, reikia pridėti dar vieną, pastebėtą jau išspausdinus lanką:
+    lai Nerčia (Nercz), Rytų Sibiro upė, prie kurios yra Nerčinsko
+    miestas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+- Nerčia priklause [[objektai/vietos/Rytų Sibiras]]

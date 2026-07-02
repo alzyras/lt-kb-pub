@@ -52,8 +52,10 @@ Valstybinė santvarka po Liublino unijos.
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos faktas.'
   pagrindžia:
     - c-002
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188627|Teodoras Narbutas]]: Teodoras Narbutas LTI apžvelgė politinę ir kultūrinę lietuvių raidą nuo seniausių laikų iki 1569 m. Liublino unijos.
 - susijęs iš [[objektai/autoriai/Kochanovskis.md#claim-t-184239|Kochanovskis]]: Kochanovskis Lenkijos ir Lietuvos unijos sumanymą vadino genialia mintimi, pralenkusia amžius ir kartas.
 - susijęs iš [[objektai/autoriai/Kochanovskis.md#claim-t-35454|Kochanovskis]]: Kochanovskis uniją su Lietuva vadino genialia mintimi, pralenkusia ištisus amžius ir kartas.
+- susijęs iš [[objektai/grupes/Abiejų tautų seimas.md#claim-t-189511|Abiejų tautų seimas (seimas, XVI a.)]]: Narbutas abiejų tautų seimą tapatino su Liublino unija ir siejo jį su tų metų pabaiga.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-12360|Gediminaičių dinastija]]: Su Krėvės unija sutiko ne visi Gediminaičiai.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179140|Lenkai]]: Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Lenkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179192|Lenkai]]: Lenkai Krėvos unija siekė laimėti ginčijamus žemės plotus, todėl Lenkijoje ėmė reikštis silpna opozicija.
@@ -91,6 +93,7 @@ Valstybinė santvarka po Liublino unijos.
 - susijęs iš [[objektai/asmenys/Vilhelmas fon Urachas.md#claim-t-26463|Vilhelmas fon Urachas]]: Vilhelmas fon Urachas 1918 m. liepos 13 d. buvo pakviestas užimti Lietuvos sostą ir paskelbtas karaliumi Mindaugu II.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-183769|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176656|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kochanovskio nuomone, Horodlės unija Vytautas Didysis siekė ne lenkinti Lietuvą, o ją civilizuoti.
+- susijęs iš [[objektai/autoriai/Nikolajus Karamzinas.md#claim-t-190307|Nikolajus Karamzinas]]: Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams ir pagal juos suskirstė „Lietuvių tautos istorijos“ turinį.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80771|Abiejų Tautų Respublika]]: 1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80774|Abiejų Tautų Respublika]]: Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Lenkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80775|Abiejų Tautų Respublika]]: Abiejų Tautų Respublika XVII-XVIII a. siejama su duonos, tolerancijos, demokratijos, konstitucijos ir baroko fenomenais.
@@ -103,6 +106,7 @@ Valstybinė santvarka po Liublino unijos.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179079|Kryžiuočių ordinas]]: Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija.
 - susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50697|Lietuvių bajorija]]: Pirmą kartą pabėgęs pas Ordiną Vytautas sulaukė nemažai bajorų iš Lietuvos ir Žemaičių paramos.
 - susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50698|Lietuvių bajorija]]: Lietuvių bajorija valstybės reikaluose gavo balsą, anksčiau priklausiusį valdovui.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-188285|Lietuvos Didžioji Kunigaikštystė]]: Įvadinio straipsnio autorius teigia, kad Narbutas priešinosi mėginimams Lietuvos Didžiosios Kunigaikštystės žemes paversti Lenkijos provincija.
 - susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-96712|Lietuvos bajorija]]: Pirmą kartą pabėgęs pas Ordiną, Vytautas sulaukė nemažai bajorų iš tikrosios Lietuvos ir Žemaičių paramos.
 - susijęs iš [[objektai/grupes/Piastų dinastija.md#claim-t-34363|Piastų dinastija]]: Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, kurie būtų kilę ne iš Piastų dinastijos.
 - susijęs iš [[objektai/grupes/Vilniaus baroko architektūros mokykla.md#claim-t-20068|Vilniaus baroko architektūros mokykla]]: Abiejų Tautų Respublika išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architektūros mokyklą.

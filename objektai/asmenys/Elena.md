@@ -879,9 +879,9 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     - t-017
 
 ## Ryšiai
+- Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Vilnius]]
 - Elena (vyskupas, XV–XVI a.) pastate [[objektai/daiktai/Namas]]
 - Elena (vyskupas, XV–XVI a.) mire [[objektai/vietos/Vilnius]]
-- Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Vilnius]]
 - Elena (vyskupas, XV–XVI a.) buvo_dukte [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
 - Elena (vyskupas, XV–XVI a.) buvo_zmona [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Aleksandras]] vede Elena (vyskupas, XV–XVI a.)

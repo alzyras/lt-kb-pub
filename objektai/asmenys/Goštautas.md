@@ -219,7 +219,7 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - susijęs iš [[objektai/zodynas/luomai.md#claim-t-185358|luomai]]: Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo.
 - susijęs iš [[objektai/zodynas/luomas.md#claim-t-184620|luomas]]: Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo.
 - susijęs iš [[objektai/zodynas/vaivada.md#claim-t-184643|vaivada]]: Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-183843|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87363|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
 - susijęs iš [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis).md#claim-t-186021|Vladislovas (karalius, Kazimiero brolis)]]: Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu.

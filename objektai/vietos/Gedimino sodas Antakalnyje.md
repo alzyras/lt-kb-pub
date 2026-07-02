@@ -1,0 +1,51 @@
+---
+tipas: vieta
+pavadinimas: 'Gedimino sodas Antakalnyje'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+sukurta: ''
+atnaujinta: ''
+---
+# Gedimino sodas Antakalnyje
+
+## Santrauka
+
+Narbutas minėjo padavimą, kad Gedimino sode Antakalnyje, dabartinio Šv. Petro vienuolyno vietoje, stovėjusi Mildos šventykla arba koplyčia.
+
+## Teiginiai
+<a id="claim-t-188998"></a>
+- t-001
+  global_id: t-188998
+  teiginys: 'Narbutas minėjo padavimą, kad Gedimino sode Antakalnyje, dabartinio Šv. Petro vienuolyno vietoje, stovėjusi Mildos šventykla arba koplyčia.'
+  pagrindžia:
+    - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 233927-234144; hash=7dd4865f8a7e56b239dea4c43d3d9c7de1fc4385d70660ca54171398fd08c0c8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedimino sodas Antakalnyje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino sodas Antakalnyje" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas minėjo padavimą, kad Gedimino sode Antakalnyje, dabartinio Šv. Petro vienuolyno vietoje, stovėjusi Mildos šventykla arba koplyčia.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Bet kai kas painioja šią patrauklią dievybę su deive Lie­
+    tuva.
+    Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­
+    de, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­
+    jusi Mildos šventykla arba koplyčia.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

@@ -184,7 +184,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 - susijęs iš [[objektai/asmenys/Jonas Karcanas.md#claim-t-87723|Jonas Karcanas]]: Apie 1580 metus Jonas Karcanas globojo Vilniuje klestėjusią evangelikų reformatų Danieliaus iš Lenčicos spaustuvę.
 - susijęs iš [[objektai/asmenys/Rumbaudas.md#claim-t-184284|Rumbaudas]]: Vytautas pasiuntė maršalką Rumbaudą ir Vilniaus vaivadą Gedgaudą į Lenčicą pas Jogailą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176772|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1429 m. Vytautas Didysis į Lenčicą pas Jogailą pasiuntė delegatus Gedgaudą ir Rumbaudą.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176825|Vytenis]]: Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176825|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus.
 - susijęs iš [[objektai/grupes/Evangelikai reformatai Vilniuje.md#claim-t-86791|Evangelikai reformatai Vilniuje]]: Apie 1580 m. Vilniuje klestėjo evangelikų reformatų Danieliaus iš Lenčicos spaustuvė.
 - susijęs iš [[objektai/grupes/Lenčicos seimas.md#claim-t-185452|Lenčicos seimas (seimas)]]: Lenčicos seimas buvo sušauktas karaliui atleidus kryžiuočių žygūną.
 - susijęs iš [[objektai/ivykiai/1428 m. Lenčicos suvažiavimas.md#claim-t-34534|1428 m. Lenčicos suvažiavimas]]: 1428 m. Lenčicos suvažiavime buvo baigtas spręsti Liubičo klausimas, o lenkai pasiuntė į Lietuvą pasiuntinius su Olesnickiu priešakyje.
@@ -208,14 +208,13 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 - susijęs iš [[objektai/asmenys/Zemislovas.md#claim-t-186268|Zemislovas]]: Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemislovo prasidėjo vaidai ir ginkluoti susidūrimai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179038|Kryžiuočių ordinas]]: 1413 m. vasario 6 d. Vilniuje Jogaila ir Vytautas įgaliojo atstovus derėtis su kryžiuočiais žemaičių vardu.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184520|Lenkai]]: Giliginui valdant lietuvių kariaunos nusiaubė Mazoviją, Kulmo kraštą ir Kujaviją, o lenkai buvo smarkiai sumušti.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176117|Žemaičiai]]: 1413 m. vasario 6 d. Vilniuje Jogaila ir Vytautas įgaliojo dvasininkus vesti derybas su kryžiuočiais, atstovaujant žemaičiams.
 - susijęs iš [[objektai/ivykiai/Šešerių metų paliaubos tarp Lietuvos ir Maskvos.md#claim-t-185678|Šešerių metų paliaubos tarp Lietuvos ir Maskvos]]: Lietuvos ir Maskvos paliaubų pasiuntinybei vadovavo Petras Miškovskis, Stanislovas Glebavičius, Vaitiekus Kločka ir Jonas Sapiega.
 - susijęs iš Dogiel, Codex Diplomaticus: Dogielio „Codex Diplomaticus“ pateikia 1413 m. vasario 6 d. Vilniuje Jogailos ir Vytauto duotą įgaliojimą deryboms su kryžiuočiais.
 - susijęs iš Prūsija: Jogaila, matydamas kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.
 - susijęs iš [[objektai/zodynas/luomai.md#claim-t-185356|luomai]]: Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo.
 - susijęs iš [[objektai/zodynas/luomas.md#claim-t-184618|luomas]]: Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo.
 - susijęs iš [[objektai/zodynas/seimas.md#claim-t-185391|seimas]]: Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176825|Vytenis]]: Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176825|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus.
 - susijęs iš Volbožas: Jogaila paliepė Mažosios Lenkijos ir Volynės kariams rinktis į Volbožą, o Didžiosios Lenkijos kariams - į Lenčicą.
 ## Reikšmingi paminėjimai
 
@@ -362,8 +361,8 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 - [[objektai/asmenys/Zemislovas]] valde Lenčica
 - [[objektai/asmenys/Konradas]] buvo_valdovas Lenčica
 - [[objektai/asmenys/Gedgaudas]] keliavo_i Lenčica
-- [[objektai/asmenys/Vytenis]] uzeme Lenčica
-- [[objektai/asmenys/Vytenis]] puole Lenčica
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] uzeme Lenčica
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Lenčica
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] keliavo_i Lenčica
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Lenčica
-- [[objektai/asmenys/Vytenis]] surenge_zygi_i Lenčica
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] surenge_zygi_i Lenčica

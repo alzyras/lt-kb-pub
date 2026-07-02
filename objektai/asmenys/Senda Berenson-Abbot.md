@@ -58,7 +58,6 @@ Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė k
 - susijęs iš [[objektai/asmenys/Romain Garry.md#claim-t-19205|Romain Garry]]: Romain Garry užaugo Vilniuje ir tapo dukartiniu Gonkūrų premijos laureatu.
 - susijęs iš Berlynas: Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.
 - susijęs iš Berlynas: Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.
-- susijęs iš Kaunas: Emmanuelis Levinas gimė Kaune ir baigė gimnaziją.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -4,6 +4,7 @@ pavadinimas: 'Prūsijos žemės kronika'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1248 m.'
@@ -35,7 +36,6 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 - chunk_0003: Durbės mūšis, Vytenio įsiveržimas į Sembą ir Notangą, Vytenio žygis į Lenkiją.
 
 ## Teiginiai
-
 <a id="claim-t-176237"></a>
 - t-001
   global_id: t-176237
@@ -90,7 +90,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   global_id: t-176242
   teiginys: '1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsijos lietuviai|Prūsijos lietuviai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_person: [[objektai/asmenys/Pukuveras|Pukuveras]]; mentioned_place: Lenkija; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1292 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
@@ -126,8 +126,26 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   ryšio_targeto_parinkimas: Lotynai: mention_match, group, gap=11
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos žemės kronika" parinktas kaip owner_note_path. Targetas "Lotynai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
-## Reikšmingi paminėjimai
+<a id="claim-t-188498"></a>
+- t-008
+  global_id: t-188498
+  teiginys: 'Narbutas rašė, kad Pretorijus Dusburgiečio kronikos vietoje minimą žynio lazdą vadino krivūle.'
+  pagrindžia:
+    - c-007
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 777110-777614; hash=29d1491552c5e581289150963673bf674cd4e1919eb89729247e440828593d4b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krivis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsijos žemės kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Krivis: mention_match, person, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos žemės kronika" parinktas kaip owner_note_path. Targetas "Krivis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
+## Bibliografiniai įrodymai
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -270,3 +288,23 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+- c-007
+  santrauka: 'Narbutas rašė, kad Pretorijus Dusburgiečio kronikos vietoje minimą žynio lazdą vadino krivūle.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tą
+    lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy­
+    nui, tas tučtuojau siunčia tolyn, kol paskutinis iš eilės atneša
+    atgal vaitui; kiekvienas, gavęs tokį ženklą, yra įpareigotas ne­
+    delsiant atvykti į valsčiaus susirinkimo vietą. Pretorijus, atpa­
+    sakodamas šią Dusburgiečio kronikos vietą, kur kalbama apie
+    žynio lazdą, vadina ją krivūle. Čia anksčiau nupieštą kreivą
+    lazdą Prūsijos lietuviai šitaip tebevadina, taigi krivis turėjo pa­
+    našią lazdą ir ji turėjo būti jo įsakomasis ženklas9 10.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008

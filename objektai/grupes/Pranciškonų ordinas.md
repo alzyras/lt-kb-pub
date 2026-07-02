@@ -892,8 +892,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - susijęs iš [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m..md#claim-t-81828|Vilniaus pranciškonų nužudymas apie 1345 m.]]: 1341 m. Vilniaus miestiečiai sukurstė totorius pulti pranciškonus ir kartu su jais naujame vienuolyne nukankino 36 vienuolius bei Goštautą.
 - susijęs iš [[objektai/zodynas/pagonys.md#claim-t-187542|pagonys]]: Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuojant prieš Maskvą, sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-183838|Algirdas (Lietuvos valdovas)]]: Algirdas nubaudė pranciškonų žudynių vadus ir paskelbė vienuoliams laisvę gyventi bei išpažinti tikėjimą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176365|Gediminas]]: Gedimino laiškai Liubekui, Bremenui, Kelnui, kitiems Europos miestams ir vienuolių ordinams turėjo platų tarptautinį atgarsį.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113787|Goštautas (vyskupas, XV a.)]]: Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113788|Goštautas (vyskupas, XV a.)]]: Goštautas kai kurių autorių laikytas Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir pirmuoju Vilniaus vyskupu.
 - susijęs iš [[objektai/asmenys/Isamas (Rygos arkivyskupas).md#claim-t-87519|Isamas (Rygos arkivyskupas)]]: Rygos arkivyskupas Isamas, kaip Bonifacijaus atstovas, sudarė taiką ir paliaubas tarp lietuvių ir Teutonų ordino brolių.
@@ -952,12 +951,10 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - susijęs iš [[objektai/asmenys/Bertoldas (pranciškonas).md#claim-t-30212|Bertoldas (pranciškonas)]]: Pranciškonas Bertoldas su Henriku į Gedimino laišką veikiausiai įrašė daugiau, negu Gediminas buvo ketinęs.
 - susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-82294|Elžbieta]]: Elžbieta buvo Vengrijos karalienė ir Jadvygos motina.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89714|Fridrichas (Rygos arkivyskupas)]]: Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonus į jau pastatytą bažnyčią.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10677|Gediminas]]: 1323 m. Gediminas laiškais kvietė į Lietuvą amatininkus, pirklius, žemdirbius ir riterius.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176361|Gediminas]]: Šv. Kryžiaus ir dominikonų bažnyčių griuvėsiai Vilniuje buvo laikomi Gedimino palankumo krikščionybei atminimu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176363|Gediminas]]: Gediminas pranciškonams rašė pasiuntęs laišką popiežiui Jonui ir laukiantis jo pasiuntinių.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176374|Gediminas]]: Gediminas pranciškonams rašė pasiuntęs laišką popiežiui Jonui ir laukiąs jo pasiuntinių atvykimo.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176393|Gediminas]]: Gediminas laiške pranciškonams prisistatė lietuvių ir rusų karaliumi bei Žemgalijos valdovu ir kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176363|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas pranciškonams rašė pasiuntęs laišką popiežiui Jonui ir laukiantis jo pasiuntinių.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176374|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas pranciškonams rašė pasiuntęs laišką popiežiui Jonui ir laukiąs jo pasiuntinių atvykimo.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176393|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas laiške pranciškonams prisistatė lietuvių ir rusų karaliumi bei Žemgalijos valdovu ir kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113785|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.
 - susijęs iš [[objektai/asmenys/Henrikas (pranciškonas).md#claim-t-30260|Henrikas (pranciškonas)]]: Pranciškonas Henrikas kartu su Bertoldu laiške įrašė daugiau, negu, tikėtina, buvo ketinęs Gediminas.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176431|Jadvyga Jogailienė]]: Jadvyga Jogailienė buvo Vengrų karalienės Elžbietos duktė.
@@ -974,7 +971,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - susijęs iš [[objektai/asmenys/Petrašu Montgirdaitis.md#claim-t-87561|Petrašu Montgirdaitis]]: Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.
 - susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173220|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Vilniaus vyskupas Povilas savo sode pastatydino nedidelę Šv. Kryžiaus oratoriją vietoje, kur buvo palaidoti pranciškonai kankiniai.
 - susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87573|Simonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis (valdovas, XIII–XIV a.)]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179712|Švitrigaila]]: Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184381|Žygimantas]]: Žygimantas kartu su Vytautu ir Švitrigaila nakties tamsoje pabėgo po kautynių tolimose stepėse.
 - susijęs iš [[objektai/autoriai/Grzybowski.md#claim-t-55001|Grzybowski]]: Grzybowski, įvardytas pranciškonu, rašė, kad Goštautas Vilniuje įkūrė vienuolyną ir vertė miestiečius į Kristaus tikėjimą.
@@ -1042,8 +1039,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - susijęs iš Ryga: Po kautynių, kuriose žuvo 9 000 švedų, Ryga buvo išgelbėta.
 - susijęs iš Semba: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš Stralsundas: Gegužės 26 d. vienas iš laiškų buvo pasiųstas Hanzos miestams, tarp jų Stralsundui.
-- susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį.
-- susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį.
+- susijęs iš Vilniaus Plikasis kalnas: Narbutas rašė, kad pirmieji misionieriai pranciškonai ant Vilniaus Plikojo kalno pastatė tris kryžius kaip savo misijos ženklą.
 - susijęs iš Vilnius: Gediminas laiške skelbė pastatęs pranciškonų bažnyčią savo karališkajame mieste Vilniuje.
 - susijęs iš Vilnius: Po Lietuvos krikšto LDK buvo suformuota Vilniaus katalikų vyskupija.
 - susijęs iš Vilnius: Pranciškonų kankinių istorija Gedimino laikais davė pradžią vienai ilgaamžiškiausių Vilniaus legendų.
@@ -1063,7 +1059,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - susijęs iš Vilnius: Apie 1345 m. Vilniaus prastuomenė užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
 - susijęs iš [[objektai/ivykiai/Keturiolikos pranciškonų nužudymas Vilniuje.md#claim-t-187477|Keturiolikos pranciškonų nužudymas Vilniuje]]: Lietuvos metraščio pasakojime Algirdui žygiuojant prieš Maskvą Vilniaus miestiečiai pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
 - susijęs iš [[objektai/grupes/Vilniaus prastuomenė.md#claim-t-55095|Vilniaus prastuomenė]]: Apie 1345 m. Vilniaus prastuomenė, galbūt pakurstyta Perkūno garbintojų ar Rytų Bažnyčios išpažinėjų, smurtu užėmė pranciškonų vienuolyną ir nužudė vienuolius.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis (valdovas, XIII–XIV a.)]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-183838|Algirdas (Lietuvos valdovas)]]: Algirdas nubaudė pranciškonų žudynių vadus ir paskelbė vienuoliams laisvę gyventi bei išpažinti tikėjimą.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54990|Petras Goštautas]]: Pagal Waddyngo pasakojimą Petras Goštautas 1333 m. atkvietė į Vilnių keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
 - susijęs iš [[objektai/paprociai/Algirdo religinio pakantumo norma ir krikščionių vienuolių nevaržymas.md#claim-t-87192|Algirdo religinio pakantumo norma ir krikščionių vienuolių nevaržymas]]: Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė krikščionių vienuoliams laisvę nevaržomai gyventi bei išpažinti tikėjimą.
@@ -1952,15 +1948,16 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - t-053
 
 ## Ryšiai
+- Pranciškonų ordinas pastate [[objektai/daiktai/Kryžius]]
 - Pranciškonų ordinas keliavo_i [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Vilniaus prastuomenė]] puole Pranciškonų ordinas
 - [[objektai/asmenys/Petras Goštautas]] gyne Pranciškonų ordinas
 - Pranciškonų ordinas reme [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Totoriai]] puole Pranciškonų ordinas
 - [[objektai/grupes/Vilniaus miestiečių luomas]] puole Pranciškonų ordinas
-- [[objektai/asmenys/Gediminas]] reme Pranciškonų ordinas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] reme Pranciškonų ordinas
 - Pranciškonų ordinas gyveno [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] reme Pranciškonų ordinas
 - Pranciškonų ordinas gyveno [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Vytenis]] paskyre Pranciškonų ordinas
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] paskyre Pranciškonų ordinas
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] reme Pranciškonų ordinas

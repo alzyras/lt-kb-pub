@@ -64,4 +64,4 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Kristijonas]] valde Lanzanija
+- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas, XIII a.)]] valde Lanzanija

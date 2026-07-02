@@ -338,6 +338,3 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-
-## Ryšiai
-- Mergelė Marija gyne [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -83,7 +83,6 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-74637|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos memorandumais, straipsniais ir pasisakymais kėlė Lietuvos pripažinimo problemą.
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-74639|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją.
 - susijęs iš Berlynas: Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.
-- susijęs iš Kaunas: Emmanuelis Levinas gimė Kaune ir baigė gimnaziją.
 - susijęs iš Liepoja: Lietuvos delegacija buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101580|etnografinės ribos etnografinis principas]]: Delegacija derybose dėl sienų turėjo remtis etnografiniu principu ir daryti būtiniausias ekonomines korektyvas.
 ## Reikšmingi paminėjimai

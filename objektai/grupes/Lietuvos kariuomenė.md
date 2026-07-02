@@ -301,6 +301,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - susijęs iš Griunvaldas: 1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę.
 - susijęs iš Kuoknesė: Prieš Kuoknesės mūšį Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus Dauguva plukdytus laivus.
 - susijęs iš Lietuva: Tvirtindama pozicijas prieš Kryžiuočių ordiną, Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu.
+- susijęs iš Lietuva: Narbutas vaizdavo, kad Graikijos ir Romos dievai persikėlė į Lietuvą ir susiliejo su vietos bei skandinavų religijomis.
 - susijęs iš Lietuvos Brasta: Remiantis S. Zabielos raportais, Lietuvos kariuomenė per Lietuvos Brastos mūšį neteko apie 300 karių.
 - susijęs iš Lietuvos Brasta: Remiantis S. Zabielos raportais, prie Lietuvos Brastos Lietuvos kariuomenė neteko apie 300 karių.
 - susijęs iš Miro: Birželio 11 d. prie Miro įvyko didelis mūšis, kuriame Lietuvos kariuomenė patyrė nesėkmę.
@@ -397,7 +398,6 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
 - susijęs iš Zelencai: Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, bet spaudžiama didelių priešo pajėgų ATR kariuomenė traukėsi visu frontu.
 - susijęs iš Šiauliai: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
-- susijęs iš Žemaitija: 1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
 - susijęs iš [[objektai/zodynas/Savanoris.md#claim-t-42426|Savanoris]]: Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė aprūpinti pirmųjų savanorių ginklais, uniformomis ir ekipuote.
 - susijęs iš [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire.md#claim-t-101571|buferinė valstybė saugumo kordonas cordon sanitaire]]: Sąjungininkai Lietuvą įsivaizdavo kaip buferinę valstybę ir saugumo kordono nuo bolševizmo dalį.
 - susijęs iš [[objektai/zodynas/paliaubos.md#claim-t-70265|paliaubos]]: Lenkų atstovas pasakė, kad lenkai naktį gavo telefonogramą apie karo paliaubas.

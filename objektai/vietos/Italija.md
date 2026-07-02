@@ -6,6 +6,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
@@ -13,14 +14,14 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - kraštas
   - kunigaikštis
   - mokslininkas
   - ordinas
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Italija
 
@@ -29,7 +30,6 @@ amziai:
 Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau buvo Italijoj. Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.
 
 ## Teiginiai
-
 <a id="claim-t-114293"></a>
 - t-001
   global_id: t-114293
@@ -128,12 +128,32 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Papakoda|Papakoda]]; mentioned_place: Lenkija; mentioned_place: Maskva'
   pagrindžia:
     - c-006
+
+<a id="claim-t-188700"></a>
+- t-010
+  global_id: t-188700
+  teiginys: 'Narbutas teigė, kad gotai lietuviams būtų primetę ne iš Italijos miestų išguitą romėnų stabmeldystę, o krikščionybę arba šiaurės asų religiją.'
+  pagrindžia:
+    - c-007
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 151521-152429; hash=dd4d9a8008d380c74f4bd8cac55d0b4e31f6cc474ba3270758b09e0999658279; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_priesas -> Herulai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gotai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Herulai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai vadina gotus herulų priešais.
 - susijęs iš [[objektai/ivykiai/Karolio Didžiojo žygis prieš langobardus (776 m.).md#claim-t-185803|Karolio Didžiojo žygis prieš langobardus (776 m.)]]: Karolis Didysis su galinga kariuomene įsiveržė į Italiją ir, du kartus sumušęs langobardus, juos nugalėjo.
 - susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90006|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.
 - susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
 - susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90007|Petras Atsiskyrėlis]]: Pasak Dusburgiečio, Petrui Atsiskyrėliui sapne pasirodęs Jėzus Kristus įpareigojo jį kreiptis į popiežių ir Vakarų valdovus dėl Šventosios Žemės išvadavimo.
 - susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
 - susijęs iš [[objektai/asmenys/Benito Musolinis.md#claim-t-18850|Benito Musolinis]]: Benito Musolinio atėjimas į valdžią Italijoje buvo vienas Europos procesų, skatinusių Seimo valdymu Lietuvoje nepatenkintas jėgas veikti.
+- susijęs iš [[objektai/asmenys/Enėjas.md#claim-t-190093|Enėjas]]: Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbinimą, vėliau siejamą su Alba ir Roma.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82626|Mykolas Glinskis]]: Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius.
 - susijęs iš [[objektai/asmenys/Otonas Didysis.md#claim-t-87814|Otonas Didysis]]: Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus.
 - susijęs iš [[objektai/asmenys/Vilius.md#claim-t-87933|Vilius]]: Pasak Dlugošo, Vilnius vardą gavo nuo vado Viliaus, kuris lietuvių protėvius atvedęs iš Italijos.
@@ -162,6 +182,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/asmenys/Deziderijus.md#claim-t-186195|Deziderijus]]: Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl pradėjo niokoti Romos ir popiežiaus valdas.
 - susijęs iš [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona).md#claim-t-173150|Elžbieta (Žygimanto Augusto žmona)]]: Italų meistrai Šv. Stanislovo bažnyčioje pastatė marmurinį antkapį karaliaus žmonai Elžbietai.
 - susijęs iš [[objektai/asmenys/Henrikas I Paukštininkas.md#claim-t-87688|Henrikas I Paukštininkas]]: Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188546|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas rašo, kad 1392 metais Vladislovas Jogaila pasiuntė Jeronimą Prahiškį pas Vytautą skelbti Lietuvoje krikščionių tikėjimo.
 - susijęs iš [[objektai/asmenys/Jonas Marija.md#claim-t-87726|Jonas Marija]]: Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių.
 - susijęs iš [[objektai/asmenys/Julijonas Dausprungas.md#claim-t-186050|Julijonas Dausprungas]]: Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip vienas iš kilmingųjų italų vadų, kurio giminės herbas buvo Kentauras.
 - susijęs iš [[objektai/asmenys/Justinianas.md#claim-t-186121|Justinianas]]: Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus.
@@ -180,19 +201,24 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/daiktai/Mūro sienos.md#claim-t-87057|Mūro sienos]]: Otono Didžiojo laikais daugelis Italijos miestų apsitvėrė mūro sienomis, saugodamiesi vengrų ir saracėnų antpuolių.
 - susijęs iš [[objektai/grupes/Antantė.md#claim-t-19635|Antantė]]: 1922 m. gruodžio 20 d. Prancūzija, Anglija, Italija ir Japonija kaip Antantės valstybės pripažino Lietuvą de jure.
 - susijęs iš [[objektai/grupes/Arijonai.md#claim-t-185456|Arijonai]]: Agilulfui viešpataujant, 591 m. daugelis buvusių arijonų kartu su stabmeldžiais perėjo į krikščionybę.
+- susijęs iš [[objektai/grupes/Galai druidai.md#claim-t-189514|Galai druidai]]: Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas panašumą bendra senovės religijų ir tautų kilme.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116696|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-184475|Herulai]]: Po Otokaro nužudymo Teodorikas patraukė į savo pusę herulų kariuomenę ir lengvai ją perkalbėjo.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-184477|Herulai]]: Kojelavičius spėjo, kad alanai arba herulai, ilgėdamiesi taikos, galėjo pirmieji pasitraukti iš tėvynės į karo neniokotas žemes.
+- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188192|Herulai]]: Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis.
 - susijęs iš [[objektai/grupes/Hohenštaufenų giminė.md#claim-t-86795|Hohenštaufenų giminė]]: Hohenštaufenų giminės žlugimo sukelti politiniai pokyčiai Švabijoje ir Frankonijoje suteikė miestams persvarą.
 - susijęs iš [[objektai/grupes/Italų ateiviai.md#claim-t-185426|Italų ateiviai]]: Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki šimtai kilmingųjų.
+- susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-188205|Krikščionys]]: Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169684|Lietuvos Didžioji Kunigaikštija]]: XVI a. Vytauto kultas Lietuvoje stiprėjo ieškant ideologinės atramos prieš Lenkijos hegemonijos planus.
 - susijęs iš [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė.md#claim-t-183167|Lietuvos vyrų krepšinio rinktinė]]: JAV lietuvių trenerių ir kelių žaidėjų padedama Lietuvos vyrų krepšinio rinktinė 1937 m. Rygoje tapo Europos čempione.
 - susijęs iš [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė.md#claim-t-74802|Lietuvos vyrų krepšinio rinktinė]]: JAV lietuvių trenerių ir kelių žaidėjų padedama Lietuvos vyrų krepšinio rinktinė 1937 m. Rygoje tapo Europos čempione.
+- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-66129|Skandinavai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
 - susijęs iš [[objektai/ivykiai/Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.).md#claim-t-77895|Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.)]]: 1934 m. gen. Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves buvo pavojingiausias voldemarininkų bandymas puču grąžinti A. Voldemarą į valdžią.
 - susijęs iš [[objektai/ivykiai/Gibelinų ir gvelfų partijų atsiradimas (1228 m.).md#claim-t-62268|Gibelinų ir gvelfų partijų atsiradimas (1228 m.)]]: 1228 m. Italijoje atsirado gibelinų ir gvelfų partijos; Gibelinas rėmė imperatorių, o Gveltas – bažnyčią.
 - susijęs iš [[objektai/ivykiai/Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime.md#claim-t-185570|Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime]]: Kojelavičius patikimiausia laikė prielaidą, kad italai į šias žemes atvyko po devintojo amžiaus nuo Kristaus gimimo.
 - susijęs iš [[objektai/ivykiai/Italų įsitvirtinimas Lietuvoje ir lietuvių pasidavimas ateivių valdžiai A. Kojelavičiaus pasakojime.md#claim-t-185704|Italų įsitvirtinimas Lietuvoje ir lietuvių pasidavimas ateivių valdžiai A. Kojelavičiaus pasakojime]]: Kojelavičiaus pasakojime ateiviai ir vietiniai gyventojai susivienijo, panoro bendros valstybės, o lietuviai sutiko pasiduoti ateivių valdžiai.
+- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio pasiuntimas į Lietuvą 1392 m.md#claim-t-189624|Jeronimo Prahiškio pasiuntimas į Lietuvą 1392 m]]: 1392 m. Vladislovas Jogaila nusiuntė Jeronimą Prahiškį į Lietuvą pas Vytautą su laišku skelbti krikščionių tikėjimo.
 - susijęs iš [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.).md#claim-t-75207|Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]: 1939 m. Kaune Lietuva antrą kartą laimėjo Europos krepšinio čempionatą.
 - susijęs iš [[objektai/ivykiai/Otokaro ir Teodoriko sandora bei Otokaro nužudymas Ravenoje (493 m.).md#claim-t-185758|Otokaro ir Teodoriko sandora bei Otokaro nužudymas Ravenoje (493 m.)]]: Teodorikas pasikvietė Otokarą į puotą Ravenoje, pasiuntė žudikus ir atėmė iš jo gyvybę bei sostą.
 - susijęs iš [[objektai/ivykiai/Pirmoji tautinė olimpiada Kaune (1938 m.).md#claim-t-75258|Pirmoji tautinė olimpiada Kaune (1938 m.)]]: 1938 m. Kaune vykusioje pirmojoje tautinėje olimpiadoje gausiai dalyvavo ir užsienio šalių lietuviai.
@@ -238,13 +264,13 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/zodynas/protektorium.md#claim-t-36824|protektorium]]: Popiežius paskyrė Vytautą Rygos arkivyskupijos protektoriumi, siekdamas patraukti jį į savo pusę.
 - susijęs iš [[objektai/zodynas/supremacija.md#claim-t-36838|supremacija]]: Teisiškai Lietuva buvo susieta su Lenkija ir buvo visiškoje jos supremacijoje.
 - susijęs iš [[objektai/zodynas/už įstatymo ribų.md#claim-t-185414|už įstatymo ribų]]: Kojelavičius spėjo, kad iš Italijos galėjo pasitraukti žmonės, nugalėjusių priešų paskelbti už įstatymo ribų.
+- susijęs iš [[objektai/asmenys/Enėjas.md#claim-t-190093|Enėjas]]: Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbinimą, vėliau siejamą su Alba ir Roma.
 - susijęs iš [[objektai/asmenys/Deziderijus.md#claim-t-186195|Deziderijus]]: Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl pradėjo niokoti Romos ir popiežiaus valdas.
 - susijęs iš [[objektai/grupes/Gepidai.md#claim-t-185459|Gepidai]]: Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją.
 - susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185424|Langobardai]]: Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją.
 - susijęs iš [[objektai/asmenys/Vilius.md#claim-t-87933|Vilius]]: Pasak Dlugošo, Vilnius vardą gavo nuo vado Viliaus, kuris lietuvių protėvius atvedęs iš Italijos.
 - susijęs iš [[objektai/asmenys/Otonas Didysis.md#claim-t-87814|Otonas Didysis]]: Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -375,6 +401,32 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+- c-007
+  santrauka: 'Narbutas teigė, kad gotai lietuviams būtų primetę ne iš Italijos miestų išguitą romėnų stabmeldystę, o krikščionybę arba šiaurės asų religiją.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Bet jos principai visiškai
+    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
+    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
+    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
+    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
+    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
+    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
+    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
+    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
+    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
+    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
+    religijos, kurią gana veiksmingai formavo graikų mitologija.
+    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
+    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
+    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 - [[objektai/asmenys/Karolis Didysis]] surenge_zygi_i Italija
@@ -385,6 +437,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - [[objektai/grupes/Langobardai]] uzkariavo Italija
 - [[objektai/grupes/Saracėnai]] puole Italija
 - [[objektai/grupes/Vengrai]] puole Italija
+- [[objektai/asmenys/Enėjas]] keliavo_i Italija
 - [[objektai/asmenys/Deziderijus]] puole Italija
 - [[objektai/grupes/Gepidai]] keliavo_i Italija
 - [[objektai/grupes/Langobardai]] keliavo_i Italija

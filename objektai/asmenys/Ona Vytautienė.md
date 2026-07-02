@@ -95,6 +95,7 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - susijęs iš Aragonas: Aragone esančiame Alkaniso mieste gimė teisininkas Petrus Maureus Royzius.
 - susijęs iš Dubysa: 1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais.
 - susijęs iš Dubysa: 1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais.
+- susijęs iš Dubysa: Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu.
 - susijęs iš Juodoji Rusia: Vytauto laikais Juodojoje Rusioje, Gardine ir Naugarduke, pradėtos statyti LDK pilys.
 - susijęs iš Knišinas: Mirdamas Knišine, Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią, išplėsti Švč. Trejybės prieglaudą ir geriau ją aprūpinti.
 - susijęs iš Krokuva: Kryžius su Šventojo Kryžiaus medžiu turėjo būti paliktas Krokuvos pilies koplyčioje, kur ilsėjosi karaliaus kūnas.
@@ -105,6 +106,7 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - susijęs iš Krėva: Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir ten įkalintas.
 - susijęs iš Lenkijos karalystė: Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje.
 - susijęs iš Lietuva: Kojelavičius aiškina, kad Jogaila dėjosi nežinąs Vytauto sumanymų, nes troško Vytauto ir Lietuvos vardo išgarsėjimo.
+- susijęs iš Lietuva: Narbutas rašė, kad Lietuvoje pilkapiai randami labai retai, dažnai giliai po žeme ir dažniausiai atsitiktinai kasant.
 - susijęs iš Luckas: 1392 m. Astrave Vytautas ir Ona jau titulavosi Trakų ir Lucko kunigaikščiais.
 - susijęs iš Luckas: 1392 m. Astravo dokumentai rodo, kad Vytautas ir Ona titulavosi Trakų ir Lucko kunigaikščiais.
 - susijęs iš Marienburgas: Vytautas Marienburge surengė dukters Sofijos palydėtuves prieš jos santuoką su Maskvos kunigaikščiu Vasilijumi.

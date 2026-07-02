@@ -1403,7 +1403,6 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/grupes/Vytauto šalininkai.md#claim-t-86741|Vytauto šalininkai]]: 1383 m. Vytautas ir jo šalininkai su kryžiuočių kariauna rugsėjo 11 d. apsupo Trakų pilį.
 - susijęs iš [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje.md#claim-t-87214|Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]: Žygimanto palaikai buvo atvežti iš Trakų į Vilnių ir, atlikus įprastas apeigas, palaidoti Vilniaus katedros didžiųjų kunigaikščių kape.
 - susijęs iš Trakų žydų privilegija (1388 m.; patvirtinta 1507 m.): Trakų žydai prašė patvirtinti jiems priklausiusias teises, laisves ir kitus dalykus, nurodytus Vytauto privilegijoje.
-- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184676|Birutė]]: Vytautas, sužinojęs apie Jogailos žygį į Trakus, su pamote Birute pasitraukė į Gardiną.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184877|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Alšėnų kunigaikščio Algimantaičio dukra Julijona.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179042|Kryžiuočių ordinas]]: 1383 m. Kryžiuočių ordino kariauna su Vytautu ir jo šalininkais rugsėjo 11 d. apsupo Trakų pilį.
 - susijęs iš [[objektai/ivykiai/Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.).md#claim-t-86959|Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)]]: 1383 m. rugsėjo 11 d. kryžiuočių kariauna su Vytautu ir jo šalininkais apsupo Skirgailos užvaldytą Trakų pilį.
@@ -1413,6 +1412,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184862|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas, iš draugų sužinojęs apie Jogailos veiksmus, su Birute pasitraukė į Gardiną.
 - susijęs iš [[objektai/daiktai/Vežimai.md#claim-t-93003|Vežimai]]: Vytautui pakeliui į Trakus nukritus nuo arklio, jis buvo nuvežtas žmonos vežime.
 - susijęs iš [[objektai/ivykiai/Jogailos paleidimas į Krėvą ir jo kontrpuolimas užimant Vilnių bei Trakus.md#claim-t-185706|Jogailos paleidimas į Krėvą ir jo kontrpuolimas užimant Vilnių bei Trakus]]: Jogaila, sutelkęs kariuomenę, netikėtai pasuko į Vilnių, užėmė pilis ir po to vedė kariuomenę į Trakus prieš Vytautą.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184676|Birutė]]: Vytautas, sužinojęs apie Jogailos žygį į Trakus, su pamote Birute pasitraukė į Gardiną.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82506|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179647|Skirgaila]]: Trakuose viešpatavusio Skirgailos išvarymas galėjo sukelti naują karą.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114102|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1440 m. balandį sąmokslininkai Trakų pilyje nužudė Žygimantą Kęstutaitį, o jo sūnų Mykolą ištrėmė.
@@ -1425,6 +1425,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš Maskva: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
 - susijęs iš Maskva: 1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
 - susijęs iš Minskas: Į Lietuvą įsiveržusi totorių kariuomenė užėmė Minską ir kitas vietoves, tarp jų Borisovą, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188515|Birutė]]: Narbutas pasakoja, kad Kęstutis Birutę išsivežė prieš jos valią į Naujuosius Trakus ir ten vedė, nors ji buvo davusi skaistybės įžadą.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182793|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187757|Žemaičiai]]: Lietuvos metraštis pasakoja, kad Kęstutis nujojo į Žemaičius ieškoti pagalbos ir su žemaičiais atėjo prie Trakų.
 - susijęs iš [[objektai/ivykiai/Trakų pilies apgultis ir pasidavimas (1382 m. liepos 20 d.).md#claim-t-100044|Trakų pilies apgultis ir pasidavimas (1382 m. liepos 20 d.)]]: 1382 m. liepos 20 d. Skirgaila įtikino Trakų pilies įgulą pasiduoti Jogailos ir kryžiuočių apgulties metu.
@@ -1437,17 +1438,20 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/ivykiai/Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.).md#claim-t-86959|Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)]]: 1383 m. rugsėjo 11 d. kryžiuočių kariauna su Vytautu ir jo šalininkais apsupo Skirgailos užvaldytą Trakų pilį.
 - susijęs iš Baltoji Rusia: Skirgaila iš Trakų pilies vykdavo į mūšius su Baltojoje Rusioje maištavusiais įvairių valdų kunigaikščiais.
 - susijęs iš Baltoji Rusia: Skirgaila iš Trakų pilies išvykdavo į mūšius su Prūsijos ordinu arba su Baltojoje Rusioje maištaujančiais kunigaikščiais.
+- susijęs iš Daugų ežeras: Narbutas rašo, kad Daugų ežeras Trakų apskrityje garsėjo daugeliu padavimų apie šventais laikytus ežerus.
 - susijęs iš Riazanė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.
 - susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176303|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Lietuvą Vilniuje, o Kęstutis tuo pat metu valdė Trakuose.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173121|Barbora Radvilaitė]]: Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio dukra ir Trakų vaivados Goštauto našlė.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54947|Barbora Radvilaitė]]: Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų vaivados, našlė.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188515|Birutė]]: Narbutas pasakoja, kad Kęstutis Birutę išsivežė prieš jos valią į Naujuosius Trakus ir ten vedė, nors ji buvo davusi skaistybės įžadą.
 - susijęs iš [[objektai/asmenys/Danuta.md#claim-t-35045|Danuta]]: Danuta buvo Vytauto sesuo, nutekėjusi į Mozūriją, iš kurios katalikų svečiai lankydavosi Kęstučio dvare Trakuose.
 - susijęs iš [[objektai/asmenys/Gotfridas Lindenas.md#claim-t-87509|Gotfridas Lindenas]]: Ordino maršalas Gotfridas Lindenas sudegino Semeliškes Trakų paviete ir, nepajėgęs staiga užimti Vilniaus, grįžo plėšti apylinkių.
 - susijęs iš [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras).md#claim-t-87680|Goštautas (Trakų vaivada, Barboros vyras)]]: Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė.
 - susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23196|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės.
 - susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23197|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės ir gyveno 1525–1586 m.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182813|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila, siekdamas atgauti paveldą ir atkeršyti už Vaidilos mirtį, sutelkė pajėgas ir nusprendė užimti Vilnių bei Trakus.
+- susijęs iš [[objektai/asmenys/Jonas Lenartaitis Kęsgaila.md#claim-t-190231|Jonas Lenartaitis Kęsgaila]]: Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, kurią sudarė Trakų pavieto bajorai.
 - susijęs iš [[objektai/asmenys/Jonas Zaberezinskis.md#claim-t-186116|Jonas Zaberezinskis]]: Karalius atėmė iš Jono Zaberezinskio Trakų vaivadiją, kai paaiškėjo, kad jo sumanymai seime tapo žinomi.
 - susijęs iš [[objektai/asmenys/Jonas iš Zabrežjės.md#claim-t-87525|Jonas iš Zabrežjės]]: 1503 m. Vilniuje Jonas iš Zabrežjės dalyvavo rašto išdavimo paliudijime kaip LDK didysis maršalka, Trakų vaivada ir Merkinės laikytojas.
 - susijęs iš [[objektai/asmenys/Jonas iš Zabrežjės.md#claim-t-87526|Jonas iš Zabrežjės]]: Jonas iš Zabrežjės 1501 m. Gardine dalyvavo kaip Trakų vaivada ir LDK didysis maršalka.
@@ -1467,6 +1471,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184794|Mykolas (Žygimanto sūnus)]]: Mykolas, sužinojęs apie Kazimiero kelionę iš Bresto į Vilnių, paliko Trakų pilį ir su 500 raitelių patraukė į Mazoviją.
 - susijęs iš [[objektai/asmenys/Ona (Vytauto žmona).md#claim-t-184811|Ona (Vytauto žmona)]]: Vytautas po žmonos Onos mirties Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.
 - susijęs iš [[objektai/asmenys/Ona (Vytauto žmona).md#claim-t-87923|Ona (Vytauto žmona)]]: Vytauto žmona Ona, Smolensko kunigaikštytė, išpažino graikų apeigų tikėjimą ir prieš Lietuvos krikštą turėjo koplyčią Trakų pilyje.
+- susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-188603|Patrikas (kunigaikštis, XIV a.)]]: Narbutas Patriką įvardija kaip vieną iš Kęstučio sūnų, gimusių iš žmonos, kurią Kęstutis, jo pasakojimu, vedė Naujuosiuose Trakuose.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179659|Skirgaila]]: Skirgaila ne anksčiau kaip 1388 m. tapo didžiuoju kunigaikščiu, nes 1387 m. dokumentuose vadintas tik Trakų kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179664|Skirgaila]]: 1388 m. prie Kauno sudarytoje taikos sutartyje Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179670|Skirgaila]]: Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo į mūšius su Prūsijos ordinu bei maištaujančiais kunigaikščiais.
@@ -1493,6 +1498,8 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/grupes/2-asis šaulių pulko batalionas.md#claim-t-38928|2-asis šaulių pulko batalionas]]: 2-asis šaulių pulko batalionas palaikė J. Zalivskio ir V. Matusevičiaus Trakų sukilėlių dalinius puolant rusų kairįjį sparną.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120190|Karaimai]]: Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179042|Kryžiuočių ordinas]]: 1383 m. Kryžiuočių ordino kariauna su Vytautu ir jo šalininkais rugsėjo 11 d. apsupo Trakų pilį.
+- susijęs iš [[objektai/grupes/Kęsgailų giminė.md#claim-t-188220|Kęsgailų giminė]]: Jonas Lenartaitis Kęsgailą prie 1490 m. Trakų pavieto bajorų sutarties prispaudė antspaudą su bėgančio ietį laikančio žmogaus atvaizdu.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190586|Lietuviai]]: Narbutas cituojamame pasakojime nurodė, kad Vilniui tapus Lietuvos sostine Trakai, nors turėjo pilį ir kunigaikščio rūmus, sumenko.
 - susijęs iš [[objektai/grupes/Livonijos ponai.md#claim-t-187783|Livonijos ponai]]: Livonijos ponai buvo Jogailos kariuomenėje, kai Jogaila pasitiko Kęstutį su žemaičiais prie Trakų.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187741|Pranciškonų ordinas]]: Vilniaus pranciškonai, iki 1387 m. įsikūrę vienuolyne prie Trakų vartų, buvo kilę iš Lenkijos, daugiausia iš Krokuvos.
 - susijęs iš [[objektai/grupes/Trakų sukilėlių daliniai.md#claim-t-39006|Trakų sukilėlių daliniai]]: Trakų sukilėlių daliniai buvo tarp Lietuvos sukilėlių junginių, sudariusių Panerių mūšio sukilėlių kariuomenės pagrindą.
@@ -1502,8 +1509,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/grupes/asis šaulių pulko batalionas.md#claim-t-80645|asis šaulių pulko batalionas]]: 2-ojo šaulių pulko batalionas birželio 19 d. palaikė Trakų sukilėlių puolimą prieš rusų kairįjį sparną, bet ataka buvo atmušta.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176121|Žemaičiai]]: Livonijos kryžiuočiai po Žemaičių teriojimo pasirodė Jogailos pusėje prie Trakų.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187757|Žemaičiai]]: Lietuvos metraštis pasakoja, kad Kęstutis nujojo į Žemaičius ieškoti pagalbos ir su žemaičiais atėjo prie Trakų.
+- susijęs iš [[objektai/ivykiai/Altambo šventyklos pastatymas Vilniuje.md#claim-t-189618|Altambo šventyklos pastatymas Vilniuje]]: Narbutas Altambo šventyklos pastatymą Vilniuje sieja su Vilniaus tapimu sostine ir didesniu gyventojų srautu nei į Trakus.
 - susijęs iš [[objektai/ivykiai/Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.).md#claim-t-86893|Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)]]: Gediminas įsakė pastatyti mūrinę pilį ant kalno prie Vilnelės ir Vilijos santakos ir iš Trakų perkėlė ten savo buveinę.
 - susijęs iš [[objektai/ivykiai/Jogailos paleidimas į Krėvą ir jo kontrpuolimas užimant Vilnių bei Trakus.md#claim-t-185706|Jogailos paleidimas į Krėvą ir jo kontrpuolimas užimant Vilnių bei Trakus]]: Jogaila, sutelkęs kariuomenę, netikėtai pasuko į Vilnių, užėmė pilis ir po to vedė kariuomenę į Trakus prieš Vytautą.
+- susijęs iš [[objektai/ivykiai/Kernavės sunaikinimas prieš Trakų pilies pastatymą.md#claim-t-189630|Kernavės sunaikinimas prieš Trakų pilies pastatymą]]: Narbutas siejo Trakų pilies statybą su XI a. rusinų žygiais į Lietuvą ir visišku Kernavės sunaikinimu.
 - susijęs iš [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių derybos prie Trakų (1382 m. rugpjūčio 3 d.).md#claim-t-35846|Kęstučio ir Jogailos kariuomenių derybos prie Trakų (1382 m. rugpjūčio 3 d.)]]: Prie Trakų Jogaila prašė, kad Vytautas tarpininkautų derybose, siūlydamas atkurti ankstesnę padėtį.
 - susijęs iš [[objektai/ivykiai/Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas.md#claim-t-186796|Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas]]: Antrą kartą į Kijevą grįžęs Sich-Achmetas buvo suimtas, laikytas Vilniaus Aukštojoje, Trakų ir Kauno pilyse ir paleistas 1528 metais.
 - susijęs iš [[objektai/ivykiai/Trakų pilies apgultis ir pasidavimas (1382 m. liepos 20 d.).md#claim-t-100044|Trakų pilies apgultis ir pasidavimas (1382 m. liepos 20 d.)]]: 1382 m. liepos 20 d. Skirgaila įtikino Trakų pilies įgulą pasiduoti Jogailos ir kryžiuočių apgulties metu.
@@ -1519,6 +1528,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31499|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: Pasak Ivinskio, 1398 m. žygio metu paimti karaimai, berods, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
 - susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31502|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: Po 1397 m. žygio Vytautas pusę atsivežtų totorių belaisvių ir pabėgėlių atidavė Jogailai, o kitus įkurdino Trakų kunigaikštijoje.
 - susijęs iš [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas.md#claim-t-185838|Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]: Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.
+- susijęs iš [[objektai/paprociai/Altambo šventės vaidinimai, mugė ir procesija tarp Trakų ir Vilniaus.md#claim-t-189823|Altambo šventės vaidinimai, mugė ir procesija tarp Trakų ir Vilniaus]]: Narbutas rašo, kad Altambo šventė Trakuose vykdavo rugsėjo 8 d., Vilniuje rugsėjo 15 d., su vaidinimais, muge ir procesija tarp miestų.
 - susijęs iš [[objektai/paprociai/Graikų apeigų koplyčios laikymas Trakų pilyje.md#claim-t-87267|Graikų apeigų koplyčios laikymas Trakų pilyje]]: Vytauto žmonos Ona ir Julijona išpažino graikų apeigų tikėjimą ir dar prieš Lietuvos krikštą turėjo savo koplyčią Trakų pilyje.
 - susijęs iš [[objektai/paprociai/Lietuvos valdovų reikalų sprendimas Trakuose vietoj sostinės Vilniaus.md#claim-t-87278|Lietuvos valdovų reikalų sprendimas Trakuose vietoj sostinės Vilniaus]]: Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose svarstė svarbiausius Lietuvos reikalus, nors Vilnius buvo Didžiosios Kunigaikštystės sostinė.
 - susijęs iš [[objektai/paprociai/Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje.md#claim-t-87249|Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje]]: Po taikos sutarties maršalas, arkikomtūras ir aukštesnieji vokiečių riteriai buvo pakviesti į Vilniaus ir Trakų pilis, pavaišinti ir apdovanoti.
@@ -1546,6 +1556,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš Brasta: 1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o vėliau pasiųstas gyventi į Trakus.
 - susijęs iš Brasta: Brasta buvo tarp krikščioniškų Trakų kunigaikštijos sričių, kurių abu magistrai pasižadėjo nepulti.
 - susijęs iš Daugai: Balińskis slaptą sandėrį lokalizavo girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.
+- susijęs iš Daugų ežeras: Narbutas rašo, kad Daugų ežeras Trakų apskrityje garsėjo daugeliu padavimų apie šventais laikytus ežerus.
 - susijęs iš Drahočynas: Drahočynas buvo viena iš krikščioniškų Trakų kunigaikštijos sričių, kurių magistrai pasižadėjo nepulti.
 - susijęs iš Drohičinas: Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl kurių vokiečiai sutiko laikytis taikos.
 - susijęs iš Galvės ežeras: Gediminas Galvės ežero pusiasalyje pastatė Trakų pilį, ilgą laiką laikytą antrąja Lietuvos sostine.
@@ -1558,6 +1569,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš Kijevas: Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir atiduoti jam Kremencą bei Stožką vietoj Trakų kunigaikštijos.
 - susijęs iš Kijevas: Gediminas, užkariavimais pasiekęs žemes už Kijevo, įsakė pastatyti pilį Vilniuje ir perkėlė savo buveinę iš Trakų.
 - susijęs iš Kijevas: Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir atiduoti jam Kremencą bei Stožką vietoj Trakų kunigaikštijos.
+- susijęs iš Kreta: Narbutas slaptų apeigų įvedimą Kretoje priskyrė Minui, o persų, graikų ir trakų tradicijose minėjo kitus jų įvedėjus.
 - susijęs iš Krėva: Į Lietuvą įsiveržusi totorių kariuomenė užėmė Krėvą, Lydą, Vilnių, Trakus ir kitas vietoves bei priartėjo prie Kauno.
 - susijęs iš Krėva: Pirkliai lankė Lietuvos miestus, tarp jų Vilnių, Krėvą, Trakus ir Gardiną.
 - susijęs iš Lietuva: 1388 m. dokumente Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.
@@ -1570,17 +1582,23 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš Minskas: Į Lietuvą įsiveržusi totorių kariuomenė užėmė Minską ir kitas vietoves, tarp jų Borisovą, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.
 - susijęs iš Naujieji Trakai: Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip nežinoma.
 - susijęs iš Naujieji Trakai: Tiksli Naujųjų Trakų įkūrimo data nežinoma.
+- susijęs iš Naujieji Trakai: Narbutas pasakojo, kad Kęstutis Birutę prieš jos valią išsivežė į Naujuosius Trakus ir ten vedė kaip žmoną.
 - susijęs iš Palenkė: Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke, nes Trakai jau buvo atiduoti Skirgailai.
 - susijęs iš Palenkė: Palenkės sritis kartu su Trakų kunigaikštija ir Gardino sritimi priklausė Kęstučio valdomai vakarinei valstybės daliai.
 - susijęs iš Paneriai: Balińskio liudijimu, Paneriams priklausiusiuose Trakų apskrities kaimuose Vilija dar buvo vadinama Nerimi.
 - susijęs iš Paneriai: Vilija buvo vadinama Nerimi kaimuose, priklausiusiuose Zubiškių palivarkui ir Paneriams Trakų apskrityje.
 - susijęs iš Riazanė: 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
 - susijęs iš Senieji Trakai: Vytautas įkurdino benediktinus Senuosiuose Trakuose.
+- susijęs iš Senoji Trakų vaivadija: Narbutas rašo, kad deivę Lietuvą dar žinojo lietuviai, ypač senojoje Trakų vaivadijoje, taip pat latviai ir estai.
 - susijęs iš Stožkas: Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir atiduoti jam Kremencą bei Stožką vietoj Trakų kunigaikštijos.
 - susijęs iš Strėva: Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną.
+- susijęs iš Trakų apskritis: Narbutas mini, kad Trakų apskrityje, ponų Gorskių dvare, buvo Lelionių milžinkapis.
+- susijęs iš Trakų apskritis: Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje, Trakų apskrityje.
+- susijęs iš Trakų apskritis: Narbutas rašo, kad Tikrojoje Lietuvoje, įskaitant Trakų apskritį, nuo seniausių laikų buvo vietų sudegintų žmonių pelenams laikyti.
 - susijęs iš Trakų apskritis: J. Misiūnas su maždaug 200 partizanų daliniu nuolat keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.
 - susijęs iš Trakų apskritis: Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskrityje ir „B“ Ukmergės apskrityje.
 - susijęs iš Trakų dvaras: Trakų dvaras daug santykiavo su kaimyninėmis valstybėmis ir laikytas tinkama aplinka Vytautui išaugti.
+- susijęs iš Trakų pavietas arba vaivadija: Jonas Lenartaitis Kęsgaila prispaudė antspaudą prie 1490 m. sutarties, kurią sudarė Trakų pavieto, arba vaivadijos, bajorai.
 - susijęs iš Trakų pilis (pilis): Skirgaila pasirinko Trakų pilį nuolatine buveine ir iš jos vykdavo į mūšius ar malšinti maištaujančių kunigaikščių.
 - susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį.
 - susijęs iš Trakų pilis (pilis): Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo tik į karo žygius.
@@ -1608,6 +1626,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš Žemaičių žemė: Lietuvos metraštyje Kęstutis nujoja į Žemaičius prašyti pagalbos po to, kai Jogaila be jo žinios užima Trakus.
 - susijęs iš Žemaičių žemė: Lietuvos metraštyje Kęstutis su žemaičiais ateina prie Trakų po to, kai Jogaila be Kęstučio žinios užima Trakus.
 - susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86455|Arkikomtūras]]: Po taikos sutarties arkikomtūras su Ordino maršalu ir kitais aukštesniaisiais vokiečių riteriais buvo pakviestas į Vilniaus ir Trakų pilis.
+- susijęs iš [[objektai/zodynas/Trakai Troki.md#claim-t-189141|Trakai Troki]]: Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų terminu, reiškusiu prie balno tvirtinamus diržus žvėrienai.
+- susijęs iš [[objektai/zodynas/Trakai Troki.md#claim-t-189142|Trakai Troki]]: Narbutas kaip Trakų vardo paplitimo pavyzdį nurodė Trakais vadintą mišką Lydos apskrities Žirmūnų parapijoje.
+- susijęs iš [[objektai/zodynas/Trakai Troki.md#claim-t-189143|Trakai Troki]]: Narbutas teigė, kad slaptos dievo Atlaibo šventyklos buvusios Trakuose ir Vilniuje, po abiem miestais esančiuose panašiuose požemiuose.
 - susijęs iš [[objektai/zodynas/kaštelionas.md#claim-t-182952|kaštelionas]]: Kaštelionai karo reikaluose ir teismuose buvo tarsi Vilniaus ir Trakų vaivadų padėjėjai.
 - susijęs iš [[objektai/zodynas/komtūras.md#claim-t-183834|komtūras]]: Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179670|Skirgaila]]: Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo į mūšius su Prūsijos ordinu bei maištaujančiais kunigaikščiais.
@@ -1631,7 +1652,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54949|Barbora Radvilaitė]]: Barbora Radvilaitė gyveno rūmuose prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54950|Barbora Radvilaitė]]: 1547 m. rugsėjo 10 d. Barbora, dar kaip Stanislovienė Goštautienė, išdavė slavišką pakvitavimą.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184676|Birutė]]: Vytautas, sužinojęs apie Jogailos žygį į Trakus, su pamote Birute pasitraukė į Gardiną.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188518|Birutė]]: Narbutas chronologiškai skaičiuoja, kad Birutė gimė apie 1331 metus, ištekėjo 1348 metais ir mirė 1416 metais.
 - susijęs iš [[objektai/asmenys/D. Osten-Sakenas.md#claim-t-40083|D. Osten-Sakenas]]: Osten-Sakeno įsakymu prasidėjo sukilėlių persekiojimas, jame dalyvavo Leibgvardijos lietuvių pėstininkų, Leibgvardijos Podolės kirasyrų, 9-ojo jėgerių pulkų kariai.
+- susijęs iš [[objektai/asmenys/Danutė.md#claim-t-188520|Danutė]]: Narbutas Danutę mini kaip Kęstučio ir jo žmonos dukterį, gimusią kartu su sūnumis Patriku, Vytautu, Tautvilu ir Sigailu, arba Žygimantu.
 - susijęs iš [[objektai/asmenys/Daugirdas (Vilniaus vaivada).md#claim-t-87650|Daugirdas (Vilniaus vaivada)]]: 1440 m. balandį Vilniaus vaivada Daugirdas laikinai užėmė žemutinę Vilniaus pilį Švitrigailai.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54956|Elena (vyskupas, XV–XVI a.)]]: Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54957|Elena (vyskupas, XV–XVI a.)]]: 1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio.
@@ -1639,10 +1662,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82288|Elena (vyskupas, XV–XVI a.)]]: 1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių.
 - susijęs iš [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona).md#claim-t-173148|Elžbieta (Žygimanto Augusto žmona)]]: Elžbieta, Ferdinando duktė, 1543 m. ištekėjo už Žygimanto Augusto, 1545 m. mirė Vilniuje ir buvo palaidota katedroje.
 - susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-184697|Eustachijus Valavičius]]: Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176329|Gediminas]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po sapno pastatydino Aukštutinę mūro pilį ir medinę pilį, pavadintą Vilniumi.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176342|Gediminas]]: Gediminas valdė 1316–1341 m. ir davė vardą Gediminaičių dinastijai.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176370|Gediminas]]: Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui, siedami jį su medžiokle Šventaragio slėnyje ir geležinio vilko sapnu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176400|Gediminas]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas medžioklės metu Šventaragio slėnyje sapnavo geležinį vilką.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176329|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po sapno pastatydino Aukštutinę mūro pilį ir medinę pilį, pavadintą Vilniumi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176342|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas valdė 1316–1341 m. ir davė vardą Gediminaičių dinastijai.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176370|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui, siedami jį su medžiokle Šventaragio slėnyje ir geležinio vilko sapnu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176400|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas medžioklės metu Šventaragio slėnyje sapnavo geležinį vilką.
 - susijęs iš [[objektai/asmenys/Gotfridas Lindenas.md#claim-t-87508|Gotfridas Lindenas]]: Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną su Redigeriu Elneriu užimti Vilniaus.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113785|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.
 - susijęs iš [[objektai/asmenys/H. Dembinskis.md#claim-t-40131|H. Dembinskis]]: Panerių mūšyje H. Dembinskio daliniai turėjo imituoti puolimą per Neries Žaliąjį tiltą, tačiau šio plano įgyvendinti nepavyko.
@@ -1656,6 +1679,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/asmenys/Jurgis (Vilniaus kaštelionas, Barboros tėvas).md#claim-t-87739|Jurgis (Vilniaus kaštelionas, Barboros tėvas)]]: Jurgis buvo Vilniaus kaštelionas ir Barboros Radvilaitės tėvas.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103043|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, kardinolas ir buvęs Vilniaus bei Krokuvos vyskupas, mirė Romoje 1600 m.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103055|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Inocento IX ir Klemenso VIII elektorius, iš pradžių Vilniaus, vėliau Krokuvos vyskupas.
+- susijęs iš [[objektai/asmenys/Karalius Kazimieras (1483 m. privilegijos davėjas).md#claim-t-190123|Karalius Kazimieras (1483 m. privilegijos davėjas)]]: Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katinas lietuviams buvo Lietuvos simbolis.
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97460|Kaributas]]: Kaributas, valdęs Seversko kunigaikštystę, sukėlė maištus Rusioje ir nepripažino Kęstučio viršenybės.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82506|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
 - susijęs iš [[objektai/asmenys/Konradas Wallenrodas.md#claim-t-30334|Konradas Wallenrodas]]: Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį į Lietuvą ir rugsėjo 1 d. prie Kauno Nemuno saloje iškėlė išskirtinę puotą svečiams pilgrimams.
@@ -1663,6 +1687,8 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176517|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176524|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Balińskis Kęstutį laiko pagrindine kliūtimi Jogailos siekiui sustiprinti vienvaldystę dėl jo autoriteto, karo šlovės ir nepalenkiamo būdo.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184762|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis lapkričio 22 dieną slapta įvedė kariuomenę į Vilnių ir paryčiu užėmė abi pilis.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-188574|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Narbutas rašė, kad Kęstutis su Birute turėjo sūnus Patriką, Vytautą, Tautvilą, Sigailą arba Žygimantą ir dukterį Danutę.
+- susijęs iš [[objektai/asmenys/Leicis.md#claim-t-190179|Leicis]]: Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merkinės valsčiaus valstiečių maištininkų vadu.
 - susijęs iš [[objektai/asmenys/Leliušas.md#claim-t-186060|Leliušas]]: Daugirdas apkaltino Leliušą leidus nužudyti valdovą jam pavaldžioje pilyje.
 - susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-87376|Manvydas]]: Trakų vaivada Manvydas įspėjo Švitrigailą, todėl šis, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.
 - susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-87378|Manvydas]]: Trakų vaivada Manvydas buvo sučiuptas ir Žygimanto įsakymu nukirsdintas.
@@ -1677,6 +1703,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87559|Mykolas (Žygimanto sūnus)]]: 1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas.
 - susijęs iš [[objektai/asmenys/Mykolas Rusalka.md#claim-t-87801|Mykolas Rusalka]]: Mykolas Rusalka lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. vasarį atvyko iš Maskvos į Vilnių.
 - susijęs iš [[objektai/asmenys/Mykolas Skirgaila.md#claim-t-87802|Mykolas Skirgaila]]: Mykolas Skirgaila buvo Žemaičių seniūnas, sutartyje paminėtas tarp Lietuvos didikų.
+- susijęs iš [[objektai/asmenys/Nemunas (jūrininkas).md#claim-t-190076|Nemunas (jūrininkas)]]: Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje prie Nemuno.
 - susijęs iš [[objektai/asmenys/Olelka.md#claim-t-87809|Olelka]]: Kopylę valdęs Olelka, Algirdo palikuonis, buvo įkalintas prieš diduomenei nutariant gelbėtis Žygimanto gyvybės kaina.
 - susijęs iš [[objektai/asmenys/Petras Białas.md#claim-t-87825|Petras Białas]]: 1494 m. balandžio 18 d. Petras Białas Maskvoje kaip Lietuvos pasiuntinys pasirašė amžinos taikos sutartį su caru.
 - susijęs iš [[objektai/asmenys/Petras Ivanovskis.md#claim-t-87826|Petras Ivanovskis]]: 1547 m. rugsėjo 10 d. Barbora Radvilaitė pasiskolino iš Petro Ivanovskio 128 kapas grašių ir 8 dubenis medaus.
@@ -1684,6 +1711,8 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/asmenys/Petras iš Kustynės.md#claim-t-35264|Petras iš Kustynės]]: Petras iš Kustynės 1414-1421 m. buvo ketvirtasis Vilniaus vyskupas, delegatas Konstancijoje ir pasiuntinys Žemaitijoje.
 - susijęs iš [[objektai/asmenys/Petrašu Montgirdaitis.md#claim-t-87561|Petrašu Montgirdaitis]]: Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.
 - susijęs iš [[objektai/asmenys/Redigeris Elneris.md#claim-t-87844|Redigeris Elneris]]: Arkikomtūras Redigeris Elneris su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.
+- susijęs iš [[objektai/asmenys/Rimvydas.md#claim-t-190113|Rimvydas]]: 1483 m. karaliaus Kazimiero privilegijoje bajoras Rimvydas gavo žemę prie Merkio už Merkinės valsčiaus valstiečių maišto nuslopinimą.
+- susijęs iš [[objektai/asmenys/Sigaila arba Žygimantas.md#claim-t-190208|Sigaila arba Žygimantas]]: Narbutas Sigailą, arba Žygimantą, mini kaip vieną iš Kęstučio ir jo žmonos sūnų.
 - susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87573|Simonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.
 - susijęs iš [[objektai/asmenys/Simonas Rapolovskis.md#claim-t-87852|Simonas Rapolovskis]]: Kunigaikštis Simonas Rapolovskis lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. atvyko iš Maskvos į Vilnių.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179646|Skirgaila]]: Jogaila po susitaikymo su Vytautu sutaikė jį ir su didžiausiu Vytauto priešu Skirgaila.
@@ -1691,6 +1720,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179668|Skirgaila]]: Jogaila sutaikė Vytautą su Skirgaila, kuris citatoje vadinamas didžiausiu Vytauto priešu.
 - susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87477|Stanislovas Goštautas]]: 1494 m. balandžio 18 d. Maskvoje Žemaičių seniūnas Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.
 - susijęs iš [[objektai/asmenys/Stanislovas Veenas.md#claim-t-87864|Stanislovas Veenas]]: Stanislovas Veenas buvo raštininkas, dalyvavęs 1501 m. Baltramiejaus šventės metu priimtame sprendime.
+- susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-188620|Tautvila]]: Narbutas pasakoja, kad Kęstutis su žmona turėjo sūnus Patriką, Vytautą, Tautvilą, Sigailą, arba Žygimantą, ir dukterį Danutę.
 - susijęs iš [[objektai/asmenys/Vaitiekus Janavičius.md#claim-t-87874|Vaitiekus Janavičius]]: Vaitiekus Janavičius 1507 m. Melnike buvo paminėtas kaip karališkasis rūmininkas ir Kauno seniūnas.
 - susijęs iš [[objektai/asmenys/Vaitiekus Narutavičius.md#claim-t-87875|Vaitiekus Narutavičius]]: Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.
 - susijęs iš [[objektai/asmenys/Vasilijus.md#claim-t-185978|Vasilijus]]: Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.
@@ -1714,6 +1744,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114102|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1440 m. balandį sąmokslininkai Trakų pilyje nužudė Žygimantą Kęstutaitį, o jo sūnų Mykolą ištrėmė.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114104|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis įsakė Švitrigailos pasiuntinius valkioti gatvėmis ir paskandinti.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-184917|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1432 m. Žygimantas Kęstutaitis sutiko su sąlygomis, kuriomis tapo Lietuvos didžiuoju kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-188660|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Narbutas aprašė, kad 1436 m. Žygimanto Kęstutaičio didžiajame antspaude buvo keturi herbiniai skydai, tarp jų Lietuvos Vytis.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173329|Žygimantas Senasis]]: 1514 m. raštas Varmės kanauninkui Andriui Kopernikui buvo siejamas su Lenkijos karaliumi Žygimantu Senuoju.
 - susijęs iš [[objektai/autoriai/Grigalius Kniaževičius.md#claim-t-88058|Grigalius Kniaževičius]]: Grigalius Kniaževičius iš lotynų kalbos išvertė Vilniaus vyskupijos dotacijos nuorašą, išspausdintą 1822 m. „Dzieje dobroczynności“.
 - susijęs iš [[objektai/autoriai/Lindenblattas Joannes von der Pusilie.md#claim-t-88027|Lindenblattas Joannes von der Pusilie]]: Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.
@@ -1729,8 +1760,11 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/daiktai/Geležinis vilkas kaip simbolinis regėjimo objektas.md#claim-t-87078|Geležinis vilkas kaip simbolinis regėjimo objektas]]: Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas priminė šimto vilkų staugimą.
 - susijęs iš [[objektai/daiktai/Iždo ir pilių raktai.md#claim-t-64929|Iždo ir pilių raktai]]: Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus.
 - susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186818|Karūna]]: Komentare nurodoma, kad šiame šaltinyje teigiama, kad karališkieji vainikai Vytautui ir Julijonai buvo nukalti Niurnbergo auksakalių; Šiame gabale vainikai apibūdinami kaip iš Vokietijos gabenti karūnacijos daiktai.
+- susijęs iš [[objektai/daiktai/Katinas kaip stabmeldiškosios laisvės ženklas.md#claim-t-189724|Katinas kaip stabmeldiškosios laisvės ženklas]]: Narbutas 1483 m. Kazimiero privilegijoje katino įteikimą karaliui aiškino kaip stabmeldiškosios laisvės ženklą.
 - susijęs iš [[objektai/daiktai/Kilpinė ir strėlė.md#claim-t-87111|Kilpinė ir strėlė]]: Pasak Strijkovskio, Gediminas medžiodamas strėle iš kilpinės pašovė taurą ant kalno, vėliau vadinto Tauro kalnu.
 - susijęs iš [[objektai/daiktai/Laužas.md#claim-t-186856|Laužas]]: Pagal komentare minimą J. Dlugošą, mirusio Algirdo palaikai Kukovaičio miške prie Maišiagalos buvo sudeginti ant laužo.
+- susijęs iš [[objektai/daiktai/Medžiotojo diržai prie balno risietis.md#claim-t-189688|Medžiotojo diržai prie balno risietis]]: Narbutas Trakų pavadinimą aiškino kaip slavišką medžiotojo diržų prie balno, kuriais pririšama žvėriena, pavadinimą utroczyc.
+- susijęs iš [[objektai/daiktai/Medžiotojo diržai prie balno risietis.md#claim-t-189689|Medžiotojo diržai prie balno risietis]]: Narbutas rašė, kad lietuviai medžiotojo diržus vadino Risietis ir todėl neturėjo skolintis šio daikto pavadinimo iš svetimos kalbos.
 - susijęs iš [[objektai/daiktai/Medžių užtvaros kelyje.md#claim-t-87087|Medžių užtvaros kelyje]]: Prie Strėvos upės žemaičių būriai prikirto medžių ir jais užvertė atsitraukiančios kariaunos kelią.
 - susijęs iš [[objektai/daiktai/Mūrinė pilis.md#claim-t-87115|Mūrinė pilis]]: Mūrinė pilis pastatyta ant žmonių paaukštinto kalno Vilnelės ir Vilijos santakoje.
 - susijęs iš [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga.md#claim-t-86999|Pabūklai, bombardos, patrankos ir artilerijos įranga]]: 1383 m. puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti.
@@ -1744,6 +1778,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/grupes/7-asis pėstininkų pulkas.md#claim-t-38934|7-asis pėstininkų pulkas]]: Panerių mūšyje Lenkijos sukilėlių pajėgoms priklausė 7-asis pėstininkų pulkas.
 - susijęs iš [[objektai/grupes/Didžiosios kovos apygarda (DKA).md#claim-t-40874|Didžiosios kovos apygarda (DKA)]]: Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172086|Dominikonų ordinas]]: Gediminas suteikė prieglobstį Lietuvoje apaštalavusiems dominikonams ir prie Vilniaus pilies pastatydino jiems vienuolyną bei bažnyčią.
+- susijęs iš [[objektai/grupes/Estai.md#claim-t-188180|Estai]]: Narbutas rašė, kad laisvės, malonumų ir džiaugsmo deivę Lietuvą tebežinojo lietuviai, latviai ir estai.
 - susijęs iš [[objektai/grupes/Kališo raitelių dalinys.md#claim-t-38961|Kališo raitelių dalinys]]: Panerių mūšyje Kališo raitininkų eskadronai buvo tarp Lenkijos sukilėlių junginių.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120184|Karaimai]]: Karaimai į Lietuvą atkeliavo iš rytų, o jų atvykimas šaltinyje siejamas su Vytauto valdymo laikais.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120185|Karaimai]]: Trakuose gyvenę karaimai vertėsi daržininkyste ir agurkus vežė į Vilniaus turgus.
@@ -1755,9 +1790,12 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179020|Kryžiuočių ordinas]]: Mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius derėtis su Algirdu ir Kęstučiu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179050|Kryžiuočių ordinas]]: Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet miesto staiga neužėmė.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179066|Kryžiuočių ordinas]]: 1408-1414 m. kovose su kryžiuočiais Lietuvos monarcho pastangos buvo nukreiptos į Prūsijos ordino pajėgų silpninimą.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188210|Kryžiuočių ordinas]]: Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis Birutę pažino grįždamas iš žygio prieš kryžiuočius.
 - susijęs iš [[objektai/grupes/LDK Ponų Taryba.md#claim-t-187765|LDK Ponų Taryba (institucija, XV a.)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš LDK Ponų Tarybos.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179227|Lietuviai]]: Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179343|Lietuviai]]: Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188263|Lietuviai]]: Narbutas deivę Lietuvą apibūdino kaip laisvės, malonumų ir džiaugsmo deivę, žinomą lietuviams, latviams ir estams.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188264|Lietuviai]]: Narbutas katino kaip lietuvių laisvės simbolio įrodymą siejo su 1483 m. Kazimiero privilegija bajorui Rimvydui.
 - susijęs iš [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje.md#claim-t-86804|Lietuvos pasiuntiniai Maskvoje]]: 1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai Petras Białas ir Stanislovas Goštautas pasirašė amžinos taikos sutartį su Ivanu Vasiljevičiumi.
 - susijęs iš [[objektai/grupes/Maloningosios Dievo Motinos brolija.md#claim-t-86808|Maloningosios Dievo Motinos brolija]]: 1589 m. liepos 29 d. Dievo Kūno koplyčioje buvo paskelbtas Maloningosios Dievo Motinos brolijos įkūrimas.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92735|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
@@ -1767,8 +1805,8 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187739|Ponų taryba (institucija)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš Ponų tarybos.
 - susijęs iš [[objektai/grupes/Poznanės raitininkų eskadronai.md#claim-t-38997|Poznanės raitininkų eskadronai]]: Panerių mūšyje Poznanės raitininkų eskadronai buvo tarp Lenkijos sukilėlių kariuomenės dalinių.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108305|Pranciškonų ordinas]]: Grzybowskis rašė, kad Goštautas, tapęs pranciškonu Krokuvoje, Vilniuje vertė miestiečius į krikščionių tikėjimą.
-- susijęs iš [[objektai/grupes/Radvilos.md#claim-t-184578|Radvilos]]: Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią.
 - susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172763|Radvilų giminė]]: Radvilų giminės galia ir turtai augo, o jų pėdsakai autoriui dar atrodė stebinantys savo didybe.
+- susijęs iš [[objektai/grupes/Saulės garbintojai.md#claim-t-189533|Saulės garbintojai]]: Narbutas pasakojo, kad Jeronimas keliaudamas rado saulės garbintojus, ypač garbinusius didžiulį geležinį kūjį.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171394|Totoriai]]: Vytautas Lietuvoje įkurdino totorius, kurie garsėjo dora, narsa ir prieraišumu naujai tėvynei.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171428|Totoriai]]: Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171433|Totoriai]]: Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose.
@@ -1781,9 +1819,12 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187754|Žemaičiai]]: Kęstutis valdė Trakus ir Žemaičių žemę ir turėjo šešis sūnus.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117386|Žydai]]: Trakų žydai dar 1388 m. buvo gavę atskirą privilegiją, apibūdinusią jų elgseną krikščionių atžvilgiu.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117397|Žydai]]: Trakų žydai 1388 m. buvo gavę privilegiją, apibrėžusią jų elgseną krikščionių atžvilgiu.
+- susijęs iš [[objektai/grupes/Žyniai.md#claim-t-189398|Žyniai]]: Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę.
 - susijęs iš [[objektai/ivykiai/Algirdo palaikų sudeginimas Kukovaičio miške.md#claim-t-186691|Algirdo palaikų sudeginimas Kukovaičio miške]]: Redakcinė pastaba teigia, kad pagal J. Dlugošą Kukovaičio miške prie Maišiagalos ant laužo buvo sudeginti mirusio Algirdo palaikai.
 - susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186646|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Aleksandro pasiuntiniai parvežė Eleną į Lietuvą kartu su jos tėvo Ivano Vasiljevičiaus atsiųstais Maskvos pasiuntiniais.
 - susijęs iš [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas.md#claim-t-185700|Gardino taikos derybos su maskvėnais ir jų žlugimas]]: Gardino derybose su maskvėnais Lietuvos senatoriai buvo paskirti vieni pasiuntiniams priimti, kiti valstybės reikalams aptarti.
+- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio atsiskaitymas Bazelio bažnytiniam susirinkimui.md#claim-t-189634|Jeronimo Prahiškio atsiskaitymas Bazelio bažnytiniam susirinkimui]]: Narbutas sieja Jeronimo Prahiškio pasakojimą Pijui II ir Bazelio susirinkimo tėvams su atsiskaitymu apie apaštalavimą Lietuvoje 1392 arba 1393 m.
+- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio saulės garbintojų mokymas ir kūjo garbinimo atmetimas.md#claim-t-189625|Jeronimo Prahiškio saulės garbintojų mokymas ir kūjo garbinimo atmetimas]]: Narbutas pasakoja, kad keliaudamas Jeronimas Prahiškis rado saulės garbintojus, ypač garbinusius didžiulį geležinį kūjį.
 - susijęs iš [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.).md#claim-t-86913|Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]: Vilniaus pilininkas ir miestiečiai naktį sumušė Kęstučio įgulą ir abi Vilniaus pilis atidavė Jogailai.
 - susijęs iš [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.).md#claim-t-31433|Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]: 1391 m. rudeniop surengtas didelis žygis į Lietuvą, o rugsėjo 1 d. prie Kauno Nemuno saloje iškelta didelė puota svečiams piligrimams.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.).md#claim-t-55124|Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)]]: Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet staiga užimti miesto nepavyko.
@@ -1811,12 +1852,14 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio pakėlimas Lietuvos didžiuoju kunigaikščiu (1432 m.).md#claim-t-185686|Žygimanto Kęstutaičio pakėlimas Lietuvos didžiuoju kunigaikščiu (1432 m.)]]: 1432 m. karaliaus pasiuntiniai įtikino Žygimantą Kęstutaitį sutikti su valdovo ir valstybės keltais reikalavimais.
 - susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio šermenys ir laidotuvės Vilniuje (1440 m.).md#claim-t-185846|Žygimanto Kęstutaičio šermenys ir laidotuvės Vilniuje (1440 m.)]]: Trakuose susirinkę luomai, Goštautui ir Kęsgailai pasiūlius, nutarė surengti Žygimantui Kęstutaičiui puikias šermenis.
 - susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87198|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: 1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.
+- susijęs iš [[objektai/paprociai/Ašarų rinkimas į ašarines ir jų dėjimas į kapą.md#claim-t-189822|Ašarų rinkimas į ašarines ir jų dėjimas į kapą]]: Narbutas rašo, kad toje vietoje buvo randama daug ašarinėms priskiriamų nuolaužų.
 - susijęs iš [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas.md#claim-t-185869|Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]: Karalius senatoriams atskyrė pareigas: vieni turėjo sutikti, priimti ir vaišinti maskvėnų pasiuntinius, o kiti derėtis dėl valstybės reikalų.
 - susijęs iš [[objektai/paprociai/Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje.md#claim-t-87156|Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje]]: Gediminas užmezgė ryšius su krikščioniškąja Europa, globojo pranciškonus ir dominikonus, o Vilniuje leido kurtis atėjūnams iš Vokietijos ir Lenkijos.
 - susijęs iš [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje.md#claim-t-87209|Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]: Karaimai buvo įsikūrę Trakuose ir nedidelėje Vilniaus dalyje, tačiau Vytauto privilegija jiems negaliojo.
 - susijęs iš [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje.md#claim-t-87210|Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]: Balińskis karaimų atvykimą į Lietuvą siejo su Vytauto laikais, nes Vytautas priimdavo ir priglobdavo ateivius iš rytų kraštų.
 - susijęs iš [[objektai/paprociai/Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose.md#claim-t-183826|Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose]]: Kęstutis, puldamas Vilnių, į miestą pasiuntė riterius, persirengusius pirkliais, ir ginkluotus vyrus, paslėptus kailių bei šieno vežimuose.
 - susijęs iš [[objektai/paprociai/Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose.md#claim-t-87174|Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose]]: Kęstutis, puldamas Vilnių, į miestą pasiuntė riterius, persirengusius pirkliais, ir ginkluotus vyrus, paslėptus kailių bei šieno vežimuose.
+- susijęs iš [[objektai/paprociai/Katino kaip stabmeldiškos laisvės ženklo naudojimas.md#claim-t-189836|Katino kaip stabmeldiškos laisvės ženklo naudojimas]]: Narbutas 1483 m. Kazimiero privilegijoje rado pasakojimą, kad Leicis karaliui padavė katiną kaip stabmeldiškosios laisvės ženklą.
 - susijęs iš [[objektai/paprociai/Kunigaikščio palaikų atvežimas į sostinę ir iškilmingas palaidojimas.md#claim-t-87277|Kunigaikščio palaikų atvežimas į sostinę ir iškilmingas palaidojimas]]: 1430 m. spalio 30 d. Trakuose mirusio Vytauto palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.
 - susijęs iš [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje.md#claim-t-87214|Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]: Žygimanto palaikai buvo atvežti iš Trakų į Vilnių ir, atlikus įprastas apeigas, palaidoti Vilniaus katedros didžiųjų kunigaikščių kape.
 - susijęs iš [[objektai/paprociai/Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika.md#claim-t-87299|Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika]]: Balińskio aiškinimu, Germantas Šventaragio slėnyje vertė miškus lydimais ir plėtė senovinę Vilniaus gyvenvietę Vilnios pakrantėse.
@@ -1828,16 +1871,19 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose.md#claim-t-81868|Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]: Pasak Strijkovskio, Vytautas dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose gerdavo iš Gedimino sumedžioto tauro ragų.
 - susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87166|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.
 - susijęs iš [[objektai/paprociai/Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje.md#claim-t-87227|Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje]]: Anksčiau Lietuvos totoriai vertėsi audinių ir siūlų prekyba, o vėliau daugelis jų tarnavo totorių ulonų pulkuose.
+- susijęs iš [[objektai/paprociai/Vaidilučių ir žynių skaistybės norma, šventyklinė tarnyba ir šventosios ugnies saugojimas.md#claim-t-189784|Vaidilučių ir žynių skaistybės norma, šventyklinė tarnyba ir šventosios ugnies saugojimas]]: Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis išsivežė vaidilutę Birutę į Naujuosius Trakus ir ten ją vedė.
+- susijęs iš [[objektai/paprociai/Vaidilučių saugoma Praurimės aukuro ugnis ir skaistybės įžadas.md#claim-t-189943|Vaidilučių saugoma Praurimės aukuro ugnis ir skaistybės įžadas]]: Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip vaidilutę, saugojusią šventą Praurimės aukuro ugnį netoli Palangos.
 - susijęs iš [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui.md#claim-t-87148|Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]: 1430 m. Vytautas sukvietė į Trakus ir Vilnių šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
 - susijęs iš [[objektai/paprociai/Viešų miesto paslaugų pelno skyrimas Vilniaus iždui.md#claim-t-87186|Viešų miesto paslaugų pelno skyrimas Vilniaus iždui]]: Prie Vilniaus rotušės leistų krautuvių, viešos miesto virtuvės ir vyninės pelnas buvo skiriamas miesto iždui.
 - susijęs iš [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka.md#claim-t-87131|Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]: 1492 m. Trakuose Aleksandras Vilniui suteikė Magdeburgo teises ir leido miestui laikyti vaško dirbtuvę.
 - susijęs iš [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka.md#claim-t-87310|Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]: Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.
 - susijęs iš [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas.md#claim-t-35959|Vytauto bažnyčių statymas ir vienuolynų steigimas]]: Vytautas Lietuvoje statė ne tik bažnyčias, bet ir vienuolynus.
+- susijęs iš [[objektai/paprociai/Šventųjų miškelių garbinimas, neliečiamumas ir prieglobsčio norma.md#claim-t-189902|Šventųjų miškelių garbinimas, neliečiamumas ir prieglobsčio norma]]: Narbutas šventuosius miškelius aiškina kaip pirmąsias sueigų, visuomeninio gyvenimo ir religinių vizijų vietas, tapusias pirmąja tautų šventykla.
 - susijęs iš [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas.md#claim-t-97292|Gedimino « Geležinio vilko » sapnas]]: Vilniaus įkūrimo legendoje Gediminas po medžioklės Šventaragio slėnyje susapnavo geležinį vilką, o sapną išaiškino Lizdeika.
 - susijęs iš [[objektai/posakiai/Geležinis vilkas ir šimtas vilkų.md#claim-t-86854|Geležinis vilkas ir šimtas vilkų]]: Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas atrodė toks galingas, tarsi staugtų šimtas vilkų.
 - susijęs iš [[objektai/posakiai/O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė.md#claim-t-86867|O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė]]: Posakiu „O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė“ miestiečiai gyrė Žygimanto suteiktas garantijas.
 - susijęs iš [[objektai/posakiai/deržati mi jeho vyše vseje našeje bratije.md#claim-t-35996|deržati mi jeho vyše vseje našeje bratije]]: Jogailos dokumente žodžiai „deržati mi jeho vyše vseje našeje bratije“ reiškė nurodymą Skirgailą laikyti aukščiau visų brolių.
-- susijęs iš 1483 metų karaliaus Kazimiero privilegija Rimvydui: Narbutas 1483 m. karaliaus Kazimiero privilegijoje Rimvydui, rašytoje rusų kalba ant pergamento, ieškojo katino kaip Lietuvos simbolio įrodymo.
+- susijęs iš 1483 metų karaliaus Kazimiero privilegija Rimvydui: Narbutas 1483 m. karaliaus Kazimiero privilegijoje Rimvydui rado įrodymą, kad katinas lietuviams buvęs Lietuvos simbolis.
 - susijęs iš 1533 m. Jono Zabžezinskio dovanojimo aktas Vilniaus vyskupui Jonui: 1533 m. spalio 26 d. Jono Zabžezinskio dovanojimo akte Vilniaus vyskupui Jonui paminėtas didelis gaisras.
 - susijęs iš A. Vijūko-Kojelavičiaus Lietuvos istorija: Kojelavičius sekė Strijkovskiu pasakojime apie Kęstučio gudrybes puolant Vilnių.
 - susijęs iš Aleksandro raštiškas pasižadėjimas dėl Elenos tikėjimo: Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėjimo, kad Elena liks rusų tikėjimo ir nebus verčiama pereiti į Romos tikėjimą.
@@ -1890,9 +1936,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš Dievo Kūno koplyčia: Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė.
 - susijęs iš Drohičinas: Vokiečiai įsipareigojo laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų Drohičinu.
 - susijęs iš Gardinas: Kadangi Trakai jau buvo atiduoti Skirgailai, Vytautas galėjo gauti tik Gardiną su Palenke.
-- susijęs iš Gardinas: Vytauto laikais Gardine, Naugarduke, Melnike ir Lucke imta statyti pilis toli nuo etninės Lietuvos.
 - susijęs iš Gardinas: Ostrovo taikos metu Jogaila grąžino Vytautui jo tėviškę, įskaitant Trakus ir Gardiną.
-- susijęs iš Gardinas: Vytauto laikais Gardine, Juodosios Rusios LDK žemėje, imta statyti gotikines pilis.
 - susijęs iš Gardinas: Prie Trakų Kęstutis rado Vytautą, atsivedusį kariuomenės būrį iš Gardino.
 - susijęs iš Gardinas: Kęstutis paveldėjo Trakus ir Gardiną su Palenke, arba Lietuvos Brasta.
 - susijęs iš Gardinas: 1501 m. dokumentas buvo aktuotas ir duotas Gardine šeštadienį po šv. Baltramiejaus šventės.
@@ -1910,19 +1954,23 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš Kijevo žemės: Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes.
 - susijęs iš Kremencas: Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir vietoj Trakų kunigaikštijos atiduoti jam Kremencą bei Stožką.
 - susijęs iš Krokuva: Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą.
+- susijęs iš Leliušiai: Narbutas Leliušių kaimą mini kaip vieną iš dviejų netoli vienas kito esančių kaimų Lydos krašto Rodūnios parapijoje.
 - susijęs iš Lenkija: Lenkijoje žydų ir armėnų vaidmuo buvo ryškesnis nei LDK, bet joje nebuvo tokių ryškių totorių ir karaimų bendruomenių.
 - susijęs iš Lenkija: Lietuvos pietvakariuose buvusi Lenkija tapo ilgamečio konflikto su Lietuva dalyve.
 - susijęs iš Lenkija: Lenkijoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių kaip LDK.
 - susijęs iš Lenkijos karalystė: Žygimantas Senasis dokumente tituluojamas išrinktu Lenkijos Karalystės karaliumi.
 - susijęs iš Lietuva: 1430 m. Vytautas į Trakus ir Vilnių sukvietė šiaurės šalių kunigaikščius ir pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
 - susijęs iš Lietuva: Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietuva akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtėjo ekonomiškai.
+- susijęs iš Lietuva: Į Lietuvą su karaliumi atvykęs Kujavijos vyskupas Jonas Kropidlas parėmė Vytauto santuokos sumanymą.
+- susijęs iš Lietuva: Narbutas rašė, kad tikrojoje Lietuvoje sudegintų žmonių pelenams laikyti skirtos vietos buvo vadinamos Obelijomis.
 - susijęs iš Livonijos kraštas (kraštas): Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų.
 - susijęs iš Luckas: Ostrovo taika Jogaila grąžino Vytautui Trakus ir Gardiną, o prie kitų žemių pridėjo Lucką.
 - susijęs iš Luckas: Ostrovo taikos metu Jogaila grąžino Vytautui Trakus ir Gardiną, taip pat pridėjo Lucką.
 - susijęs iš Luckas: 1392 m. Astrave Vytautas ir Ona jau titulavosi Trakų ir Lucko kunigaikščiais.
 - susijęs iš Luckas: 1392 m. Astravo dokumentai rodo, kad Vytautas ir Ona titulavosi Trakų ir Lucko kunigaikščiais.
 - susijęs iš Luckas: Boleslovas, bijodamas rimtesnių veiksmų prieš save, pasitraukė iš Lucko į Dakiją.
-- susijęs iš Maskva: 1496 m. sausį iš Maskvos išvykusi kunigaikštytė Elena vasarį atvyko į Vilnių.
+- susijęs iš Lydos apskritis: Narbutas Lydos apskritį priskyrė Tikrajai Lietuvai, kur, jo teigimu, nuo seniausių laikų buvo obelijomis vadintų pelenų laikymo vietų.
+- susijęs iš Lydos kraštas (kraštas): Lydos krašto Rodūnios parapijoje Narbutas minėjo netoli vienas kito buvusius Leliušių ir Lelionių kaimus.
 - susijęs iš Maskva: 1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai pasirašė amžinos taikos sutartį su caru.
 - susijęs iš Maskva: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
 - susijęs iš Maskva: 1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai pasirašė amžinos taikos sutartį su caru.
@@ -1933,12 +1981,17 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš Melnikas: Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis.
 - susijęs iš Merkinė: Karaliaus Aleksandro testamento liudytojų sąraše Jonas iš Zabrežjės įvardytas Merkinės laikytoju.
 - susijęs iš Merkinė: 1503 m. Vilniuje duotame dokumente Jonas iš Zabrežjės minimas kaip Merkinės laikytojas.
+- susijęs iš Merkinės valsčius: Narbutas nurodė, kad 1483 m. Kazimiero privilegijoje Merkinės valsčiaus valstiečių maišto nuslopinimas minimas kaip atpildo Rimvydui pagrindas.
 - susijęs iš Mielnikas: 1379 m. Ordino magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikštijos sričių, tarp jų ir Mielniko.
 - susijęs iš Moldavija: Lietuvos metraštis pasakoja, kad Olbrachtui įsiveržus į Moldaviją vaivada Steponas sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius.
+- susijęs iš Nemunaitis: Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.
+- susijęs iš Nemunas: Nemunas prasideda Rusios valdose, prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.
+- susijęs iš Nemunas: Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.
 - susijęs iš Nemėžis: Vytauto įkurdinti totoriai gyveno ir Nemėžiu vadintoje vietovėje, esančioje per mylią į rytus nuo Vilniaus.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Žemiau Vilniaus Vilijos pakrantėse gyvenę lietuviai kaimiečiai šią upę vadino Nerimi.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Pasakojime apie Vilniaus įkūrimą Gediminas atvyko į Šventaragio slėnį, kur Vilnios upė įteka į Viliją.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
+- susijęs iš Obelijos: Narbutas Obelijomis vadino Tikrojoje Lietuvoje nuo seno buvusias vietas, kuriose dėdavo sudegintų žmonių pelenus.
 - susijęs iš Osterodė: Osterodės apskritis priklausė pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.
 - susijęs iš Palenkė: Trakų dešimties metų paliaubų sutartyje ordinas pasižadėjo nepulti Palenkės, o Lietuva - ordino žemių Palenkės pasienyje.
 - susijęs iš Palenkė: Vytauto laikais pilys buvo statomos ir Palenkėje, tarp jų Melnike ir galbūt Brastoje.
@@ -1959,10 +2012,12 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš Polockas: Vienas vieškelis iš Vilniaus per Vilnios upę prie bendro naudojimo malūno suko į Polocką.
 - susijęs iš Prūsija: 1375 m. ekspedicija iš Prūsijos sukėlė Vilniui grėsmę.
 - susijęs iš Prūsija: Skirgaila nuvyko į Prūsiją ir, remdamasis sandėriu su Ordinu, rengė naujus antpuolius prieš Kęstutį ir Lietuvą.
+- susijęs iš Pulavai: Narbutas rašo matęs Trakų pilies tyrimų žinias ir piešinius, kuriuos buvusio Vilniaus universiteto narys pasiuntė į Pulavus.
 - susijęs iš Putna: Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje.
 - susijęs iš Putna: Putna buvo kalnuose esantis Stepono mėgstamas vienuolynas, kuriame jis apsistojo su visa kariuomene.
 - susijęs iš Riazanė: Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė.
 - susijęs iš Riazanė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.
+- susijęs iš Rodūnios parapija: Narbutas Rodūnios parapiją mini kaip Lydos krašto vietą, kur netoli vienas kito buvo Leliušių ir Lelionių kaimai.
 - susijęs iš Romainiai: Balińskio manymu, po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai tikriausiai buvo perkelti iš Romainių į Vilnių.
 - susijęs iš Rusia Rusios žemės: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
 - susijęs iš Rusia: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
@@ -1980,7 +2035,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš Tauro kalnas: Pasakojime Tauro kalnu vadintas kalnas, ant kurio Gediminas medžiodamas pašovė ir pribaigė didžiulį taurą.
 - susijęs iš Tverė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.
 - susijęs iš Tverė: 1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.
+- susijęs iš Ukmergė: Ties Pabaisku prie Šventosios, netoli Ukmergės, Mykolo vadovaujama lietuvių ir lenkų kariuomenė užkirto kelią Švitrigailai.
 - susijęs iš Ukmergė: Švitrigailos ir Livonijos magistro jungtinės pajėgos per Užnerį žygiavo į Vilkmergę, dabartinę Ukmergę.
+- susijęs iš Ukmergė: Kunigaikščio Mykolo pergalė prieš Švitrigailą ir Livonijos magistrą netoli Ukmergės užbaigė jų varžybas dėl Lietuvos.
+- susijęs iš Ukmergė: Kunigaikščio Mykolo pergalė netoli Ukmergės užbaigė Švitrigailos ir Livonijos magistro varžybas dėl Lietuvos.
 - susijęs iš Ukmergė: Livonijos magistro kariuomenė prisijungė prie jungtinių pajėgų, kurios Užnerio puse žygiavo į Vilkmergę (Ukmergę).
 - susijęs iš Ukmergės apskritis: Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskrityje ir „B“ Ukmergės apskrityje.
 - susijęs iš Vartenburgas: Vartenburgo apskritis buvo priskirta pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.
@@ -2044,6 +2102,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš Voluinė: Vytauto laikais gotikinė pilis buvo statoma ir Voluinės Lucke.
 - susijęs iš Volynija: Vytauto laikais Volynijoje buvo gausu didžiojo kunigaikščio dvarų ir ūkio centrų.
 - susijęs iš Volynė: Vilniaus seime lenkų atstovai reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes prieš sudarant uniją.
+- susijęs iš Vosyliškis Vosyliškio vėliavininkystė: Narbutas nurodo prie galbūt XV a. pirmosios pusės dokumento radęs antspaudą, kuriuo Aleksandras Jurgaitis Meteika tvirtino Vosyliškio vėliavininkystės žemininkų žemės mainus.
 - susijęs iš Zapyškis: XV a. pabaigoje–XVI a. pirmame trečdalyje gotika pasiekė provinciją, įskaitant Kėdainius ir Zapyškį.
 - susijęs iš Zaslavlis: Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno.
 - susijęs iš Šventaragio slėnis: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po Trakų pilies įkūrimo medžiojo Šventaragio slėnyje.
@@ -2052,11 +2111,16 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš Žemaičių žemė: Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę.
 - susijęs iš Žemaičių žemė: Kęstutis, sušaukęs savo Žemaičių žemę ir kariuomenę, traukė prie Neries, kur susijungė su Vytauto kariuomene.
 - susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86453|Arkikomtūras]]: Arkikomtūras Redigeris Elneris kartu su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.
+- susijęs iš [[objektai/zodynas/Lietuva Lietwii kaip laisvės ženklas.md#claim-t-189116|Lietuva Lietwii kaip laisvės ženklas]]: Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo deivę, siejamą su lietuviais, latviais ir estais.
+- susijęs iš [[objektai/zodynas/Lietuva Lietwii kaip laisvės ženklas.md#claim-t-189117|Lietuva Lietwii kaip laisvės ženklas]]: Narbutas 1483 m. Kazimiero privilegiją Rimvydui laikė įrodymu, kad katinas lietuviams buvo stabmeldiškosios laisvės, arba Lietwii, ženklas.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113647|Magdeburgo teisės]]: 1492 m. Trakuose Aleksandras privilegija Vilniui suteikė Magdeburgo teises ir laisvę laikyti vaško dirbtuvę.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113653|Magdeburgo teisės]]: Žygimantas dviem privilegijomis lotynų ir rusų kalbomis atnaujino ir patvirtino Vilniaus Magdeburgo teises.
 - susijęs iš [[objektai/zodynas/Mahometoniškas tikėjimas.md#claim-t-32754|Mahometoniškas tikėjimas]]: Vytauto privilegijas gavę Lietuvos totoriai išlaikė mahometonišką tikėjimą ir papročius.
+- susijęs iš [[objektai/zodynas/Obelijos.md#claim-t-189234|Obelijos]]: Narbutas Obelijomis vadina senąsias vietas Tikrojoje Lietuvoje, kur būdavo dedami sudegintų žmonių pelenai.
 - susijęs iš [[objektai/zodynas/Pilininkas capitaneus seniūnas.md#claim-t-86568|Pilininkas capitaneus seniūnas]]: Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir perdavė Jogailai Žemutinę bei Aukštutinę pilis.
 - susijęs iš [[objektai/zodynas/Pilininkas.md#claim-t-55267|Pilininkas]]: Vilniaus pilininkas su miestiečiais sumušė Kęstučio įgulą ir Žemutinę bei Aukštutinę pilis atidavė Jogailai.
+- susijęs iš [[objektai/zodynas/Risietis.md#claim-t-189327|Risietis]]: Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė mintį, kad šio žodžio nereikėjo skolintis iš svetimos kalbos.
+- susijęs iš [[objektai/zodynas/Utroczyc.md#claim-t-189338|Utroczyc]]: Narbutas Trakų pavadinimą aiškino slavų medžioklės terminu „utroczyc“, reiškiančiu prie balno tvirtinamus diržus žvėrienai pririšti.
 - susijęs iš [[objektai/zodynas/bojarinai.md#claim-t-86460|bojarinai]]: Didžioji kunigaikštytė Elena į Vilnių atvyko lydima bojarinų Simono Rapolovskio, Mykolo Rusalkos ir Prokopo Zinovjevičiaus.
 - susijęs iš [[objektai/zodynas/diarchija.md#claim-t-131654|diarchija]]: Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas dualizmu arba diarchija.
 - susijęs iš [[objektai/zodynas/diarchija.md#claim-t-131657|diarchija]]: Lietuvos žemių dviejų kunigaikščių valdymas istorikų vadintas dualizmu arba diarchija ir nežuvo po Algirdo mirties 1377 m.
@@ -2081,6 +2145,8 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/zodynas/vaivada.md#claim-t-187532|vaivada]]: Vilniaus ir Trakų vaivadų pareigybės įvestos 1413 m.; iki tol panašias vaivadų funkcijas vykdė seniūnai.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176252|vietininkas]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176265|vietininkas]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
+- susijęs iš [[objektai/zodynas/Šventasis miškas miškelis.md#claim-t-189210|Šventasis miškas miškelis]]: Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo manymu, kilo visuomeninis gyvenimas ir religinės vizijos.
+- susijęs iš [[objektai/zodynas/Šventasis miškelis šventasis miškas.md#claim-t-189214|Šventasis miškelis šventasis miškas]]: Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo manymu, kilo visuomeninis gyvenimas ir religinės vizijos.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185335|žygūnas]]: Aleksandras pavedė Trakų vaivadai Zaberezinskiui atsakyti Ivano žygūnui dėl mėginimo numalšinti Ivano įsiūtį per pasiuntinius.
 - susijęs iš Rusia Rusios žemės: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
 - susijęs iš Rusia: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
@@ -2100,19 +2166,22 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - susijęs iš [[objektai/zodynas/Mahometoniškas tikėjimas.md#claim-t-32754|Mahometoniškas tikėjimas]]: Vytauto privilegijas gavę Lietuvos totoriai išlaikė mahometonišką tikėjimą ir papročius.
 - susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): 1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.
 - susijęs iš Vilniaus pilys: 1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-188576|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Narbutas taisė Okolskį ir Strijkovskį, teigdamas, kad Naujuosius Trakus įkūrė Gediminas, o ne Kęstutis.
 - susijęs iš [[objektai/asmenys/Ona (Vytauto žmona).md#claim-t-184811|Ona (Vytauto žmona)]]: Vytautas po žmonos Onos mirties Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.
 - susijęs iš [[objektai/asmenys/Snorro Sturleson.md#claim-t-87576|Snorro Sturleson]]: Islandų keliautojas Snorro, vykdamas per Europos šiaurę, prie Vilniaus ir Trakų rado savo genties naujakurių.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176687|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis Trakuose ir Algirdo šeimoje Vilniuje susidurdavo su krikščionybės idėjomis.
 - susijęs iš [[objektai/ivykiai/Vytauto pralaimėjimas netoli Vilniaus (1382 m.).md#claim-t-86967|Vytauto pralaimėjimas netoli Vilniaus (1382 m.)]]: Vytautas, pralaimėjęs mūšį netoli Vilniaus ir netekęs tūkstančio žmonių, turėjo slėptis Trakų pilyje.
 - susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31499|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: Pasak Ivinskio, 1398 m. žygio metu paimti karaimai, berods, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
+- susijęs iš [[objektai/paprociai/Vaidilučių ir žynių skaistybės norma, šventyklinė tarnyba ir šventosios ugnies saugojimas.md#claim-t-189784|Vaidilučių ir žynių skaistybės norma, šventyklinė tarnyba ir šventosios ugnies saugojimas]]: Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis išsivežė vaidilutę Birutę į Naujuosius Trakus ir ten ją vedė.
 - susijęs iš [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui.md#claim-t-87148|Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]: 1430 m. Vytautas sukvietė į Trakus ir Vilnių šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
 - susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Švitrigailą ir Pilies kalno griūtį: Dinaburgo komtūras iš Liksnos į Lietuvą pasiuntė Petrą surinkti žinių apie Švitrigailą.
 - susijęs iš Belskas: Belskas buvo tarp krikščioniškų Trakų kunigaikštijos sričių, kurių abu magistrai pasižadėjo nepulti.
 - susijęs iš Riazanė: 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-10689|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis pastatė mūro pilį Trakų ežero saloje.
 - susijęs iš [[objektai/ivykiai/Trakų užėmimas ir apgultis.md#claim-t-100045|Trakų užėmimas ir apgultis]]: 1383 m. Vytautas, Žemaičiuose surinkęs gausų kovotojų būrį, su magistru Zollneriu žygiavo prie Skirgailos valdomų Trakų.
-- susijęs iš Lietuva: Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą ir pasiekė Trakus.
 - susijęs iš Žemaitija: Kęstutis su stipriais pulkais iš Žemaitijos atvyko į pagalbą sūnui Vytautui Trakų pilyje.
 - susijęs iš [[objektai/asmenys/Ona (Vytauto žmona).md#claim-t-87923|Ona (Vytauto žmona)]]: Vytauto žmona Ona, Smolensko kunigaikštytė, išpažino graikų apeigų tikėjimą ir prieš Lietuvos krikštą turėjo koplyčią Trakų pilyje.
+- susijęs iš [[objektai/daiktai/Medžiotojo diržai prie balno risietis.md#claim-t-189689|Medžiotojo diržai prie balno risietis]]: Narbutas rašė, kad lietuviai medžiotojo diržus vadino Risietis ir todėl neturėjo skolintis šio daikto pavadinimo iš svetimos kalbos.
 - susijęs iš [[objektai/posakiai/deržati mi jeho vyše vseje našeje bratije.md#claim-t-35996|deržati mi jeho vyše vseje našeje bratije]]: Jogailos dokumente žodžiai „deržati mi jeho vyše vseje našeje bratije“ reiškė nurodymą Skirgailą laikyti aukščiau visų brolių.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114103|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117386|Žydai]]: Trakų žydai dar 1388 m. buvo gavę atskirą privilegiją, apibūdinusią jų elgseną krikščionių atžvilgiu.
@@ -3700,11 +3769,11 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] apgule Trakai
 - [[objektai/grupes/Vytauto šalininkai]] apgule Trakai
 - [[objektai/asmenys/Žygimantas]] mire Trakai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] puole Trakai
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] uzeme Trakai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Trakai
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] keliavo_i Trakai
 - [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] keliavo_i Trakai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] puole Trakai
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] surenge_zygi_i Trakai
 - [[objektai/asmenys/Kazimieras Jogailaitis]] gyveno Trakai
 - [[objektai/grupes/Totoriai]] uzeme Trakai
@@ -3714,11 +3783,13 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_miesta Trakai
 - [[objektai/grupes/Žydai]] gyveno Trakai
 - [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] mire Trakai
+- [[objektai/asmenys/Birutė]] keliavo_i Trakai
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Trakai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyveno Trakai
 - [[objektai/asmenys/Šich Achmetas]] keliavo_i Trakai
 - [[objektai/grupes/Žemaičiai]] keliavo_i Trakai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyne Trakai
+- [[objektai/vietos/Daugų ežeras]] priklause Trakai
 - [[objektai/asmenys/Kazimieras Jogailaitis]] keliavo_i Trakai
 - [[objektai/asmenys/Skirgaila]] gyveno Trakai
 - [[objektai/grupes/Totoriai]] gyveno Trakai
@@ -3733,6 +3804,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - [[objektai/asmenys/Skirgaila]] puole Trakai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Trakai
 - [[objektai/vietos/Belskas]] priklause Trakai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] pastate Trakai
 - [[objektai/grupes/Kazokai]] uzeme Trakai
 - [[objektai/asmenys/Liubartas]] keliavo_i Trakai
 - [[objektai/asmenys/Ona (Vytauto žmona)]] mire Trakai
@@ -3742,7 +3814,6 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - [[objektai/asmenys/Ona (Vytauto žmona)]] gyveno Trakai
 - [[objektai/asmenys/Skirgaila]] valde_teritorija Trakai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Trakai
-- [[objektai/asmenys/Gediminas]] pastate Trakai
 - [[objektai/asmenys/Šich Achmetas]] gyveno Trakai
 - [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] valde_miesta Trakai
 - [[objektai/asmenys/Vladislovas Jogaila]] uzeme Trakai

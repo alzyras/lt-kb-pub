@@ -77,6 +77,7 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
 - susijęs iš [[objektai/asmenys/Orestas.md#claim-t-186243|Orestas]]: Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą.
 - susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-187455|Palemonas]]: Pasak Kojelavičiaus, Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-184607|Dusburgas]]: Petras iš Dusburgo buvo Livonijos riterių kunigas ir istorikas.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188459|Petras Dusburgietis]]: Narbutas Petrą Dusburgietį pasitelkia liudydamas, kad lietuvės vilkėjo drobinius baltus ir dažytus rūbus, o vasarą juos vilkėjo ir vyrai.
 - susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-186291|Prokopijus]]: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
 - susijęs iš [[objektai/ivykiai/Langobardų įsiveržimas į Italiją (559 m.).md#claim-t-185810|Langobardų įsiveržimas į Italiją (559 m.)]]: Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją.
 - susijęs iš [[objektai/ivykiai/Palemono išrinkimas Lietuvos valdovu A. Kojelavičiaus pasakojime.md#claim-t-185759|Palemono išrinkimas Lietuvos valdovu A. Kojelavičiaus pasakojime]]: Pasak Kojelavičiaus, Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.

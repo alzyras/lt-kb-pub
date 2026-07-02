@@ -10,6 +10,11 @@ datos:
   - '1506 m.'
 date_start: '1501'
 date_end: '1506'
+description: 'Mykolas Glinskis – totorių kilmės LDK karo vadas, 1506 m. prie Klecko vedęs kariuomenę prieš Krymo ordą ir formavęs husarus.'
+socialDescription: 'Totorių kilmės Mykolas Glinskis išgarsėjo karybos išmanymu, husarų formavimu ir 1506 m. pergale prieš Krymo ordą prie Klecko.'
+seo_atnaujinta: '2026-07-02T19:20:23.371720+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir savo favorita, dvaro maršalką, kunigaikštį Mykolą Glinskį, o pats grįžo į Vilnių. Kur kas geriau karybos meną išmanė totorių kilmės Mykolas Glinskis. Tuo pat metu Glinskis išsiuntė žvalgybinį husarų būrį, kuriam pavyko užklupti nedidelį totorių padalinį.
+Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis Italijoje ir tarnavęs imperatoriaus Frydricho dvare. Grįžęs į Lietuvą jis formavo husarų dalinius ir 1506 m. rugpjūtį vedė apie 10 000 karių prieš Krymo ordą ties Klecku. Po pergalės jis triumfuodamas grįžo į Vilnių, tačiau šaltiniuose pabrėžiama ir pavojinga jo puikybė.
 
 ## Teiginiai
 

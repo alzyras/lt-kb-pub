@@ -112,7 +112,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - susijęs iš [[objektai/asmenys/J. Basanavičius.md#claim-t-63664|J. Basanavičius]]: 1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176422|Jadvyga Jogailienė]]: Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176430|Jadvyga Jogailienė]]: Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes.
-- susijęs iš [[objektai/asmenys/Joachimas Lelevelis.md#claim-t-78034|Joachimas Lelevelis]]: Istorikas Joachimas Lelevelis dirbo universitete jo klestėjimo laikotarpiu.
+- susijęs iš [[objektai/asmenys/Joachimas Lelevelis.md#claim-t-78034|Joachimas Lelevelis (istorikas, XVIII–XIX a.)]]: Istorikas Joachimas Lelevelis dirbo universitete jo klestėjimo laikotarpiu.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184731|Jogaila (kunigaikštis, XIV–XV a.)]]: Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir iškėlė vestuvių puotą.
 - susijęs iš [[objektai/asmenys/Johanas Pėteris Frankas.md#claim-t-18967|Johanas Pėteris Frankas]]: Johanas Pėteris Frankas dirbo Vilniaus universitete, o jo darbai buvo žinomi tarptautiniu mastu.
 - susijęs iš [[objektai/asmenys/Jonas (vadinamas Anlantu).md#claim-t-60344|Jonas (vadinamas Anlantu)]]: 1308 m. gegužės 1 d. kunigaikštis Jonas, vadinamas Anlantu, nužudė savo senelį Romos karalių Albrechtą.
@@ -212,7 +212,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - susijęs iš [[objektai/zodynas/karakolė.md#claim-t-42463|karakolė]]: Švedų raitarai, pasikliaudami karakoliavimo taktika, vengdavo artimo mūšio.
 - susijęs iš [[objektai/zodynas/landkomtūras.md#claim-t-58912|landkomtūras]]: Popiežius Celestinas III paskyrė septynis Teutonų ordino brolius landkomtūrais, arba provincijų valdytojais.
 - susijęs iš [[objektai/zodynas/raitarai.md#claim-t-42501|raitarai]]: Švedų raitarai, pasikliaudami karakoliavimo taktika, vengdavo artimo mūšio.
-- susijęs iš [[objektai/grupes/Lenkijos-Lietuvos valstybė.md#claim-t-188043|Lenkijos-Lietuvos valstybė]]: Įvadiniame straipsnyje Lenkijos-Lietuvos valstybė apibūdinama kaip po trečiojo padalijimo 1795 m. netekusi nepriklausomybės ir atsidūrusi Rusijos, Prūsijos bei Austrijos imperijų valdžioje.
 - susijęs iš [[objektai/asmenys/Albrechtas (Rudolfo sūnus).md#claim-t-60231|Albrechtas (Rudolfo sūnus)]]: Rudolfas, nukovęs Čekijos karalių Otokarą, Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.
 ## Reikšmingi paminėjimai
 
@@ -252,5 +251,4 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 ## Ryšiai
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] gime Austrija
 - [[objektai/vietos/Galicija]] priklause Austrija
-- [[objektai/grupes/Lenkijos-Lietuvos valstybė]] priklause Austrija
 - [[objektai/asmenys/Albrechtas (Rudolfo sūnus)]] valde Austrija

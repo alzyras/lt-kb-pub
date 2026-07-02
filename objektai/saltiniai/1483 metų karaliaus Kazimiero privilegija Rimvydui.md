@@ -22,24 +22,28 @@ amziai:
 Narbutas teigia radęs 1483 m. karaliaus Kazimiero privilegiją, rašytą rusų kalba ant pergamento. Jo perteikimu, privilegija suteikė Rimvydui žemę prie Merkio ir buvo siejama su Merkinės valsčiaus valstiečių maišto nuslopinimu.
 
 ## Teiginiai
-
-<a id="claim-t-188031"></a>
-- t-001
-  global_id: t-188031
-  teiginys: 'Narbutas 1483 m. karaliaus Kazimiero privilegijoje Rimvydui, rašytoje rusų kalba ant pergamento, ieškojo katino kaip Lietuvos simbolio įrodymo.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys suformuluotas apie šaltinį ir Narbuto interpretacinį naudojimą, todėl palikta autoriaus atribucija. Nepridėta platesnių teiginių apie Leicį ar Merkinės maištą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Merkinė; mentioned_place: Trakai; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1483 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys suformuluotas apie šaltinį ir Narbuto interpretacinį naudojimą, todėl palikta autoriaus atribucija. Nepridėta platesnių teiginių apie Leicį ar Merkinės maištą.'
+- t-002
+  teiginys: 'Narbutas 1483 m. karaliaus Kazimiero privilegijoje Rimvydui rado įrodymą, kad katinas lietuviams buvęs Lietuvos simbolis.'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 224019-224729; hash=be7943a662539bafd2a3dbcc4cc4fbc12d5dcd7d33a4dcd86dd823d65d684b80; match=exact
+  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: 1483 metų karaliaus Kazimiero privilegija Rimvydui: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1483 metų karaliaus Kazimiero privilegija Rimvydui" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Narbutas 1483 m. karaliaus Kazimiero privilegijoje Rimvydui, rašytoje rusų kalba ant pergamento, ieškojo katino kaip Lietuvos simbolio įrodymo.'
+  santrauka: 'Narbutas 1483 m. karaliaus Kazimiero privilegijoje Rimvydui rado įrodymą, kad katinas lietuviams buvęs Lietuvos simbolis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Murgų, arba Tautų sambūrio, rūmai
@@ -59,10 +63,10 @@ Narbutas teigia radęs 1483 m. karaliaus Kazimiero privilegiją, rašytą rusų 
     didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
     liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
     (Lietwii) ženklas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

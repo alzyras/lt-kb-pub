@@ -9,12 +9,12 @@ date_start: '1998'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
+tags:
+  - autorius
 ---
 # V. Visockas
 
@@ -27,26 +27,30 @@ V. Visockas nurodytas „Lietuvių tautos istorijos“ leidinio redaktorių kole
 - Lietuvių tautos istorija
 
 ## Teiginiai
-
-<a id="claim-t-187944"></a>
-- t-001
-  global_id: t-187944
+- t-002
   teiginys: 'V. Visockas buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie V. Visocką ir remiasi redaktorių kolegijos sąrašu. Papildomų faktų prie OCR triukšmingos antraštinės informacijos nepridėta.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Reda Griškaitė|Reda Griškaitė]]; mentioned_author: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1474-1989; hash=36c34ec000efea0571c7d9e1464e9454bf3cc392dedf897397f07fd1caa060cc; match=exact
+  sprendimo_priezastis: gap::authors
+  ryšio_patikimumas: susije_su -> Reda Griškaitė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: V. Visockas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Reda Griškaitė: mention_match, author, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "V. Visockas" parinktas kaip owner_note_path. Targetas "Reda Griškaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188050|Norbertas Vėlius]]: Norbertas Vėlius nurodytas kaip vieno šio leidinio įvedamojo straipsnio autorius.
 - susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188052|Norbertas Vėlius]]: Norbertas Vėlius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
-- susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius – įvedamųjų straipsnių autoriais.
+- susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.
 - susijęs iš [[objektai/autoriai/E. Aleksandravičius.md#claim-t-187793|E. Aleksandravičius]]: E. Aleksandravičius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
 - susijęs iš [[objektai/autoriai/Z. Kiaupa.md#claim-t-187794|Z. Kiaupa]]: Z. Kiaupa buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
-- susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188050|Norbertas Vėlius]]: Norbertas Vėlius nurodytas kaip vieno šio leidinio įvedamojo straipsnio autorius.
-- susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188052|Norbertas Vėlius]]: Norbertas Vėlius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'V. Visockas buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Wilno, naktadem i drukiem
@@ -66,10 +70,10 @@ V. Visockas nurodytas „Lietuvių tautos istorijos“ leidinio redaktorių kole
     Norbertas Vėlius, 1992, 1998
     Įvedamasis straipsnis, paaiškinimai,
     papildymų vertimas, Reda Griškaitė,
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

@@ -77,8 +77,7 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - susijęs iš Biržai: Švedų antplūdžio metu sunykus protestantų mokykloms, Biržuose liko silpna mokyklėlė.
 - susijęs iš Mažoji Lietuva: 1921 m. lapkričio 11 d. Steigiamasis Seimas vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį, demonstruodamas vienybę su Mažąja Lietuva.
 - susijęs iš Sluckas: Į karaliaus stovyklą atbėgę žmonės teigė, kad dvidešimt tūkstančių priešų liko prie Slucko.
-- susijęs iš Vilnius: Mikalojus Radvila Juodasis Lukiškėse pastatė kalvinų bažnyčią ir traukė į ją vilniečius.
-- susijęs iš Vilnius: Karalius Vilniuje užkirto kelią piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.
+- susijęs iš Vilnius: Narbutas piktukų pavadinimą siejo su žodžiu „piktas“ ir minėjo netoli Vilniaus esantį Piktukonių kaimą.
 - susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86464|disidentai reformatai reformatoriai]]: Lietuvos disidentai reformatai nepajėgė sutelkti tokių stiprių pajėgų kovai su Vilniaus jėzuitais.
 - susijęs iš [[objektai/zodynas/karakolė.md#claim-t-183710|karakolė]]: Karakolės metu priekinė šaulių eilė, iššovusi salvę, pasisukdavo dešinėn, grįždavo į rikiuotės galą ir ten užtaisydavo ginklus.
 - susijęs iš [[objektai/zodynas/karakolė.md#claim-t-42460|karakolė]]: Karakolė, arba „sraigė“, reiškė šaulių priekinės eilės pasitraukimą į rikiuotės galą po salvės.

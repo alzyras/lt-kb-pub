@@ -120,8 +120,8 @@ periodo_grupes:
 - susijęs iš [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.).md#claim-t-75095|Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.
 - susijęs iš [[objektai/paprociai/Milenaristinės krikščioniškos misijos ir valdovų krikštai.md#claim-t-54312|Milenaristinės krikščioniškos misijos ir valdovų krikštai]]: Pirmasis krikštas Lietuvoje siejamas su Brunono Bonifacijaus misija, Netimero įtikėjimu ir krikščioniškosios Europos tūkstantmečio idėja.
 - susijęs iš [[objektai/asmenys/Adalbertas.md#claim-t-18754|Adalbertas]]: Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176337|Gediminas]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-183532|Gediminas]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176337|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-183532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
 - susijęs iš [[objektai/asmenys/Mieška.md#claim-t-78066|Mieška]]: Lenkijos valdovas Mieška krikštijosi 966 m.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113903|Mindaugas (valdovas, XIII a.)]]: Mindaugo krikštas ir karalystė nepanaikino pagoniškų dievų vaidmens Lietuvoje.
 - susijęs iš [[objektai/asmenys/Olafas (Norvegijos valdovas).md#claim-t-19180|Olafas (Norvegijos valdovas)]]: Norvegijos valdovas Olafas 997 m. pradėjo šalies christianizaciją.

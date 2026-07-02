@@ -56,6 +56,7 @@ Dusburgietis teigia, kad įvyko šitaip todėl, kad pats Kristus, kuris ir plaka
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78424|Pamedėnai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
 - susijęs iš [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md#claim-t-89177|Prūsijos naujakrikščiai atsimetėliai]]: Po Vokietijos kunigaikščių žygių minėti Prūsijos naujakrikščiai atsimetėliai grįžo į tikėjimą ir iš naujo pasidavė broliams.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78547|Varmiai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
+- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-188290|Pamedėnai]]: Narbutas rašo, kad pamedėnai turėjo prisiekti nepriimti krikščionių tikėjimo ir ginti savo senąjį tikėjimą.
 - susijęs iš [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md#claim-t-89179|Prūsijos naujakrikščiai atsimetėliai]]: 1251 m. Brandenburgo markgrafas, o kitais metais Merzeburgo vyskupas ir grafas Henrikas iš Svarcburgo niokojo atsimetėlių žemes Prūsijoje.
 ## Reikšmingi paminėjimai
 

@@ -24,4 +24,4 @@ Objektų skaičius: 4.
 ### Autoriai
 - [[objektai/autoriai/Andrius Rudamina]]
 - [[objektai/autoriai/Grigorijus Camblakas]]
-- [[objektai/autoriai/Ksaveras Bogušas]]
+- [[objektai/autoriai/Ksaveras Bogušas|Ksaveras Bogušas (kunigas, XIX a.)]]

@@ -1,0 +1,67 @@
+---
+tipas: posakis
+pavadinimas: 'Nors žuvo valstybė, bet neleiskime žūti tautai'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+sukurta: ''
+atnaujinta: ''
+---
+# Nors žuvo valstybė, bet neleiskime žūti tautai
+
+## Forma
+
+„Nors žuvo valstybė, bet neleiskime žūti tautai“
+
+## Laikotarpis ir datos
+
+- laikotarpis: XVIII a. pab.-XIX a. pr. kontekstas
+
+## Kontekstas ir vartojimas
+
+Frazė užfiksuota T. Narbuto pirmojo tomo leidimo įvadinėje, recepcinėje arba mitologijos aiškinimo medžiagoje; jos viešas vartojimo kontekstas apibrėžiamas tik pagal pateiktą citatą.
+
+## Reikšmė
+
+Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartojama kaip neutrali istorinė išvada.
+
+## Teiginiai
+<a id="claim-t-189598"></a>
+- t-001
+  global_id: t-189598
+  teiginys: 'Posakis „Nors žuvo valstybė, bet neleiskime žūti tautai“ pateikiamas kaip svarbiausias to meto šviesuolių šūkis.'
+  pagrindžia:
+    - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 24531-25068; hash=a16c95110aca8349646b7c4efd7386fcabaf89c7ff98e456c2725bc5b2d5fe3c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nors žuvo valstybė, bet neleiskime žūti tautai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nors žuvo valstybė, bet neleiskime žūti tautai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Posakis „Nors žuvo valstybė, bet neleiskime žūti tautai“ pateikiamas kaip svarbiausias to meto šviesuolių šūkis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Naujų socialinių ekonominių santykių, nau­
+    jo gyvenimo būdo, naujos kultūros formavimasis čia sutapo
+    su tautinio išsivaduojamojo judėjimo stiprėjimu, su kova už
+    Lenkijos ir Lietuvos nepriklausomybę. Šviesiausi Lenkijos ir
+    Lietuvos protai suvokė, kad dar ne viskas prarasta ir, gelbstint
+    valstybę nuo galutinės pražūties, reikia palaikyti tautinę savi­
+    monę, puoselėti ir tirti gimtąją kalbą, papročius, istoriją -  kel­
+    ti tautinę kultūrą. „Nors žuvo valstybė, bet neleiskime žūti tau­
+    tai“ -  toks svarbiausias to meto Šviesuolių šūkis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

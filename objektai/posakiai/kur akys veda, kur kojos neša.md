@@ -36,6 +36,7 @@ Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link
   ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=46
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kur akys veda, kur kojos neša" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179285|Lietuviai]]: Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190600|Lietuviai]]: Narbutas mirusiųjų deginimą kildino iš indų ir teigė, kad vėlyvojoje lietuvių stabmeldystėje jis taikytas tik žymesniems žmonėms.
 - susijęs iš [[objektai/ivykiai/Dobrynės kunigaikštystės apiplėšimas ir 70 lietuvių žūtis (1300 m.).md#claim-t-62769|Dobrynės kunigaikštystės apiplėšimas ir 70 lietuvių žūtis (1300 m.)]]: Brolių kariuomenė nukovė 70 lietuvių, išgelbėjo daug belaisvių krikščionių, o likę lietuviai bėgdami prarado daug žmonių ir arklių.
 ## Reikšmingi paminėjimai
 

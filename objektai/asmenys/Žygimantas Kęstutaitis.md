@@ -5,32 +5,37 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1330 m.'
   - '1440 m.'
 date_start: '1330'
 date_end: '1440'
+description: 'Žygimantas Kęstutaitis – Lietuvos didysis kunigaikštis, siejamas su Pabaisko pergale, kova su Švitrigaila ir nužudymu Trakuose.'
+socialDescription: 'Žygimanto Kęstutaičio biografija: valdžia Vilniuje ir Trakuose, konfliktas su Švitrigaila, Pabaisko pergalė ir žūtis 1440 m.'
+seo_atnaujinta: '2026-07-02T19:20:23.360023+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - karalius
-  - kunigaikštis
-  - valstybė
 amziai:
   - 'XIV'
   - 'XV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - karalius
+  - kunigaikštis
+  - valstybė
 ---
 # Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)
 
 ## Santrauka
 
-Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai ## Puslapis 69 Žygimanto Kęstutaičio valPo pralaimėjimo Lietuvai yr A \ Vidinė politinė kova. Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galėjo didžiausias lietuvių jėgas“, gavęs prašytos pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus. Didysis kunigaikštis Žygimantas Kęstutaitis pergalei atminti pastatė parapinę bažnyčią (1436- 1440 m.), kuri daug kartų perstatyta ir šiandien tebestovi Pabaiske.
+Žygimantas Kęstutaitis buvo Lietuvos didysis kunigaikštis, rugsėjo 1 d. pasodintas Vilniuje ir Trakuose. Jo valdymą lydėjo vidinė politinė kova su Švitrigaila, žiaurūs susidorojimai ir 1435 m. Pabaisko pergalė. 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje, o jo sūnus Mykolas ištremtas.
 
 ## Teiginiai
-
 <a id="claim-t-114099"></a>
 - t-001
   global_id: t-114099
@@ -262,7 +267,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia datą, sąlygas ir valdovo statusą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Lenkija; mentioned_place: Starodubas; mentioned_place: Trakai; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/Priesaika|Priesaika]]; mentioned_place: Lenkija; mentioned_place: Starodubas; mentioned_place: Trakai; mentioned_place: Volynė; llm_object: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia datą, sąlygas ir valdovo statusą.'
@@ -337,15 +342,34 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 773988-775296; hash=e6ba44199dc0c01c77932496706540c258300f93bf007f9d00cef0059469567e; match=ocr_normalized_gapped
+  saltinio_vieta: 732082-732661; hash=1eae4bfaa10fe3dee3b7c5b16a8822e13984c6f5bad4cef8574d1061a0faaab3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lenkija: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Volynė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo planuotą Volynės prijungimą prie Lenkijos karalystės.
+
+<a id="claim-t-188660"></a>
+- t-018
+  global_id: t-188660
+  teiginys: 'Narbutas aprašė, kad 1436 m. Žygimanto Kęstutaičio didžiajame antspaude buvo keturi herbiniai skydai, tarp jų Lietuvos Vytis.'
+  pagrindžia:
+    - c-017
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 732082-732661; hash=1eae4bfaa10fe3dee3b7c5b16a8822e13984c6f5bad4cef8574d1061a0faaab3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žygimantas buvo paskelbtas didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186737|Švitrigailos užpuolimas Ašmenoje]]: Po užpuolimo Ašmenoje Švitrigaila pabėgo su nedidele palyda, o jo žmona, dvariškiai, regalijos, iždas ir kanceliarija atiteko Žygimantui Kęstutaičiui.
 - susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.).md#claim-t-185845|Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.)]]: Švitrigaila paspruko į Smolenską, o Žygimantas Kęstutaitis be kraujo praliejimo perėmė Vilnių, Trakus, Gardiną ir kitas Lietuvos pilis.
 - susijęs iš [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to).md#claim-t-185549|Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]: Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.
@@ -356,7 +380,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 - susijęs iš Vilnius: Lietuvos metraštis nurodo, kad rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
 - susijęs iš Vilnius: 1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1440 m. balandį Žygimantas Kęstutaitis buvo sąmokslininkų nužudytas Trakų pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -763,6 +786,28 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+- c-017
+  santrauka: 'Narbutas aprašė, kad 1436 m. Žygimanto Kęstutaičio didžiajame antspaude buvo keturi herbiniai skydai, tarp jų Lietuvos Vytis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Antrame ant­
+    spaude, prispaustame šalia šito, skyde yra Vytis po karūna;
+    apačioje -  Radvilų herbas Trimitai*.
+    Lietuvos didžiojo kunigaikščio Žygimanto Kęstutaičio di­
+    džiajame antspaude, įspaustame vaške ir prikabintame prie
+    autentiško 1436 metų rašto (mačiau tikslų antspaudo piešinį),
+    yra keturi herbiniai skydai; viename, kurį kaire ranka laiko
+    kunigaikštis, sėdintis soste su kalaviju dešinėje rankoje, pa­
+    vaizduotas Lietuvos Vytis; tai visos Lietuvos herbas. Antrame
+    skyde -  bėgantis lokys, nugręžtas į dešiniąją skydo pusę; tai
+    tėvoninės Žemaičių kunigaikštystės herbas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-018
 
 ## Ryšiai
 - [[objektai/asmenys/Mykolas]] buvo_sunus Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)

@@ -163,6 +163,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97457|Kaributas]]: Kaributas, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.
 - susijęs iš [[objektai/asmenys/Karigaila.md#claim-t-63794|Karigaila]]: Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179723|Švitrigaila]]: Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-188512|Algirdas (Lietuvos valdovas)]]: Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176506|Julijona (Algirdo žmona)]]: Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176507|Julijona (Algirdo žmona)]]: Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176512|Julijona (Algirdo žmona)]]: Ivinskio veikale Julijona tiesiogiai pristatoma kaip Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona.
@@ -342,6 +343,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 ## Ryšiai
 - [[objektai/asmenys/Kaributas]] buvo_sunus Julijona
 - [[objektai/asmenys/Karigaila]] buvo_sunus Julijona
+- Julijona buvo_zmona [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Julijona buvo_zmona [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Švitrigaila]] buvo_sunus Julijona
 - [[objektai/asmenys/Paulius Rusdorfas]] reme Julijona

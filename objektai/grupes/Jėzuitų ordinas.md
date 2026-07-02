@@ -6,6 +6,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1540 m.'
   - '1569 m.'
@@ -16,14 +17,14 @@ date_start: '1540'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
+  - 'XXI'
 tags:
   - grupe
   - kunigas
   - ordinas
   - privilegija
-amziai:
-  - 'XVI'
-  - 'XXI'
 ---
 # Jėzuitų ordinas
 
@@ -32,7 +33,6 @@ amziai:
 Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kovai su plintančiu protestantizmu. Be to, vienas iš didžiausių jėzuitų nuopelnų buvo tas, kad jie pirmieji susirūpino liaudimi. Vilniaus vyskupas Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo ir rūpindamasis kovoti su protestantais, atsikvietė į Vilnių jėzuitų; jie čia įkūrė pirmą aukštesniąją mokyklą Lietuvoje, vadinamą kolegija (žiūr.
 
 ## Teiginiai
-
 <a id="claim-t-172107"></a>
 - t-001
   global_id: t-172107
@@ -72,8 +72,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   global_id: t-172109
   teiginys: 'Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pirmasis pakvietė jėzuitų ordiną į Vilnių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Jėzuitų ordinas|Jėzuitų ordinas]] keliavo į Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatą.'
@@ -223,7 +222,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   global_id: t-172120
   teiginys: 'Karalius vyskupo Protasevičiaus funduotą ir aprūpintą jėzuitų kolegiją pakėlė iki universiteto laipsnio.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti tikslesnį sakinį apie jėzuitų kolegiją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]'
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
@@ -246,7 +244,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   pagrindžia:
     - c-017
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 389935-390154; hash=e4e4c23f3ef803c67d42ed5ba1b8889d54dabe681358fac48dce85bb101cdc5e; match=whitespace_regex
+  saltinio_vieta: 654201-654577; hash=0fb3ccba74cb5114f412838860a505e6308770e1b0f1184a98d009bfe1cb65cc; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Namas: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -310,15 +308,8 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   pagrindžia:
     - c-018
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 583845-584445; hash=82b58c2d00e1546d4e59559f11f9d0fa01aec151b9352ea99efa224dc595eac7; match=whitespace_regex
+  saltinio_vieta: 655770-656093; hash=f50e3a7cdefbb692df3d90d2795a12987f957e4fa8efc65afbbb247e5a58ff2e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Valerijonas (raštininkas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Valerijonas (raštininkas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Valerijonas (raštininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-172129"></a>
 - t-019
@@ -363,7 +354,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e69603eaa22b5a0b2e9e3abc3ef93f0db841ec8f1449e16e949ed3041a68e092; match=fallback; occurrences=0
+  saltinio_vieta: 652895-653322; hash=39864c90e5162cf7f52456b2411ee5633b1906a159e9f183545ea3a22ff6444b; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Brasta: 0.83
   ryšio_patikimumo_lygis: vidutinis
@@ -385,7 +376,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   pagrindžia:
     - c-019
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 389935-390154; hash=e4e4c23f3ef803c67d42ed5ba1b8889d54dabe681358fac48dce85bb101cdc5e; match=whitespace_regex
+  saltinio_vieta: 654201-654577; hash=0fb3ccba74cb5114f412838860a505e6308770e1b0f1184a98d009bfe1cb65cc; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Namas: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -417,8 +408,116 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   ryšio_targeto_parinkimas: Valerijonas Protasevičius (vyskupas): mention_match, person, gap=50
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Valerijonas Protasevičius (vyskupas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
-## Reikšmingi paminėjimai
+<a id="claim-t-188198"></a>
+- t-025
+  global_id: t-188198
+  teiginys: '1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė kunigą Jokūbą Lencicijų su dviem bičiuliais misionieriais.'
+  pagrindžia:
+    - c-021
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 652895-653322; hash=39864c90e5162cf7f52456b2411ee5633b1906a159e9f183545ea3a22ff6444b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188199"></a>
+- t-026
+  global_id: t-188199
+  teiginys: 'Narbutas perteikia jėzuitų istoriko pasakojimą, kad, jėzuitams naikinant senojo tikėjimo liekanas, kilo audra ir griausmas.'
+  pagrindžia:
+    - c-022
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 653781-654200; hash=c03dfdf75ca519c607646aa39f541b14385b1c4e312e100ecc1606cc47ffa4af; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+<a id="claim-t-188200"></a>
+- t-027
+  global_id: t-188200
+  teiginys: 'Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus į dieceziją, kurioje stigo krikščioniško mokymo.'
+  pagrindžia:
+    - c-023
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 654201-654577; hash=0fb3ccba74cb5114f412838860a505e6308770e1b0f1184a98d009bfe1cb65cc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Melchioras Giedraitis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group
+  ryšio_targeto_parinkimas: Melchioras Giedraitis: mention_match, person, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Melchioras Giedraitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188201"></a>
+- t-028
+  global_id: t-188201
+  teiginys: 'Narbutas nurodo ordino istoriko pasakojimą, kad iš nukirsto didelio ąžuolo drevės išskrido sparnuota nepaprasto dydžio rupūžė.'
+  pagrindžia:
+    - c-024
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 654578-654939; hash=c70a763f1e5a56ce483c0dcb16692d6df20099e9593bb65673402bbf18c79600; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+<a id="claim-t-188202"></a>
+- t-029
+  global_id: t-188202
+  teiginys: '1618 m. Kražiuose įsitvirtinę jėzuitai savo misijoje rado apie šešis tūkstančius neapkrikštytų valstiečių.'
+  pagrindžia:
+    - c-025
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 654940-655536; hash=e43bde27b79e8f806edd1d4e19a0c65a7eaaf7fd9aa8ea90d35afe943d73aa5a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kražiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group
+  ryšio_targeto_parinkimas: Kražiai: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Kražiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188203"></a>
+- t-030
+  global_id: t-188203
+  teiginys: 'Narbutas rašo, kad jėzuitai minėtose vietovėse išdraskė šešis altorius ir iškirto aukojimams skirtus ąžuolus bei liepas.'
+  pagrindžia:
+    - c-026
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 655770-656093; hash=f50e3a7cdefbb692df3d90d2795a12987f957e4fa8efc65afbbb247e5a58ff2e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Altorius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group
+  ryšio_targeto_parinkimas: Altorius: mention_match, thing, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Altorius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -435,13 +534,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     susuktą gūžtą49.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-022
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -452,13 +549,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     ti vientisą švietimo sistemą.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   santrauka: 'Jėzuitai 1579 m. įkūrė Vilniaus universitetą, vieną svarbiausių Baroko epochos kultūros dėmenų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -471,13 +566,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     kultūros dėmenys.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-006
-
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -492,13 +585,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     mas Lietuvoje virto nenutrūkstamu procesu.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-010
-
 - c-005
   santrauka: 'Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -514,13 +605,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-009
-
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -533,14 +622,12 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     komisijos veikla.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-017
     - t-016
-
 - c-007
   santrauka: '1569 m. jėzuitų ordino pasirodymas Lietuvoje siejamas su simboline Baroko epochos pradžia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -555,13 +642,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     tas 1579 m.).
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-019
-
 - c-008
   santrauka: 'Disidentai negalėjo sutelkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos regulų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -579,13 +664,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     žygį į Čiašnikus.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-007
-
 - c-009
   santrauka: '1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -604,13 +687,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-005
-
 - c-010
   santrauka: 'Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pirmasis pakvietė jėzuitų ordiną į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -634,13 +715,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     mingų faktų, kurie padarė stiprią įtaką viso krašto likimui.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
-
 - c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -655,13 +734,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     pitula jo biblioteką atidavė jėzuitams.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-020
-
 - c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -677,14 +754,12 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     mijoms, o išskirtinai Krokuvos, prilygino.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
     - t-014
-
 - c-013
   santrauka: '1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -698,13 +773,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     švietimo sistemą.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-008
-
 - c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -722,13 +795,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     1581 metų liepos 7 dieną.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-011
-
 - c-015
   santrauka: 'Karalius vyskupo Valerijono Protasevičiaus funduotą jėzuitų kolegiją pakėlė iki universiteto laipsnio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -750,14 +821,12 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     jėzuitų priežiūrai ir globai58.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-015
     - t-012
-
 - c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -770,13 +839,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     (net Kinijoje!).
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-021
-
 - c-017
   santrauka: 'Šv. Jono bažnyčios klebonas Adomas Ancypa padavė skundą prieš ankstesniuosius tėvus jėzuitus dėl bažnyčios fundacijų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -795,13 +862,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     mokyklai, prie kolegijos prijungė.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-013
-
 - c-018
   santrauka: '1687 m. jėzuitai suremontavo mūrinį namą, atidavė jį vaistinei ir pavedė vaistininkui kasmet mokėti po 140 auksinų bažnyčiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -813,14 +878,12 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     mokėti kasmet po 140 auksinų bažnyčios labui.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-018
     - t-001
-
 - c-019
   santrauka: 'Vilniaus kapitula perleido Akademijos kolegijos rektoriams jėzuitams teisę siūlyti nuolatinį Šv. Jono bažnyčios vikarą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -835,13 +898,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     2 dieną patvirtinta.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-023
-
 - c-020
   santrauka: 'Andrius Klingeris, jėzuitų Lietuvos provincijos viršininkas, pasirašė leidimą spausdinti pirmąją Lietuvos istorijos dalį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -864,12 +925,120 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     tuvėje, negalėjo spausdinti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-024
+- c-021
+  santrauka: '1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė kunigą Jokūbą Lencicijų su dviem bičiuliais misionieriais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    1583 metais jėzuitai į Žemaičius ir į Livoniją pa­
+    siuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiu­
+    lius. Ten jie rado pagonybės likučių ir juos skrupulingai išnaiki­
+    no. Tai buvo senųjų dievų simboliai: nežinomos rūšies gyvūnų
+    kaulai, įvairūs amuletai, sukabinti ant namų sienų ir dvivėrių
+    durų. Tuos likučius misionieriai trypė kojomis, mėtė į ugnį. Šven­
+    tuosius medžius įsakė nukirsdinti, žalčius išžudyti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-025
+- c-022
+  santrauka: 'Narbutas perteikia jėzuitų istoriko pasakojimą, kad, jėzuitams naikinant senojo tikėjimo liekanas, kilo audra ir griausmas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Anot jėzuitų istoriko pasakojimo, velniui padedant tuoj pat kilo
+    audra su tokiu baisiu griausmu, jog net namai drebėjo. Aplink
+    buvo girdimas įvairių žvėrių riaumojimas. Tačiau jėzuitai neišsi­
+    gando, elgėsi drąsiai ir nebaudžiami naikino senojo tikėjimo lie­
+    kanas ir vaizdinius. O šių reiškinių pasireiškimus aiškino kaip
+    krikščioniško Dievo įrodymą ir piktosios dvasios, įsikūnijusios į
+    stabus, menkumo demonstravimą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-026
+- c-023
+  santrauka: 'Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus į dieceziją, kurioje stigo krikščioniško mokymo.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Taip jų mokslas rado mora­
+    linę atramą. Po ketverto metų Žemaičių vyskupas Melchioras
+    Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­
+    miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
+    niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
+    kai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
+    kunigas Jeronimas Kninskis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-027
+- c-024
+  santrauka: 'Narbutas nurodo ordino istoriko pasakojimą, kad iš nukirsto didelio ąžuolo drevės išskrido sparnuota nepaprasto dydžio rupūžė.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Liaudis jų pamokymus priimdavo
+    nuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­
+    lų ir šventųjų girių iškirtimui. Ordino istorikas net aprašo įvykį,
+    kai, nukirtus didžiu lį ąžuolą, iš jo drevės su sparnais didžiausiu
+    triukšmu ir bildesiu išskrido (evolavit), nepaprasto dydžio rupū­
+    žė. O tai, autoriaus žodžiais tariant, turėjo būti velnias.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-028
+- c-025
+  santrauka: '1618 m. Kražiuose įsitvirtinę jėzuitai savo misijoje rado apie šešis tūkstančius neapkrikštytų valstiečių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Nepai­
+    sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
+    Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
+    ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­
+    gų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
+    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
+    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
+    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
+    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
+    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-029
+- c-026
+  santrauka: 'Narbutas rašo, kad jėzuitai minėtose vietovėse išdraskė šešis altorius ir iškirto aukojimams skirtus ąžuolus bei liepas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Visa tai turėjo tik aukotojai. Minėtose
+    vietovėse jėzuitai išdraskė net šešis altorius, taip pat iškirto ąžuo­
+    lus (jiems aukas atnašaudavo vyrai) ir liepas (joms atnašauda­
+    vo moterys). Ten pat jie sunaikino ir svečių dievuko, vadinto Ce-
+    rokliu, garbinimą; jam atiduodavo pirmąjį maisto kąsnį ir pir­
+    mąją gėrimo taurę23.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-030
 
 ## Ryšiai
 - Jėzuitų ordinas keliavo_i [[objektai/vietos/Lietuva]]

@@ -41,36 +41,42 @@ Nenurodyta
 Lenkijos-Lietuvos valstybė neteko nepriklausomybės ir priklausė trims imperijoms.
 
 ## Teiginiai
-
-<a id="claim-t-187973"></a>
-- t-001
-  global_id: t-187973
-  teiginys: 'Po trečiojo padalijimo Lenkijos-Lietuvos valstybės teritorijos priklausė Rusijos, Prūsijos ir Austrijos imperijoms.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys gramatiškai ir tiesiogiai nurodo po padalijimo susiklosčiusią priklausomybę trims imperijoms. Nepridedama teritorinio padalijimo detalių.'
-  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Europa'
-  temporaliniai_duomenys: 'priklausymo laikotarpis: 1795 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai ir tiesiogiai nurodo po padalijimo susiklosčiusią priklausomybę trims imperijoms. Nepridedama teritorinio padalijimo detalių.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-187974"></a>
-- t-002
-  global_id: t-187974
+- t-003
   teiginys: 'Po trečiojo padalijimo 1795 m. Lenkijos-Lietuvos valstybė visiškai neteko nepriklausomybės.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Sakinys aiškiai nusako trečiojo padalijimo pasekmę Lenkijos-Lietuvos valstybei. Jame nėra papildomos, citata nepagrįstos interpretacijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos-Lietuvos valstybė|Lenkijos-Lietuvos valstybė]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Europa; mentioned_place: Prūsija'
-  temporaliniai_duomenys: 'įvykio data: 1795 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai nusako trečiojo padalijimo pasekmę Lenkijos-Lietuvos valstybei. Jame nėra papildomos, citata nepagrįstos interpretacijos.'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 24010-24729; hash=e88b752a8993ffa8a2c1a539ccd276cc04be9dc7541e5f1dd9a07b4e73c5c9b6; match=exact
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- t-004
+  teiginys: 'Po trečiojo padalijimo Lenkijos-Lietuvos valstybės teritorijos priklausė Rusijos, Prūsijos ir Austrijos imperijoms.'
+  pagrindžia:
+    - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 24010-24729; hash=e88b752a8993ffa8a2c1a539ccd276cc04be9dc7541e5f1dd9a07b4e73c5c9b6; match=exact
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=91
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.)" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Po trečiojo padalijimo 1795 m. Lenkijos-Lietuvos valstybė visiškai neteko nepriklausomybės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Sis judėjimas su­
@@ -86,14 +92,15 @@ Lenkijos-Lietuvos valstybė neteko nepriklausomybės ir priklausė trims imperij
     jo gyvenimo būdo, naujos kultūros formavimasis čia sutapo
     su tautinio išsivaduojamojo judėjimo stiprėjimu, su kova už
     Lenkijos ir Lietuvos nepriklausomybę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-001
+    - t-003
+    - t-004
+
 ## Data ir vieta
 
 Data: 1795 m.

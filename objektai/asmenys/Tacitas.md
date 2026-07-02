@@ -10,16 +10,16 @@ date_start: '1000'
 date_end: '1009'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - karalius
-  - krikštas
-  - kunigaikštis
 amziai:
   - 'X'
   - 'XI'
 periodo_grupes:
   - 'viduramžiai'
+tags:
+  - asmuo
+  - karalius
+  - krikštas
+  - kunigaikštis
 ---
 # Tacitas
 
@@ -28,7 +28,6 @@ periodo_grupes:
 Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Lietuvos vardo.
 
 ## Teiginiai
-
 <a id="claim-t-78071"></a>
 - t-001
   global_id: t-78071
@@ -49,7 +48,6 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tacitas" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Nuo Tacito aisčių paminėjimo iki Lietuvos vardo pasirodymo praėjo beveik tūkstantis metų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

@@ -72,6 +72,9 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
 - susijęs iš [[objektai/grupes/Valerijono Bursos studentų bendrija.md#claim-t-81661|Valerijono Bursos studentų bendrija]]: Valerijono Bursa buvo skirta laisvam studentų gyvenimui, nepriklausomai nuo jų tautybės.
 - susijęs iš [[objektai/paprociai/Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra.md#claim-t-87306|Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra]]: Valerijono Bursoje prefektas arba senjoras turėjo prižiūrėti, kad studentai laikytųsi pamaldumo, garbingumo, broliškos santarvės ir papročių.
 - susijęs iš Vilnius: Vilniuje Bernardinų gatvėje mūrinis namas buvo padovanotas kaip bursa neturtingiems studijas tęsiantiems studentams.
+- susijęs iš [[objektai/daiktai/Buthas.md#claim-t-189676|Buthas]]: Narbutas Buthą apibūdina kaip ąžuolinę dvasininko lazdą, liaudies kalba vadintą valdžios ženklu ir turėjusią šakotą viršūnę su kutais.
+- susijęs iš [[objektai/daiktai/Buthas.md#claim-t-189677|Buthas]]: Narbutas Buthą aprašo kaip paprasto dvasininko ar vaidilos teisėjo galią žymėjusią ąžuolinę lazdą su kreiva šaka ir vienu kutu.
+- susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189437|Kriviai ir Krivių Krivaičiai]]: Narbutas krivio valdžios ženklą Buthstus aprašo kaip ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais.
 - susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-173021|jurisdikcija]]: Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.
 ## Reikšmingi paminėjimai
 

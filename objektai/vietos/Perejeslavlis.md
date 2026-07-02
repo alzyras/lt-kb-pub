@@ -131,4 +131,4 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] uzeme Perejeslavlis
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzeme Perejeslavlis

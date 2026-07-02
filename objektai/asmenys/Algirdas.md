@@ -8,6 +8,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -19,28 +20,32 @@ aliases:
   - 'objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)'
 variantai:
   - 'Algirdas (Lietuvos valdovas, 1345 m.)'
+description: 'Algirdas – Lietuvos valdovas, su Kęstučiu perėmęs Vilnių, plėtęs valdžią Rusios žemėse ir 1362 m. laimėjęs prie Mėlynųjų Vandenų.'
+socialDescription: 'Algirdas siejamas su Vilniaus kunigaikštyste, Lietuvos galybės augimu rytuose, Mėlynųjų Vandenų pergale ir politinėmis derybomis dėl baltų žemių.'
+seo_atnaujinta: '2026-07-02T19:20:23.271330+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
 amziai:
   - 'XIII'
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
 ---
 # Algirdas (Lietuvos valdovas)
 
 ## Santrauka
 
-Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žemes ir plėtęs valstybę Rusios kryptimi. Jis siejamas su Vilniaus kunigaikštyste, Kijevo užėmimu, santuoka su Julijona ir pagonišku palaidojimu Vilniuje.
+Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus kunigaikštystę ir grąžinęs valstybei vienybę bei galią. Jo valdžia siejama su Lietuvos plėtra Rusios žemėse, pergale prie Mėlynųjų Vandenų, Kijevo paėmimu ir sūnaus Vladimiro įtvirtinimu ten. Šaltinyje pabrėžiamos ir 1358 m. derybos su Karoliu IV, kuriose Algirdas reikalavo kryžiuočius nukreipti į rytų stepes ir grąžinti baltų žemes.
 
 ## Vaidmenys
 
 - Lietuvos valdovas
 
 ## Teiginiai
-
 <a id="claim-t-05157"></a>
 - t-001
   global_id: t-05157
@@ -111,7 +116,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   global_id: t-10666
   teiginys: 'Algirdas valdė Krėvą ir Vitebską.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Krėva; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Naugardukas; mentioned_place: Turovas'
+  susije_objektai: 'llm_object: Krėva; llm_object: Vitebskas; mentioned_place: Krėva; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Naugardukas; mentioned_place: Turovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė Krėva; [[objektai/asmenys/Algirdas|Algirdas]] valdė Vitebskas'
   pagrindžia:
     - c-013
 
@@ -874,7 +880,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   pagrindžia:
     - c-047
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=501577d4c35f40847f95e7ac4ed47b8e799096408e62c4fcab57ecda99750a1b; match=fallback; occurrences=0
+  saltinio_vieta: 476007-476509; hash=19f55a1819e20d1708467f0ae21de0eddac7ef9f670344692e2e2e7b25c7f8ea; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Brasta: 0.83
   ryšio_patikimumo_lygis: vidutinis
@@ -928,6 +934,43 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
   ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Algirdas paėmė Kijevą į savo valdžią.
+
+<a id="claim-t-188511"></a>
+- t-054
+  global_id: t-188511
+  teiginys: 'Narbutas Algirdą vadina Smolensko kunigaikštytės Olgos sūnumi, gimusiu 1296 m., ir jo vardą aiškina kaip „Olgos meilę“.'
+  pagrindžia:
+    - c-050
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 364111-364502; hash=2ff09660dd30d343df32beed1842c4a081d8ba75ec8e653ec5a5f748bbd1685a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188512"></a>
+- t-055
+  global_id: t-188512
+  teiginys: 'Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę.'
+  pagrindžia:
+    - c-051
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 476007-476509; hash=19f55a1819e20d1708467f0ae21de0eddac7ef9f670344692e2e2e7b25c7f8ea; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: valde -> Krėva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krėva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys aiškiai sako, kad Algirdas valdė Krėvą.
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40370|Narimantas Gediminaitis]]: Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54944|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.
 - susijęs iš [[objektai/asmenys/Marija (Algirdo žmona).md#claim-t-87545|Marija (Algirdo žmona)]]: Marija buvo Tverės kunigaikštytė ir Algirdo žmona.
@@ -942,6 +985,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173249|Vladislovas Jogaila]]: Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią.
 - susijęs iš Podolė: Menkai gyvenamoje Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184692|Dimitras Kaributas]]: Dimitras Kaributas atsisakė mokėti Vytauto pasiuntinių reikalautus pinigus į Lietuvos didžiojo kunigaikščio iždą.
+- susijęs iš [[objektai/asmenys/Julijona Vitebskietė.md#claim-t-190105|Julijona Vitebskietė]]: Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaikinta Ragučio maldykla Didžiojoje gatvėje.
 - susijęs iš Polesė: Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.
 - susijęs iš [[objektai/autoriai/Karamzinas.md#claim-t-55009|Karamzinas]]: Balinskis teigė, kad Karamzinas Lietuvos istorijos įvykius dėstė gana paviršutiniškai.
 - susijęs iš Algirdo ir Dimitrijaus taikos sutartis: Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.
@@ -955,9 +999,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-82220|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir kovėsi su juo prieš totorius Kulikovo mūšyje.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-82221|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę.
 - susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-184255|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras kartu su Algirdu puolė totorių galybę, kuri Vytauto laikais jau buvo nusilpusi.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176330|Gediminas]]: Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176380|Gediminas]]: Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176330|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176380|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176438|Jaunutis (valdovas, XIV a.)]]: Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-12183|Julijona (Algirdo žmona)]]: Julijona, Algirdo žmona, viešpatavo Vitebske ir mirė 1392 m.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176510|Julijona (Algirdo žmona)]]: Julijona, Vitebsko kunigaikštytė, buvo antroji Algirdo žmona ir Polocko kunigaikščio Andriaus motina.
@@ -1066,6 +1110,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176314|Birutė]]: Birutė iš jų bus išmokęs skaityti ir rašyti.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176317|Birutė]]: Birutės ir Kęstučio meilės istorija laikoma vienu iš Lietuvos metraščiuose užrašytų epinių pasakojimų siužetų.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176318|Birutė]]: Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188516|Birutė]]: Narbutas rašo, kad Birutė, žuvus Kęstučiui ir valdant Vytautui, grįžo į Palangą ir 1416 metais ten mirė laikydamasi senojo tikėjimo.
 - susijęs iš [[objektai/asmenys/Chadžibėjus.md#claim-t-39502|Chadžibėjus]]: Chadžibėjus buvo vienas iš trijų vadų-kunigaikščių, kurių kariuomenė susirėmė su Lietuvos kariuomene.
 - susijęs iš [[objektai/asmenys/Ciprijonas.md#claim-t-35044|Ciprijonas]]: Ciprijonas buvo bulgaras ir atskiras Kijevo metropolitas Lietuvai, vėliau Maskvoje suvienijęs Rusijos ir Lietuvos stačiatikius.
 - susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-34718|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras puolė totorių galybę, kuri Vytauto laikais jau buvo žlugusi.
@@ -1080,9 +1125,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-40085|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Dmitrijus Kaributas.md#claim-t-87491|Dmitrijus Kaributas]]: Vytautas sumušė Dmitrijų Kaributą prie Nedokudovo, užėmė Seversko Naugardą ir suėmęs kunigaikštį uždarė Vilniaus Aukštutinėje pilyje.
 - susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-82294|Elžbieta]]: Elžbieta buvo Vengrijos karalienė ir Jadvygos motina.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176349|Gediminas]]: Gediminas dar labiau sutvirtino Mindaugo įkurtą Lietuvos valstybę ir davė pradžią naujai galingai dinastijai.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176361|Gediminas]]: Šv. Kryžiaus ir dominikonų bažnyčių griuvėsiai Vilniuje buvo laikomi Gedimino palankumo krikščionybei atminimu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176349|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas dar labiau sutvirtino Mindaugo įkurtą Lietuvos valstybę ir davė pradžią naujai galingai dinastijai.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
 - susijęs iš [[objektai/asmenys/Gotfridas Lindenas.md#claim-t-87508|Gotfridas Lindenas]]: Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną su Redigeriu Elneriu užimti Vilniaus.
 - susijęs iš [[objektai/asmenys/Gotfridas Lindenas.md#claim-t-87509|Gotfridas Lindenas]]: Ordino maršalas Gotfridas Lindenas sudegino Semeliškes Trakų paviete ir, nepajėgęs staiga užimti Vilniaus, grįžo plėšti apylinkių.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113787|Goštautas (vyskupas, XV a.)]]: Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
@@ -1100,6 +1144,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176511|Julijona (Algirdo žmona)]]: Julijoną su Rytų Bažnyčia siejo praeitis, tradicijos, tautybė ir jos giminės stačiatikių šventieji.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176514|Julijona (Algirdo žmona)]]: Algirdas buvo vedęs Vitebsko kunigaikštytę Julijoną.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113839|Julijona (Vytauto žmona)]]: Pasiligojusi Vytauto žmona Julijona buvo apsistojusi kunigaikščių kaime Memitz prie Vilniaus.
+- susijęs iš [[objektai/asmenys/Julijona Vitebskietė.md#claim-t-190105|Julijona Vitebskietė]]: Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaikinta Ragučio maldykla Didžiojoje gatvėje.
 - susijęs iš [[objektai/asmenys/Jurgis Cemblakas.md#claim-t-35173|Jurgis Cemblakas]]: Vytautas 1415 m. Naugarduke paskelbė Jurgį Cemblaką Kijevo metropolitu.
 - susijęs iš [[objektai/asmenys/Jurgis Narimantaitis.md#claim-t-186119|Jurgis Narimantaitis]]: Lenkijos karalius Kazimieras paliko visą Belzo kunigaikštystę Jurgiui Narimantaičiui.
 - susijęs iš [[objektai/asmenys/Karolis IV.md#claim-t-10089|Karolis IV]]: Karolis IV šiame šaltinyje įvardijamas Šv. Romos imperatoriumi.
@@ -1107,6 +1152,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184418|Kazimieras Didysis]]: Kazimieras Didysis į naujai statomus miestus pritraukė daug pasiturinčių žydų tautybės žmonių.
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87437|Kazimieras IV]]: Kazimieras IV 1440 metais suteikė Vilniaus miestiečiams privilegiją laisvai prekiauti Lietuvos valstybėje be muito.
 - susijęs iš [[objektai/asmenys/Konstantinas Karijotaitis.md#claim-t-186055|Konstantinas Karijotaitis]]: Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas tapti sosto įpėdiniu, pritarus karaliui Kazimierui ir lenkų senatui.
+- susijęs iš [[objektai/asmenys/Krunevičius.md#claim-t-190177|Krunevičius]]: Narbutas nurodė, kad Malachovskis pateikė žinių apie Gedimino suteiktą herbą Krunevičiui, bet šaltinis jam buvo neaiškus.
 - susijęs iš [[objektai/asmenys/Kutlubuga.md#claim-t-40301|Kutlubuga]]: Kutlubuga buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-05188|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1382 m. palaidotas pagoniškais papročiais.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176525|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis krikštu kaip priemone gintis nuo Vokiečių ordino karų daug nepasitikėjo.
@@ -1122,7 +1168,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93458|Liubartas]]: Liubartas vedė vienturtę Volynijos kunigaikščio įpėdinę.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93461|Liubartas]]: Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.
 - susijęs iš [[objektai/asmenys/Mykolas Tromba.md#claim-t-35257|Mykolas Tromba]]: Kanauninkas Mykolas Trombas buvo siunčiamas pas popiežių, bet Vokietijoje jį sulaikė Habsburgai.
+- susijęs iš [[objektai/asmenys/Neseckis.md#claim-t-190189|Neseckis]]: Narbutas nurodo, kad Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui.
 - susijęs iš [[objektai/asmenys/Olegas (Riazanės kunigaikštis).md#claim-t-87808|Olegas (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
+- susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-190235|Ostapas Kropotkovas]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
 - susijęs iš [[objektai/asmenys/Patrikas, arba Patricijus.md#claim-t-87816|Patrikas, arba Patricijus]]: Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173205|Petras Goštautas]]: Petras Goštautas pagonišką dievaičių buveinę pavertė bažnyčia ir pašventė ją Šv. Petro vardui.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173209|Petras Goštautas]]: Pasak Grzybowskio, Petras Goštautas Krokuvoje tapo pranciškonu, apsigyveno Vilniuje ir vertė miestiečius į krikščionybę.
@@ -1150,7 +1198,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176646|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kęstučio sūnus Vytautas Didysis valdė 1392–1430 m. ir laikytas iškiliausiu dinastijos atstovu.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176700|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis buvo Kęstučio sūnus ir valdė 1392–1430 m.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176703|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Pasiligojusi Vytauto žmona Julijona buvo apsistojusi prie Vilniaus buvusiame kunigaikščių kaime Memitz.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176818|Vytenis]]: Vytenis šiame šaltinyje žymi ilgo Lietuvos krikšto derybų laikotarpio pradžios valdovą.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176818|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis šiame šaltinyje žymi ilgo Lietuvos krikšto derybų laikotarpio pradžios valdovą.
 - susijęs iš [[objektai/asmenys/Zygfridas iš Da[he]nfeldo.md#claim-t-80728|Zygfridas iš Da[he]nfeldo]]: Zygfridas iš Da[he]nfeldo 1348 m. dalyvavo Strėvos mūšyje kaip Ordino maršalas.
 - susijęs iš [[objektai/asmenys/Šindekopfas.md#claim-t-186091|Šindekopfas]]: Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179708|Švitrigaila]]: Švitrigailai buvo pavesta valdyti Podoliją, o šaltinyje jis vadinamas pavojingiausiu Vytauto priešininku.
@@ -1263,6 +1311,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10253|Mėlynųjų Vandenų mūšis (1362 m.)]]: Algirdo pajėgų pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.
 - susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186694|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Žinia apie Algirdo pergalę prieš totorius ties Mėlynaisiais Vandenimis 1971 m. komentare laikoma apskritai patikima, nors dėl datos nesutariama.
 - susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186696|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Mėlynųjų Vandenų mūšis 1971 m. komentare datuojamas kaip ginčytinas: dauguma istorikų jį skiria 1352–1362 m., kai kurie – XIV a. pabaigai.
+- susijęs iš [[objektai/ivykiai/Ragučio maldyklos Vilniuje panaikinimas ir Petionkos cerkvės įkūrimas.md#claim-t-189612|Ragučio maldyklos Vilniuje panaikinimas ir Petionkos cerkvės įkūrimas]]: Narbutas rašo, kad apie 1331 m. Julijonos įsakymu Vilniuje panaikinta Ragučio maldykla, o jos vietoje įkurta Petionkos cerkvė.
 - susijęs iš [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.).md#claim-t-54706|Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]: Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies.
 - susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės.md#claim-t-186700|Teodoro Karijotaičio pašalinimas iš Podolės]]: Redakcinė pastaba Teodoro Karijotaičio pašalinimą iš Podolės 1393 m. sieja su Vytautu ir laiko valstybės centralizavimo aktu.
 - susijęs iš [[objektai/ivykiai/Vilniaus apgultis ir miesto padegimas (1377 m.).md#claim-t-54694|Vilniaus apgultis ir miesto padegimas (1377 m.)]]: 1377 m. birželio pabaigoje Gotfridas Lindenas ir Redigeris Elneris su 12 000 žmonių sustojo prie Vilniaus.
@@ -1274,6 +1323,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas.md#claim-t-01879|Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]: Vytautas suvaldė nepaklusnius sričių kunigaikščius, pašalino juos iš vietų ir paskyrė savo vietininkus bajorus.
 - susijęs iš [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę.md#claim-t-185834|Vytauto šalininkų žygis į Riazanę]]: Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.).md#claim-t-67000|Vytauto žygis į Ordino žemes (1377 m.)]]: 1377 m. Vytautas, tėvo pavedamas, surengė žygį į Ordino žemes ir pasirodė kaip savarankiškas lietuvių kariuomenės vadas.
+- susijęs iš [[objektai/ivykiai/Švitrigailos 1451 m. privilegija ir ankstesnių Vytauto bei Algirdo privilegijų patvirtinimas dėl Ostapo Kropotkovo herbo.md#claim-t-189638|Švitrigailos 1451 m. privilegija ir ankstesnių Vytauto bei Algirdo privilegijų patvirtinimas dėl Ostapo Kropotkovo herbo (privilegija, XIV–XV a.)]]: Narbutas mini Švitrigailos 1451 m. vasario 18 d. Lucke datuotą privilegiją, kuria patvirtinta Ostapo Kropotkovo kilmė ir herbas.
 - susijęs iš [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas.md#claim-t-77949|Birutės legendos tęstinumas ir Birutės kalno gerbimas]]: Birutės legenda nenutrūko įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta.
 - susijęs iš [[objektai/paprociai/Džiaugsmingas valdovo pasitikimas plojant rankomis ir giedant „Lado! Lado!“.md#claim-t-09541|Džiaugsmingas valdovo pasitikimas plojant rankomis ir giedant „Lado! Lado!“]]: Vilniuje Algirdą džiaugsmingai pasitiko žmonės, senovės papročiu plodami rankomis ir giedodami „Lado! Lado!“.
 - susijęs iš [[objektai/paprociai/Džiaugsmingas valdovo pasitikimas plojant rankomis ir giedant „Lado! Lado!“.md#claim-t-09542|Džiaugsmingas valdovo pasitikimas plojant rankomis ir giedant „Lado! Lado!“]]: Vilniuje Algirdą pasitikę žmonės plojo rankomis ir giedojo „Lado! Lado!“.
@@ -1302,6 +1352,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš Gedimino laiškai: Gediminas laiškuose Vakarams vadinosi karaliumi, vartodamas titulą rex.
 - susijęs iš J. Fijałek Średniowieczne biskupstwa: J. Fijałeko „Średniowieczne biskupstwa“ minima kaip 1896 m. „Kwartalnik Historyczny“ publikacija.
 - susijęs iš K. Chodynicki Legenda o męczeństwie czternastu Franciszkanów w Wilnie: K. Chodynickio „Legenda o męczeństwie czternastu Franciszkanów w Wilnie“ 1927 m. paskelbta AW IV tome, 53–78 puslapiuose.
+- susijęs iš Lietuvos metraštis (Bychovco kronika): Narbutas cituoja Bychovco kroniką, kurioje rašoma, kad deginant lietuvių kunigaikštį ar didiką prie kūno dėdavo lūšies arba lokio nagus.
 - susijęs iš Naruszewicz, Tauryka: Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
 - susijęs iš Petro Korkono 1621 m. raštas apie Goštauto liepą: Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.
 - susijęs iš Raynaldo Bažnyčios istorija: Raynaldo Bažnyčios istorija aiškino kai kuriuos Gedimino valdymo ir politikos aspektus.
@@ -1376,6 +1427,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš Pabaiskas: Pabaisko mūšio vieta siejama su Žirnajų upeliu tarp Žirnajų ežero ir Pabaisko, 9 km nuo Ukmergės.
 - susijęs iš Paneriai: Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai.
 - susijęs iš Pasveikinimo kalva: Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
+- susijęs iš Podbužo dvaras: Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas Ostapui Kropotkovui už nuopelnus kare su totoriais.
 - susijęs iš Podolija: Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją.
 - susijęs iš Podolija: Vytautui teko ilgai kovoti dėl Podolijos, į kurią pretenzijas reiškė vengrai, totoriai ir lenkai.
 - susijęs iš Podolija: Algirdo laikų Lietuvos valstybė pietuose apėmė plačią Podoliją, nusitęsusią link Juodosios jūros stepių.
@@ -1465,6 +1517,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš [[objektai/zodynas/Feodalinė visuomenė lenas vienvaldystė.md#claim-t-86580|Feodalinė visuomenė lenas vienvaldystė]]: Jogailos valdymo pradžioje Lietuvoje ėmė irti feodalinės visuomenės pamatai, kuriuos buvo gebėjęs išlaikyti Gediminas.
 - susijęs iš [[objektai/zodynas/Metropolija ir metropolitas.md#claim-t-32755|Metropolija ir metropolitas]]: Algirdas dėjo pastangų savo valstybės ribose turėti arkivyskupo metropolito sostą graikų tikėjimo gyventojams.
 - susijęs iš [[objektai/zodynas/Pataurininkis.md#claim-t-86637|Pataurininkis]]: Algirdas dėl didelių gabumų iškėlė Vaidilą iš kepėjo sūnaus iki rūmų pataurininkio.
+- susijęs iš [[objektai/zodynas/Petionka.md#claim-t-189240|Petionka]]: Narbutas Petionkos pavadinimą kildino iš senojo miško vardo, siejamo su Ragučio šventikais pietiniki, kitaip Puotininkais (Potinikaj).
+- susijęs iš [[objektai/zodynas/Pietiniki Puotininkai Potinikaj.md#claim-t-189361|Pietiniki Puotininkai Potinikaj]]: Narbutas pietiniki, kitaip Puotininkais (Potinikaj), vadino Ragučio šventikus, su kuriais siejo Petionkos pavadinimo kilmę.
+- susijęs iš [[objektai/zodynas/Puotininkai Potinikas Pietiniki.md#claim-t-189321|Puotininkai Potinikas Pietiniki]]: Narbutas Ragučio šventikus pietiniki, arba Puotininkus (Potinikaj), aiškino kaip senojo miško pavadinimo Petionka kilmę.
 - susijęs iš [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas.md#claim-t-86507|Romos tikėjimas graikų apeigų tikėjimas]]: 1440 metų Kazimiero IV privilegija buvo duota Romos katalikų ir stačiatikių tikėjimo Vilniaus miestiečiams.
 - susijęs iš [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas.md#claim-t-86508|Romos tikėjimas graikų apeigų tikėjimas]]: Romos tikėjimo skelbėjais vadinti Vilniaus pranciškonai, kuriuos 1341 m. užpuolė sukurstyti pagonys.
 - susijęs iš [[objektai/zodynas/Romos tikėjimas.md#claim-t-187526|Romos tikėjimas]]: Lietuvos metraštis vaizduoja, kad Algirdo laikais Lietuvoje Romos tikėjimo jau nebuvo, liko vien rusų tikėjimas.
@@ -1517,6 +1572,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176258|vietininkas]]: Jogaila paskyrė Vaidilą Lydos vietininku ir atidavė jam į žmonas savo seserį.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176261|vietininkas]]: Jogaila paskyrė Vaidilą Lydos vietininku ir, nepaisydamas Kęstučio prieštaravimų, atidavė jam į žmonas savo seserį.
 - susijęs iš [[objektai/zodynas/žygio vora.md#claim-t-185362|žygio vora]]: Žygyje kartu su Algirdu kariuomenė buvo padalyta į tris žygio voras.
+- susijęs iš Lietuvos metraštis (Bychovco kronika): Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą.
+- susijęs iš Lietuvos metraštis (Bychovco kronika): Narbutas cituoja Bychovco kroniką, kurioje rašoma, kad deginant lietuvių kunigaikštį ar didiką prie kūno dėdavo lūšies arba lokio nagus.
 - susijęs iš [[objektai/asmenys/Svirdeika.md#claim-t-80723|Svirdeika]]: Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.
 - susijęs iš [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.).md#claim-t-54706|Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]: Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies.
 - susijęs iš [[objektai/asmenys/Patirgas.md#claim-t-96040|Patirgas]]: Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius.
@@ -1529,7 +1586,6 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86455|Arkikomtūras]]: Po taikos sutarties arkikomtūras su Ordino maršalu ir kitais aukštesniaisiais vokiečių riteriais buvo pakviestas į Vilniaus ir Trakų pilis.
 - susijęs iš [[objektai/zodynas/Diarchijos sistema.md#claim-t-28579|Diarchijos sistema]]: Algirdo ir Kęstučio susitarime Kęstutis laikytas Algirdo padėjėju, todėl pilnos diarchijos sistemos nebuvo.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -2559,16 +2615,56 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
+- c-050
+  santrauka: 'Narbutas Algirdą vadina Smolensko kunigaikštytės Olgos sūnumi, gimusiu 1296 m., ir jo vardą aiškina kaip „Olgos meilę“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
+    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-054
+- c-051
+  santrauka: 'Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Viena tokia buvo Didžiojoje
+    gatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių
+    kunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.
+    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
+    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
+    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
+    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
+    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
+    dyklos vietoje įkūrė cerkvę su šventiku.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-055
 
 ## Ryšiai
 - [[objektai/asmenys/Narimantas Gediminaitis]] buvo_brolis Algirdas (Lietuvos valdovas)
 - Algirdas (Lietuvos valdovas) surenge_zygi_i [[objektai/vietos/Maskva]]
-- Algirdas (Lietuvos valdovas) buvo_sunus [[objektai/asmenys/Gediminas]]
+- Algirdas (Lietuvos valdovas) buvo_sunus [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - [[objektai/asmenys/Andrius Algirdaitis]] buvo_sunus Algirdas (Lietuvos valdovas)
 - [[objektai/asmenys/Marija (Algirdo žmona)]] buvo_zmona Algirdas (Lietuvos valdovas)
 - Algirdas (Lietuvos valdovas) gyne [[objektai/vietos/Pskovas]]
 - Algirdas (Lietuvos valdovas) paskyre [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
 - Algirdas (Lietuvos valdovas) puole [[objektai/vietos/Brianskas]]
+- Algirdas (Lietuvos valdovas) valde [[objektai/vietos/Krėva]]
+- Algirdas (Lietuvos valdovas) valde [[objektai/vietos/Vitebskas]]
 - Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Podolė]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] buvo_sunus Algirdas (Lietuvos valdovas)
 - [[objektai/asmenys/Karijotas]] buvo_brolis Algirdas (Lietuvos valdovas)
@@ -2576,14 +2672,14 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - Algirdas (Lietuvos valdovas) paskyre [[objektai/asmenys/Petras Goštautas]]
 - Algirdas (Lietuvos valdovas) reme [[objektai/grupes/Karijotaičiai]]
 - Algirdas (Lietuvos valdovas) uzeme [[objektai/vietos/Toropiec]]
+- [[objektai/asmenys/Julijona]] buvo_zmona Algirdas (Lietuvos valdovas)
 - [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]] buvo_sunus Algirdas (Lietuvos valdovas)
 - [[objektai/asmenys/Vladimiras (Algirdo sūnus)]] buvo_sunus Algirdas (Lietuvos valdovas)
 - [[objektai/asmenys/Vladimiras Algirdaitis]] buvo_sunus Algirdas (Lietuvos valdovas)
 - [[objektai/asmenys/Vladislovas Jogaila]] buvo_sunus Algirdas (Lietuvos valdovas)
 - Algirdas (Lietuvos valdovas) kariavo_pries [[objektai/grupes/Totoriai]]
-- Algirdas (Lietuvos valdovas) valde [[objektai/vietos/Krėva]]
-- Algirdas (Lietuvos valdovas) valde [[objektai/vietos/Vitebskas]]
 - [[objektai/asmenys/Dimitras Kaributas]] buvo_sunus Algirdas (Lietuvos valdovas)
+- [[objektai/asmenys/Julijona Vitebskietė]] buvo_zmona Algirdas (Lietuvos valdovas)
 - Algirdas (Lietuvos valdovas) sudare_sutarti_su [[objektai/asmenys/Dimitrijus]]
 - Algirdas (Lietuvos valdovas) surenge_zygi_i [[objektai/vietos/Nadruva]]
 - Algirdas (Lietuvos valdovas) uzeme [[objektai/vietos/Mstislavlis]]
@@ -2625,6 +2721,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - Algirdas (Lietuvos valdovas) uzkariavo [[objektai/vietos/Kijevas]]
 - Algirdas (Lietuvos valdovas) uzkariavo [[objektai/vietos/Volynė]]
 - Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/asmenys/Dmitrijus]] kariavo_pries Algirdas (Lietuvos valdovas)
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] reme Algirdas (Lietuvos valdovas)
 - Algirdas (Lietuvos valdovas) dalyvavo_musyje [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
 - Algirdas (Lietuvos valdovas) keliavo_i [[objektai/vietos/Pasveikinimo kalva]]

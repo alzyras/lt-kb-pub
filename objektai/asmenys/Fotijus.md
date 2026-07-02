@@ -126,6 +126,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
 - susijęs iš Maskva: Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir nurodė vyskupams išrinkti Lietuvai atskirą metropolitą.
 - susijęs iš [[objektai/asmenys/Kiprijonas.md#claim-t-63828|Kiprijonas]]: Kiprijonas 1390-1406 m. buvo Kijevo ir visos Rusios metropolitas.
 - susijęs iš [[objektai/asmenys/Teodosijus.md#claim-t-30394|Teodosijus]]: Vytautas siekė, kad Polocko vyskupas Teodosijus taptų Lietuvos stačiatikių metropolitu.
+- susijęs iš [[objektai/autoriai/Kamerotos vyskupas Petras.md#claim-t-190304|Kamerotos vyskupas Petras]]: Narbutas rašo, kad Kamerotos vyskupo Petro rankraštį pirmą kartą pristatė straipsnyje apie Santvarą.
 - susijęs iš [[objektai/zodynas/metropolitas metropolija.md#claim-t-86540|metropolitas metropolija]]: Maskvos metropolitų religinė viršenybė Lietuvos rusiškojo tikėjimo vyskupams laikyta vienu didžiausių nepatogumų.
 ## Reikšmingi paminėjimai
 

@@ -44,7 +44,6 @@ Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fu
 - susijęs iš Lietuvos Metrikos laiškai Vilniaus miestiečiams dėl muitų ir arendų: Lietuvos Metrikoje minimas Žygimanto Senojo laiškas Vilniaus miestiečiui Andrejui Tiekiui dėl Smolensko muito ir smuklių arendavimo.
 - susijęs iš Brasta: Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.
 - susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
-- susijęs iš Gardinas: Gardine atsirado jėzuitų kolegija, funduota Smolensko vyskupo Isaikovskio ir kitų rėmėjų.
 - susijęs iš Gomelis: Uzos upė įteka į Sožą truputį žemiau Gomelio.
 - susijęs iš Kauno Vilniaus pirklių prekių sandėlis: Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.
 - susijęs iš Kražiai: Kražiuose atsirado jėzuitų kolegija, funduota didžiojo etmono Jono Karolio Katkevičiaus.

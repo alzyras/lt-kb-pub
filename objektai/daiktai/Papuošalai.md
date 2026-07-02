@@ -84,12 +84,14 @@ Nenurodyta
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Papuošalai" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Geležiniai ginklai ir įrankiai.md#claim-t-47810|Geležiniai ginklai ir įrankiai]]: Patobulėjo ginklų, įrankių ir papuošalų formos.
 - susijęs iš [[objektai/daiktai/Lietuvos žalvario (bronzos) amžiaus dirbiniai.md#claim-t-64967|Lietuvos žalvario (bronzos) amžiaus dirbiniai]]: Lietuvos žalvario amžiaus dirbinių sąraše minimi kirviai, kalavijai, iečių galai, papuošalai ir statulėlė.
+- susijęs iš [[objektai/asmenys/Mykolas Šulcas.md#claim-t-190055|Mykolas Šulcas]]: Narbutas nurodo, kad apie pilkapiuose randamus indelius, papuošalus ir akmenukus jam pasakojo Vilniaus universiteto profesorius Mykolas Šulcas.
 - susijęs iš [[objektai/autoriai/Henrikas Latvis.md#claim-t-171491|Henrikas Latvis]]: Henrikas Latvis priklauso XIII a. Livonijos šaltiniams, kurie liudija gerą pagonių lietuvių apsiginklavimą.
 - susijęs iš [[objektai/daiktai/Geležiniai ginklai ir įrankiai.md#claim-t-47811|Geležiniai ginklai ir įrankiai]]: Iš geležies buvo gaminami ginklai, tokie kaip ietys ir kirviai, bei įrankiai, tokie kaip dalgiai, pjautuvai, peiliai ir ylos.
 - susijęs iš [[objektai/daiktai/Gintaro ir stiklo karoliai.md#claim-t-71563|Gintaro ir stiklo karoliai]]: Buvo mėgiami gintaro ir stiklo karoliai.
 - susijęs iš [[objektai/daiktai/Juostos.md#claim-t-47812|Juostos]]: Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.
 - susijęs iš [[objektai/daiktai/Juostos.md#claim-t-47813|Juostos]]: Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.
 - susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-05333|Aisčių laidotuvių ir vėlinių apeigos]]: Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai.
+- susijęs iš De veteribus Tumulis vulgo Kurhani nuncupatis: „De veteribus Tumulis vulgo Kurhani nuncupatis“ Narbutui buvo žinomas iš velionio Vilniaus universiteto profesoriaus Mykolo Šulco pasakojimo.
 - susijęs iš Tikocinas: Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.
 ## Reikšmingi paminėjimai
 

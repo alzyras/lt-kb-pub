@@ -75,3 +75,6 @@ Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su r
   pagrindžia:
     - t-002
     - t-001
+
+## Ryšiai
+- Liudvikas Narbutas siunte_i [[objektai/vietos/Kaukazas]]

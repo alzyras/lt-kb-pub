@@ -56,9 +56,11 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
   ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=9
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Suomija" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Kotryna Jogailaitė.md#claim-t-87399|Kotryna Jogailaitė]]: Kotryna Jogailaitė Vilniuje susituokė su Suomijos kunigaikščiu Jonu, vėliau tapusiu Švedijos karaliumi.
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188641|Teodoras Narbutas]]: Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje per vadinamąjį Suomijos karą.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114007|Valerijonas Protasevičius (vyskupas)]]: Valerijonas Protasevičius Vilniuje palaimino Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoką.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183847|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Kotryna Jogailaitė, Žygimanto Augusto sesuo, Vilniuje susituokė su Suomijos kunigaikščiu Jonu.
 - susijęs iš [[objektai/grupes/Normanai.md#claim-t-86723|Normanai]]: Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.
+- susijęs iš Revelis: Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje, vadinamojo Suomijos karo metu.
 - susijęs iš [[objektai/zodynas/Austurweg.md#claim-t-54799|Austurweg]]: Austurweg pavadinimas buvo taikomas Baltijos jūros pakrantei nuo Vyslos žiočių iki Suomijos įlankos.
 - susijęs iš [[objektai/zodynas/Austurweg.md#claim-t-54800|Austurweg]]: Austurweg buvo normanų vartotas Baltijos jūros pakrantės nuo Vyslos žiočių iki Suomijos įlankos pavadinimas.
 - susijęs iš [[objektai/asmenys/Jonas (Suomijos kunigaikštis).md#claim-t-87712|Jonas (Suomijos kunigaikštis)]]: Suomijos kunigaikštis Jonas Vilniuje sudarė santuoką su Kotryna Jogailaite ir vėliau tapo Švedijos karaliumi.
@@ -87,6 +89,7 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 - susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
 - susijęs iš Lietuva: Tvirtindama pozicijas prieš Kryžiuočių ordiną, Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu.
 - susijęs iš Lietuva: Taigi Gedimino valdoma Lietuvos valstybė XIV a.
+- susijęs iš Lietuva: Narbutas vaizdavo, kad Graikijos ir Romos dievai persikėlė į Lietuvą ir susiliejo su vietos bei skandinavų religijomis.
 - susijęs iš Narva: 1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais.
 - susijęs iš Rytų Europa: Lietuva dažnai laikoma Rytų Europos dalimi dėl geopolitinės, o ne vien geografinės krašto padėties.
 - susijęs iš SSRS: Įsileidusi SSRS karines bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą.

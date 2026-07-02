@@ -15,19 +15,24 @@ tags:
 Įvadinis tekstas Samuelį Lindę mini tarp kalbininkų, kurių darbais naudojosi T. Narbutas.
 
 ## Teiginiai
-
-<a id="claim-t-187949"></a>
-- t-001
-  global_id: t-187949
+- t-002
   teiginys: 'Samuelis Lindė buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Subjektu padarytas Samuelis Lindė, o sakinys susietas su Narbuto naudotų kalbininkų darbų sąrašu. Nepridėta jokių konkrečių Lindės veikalų ar biografinių faktų.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_author: [[objektai/autoriai/Francas Bopas|Francas Bopas]]; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 37540-38704; hash=5ea47900ff61c205c1d64d1d41bde78fca1e29424d912190b0700d15b736163c; match=exact
+  sprendimo_priezastis: gap::authors
+  ryšio_patikimumas: susije_su -> T. Narbutas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Samuelis Lindė: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: T. Narbutas: mention_match, author, gap=66
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Samuelis Lindė" parinktas kaip owner_note_path. Targetas "T. Narbutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Samuelis Lindė buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -52,10 +57,10 @@ tags:
     elio Lindės, Peterio Boleno, Franco Bopo ir daugelio kitų dar­
     bais, archeologų radiniais, savo ir kitų kraštotyrininkų surink­
     ta tautosaka, etnografine medžiaga.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

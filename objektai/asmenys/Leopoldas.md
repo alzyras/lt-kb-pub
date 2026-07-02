@@ -36,7 +36,6 @@ Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, k
   ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=19
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leopoldas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis.md#claim-t-185728|Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis]]: Austrijos kunigaikščio Leopoldo pajėgų remiami kryžiuočiai užpuolė Žemaitiją ir, padaliję pulkus keturiomis voromis, nusiaubė kraštą.
-- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184675|Birutė]]: Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184769|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Sugrįžęs į Lietuvą, Kęstutis vedė vaidilutę Birutę, bet netrukus kryžiuočiai užpuolė Žemaitiją.
 ## Reikšmingi paminėjimai
 

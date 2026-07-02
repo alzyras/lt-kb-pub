@@ -63,13 +63,19 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
   ryšio_subjekto_parinkimas: Vikingai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Bizantija: mention_match, place, gap=29
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vikingai" parinktas kaip owner_note_path. Targetas "Bizantija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Biarmija: Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, palaikiusią santykius su Naugardo slavais.
+- susijęs iš [[objektai/grupes/Biarmiai.md#claim-t-189431|Biarmiai]]: Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65555|Kuršiai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65560|Kuršiai]]: Kuršiai XI a. jau rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
+- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-190619|Skandinavai]]: Narbutas iš skandinavų legendų sprendžia, kad Biarmija buvo turtinga brangiųjų metalų ir viliojo skandinavų plėšikus.
 - susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-66129|Skandinavai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
+- susijęs iš [[objektai/grupes/Skitai.md#claim-t-189483|Skitai]]: Narbutas rašo, kad senovės Graikijos geografai žinias apie Biarmijos gyventojus gavo iš skitų.
 - susijęs iš [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes.md#claim-t-78705|Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]: Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
 - susijęs iš [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes.md#claim-t-78706|Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]: XI a. kuršiai patys rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
 - susijęs iš Saga Olafs konungs Tryggvasonar: „Saga Olafs konungs Tryggvasonar“ rytų Pabaltijį kartą pavadina senuoju terminu „Eistr“.
+- susijęs iš Didysis Naugardas: Narbutas rašo, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija palaikė ryšius su Naugardo slavais, bet sudarė atskirą valstybę.
 - susijęs iš Gudijos plotai: IX a. pirmoje pusėje per Gudijos plotus į Lietuvą atėjo dalis žodžių.
+- susijęs iš Naugardas: Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, bendravusią su Naugardo slavais.
 - susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
 ## Reikšmingi paminėjimai
 
@@ -110,4 +116,5 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
     - t-002
 
 ## Ryšiai
+- Vikingai keliavo_i [[objektai/vietos/Naugardas]]
 - Vikingai keliavo_i [[objektai/vietos/Nemunas]]

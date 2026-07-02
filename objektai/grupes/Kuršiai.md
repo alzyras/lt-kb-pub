@@ -352,6 +352,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - susijęs iš Nemunas: Į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai ir lamatiečiai, o toliau į šiaurę, Klaipėdos apylinkėse, prasidėjo kuršių teritorija.
 - susijęs iš Noihauzas: Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą.
 - susijęs iš Pabečiai: Pabečiai buvo gyvenvietė šiaurės Semboje, į pietryčius nuo buvusių Naujųjų Kuršių.
+- susijęs iš [[objektai/zodynas/Kruonis Meta.md#claim-t-189229|Kruonis Meta]]: Narbutas Kruonį (Kronį), arba Metą, aprašė kaip senovės lietuvių ir kuršių garbintą laiko ar laiko tarpsnių deivę.
 - susijęs iš [[objektai/asmenys/Engelbertas.md#claim-t-80713|Engelbertas]]: Kuršo vyskupas Engelbertas buvo išnaikintas kartu su tos bažnyčios dvasininkais ir tikinčiųjų tauta.
 - susijęs iš [[objektai/asmenys/Fridrichas, vadinamas Hole.md#claim-t-60280|Fridrichas, vadinamas Hole]]: Fridrichas, vadinamas Hole, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą, o grįždamas iš Kirsnavos valsčiaus buvo nukautas su 30 vyrų.
 - susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-184105|Konradas Žakas]]: Konradas Žakas 1303 m. žiemą su didžiule kariuomene įsiveržė į Karšuvos žemę.
@@ -366,6 +367,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - susijęs iš [[objektai/grupes/Lietgaliai.md#claim-t-184331|Lietgaliai]]: Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų.
 - susijęs iš [[objektai/grupes/Lietgaliai.md#claim-t-31268|Lietgaliai]]: Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179327|Lietuviai]]: Konradas Kuršių nerijoje pastatydino Noihauzo pilį, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188257|Lietuviai]]: Narbutas rašė, kad lietuviai Ragutį garbino aukurais, stabais, šventyklomis, žyniais ir vaidilutėmis.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96813|Lybiai]]: Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175089|Sembai]]: XI-XII a. danų šaltiniai rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89215|Skalviai]]: Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.
@@ -405,21 +407,16 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - susijęs iš Lenkija: Po 1183 m. lietuvių žygiai padažnėjo ir kasmet vyko ne tik į Rusios žemes, bet ir į Lenkiją bei Livoniją.
 - susijęs iš Livonija: Po 1183 m. žygio į Rusios žemes lietuviai kasmet rengė po vieną ar du žygius ne tik į Rusią, bet ir į Lenkiją bei Livoniją.
 - susijęs iš Livonija: Utenis perkėlė karą iš Kuršo į Livoniją, kur kuršių ir žemaičių kariuomenė nusiaubė didelius plotus.
-- susijęs iš Nemunas: Dusburgiečio pasakojime iš Lietuvos traukianti brolių kariuomenė vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą.
-- susijęs iš Nemunas: Susitikimas vyko Salyne, Nemuno saloje prie dabartinės Kulautuvos.
-- susijęs iš Nemunas: Vytauto ir magistro susitikimas įvyko Salyne, Nemuno saloje netoli dabartinės Kulautuvos.
 - susijęs iš Nemunas: Barkus Jūros žiotyse, kur ji įteka į Nemuną, pasistatė Jurbarko pilį ir gavo valdyti dalį Žemaitijos.
 - susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo grąžinti Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.
 - susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo, kad Vokiečių Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.
 - susijęs iš Ragainė: Dusburgiečio kronikoje pasakojama, kad nuo kariuomenės Žemaitijoje atsilikęs kryžiuočių karys pėsčiomis grįžo į Ragainę.
 - susijęs iš Tverės sritis: 1285 m. pavasarį lietuviai plėšė Tverės sritį.
-- susijęs iš Žemaitija: Žemaitijoje plėšikavusios kryžiuočių kariuomenės karys, atsilikęs po kritimo nuo žirgo, pėsčiomis grįžo į Ragainę.
 - susijęs iš [[objektai/zodynas/atskalūnybė atskalūnai.md#claim-t-184001|atskalūnybė atskalūnai]]: Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.
 - susijęs iš [[objektai/zodynas/atskalūnybė atskalūnai.md#claim-t-58808|atskalūnybė atskalūnai]]: Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.
 - susijęs iš [[objektai/zodynas/kuopiniai kaimai.md#claim-t-32789|kuopiniai kaimai]]: Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus.
 - susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70377|vakariniai baltai]]: Šio leidimo aiškinime nadruviai, skalviai ir kuršiai priskiriami prie vakarinių baltų.
 - susijęs iš Hervararsaga: Hervararsaga apie 675 m. teigė, kad Kuršą buvo užvaldęs švedų karalius Ivaras.
-- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-66129|Skandinavai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184593|Žemaičiai]]: Utenio sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus ir privertė priešą ginti savo kraštą.
 ## Reikšmingi paminėjimai
@@ -660,7 +657,6 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - Kuršiai puole [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
 - Kuršiai reme [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Švedai]] uzkariavo Kuršiai
-- [[objektai/grupes/Skandinavai]] puole Kuršiai
 - [[objektai/grupes/Kalavijuočių ordinas]] uzkariavo Kuršiai
 - Kuršiai gyveno [[objektai/vietos/Klaipėda]]
 - [[objektai/grupes/Žemaičiai]] buvo_sajungininkas_su Kuršiai

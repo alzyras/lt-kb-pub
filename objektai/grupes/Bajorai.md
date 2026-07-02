@@ -200,10 +200,11 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
   susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/grupes/Litvinai.md#claim-t-188046|Litvinai]]: Narbutui skirtame įvadiniame straipsnyje „litvinais“ vadinami Vilniaus, Kauno, Gardino ir Minsko gubernijų bajorai katalikai.
+- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-188284|Lietuvos bajorija]]: Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį.
 - susijęs iš [[objektai/asmenys/Gregoras Kierdėjus.md#claim-t-87681|Gregoras Kierdėjus]]: Gregoro Kierdėjaus vadovaujami Podolės bajorai sugavo Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos.
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170053|Jekaterina II]]: Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje.
 - susijęs iš [[objektai/asmenys/Joachimas (Pskovo vietininkas).md#claim-t-87706|Joachimas (Pskovo vietininkas)]]: 1432 m. Pskovo vietininkas Joachimas su Aleksu Jefremovičiumi ir Pskovo bajorais sudarė sutartį su Švitrigaila.
+- susijęs iš [[objektai/asmenys/Jonas Lenartaitis Kęsgaila.md#claim-t-190231|Jonas Lenartaitis Kęsgaila]]: Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, kurią sudarė Trakų pavieto bajorai.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113841|Julijona (Vytauto žmona)]]: Julijona ir Vytauto bajorai ragino Vytautą nenusileisti dėl karūnavimosi vilčių.
 - susijęs iš [[objektai/asmenys/Jurgis Galminas.md#claim-t-29024|Jurgis Galminas]]: Jurgis Galminas buvo vienas iš Vytauto didikų, vadovavusių į Konstancą atsiųstiems pakrikštytiems Žemaičių bajorams.
 - susijęs iš [[objektai/asmenys/Jurgis Nosuta.md#claim-t-186224|Jurgis Nosuta]]: Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei didikų.
@@ -261,6 +262,8 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-182742|Lietuvos kariuomenė]]: Visuotinio šaukimo metu didesniąją Lietuvos kariuomenės dalį sudarydavo iš pavietų į savo vėliavas susirinkę bajorai.
 - susijęs iš [[objektai/grupes/Lietuvos ponų taryba.md#claim-t-86730|Lietuvos ponų taryba]]: 1560 m. Vilniuje vykusiame Lietuvos Didžiosios Kunigaikštystės Ponų Tarybos seime karalius leido bajorams rinkti delegatus.
 - susijęs iš [[objektai/grupes/Litvinai.md#claim-t-188046|Litvinai]]: Narbutui skirtame įvadiniame straipsnyje „litvinais“ vadinami Vilniaus, Kauno, Gardino ir Minsko gubernijų bajorai katalikai.
+- susijęs iš [[objektai/grupes/Litvinai.md#claim-t-188288|Litvinai]]: Narbutui skirtame įvadiniame straipsnyje „litvinais“ vadinami Vilniaus, Kauno, Gardino ir Minsko gubernijų bajorai katalikai.
+- susijęs iš [[objektai/grupes/Markopoliai.md#claim-t-189524|Markopoliai]]: Narbutas Markopolius apibūdina kaip požemio dievaičius, kuriuos ypač garbino didikai ir bajorai.
 - susijęs iš [[objektai/grupes/Raudonieji.md#claim-t-19973|Raudonieji]]: „Raudonieji“ buvo prodemokratiškas bajorų jaunimas, 1862 m. Kongresinėje Lenkijoje ir Lietuvoje rengęs sukilimą.
 - susijęs iš [[objektai/grupes/Rusiškoji bajorų partija.md#claim-t-95932|Rusiškoji bajorų partija]]: Sviatoslavo sūnui Jurgiui užimti Smolenską padėjo Riazaniaus kunigaikštis Olegas ir rusiškoji bajorų partija.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171410|Totoriai]]: Po apiplėšimų totoriai stengdavosi greitai pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija dažnai vėluodavo.
@@ -271,6 +274,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92926|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems savo herbus.
 - susijęs iš [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas.md#claim-t-34530|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]: 1422 m. Červinsko stovykloje Jogaila, Vytautui tarpininkaujant, padidino lenkų bajorijos luomo teises.
 - susijęs iš [[objektai/ivykiai/Bajorų pilaitės užėmimas ir belaisvių sudeginimas.md#claim-t-185797|Bajorų pilaitės užėmimas ir belaisvių sudeginimas]]: Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užėmė.
+- susijęs iš [[objektai/ivykiai/Herbų vienovės įvedimas Horodlės seime 1413 m.md#claim-t-189622|Herbų vienovės įvedimas Horodlės seime 1413 m (seimas, XV a.)]]: 1413 m. Horodlės seime Lenkijos bajorai, Lietuvos ir Lenkijos unijos ženklan, suteikė savo herbus lietuvių bajorams ir įvedė herbų vienovę.
 - susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50804|Konstancijos susirinkimas (1414–1418 m.)]]: Vytautas į Konstancijos susirinkimą pasiuntė 60 žemaičių bajorų katalikų delegaciją kaip Lietuvos apsikrikštijimo įrodymą.
 - susijęs iš [[objektai/ivykiai/LDK pavietų seimelių priesaika Gegužės trečiosios konstitucijai.md#claim-t-77896|LDK pavietų seimelių priesaika Gegužės trečiosios konstitucijai]]: 1792 m. vasarį 27 iš 33 susirinkusių LDK bajorų pavietų seimelių prisiekė Gegužės trečiosios konstitucijai, o dar šeši jai pritarė.
 - susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54446|Lietuvos krikštas Vilniuje (1387 m.)]]: Vilniuje sušauktas visuotinis lietuvių kunigaikščių ir bajorų seimas paskelbė didelį religijos pokytį.
@@ -323,11 +327,11 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš Bajorų pilaitė: Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.
 - susijęs iš Berlynas: 1932 m. Berlyne Konstantinas Avižonis parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m.
 - susijęs iš Berlynas: Konstantinas Avižonis 1932 m. Berlyne parašė disertaciją apie Lietuvos bajorų atsiradimą ir luomo susiformavimą iki 1385 m.
+- susijęs iš Horodlė: 1413 m. Horodlės seime lenkų bajorai suteikė savo herbus lietuvių bajorams kaip abiejų tautų susijungimo ženklą.
 - susijęs iš Jedlno: Jedlnos nutarimuose lenkai pasirinko Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios bei pritarimo.
 - susijęs iš Krokuva: 1387 m. sausį į Vilnių su Jogaila atvyko ir Krokuvoje pakrikštyti Lietuvos bajorai.
 - susijęs iš Lenkija: Lietuvoje, kaip ir Vidurio Europos šalyse (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Viduramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavosi bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija.
 - susijęs iš Lenkija: Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.
-- susijęs iš Lietuva: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
 - susijęs iš Luckas: Lucke būrėsi Jogaila nepatenkinti ir nuo jo nukentėję kunigaikščiai bei bajorai.
 - susijęs iš Lvovas: Kazimieras 1485 m. liepos 9 d. atvyko į Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų kariuomenė.
 - susijęs iš Marienburgas: 1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi.
@@ -336,12 +340,12 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš Pskovas: 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bajorais sudarė sutartį su Švitrigaila.
 - susijęs iš Salynas: Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.
 - susijęs iš Salynas: 1398 metų pabaigoje Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.
+- susijęs iš Trakų pavietas arba vaivadija: Jonas Lenartaitis Kęsgaila prispaudė antspaudą prie 1490 m. sutarties, kurią sudarė Trakų pavieto, arba vaivadijos, bajorai.
 - susijęs iš Vidurinė Lietuva: Vidurinės Lietuvos samprata rėmėsi požiūriu, kad nutautėję Lietuvos bajorai Lietuvą laikė Lenkijos dalimi.
+- susijęs iš Vilniaus gubernija: Narbutui istorinė Lietuva apėmė Vilniaus, Kauno, Gardino ir Minsko gubernijas, o „litvinais“ vadinti tenykščiai katalikų bajorai.
 - susijęs iš Vilnius: 1560 m. Vilniuje vykusiame LDK Ponų Tarybos seime karalius leido bajorams rinkti delegatus.
-- susijęs iš Vilnius: Į Vilnių buvo pasiųsta daug Maskvos bajorų ir pravoslavų dvasininkų, turėjusių šnipinėti ir teikti žinias Maskvai.
 - susijęs iš Vilnius: 1568 m. Gardino seimas suteikė privilegiją Vilniaus magistrato pareigūnams ir jų palikuonims būti pakeltiems į bajorų luomą.
 - susijęs iš Vilnius: Vilniuje gauta žinia, kad Podolės bajorai atplėšė Podolę nuo Lietuvos ir perdavė ją Lenkijai.
-- susijęs iš Vilnius: Su kunigaikštiene Elena į Vilnių buvo pasiųsta Maskvos bajorų ir pravoslavų dvasininkų šnipinėti Maskvai.
 - susijęs iš Vilnius: Karalius sušaukė Vilniuje bajorų seimą, norėdamas palankiai nuteikti lietuvius Livonijos klausimu.
 - susijęs iš Volos kaimas: Karaliaus elekcija turėjo vykti lauke tarp Varšuvos ir Volos kaimo, joje dalyvauti ir balsuoti galėjo kiekvienas bajoras.
 - susijęs iš Žemaitija: Vytautas išvyko į Žemaitiją, kur žmonės ir bajorai buvo palankūs jo tėvui Kęstučiui ir nusistatę prieš Jogailą.
@@ -349,6 +353,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš Žemaitija: Žemaitijoje ir kitose Lietuvos žemėse kilo tik pavienės feodalinių kunigaikščių ir bajorų gynybinės pilys.
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-183400|Bajorų respublika liberum veto]]: Lenkijoje ir Lietuvoje visuomenės agrarinis pobūdis ir miestų silpnumas lėmė Bajorų respublikos susiformavimą.
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-21975|Bajorų respublika liberum veto]]: Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės santvarka buvo respublika, o ne monarchija.
+- susijęs iš [[objektai/zodynas/Markopoliai.md#claim-t-189309|Markopoliai]]: Markopolius Narbutas apibūdina kaip požemio dievaičius, kuriuos ypač garbino didikai ir bajorai.
 - susijęs iš [[objektai/zodynas/bajorų tauta politinė lietuvių tauta.md#claim-t-101565|bajorų tauta politinė lietuvių tauta]]: LDK visuomenei europėjant susiformavo bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
 - susijęs iš [[objektai/zodynas/bajorų tauta politinė lietuvių tauta.md#claim-t-101566|bajorų tauta politinė lietuvių tauta]]: Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.
 - susijęs iš [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija.md#claim-t-101568|bajorų tauta politinė tauta lietuvių nacija]]: LDK visuomenei įsiliejant į Vakarų civilizaciją susiformavo bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
@@ -380,7 +385,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54973|Gabrielius Bekešas]]: Bekešo vaikams, palikuonims, paveldėtojams ir giminaičiams leista paveldimai valdyti suteiktas valdas.
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54974|Gabrielius Bekešas]]: Bekešui ir jo palikuonims leista plėtoti dovanotas valdas, bet už jas reikėjo vykdyti krašto karinę tarnybą.
 - susijęs iš [[objektai/asmenys/Galminas.md#claim-t-30231|Galminas]]: Galminas su Rumbaudu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176399|Gediminas]]: Gediminas apibūdinamas kaip darnesnio feodalizmo kūrėjas ir miestų steigėjas Lietuvoje.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176399|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas apibūdinamas kaip darnesnio feodalizmo kūrėjas ir miestų steigėjas Lietuvoje.
 - susijęs iš [[objektai/asmenys/Getautas.md#claim-t-30255|Getautas]]: Getautas su Rumbaudu, Galminu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/asmenys/J. Kraševskis.md#claim-t-63666|J. Kraševskis]]: J. Kraševskio kūrybai priskiriama didelė reikšmė lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53890|J. P. Sapiega]]: Maršalas A. P. Sapiega pasitraukė kartu su B. P. Sapiega ir totorių vėliavomis.
@@ -440,11 +445,11 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš [[objektai/autoriai/Jacobas Schrenckas.md#claim-t-78083|Jacobas Schrenckas]]: Jacobo Schrencko „Armamentarium Heroicum“ 1603 m. Insbruke pateikė Mikalojaus Radvilos Juodojo atvaizdą.
 - susijęs iš [[objektai/autoriai/Karamzin.md#claim-t-88071|Karamzin]]: Karamzinas nurodė, kad Karaliaučiaus Kryžiuočių slaptajame archyve buvo Vytauto laiškų magistrui Rusdorfui.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172930|M. Strijkovskis Stryjkowski]]: Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172907|Motiejus Strijkovskis (kronikininkas)]]: Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.
 - susijęs iš [[objektai/autoriai/Mykolas Kleopas Oginskis.md#claim-t-75420|Mykolas Kleopas Oginskis]]: Mykolas Kleopas Oginskis buvo vadinamas garsiojo polonezo „Atsisveikinimas su Tėvyne“ autoriumi.
 - susijęs iš [[objektai/autoriai/Mykolas Kleopas Oginskis.md#claim-t-75422|Mykolas Kleopas Oginskis]]: Mykolas Kleopas Oginskis buvo stambus dvarininkas, kompozitorius ir polonezo „Atsisveikinimas su Tėvyne“ autorius.
 - susijęs iš [[objektai/autoriai/Mykolas Kleopas Oginskis.md#claim-t-75423|Mykolas Kleopas Oginskis]]: Mykolas Kleopas Oginskis buvo stambus dvarininkas, kompozitorius ir polonezo „Atsisveikinimas su Tėvyne“ autorius.
 - susijęs iš [[objektai/autoriai/Mykolas Kleopas Oginskis.md#claim-t-75424|Mykolas Kleopas Oginskis]]: Mykolas Kleopas Oginskis buvo 1794 m. sukilėlis ir paskutinio LDK atkūrimo projekto autorius.
+- susijęs iš [[objektai/autoriai/Neseckis.md#claim-t-190374|Neseckis]]: Narbutas kritikuoja Neseckio „Herbyne“ pateiktą aiškinimą, kad „Paparona“ arba „Kiniglis“ reiškia kiškį, o ne triušį.
 - susijęs iš [[objektai/autoriai/Petras Skarga.md#claim-t-184468|Petras Skarga]]: Petras Skarga buvo pirmasis Akademijos rektorius, žymus pamokslininkas ir publicistas.
 - susijęs iš [[objektai/autoriai/T. Čarkovskis.md#claim-t-63319|T. Čarkovskis]]: T. Čarkovskis parašė brošiūrą „Przenigdy“, kuri pablogino lenkų ir lietuvių santykius.
 - susijęs iš [[objektai/daiktai/Antspaudai.md#claim-t-86982|Antspaudai]]: Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.
@@ -484,12 +489,14 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179178|Lenkai]]: Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“ arba „senalietuviais“, bet dauguma integravosi į lenkų tautą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-183146|Lenkai]]: Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“ arba „senalietuviais“, bet dauguma integravosi į lenkų tautą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-188248|Lenkai]]: Narbutas aiškino, kad kai kurie lietuviški herbai įėjo į Lenkijos herbynus tikriausiai persikėlus jais besinaudojusioms šeimoms.
 - susijęs iš [[objektai/grupes/Lenkijos valstybės taryba.md#claim-t-74514|Lenkijos valstybės taryba (institucija)]]: Lenkijos valstybės taryba greta monarcho įkūnijo Lenkijos valstybingumą.
 - susijęs iš [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md#claim-t-86719|Lenkų įgula Vilniaus Aukštutinėje pilyje]]: Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179225|Lietuviai]]: 1897 m. surašymo duomenimis, dabartinės Lietuvos ribose be Klaipėdos krašto gyveno apie 2,7 mln. žmonių.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169686|Lietuvos Didžioji Kunigaikštija]]: XIV–XV a. sandūroje Lietuvos Didžiojoje Kunigaikštijoje sparčiai didėjo rašto poreikis, bet trūko vienuolijų jam tenkinti.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-183155|Lietuvos Didžioji Kunigaikštystė]]: Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.
 - susijęs iš [[objektai/grupes/Lietuvos Karininkų Ramovė.md#claim-t-31288|Lietuvos Karininkų Ramovė]]: Lietuvos Karininkų Ramovės iniciatyva Janulaitis parašė plačią monografiją apie Kęstutį, bet ją išspausdinti sutrukdė 1940 m. įvykiai.
+- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-188282|Lietuvos bajorija]]: Narbutas teigė, kad keli aiškiai lietuviški herbai pateko į Lenkijos herbynus veikiausiai atsikėlus juos naudojusioms šeimoms.
+- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-188284|Lietuvos bajorija]]: Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį.
 - susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-96712|Lietuvos bajorija]]: Pirmą kartą pabėgęs pas Ordiną, Vytautas sulaukė nemažai bajorų iš tikrosios Lietuvos ir Žemaičių paramos.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187725|Lietuvos kariuomenė]]: Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.
 - susijęs iš [[objektai/grupes/Lietuvos luomai.md#claim-t-185435|Lietuvos luomai]]: Dažni skitų žygiai į Lietuvos gilumą paskatino Lietuvos luomus geriau sutvirtinti Vilnių.
@@ -510,7 +517,6 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113371|Vilniaus universitetas]]: 1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo iniciatorių, „Lietuvos laisvamanybės lizdą“.
 - susijęs iš [[objektai/grupes/Vokiečių ir rusų pirkliai.md#claim-t-86834|Vokiečių ir rusų pirkliai]]: Žygimanto neteisingumo įbauginti vokiečių ir rusų pirkliai nebegalėjo tikėtis ankstesnio saugumo Vytauto sostinėje.
 - susijęs iš [[objektai/grupes/Švitrigailos šalininkai.md#claim-t-86778|Švitrigailos šalininkai]]: Švitrigailos grupuotė kartu su Žygimanto šalininkais po vidaus karo išbandymų vėl taikėsi į Vilnių.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176148|Žemaičiai]]: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.
 - susijęs iš [[objektai/grupes/Žygimanto šalininkai.md#claim-t-86780|Žygimanto šalininkai]]: Žygimanto grupuotė kartu su Švitrigailos šalininkais vėl pavertė Vilnių politinės kovos taikiniu.
 - susijęs iš [[objektai/ivykiai/1425 m. Bresto (Kujavijoj) seimas.md#claim-t-35818|1425 m. Bresto (Kujavijoj) seimas (seimas, XV a.)]]: 1425 m. Bresto Kujavijoje seime lenkų didikai pripažino karalaitį Vladislovą sosto įpėdiniu Vytautui ir jo tarybai patariant.
 - susijęs iš [[objektai/ivykiai/1449 m. amžinoji taika su Maskva.md#claim-t-100029|1449 m. amžinoji taika su Maskva]]: Vytauto ir Kazimiero laikais Lietuvos ekspansija į rytus pasiekė kulminaciją, kurią žymėjo 1449 m. amžinoji taika su Maskva.
@@ -524,6 +530,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas.md#claim-t-75099|Gegužės trečiosios konstitucijos priėmimas]]: Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.
 - susijęs iš [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas.md#claim-t-75101|Gegužės trečiosios konstitucijos priėmimas]]: Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.
 - susijęs iš [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas.md#claim-t-75102|Gegužės trečiosios konstitucijos priėmimas]]: Gegužės trečiosios konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.
+- susijęs iš [[objektai/ivykiai/Herbų vienovės įvedimas Horodlės seime 1413 m.md#claim-t-189623|Herbų vienovės įvedimas Horodlės seime 1413 m (seimas, XV a.)]]: Narbutas aiškina, kad herbas „Paparona“ arba „Kiniglis“ lietuviškai reiškia ne kiškį, kaip rašė Neseckis, o triušį.
 - susijęs iš [[objektai/ivykiai/Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula.md#claim-t-185582|Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula]]: Glinskis nutraukė Minsko apgulą, nužygiavo į Borisovą ir Oršą, o karalius Žygimantas atkakliai persekiojo atsitraukiantį Glinskį.
 - susijęs iš [[objektai/ivykiai/Karas tarp Švitrigailos ir Žygimanto Kęstutaičio.md#claim-t-185710|Karas tarp Švitrigailos ir Žygimanto Kęstutaičio]]: Unijos sąlygų įgyvendinimas privedė prie Lietuvos Didžiosios Kunigaikštystės skilimo ir karo tarp Švitrigailos bei Žygimanto Kęstutaičio.
 - susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186634|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimiero Tarybos ponai su kariuomene tris savaites stovėjo prie Smolensko, bet miesto neįveikė.
@@ -633,6 +640,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš Liublino unijos aktas (1569 m.): 1562 m. Vitebsko karo lauko seimas pasiuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
 - susijęs iš Miechovitos metraščiai: Miechovita savo metraščiuose piktinosi Aleksandro Balinskio gydymu Vilniuje, per kurį karalius Aleksandras vos neužduso garo vonioje.
 - susijęs iš Motiejaus Stryjkovskio kronika (1582 m.): XVI a. antroje pusėje, remiantis Lietuvos Metraščiu ir Motiejaus Stryjkovskio kronika, Lietuvos istorija buvo pradedama nuo Nerono laikų.
+- susijęs iš Musų senovė: „Musų senovės“ 1940 m. trečiame tome nurodomi J. Spudulio laiškai A. Dambrauskui-Jakštui.
 - susijęs iš Napoleono teisynas: Augustinas Janulaitis „Napoleono teisyną“ paskelbė 1930 m.
 - susijęs iš Napoleono teisynas: „Napoleono teisynas“ buvo išleistas 1930 m.
 - susijęs iš Pirmasis Lietuvos Statutas: Skelbdamas Pirmąjį Lietuvos Statutą, Žygimantas Senasis Vilniaus miestiečiams taikė Magdeburgo teisės bylinėjimosi laisvės principą.
@@ -652,8 +660,6 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš Braclavas: Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės, arba Braclavo, vaivadijas.
 - susijęs iš Breslauja: Švitrigaila ir Livonijos magistras Breslaujoje sujungė savo pajėgas žygiui į Lietuvą.
 - susijęs iš Dakija: Boleslovas, bijodamas rimtesnių veiksmų prieš jį, pasitraukė iš Lucko į Dakiją.
-- susijęs iš Deltuva: Ipatijaus metraštis Deltuvą prie Ukmergės mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų.
-- susijęs iš Deltuva: Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų .
 - susijęs iš Dubysos sala: 1396 m. Vytautas Dubysos saloje susitiko su magistru, kuris jam pateikė Ordino reikalavimus.
 - susijęs iš Irpenė: Istorinė rusų tradicija Gediminą prie Irpenės siejo su Kijevo paėmimu ir Kijevo kunigaikštystės prijungimu prie Lietuvos.
 - susijęs iš Italija: Aukštojo mokslo siekę ne dvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus.
@@ -675,16 +681,16 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš Kuoknesė: Arkivyskupas, nesitikėdamas pergalės kovos lauke, su rinktinių vyrų kariauna pasitraukė į Kuoknesę.
 - susijęs iš Leipūnai: Valkininkų kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose.
 - susijęs iš Lenkija: Ratifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą.
+- susijęs iš Lenkija: Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.
 - susijęs iš Lenkija: 1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ organizacijos sukilimui rengti.
 - susijęs iš Lenkija: Krėvos sutartį, autorių vertinimu, galima laikyti Lenkijos Karalystės ir Lietuvos didžiojo kunigaikščio susitarimu.
 - susijęs iš Lenkija: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
+- susijęs iš Lenkija: Narbutas spėjo, kad kai kurie lietuviški herbai į Lenkijos herbynus pateko atsikėlus jais besinaudojusioms šeimoms.
 - susijęs iš Liepoja-Romnai: Septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelio linija Liepoja–Romnai.
 - susijęs iš Lietuva: 1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopino paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią Lenkijos ir Lietuvos valstybę.
-- susijęs iš Lietuva: Ūkiai Lietuvoje buvo netvarkyti nuo senų senovės.
 - susijęs iš Lietuva: Kaunas, vadintas vartais į pagoniškąją Lietuvą, buvo miestas, pagarsėjęs tvirtovėmis ir prekyba.
 - susijęs iš Lietuva: 1897 m. surašymo duomenimis, gyventojų skaičius maždaug dabartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln.
 - susijęs iš Lietuva: Lenkijai prijungus sritis, neprisiekusių bajorų žemės buvo atimtos, todėl Lietuvai grėsė suvereniteto praradimas.
-- susijęs iš Lietuva: Sugriovus pilis, žemdirbiai palikdavo kaimus, o priešas leisdavosi vis toliau į Lietuvos gilumą.
 - susijęs iš Luckas: 1388 m. Šv. Jono Krikštytojo dieną Lucke dalyvavo Lucko vaivada ir kiti liudytojai.
 - susijęs iš Luckas: Boleslovas, bijodamas rimtesnių veiksmų prieš save, pasitraukė iš Lucko į Dakiją.
 - susijęs iš Lvovas: Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus.
@@ -742,7 +748,6 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš Vidurio Europa: Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams, vadinamiems Vidurio Europa.
 - susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis.
 - susijęs iš Vilniaus kraštas: 1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.
-- susijęs iš Vilnius: Pirmasis Stepono Batoro atvykimas į Vilnių 1579 metų pavasarį buvo įsimintinas miestui.
 - susijęs iš Vilnius: Vilnius tapo Žygimanto ir Švitrigailos grupuočių kovos taikiniu.
 - susijęs iš Vilnius: Vilniuje pakrikštyti pagonys gyventojai, užgesinta amžinoji ugnis ir pradėta statyti Šv. Stanislovo katedra.
 - susijęs iš Vilnius: 1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.
@@ -1024,7 +1029,8 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - Bajorai priklause [[objektai/grupes/Lietuvos kariuomenė]]
 - Bajorai keliavo_i [[objektai/vietos/Marienburgas]]
 - Bajorai keliavo_i [[objektai/vietos/Tilžė]]
-- [[objektai/grupes/Litvinai]] priklause Bajorai
+- [[objektai/daiktai/Antspaudai]] priklause Bajorai
+- Bajorai priklause [[objektai/vietos/Trakų pavietas arba vaivadija]]
 - [[objektai/daiktai/Habdankas]] priklause Bajorai
 - Bajorai reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Jekaterina II]] reme Bajorai

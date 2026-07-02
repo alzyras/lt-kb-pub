@@ -169,6 +169,7 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
 - susijęs iš Medvėgalis: 1329 m. brolis Verneris su kariuomene apsupo Medvėgalio pilį, kuri po ilgų kovų pasidavė krikščionių tikėjimui.
 - susijęs iš Medvėgalis: 1329 m. brolis Verneris su kariuomene apsupo Medvėgalio pilį, kuri po ilgų kovų pasidavė krikščionių tikėjimui.
 - susijęs iš Nemunas: Henrikui iš Plockės puolant Bisenės pilį, upe atplaukę kariai iš laivų nutiesė tiltą per Nemuną, bet apgula baigėsi nesėkme.
+- susijęs iš Nemunas: Narbutas pateikė iš Hartknocho paimtą lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, maldos pavyzdį.
 - susijęs iš Pagraudė: 1317 m. vasarą apie birželio 24 d. maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.
 - susijęs iš Prūsija: 1329 m. Jonas Liuksemburgietis, Čekijos karalius, su kilmingaisiais atžygiavo į Prūsijos žemę.
 - susijęs iš Semba: Kimenavos pilėnams buvo paskirtas vedlys ir įsakyta nedelsiant keliauti į Sembos žemę.

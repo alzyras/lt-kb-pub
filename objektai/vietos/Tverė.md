@@ -495,7 +495,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - susijęs iš [[objektai/asmenys/Dimitras (Tverės kunigaikštis).md#claim-t-97315|Dimitras (Tverės kunigaikštis)]]: Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54959|Elena (vyskupas, XV–XVI a.)]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais.
 - susijęs iš [[objektai/asmenys/Eugenijus IV.md#claim-t-87661|Eugenijus IV]]: Popiežius Eugenijus IV 1434 m. spalio 20 d. laiške Žygimantui Kęstutaičiui užtarė Švitrigailos žmoną Sofiją.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05175|Gediminas]]: Gediminas jungė kitų baltų žemes į savo valstybę, paimdamas ir dalį Jotvingos.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05175|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas jungė kitų baltų žemes į savo valstybę, paimdamas ir dalį Jotvingos.
 - susijęs iš [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis).md#claim-t-183741|Ivanas (Tverės didysis kunigaikštis)]]: Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą su šeima ir bajorais, o vėliau buvo garbingai išlydėtas su dovanomis.
 - susijęs iš [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis).md#claim-t-39538|Ivanas (Tverės didysis kunigaikštis)]]: Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą ir buvo garbingai išlydėtas su daugybe dovanų.
 - susijęs iš [[objektai/asmenys/Jonas Kalita.md#claim-t-30308|Jonas Kalita]]: Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.

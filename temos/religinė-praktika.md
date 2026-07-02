@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 11.
+Objektų skaičius: 12.
 
 ## Kaip naudoti
 
@@ -23,6 +23,7 @@ Objektų skaičius: 11.
 - [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]
 - [[objektai/paprociai/Apeiginis vanduo iš šventųjų šaltinių ir šulinių]]
 - [[objektai/paprociai/Apidomės šaukimasis ir namo perkėlimas po blogo ženklo]]
+- [[objektai/paprociai/Austėjos šaukimasis viliojant bičių spiečių]]
 - [[objektai/paprociai/Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas]]
 - [[objektai/paprociai/Gabijos maldelė jaujoje džiovinant javus]]
 - [[objektai/paprociai/Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika]]

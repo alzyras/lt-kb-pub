@@ -6,23 +6,25 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1232 m.'
   - '1254 m.'
+  - '1262 m.'
+  - '1264 m.'
   - '1322 m.'
   - '1348 m.'
-  - '1352 m.'
-  - '1363 m.'
   - '2026 m.'
-date_start: '1254'
+date_start: '1232'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Ariogala
 
@@ -31,7 +33,6 @@ amziai:
 Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas užrašė karūnavimo metais, ir kaip XIV amžiaus karo veiksmų erdvė. Ji minima kryžiuočių niokojamų sričių sąraše ir Ariogalos–Dubysos rajono žygių aprašuose.
 
 ## Teiginiai
-
 <a id="claim-t-179746"></a>
 - t-001
   global_id: t-179746
@@ -81,7 +82,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   global_id: t-179751
   teiginys: 'Ariogalos apylinkės buvo laikomos pagonims svarbia vietove, siejama su Romuva, Perkūno šventykla ir Krivių Krivaičio buveine.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas teiginys apie Ariogalą.'
-  susije_objektai: 'mentioned_place: Romuva; mentioned_place: Raseiniai; mentioned_place: Vaikiai; mentioned_place: Viena; mentioned_place: Šventoji'
+  susije_objektai: 'mentioned_place: Romuva; mentioned_group: [[objektai/grupes/Vaidilos|Vaidilos]]; mentioned_place: Raseiniai; mentioned_place: Vaikiai; mentioned_place: Viena; mentioned_place: Šventoji'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -100,7 +101,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   global_id: t-179752
   teiginys: 'Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir citata patvirtina, kad palyda pasiekė Ariogalos apylinkes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bisenė; mentioned_place: Raseiniai; mentioned_place: Romuva; llm_object: Bisenė'
+  susije_objektai: 'llm_object: Bisenė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vaidilos|Vaidilos]]; mentioned_place: Bisenė; mentioned_place: Raseiniai; mentioned_place: Romuva'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -164,21 +165,87 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą apie Ariogalos žemių sunaikinimą.'
   pagrindžia:
     - c-008
+
+<a id="claim-t-188665"></a>
+- t-010
+  global_id: t-188665
+  teiginys: 'Narbutas Liutaurą vadina jūrų karžygiu ir rašo, kad jis 1262 m. atstatė senovinę Ariogalą.'
+  pagrindžia:
+    - c-009
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 361734-361980; hash=73f9b86b5b1f5f04cf03eef7c0e370b25c6098b75946181f912f028a4007463a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: puole -> Bisenė: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje aiškiai pasakyta, kad kryžiuočių kariauna puolė Bisenės pilies link.
+<a id="claim-t-188666"></a>
+- t-011
+  global_id: t-188666
+  teiginys: 'Narbutas rašo, kad Liutauro sūnus Vytenis, gimęs 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocko kunigaikštystę.'
+  pagrindžia:
+    - c-010
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 362717-363215; hash=80b5fff2485f350cfc6b992a78920c8fb51d71e014a125646a60644af9cc115d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: valde -> Polockas: 0.74
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Liutauras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sakinys teigia, kad Vytenis valdė Polocką kartu su tėvu; tėvas tame pačiame sakinyje yra Liutauras.
+<a id="claim-t-188667"></a>
+- t-012
+  global_id: t-188667
+  teiginys: 'Narbutas Ariogalos pavadinimą kildina iš keliautojų posakio „E-ira galas, nėra galo“, ištarto susidūrus su kliūtimis miškuose.'
+  pagrindžia:
+    - c-011
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 375250-375811; hash=768a74b343a6804895fbca0996f9b1b4106396647a1a6abbccb113e322b3eb45; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuvos laisvės kovos sąjūdis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ariogala: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuvos laisvės kovos sąjūdis: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ariogala" parinktas kaip owner_note_path. Targetas "Lietuvos laisvės kovos sąjūdis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Livonijos riteriai.md#claim-t-189480|Livonijos riteriai]]: Narbutas Gediminą vaizduoja kaip Ariogaloje iškilusį kovotoją su kryžiuočiais ir Livonijos riteriais.
+- susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188528|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188528|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-188651|Vytenis (valdovas, XIII–XIV a.)]]: Narbuto pasakojime Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocką.
 - susijęs iš [[objektai/autoriai/Petras Suchenwirt.md#claim-t-30926|Petras Suchenwirt]]: Petras Suchenwirtas eilėmis aprašė iškilmingą žygį Ariogalos ir Dubysos rajone.
 - susijęs iš [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.).md#claim-t-31505|Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]: 1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis.
 - susijęs iš Raseiniai: Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
 - susijęs iš Raseiniai: Žemaitijos nusiaubimo metu Raseinių valsčius buvo sulygintas su žeme kartu su Vaikių, Ariogalos ir Klogėnų valsčiais.
 - susijęs iš Vaikiai: Iš Prūsijos atžygiavęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.
 - susijęs iš Žemaitija: Iš Prūsijos patraukęs priešas nusiaubė Žemaitiją ir sulygino su žeme Vaikių, Raseinių, Ariogalos bei Klogėnų valsčius.
+- susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184612|fogtas]]: Sembos fogto vedami kryžiuočiai, negalėdami pasivyti namo traukiančio Kęstučio, nusiaubė Ariogalos žemes.
 - susijęs iš [[objektai/asmenys/Aleksandras Karijotaitis.md#claim-t-186174|Aleksandras Karijotaitis]]: Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę ir Ragainę bei išsivarė 800 belaisvių.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184668|Algirdas (Lietuvos valdovas)]]: Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.
 - susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
+- susijęs iš [[objektai/asmenys/Dormunimundas.md#claim-t-190143|Dormunimundas]]: Narbuto pasakojime Imino vaikaitis Dormunimundas valdė Žemaitijoje ir buvo Liutauro tėvas.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
+- susijęs iš [[objektai/asmenys/Glapiminas.md#claim-t-190153|Glapiminas]]: Narbutas pasakoja, kad Imino vaikaitis Glapiminas XII amžiuje po kunigaikščio užkariavimo sugrįžo į Lietuvą.
+- susijęs iš [[objektai/asmenys/Sutinkąs.md#claim-t-190211|Sutinkąs]]: Narbutas pasakoja, kad Imino vaikaičio Glapimino sūnus Sutinkąs valdė Žemaitijoje.
 - susijęs iš [[objektai/daiktai/Lietuvos partizanų uniformos.md#claim-t-80689|Lietuvos partizanų uniformos]]: Bunkeryje buvę trylika vyrų vilkėjo lietuviškas uniformas, o vienas dėvėjo uniformą su liudininkės siuvinėtu antsiuvu.
 - susijęs iš [[objektai/daiktai/Romuva kaip Perkūno šventykla.md#claim-t-87093|Romuva kaip Perkūno šventykla]]: Romuva buvo laikoma Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindine buveine.
 - susijęs iš [[objektai/daiktai/Vaikių pilis ir aplinkiniai pastatai.md#claim-t-87095|Vaikių pilis ir aplinkiniai pastatai]]: Vaikių krašte šventoji giria, netoliese stovėjusi pilis ir aplinkiniai pastatai per vieną naktį buvo sudeginti iki pamatų.
+- susijęs iš [[objektai/grupes/Lietuvos ponai.md#claim-t-189495|Lietuvos ponai]]: Narbutas rašė, kad Lietuvos ponai 1316 m. sausį Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą.
+- susijęs iš [[objektai/grupes/Livonijos riteriai.md#claim-t-189480|Livonijos riteriai]]: Narbutas Gediminą vaizduoja kaip Ariogaloje iškilusį kovotoją su kryžiuočiais ir Livonijos riteriais.
 - susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-183910|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: Per 1294 m. žiemos Paštuvos ir Gaižuvos valsčių puolimą buvo nužudyta arba paimta į nelaisvę 100 žmonių, o kariuomenė grįžo su dideliu grobiu.
 - susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-62737|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: 1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurios įsiveržė į Paštuvos ir Gaižuvos valsčius ir juos nusiaubė gaisrais.
 - susijęs iš Daugėliškių miškas: 1950 m. liepos 22 d. Daugėliškių miške MGB 208-ojo pulko kareiviai puolė partizanų bunkerį, per puolimą žuvo 5 partizanai.
@@ -197,6 +264,8 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - susijęs iš Vaikiai: Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastatais per vieną naktį buvo sudeginta.
 - susijęs iš Vilkija: 1950 m. liepos 22 d. Daugėliškių miške ties Ariogalos ir Vilkijos rajonų riba MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.
 - susijęs iš Šiaurės Žemaitija: 1348 m. kovo mėn. Livonijos ordinas vėl puolė Šiaurės Žemaitiją ir sunaikino Kulių, Dubysos bei kitas pilis.
+- susijęs iš Žemaitija: Žemaitijoje plėšikavusios kryžiuočių kariuomenės karys, atsilikęs po kritimo nuo žirgo, pėsčiomis grįžo į Ragainę.
+- susijęs iš Žemaitija: Narbutas pasakoja, kad Glapimino sūnus Sutinkąs ir vaikaitis Dormunimundas valdė Žemaitijoje.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70227|maldininkai / maldininko įžadai]]: Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58828|maldininkai]]: Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-42479|maršalas]]: 1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę.
@@ -204,7 +273,6 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - susijęs iš Medininkų žemė: 1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę.
 - susijęs iš [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.).md#claim-t-31505|Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]: 1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -371,8 +439,67 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+- c-009
+  santrauka: 'Narbutas Liutaurą vadina jūrų karžygiu ir rašo, kad jis 1262 m. atstatė senovinę Ariogalą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
+    tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o
+    vaikaitis Dormunimundas valdė Žemaitijoje. Šiojo sūnus Liu­
+    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-010
+  santrauka: 'Narbutas rašo, kad Liutauro sūnus Vytenis, gimęs 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocko kunigaikštystę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    O Lietu­
+    vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
+    niotos mirties, nusiuntė Liutaurą užimti Polocko, kad šis val­
+    dytų jį kaip vietininkas. Liutauro sūnus Vytenis, gimęs 1232
+    metais Žemaitijoje, gyveno Ariogaloje; jis išgarsėjo rusų ka­
+    ruose su totoriais, buvo paimtas į nelaisvę, buvo Batu stovyk­
+    loje, Kumanų žemėje, pagaliau grįžo ir valdė Polocko kuni­
+    gaikštystę kartu su savo tėvu. Tebesitęsiančios tarpusavio ko­
+    vos Lietuvoje buvo daugelio valstybės permainų priežastis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+- c-011
+  santrauka: 'Narbutas Ariogalos pavadinimą kildina iš keliautojų posakio „E-ira galas, nėra galo“, ištarto susidūrus su kliūtimis miškuose.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Taip atsirado Čekiškės (Czekiszki) pa­
+    vadinimas; dabar taip vadinamas miestelis. Plaukdami tolyn,
+    jie pateko į neaprėpiamus miškus ir, susidūrę su daugybe kliū­
+    čių, trukdančių toliau keliauti, kalbėjo: E-ira galas, nėra ga­
+    lo; toji vieta buvo praminta Eiriogala (Ariogala), o miestelis
+    iki šiol tebesivadina tokiu vardu. Siek tiek pasistūmėję upe
+    aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
+    ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
+    nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
+    (Betygola) pavadinimas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] gyveno Ariogala
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] gyveno Ariogala
 - [[objektai/asmenys/Fridrichas iš Vildenbergo]] puole Ariogala
+- [[objektai/asmenys/Liutauras]] pastate Ariogala
 - Ariogala priklause [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]] puole Ariogala

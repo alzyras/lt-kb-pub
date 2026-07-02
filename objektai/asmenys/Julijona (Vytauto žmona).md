@@ -10,6 +10,11 @@ datos:
   - '1426 m.'
 date_start: '1426'
 date_end: ''
+description: 'Julijona, Vytauto žmona, minima 1426 m. ligos, Memitz prie Vilniaus, Trakų pilies koplyčios ir karūnacijos krizės kontekstuose.'
+socialDescription: 'Julijona siejama su vėlyvuoju Vytauto gyvenimu: 1426 m. liga, gydomaisiais gėrimais iš Pauliaus Rusdorfo, Trakų pilies koplyčia ir karūnacijos įtampa.'
+seo_atnaujinta: '2026-07-02T19:20:23.374947+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,7 +28,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūnacijos krizės ir mirties aplinkoje. Šaltiniai leidžia ją sieti su vėlyvuoju Vytauto gyvenimo laikotarpiu ir jos įtaka jo sprendimams bei buitiniam elgesiui.
+Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio duktė ir graikų apeigų tikėjimo išpažinėja. 1426 m. ji sirgo, buvo apsistojusi Memitz prie Vilniaus ir iš didžiojo magistro Pauliaus Rusdorfo gavo gydomųjų gėrimų. Ji taip pat minima Vytauto karūnacijos krizės ir mirties aplinkoje.
 
 ## Teiginiai
 

@@ -42,6 +42,7 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 - susijęs iš [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku.md#claim-t-54499|Vilnius tapo žodžio ir rašto rungtynių lauku]]: Vilniaus kaip žodžio ir rašto rungtynių lauko vaizdinys siejamas su jėzuitų ir disidentų kova dėl įtakos Lietuvoje.
 - susijęs iš Vilnius: Stepono Batoro laikais Vilnius tapo katalikų ir protestantų žodžio bei rašto varžybų lauku.
 - susijęs iš Vilnius: 1538 m. Abraomas Kulvietis Vilniuje atidarė protestantiškąją mokyklą, bet netrukus buvo priverstas ją uždaryti ir pasišalinti.
+- susijęs iš Vilnius: Narbutas piktukų pavadinimą siejo su žodžiu „piktas“ ir minėjo netoli Vilniaus esantį Piktukonių kaimą.
 - susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86464|disidentai reformatai reformatoriai]]: Lietuvos disidentai reformatai nepajėgė sutelkti tokių stiprių pajėgų kovai su Vilniaus jėzuitais.
 ## Reikšmingi paminėjimai
 

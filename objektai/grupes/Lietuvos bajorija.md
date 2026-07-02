@@ -9,19 +9,20 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1401 m.'
+  - '1413 m.'
   - '2026 m.'
 date_start: '1401'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
+  - 'XXI'
 tags:
   - bajorija
   - grupe
   - kunigaikštis
   - valdovas
-amziai:
-  - 'XV'
-  - 'XXI'
 ---
 # Lietuvos bajorija
 
@@ -30,7 +31,6 @@ amziai:
 Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laikąs jį ir Lietuvos bajorus laisvais ar nelaisvais. Jo valdymo metu Lietuva jau tiek sutvirtėjo, jog apie jos priklausomybę Lenkijai nebegalėjo būti nė kalbos, ir Lietuvos bajorai tuojau po jo mirties, nieko nesiklausę, paskelbė savo valdovu Švitrigailą. Lietuvos bajorija pasistengė šituo momentu pasinaudoti.
 
 ## Teiginiai
-
 <a id="claim-t-187873"></a>
 - t-001
   global_id: t-187873
@@ -134,41 +134,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   saltinio_vieta: hash=d050acaf4895c8923ed2fde9e981de7b2ddd203af4cf66e9213fc10e0f3c2cb5; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair
 
-<a id="claim-t-187881"></a>
-- t-009
-  global_id: t-187881
-  teiginys: 'Įvadinio straipsnio autorius neigiamą požiūrį į sulenkėjusią Lietuvos bajoriją sieja su nutolimu nuo jos kūrybos ir istorijos tyrimų supratimo.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išlaikyta atribucija, nes citatoje pateikiamas vertinamasis istoriografinis aiškinimas. Nepridėta naujų priežasčių ar pasekmių.'
-  susije_objektai: 'mentioned_place: Lietuva; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]] priklausė Lietuva'
-  pagrindžia:
-    - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 900630-900868; hash=630addab9f1fddba14d981cfa59c8121049dd5c0dab3b7cc8122cd06a8e74108; match=exact
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair
-
-<a id="claim-t-187882"></a>
-- t-010
-  global_id: t-187882
-  teiginys: 'Įvadinio straipsnio autorius XVI–XVIII a. lietuvį istorinėje Lietuvoje apibrėžia kaip bajorą, gynusį politines laisves ir Lietuvos Statuto teises.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Lietuvos bajorijos apibrėžimą įvadiniame straipsnyje. Palikta autorinė atribucija, nes citata apibrėžia istorinės tapatybės sampratą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]] gynė Lietuva'
-  pagrindžia:
-    - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 449237-449724; hash=fbcccb98080cf76a9f72a976b12db6270396ca875b60bc40934e5dd3a9edf8be; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos bajorija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos bajorija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
 <a id="claim-t-187884"></a>
 - t-011
   global_id: t-187884
@@ -244,6 +209,111 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   sudarymo_pagrindimas: 'Šaltinis palaiko faktą, bet pradiniame teiginyje yra OCR triukšmo.'
   pagrindžia:
     - c-006
+
+<a id="claim-t-188281"></a>
+- t-020
+  global_id: t-188281
+  teiginys: 'Įvadinio straipsnio autorius teigia, kad neigiamas požiūris į sulenkėjusią Lietuvos bajoriją atitolino nuo jos kūrybos ir istorijos tyrimų supratimo.'
+  pagrindžia:
+    - c-014
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 2187-2604; hash=faf93bd02ffc67f0a48eace1c8b8cf2d571c73634d9599591cbef943792f580a; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos bajorija: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos bajorija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188282"></a>
+- t-021
+  global_id: t-188282
+  teiginys: 'Įvadinio straipsnio autorius XVI–XVIII a. lietuvį istorinėje Lietuvoje apibrėžia kaip bajorą, gynusį politines laisves ir Lietuvos Statuto teises.'
+  pagrindžia:
+    - c-015
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 2745-3215; hash=fe01a0888195bee73275f06be6c32fc2c16a0eb4486edc39594ced10a2d519a0; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos bajorija: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos bajorija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188283"></a>
+- t-022
+  global_id: t-188283
+  teiginys: 'Narbutas perteikia autoriaus pagyrimą Lietuvos bajorams, kurie, vėl paklusę Apaštališkajam sostui, esą nusipelnė didžio vardo Bažnyčioje.'
+  pagrindžia:
+    - c-017
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 706043-706447; hash=80a56679bfacfee87334b75ae74b93a67aff478a28e6319442d49826a83021e9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos bajorija: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos bajorija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188284"></a>
+- t-023
+  global_id: t-188284
+  teiginys: 'Narbutas teigė, kad keli aiškiai lietuviški herbai pateko į Lenkijos herbynus veikiausiai atsikėlus juos naudojusioms šeimoms.'
+  pagrindžia:
+    - c-018
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 722076-722503; hash=6644a62598cb7e4ebcb041c04258e1e69112d81ad0e66b6f226e688d1e9f7292; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos bajorija: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Herbai: mention_match, thing, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos bajorija" parinktas kaip owner_note_path. Targetas "Herbai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- t-024
+  teiginys: 'Įvadinio straipsnio autorius teigia, kad lenkiškai parašytas Narbuto veikalas išryškino lietuvių ir koroniažų etnokultūrinius skirtumus.'
+  pagrindžia:
+    - c-016
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 15648-16020; hash=415c8c6214556da94dcc9542c41d68baa191dc4128bada767738ddca699a1e8b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos bajorija: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos bajorija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- t-025
+  teiginys: 'Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį.'
+  pagrindžia:
+    - c-019
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 724601-725204; hash=036be1fe91bc84ddf833475da27f1b04f9f0daa07374e52a528ab3c578327035; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Bajorai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antspaudai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad bajorai turėjo senovinius antspaudus.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-12291|Herbai]]: Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92966|Herbai]]: Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius - herbus ir palengva virto atskiru luomu.
 - susijęs iš [[objektai/autoriai/Laurynas Ivinskis.md#claim-t-113486|Laurynas Ivinskis]]: Laurynas Ivinskis buvo žemaičių bajoras ir lietuviškų kalendorių leidėjas, gyvenęs 1808–1881 m.
@@ -259,6 +329,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - susijęs iš [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.).md#claim-t-66624|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]: Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą.
 - susijęs iš [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija.md#claim-t-54264|LDK politinės tautos savivoka ir Palemono kilmės tradicija]]: Lietuvos metraščiuose sukurta Palemono ir jo ainių legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
 - susijęs iš [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija.md#claim-t-54265|LDK politinės tautos savivoka ir Palemono kilmės tradicija]]: Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
+- susijęs iš Musų senovė: „Musų senovės“ 1940 m. trečiame tome nurodomi J. Spudulio laiškai A. Dambrauskui-Jakštui.
 - susijęs iš Lenkija: Ratifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą.
 - susijęs iš Lenkija: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
 - susijęs iš Lenkija: Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai.
@@ -269,7 +340,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - susijęs iš [[objektai/zodynas/politinė tauta lietuvių nacija.md#claim-t-22247|politinė tauta lietuvių nacija]]: Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai vesti savo kilmę Palemono tradicija.
 - susijęs iš [[objektai/zodynas/statutas.md#claim-t-100291|statutas]]: Lietuvos bajorija priešinosi bendro kodekso įvedimui, nes nenorėjo išsižadėti Lietuvos statuto ir atskirų teisių.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -285,43 +355,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-- c-002
-  santrauka: 'Įvadinio straipsnio autorius neigiamą požiūrį į sulenkėjusią Lietuvos bajoriją sieja su nutolimu nuo jos kūrybos ir istorijos tyrimų supratimo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Prie tokių žmonių galima priskirti
-    Teodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių
-    tautos istorija“ (toliau -  LTI) tapo Lietuvos istoriografijos pa­
-    minklu ir lietuvių tautos kultūriniu palikimu. Įsigalėjęs neigia­
-    mas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir
-    socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
-    ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-- c-003
-  santrauka: 'Įvadinio straipsnio autorius XVI–XVIII a. lietuvį istorinėje Lietuvoje apibrėžia kaip bajorą, gynusį politines laisves ir Lietuvos Statuto teises.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Juk Lietuvos istorija -  tai ne vien pagoniškas
-    tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
-    jorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė
-    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,
-    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
-    tūrinio paveldo arealas. XVI-XVIII a. lietuvis -  tai bajoras,
-    stropiai ginantis savo politines laisves ir besididžiuojantis Lie­
-    tuvos statuto suteiktomis teisėmis.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -526,11 +559,123 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+- c-014
+  santrauka: 'Įvadinio straipsnio autorius teigia, kad neigiamas požiūris į sulenkėjusią Lietuvos bajoriją atitolino nuo jos kūrybos ir istorijos tyrimų supratimo.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Prie tokių žmonių galima priskirti
+    Teodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių
+    tautos istorija“ (toliau -  LTI) tapo Lietuvos istoriografijos pa­
+    minklu ir lietuvių tautos kultūriniu palikimu. Įsigalėjęs neigia­
+    mas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir
+    socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
+    ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-020
+- c-015
+  santrauka: 'Įvadinio straipsnio autorius XVI–XVIII a. lietuvį istorinėje Lietuvoje apibrėžia kaip bajorą, gynusį politines laisves ir Lietuvos Statuto teises.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Juk Lietuvos istorija -  tai ne vien pagoniškas
+    tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
+    jorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė
+    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,
+    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
+    tūrinio paveldo arealas. XVI-XVIII a. lietuvis -  tai bajoras,
+    stropiai ginantis savo politines laisves ir besididžiuojantis Lie­
+    tuvos statuto suteiktomis teisėmis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-021
+- c-016
+  santrauka: 'Įvadinio straipsnio autorius teigia, kad lenkiškai parašytas Narbuto veikalas išryškino lietuvių ir koroniažų etnokultūrinius skirtumus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­
+    kino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­
+    tojų) skirtumus. „Lenkų istorikai ir istorijos tyrėjai visuomet
+    mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių
+    reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,
+    kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-024
+- c-017
+  santrauka: 'Narbutas perteikia autoriaus pagyrimą Lietuvos bajorams, kurie, vėl paklusę Apaštališkajam sostui, esą nusipelnė didžio vardo Bažnyčioje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Autorius pateikia iš­
+    kalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­
+    gyne. Baigdamas už uolų tikėjimą pagiria Lietuvos bajorus,
+    kurie, vėl paklusę Apaštališkajam sostui, nusipelno didžio var­
+    do visoje bažnyčioje. Pranašauja, kad Lenkijos ir Lietuvos tau­
+    tos niekad nenukryps panašiai kaip čekai, kadangi didis val­
+    dovo tikėjimas bei valdinių prisirišimas prie sosto yra didelis
+    šito laidas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-022
+- c-018
+  santrauka: 'Narbutas teigė, kad keli aiškiai lietuviški herbai pateko į Lenkijos herbynus veikiausiai atsikėlus juos naudojusioms šeimoms.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Vienas kitas aiškiai lietuviškas her­
+    bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
+    rios tais herbais naudojosi. Tik 1413 metais, po Lietuvos uni­
+    jos su Lenkija Horodlės seime, abiejų tautų susijungimo žen-
+    klan Lenkijos bajorai suteikė savo herbus lietuvių bajorams ir
+    įvesta herbų vienovė.
+    Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
+    herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-023
+- c-019
+  santrauka: 'Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pa­
+    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
+    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
+    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
+    boje žodis „ Kiniglis“ būtent tą ir reiškia *.
+    Nors pirmaujančios lietuvių giminės po Horodlės seimo
+    naudojosi antspaudais su lenkiškais herbais, vis dėlto vargin­
+    gesnį bajorai dar ilgai turėjo savo senovinius antspaudus. Juo­
+    se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
+    XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
+    dalo ir seno graviravimo signečių pėdsakas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-025
 
 ## Ryšiai
 - Lietuvos bajorija buvo_priesas [[objektai/grupes/Sapiegos]]
 - [[objektai/daiktai/Herbai]] priklause Lietuvos bajorija
 - Lietuvos bajorija buvo_priesas [[objektai/grupes/Sapiegų kariuomenė]]
-- Lietuvos bajorija priklause [[objektai/vietos/Lietuva]]
 - Lietuvos bajorija buvo_sajungininkas_su [[objektai/grupes/Lenkijos bajorija]]
-- Lietuvos bajorija gyne [[objektai/vietos/Lietuva]]

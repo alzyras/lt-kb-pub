@@ -198,6 +198,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš Kuršas: 1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius.
 - susijęs iš Kuršo žemė: 1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo žemės dalį, grobdami, degindami ir išsivesdami belaisvius.
 - susijęs iš Nemunas: Kronikininkas, aprašęs kovas Skalvoje abipus Nemuno, pažymėjo, kad broliai daug kartų kariavo su skalviais.
+- susijęs iš Nemunas: Narbutas Zapyškį lokalizavo kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, anksčiau vadinto Upinės upeliu.
 - susijęs iš Osa: Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą prūsų gyvenamą teritoriją pietvakariuose riboja Osa ir Vysla.
 - susijęs iš Veliuona: 1360 m. maršalo vadovaujama Ordino kariuomenė su talkininkais iš Vokietijos puolė Veliuonos pilį ir padarė jai daug žalos.
 - susijęs iš Ventės ragas: Kryžiuočiai prie Nemuno žiočių, Ventės rage, statė pilį, vadintą Vindenburgu.

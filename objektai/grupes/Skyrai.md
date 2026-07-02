@@ -37,7 +37,7 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   ryšio_subjekto_parinkimas: Skyrai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Herulai: mention_match, group, gap=7
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skyrai" parinktas kaip owner_note_path. Targetas "Herulai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176379|Gediminas]]: Gediminas dominikonams rašė pasiuntęs laišką popiežiui Jonui ir norįs sukviesti vyskupų, kunigų bei vienuolių.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176379|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas dominikonams rašė pasiuntęs laišką popiežiui Jonui ir norįs sukviesti vyskupų, kunigų bei vienuolių.
 - susijęs iš [[objektai/asmenys/Jonas (popiežius).md#claim-t-87523|Jonas (popiežius)]]: Gediminas pasiuntė laišką popiežiui Jonui, prašydamas, kad šis jį apvilktų pirmuoju krikšto rūbu.
 - susijęs iš [[objektai/asmenys/Jonas Marija.md#claim-t-87726|Jonas Marija]]: Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių.
 - susijęs iš [[objektai/asmenys/Juozefas Mianovskis.md#claim-t-87737|Juozefas Mianovskis]]: Juzefo Mianovskio užmiesčio namas, pramintas Belvederiu, stovėjo spėjamoje senosios liejyklos vietoje.

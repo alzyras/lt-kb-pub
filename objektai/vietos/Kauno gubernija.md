@@ -4,6 +4,7 @@ pavadinimas: 'Kauno gubernija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1843 m.'
   - '1917 m.'
@@ -12,11 +13,11 @@ date_start: '1843'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIX'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Kauno gubernija
 
@@ -25,7 +26,6 @@ amziai:
 Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 
 ## Teiginiai
-
 <a id="claim-t-170421"></a>
 - t-001
   global_id: t-170421
@@ -79,11 +79,11 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis „tokių“ ir patikslintas veiksmo pobūdis.'
-  susije_objektai: 'mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Minskas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 945384-945633; hash=2eb9b6077ac8fca0b232cc49903c4759035fc6467f7a7be0c64c9932f35fb569; match=exact
+  saltinio_vieta: 11701-11966; hash=68cfe72f49e8846b7ea16f61dcb9c8a16b461681fe193f939e0e260b7321e1f9; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Kaunas: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -93,8 +93,26 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kauno gubernija" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
-## Reikšmingi paminėjimai
+<a id="claim-t-188719"></a>
+- t-006
+  global_id: t-188719
+  teiginys: 'Kauno gubernija šiame apibūdinime priskiriama istorinei Lietuvai kartu su Vilniaus, Gardino ir Minsko gubernijomis.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 11701-11966; hash=68cfe72f49e8846b7ea16f61dcb9c8a16b461681fe193f939e0e260b7321e1f9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Lietuva: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kauno gubernija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Kauno guberniją įtraukia į istorinės Lietuvos apibrėžimą.
 
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vien Kauno gubernijoje kariuomenės egzekucijų prieš valstiečius buvo surengta 117.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -105,13 +123,11 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     daug dvarininkų, kad reikėjo jos atvežti net iš kitų gubernijų.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-005
-
 - c-002
   santrauka: '1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -129,13 +145,11 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -147,13 +161,11 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     ta išties mažai, priskirti Lietuvai.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-004
   santrauka: 'Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -167,13 +179,11 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     nei vyrų: atitinkamai 55 proc. ir 52 proc.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-005
   santrauka: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -191,12 +201,30 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
+- c-006
+  santrauka: 'Kauno gubernija šiame apibūdinime priskiriama istorinei Lietuvai kartu su Vilniaus, Gardino ir Minsko gubernijomis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    9
+
+    ## Puslapis 9
+
+    savarankišką kultūrinio palikimo vertinimą. Istorinė Lietuva -
+    tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ -
+    tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems
+    visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 - Kauno gubernija priklause [[objektai/vietos/Rusija]]

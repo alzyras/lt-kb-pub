@@ -96,7 +96,6 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58805|pilėnas pilėnai]]: Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46003|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46008|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos buvo vienas svarbiausių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
-- susijęs iš [[objektai/asmenys/Anzelmas.md#claim-t-60084|Anzelmas (vyskupas, XIII a.)]]: Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184728|Jogaila (kunigaikštis, XIV–XV a.)]]: Norėdamas palengvinti maisto stokos kamuojamos Lietuvos dalią, Jogaila įsakė į Lietuvą gabenti dvidešimt laivų grūdų.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05221|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus, jodinėjo keisdamas žirgus ir atstatinėjo pralaužtas vietas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176720|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus ir pralaužtas vietas atstatinėjo arba keitė naujais daliniais.

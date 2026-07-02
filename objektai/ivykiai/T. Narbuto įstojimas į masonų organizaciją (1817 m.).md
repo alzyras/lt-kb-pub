@@ -41,23 +41,26 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-187976"></a>
-- t-001
-  global_id: t-187976
+- t-002
   teiginys: 'R. Klimavičiaus nuomone, 1817 m. T. Narbutas įstojo į masonų organizaciją.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys išlaiko R. Klimavičiaus nuomonės atribuciją, nes citatoje įstojimas pateiktas kaip interpretacija pagal datą. Nepridedama platesnių duomenų apie masonų veiklą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_object: [[objektai/daiktai/Masonų apeigų taurė|Masonų apeigų taurė]]'
-  temporaliniai_duomenys: 'įvykio data: 1817 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys išlaiko R. Klimavičiaus nuomonės atribuciją, nes citatoje įstojimas pateiktas kaip interpretacija pagal datą. Nepridedama platesnių duomenų apie masonų veiklą.'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 7984-8392; hash=f03bc47b1b6fbeffefaef0021b2935180f880b5dfab016475f322507753f1d02; match=exact
+  sprendimo_priezastis: gap::events::validation_repair
+  ryšio_patikimumas: susije_su -> Masonų apeigų taurė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: T. Narbuto įstojimas į masonų organizaciją (1817 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Masonų apeigų taurė: mention_match, thing, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "T. Narbuto įstojimas į masonų organizaciją (1817 m.)" parinktas kaip owner_note_path. Targetas "Masonų apeigų taurė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'R. Klimavičiaus nuomone, 1817 m. T. Narbutas įstojo į masonų organizaciją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Masonų organizacijose kampainis simboli­
@@ -67,13 +70,14 @@ Nenurodyta
     organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
     mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
     Wilenski“ pasisakė prieš baudžiavinį išnaudojimą.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
+
 ## Data ir vieta
 
 Data: 1817 m.

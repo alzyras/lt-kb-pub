@@ -106,13 +106,11 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
     apgulę lauko etmono M. K. Paco kariai.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Aleksejus Michailovičius) vadovavo kunigaikštis Jokūbas Kudenekovičius Čerkaskis (iki krikšto — Uruskan-Murza), pasižymėjęs kovose su totoriais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -133,10 +131,9 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
     bartinėje Baltarusijos teritorijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
     - t-001

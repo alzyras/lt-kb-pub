@@ -8,6 +8,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -55,7 +56,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - tipas: pajūrio kraštas / regionas; kraštas / regionas; kraštas / istorinis regionas
 
 ## Teiginiai
-
 <a id="claim-t-178018"></a>
 - t-001
   global_id: t-178018
@@ -313,7 +313,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178036
   teiginys: 'Petro iš Dusburgo kronikoje Prūsijos žemė skirstoma į 11 atskirų žemių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Prūsijos skirstymą kronikoje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsų žemė; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Lubavas; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Lubavas; mentioned_place: Varmė; llm_object: Prūsija'
+  semantiniai_rysiai: 'Kulmas priklausė Prūsija; Lubavas priklausė Prūsija; Varmė priklausė Prūsija'
   pagrindžia:
     - c-035
   irodymo_stiprumas: 0.00
@@ -669,7 +670,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178062
   teiginys: 'Petro iš Dusburgo kronikoje Prūsijos vardu politine prasme vadintas Ordino užkariautas plotas nuo Vyslos iki Nemuno.'
   sudarymo_pagrindimas: 'Citata remia tikslesnį teiginį apie autoriaus vartoseną.'
-  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas; mentioned_place: Prūsų žemė; mentioned_place: Vysla; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Varmė'
+  susije_objektai: 'llm_object: Kulmas; llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Vysla; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Varmė; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
   semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo Prūsija'
   pagrindžia:
     - c-043
@@ -749,6 +750,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178070
   teiginys: 'Dusburgiečio kronikoje pabrėžiama, kad Ordino broliai apvalė „šventąją Prūsijos žemę“ nuo stabmeldystės.'
   sudarymo_pagrindimas: 'Tai teiginys apie kronikos religinę formuluotę, todėl reikalinga atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Vysla'
   pagrindžia:
     - c-021
   irodymo_stiprumas: 0.00
@@ -930,7 +932,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178083
   teiginys: 'Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje išvardytas Prūsijos ribas.'
-  susije_objektai: 'mentioned_place: Dobrynė; mentioned_place: Dobrynės kunigaikštystė; mentioned_place: Mazovija; mentioned_place: Vysla; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Pomeranija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Dobrynė; mentioned_place: Dobrynės kunigaikštystė; mentioned_place: Mazovija; mentioned_place: Prūsa; mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_place: Bysleida; mentioned_place: Romovė'
   pagrindžia:
     - c-055
   irodymo_stiprumas: 0.00
@@ -1060,7 +1062,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178091
   teiginys: '1326 m. Petras iš Dusburgo užbaigė kroniką, skirtą pagrįsti kryžiuočių užkariavimus Prūsijoje ir karą prieš Lietuvą.'
   sudarymo_pagrindimas: 'Reikia sklandesnio sakinio be perteklinio autoriaus kaip veikėjo akcento.'
-  susije_objektai: 'llm_object: Prūsija; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]'
+  susije_objektai: 'llm_object: Prūsija; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]'
   semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo Prūsija'
   temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1326 m.; įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
@@ -1187,7 +1189,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys sukonkretintas data ir pašalinta griozdiška parentetinė dalis.'
-  susije_objektai: 'mentioned_place: Klaipėda; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Martynas iš Opavos|Martynas iš Opavos]]; mentioned_place: Čekija; llm_object: Prūsija; llm_object: Klaipėda'
+  susije_objektai: 'llm_object: Prūsija; mentioned_place: Klaipėda; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Martynas iš Opavos|Martynas iš Opavos]]; mentioned_place: Čekija; llm_object: Klaipėda'
   semantiniai_rysiai: 'Klaipėda priklausė Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1278 m.; įvykio data: 1629 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
@@ -1213,8 +1215,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys pataisytas į sklandžią enciklopedinę formą.'
-  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] keliavo į Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; llm_object: Lietuva'
   pagrindžia:
     - c-058
   irodymo_stiprumas: 0.00
@@ -1323,15 +1324,15 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindžia:
     - c-065
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 1342-1638; hash=2fc1513d58b475afa3d376e41aea2a5363add8a96b020b6ed47ab6b633bf6ff1; match=exact
+  saltinio_vieta: 159909-160116; hash=dba6f039f29c1829b7e060ec351c69c5eb72f003b992b3b7526fe30fc6966527; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzkariavo -> Prūsija: 0.94
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.91
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai mini kryžiuočių užkariavimus Prūsijoje.
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini kryžiuočių užkariavimus Prūsijoje.
 
 <a id="claim-t-185108"></a>
 - t-083
@@ -1345,15 +1346,15 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindžia:
     - c-066
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 6148-6754; hash=986014e0dd3f9d7077e990d5a5d777aefc6dca1e0d2ba7617c013ae21a569b58; match=exact
+  saltinio_vieta: 161483-161993; hash=33ad3a900c6737210f6f8cca637ba0acd1f5cc92b5989fed0ea6eb0f177ace24; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsijos žemė: 0.85
+  ryšio_patikimumas: priklause -> Prūsija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsijos žemė: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Prūsijos žemė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Varmė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Varmė minima tarp Prūsijos žemės dalių.
 
 <a id="claim-t-185109"></a>
 - t-084
@@ -1368,15 +1369,15 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindžia:
     - c-067
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 6466-7158; hash=f147ab33e105b7fa6f52cd7057445681c248fdb85184863bc444832276865aa7; match=exact
+  saltinio_vieta: 519578-520061; hash=d211fde8467c220c0263a945badfdabda79ca578a57e149bc6a4975efea3459f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzkariavo -> Prūsija: 0.90
+  ryšio_patikimumas: valde_teritorija -> Kulmas: 0.90
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Kryžiuočių ordino užkariautą Prūsijos vardu vadintą plotą.
+  ryšio_subjekto_parinkimas: Prūsai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kulmo sritį valdė prūsai.
 
 <a id="claim-t-185110"></a>
 - t-085
@@ -1390,7 +1391,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindžia:
     - c-068
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 630543-630912; hash=61e9475e4e9e462fc0e14e00d2900fc3f9247e76f21142813baeeada269c9bca; match=exact
+  saltinio_vieta: 716883-717111; hash=0e96549574ae8f54d841f4cc3a3fdcf57c5cb01eedfb088e339ac5bda8725f9a; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Dusburgas: 0.83
   ryšio_patikimumo_lygis: vidutinis
@@ -1412,7 +1413,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindžia:
     - c-069
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 683135-683377; hash=a0133f7615645fe5da0e884c797c7350ba5499e8ea4960ebb0ef03dcfbfa79da; match=exact
+  saltinio_vieta: 742966-743524; hash=53bcc9886dea7ce3c986b963569b5a159531e635d5668261c3b11e4dcd0e4474; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Kryžius: 0.83
   ryšio_patikimumo_lygis: vidutinis
@@ -1435,8 +1436,15 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindžia:
     - c-070
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 90494-90689; hash=0b1622b7b3853f75efe543c28c114829d93c791814aee51cc4050d627f3dd294; match=exact
+  saltinio_vieta: 775518-776221; hash=71fbe071b2b429d43f3d5c217e8d098d2d9e13cb61aa62c500ed2554ff1bcee1; match=exact
   sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185113"></a>
 - t-088
@@ -1450,7 +1458,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindžia:
     - c-071
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 91324-91704; hash=fa7e3ce96d98b8a510062fe91e320e718ef457dc7617c1cf86104d7adad2f96c; match=exact
+  saltinio_vieta: 814862-815269; hash=037a73142cb14e78becb7dec6e5923114f008c33d8e6a269d856bcf771e3036e; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Baltai: 0.83
   ryšio_patikimumo_lygis: vidutinis
@@ -1475,7 +1483,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindžia:
     - c-072
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 167144-167463; hash=73dcc0e5df4acc4c78e161bdda600abcd2d88b603d125e4a650dd4b3f519225b; match=exact
+  saltinio_vieta: 834736-835116; hash=9e88df0fddafe08e984bf16d505be0551738b1fdcd961b048200a9c093313faa; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Dobrynė: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -1506,6 +1514,151 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
   ryšio_paaiskinimas: Tekstas tiesiogiai sieja krašto pavergimą su Kryžiuočių ordinu.
+
+<a id="claim-t-188808"></a>
+- t-091
+  global_id: t-188808
+  teiginys: 'Narbutas ginčija išvadą apie dievo kilmę, nes, jo teigimu, žemės drebėjimų būta Prūsijoje ir jie buvo žinomi tolimesnei Lietuvai.'
+  pagrindžia:
+    - c-074
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 159909-160116; hash=dba6f039f29c1829b7e060ec351c69c5eb72f003b992b3b7526fe30fc6966527; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188809"></a>
+- t-092
+  global_id: t-188809
+  teiginys: 'Narbutas rašo, kad Prūsijos kronikininkai šiuo vardu siejo dievintą senovės kunigaikštį Vaidevutį.'
+  pagrindžia:
+    - c-075
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 161483-161993; hash=33ad3a900c6737210f6f8cca637ba0acd1f5cc92b5989fed0ea6eb0f177ace24; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokietijos maldininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Vokietijos maldininkai keliavo į Prūsijos žemę.
+<a id="claim-t-188811"></a>
+- t-093
+  global_id: t-188811
+  teiginys: 'Narbutas rašo, kad Prūsijos kronikininkai burtininkams priskyrė ateities pranašavimą liejant ištirpintą vašką į šaltą vandenį.'
+  pagrindžia:
+    - c-076
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 519578-520061; hash=d211fde8467c220c0263a945badfdabda79ca578a57e149bc6a4975efea3459f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Burtininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Burtininkai: mention_match, group, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Burtininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188812"></a>
+- t-094
+  global_id: t-188812
+  teiginys: 'Narbutas rašo, kad Prūsijos kronikininkai senovės prūsų herbo kilmę siejo su Vaidevučio laikais.'
+  pagrindžia:
+    - c-077
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 716883-717111; hash=0e96549574ae8f54d841f4cc3a3fdcf57c5cb01eedfb088e339ac5bda8725f9a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Prūsija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Klaipėda tiesiogiai įvardyta kaip vienas iš Prūsijos uostų.
+<a id="claim-t-188813"></a>
+- t-095
+  global_id: t-188813
+  teiginys: 'Narbutas Dusburgiečio pasakojimą apie senovės Prūsiją laiko patikimu krivio istorinės egzistencijos argumentu.'
+  pagrindžia:
+    - c-078
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 742966-743524; hash=53bcc9886dea7ce3c986b963569b5a159531e635d5668261c3b11e4dcd0e4474; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Lietuva: 0.70
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas kalba apie vokiečius pirklius Lietuvos miestuose, todėl gyveno ryšys taikomas atsargiai.
+<a id="claim-t-188814"></a>
+- t-096
+  global_id: t-188814
+  teiginys: 'Narbutas ginkluoto atvertimo eigą sieja su tikėjimo smukimu ir vardija ją nuo Livonijos iki Prūsijos, Lietuvos ir Žemaitijos.'
+  pagrindžia:
+    - c-079
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 775518-776221; hash=71fbe071b2b429d43f3d5c217e8d098d2d9e13cb61aa62c500ed2554ff1bcee1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188815"></a>
+- t-097
+  global_id: t-188815
+  teiginys: 'Narbutas pateikia Hartknocho duomenis apie lietuvių kalbą, vartotą Prūsijoje, Nemuno žemupyje.'
+  pagrindžia:
+    - c-080
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 814862-815269; hash=037a73142cb14e78becb7dec6e5923114f008c33d8e6a269d856bcf771e3036e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188816"></a>
+- t-098
+  global_id: t-188816
+  teiginys: 'Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.'
+  pagrindžia:
+    - c-081
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 834736-835116; hash=9e88df0fddafe08e984bf16d505be0551738b1fdcd961b048200a9c093313faa; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romovė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Romovė tiesiogiai apibūdinta kaip buvusi Prūsijoje.
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markos valdovas).md#claim-t-60263|Ditrichas (Meiseno markos valdovas)]]: 1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę.
 - susijęs iš [[objektai/asmenys/Gerhardas.md#claim-t-60122|Gerhardas (valdovas)]]: Gerhardas, išsigandęs perspėjimo dėl savo gyvenimo būdo, atvyko į Prūsiją ir davė įžadus Teutonų ordinui.
@@ -1524,6 +1677,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Otonas (Brandenburgo markgrafas).md#claim-t-60188|Otonas (Brandenburgo markgrafas)]]: 1266 m. Brandenburgo markgrafas Otonas su sūnumi ir broliu patraukė į Prūsiją tramdyti prūsų sukilimo.
 - susijęs iš [[objektai/asmenys/Pilypas.md#claim-t-60410|Pilypas]]: 1324 m. grafas Pilypas iš Španheimo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179071|Kryžiuočių ordinas]]: Brolis Gerhardas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir pradėjo tyrą gyvenimą.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179086|Kryžiuočių ordinas]]: XIII a. į Prūsiją atsikėlęs Vokiečių ordinas pirmiausia pavergė prūsus.
 - susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60020|Gotfridas Hohenlohė]]: 1298 m. Gotfridas Hohenlohė lankėsi Prūsijoje ir pasiuntė Bertoldą Briuhaveną su kariais į pagalbą Livonijos broliams.
 - susijęs iš [[objektai/asmenys/Henrikas (Meiseno markgrafas).md#claim-t-63616|Henrikas (Meiseno markgrafas)]]: Meiseno markgrafas Henrikas atvyko į Prūsijos žemę su penkiais šimtais kilmingų kovai pasirengusių vyrų ir dideliais turtais.
@@ -1531,6 +1685,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš Peterburgo konvencija dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo (1795 m.): Po 1795 m. Peterburgo konvencijos LDK etninės lietuvių žemės atiteko Rusijai, Užnemunė Prūsijai, o pietvakarinis LDK kampas Austrijai.
 - susijęs iš [[objektai/ivykiai/Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.).md#claim-t-185742|Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.)]]: Lietuviai ir žemaičiai įsiveržė į menkai saugomą Prūsiją, beveik visą kraštą nusiaubė ir pavertė pelenais.
 - susijęs iš Naujosios Prūsijos žemės kronika: Vygando liudijimu, po penkias savaites trukusių kautynių kryžiuočiai atsitraukė nuo Vilniaus ir grįžo į Prūsiją bei Livoniją.
+- susijęs iš Romovė: Narbutas nurodo, kad Dusburgietis Romovę aprašė kaip kadaise buvusį šventą miestą ir krivio buveinę.
 - susijęs iš [[objektai/asmenys/Albrechtas.md#claim-t-18766|Albrechtas]]: Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį.
 - susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60021|Gotfridas Hohenlohė]]: 1302 m. didysis magistras Gotfridas Hohenlohė su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbinge atsisakė pareigų.
 - susijęs iš [[objektai/asmenys/Jonas (Brandenburgo markgrafas).md#claim-t-60341|Jonas (Brandenburgo markgrafas)]]: 1255 m. žiemą Jonas, Brandenburgo markgrafas, su stipria kariuomene atžygiavo į Prūsiją, bet dėl šiltos žiemos nepasiekė tikėjimo priešų.
@@ -1550,6 +1705,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš Naujoji Prūsija: Prūsija prisijungė Užnemunę ir pavadino ją Naująja Prūsija.
 - susijęs iš Notanga: Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Plikoji Barta: Petro Dusburgiečio kronikoje Plikoji Barta minima kaip viena iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189139|Romovė Romuva Romow]]: Narbutas rašė, kad Dusburgietis Romovę vaizdavo kaip kadaise Prūsijoje buvusį šventą miestą ir krivio buveinę.
 - susijęs iš [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė).md#claim-t-60323|Hermanas (Petro iš Rozenbergo dėdė)]]: 1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinio pratarmėje kronika apibūdinama kaip oficialus Kryžiuočių ordino valstybės kūrinys.
 - susijęs iš [[objektai/asmenys/Aleksandras Karijotaitis.md#claim-t-186174|Aleksandras Karijotaitis]]: Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę ir Ragainę bei išsivarė 800 belaisvių.
@@ -1569,18 +1725,19 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Henrikas iš Svarcburgo.md#claim-t-184082|Henrikas iš Svarcburgo]]: 1252 m. Henrikas iš Svarcburgo su Merzeburgo vyskupu ir daugybe karių įsiveržė į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Henrikas iš Svarcburgo.md#claim-t-60315|Henrikas iš Svarcburgo]]: 1252 m. Henrikas iš Svarcburgo su Merzeburgo vyskupu ir daugybe karių įsiveržė į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184787|Mindaugas (valdovas, XIII a.)]]: Mindaugas, atgavęs Žemaitiją ir Kuršą bei nusiaubęs Sembą, sukurstė Prūsijos žmones atsimesti nuo kryžiuočių.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179086|Kryžiuočių ordinas]]: XIII a. į Prūsiją atsikėlęs Vokiečių ordinas pirmiausia pavergė prūsus.
 - susijęs iš [[objektai/posakiai/Kraštą ugnimi ir kalaviju nusiaubę.md#claim-t-86861|Kraštą ugnimi ir kalaviju nusiaubę]]: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir, nusiaubę kraštą ugnimi bei kalaviju, grįžo į Prūsiją ir Livoniją.
 - susijęs iš Barta: Petro Dusburgiečio kronikoje Barta ir Plikoji Barta priskiriamos vienai iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Lietuvos valdos Lietuva: Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųsti į Prūsijos pasienį ir vežti grūdus į Lietuvą.
 - susijęs iš Lubava: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Lubavas: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Lubavas: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
-- susijęs iš Nemunas: Tyrimų duomenimis, Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į jo valstybę patekusį plotą nuo Vyslos iki Nemuno.
 - susijęs iš Varmė: Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių.
 - susijęs iš Vilnius: Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo.
+- susijęs iš [[objektai/zodynas/Šventasis miškas miškelis.md#claim-t-189212|Šventasis miškas miškelis]]: Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, o nelaimingiesiems tikriausiai ne.
+- susijęs iš [[objektai/zodynas/Šventasis miškelis šventasis miškas.md#claim-t-189216|Šventasis miškelis šventasis miškas]]: Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, o nelaimingiesiems tikriausiai ne.
 - susijęs iš [[objektai/asmenys/Adalbertas.md#claim-t-18754|Adalbertas]]: Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
+- susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190040|Adomas Bremenietis]]: Narbutas pripažįsta, kad Adomas Bremenietis ir kiti užsienio kronikininkai nemini Prūsijos krivio.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56965|Agota (kunigaikščio žmona, XIII a.)]]: Agotos valia Ordino broliai pasitelkė daug Lenkijos vyrų ir stojo į kovą su Prūsijos kariuomene.
 - susijęs iš [[objektai/asmenys/Albrechtas (Pamedės vyskupas).md#claim-t-60229|Albrechtas (Pamedės vyskupas)]]: Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.
 - susijęs iš [[objektai/asmenys/Albrechtas (Prūsijos kunigaikštis).md#claim-t-87612|Albrechtas (Prūsijos kunigaikštis)]]: Albrechtas, Prūsijos kunigaikštis, testamente turėjo gauti du gerus žirgus ir būti paskutinės valios gynėju bei globėju.
@@ -1601,9 +1758,9 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Ditrichas iš Gaterslebeno.md#claim-t-60265|Ditrichas iš Gaterslebeno]]: Ditrichas iš Gaterslebeno buvo aštuntasis Prūsijos žemės magistras ir nuo 1271 m. vadovavo šešerius metus.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173131|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas su 800 vyrų surengė žygį ir su 80 vyrų įsibrovė į Prūsijos Unzatrapio valsčių.
 - susijęs iš [[objektai/asmenys/Eberhardas (Varmės vyskupas).md#claim-t-82281|Eberhardas (Varmės vyskupas)]]: Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl taikos sutarties ir su kitais vyskupais paskelbė ją pražūtinga Prūsijai.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176376|Gediminas]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176381|Gediminas]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176396|Gediminas]]: Gediminas, kaip skelbė Prūsijoje pasklidęs gandas, į visas šalis išsiuntinėjo laiškus apie norą priimti krikštą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176376|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176381|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176396|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, kaip skelbė Prūsijoje pasklidęs gandas, į visas šalis išsiuntinėjo laiškus apie norą priimti krikštą.
 - susijęs iš [[objektai/asmenys/Georgas Zauerveinas.md#claim-t-18912|Georgas Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
 - susijęs iš [[objektai/asmenys/Gerhardas iš Hircbergo.md#claim-t-184069|Gerhardas iš Hircbergo]]: Gerhardas iš Hircbergo dvejus metus vadovavo kaip ketvirtas Prūsijos žemės magistras.
 - susijęs iš [[objektai/asmenys/Gerhardas iš Hircbergo.md#claim-t-60286|Gerhardas iš Hircbergo]]: Gerhardas iš Hircbergo dvejus metus vadovavo kaip ketvirtas Prūsijos žemės magistras.
@@ -1611,6 +1768,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Geroldzekas iš Švabijos.md#claim-t-87679|Geroldzekas iš Švabijos]]: 1322 m. žiemą grafas Geroldzekas iš Švabijos vedė vieną iš atskirų kryžiuočių ekspedicijos į Prūsiją pulkų.
 - susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60020|Gotfridas Hohenlohė]]: 1298 m. Gotfridas Hohenlohė lankėsi Prūsijoje ir pasiuntė Bertoldą Briuhaveną su kariais į pagalbą Livonijos broliams.
 - susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60021|Gotfridas Hohenlohė]]: 1302 m. didysis magistras Gotfridas Hohenlohė su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbinge atsisakė pareigų.
+- susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190098|Hartknochas]]: Narbutas nurodo, kad Hartknochas senosios Prūsijos žemėlapyje Romnowe pažymėjo tarp Prūsos ir Bysleidos upių.
 - susijęs iš [[objektai/asmenys/Hartmanas iš Grumbacho.md#claim-t-60300|Hartmanas iš Grumbacho]]: Hartmanas iš Grumbacho buvo penktasis Prūsijos žemės magistras ir vadovavo trejus metus.
 - susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89794|Helmerichas]]: Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje.
 - susijęs iš [[objektai/asmenys/Helvigas iš Goldbacho.md#claim-t-60023|Helvigas iš Goldbacho]]: Helvigas iš Goldbacho iš Tiuringijos buvo penkioliktas Prūsijos žemės magistras ir vadovavo vienus metus.
@@ -1656,6 +1814,9 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89920|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis buvo devintas Prūsijos žemės magistras ir nuo 1273 m. vadovavo šešerius metus.
 - susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-60045|Konradas Žakas]]: Konradas Žakas buvo šešioliktas Prūsijos magistras ir vadovavo šešerius metus.
 - susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63849|Kotryna II]]: Kotryna II įvykdė Respublikos padalijimus, kurių metu jos trečdalį turėjo užleisti Prūsijai ir Austrijai.
+- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189974|Kristoforas Hartknochas]]: Hartknochas senosios Prūsijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bysleidos upių.
+- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189976|Kristoforas Hartknochas]]: Narbutas teigė, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko kronikose išlikusius raštiškus paminėjimus.
+- susijęs iš [[objektai/asmenys/Kristupas Hartknochas.md#claim-t-190175|Kristupas Hartknochas]]: Narbutas teigė, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko kronikose išlikusius raštiškus paminėjimus.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176531|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184768|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis rengė didesnį žygį prieš Prūsiją ir telkė Lietuvos, Žemaitijos, Rusios bei totorių pajėgas.
 - susijęs iš [[objektai/asmenys/Leopoldas.md#claim-t-186232|Leopoldas]]: Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, kurios remiami kryžiuočiai nusiaubė Žemaitiją.
@@ -1669,9 +1830,12 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-184112|Meinhardas Saksas iš Kverfurto]]: Meinhardas Saksas iš Kverfurto buvo tryliktas Prūsijos magistras ir vadovavo vienuolika metų.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59873|Meinhardas Saksas iš Kverfurto]]: Meinhardas Saksas iš Kverfurto buvo tryliktas Prūsijos magistras ir vadovavo vienuolika metų.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184787|Mindaugas (valdovas, XIII a.)]]: Mindaugas, atgavęs Žemaitiją ir Kuršą bei nusiaubęs Sembą, sukurstė Prūsijos žmones atsimesti nuo kryžiuočių.
+- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-190653|Motiejus Strijkovskis]]: Narbutas rašo, kad Strijkovskis apie aukštas Lietuvos pareigas pateikė daugiau smulkmenų nei Prūsijos ir Livonijos kronikininkai.
 - susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
 - susijęs iš [[objektai/asmenys/Otonas (Brandenburgo markgrafas).md#claim-t-60188|Otonas (Brandenburgo markgrafas)]]: 1266 m. Brandenburgo markgrafas Otonas su sūnumi ir broliu patraukė į Prūsiją tramdyti prūsų sukilimo.
 - susijęs iš [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis).md#claim-t-60190|Otonas (Braunšveigo-Liuneburgo kunigaikštis)]]: Otonas, Braunšveigo valdovas ir Liuneburgo kunigaikštis, su daugybe maldininkų atvyko į Prūsijos žemę padėti broliams.
+- susijęs iš [[objektai/asmenys/Paulius Spritas.md#claim-t-190196|Paulius Spritas]]: Narbutas Pauliaus Sprito Karaliaučiaus bažnyčios Agendą mini kaip liudijimą, kad Prūsijos lietuviai Pergrubei aukas atnašavo iki 1530 metų.
+- susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190025|Petras Dusburgietis]]: Narbutas rašo, kad Petras Dusburgietis 1326 metais įteikė savo kroniką didžiajam magistrui, aprašęs prūsų papročius netrukus po Prūsijos užkariavimo.
 - susijęs iš [[objektai/asmenys/Petras iš Rozenbergo.md#claim-t-60408|Petras iš Rozenbergo]]: 1324 m. Petras iš Rozenbergo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
 - susijęs iš [[objektai/asmenys/Pilypas.md#claim-t-60410|Pilypas]]: 1324 m. grafas Pilypas iš Španheimo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
 - susijęs iš [[objektai/asmenys/Plihta.md#claim-t-87833|Plihta]]: 1322 m. žiemą Plihta su broliu iš Čekijos vedė vieną kryžiuočių ekspedicijos į Prūsiją pulką.
@@ -1679,6 +1843,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59944|Poponas iš Osternos]]: Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjo septynerius metus ir 1241 m. jų atsisakė.
 - susijęs iš [[objektai/asmenys/Prūsijus.md#claim-t-60420|Prūsijus]]: XV a. Prūsijos vardas buvo siejamas su II a. pr. m. e. Bitinijos karaliumi Prūsijumi.
 - susijęs iš [[objektai/asmenys/Rabė.md#claim-t-60422|Rabė]]: Brolis Rabė iš Rudino patarė pasiųsti Mstivojų Austrijos kunigaikščiui kaip įkaitą ir prašyti pagalbos Prūsijai.
+- susijęs iš [[objektai/asmenys/Rėza.md#claim-t-190116|Rėza]]: Rėza, Narbuto perteikimu, pažymėjo, kad skaičius devyni Prūsijos lietuviams buvo religinis ir perimtas iš skandinavų.
 - susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-64054|Simonas Grunau]]: XVI a. 3-iajame dešimtmetyje Simonas Grunau Prūsijoje parašė išsamią visos Prūsijos istoriją iki 1529 m.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179670|Skirgaila]]: Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo į mūšius su Prūsijos ordinu bei maištaujančiais kunigaikščiais.
@@ -1688,6 +1853,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90033|Sventopelkas]]: Sventopelkas ragino neseniai Kristaus tikėjimą priėmusius prūsus jėga išvaryti Teutonų ordino brolius iš Prūsijos.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90040|Sventopelkas]]: Sventopelkas sudarė sąjungą su prūsais, kad jie išvarytų Teutonų ordino brolius ir kitus krikščionis iš Prūsijos.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90042|Sventopelkas]]: Sventopelkas sutelkė kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius.
+- susijęs iš [[objektai/asmenys/Sviatopelkas.md#claim-t-190213|Sviatopelkas]]: Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų Prūsijos provincijų gyventojų kovas su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-184845|Traidenis (valdovas, XIII a.)]]: Traidenis, Giliginui dar esant gyvam, su trisdešimties tūkstančių kariuomene iš Lietuvos ir Prūsijos nusiaubė Mazoviją ir Kulmo žemę.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90046|Traidenis (valdovas, XIII a.)]]: Traidenis 1269-1282 m., remdamas žiemgalius, telkė jėgas kovai Prūsijoje.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Magdeburgo.md#claim-t-184136|Ulrichas iš Magdeburgo]]: Ulrichui iš Magdeburgo buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus, atplaukiančius į Prūsiją.
@@ -1704,16 +1870,24 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102848|Dusburgas]]: 1985 m. leidinio įvade Petro iš Dusburgo „Prūsijos žemės kronika“ išskiriama tarp svarbių XIII—XIV a. kronikų ir siejama su unikaliomis žiniomis apie prūsus, lietuvius bei jų kovą iki 1330 m.
 - susijęs iš [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas.md#claim-t-19393|Georgas (liet. Jurgis) Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172869|J. Dlugošas]]: J. Dlugošas tarp Švitrigailos ir Livonijos ordino pajėgų mini apie 100 Prūsijos magistro karių.
+- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-188411|Johanas Foigtas]]: Narbutas Foigto „Geschichte Preussens“ nurodo kaip veikalą, kuriame iš Prūsijos kronikų išrašyti prūsiški deivių vardai.
+- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188433|Kristupas Hartknochas]]: Narbutas nurodo, kad Hartknochas senosios Prūsijos žemėlapyje Romnowe užrašą padėjo tarp Prūsos ir Bysleidos upių.
+- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188434|Kristupas Hartknochas]]: Narbutas kritikuoja Hartknochą dėl neapsisprendimo, kurią iš kelių Prūsijos vietovių laikyti tikrąja Romove.
+- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188435|Kristupas Hartknochas]]: Narbutas rašo, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko kronikose išlikusius raštiškus paminėjimus.
 - susijęs iš [[objektai/autoriai/Kotzebue.md#claim-t-88072|Kotzebue]]: Michałas Balińskis Kotzebue Prūsijos istoriją vadino geriausiu paliudijimu apie Foigto pirmtako darbą.
 - susijęs iš [[objektai/autoriai/Labuda G.md#claim-t-64698|Labuda G]]: G. Labuda nurodė, kad Henriko Barzdotojo dokumentai liudija jo buvimą Prūsijoje 1235 metais.
 - susijęs iš [[objektai/autoriai/Labuda G.md#claim-t-64701|Labuda G]]: G. Labuda recenzavo M. Hellmanno darbą apie Prūsijos istorijos pagrindus.
 - susijęs iš [[objektai/autoriai/M. Perlbachas.md#claim-t-175145|M. Perlbachas]]: M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190645|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis apie aukštas lietuvių pareigas pateikė daugiau žinių nei Prūsijos ir Livonijos kronikininkai.
 - susijęs iš [[objektai/autoriai/Matulevičius A.md#claim-t-62645|Matulevičius A]]: A. Matulevičius 1972 m. paskelbė straipsnį apie lietuvių etninę ribą Prūsijoje XVIII a. pradžioje.
 - susijęs iš [[objektai/autoriai/P. Žostautaitė.md#claim-t-30920|P. Žostautaitė]]: P. Žostautaitė 1968 m. paskelbė darbą „Prūsijos lietuvių vokietinimas ir pasipriešinimas jam 1848-1914 m.“.
 - susijęs iš [[objektai/autoriai/Pauli.md#claim-t-88078|Pauli]]: Pauli savo „Prūsijos valstybės istorijos“ IV tome pateikė vertinimą, kurio Balinskis nelaikė patikimu.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181459|Petras Dusburgietis]]: Petro iš Dusburgo „Prūsijos žemės kronika“ pateikia unikalių žinių apie prūsus, lietuvius ir jų kovą XIII-XIV a. pradžioje.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181462|Petras Dusburgietis]]: Petras iš Dusburgo aiškina, kad kronikoje aprašys Ordino įkūrimą, atsikėlimą į Prūsiją, karus ir įvykius, kuriuos pats matė, apie kuriuos pasakojo dalyviai arba kuriuos sužinojo iš patikimų šaltinių.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181475|Petras Dusburgietis]]: Petras iš Dusburgo nurodė, kad kronikoje aprašys Teutonų ordino įkūrimą, brolių atvykimą į Prūsiją ir karus Prūsijoje.
+- susijęs iš [[objektai/autoriai/Prūsijos kronikininkai.md#claim-t-190378|Prūsijos kronikininkai]]: Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų.
+- susijęs iš [[objektai/autoriai/Prūsijos kronikininkai.md#claim-t-190379|Prūsijos kronikininkai]]: Prūsijos kronikininkai kartojo, kad stabmeldžiai slėpė tam tikras religines apeigas.
+- susijęs iš [[objektai/autoriai/Prūsijos vyskupas Kristijonas.md#claim-t-190450|Prūsijos vyskupas Kristijonas]]: Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas iš dingusios Prūsijos vyskupo Kristijono kronikos.
 - susijęs iš [[objektai/autoriai/Sembritzki J.md#claim-t-62657|Sembritzki J]]: J. Sembritzkis 1926 m. Memelyje išleido knygą apie karališkojo Prūsijos jūrų ir prekybos miesto Memelio istoriją.
 - susijęs iš [[objektai/autoriai/Toppen M.md#claim-t-60800|Toppen M]]: M. Toppenas 1853 m. Berlyne išleido veikalą apie Prūsijos istoriografiją nuo Petro Dusburgiečio iki K. Schützo.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172967|Vygandas Marburgietis]]: Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m.
@@ -1742,6 +1916,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-183144|Kryžiuočių ordinas]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184509|Kryžiuočių ordinas]]: Jogaila ir Vytautas, įsiveržę į Prūsiją su lenkų ir lietuvių kariuomenėmis, siekė pergalingai užbaigti ilgą karą su kryžiuočiais.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-187712|Kryžiuočių ordinas]]: 1380 m. Jogaila sudarė dvi sutartis su kryžiuočiais: paliaubas su Livonijos ordinu ir Dovydiškių sutartį su Prūsijos kryžiuočiais.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188215|Kryžiuočių ordinas]]: Narbutas pasakoja, kad paskutinis Prūsijos Krivių Krivaitis Alepas 1265 m. pabėgo pas kryžiuočius ir buvo pakrikštytas.
 - susijęs iš [[objektai/grupes/Lenkijos karalystės kariuomenė.md#claim-t-23483|Lenkijos karalystės kariuomenė]]: Kai kurie Lenkijos karalystės kariuomenės daliniai prasiveržė atgal į Karalystės teritoriją, o kitų likučiai perėjo sieną su Prūsija.
 - susijęs iš [[objektai/grupes/Lenkijos-Lietuvos valstybė.md#claim-t-188043|Lenkijos-Lietuvos valstybė]]: Įvadiniame straipsnyje Lenkijos-Lietuvos valstybė apibūdinama kaip po trečiojo padalijimo 1795 m. netekusi nepriklausomybės ir atsidūrusi Rusijos, Prūsijos bei Austrijos imperijų valdžioje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179218|Lietuviai]]: Prūsų kraštą lietuviai vadino Prūsais, Prūsa, Prūsų žeme ir sulotynintu Prūsijos vardu.
@@ -1755,6 +1930,10 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179424|Livonijos ordinas]]: Vilniaus puolime vokiečiai buvo pasiskirstę į Livonijos ir Prūsijos stovyklas prie Aukštutinės pilies mūrų.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89170|Pagudėnai]]: Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis nusiaubė Pagudę bei Pamedę.
 - susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81593|Prancūzai]]: Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188309|Prūsai]]: Narbutas spėja, kad paskutinis Prūsijos Krivių Krivaitis Alepas buvo išguitas iš Romovės ir slapstėsi nuo kryžiuočių, siekusių jį sučiupti.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188318|Prūsai]]: Narbutas rašo, kad Prūsijos kronikininkai aprašo tautinį senovės prūsų herbą, kurio kilmę sieja su Vaidevučio laikais.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-190614|Prūsai]]: Narbutas pabrėžia, kad Dusburgietis 1326 metais įteikė kroniką, kai nuo visiško Prūsijos užkariavimo buvo praėję kiek daugiau nei keturiasdešimt metų.
+- susijęs iš [[objektai/grupes/Prūsijos lietuviai.md#claim-t-189461|Prūsijos lietuviai]]: Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų, kaip liudija Karaliaučiaus bažnyčios Agenda.
 - susijęs iš [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md#claim-t-89176|Prūsijos naujakrikščiai atsimetėliai]]: Prūsijos naujakrikščiai dalyvavo kariuomenėje, kuri buvo padalyta į dvi dalis pulti pilį iš priekio ir iš kitos pusės.
 - susijęs iš [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md#claim-t-89177|Prūsijos naujakrikščiai atsimetėliai]]: Po Vokietijos kunigaikščių žygių minėti Prūsijos naujakrikščiai atsimetėliai grįžo į tikėjimą ir iš naujo pasidavė broliams.
 - susijęs iš [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md#claim-t-89178|Prūsijos naujakrikščiai atsimetėliai]]: Magistras Henrikas rengėsi sunaikinti Sventopelką ir Prūsijos naujakrikščius atsimetėlius, kaltintus žala tikėjimui ir tikintiesiems.
@@ -1853,8 +2032,10 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš August von Kotzebue Prūsijos istorija: Augusto von Kotzebue nuomonės apie Prūsijos istoriją vertinamos kritiškai, remiantis teiginiu apie dokumentų patekimą į kryžiuočių archyvą.
 - susijęs iš Diunamiundės metraštis: Dusburgietis galėjo žinoti Diunamiundės metraštį, susijusį su Seniausio Prūsijos metraščio tradicija.
 - susijęs iš Gedimino laiškai: Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumentas buvo Karaliaučiaus Slaptajame archyve, o Kotzebue juos paskelbė „Prūsijos istorijoje“.
+- susijęs iš Hartknocho veikalas: Hartknocho veikalas pateikė lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, pavyzdį.
 - susijęs iš J. Dlugošo Analai, arba kronikos: J. Dlugošo „Analuose“ Prūsijos vardas buvo siejamas su II a. pr. m. e. Bitinijos karaliumi Prūsijumi.
 - susijęs iš Johanneso Voigto Prūsijos istorija, V tomas: Balińskis pataisytą žygio į Vilnių aprašymą grindė Johanneso Voigto Prūsijos istorijos V tomu ir Ignaco Onacevičiaus pastabomis.
+- susijęs iš Karaliaučiaus bažnyčios Agenda: Narbutas nurodo, kad Karaliaučiaus bažnyčios Agenda liudija Prūsijos lietuvius iki 1530 m. laikiusis aukų Pergrubei apeigų.
 - susijęs iš Karinė sutartis su Prūsija (1790 m.): 1790 m. seimas sudarė karinę sutartį su Prūsija, tačiau Prūsija atsisakė padėti karaliui.
 - susijęs iš Karinė sutartis su Prūsija (1790 m.): Prūsija rėmė seimą siekdama spausti Rusiją, kuri nesutiko leisti jai užimti Dancigo ir Torno.
 - susijęs iš Mažosios Lietuvos himnas: Už lietuvių kalbą Rytų Prūsijoje kovojęs Jurgis Zauerveinas parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje.
@@ -1880,6 +2061,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš Prūsijos žemės kronika (iki 1450 m.): „Prūsijos žemės kronika“ susijusi su Torunės analais, pratęsta iki 1450 m. ir sudaryta Chelmžos vyskupo aplinkoje.
 - susijęs iš Prūsijos žemės kronika: Petras Dusburgas Prūsijos žemės kronikoje nurodė Žemaitijoje buvus net 70 tokių „karaliukų“.
 - susijęs iš Prūsijos žemės kronika: Prūsijos žemės kronikoje minima tik Dobrynės kunigaikštystė, o kitame dokumente nurodoma ir kaimyninė Kulmo žemė.
+- susijęs iš Schützo Prūsijos kronika: Narbutas, remdamasis Prūsijos kronikomis, pasakoja, kad 1247 m. Pamedėje aitvarai esą viešai rodydavosi žmonių pavidalu.
 - susijęs iš Schützo Prūsijos kronika: Schützo Prūsijos kronika minima kaip šaltinis apie viduramžių riterių puotas prieš karo žygius.
 - susijęs iš Sembos kanauninko rinkinys: Sembos kanauninko rinkinio tyrinėjimai rodo, kad jame yra žinių iš neišlikusio Seniausio Prūsijos metraščio.
 - susijęs iš Seniausieji Prūsijos analai: Seniausieji Prūsijos analai pirmajame raidos etape iš esmės apėmė 1230–1293 m. įvykius.
@@ -1940,6 +2122,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš Piotrkovas: Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliaus pajamas iš Mazovijos ir Prūsijos.
 - susijęs iš Plikoji Barta: Petro Dusburgiečio kronikoje Plikoji Barta minima kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Pomeranija: Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos.
+- susijęs iš Romuniškiai: Narbutas, remdamasis Hartknochu, Romuniškius mini Žemaitijoje, už sienos nuo Prūsijos Romučių kaimo prie Tenenio upės.
 - susijęs iš Rusia Rusios žemės: Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi.
 - susijęs iš Rusia: Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi.
 - susijęs iš Rusija: 1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.
@@ -1964,6 +2147,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš Vilnius: 1325 m. Vilniuje buvo pasirašyta Gedimino sutartis su Lokietka dėl bendros kovos su Prūsijos ordinu.
 - susijęs iš Vysla: Jogaila įsakė dvidešimt didelių laivų su grūdais plukdyti Vysla į Prūsijos pasienį, kad maistas vežimais pasiektų Lietuvą.
 - susijęs iš Švento Jurgio pilis (pilis, XIII a.): Švento Jurgio pilis 1259 m. pastatyta Karšuvos žemėje ant švento Jurgio kalno Livonijos ir Prūsijos brolių lėšomis bei darbu.
+- susijęs iš Šventoji ties Smalininkais: Šventoji (Swięta) ties Smalininkais minima kaip upė, įtekanti į Nemuną žemiau Jurbarko prie Prūsijos sienos.
 - susijęs iš Žemaitija: Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
 - susijęs iš Žemaitija: Tuo žygiu Mindaugas atgavo Žemaitiją ir Kuršą, nusiaubė Sembą ir vėliau vėl sukėlė karą Prūsijoje.
 - susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-58861|Ordino brolis]]: Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.
@@ -1975,6 +2159,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89573|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89574|Prūsijos žemė]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89575|Prūsijos žemė]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
+- susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189139|Romovė Romuva Romow]]: Narbutas rašė, kad Dusburgietis Romovę vaizdavo kaip kadaise Prūsijoje buvusį šventą miestą ir krivio buveinę.
+- susijęs iš [[objektai/zodynas/Užuotas ąžuolas.md#claim-t-189120|Užuotas ąžuolas]]: Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieglaudą, kurią, kronikininkų liudijimu, puolant Prūsiją bandė sunaikinti Boleslovas Kreivaburnis.
 - susijęs iš [[objektai/zodynas/baltų sąjunga federacija.md#claim-t-58894|baltų sąjunga federacija]]: Mindaugas siekė paversti Lietuvą bendrąja baltų valstybe, apimančia Livoniją ir Prūsiją.
 - susijęs iš [[objektai/zodynas/konstitucinė monarchija.md#claim-t-15627|konstitucinė monarchija]]: Konstitucinė monarchija liko Lietuvos Tarybos darbotvarkėje, Berlyne svarstant personalinę uniją su Saksonija arba Prūsija.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70226|maldininkai / maldininko įžadai]]: Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus.
@@ -1984,11 +2170,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58795|prūsas Prūsa Prūsija]]: XII–XIII a. istoriniuose aktuose Prūsijos vardas dar nebuvo nusistovėjęs ir rašytas keliomis formomis.
 - susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58796|prūsas Prūsa Prūsija]]: Lietuviai prūsų kraštą vadino Prūsais, Prūsa, Prūsų žeme ir sulotynintu vardu Prūsija.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176709|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vėlesniais Vytauto valdymo laikais Vilnius atsigavo po Skirgailos valdymo ir praturtėjo.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181462|Petras Dusburgietis]]: Petras iš Dusburgo aiškina, kad kronikoje aprašys Ordino įkūrimą, atsikėlimą į Prūsiją, karus ir įvykius, kuriuos pats matė, apie kuriuos pasakojo dalyviai arba kuriuos sužinojo iš patikimų šaltinių.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181475|Petras Dusburgietis]]: Petras iš Dusburgo nurodė, kad kronikoje aprašys Teutonų ordino įkūrimą, brolių atvykimą į Prūsiją ir karus Prūsijoje.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88536|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis, skelbęs krikščionybę prūsams.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88538|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis ir ragino prūsus atsisakyti stabų garbinimo.
-- susijęs iš M. Strijkovskio kronika: Strijkovskis Narimantą priskyrė prie apgulties metu nukautųjų ir perpasakojo Długoszo sukurtą jo mirties istoriją.
 - susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir grįžo į Prūsiją bei Livoniją.
 - susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją.
+- susijęs iš Nemunas: Tyrimų duomenimis, Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į jo valstybę patekusį plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184628|maršalas]]: Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77981|A. Smetona]]: A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.
 - susijęs iš [[objektai/asmenys/Abraomas.md#claim-t-60226|Abraomas]]: Abraomas su 318 tarnų kovojo dėl savo dievobaimingo brolio laisvės ir nekalto kalinio sugrąžinimo.
@@ -1997,6 +2185,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82174|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus.
 - susijęs iš [[objektai/asmenys/Alepas.md#claim-t-187910|Alepas]]: Narbutas pasakoja, kad 1265 m. Alepas ragino žymiausius žmones išsižadėti stabmeldystės, priimti krikštą ir užsitikrinti politinę ramybę.
 - susijęs iš [[objektai/asmenys/Alepas.md#claim-t-187911|Alepas]]: Narbutas spėja, kad Alepas buvo išguitas iš Romovės, gyveno įvairiose vietovėse ir slapstėsi nuo kryžiuočių.
+- susijęs iš [[objektai/asmenys/Alepas.md#claim-t-190647|Alepas]]: Narbutas, remdamasis Prūsijos kronikomis, nurodo, kad iki vyriausiojo žynio Alepo buvo 481 žynys, o 1265–1414 m. jų dar buvo 23.
 - susijęs iš [[objektai/asmenys/Algardas Hohenšteino grafas.md#claim-t-87618|Algardas Hohenšteino grafas]]: Hohenšteino grafas Algardas žuvo prie Vilniaus, kai buvo pakirstas šūvio per pilies apsiaustį.
 - susijęs iš [[objektai/asmenys/Andrius (račius).md#claim-t-60236|Andrius (račius)]]: 1324 m. Kristburgo pilyje iš račiaus Andriaus aluje dažytos duonos pradėjo varvėti kraujo lašai.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75721|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona 1793–1795 m. LDK padėtį apibūdino kaip laiką, kai ji liovėsi būti valstybe.
@@ -2007,11 +2196,12 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Bertoldas Briuhavenas.md#claim-t-186098|Bertoldas Briuhavenas]]: Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59879|Bertoldas, vadinamas Briuhavenu]]: 1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59880|Bertoldas, vadinamas Briuhavenu]]: 1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.
-- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184675|Birutė]]: Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184676|Birutė]]: Vytautas, sužinojęs apie Jogailos žygį į Trakus, su pamote Birute pasitraukė į Gardiną.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188518|Birutė]]: Narbutas chronologiškai skaičiuoja, kad Birutė gimė apie 1331 metus, ištekėjo 1348 metais ir mirė 1416 metais.
 - susijęs iš [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas).md#claim-t-60252|Boguslavas (jaunesnysis Dirsovijos grafas)]]: Jaunesnysis Dirsovijos grafas Boguslavas buvo tarp liudytojų, dalyvavusių apie 1226 ar 1230 m. patvirtinant žemių dovanojimą.
 - susijęs iš [[objektai/asmenys/Boguslavas (vyresnysis Dirsovijos grafas).md#claim-t-60253|Boguslavas (vyresnysis Dirsovijos grafas)]]: Vyresnysis Dirsovijos grafas Boguslavas buvo tarp liudytojų, dalyvavusių apie 1226 ar 1230 m. patvirtinant žemių dovanojimą.
 - susijęs iš [[objektai/asmenys/Brunonas.md#claim-t-89681|Brunonas]]: Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų.
+- susijęs iš [[objektai/asmenys/Brutenis.md#claim-t-190089|Brutenis]]: Narbutas polemikoje teigia, kad kronikose Brutenio vardas rašytas netiksliai ir turėjo tokią pačią galūnę kaip Vaidevučio vardas.
 - susijęs iš [[objektai/asmenys/Burchardas Harenas.md#claim-t-186188|Burchardas Harenas]]: Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsirengė į karą prieš Lietuvą.
 - susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-184048|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno, būdamas Livonijos magistru, patvarkė 1259 m. pastatyti pilį Karšuvoje ant Šv. Jurgio kalno.
 - susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
@@ -2051,15 +2241,15 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Fridrichas iš Holdenštetės.md#claim-t-60119|Fridrichas iš Holdenštetės]]: Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
 - susijęs iš [[objektai/asmenys/Gebhardas iš Manstfeldo.md#claim-t-60284|Gebhardas iš Manstfeldo]]: Brolis Gebhardas iš Manstfeldo įmetė Viešpaties kryžiaus atskalą į ugnį, iš kurios ji iššoko daugelio žmonių akyse.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176334|Gediminas]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis yra pirmas autentiškas paliudijimas, kad Vilnius jau buvo Gedimino sostinė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176339|Gediminas]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo Gedimino sostinė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176341|Gediminas]]: Balińskio nuomone, Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176346|Gediminas]]: Gediminas, matydamas kryžiuočius kuriantis priešais jo Veliuonos pilį, nusprendė juos iš ten išvyti.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176353|Gediminas]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse prie Nemuno.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176354|Gediminas]]: Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176355|Gediminas]]: Balińskis teigė, kad laiškai popiežiui, ordinams ir Vokietijos miestams buvo parašyti ne Gedimino žinia ar valia.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176372|Gediminas]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184699|Gediminas]]: Kojelavičius Pelužį laikė Gediminą niekinusių pasakojimų dingstimi, bet rusų metraštininkai Gediminą vadino Vytenio sūnumi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176334|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis yra pirmas autentiškas paliudijimas, kad Vilnius jau buvo Gedimino sostinė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176339|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo Gedimino sostinė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176341|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskio nuomone, Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176346|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, matydamas kryžiuočius kuriantis priešais jo Veliuonos pilį, nusprendė juos iš ten išvyti.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176353|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse prie Nemuno.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176354|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176355|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis teigė, kad laiškai popiežiui, ordinams ir Vokietijos miestams buvo parašyti ne Gedimino žinia ar valia.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176372|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184699|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kojelavičius Pelužį laikė Gediminą niekinusių pasakojimų dingstimi, bet rusų metraštininkai Gediminą vadino Vytenio sūnumi.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184705|Germantas]]: Germantas sudarė sąjungą su lenkais, nes siekė visomis jėgomis pulti rusus.
 - susijęs iš [[objektai/asmenys/Gernuldas.md#claim-t-60290|Gernuldas]]: Apie 1226 (1230) m. abatas Gernuldas dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.
 - susijęs iš [[objektai/asmenys/Giunteris (Mazovijos vyskupas).md#claim-t-60292|Giunteris (Mazovijos vyskupas)]]: Apie 1226 (1230) m. Mazovijos vyskupas Giunteris dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.
@@ -2071,13 +2261,16 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Gregoras Kierdėjus.md#claim-t-87681|Gregoras Kierdėjus]]: Gregoro Kierdėjaus vadovaujami Podolės bajorai sugavo Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos.
 - susijęs iš [[objektai/asmenys/Grigalius (vicekancleris).md#claim-t-60296|Grigalius (vicekancleris)]]: Apie 1226 (1230) m. vicekancleris Grigalius dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.
 - susijęs iš [[objektai/asmenys/Hanulas.md#claim-t-186207|Hanulas]]: 1385 m. Jogailos pasiuntinybėje į Lenkiją Hanulas dalyvavo kaip Vilniaus seniūnas.
+- susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190097|Hartknochas]]: Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje.
 - susijęs iš [[objektai/asmenys/Heidenreichas.md#claim-t-60301|Heidenreichas (vyskupas, XIII–XIV a.)]]: Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas.
 - susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89795|Helmerichas]]: Helmerichas sutelkė savo pajėgas, nusekė paskui priešus iki Lubavos žemės ir surikiavęs kariuomenę juos užpuolė.
 - susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89796|Helmerichas]]: Lubavos žemėje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę.
 - susijęs iš [[objektai/asmenys/Helvigas fon Goldbachas.md#claim-t-186208|Helvigas fon Goldbachas]]: Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą.
+- susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190004|Henenbergeris]]: Narbutas rašo, kad Henenbergeris apie 1584 metus tikino pats matęs senų vienaakių žmonių, siejamų su šventos upės poveikiu.
 - susijęs iš [[objektai/asmenys/Henrikas (Meiseno markgrafas).md#claim-t-184076|Henrikas (Meiseno markgrafas)]]: Meiseno markgrafas Henrikas ryžosi naikinti netikėlius ir plėsti krikščionių žemes.
 - susijęs iš [[objektai/asmenys/Henrikas Botelis.md#claim-t-184711|Henrikas Botelis]]: Mūšyje žuvo Prūsijos maršalas Henrikas Botelis, Livonijos magistras ir šimtas penkiasdešimt ordino riterių.
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-184712|Henrikas Cutsvertas]]: Henrikas Cutsvertas vadovavo užpakalinei vorai ir ietimi persmeigė lietuvių kunigaikštį Jazbutą.
+- susijęs iš [[objektai/asmenys/Henrikas Latvis.md#claim-t-190100|Henrikas Latvis]]: Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio, kurio valdžią pats Narbutas sieja su tuo kraštu.
 - susijęs iš [[objektai/asmenys/Henrikas Plauenas.md#claim-t-87689|Henrikas Plauenas]]: Henrikas Plauenas 1468 m. Vilniuje lenkėsi prieš Kazimiero Jogailaičio sostą.
 - susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186044|Henrikas fon Plockė]]: Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių.
 - susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186045|Henrikas fon Plockė]]: Henrikas fon Plockė ir jo vadovaujami kryžiuočiai miško tankmėje buvo sunaikinti arba pateko į nelaisvę.
@@ -2103,6 +2296,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184728|Jogaila (kunigaikštis, XIV–XV a.)]]: Norėdamas palengvinti maisto stokos kamuojamos Lietuvos dalią, Jogaila įsakė į Lietuvą gabenti dvidešimt laivų grūdų.
 - susijęs iš [[objektai/asmenys/Jokūbas (vėliau Urbonas IV).md#claim-t-60337|Jokūbas (vėliau Urbonas IV)]]: Jokūbas, Liežo arkidiakonas ir vėlesnis popiežius Urbonas IV, sudarė sutartį tarp Sventopelko ir brolių.
 - susijęs iš [[objektai/asmenys/Jokūbas Jasinskis.md#claim-t-63711|Jokūbas Jasinskis]]: Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis.
+- susijęs iš [[objektai/asmenys/Jokūbas, Leodijos arkidiakonas.md#claim-t-190163|Jokūbas, Leodijos arkidiakonas]]: Narbutas ypač reikšmingomis laikė ištraukas iš popiežiaus legato, Leodijos arkidiakono Jokūbo, 1249 metais prūsams duotos privilegijos.
 - susijęs iš [[objektai/asmenys/Jonas (Sembos vyskupas).md#claim-t-87711|Jonas (Sembos vyskupas)]]: Sembos vyskupas Jonas Elblionge dalyvavo pasitarime ir su kitais vyskupais pasiuntė laišką, kuriame taikos sutartį vadino pražūtinga.
 - susijęs iš [[objektai/asmenys/Jonas (kancleris).md#claim-t-60342|Jonas (kancleris)]]: Kancleris Jonas buvo tarp liudytojų, dalyvavusių apie 1226 arba 1230 m. patvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
 - susijęs iš [[objektai/asmenys/Jonas Jurgis (Brandenburgo kurfiurstas).md#claim-t-87722|Jonas Jurgis (Brandenburgo kurfiurstas)]]: Jonui Jurgiui, Brandenburgo kurfiurstui, turėjo būti duoti du geri žirgai ir prašyta globoti paskutinę valią.
@@ -2135,11 +2329,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63840|Kotryna II]]: Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.
 - susijęs iš [[objektai/asmenys/Kristijonas Donelaitis.md#claim-t-183555|Kristijonas Donelaitis]]: Kristijono Donelaičio poema „Metai“ apie 1750 m. Mažojoje Lietuvoje iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys.
 - susijęs iš [[objektai/asmenys/Kristijonas Donelaitis.md#claim-t-19073|Kristijonas Donelaitis]]: Kristijono Donelaičio poema „Metai“ apie 1750 m. Mažojoje Lietuvoje iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93428|Kristijonas]]: Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93436|Kristijonas]]: Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93428|Kristijonas (vyskupas, XIII a.)]]: Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93436|Kristijonas (vyskupas, XIII a.)]]: Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.
+- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189973|Kristoforas Hartknochas]]: Hartknochas pagal senus duomenis šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje netoli Rusnės įlankos.
 - susijęs iš [[objektai/asmenys/Kunonas (Brandenburgo komtūras).md#claim-t-184760|Kunonas (Brandenburgo komtūras)]]: Kunonas, gavęs žinią apie priešą, patraukė su būriu į Notangą ir parinkęs vietą pasalai laukė lietuvių pasirodant.
 - susijęs iš [[objektai/asmenys/Kunonas (Brandenburgo komtūras).md#claim-t-60163|Kunonas (Brandenburgo komtūras)]]: Brolis Kunonas, Brandenburgo komtūras, su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir sudegino jų papilius.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184769|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Sugrįžęs į Lietuvą, Kęstutis vedė vaidilutę Birutę, bet netrukus kryžiuočiai užpuolė Žemaitiją.
+- susijęs iš [[objektai/asmenys/Liudvikas Rėza.md#claim-t-188578|Liudvikas Rėza]]: Narbutas nurodo, kad pono Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų lazdų paprotį.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59871|Meinhardas Saksas iš Kverfurto]]: 1294 m. Meinhardas Saksas iš Kverfurto subūrė kariuomenę, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59874|Meinhardas Saksas iš Kverfurto]]: 1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.
 - susijęs iš [[objektai/asmenys/Melchizedekas.md#claim-t-60387|Melchizedekas (kunigas)]]: Dusburgiečio pateiktame Pradžios knygos epizode karalius ir kunigas Melchizedekas Abraomui padovanojo duonos ir vyno.
@@ -2165,12 +2361,14 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184823|Petras Goštautas]]: Veliuonos įgulos vadas Goštautas pasidavė priešams, bet žuvo nuo nugalėtojų rankų jiems susiginčijus dėl belaisvio.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184425|Petras I Didysis]]: Petras I susitarė su Augustu II dėl Rusijos paramos prieš Švediją.
 - susijęs iš [[objektai/asmenys/Pilypas (Fermo vyskupas).md#claim-t-60411|Pilypas (Fermo vyskupas)]]: Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.
+- susijęs iš [[objektai/asmenys/Polencas.md#claim-t-190201|Polencas]]: Narbutas Polencą mini kaip liuteronų vyskupą, kurio ir Pauliaus Sprito Karaliaučiaus bažnyčios Agenda liudijo Pergrubei skirtas apeigas iki 1530 m.
 - susijęs iš [[objektai/asmenys/Popiežius Celestinas III.md#claim-t-60480|Popiežius Celestinas III]]: Dusburgietis rašo, kad popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę.
 - susijęs iš [[objektai/asmenys/Popiežius Honorijus III.md#claim-t-60416|Popiežius Honorijus III]]: Popiežius Honorijus III ir imperatorius Fridrichas II patikėjo broliui Hermanui spręsti jų slaptų nesutarimų bylą.
 - susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-184120|Poponas iš Osternos]]: 1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.
 - susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-184121|Poponas iš Osternos]]: Poponas iš Osternos tuo metu buvo šeštasis Teutonų namų ordino didysis magistras.
 - susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59945|Poponas iš Osternos]]: Poponas iš Osternos tuo metu buvo šeštasis Teutonų namų ordino didysis magistras.
 - susijęs iš [[objektai/asmenys/Pranciškus (popiežiaus legatas).md#claim-t-87565|Pranciškus (popiežiaus legatas)]]: Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius.
+- susijęs iš [[objektai/asmenys/Pretorijus.md#claim-t-190044|Pretorijus]]: Narbutas rašo, kad Pretorijus, atpasakodamas Dusburgiečio kronikos vietą apie žynio lazdą, ją vadino krivūle.
 - susijęs iš [[objektai/asmenys/Prutenis.md#claim-t-60419|Prutenis]]: Vienoje XV a. tradicijoje Prūsijos pradžia buvo siejama su Pruteniu ir Videvučiu.
 - susijęs iš [[objektai/asmenys/Pukuveras.md#claim-t-60195|Pukuveras (Lietuvos karalius, XIII a.)]]: 1292 m. Lietuvos karalius Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
 - susijęs iš [[objektai/asmenys/Redigeris Elneris.md#claim-t-87844|Redigeris Elneris]]: Arkikomtūras Redigeris Elneris su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.
@@ -2178,6 +2376,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Ričardas II.md#claim-t-87571|Ričardas II]]: Henrikas Lankasteris po devynerių metų nuvertė Ričardą II nuo sosto ir ėmė viešpatauti Henriko IV vardu.
 - susijęs iš [[objektai/asmenys/Rudolfas (Pomezanijos vyskupas).md#claim-t-87847|Rudolfas (Pomezanijos vyskupas)]]: Pomezanijos vyskupas Rudolfas Elblionge su kitais vyskupais surengė pasitarimą dėl taikos sutarties ir prisidėjo prie laiško Livonijai.
 - susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60061|Samboras (Sventopelko sūnus)]]: Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų.
+- susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-188615|Simonas Grunau]]: Narbutas Simoną Grunau vadino seniausiu žinomu šio pasakojimo šaltiniu ir gynė jį kaip didesnės pagarbos vertą kronikininką.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179659|Skirgaila]]: Skirgaila ne anksčiau kaip 1388 m. tapo didžiuoju kunigaikščiu, nes 1387 m. dokumentuose vadintas tik Trakų kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Sklodas iš Kvedenavos.md#claim-t-60205|Sklodas iš Kvedenavos]]: Sembas Sklodas iš Kvedenavos sušaukė giminaičius ir bičiulius, ragindamas juos kovoti už tikėjimą ir brolius.
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170089|Stanislovas Augustas Poniatovskis (valdovas)]]: Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos.
@@ -2201,11 +2400,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-87601|Tautvila]]: Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121174|Tautvilas]]: Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121175|Tautvilas]]: Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
+- susijęs iš [[objektai/asmenys/Tavernjė.md#claim-t-190214|Tavernjė]]: Narbutas nurodo, kad Tavernjė čerkesų ir kumanų totorių papročiuose rado tam tikrą Motinos žemės kulto panašybę.
 - susijęs iš [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus).md#claim-t-60446|Tomas (Hertvigo iš Pokarvių sūnus)]]: Kronikoje pasakojama, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, mirė ir atgijo per Viešpaties kryžiaus atskalą.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90060|Treniota]]: Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamedę, o jo pajėgos paėmė Birgelavos pilį.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Drinlevės.md#claim-t-184135|Ulrichas iš Drinlevės]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo karius, nukovė 55 lietuvius ir atsiėmė visą grobį.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Drinlevės.md#claim-t-60450|Ulrichas iš Drinlevės]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo karius, nukovė 55 lietuvius ir atsiėmė visą grobį.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Magdeburgo.md#claim-t-60214|Ulrichas iš Magdeburgo]]: Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo itin stipraus kūno sudėjimo.
+- susijęs iš [[objektai/asmenys/Vaidevutis.md#claim-t-190031|Vaidevutis]]: Narbutas kritikui atsakė, kad kronikose vardai rašyti netiksliai, o Brutenis ir Vaidevutis tame būryje turėjo tokias pat vardų galūnes.
 - susijęs iš [[objektai/asmenys/Valteris R. Hesas.md#claim-t-19308|Valteris R. Hesas]]: Kaltinamieji teigė, kad nacių vadas Valteris R. Hesas jiems davė nurodymus dėl veiklos Klaipėdoje.
 - susijęs iš [[objektai/asmenys/Vasilijus Vasiljevičius.md#claim-t-87932|Vasilijus Vasiljevičius]]: Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-184140|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru.
@@ -2225,16 +2426,18 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176709|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vėlesniais Vytauto valdymo laikais Vilnius atsigavo po Skirgailos valdymo ir praturtėjo.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176714|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184862|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas, iš draugų sužinojęs apie Jogailos veiksmus, su Birute pasitraukė į Gardiną.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176846|Vytenis]]: Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184886|Vytenis]]: Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis (valdovas, XIII–XIV a.)]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176846|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184886|Vytenis (valdovas, XIII–XIV a.)]]: Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių.
 - susijęs iš [[objektai/asmenys/Zigfridas fon Dahenfeldas.md#claim-t-186269|Zigfridas fon Dahenfeldas]]: Magistras paskyrė Prūsijos maršalą Zigfridą fon Dahenfeldą kariuomenės vadu ir įsakė žygiuoti į Lietuvą.
 - susijęs iš [[objektai/asmenys/Zigfridas iš Foichtvangeno.md#claim-t-90250|Zigfridas iš Foichtvangeno]]: Po Gotfrido atsistatydinimo Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru ir iškeliavo į Ordino būstinę Venecijoje.
 - susijęs iš [[objektai/asmenys/Zigfridas iš Foichtvangeno.md#claim-t-90251|Zigfridas iš Foichtvangeno]]: 1303 m. Elbingo kapituloje Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru.
 - susijęs iš [[objektai/asmenys/Ėrichas Kochas.md#claim-t-19351|Ėrichas Kochas]]: Klaipėdos nacistai teigė, kad nurodymus jiems davė Rytų Prūsijos oberprezidentas Ėrichas Kochas.
+- susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-188654|Šventaragis]]: Narbutas teigė, kad kunigaikštis Šventaragis 1282 m. priėmė lietuvių Vytį kaip valstybinį herbą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179715|Švitrigaila]]: 1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179727|Švitrigaila]]: Dar neįsitvirtinus Vytautui, Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179732|Švitrigaila]]: Švitrigaila, įsižeidęs dėl Vytauto iškėlimo, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.
+- susijęs iš [[objektai/autoriai/Ditmaras Merzeburgiškis.md#claim-t-190420|Ditmaras Merzeburgiškis]]: Narbutas pripažįsta, kad Ditmaras Merzeburgiškis, kaip ir kiti užsienio kronikininkai, nė vienu žodžiu neužsiminė apie krivį.
 - susijęs iš [[objektai/autoriai/Dreyer.md#claim-t-88055|Dreyer]]: Dreyerio veikale buvo paskelbtas Gedimino laiškas Šiaurės Vokietijos pajūrio miestams.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102840|Dusburgas]]: Dusburgas laikytas aprašomų įvykių amžininku ir patikimu liudytoju apie Gedimino pilį.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102843|Dusburgas]]: Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą.
@@ -2242,10 +2445,14 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102851|Dusburgas]]: Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102854|Dusburgas]]: Dusburgietis nurodo aprašysiąs tiek savo matytus įvykius, tiek dalyvių pasakojimus ir patikimų šaltinių liudijimus.
 - susijęs iš [[objektai/autoriai/H. Baueris.md#claim-t-60605|H. Baueris]]: H. Baueris XX a. ketvirtajame dešimtmetyje aptarė kai kuriuos Dusburgiečio kronikos klausimus.
+- susijęs iš [[objektai/autoriai/Helmoldas.md#claim-t-190365|Helmoldas]]: Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokumentai, neužsimena apie krivį.
 - susijęs iš [[objektai/autoriai/Henrikas Latvis.md#claim-t-171490|Henrikas Latvis]]: Henriko Latvio kronika laikoma svarbiu šaltiniu XIII-XIV a. Lietuvos feodalinio laikotarpio istorijai nušviesti.
 - susijęs iš [[objektai/autoriai/Hermanas iš Vartbergės.md#claim-t-62615|Hermanas iš Vartbergės]]: Hermano iš Vartbergės kronika laikoma svarbiu šaltiniu XIII-XIV a. Lietuvos feodalinio laikotarpio istorijai nušviesti.
-- susijęs iš [[objektai/autoriai/Ignacas Onacevičius.md#claim-t-81904|Ignacas Onacevičius]]: Ignacas Onacevičius pateikė pastabų, kuriomis M. Balinskis rėmėsi taisydamas žygio į Vilnių aprašymą.
 - susijęs iš [[objektai/autoriai/Juozas Miliauskas.md#claim-t-39830|Juozas Miliauskas]]: Juozas Miliauskas prisiminimuose aprašė Švėkšnos apylinkių miškuose rusų pajėgų užpultą sukilėlių stovyklą.
+- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188432|Kristupas Hartknochas]]: Narbutas rašo, kad Hartknochas pagal senus duomenis prie Žemaitijos sienos lokalizavo garsų šventąjį mišką.
+- susijęs iš [[objektai/autoriai/Kasparas Hennenbergeris.md#claim-t-190305|Kasparas Hennenbergeris]]: Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų vienaakių žmonių prie Šventainės upės.
+- susijęs iš [[objektai/autoriai/Kristijonas.md#claim-t-190394|Kristijonas]]: Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūrimą ir krivio buvimą grindė pirmojo Prūsijos vyskupo Kristijono kronika.
+- susijęs iš [[objektai/autoriai/Kristijonas.md#claim-t-190395|Kristijonas]]: Narbutas nurodo, kad žinia apie Kristijono kroniką dėl Romovės ir krivio remiasi padavimu, bet kronikos egzistavimą jis laiko įrodytu.
 - susijęs iš [[objektai/autoriai/L. Truska.md#claim-t-30784|L. Truska]]: L. Truska parašė studiją „Emigracija iš Lietuvos 1868-1914 m.“.
 - susijęs iš [[objektai/autoriai/Labuda G.md#claim-t-64699|Labuda G]]: G. Labuda Vitlando pavadinimą siejo su baltų žodžiu „vidus“ ir lygino jį su latvių Vidzeme.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179539|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m.
@@ -2255,24 +2462,30 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172920|M. Strijkovskis Stryjkowski]]: Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172899|Motiejus Strijkovskis (kronikininkas)]]: Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172908|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis klydo žygio vadovavimą priskirdamas Konradui Valenrodui ir tuo metu vadindamas jį didžiuoju magistru.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-188449|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis Ilgių šventę laikė visai neseniai pradėta žemaičių švente.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182793|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182794|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą.
 - susijęs iš [[objektai/autoriai/Miechovita.md#claim-t-88096|Miechovita]]: Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.
 - susijęs iš [[objektai/autoriai/Miechowita Miechovita.md#claim-t-88034|Miechowita Miechovita]]: Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181461|Petras Dusburgietis]]: Petras Dusburgietis 1326 m. užbaigė savo kroniką, įteikė ją magistrui, o kūrinys buvo pratęstas iki 1330 m.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181463|Petras Dusburgietis]]: Dedikacijoje Petras iš Dusburgo tiesiogiai įvardija save tų pačių įžadų kunigu ir kronikos siuntėju Verneriui iš Orzelno.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181466|Petras Dusburgietis]]: Petras iš Dusburgo 1326 m. užbaigė savo kroniką ir įteikė ją magistrui.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181467|Petras Dusburgietis]]: Petras iš Dusburgo kronikos dedikacijoje prisistato kaip tų pačių šventųjų įžadų kunigas.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181473|Petras Dusburgietis]]: Petras iš Dusburgo šiame šaltinyje apibūdinamas kaip Ordino brolis kunigas, 1326 m. užbaigęs savo kroniką ir įteikęs ją magistrui.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181474|Petras Dusburgietis]]: Petras Dusburgietis nurodytas kaip teksto „Rūstus Dievo žmonių likimas“ šaltinio autorius.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181476|Petras Dusburgietis]]: Petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-183995|Petras Dusburgietis]]: Petras iš Dusburgo kronikos dedikacijoje kreipėsi į magistrą Vernerį iš Orzelno.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188463|Petras Dusburgietis]]: Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną prūsų moterį pranašautoją.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188467|Petras Dusburgietis]]: Narbutas teigė, kad Dusburgietis galėjo gauti tikriausių žinių apie tai, ką norėjo papasakoti apie stabmeldystės laikus.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188468|Petras Dusburgietis]]: Narbutas, perpasakodamas Dusburgietį, aiškino krivūlę kaip krivio turėtą lazdą ir įsakomąjį ženklą.
+- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190377|Plinijus]]: Narbutas Plinijumi grindė teiginį, kad romėnų laivai prieš Kristaus gimimą plaukiojo Baltijos jūroje.
+- susijęs iš [[objektai/autoriai/Pretorijus.md#claim-t-190332|Pretorijus]]: Pretorijus, perpasakodamas Dusburgiečio kronikos vietą apie žynio lazdą, vadino ją krivūle.
 - susijęs iš [[objektai/autoriai/Rygos arkivyskupas Fridrichas.md#claim-t-88043|Rygos arkivyskupas Fridrichas]]: Balińskis manė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus ir siekė palankaus popiežiaus sprendimo ginče su kryžiuočiais.
+- susijęs iš [[objektai/autoriai/Rėza (leidėjas, 1818 m.).md#claim-t-188472|Rėza (leidėjas, 1818 m.)]]: Narbutas nurodo, kad Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų viršuje sukreivintų lazdų paprotį.
 - susijęs iš [[objektai/autoriai/Stasys Šalkauskis.md#claim-t-81965|Stasys Šalkauskis]]: Stasio Šalkauskio „Raštų“ IX tomas buvo nurodytas tarp spaudai rengiamų leidinių.
+- susijęs iš [[objektai/autoriai/Strijkovskis.md#claim-t-190455|Strijkovskis]]: Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes turėjo Lietuvos istorijos šaltinių.
 - susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23259|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
 - susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23260|Tadas Korsakas]]: Tadas Korsakas žuvo ginant Varšuvą.
 - susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23262|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
 - susijęs iš [[objektai/autoriai/Vincas Vyčinas.md#claim-t-88083|Vincas Vyčinas]]: Vinco Vyčino „Raštų“ III tomas buvo nurodytas tarp spaudai rengiamų leidinių.
+- susijęs iš [[objektai/autoriai/Vulfstanas (jūrininkas, IX amžius).md#claim-t-188486|Vulfstanas (jūrininkas, IX amžius)]]: Narbutas pripažįsta, kad Vulfstanas ir kiti užsienio kronikininkai bei dokumentai nemini krivio.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172965|Vygandas Marburgietis]]: Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172970|Vygandas Marburgietis]]: Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų.
 - susijęs iš [[objektai/autoriai/Vygandas iš Marburgo.md#claim-t-62663|Vygandas iš Marburgo]]: Vygando iš Marburgo XIV a. kronika laikoma svarbiu šaltiniu Lietuvos XIII-XIV a. feodalinio laikotarpio istorijai nušviesti.
@@ -2283,6 +2496,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/daiktai/Daugiavamzdė Gatlingo sistema.md#claim-t-40704|Daugiavamzdė Gatlingo sistema]]: JAV buvo gaminamas kulkosvaidžio prototipas - daugiavamzdė Gatlingo sistema.
 - susijęs iš [[objektai/daiktai/Duona.md#claim-t-59682|Duona]]: 1324 m. Kristburgo pilyje iš duonos, kurią račius Andrius dažė aluje, pradėjo varvėti kraujo lašai.
 - susijęs iš [[objektai/daiktai/Goštauto liepa.md#claim-t-87027|Goštauto liepa]]: 1621 metais Petras Korkonas rašė, kad Petro Goštauto pasodinta liepa buvo vešli, drūta ir vadinta Goštauto liepa.
+- susijęs iš [[objektai/daiktai/Kilnojamosios šventovės audeklo uždanga.md#claim-t-189685|Kilnojamosios šventovės audeklo uždanga]]: Narbutas kilnojamosios šventovės audeklo uždangą aprašė kaip šešių dalių ir aštuonių uolekčių aukščio aptvarą aplink dievams malonų medį.
 - susijęs iš [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga.md#claim-t-86998|Pabūklai, bombardos, patrankos ir artilerijos įranga]]: Puolant Vilniaus Aukštutinę pilį, artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į mūrus.
 - susijęs iš [[objektai/daiktai/Parakas.md#claim-t-54733|Parakas]]: Kryžiuočių kariaunoje, po penkių sunkių apsupties savaičių ir plintant ligoms, visiškai baigėsi parakas.
 - susijęs iš [[objektai/daiktai/Pilys.md#claim-t-59675|Pilys]]: Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.
@@ -2300,6 +2514,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96078|Baltai]]: Mindaugas siekė padaryti Lietuvą bendrąja baltų valstybe, apimančia šiaurines ir pietvakarines baltų žemes.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96080|Baltai]]: Kronikoje vaizduojamu laikotarpiu prūsai, lietuviai ir latviai priskiriami baltams, siejamiems kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88531|Bartai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai grįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
+- susijęs iš [[objektai/grupes/Burtininkai.md#claim-t-189451|Burtininkai]]: Narbutas rašė, kad Prūsijos kronikininkai burtininkams priskyrė ateities spėjimą liejant ištirpintą vašką į šaltą vandenį.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88536|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis, skelbęs krikščionybę prūsams.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88538|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis ir ragino prūsus atsisakyti stabų garbinimo.
 - susijęs iš [[objektai/grupes/Danijos karaliaus kariai iš Revelio.md#claim-t-40872|Danijos karaliaus kariai iš Revelio]]: Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį.
@@ -2317,7 +2532,9 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175531|Kalavijuočių ordinas]]: Po pralaimėjimo Saulės mūšyje kalavijuočių likučiai buvo prijungti prie Kryžiuočių ordino.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184564|Kalavijuočių ordinas]]: Livonijos ordino ir Lietuvos sutaikymą bandė tarpininkauti Rygos vyskupas Fridrichas, pasitelkęs popiežiaus Jono XXII autoritetą.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116728|Katalikų Bažnyčia]]: XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją.
+- susijęs iš [[objektai/grupes/Kaukai.md#claim-t-189492|Kaukai]]: Narbutas kaukų garbintojams priskiria paprotį nakčiai padėti maisto ir iš jo suvalgymo pranašauti kaip su barstukais.
 - susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-184483|Krikščionys]]: Popiežiaus ediktas kvietė krikščionis į šventąjį karą prieš stabmeldžius, žadėdamas nuodėmių atleidimą.
+- susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189439|Kriviai ir Krivių Krivaičiai]]: Narbutas mano, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis vyriausiųjų žynių eilėje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178789|Kryžiuočių ordinas]]: Balińskis teigė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus, siekdamas apšmeižti Kryžiuočių ordiną.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178793|Kryžiuočių ordinas]]: Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Kryžiuočių ordino brolius kaip neturtą ir pavojus pasirinkusius tikėjimo gynėjus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178805|Kryžiuočių ordinas]]: Vytautas 1410 m. Žalgirio mūšyje palaužė Ordino galybę ir grąžino Žemaitijai laisvę.
@@ -2361,9 +2578,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184490|Kryžiuočių ordinas]]: Mūšyje Livonijos kariuomenė buvo sutriuškinta, žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir 150 ordino riterių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184495|Kryžiuočių ordinas]]: Karaliaučiaus komtūras Bertoldas Briuhavenas su Prūsijos kryžiuočių daliniu Livonijoje sumušė apgulties išsekintus lietuvius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184503|Kryžiuočių ordinas]]: Kryžiuočiai užgrobė Vysla gabentus grūdus, kuriuos Jogaila buvo skyręs nuniokotos Lietuvos daliai palengvinti.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188214|Kryžiuočių ordinas]]: Narbutas mano, kad vyriausiųjų žynių sąrašas autentiškas, nes Prūsijos istorikai galėjo jį perimti iš Kryžiuočių ordino užrašų.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-190568|Kryžiuočių ordinas]]: Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65568|Kuršiai]]: Kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169586|Latviai]]: II tūkstantmečio pradžioje latviai pradėjo formuotis kartu su prūsų, jotvingių ir lietuvių tautomis.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169587|Latviai]]: Kronikoje vaizduojamu laikotarpiu latviai, lietuviai ir prūsai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188221|Latviai]]: Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu ir padavimu apie supykusio Likimo plakamos žemės drebėjimą.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188225|Latviai]]: Pasak Rusovo, latvių jaunimas garbino deivę Dahkla kaip laisvės ir vyriškumo globėją.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179133|Lenkai]]: Pukuveras pasiuntė Vytenį su didele kariuomene į Lenkijos Bresto žemę, kur jo kariai žudė, ėmė belaisvius, degino ir grobė.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179195|Lenkai]]: Prūsijos magistrui Meinhardui atvykus su kariuomene, Lenkijos kunigaikščiai Kazimieras ir Lokietka pasitraukė su savo lenkais.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184518|Lenkai]]: Germantas sudarė draugystę su lenkais, siūlydamas sąjungą ir siekdamas bendromis jėgomis pulti rusus.
@@ -2374,6 +2595,10 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179308|Lietuviai]]: Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užpuolė kraštą ir nužudė arba į nelaisvę išsivedė 6-8 tūkst. gyventojų.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184545|Lietuviai]]: Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį atidavė Konradui.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188257|Lietuviai]]: Narbutas rašė, kad lietuviai Ragutį garbino aukurais, stabais, šventyklomis, žyniais ir vaidilutėmis.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188265|Lietuviai]]: Narbutas aiškino, kad lietuviai, siekdami išsivaduoti iš priespaudos, naudodavo laisvės deivės simbolį.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190587|Lietuviai]]: Narbutas teigė, kad lietuviai turėjo kilnojamųjų, arba stovyklinių, šventovių, priklausiusių ugnies šventovėms.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190592|Lietuviai]]: Narbutas lietuvių priesaikas aiškino kaip dievų šaukimą liudytojais, minėdamas formules „dėl Dievo“ ir „Kad man Perkūnas sumuštų“.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169696|Lietuvos Didžioji Kunigaikštija]]: Po antrojo Abiejų Tautų Respublikos padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179354|Livonijos ordinas]]: 1372 m. Lietuva vienu metu buvo puolama iš Prūsijos ir Livonijos.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179398|Livonijos ordinas]]: Taikos sutartyje Livonijos ordino pusėje buvo minimi tarpininkai, tarp jų Rygos arkivyskupas, kapitula ir miesto atstovai.
@@ -2392,6 +2617,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89156|Pagudėnai]]: Magistras ir broliai užkariavo pagudėnų rankose buvusią Heilsbergo pilį, dalį žmonių paėmė į nelaisvę, o kitus išžudė.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89169|Pagudėnai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
 - susijęs iš [[objektai/grupes/Pamarėnai.md#claim-t-63189|Pamarėnai]]: 1218 m. popiežiaus Honorijaus II organizuotame kryžiaus žygyje į Prūsiją dalyvavo ir pamarėnai.
+- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-188290|Pamedėnai]]: Narbutas rašo, kad pamedėnai turėjo prisiekti nepriimti krikščionių tikėjimo ir ginti savo senąjį tikėjimą.
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78417|Pamedėnai]]: Per badą pilyje broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti į kitas vietas, kad galėtų prasimaitinti.
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78422|Pamedėnai]]: 1260 m. Klaipėdoje pamedėnai minimi tarp Ordino pavaldžių užgrobtų žemių karių, prievarta telktų prieš Lietuvą.
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78423|Pamedėnai]]: 1260 m. Klaipėdoje prieš Lietuvą sutelktose Ordino pajėgose buvo ir prievarta buriami pamedėnai.
@@ -2404,6 +2630,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108296|Pranciškonų ordinas]]: Vytenis prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius į jau pastatytą bažnyčią.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108316|Pranciškonų ordinas]]: 1323 m. Gedimino laiškai buvo rašyti dominikonų, Mažesniųjų brolių, arba pranciškonų, ordinams ir Hanzos miestams.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108328|Pranciškonų ordinas]]: Gedimino laiškai buvo rašyti dominikonams, pranciškonams ir Hanzos miestams.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188307|Prūsai]]: Narbutas, remdamasis Hartknochu, nurodo garsų prūsų šventąjį mišką prie Žemaitijos sienos, dviejų upių santakoje netoli Rusnės įlankos.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188308|Prūsai]]: Narbutas prūsų religijos duomenims svarbiomis laiko Hartknocho surinktas kronikų žinias ir 1249 metų popiežiaus legato Jokūbo privilegijos ištraukas.
 - susijęs iš [[objektai/grupes/Pskovo muškietininkų pulkas.md#claim-t-78425|Pskovo muškietininkų pulkas]]: Lietuviams puolant Vilnių balandžio 23 d., rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.
 - susijęs iš [[objektai/grupes/Saksų dinastija.md#claim-t-20001|Saksų dinastija]]: Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175081|Sembai]]: Sembai nukankino Teutonų ordino kunigą, atsiųstą jų krikštyti, suspaudę jam kaklą dviem kartimis.
@@ -2415,6 +2643,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89213|Skalviai]]: Magistras ir broliai, keršydami skalviams, įsiveržė į Skalvą, ją nusiaubė, daug žmonių išžudė, o moteris ir vaikus išsivarė.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89217|Skalviai]]: Prie Nemuno buvo pastatyta Skalvių pilis, skirta į Kristaus tikėjimą atsivertusiems skalviams gyventi.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89222|Skalviai]]: Dusburgietis Skalvos nusiaubimą aiškina kaip brolių kerštą skalviams už ankstesnį nusikaltimą.
+- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-188336|Skandinavai]]: Narbutas perteikia Prūsijos kronikininkų nuomonę, kad lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171397|Totoriai]]: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187748|Totoriai]]: Vytautas į karą su Prūsijos vokiečiais sutelkė Lietuvos ir Rusios pajėgas bei daug Ordos totorių.
 - susijęs iš [[objektai/grupes/Tverės ir Riazanės kunigaikščiai.md#claim-t-86772|Tverės ir Riazanės kunigaikščiai]]: 1430 m. Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
@@ -2423,13 +2652,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78547|Varmiai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
 - susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59008|Vokietijos maldininkai]]: 1307 m. į Prūsijos žemę atvykę Vokietijos maldininkai žiemą telkė kariuomenę žygiui prieš lietuvius, bet žygio nepradėjo dėl plono ledo.
 - susijęs iš [[objektai/grupes/Vokiečių nacionalsocialistų partija.md#claim-t-77832|Vokiečių nacionalsocialistų partija]]: 1934–1935 m. Kaune vyko pirmasis Europoje vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.
+- susijęs iš [[objektai/grupes/Vokiečių tauta.md#claim-t-189539|Vokiečių tauta]]: Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai rašiusį apie kryžiuočius ir vokiečių tautą.
 - susijęs iš [[objektai/grupes/Švedai.md#claim-t-75058|Švedai]]: Kovos su švedais paliko gilų pėdsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.
 - susijęs iš [[objektai/grupes/Švitrigailos šalininkai.md#claim-t-86779|Švitrigailos šalininkai]]: Podolėje Jogaila kovojo su Moldovos kunigaikščių remiamais Švitrigailos šalininkais.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176134|Žemaičiai]]: Paaštrėjus Vytauto ir Ordino santykiams, Vytautas parėmė žemaičius, o žemaičiai išvarė kryžiuočius iš savo krašto.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176140|Žemaičiai]]: Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą ir nužudė apie 70 žmonių.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176161|Žemaičiai]]: Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių ir jį sudegino.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117386|Žydai]]: Trakų žydai dar 1388 m. buvo gavę atskirą privilegiją, apibūdinusią jų elgseną krikščionių atžvilgiu.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117397|Žydai]]: Trakų žydai 1388 m. buvo gavę privilegiją, apibrėžusią jų elgseną krikščionių atžvilgiu.
+- susijęs iš [[objektai/ivykiai/1249 m. popiežiaus legato Jokūbo privilegija prūsams.md#claim-t-189615|1249 m. popiežiaus legato Jokūbo privilegija prūsams (privilegija, XIII a.)]]: Narbutas popiežiaus legato Jokūbo 1249 m. privilegijos prūsams ištraukas laikė ypač reikšmingu raštišku prūsų žynių paminėjimu.
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-183210|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: Rusijos kariuomenė, vadovaujama Aleksandro Suvorovo, 1794 m. sukilimo metu ėmėsi veiksmų prieš sukilėlius.
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-66433|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: 1794 m. rugpjūtį Rusijos kariuomenė užėmė Vilnių, o lapkričio 5 d. pasidavė Varšuva.
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-183208|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: Rusijos kariuomenė, vadovaujama Aleksandro Suvorovo, 1794 m. sukilimo metu ėmėsi veiksmų prieš sukilėlius.
@@ -2460,6 +2689,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/ivykiai/Gotfrido Hohenlohės žygis į Livoniją, atsistatydinimas ir Zigfrido iš Foichtvangeno išrinkimas (1302–1303 m.).md#claim-t-62793|Gotfrido Hohenlohės žygis į Livoniją, atsistatydinimas ir Zigfrido iš Foichtvangeno išrinkimas (1302–1303 m.)]]: Gotfridui Hohenlohei atsisakius didžiojo magistro pareigų, Elbinge buvo išrinktas Zigfridas iš Foichtvangeno.
 - susijęs iš [[objektai/ivykiai/Grafo iš Barbio žygis į Sembą ir pralaimėjimas.md#claim-t-62795|Grafo iš Barbio žygis į Sembą ir pralaimėjimas]]: Sembai sausio 21 d. užpuolė Sembą nusiaubusį grafą iš Barbio, jį sunkiai sužeidė ir privertė jo kariuomenę trauktis.
 - susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-66558|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Pamedėje Henrikas, Meiseno markgrafas, puolė Reisių valsčių, naikino pilis ir privertė pamedėnus pasiduoti tikėjimui bei broliams.
+- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio šventojo miško kirtimas.md#claim-t-189627|Jeronimo Prahiškio šventojo miško kirtimas]]: Narbutas pasakoja, kad šventojo miško viduryje žmonės kurį laiką nedrįso paliesti seniausio medžio, laikyto dievų buveine.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186605|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad vokiečiai prie Dubrovnos buvo prikasę duobių ir pridengę jas velėnomis.
 - susijęs iš [[objektai/ivykiai/Jogailos paleidimas į Krėvą ir jo kontrpuolimas užimant Vilnių bei Trakus.md#claim-t-185706|Jogailos paleidimas į Krėvą ir jo kontrpuolimas užimant Vilnių bei Trakus]]: Jogaila, sutelkęs kariuomenę, netikėtai pasuko į Vilnių, užėmė pilis ir po to vedė kariuomenę į Trakus prieš Vytautą.
 - susijęs iš [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.).md#claim-t-97020|Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]: Kunonas, Brandenburgo komtūras, užpuolė Junigėdos ir Pieštvės pilis ir iki pamatų sudegino jų papilius.
@@ -2558,16 +2788,20 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/paprociai/Ankstyvųjų Ordino brolių asketinio gyvenimo idealas.md#claim-t-62666|Ankstyvųjų Ordino brolių asketinio gyvenimo idealas]]: Kronikos pratarmėje Dusburgietis idealizuoja pirmuosius Ordino brolius, pasirinkusius neturtą, pavojus, rūpesčius ir vienatvę.
 - susijęs iš [[objektai/paprociai/Belaisvių likimo sprendimas pagal visiems žinomus karo papročius.md#claim-t-62671|Belaisvių likimo sprendimas pagal visiems žinomus karo papročius]]: Prūsijos ir Livonijos žmonės priešinosi kuršių belaisvių grąžinimui, remdamiesi visiems žinomais karo papročiais.
 - susijęs iš [[objektai/paprociai/Kapinių šventinimas ir kapų šlakstymas švęstu vandeniu.md#claim-t-91922|Kapinių šventinimas ir kapų šlakstymas švęstu vandeniu]]: Kapinių šventinimo metu vyskupas šlakstė mirusiųjų kapus švęstu vandeniu.
+- susijęs iš [[objektai/paprociai/Kilnojamųjų ugnies šventovių uždangos atvėrimas per aukas.md#claim-t-189838|Kilnojamųjų ugnies šventovių uždangos atvėrimas per aukas]]: Narbutas rašo, kad lietuviai turėję kilnojamųjų ugnies šventovių, kuriose apie dievams malonų medį išvyniodavo aštuonių uolekčių uždangą.
 - susijęs iš [[objektai/paprociai/Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas.md#claim-t-77938|Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas]]: 1934 m. liepą–1935 m. kovą Kaune vykęs teismas buvo pirmasis Europoje vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.
 - susijęs iš [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu.md#claim-t-62688|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]: Per badą Kristburgo broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.
 - susijęs iš [[objektai/paprociai/Kryžiuočių ordino pareigūnų įžadų laužymas ir tuokimasis.md#claim-t-185919|Kryžiuočių ordino pareigūnų įžadų laužymas ir tuokimasis]]: Prūsijoje kryžiuočių ordino aukščiausi ir žemiausi pareigūnai laužė Dievui duotus įžadus ir ėmė tuoktis.
+- susijęs iš [[objektai/paprociai/Lalavimas per Velykas kaip burtininkų procesijų pamėgdžiojimas.md#claim-t-189841|Lalavimas per Velykas kaip burtininkų procesijų pamėgdžiojimas]]: Narbutas lalavimą per Velykas aiškino kaip burtininkų procesijos pamėgdžiojimą, kai sveikintojams namų šeimininkas turėdavęs ką nors duoti.
 - susijęs iš [[objektai/paprociai/Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje.md#claim-t-54273|Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje]]: Lietuvius Vokiečių ordino valstybėje ilgainiui pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva.
 - susijęs iš [[objektai/paprociai/Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas.md#claim-t-87297|Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas]]: Rugpjūtį lietuviai prie Vėluvos sudegino šešis kaimus ir nužudė kryžiuotį Fridrichą fon Quitzą su 36 kariais.
 - susijęs iš [[objektai/paprociai/Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje.md#claim-t-87165|Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje]]: 1464 m. Vilniuje vykęs seimas buvo įsimintinas visai valstybei paskelbtais įstatymais, galiojusiais iki Lietuvos Statuto.
 - susijęs iš [[objektai/paprociai/Ordino karo religinio įprasminimo praktika.md#claim-t-67175|Ordino karo religinio įprasminimo praktika]]: Petras iš Dusburgo Ordino karą laikė vykdomu pagal Dievo valią, o Ordino priešus vadino Dievo priešais.
 - susijęs iš [[objektai/paprociai/Ordino karo religinio įprasminimo praktika.md#claim-t-67176|Ordino karo religinio įprasminimo praktika]]: 600; PD, III, 58) formą, Ordino aktuose vartotą nuo XIII a.
 - susijęs iš [[objektai/paprociai/Ordino karo religinio įprasminimo praktika.md#claim-t-67177|Ordino karo religinio įprasminimo praktika]]: Ordino karo religinis įprasminimas žadėjo žuvusiems kryžiuočiams dangų, amžiną palaimą ir angelų globą po mūšio.
+- susijęs iš [[objektai/paprociai/Pergrubei skirtos pavasario aukos.md#claim-t-189853|Pergrubei skirtos pavasario aukos]]: Narbutas rašė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.
 - susijęs iš [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus.md#claim-t-87180|Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]: Popiežius su kardinolais viešoje konsistorijoje svarstė Rygos arkivyskupo ginčą su Livonijos ordinu ir paskelbė sprendimą.
+- susijęs iš [[objektai/paprociai/Pranašavimas liejant vašką į šaltą vandenį.md#claim-t-189856|Pranašavimas liejant vašką į šaltą vandenį]]: Narbutas rašė, kad Prūsijos kronikininkai burtininkams priskyrė ateities spėjimą liejant ištirpintą vašką į šaltą vandenį.
 - susijęs iš [[objektai/paprociai/Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis.md#claim-t-59731|Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis (pilis, XIV a.)]]: Prūsijoje žemiausias teritorinio skirstymo vienetas buvo pulka arba polka, Dusburgiečio vadinta campus.
 - susijęs iš [[objektai/paprociai/Stojimas į Ordiną kaip šventas sumanymas.md#claim-t-89448|Stojimas į Ordiną kaip šventas sumanymas]]: Kronikoje stojimas į Teutonų ordiną vadinamas šventu sumanymu.
 - susijęs iš [[objektai/paprociai/Stojimas į Ordiną kaip šventas sumanymas.md#claim-t-89449|Stojimas į Ordiną kaip šventas sumanymas]]: Kronikoje stojimas į Teutonų ordiną vadinamas šventu sumanymu.
@@ -2598,6 +2832,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/posakiai/stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje.md#claim-t-89605|stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje]]: Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Ordino brolius kaip neturtą, pavojus ir tikėjimo gynimą pasirinkusius vyrus.
 - susijęs iš [[objektai/posakiai/vartais į Rusiją.md#claim-t-41477|vartais į Rusiją]]: 1514 m. Rusijos užgrobtas Smolenskas buvo laikomas „vartais į Rusiją“ ir tapo Lietuvos bei Rusijos karinės konfrontacijos objektu.
 - susijęs iš [[objektai/posakiai/Šiandien prisiminkite puikius drabužius.md#claim-t-59172|Šiandien prisiminkite puikius drabužius]]: Sembas Sklodas iš Kvedenavos ragino giminaičius prisiminti puikius drabužius, kurių jie dažnai gaudavo iš Ordino brolių.
+- susijęs iš [[objektai/posakiai/Šiaurės popiežius.md#claim-t-189550|Šiaurės popiežius]]: Narbutas teigė, kad krivio laikymas „Šiaurės popiežiumi“ perdeda jo galią, nes jo veikimas dažnai ribojosi vienu valsčiumi.
 - susijęs iš 1230 m. rugsėjo 12 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1230 m. rugsėjo 12 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
 - susijęs iš 1232 m. sausio 23 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1232 m. sausio 23 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
 - susijęs iš 1248 m. Kristburgo sutartis: M. Poliakuvna pažymėjo, kad Dusburgietis 1248 m. Sventopelko ir Ordino Kristburgo sutartį panaudojo labai savavališkai.
@@ -2626,6 +2861,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš Karaliaučiaus karališkos bibliotekos Dusburgiečio kronikos tekstas: Karaliaučiaus karališkos bibliotekos Dusburgiečio kronikos tekstas 1540 m. sausio 16 d. pradėtas perrašinėti iš P. Speratui priklausiusios knygos.
 - susijęs iš LLV ir Rusijos taikos sutartis (1793 m.): 1793 m. Gardino Seimas turėjo pritarti naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
 - susijęs iš LLV padalijimų aktai: Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panaikino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė nebeatsikūrė.
+- susijęs iš Leodijos arkidiakono Jokūbo privilegija prūsams: Narbutas ypač reikšmingomis laiko Hartknocho pateiktas ištraukas iš Leodijos arkidiakono Jokūbo privilegijos, duotos prūsams 1249 metais.
 - susijęs iš M. Strijkovskio kronika: Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, remdamasis Długoszo pramanytu pasakojimu.
 - susijęs iš M. Strijkovskio kronika: Strijkovskis Narimantą priskyrė prie apgulties metu nukautųjų ir perpasakojo Długoszo sukurtą jo mirties istoriją.
 - susijęs iš Metai: Kristijono Donelaičio poema „Metai“ apibūdinama kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys Mažojoje Lietuvoje.
@@ -2643,14 +2879,19 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš Peterburgo konvencija dėl LLV padalijimo patvirtinimo (1797 m.): 1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peterburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos valstybingumo likučius ir nubrėžė tikslias sienas.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinio pratarmėje kronika apibūdinama kaip oficialus Kryžiuočių ordino valstybės kūrinys.
 - susijęs iš Preussens aeltere Geschichte: Augustas Kotzebue veikale „Preussens aeltere Geschichte“ išspausdino Gedimino laiškus dominikonams, pranciškonams ir Hanzos miestams.
+- susijęs iš Prūsijos žemės kronika: 1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
+- susijęs iš Prūsijos žemės kronika: Narbutas rašė, kad Pretorijus Dusburgiečio kronikos vietoje minimą žynio lazdą vadino krivūle.
 - susijęs iš Prūsų kalba: „Prūsų kalba“ nurodyta kaip MLTE 1968 m. antro tomo 935–936 puslapių publikacija.
 - susijęs iš Regesta historico-diplomatica Ordinis Mariae Theutonicorum: 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.
+- susijęs iš Simono Grunau kronika: Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui.
+- susijęs iš Simono Grunau kronika: Narbutas Simoną Grunau vadina suniekintu, bet didesnės pagarbos vertu kronikininku, nors pripažįsta jo šališkumą ir nekritiškumą.
 - susijęs iš Simono Grunau kronika: Romantikai rėmėsi XVI-XVII a. Prūsijos šaltiniais, kuriuose kronikininkai kalbėjo apie prūsų dievus.
 - susijęs iš Specimen Juris publici Lubecensis: Gedimino laiškas Šiaurės Vokietijos pajūrio miestams buvo įdėtas Dreyerio veikale „Specimen Juris publici Lubecensis“.
 - susijęs iš Stanislovo Augusto Poniatovskio abdikacijos aktas: Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos.
 - susijęs iš Tobijo knyga: Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.
 - susijęs iš Trakų žydų privilegija: Trakų žydai dar 1388 m. atskirai gavo privilegiją, kurioje išsamiai apibūdinta jų elgsena krikščionių atžvilgiu.
 - susijęs iš Volynės metraštis: Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“.
+- susijęs iš Vyskupo Kristijono kronika: Narbutas spėja, kad prūsų tautinės vėliavos runų užrašas galėjo būti senovinis dingusios vyskupo Kristijono kronikos užrašo vertimas.
 - susijęs iš Wremiennik Sofijski: Sofijski Wremiennik rašo, kad vokiečių pulkai atėjo prie Vilniaus prieš Vytautą, kovėsi prie miesto ir buvo Lietuvos nugalėti.
 - susijęs iš Švitrigailos 1431 m. gruodžio 31 d. laiškas didžiajam magistrui: 1431 m. gruodžio 31 d. laiške didžiajam magistrui Švitrigaila pranešė priėmęs Friedrichą von Bebirsteiną į savo dvariškių būrį.
 - susijęs iš Žygimanto Augusto testamentas (1571 m. gegužės 6 d.): Žygimantas Augustas testamente prašė giminaičių ginti jo paskutinę valią ir prireikus perimti testamento vykdymą.
@@ -2711,9 +2952,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš Karaliaučius: Autentiškas 1323 m. notaro parengtas Gedimino laiškų dokumentas buvo Karaliaučiaus slaptajame archyve.
 - susijęs iš Karaliaučius: Karaliaučiaus karališkos bibliotekos tekstas 1540 m. sausio 16 d. pradėtas perrašinėti iš Pamedės vyskupui P. Speratui priklausiusios knygos.
 - susijęs iš Karšuvos žemė: Burchardas iš Hornhauzeno patvarkė, kad Karšuvos žemėje ant švento Jurgio kalno būtų pastatyta pilis.
-- susijęs iš Kaunas: 1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir ėmė siaubti kraštą.
 - susijęs iš Kaunas: Kaunas senovėje buvo laikomas vartais į pagoniškąją Lietuvą ir garsėjo tvirtovėmis bei prekyba.
-- susijęs iš Kaunas: 1385 metų rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną.
 - susijęs iš Kaunas: 1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.
 - susijęs iš Kaunas: Kaunas senovėje buvo laikomas vartais į pagoniškąją Lietuvą ir garsėjo tvirtovėmis bei prekyba.
 - susijęs iš Kaunas: Ragainės komtūras išsklaidė Kauno tvirtovę iš griuvėsių kelti mėginusius darbininkus ir išardė pradėtą pilį.
@@ -2748,21 +2987,24 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš Lietuva: Dusburgietis, aprašydamas lietuvių puolimus, grindė būtinybę kariauti prieš Lietuvą.
 - susijęs iš Lietuva: Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.
 - susijęs iš Lietuva: Po antrojo LLV padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
-- susijęs iš Lietuva: XVI a. pabaigoje protestantizmas Lietuvoje buvo labai įsigalėjęs tarp didikų ir miestiečių.
-- susijęs iš Lietuva: Po lietuvių išpuolio Sembai lietuviai ir prūsai nuolat rengė karo žygius ir vieni kitiems smogė stiprių smūgių.
 - susijęs iš Lietuva: Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą ir pasiekė Trakus.
+- susijęs iš Lietuva: Narbutas Prūsijoje buvusius žemės drebėjimus laikė argumentu, kad jie galėjo būti žinomi ir tolimesnei Lietuvai.
+- susijęs iš Lietuva: Narbutas rašė, kad lietuvių genties ikijungtuviniai papročiai skyrėsi pagal tautą, vietos aplinkybes ir laiką.
 - susijęs iš Liublinas: Lenkai siekė ginklu atsiimti iš rusų Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus.
 - susijęs iš Livonija: 1372 m. Ordinas puolė Lietuvą vienu metu iš Prūsijos ir Livonijos.
 - susijęs iš Livonija: Vytauto laikais Vilniaus prekyba plėtėsi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.
+- susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
 - susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir grįžo į Prūsiją bei Livoniją.
 - susijęs iš Livonija: Jogaila be Kęstučio žinios sudarė taikos sutartį su Prūsijos kraštu ir Livonija.
 - susijęs iš Livonija: 1302 m. didysis magistras Gotfridas su 50 brolių per Prūsiją atvyko į Livoniją.
+- susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
 - susijęs iš Livonija: Švitrigaila siekė tapti Lietuvos valdovu, remdamasis Prūsijos ir Livonijos kryžiuočių galybe.
 - susijęs iš Livonija: Vytauto laikais Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais.
 - susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją.
 - susijęs iš Livonija: Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.
 - susijęs iš Livonija: Švitrigaila siekė tapti Lietuvos valdovu, remdamasis Prūsijos ir Livonijos kryžiuočių galybe.
 - susijęs iš Livonija: Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
+- susijęs iš Livonija: Narbutas svarstė, kodėl Henrikas Latvis, rašęs apie Livoniją, neminėjo krivio, jeigu šis valdė tą šalį.
 - susijęs iš Lubavos žemė: Dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas.
 - susijęs iš Lubavos žemė: Apie 1226 arba 1230 m. Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams.
 - susijęs iš Maskva: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
@@ -2786,6 +3028,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš Nemunas: 1398 m. Vytauto laiške Nemunas minėtas apibrėžiant ruožą iki vietos, kur į jį įteka Strėva.
 - susijęs iš Nemunas: Vytautas laiške Prūsijos ordinui žadėjo pagalbą statant dvi pilis išilgai Nemuno iki Strėvos žiočių.
 - susijęs iš Nemunas: Prūsijos magistras Meinhardas apie balandžio vidurį apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos.
+- susijęs iš Nemunas: Narbutas rašė, kad prie Sancinės, kur Nemunas išsišakoja į Giliją ir Rusnę, buvo vietinių Kroniszkas-Pilnis vadintas piliakalnis.
+- susijęs iš Nemunas: Narbutas pateikė iš Hartknocho paimtą lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, maldos pavyzdį.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Vilija galėjo būti vadinama Nerimi arba Neria dėl gilios vagos ir aukštų smėlingų pakrančių.
 - susijęs iš Neris: Prūsijos dokumentuose Neris XIII a. buvo vadinama Neria.
 - susijęs iš Neris: Neris arba Neria galėjo būti taip vadinama dėl gilios upės vagos ir aukštų smėlingų pakrančių.
@@ -2823,6 +3067,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš Riazanė: 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
 - susijęs iš Riazanė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.
 - susijęs iš Rizenburgas: Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.
+- susijęs iš Romovė: Narbutas nurodo, kad Dusburgietis Romovę aprašė kaip kadaise buvusį šventą miestą ir krivio buveinę.
+- susijęs iš Romučiai: Hartknochas Narbuto perteikime Romučių kaimo apylinkėse prie Tenenio upės lokalizavo garsų šventąjį mišką prie Žemaitijos sienos.
 - susijęs iš Rusia Rusios žemės: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
 - susijęs iš Rusia: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
 - susijęs iš Santyras: Santyras tapo Kristijono būstine, o apie 1212 m. čia, matyt, buvo įkurtas reguliarus vienuolynas.
@@ -2892,6 +3138,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš Šalčininkai: 1382 m. kryžiuočiai, niokodami kraštą, buvo pasiekę Šalčininkus ir Trakus.
 - susijęs iš Šiaurės Žemaitija: 1348 m. kovo mėn. Livonijos ordinas vėl puolė Šiaurės Žemaitiją ir sunaikino Kulių, Dubysos bei kitas pilis.
 - susijęs iš Štarkenbergas: Teutonų ordino didysis magistras Anonas įsakė pastatyti Štarkenbergo pilį Osos pakrantėje.
+- susijęs iš Šventasis miškas prie Tenenio upės: Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, bet nelaimingiesiems veikiausiai ne.
+- susijęs iš Šventasis miškas prie Tenenio upės: Hartknochas šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje, iš kurių viena įteka į Rusnės įlanką.
 - susijęs iš Švento Jurgio pilis (pilis, XIII a.): Burchardas iš Hornhauzeno, būdamas Livonijos žemės magistru, pasirūpino Švento Jurgio pilies statyba Karšuvoje.
 - susijęs iš Švento Jurgio pilis (pilis, XIII a.): 1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams.
 - susijęs iš Žemaitija: Veliuona, tikriausiai XIII a. pastatyta pilis, turėjo saugoti Žemaitijos sienas nuo kryžiuočių puldinėjimų.
@@ -2900,12 +3148,17 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš Žemaičių jūra: Šią jūrą kai kurie raštininkai vadino Rusų mare.
 - susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86453|Arkikomtūras]]: Arkikomtūras Redigeris Elneris kartu su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.
 - susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86454|Arkikomtūras]]: Vaidila 1380 m. Prūsijoje paruošė dirvą Jogailos slaptam sandėriui su arkikomtūru.
+- susijęs iš [[objektai/zodynas/Kaukai.md#claim-t-189151|Kaukai]]: Narbutas rašo, kad kaukų garbintojai nakčiai palikdavo jiems maisto ir iš jo suvalgymo pranašaudavo panašiai kaip su barstukais.
+- susijęs iš [[objektai/zodynas/Krieviai krivičiai gudai.md#claim-t-189226|Krieviai krivičiai gudai]]: Narbutas pateikia Faterio priekaištą, kad Dusburgiečio žinia apie krivį kilo iš rusinų, latviškai vadinamų krieviais, pavadinimo.
 - susijęs iš [[objektai/zodynas/Kristaus kariai.md#claim-t-58854|Kristaus kariai]]: Kristaus kariais vadinti Dobrynės broliai.
 - susijęs iš [[objektai/zodynas/Kristaus kariai.md#claim-t-58855|Kristaus kariai]]: Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde.
+- susijęs iš [[objektai/zodynas/Krivis Krewe Crive.md#claim-t-189109|Krivis Krewe Crive]]: Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veikimas dažnai ribojosi vietos vidaus reikalais.
+- susijęs iš [[objektai/zodynas/Krivis Krivių Krivaitis Crive.md#claim-t-189154|Krivis Krivių Krivaitis Crive]]: Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veikimas dažnai ribojosi vietos vidaus reikalais.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113644|Magdeburgo teisės]]: Švitrigaila, įžengęs į Lietuvos sostą, nepatvirtino dovanojimų, paremtų Magdeburgo teise.
 - susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-184631|Ordino brolis]]: Mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, vadinamų broliais.
 - susijęs iš [[objektai/zodynas/Ordino maršalas didysis maršalas.md#claim-t-86490|Ordino maršalas didysis maršalas]]: Ordino maršalas Engelhardas Rabė vadovavo žygiui, nes didysis magistras Konradas Ciolneris sirgo sunkia liga.
 - susijęs iš [[objektai/zodynas/Ordino maršalas didysis maršalas.md#claim-t-86491|Ordino maršalas didysis maršalas]]: Konradas Valenrodas 1382 metais buvo paskirtas Ordino didžiuoju maršalu, o 1391 m. kovo 12 d. išrinktas didžiuoju magistru.
+- susijęs iš [[objektai/zodynas/Pergrubė Grubytė Grubios.md#claim-t-189132|Pergrubė Grubytė Grubios]]: Narbutas nurodė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.
 - susijęs iš [[objektai/zodynas/Vilija Vigilia Neris Nerige.md#claim-t-86447|Vilija Vigilia Neris Nerige]]: Vilija seniau vadinta Neris arba Neria, nes, autoriaus manymu, upė išrausė gilią vagą ir suformavo aukštas smėlingas pakrantes.
 - susijęs iš [[objektai/zodynas/Watmal Vatmalis.md#claim-t-58930|Watmal Vatmalis]]: Hartmanas iš Grumbacho buvo pramintas Vatmaliu dėl vilnonių drabužių, vadintų Watmal, kuriuos įsakė išduoti broliams.
 - susijęs iš [[objektai/zodynas/abdikacija.md#claim-t-23430|abdikacija]]: Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisakymo) aktas.
@@ -2955,13 +3208,14 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/zodynas/vasalas.md#claim-t-111382|vasalas]]: Vokiečių Prūsija tapo Lenkijos karūnos vasale.
 - susijęs iš [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta.md#claim-t-184020|viešpaties dievo kariuomenė dievo tauta]]: Petras Dusburgietis Ordino veiksmus teisino krikščionybės platinimu ir vadino Ordino brolius „dievo tauta“.
 - susijęs iš [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta.md#claim-t-58940|viešpaties dievo kariuomenė dievo tauta]]: Kronikoje Ordino broliai vadinami „viešpaties dievo kariuomene“ ir „dievo tauta“.
+- susijęs iš [[objektai/zodynas/Šventasis miškas miškelis.md#claim-t-189212|Šventasis miškas miškelis]]: Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, o nelaimingiesiems tikriausiai ne.
+- susijęs iš [[objektai/zodynas/Šventasis miškelis šventasis miškas.md#claim-t-189216|Šventasis miškelis šventasis miškas]]: Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, o nelaimingiesiems tikriausiai ne.
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58819|šeimyna familia domus]]: Prūsai nužudė brolį Konradą iš Dortmundo su visa jo šeimyna.
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58820|šeimyna familia domus]]: Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.
 - susijęs iš [[objektai/zodynas/šventas sumanymas.md#claim-t-58942|šventas sumanymas]]: „Šventas sumanymas“ kronikos įvade siejamas su stojimu į Ordiną ir jo veiksmų pateisinimu krikščionybės platinimu.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184668|Algirdas (Lietuvos valdovas)]]: Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.
 - susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
 - susijęs iš [[objektai/grupes/Lenkijos karalystės kariuomenė.md#claim-t-23483|Lenkijos karalystės kariuomenė]]: Kai kurie Lenkijos karalystės kariuomenės daliniai prasiveržė atgal į Karalystės teritoriją, o kitų likučiai perėjo sieną su Prūsija.
-- susijęs iš [[objektai/grupes/Lenkijos-Lietuvos valstybė.md#claim-t-188043|Lenkijos-Lietuvos valstybė]]: Įvadiniame straipsnyje Lenkijos-Lietuvos valstybė apibūdinama kaip po trečiojo padalijimo 1795 m. netekusi nepriklausomybės ir atsidūrusi Rusijos, Prūsijos bei Austrijos imperijų valdžioje.
 - susijęs iš [[objektai/ivykiai/Karo su Prūsija pradžia ir dvejų metų paliaubos per popiežiaus legatą.md#claim-t-185711|Karo su Prūsija pradžia ir dvejų metų paliaubos per popiežiaus legatą]]: Karo su Prūsija pradžioje lenkų ir lietuvių kariuomenės peržengė sienas ir įsiveržė į Prūsiją.
 - susijęs iš [[objektai/asmenys/Adalbertas.md#claim-t-18754|Adalbertas]]: Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60136|Henrikas iš Veidos]]: Nuo 1247 m. Henrikas iš Veidos buvo trečiasis Prūsijos žemės magistras ir vadovavo aštuonerius metus.
@@ -2980,6 +3234,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-60025|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178864|Kryžiuočių ordinas]]: XIV a. trečiajame dešimtmetyje Vakarų Europoje pasigirdo kritiškų balsų Kryžiuočių ordino atžvilgiu.
 - susijęs iš Naugardas: Vytauto remiama Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais.
+- susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190025|Petras Dusburgietis]]: Narbutas rašo, kad Petras Dusburgietis 1326 metais įteikė savo kroniką didžiajam magistrui, aprašęs prūsų papročius netrukus po Prūsijos užkariavimo.
 - susijęs iš [[objektai/grupes/Anglai.md#claim-t-172073|Anglai]]: Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis.
 - susijęs iš [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.).md#claim-t-185560|Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]: Gandas apie su didele kariuomene ateinantį Prūsijos magistrą sužlugdė lietuvių viltis paimti Christmemelio pilį.
 - susijęs iš [[objektai/posakiai/dieviškojo žodžio sėkla krito į negerą dirvą.md#claim-t-59090|dieviškojo žodžio sėkla krito į negerą dirvą]]: Vyskupas Kristijonas dažnai ragino prūsus atsisakyti stabų, tačiau dieviškojo žodžio sėkla tarp jų krito į negerą dirvą.
@@ -2991,16 +3246,20 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89573|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89574|Prūsijos žemė]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179248|Lietuviai]]: Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užgriuvo Prūsiją.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188463|Petras Dusburgietis]]: Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną prūsų moterį pranašautoją.
 - susijęs iš [[objektai/ivykiai/Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją.md#claim-t-185665|Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją]]: Po kelių nesėkmingų bandymų užimti Vilniaus pilis Vytautas nutraukė apsiaustį ir išvedė kariuomenę atgal į Prūsiją.
 - susijęs iš Lubava: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Vysla: Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/daiktai/Prūsijos hercogo Albrechto herbas.md#claim-t-59703|Prūsijos hercogo Albrechto herbas]]: Karaliaučiaus kronikos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį nuorašo šeimininką.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184886|Vytenis]]: Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184886|Vytenis (valdovas, XIII–XIV a.)]]: Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179109|Kryžiuočių ordinas]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
+- susijęs iš [[objektai/paprociai/Pergrubei skirtos pavasario aukos.md#claim-t-189853|Pergrubei skirtos pavasario aukos]]: Narbutas rašė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.
+- susijęs iš Simono Grunau kronika: Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui.
+- susijęs iš Simono Grunau kronika: Simonas Grunau XVI a. 3-iajame dešimtmetyje parašė Prūsijos istoriją, kurioje plačiai rėmėsi Petru iš Dusburgo.
 - susijęs iš Kulmas: Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Romuniškiai: Narbutas, remdamasis Hartknochu, Romuniškius mini Žemaitijoje, už sienos nuo Prūsijos Romučių kaimo prie Tenenio upės.
+- susijęs iš Romučiai: Hartknochas Narbuto perteikime Romučių kaimo apylinkėse prie Tenenio upės lokalizavo garsų šventąjį mišką prie Žemaitijos sienos.
 - susijęs iš Užnemunė: Užnemunė Prūsų valdžioje ir Lenkų karalystėje Užnemunė Prūsų karalystėje.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181462|Petras Dusburgietis]]: Petras iš Dusburgo aiškina, kad kronikoje aprašys Ordino įkūrimą, atsikėlimą į Prūsiją, karus ir įvykius, kuriuos pats matė, apie kuriuos pasakojo dalyviai arba kuriuos sužinojo iš patikimų šaltinių.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181475|Petras Dusburgietis]]: Petras iš Dusburgo nurodė, kad kronikoje aprašys Teutonų ordino įkūrimą, brolių atvykimą į Prūsiją ir karus Prūsijoje.
 - susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185496|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: 1307 m. į Prūsiją atvyko grafo Jono fon Španheimo vedama kariuomenė su kilmingais vokiečių riteriais.
 - susijęs iš [[objektai/daiktai/Pilys.md#claim-t-59675|Pilys]]: Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-59908|Ditrichas iš Bernheimo]]: Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.
@@ -3018,7 +3277,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/asmenys/Vilhelmas iš Modenos.md#claim-t-60076|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]: M. Poliakuvna atkreipė dėmesį į dokumentus, susijusius su popiežiaus pasiuntinio Vilhelmo iš Modenos veikla Prūsijoje.
 - susijęs iš [[objektai/paprociai/Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje.md#claim-t-54273|Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje]]: Lietuvius Vokiečių ordino valstybėje ilgainiui pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1629 m. Altmarko paliaubomis švedams šešeriems metams buvo palikti kai kurie Prūsijos uostai, tarp jų Klaipėda.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -4641,6 +4899,177 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindžia:
     - t-090
+- c-074
+  santrauka: 'Narbutas ginčija išvadą apie dievo kilmę, nes, jo teigimu, žemės drebėjimų būta Prūsijoje ir jie buvo žinomi tolimesnei Lietuvai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šio dievo garbei buvo švenčiama šventė apie gruodžio 25
+    1 Stender. Lettische Grammatik*. Tačiau tai klaidinga išvada, ka­
+    dangi žemės drebėjimų būta Prūsijoje, taigi jie buvo žinomi ir toli­
+    mesnei Lietuvai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-091
+- c-075
+  santrauka: 'Narbutas rašo, kad Prūsijos kronikininkai šiuo vardu siejo dievintą senovės kunigaikštį Vaidevutį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tas
+    senovės mitas, primenantis labai reikšmingą Titanų šeimynos
+    asmenį, negalėjo būti nežinomas lietuvių mitologijai.
+    Tačiau Prūsijos kronikininkai linkę manyti, kad šiuo vardu
+    buvo garbinamas senovės kunigaikštis Vaidevutis, neva laiky­
+    tas dievu. Pagal lietuvių mitologijos dvasią galėjo būti taip,
+    kad aukštesniojo dievo mitas vėliau virto legenda apie kuni-
+    92
+
+    ## Puslapis 92
+
+    gaikštį, pirmąjį vyriausiąjį žynį ir tautos įstatymų leidėją, kuris
+    buvo laikomas tautos tėvu, kaip Viršaitis buvo dievų tėvas3.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-092
+- c-076
+  santrauka: 'Narbutas rašo, kad Prūsijos kronikininkai burtininkams priskyrė ateities pranašavimą liejant ištirpintą vašką į šaltą vandenį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Prūsijos kronikininkai, kurie prisimena, kad jų gyvenimo
+    metais dar būta burtininkų pėdsakų, priskiria jiems ateities
+    išpranašavimą liejant ištirpintą vašką į šaltą vandenį. Šitaip
+    atsirandančios vaškinės figūros ir įvairūs pavidalai teikia pro­
+    gos juokdariams pripūsti lengvatikių galvas visokių niekų. Me-
+    letijus pažino Prūsijoje moterį, kuriai burtininkas šitaip išpra­
+    našavo, kad jos sūnus nuskęsiąs jūroje -  parodė vaškinį sudu­
+    žusį laivą ir aukštielninką plaukiantį žmogų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-093
+- c-077
+  santrauka: 'Narbutas rašo, kad Prūsijos kronikininkai senovės prūsų herbo kilmę siejo su Vaidevučio laikais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    10)**.
+    400
+
+    ## Puslapis 400
+
+    Prūsijos kronikininkai aprašo tautinį senovės prūsų her­
+    bą, kurio kilmė siekia Vaidevučio laikus6. Skyde pavaizduota
+    pusė prūsišku susegtu švarku apsirengusio žmogaus su lokio
+    galva, pasukta kairėn.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-094
+- c-078
+  santrauka: 'Narbutas Dusburgiečio pasakojimą apie senovės Prūsiją laiko patikimu krivio istorinės egzistencijos argumentu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Juk kuo gi remiasi to reiškinio tiesa, kokie gi stimulai skati-
+    413
+
+    ## Puslapis 413
+
+    na teigti, kad krivis istoriškai realiai egzistavo? Visų pirma kry­
+    žiuočių kronikininko pasakojimas tame pačiame skyrelyje, kur
+    jis aprašo senovės Prūsiją, atitinka tiesą ir negali kelti jokios
+    abejonės. Vos šimtas metų buvo praėję nuo kryžiuočių atsi­
+    kraustymo ir vos truputį daugiau nei keturiasdešimt metų nuo
+    visiško Prūsijos užkariavimo, kai Dusburgietis rašė tą prūsų
+    tautos papročių ir įpročių apybraižą ir kai 1326 metais įteikė
+    savo kroniką didžiajam magistrui.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-095
+- c-079
+  santrauka: 'Narbutas ginkluoto atvertimo eigą sieja su tikėjimo smukimu ir vardija ją nuo Livonijos iki Prūsijos, Lietuvos ir Žemaitijos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
+    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
+    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
+    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
+    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
+    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
+    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
+    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
+    nių apeigų papročių, vienodų su jų lietuvių apeigomis. Smun­
+    kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai -  pir­
+    miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
+    liau Žemaitijoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-096
+- c-080
+  santrauka: 'Narbutas pateikia Hartknocho duomenis apie lietuvių kalbą, vartotą Prūsijoje, Nemuno žemupyje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Musa dieniszku mausu dod mums szoden, unpedod muns
+    musu paradus, ka mes pedodam musum paradukam; un ne wed
+    mus kierdi na szane, bet pestino ta launa.
+    Lietuvių kalba, vartojama Prūsijoje, Nemuno žemupyje; imta
+    iš Hartknocho (ten pat):
+    15. 93
+    449
+
+    ## Puslapis 449
+
+    Tewe musu, kuris essi dangui; te essie Swanczamas wardas
+    tawo; te atejg tawo karaliste; te nusi dode tawo walle kaip dau­
+    giu tejp ir ant žemes.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-097
+- c-081
+  santrauka: 'Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    42 pav. Senovės prūsų herbas
+    470
+
+    ## Puslapis 465
+
+    VII lentelė
+    Vaizduoja šventą Romovės miestą, buvusį Prūsijoje, Prūsos ir
+    Bysleidos upių santakoje. Aptvare, kurį supa namai, pastatyti šven­
+    tovės tarnams ir pačiam vyriausiajam žyniui, auga žiemą vasarą ža­
+    liuojantis ąžuolas, prie kurio nišose stovi dievų stabai, o prieš juos -
+    aukų deginimo aukuras su nuolat degančia ugnimi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-098
 
 ## Ryšiai
 - [[objektai/grupes/Vokietijos maldininkai]] keliavo_i Prūsija
@@ -4653,10 +5082,10 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas (didikas)]] keliavo_i Prūsija
 - [[objektai/asmenys/Henrikas iš Kunceno]] keliavo_i Prūsija
 - [[objektai/grupes/Kryžiuočių ordinas]] uzeme Prūsija
-- [[objektai/grupes/Kryžiuočių ordinas]] uzkariavo Prūsija
 - [[objektai/asmenys/Petras iš Rozenbergo]] keliavo_i Prūsija
 - [[objektai/asmenys/Popiežius Honorijus II]] surenge_zygi_i Prūsija
 - [[objektai/asmenys/Inocentas IV]] siunte_i Prūsija
+- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Prūsija
 - [[objektai/asmenys/Odoničius]] keliavo_i Prūsija
 - [[objektai/asmenys/Otonas (Brandenburgo markgrafas)]] surenge_zygi_i Prūsija
 - [[objektai/asmenys/Pilypas]] keliavo_i Prūsija
@@ -4665,7 +5094,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - [[objektai/asmenys/Henrikas (Meiseno markgrafas)]] keliavo_i Prūsija
 - [[objektai/asmenys/Henrikas Lankasteris]] keliavo_i Prūsija
 - [[objektai/vietos/Užnemunė]] priklause Prūsija
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Prūsija
+- [[objektai/asmenys/Krivis]] gyveno Prūsija
+- [[objektai/grupes/Kryžiuočių ordinas]] uzkariavo Prūsija
 - [[objektai/grupes/Lietuviai]] puole Prūsija
 - [[objektai/asmenys/Abraomas Kulvietis]] keliavo_i Prūsija
 - [[objektai/asmenys/Jonas (Brandenburgo markgrafas)]] keliavo_i Prūsija
@@ -4678,8 +5108,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - [[objektai/asmenys/Otonas]] keliavo_i Prūsija
 - [[objektai/vietos/Plikoji Barta]] priklause Prūsija
 - [[objektai/grupes/Prancūzai]] keliavo_i Prūsija
+- [[objektai/vietos/Romovė]] priklause Prūsija
 - [[objektai/vietos/Vilnius]] prekiavo_su Prūsija
-- [[objektai/grupes/Vokiečiai]] keliavo_i Prūsija
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Prūsija
 - [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]] keliavo_i Prūsija
 - [[objektai/asmenys/Aleksandras Karijotaitis]] puole Prūsija
@@ -4689,7 +5119,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - [[objektai/asmenys/Henrikas iš Veidos]] keliavo_i Prūsija
 - [[objektai/asmenys/Jonas]] keliavo_i Prūsija
 - [[objektai/vietos/Vartenburgas]] priklause Prūsija
-- [[objektai/asmenys/Vytenis]] puole Prūsija
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] puole Prūsija
 - [[objektai/grupes/Žemaičiai]] surenge_zygi_i Prūsija
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] surenge_zygi_i Prūsija
 - [[objektai/vietos/Rizenburgas]] priklause Prūsija
@@ -4697,21 +5127,21 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - [[objektai/vietos/Barta]] priklause Prūsija
 - [[objektai/asmenys/Henrikas iš Svarcburgo]] surenge_zygi_i Prūsija
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Prūsija
+- [[objektai/vietos/Klaipėda]] priklause Prūsija
 - [[objektai/vietos/Kulmas]] priklause Prūsija
 - [[objektai/vietos/Lubavas]] priklause Prūsija
+- [[objektai/vietos/Romučiai]] priklause Prūsija
 - [[objektai/vietos/Varmė]] priklause Prūsija
-- [[objektai/grupes/Vokiečių ordinas]] keliavo_i Prūsija
 - [[objektai/grupes/Žemaičiai]] puole Prūsija
-- [[objektai/asmenys/Kristijonas]] gyveno Prūsija
+- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas, XIII a.)]] gyveno Prūsija
+- [[objektai/grupes/Teutonai]] keliavo_i Prūsija
 - [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] surenge_zygi_i Prūsija
 - [[objektai/grupes/Lenkai]] puole Prūsija
 - [[objektai/grupes/Lenkijos karalystės kariuomenė]] keliavo_i Prūsija
-- [[objektai/grupes/Lenkijos-Lietuvos valstybė]] priklause Prūsija
 - [[objektai/asmenys/Samboras]] keliavo_i Prūsija
 - [[objektai/asmenys/Adalbertas]] keliavo_i Prūsija
 - [[objektai/vietos/Galinda]] priklause Prūsija
 - [[objektai/asmenys/Henrikas iš Veidos]] valde Prūsija
-- [[objektai/vietos/Klaipėda]] priklause Prūsija
 - [[objektai/grupes/Lietuviai]] surenge_zygi_i Prūsija
 - [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D) valde Prūsija
 - [[objektai/vietos/Pamedė]] priklause Prūsija
@@ -4724,19 +5154,20 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - [[objektai/vietos/Nadruva]] priklause Prūsija
 - [[objektai/vietos/Naujoji Prūsija]] priklause Prūsija
 - Prūsija priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytenis]] surenge_zygi_i Prūsija
+- [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]] surenge_zygi_i Prūsija
 - [[objektai/vietos/Lubava]] priklause Prūsija
 - Prūsija priklause [[objektai/vietos/Lenkija]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Prūsija
 - [[objektai/daiktai/Prūsijos hercogo Albrechto herbas]] priklause Prūsija
 - [[objektai/grupes/Kryžiuočių ordinas]] pastate Prūsija
+- [[objektai/grupes/Prūsijos lietuviai]] gyveno Prūsija
+- [[objektai/asmenys/Simonas Grunau]] gyveno Prūsija
 - Prūsija priklause [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Teutonai]] keliavo_i Prūsija
+- [[objektai/grupes/Vokiečiai]] keliavo_i Prūsija
 - [[objektai/daiktai/Pilys]] priklause Prūsija
 - [[objektai/asmenys/Geroldzekas iš Švabijos]] surenge_zygi_i Prūsija
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] siunte_i Prūsija
 - [[objektai/grupes/Lenkai]] keliavo_i Prūsija
-- [[objektai/asmenys/Simonas Grunau]] gyveno Prūsija
 - [[objektai/grupes/Kryžiuočių ordinas]] gyne Prūsija
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] mire Prūsija
 - [[objektai/asmenys/Hartmanas iš Grumbacho]] valde Prūsija

@@ -3,21 +3,23 @@ tipas: asmuo
 pavadinimas: 'Šventaragis'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1268 m.'
-date_start: '1268'
-date_end: ''
+  - '1263 m.'
+  - '1282 m.'
+date_start: '1263'
+date_end: '1282'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 tags:
   - asmuo
   - kraštas
   - kunigaikštis
   - miestas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 ---
 # Šventaragis
 
@@ -26,7 +28,6 @@ periodo_grupes:
 Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms.
 
 ## Teiginiai
-
 <a id="claim-t-87898"></a>
 - t-001
   global_id: t-87898
@@ -49,15 +50,58 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   ryšio_subjekto_parinkimas: Šventaragis: llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
   ryšio_paaiskinimas: Teiginys aiškiai nurodo, kad Šventaragis viešpatavo Lietuvoje.
+
+<a id="claim-t-188653"></a>
+- t-002
+  global_id: t-188653
+  teiginys: 'Narbutas, remdamasis senu pasakojimu, rašo, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno upės orakulą klausti apie šventyklos ateitį.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 471608-472495; hash=87a7bfb625151387150d675f28a0606fdc296cb8f40e2aa7e5f44df2116cc9b0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Upės (Oppen) kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šventaragis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Upės (Oppen) kaimas: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventaragis" parinktas kaip owner_note_path. Targetas "Upės (Oppen) kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188654"></a>
+- t-003
+  global_id: t-188654
+  teiginys: 'Narbutas teigė, kad kunigaikštis Šventaragis 1282 m. priėmė lietuvių Vytį kaip valstybinį herbą.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 723663-724249; hash=e259227c82fc0a6c7c01850f4ae59b5727faed0b555381b420a860638e590724; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šventaragis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventaragis" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-187907|Gerimantas]]: Narbutas perteikia Mitrofano Pinskiečio metraščio pasakojimą, kad Gerimantas sumanė statyti šventyklą, o Šventaragis 1263 m. klausė orakulo dėl jos ateities.
+- susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-188535|Gerimantas]]: Narbutas perteikia Mitrofano Pinskiečio metraščio žinią, kad Gerimantui sumanius statyti šventyklą Šventaragis siuntė pasiuntinius pas Nemuno orakulą.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87427|Germantas]]: Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184703|Germantas]]: Šventaragis, siekdamas ramybės tėvynėje, tarybos posėdyje paskyrė beveik šešiasdešimtmetį sūnų Germantą savo įpėdiniu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176370|Gediminas]]: Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui, siedami jį su medžiokle Šventaragio slėnyje ir geležinio vilko sapnu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176400|Gediminas]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas medžioklės metu Šventaragio slėnyje sapnavo geležinį vilką.
-- susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-187907|Gerimantas]]: Narbutas perteikia metraščio pasakojimą, kad kunigaikštis Gerimantas sumanė statyti šventyklą, o jo tėvas Šventaragis 1263 m. siuntė pasiuntinius klausti orakulo dėl jos ateities.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176370|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui, siedami jį su medžiokle Šventaragio slėnyje ir geležinio vilko sapnu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176400|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas medžioklės metu Šventaragio slėnyje sapnavo geležinį vilką.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188531|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.
+- susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-187907|Gerimantas]]: Narbutas perteikia Mitrofano Pinskiečio metraščio pasakojimą, kad Gerimantas sumanė statyti šventyklą, o Šventaragis 1263 m. klausė orakulo dėl jos ateities.
+- susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-188535|Gerimantas]]: Narbutas perteikia Mitrofano Pinskiečio metraščio žinią, kad Gerimantui sumanius statyti šventyklą Šventaragis siuntė pasiuntinius pas Nemuno orakulą.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87426|Germantas]]: Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87427|Germantas]]: Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.
+- susijęs iš [[objektai/asmenys/Lizdeika.md#claim-t-188581|Lizdeika]]: Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-184826|Skirgaila]]: Skirgaila Šventaragio slėnyje surengė Kęstučiui karališkas šermenis ir laidotuves.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172928|M. Strijkovskis Stryjkowski]]: Stryjkowskis savo kronikoje aiškino Šventaragio vardo kilmę.
+- susijęs iš [[objektai/autoriai/Mitrofanas Pinskietis.md#claim-t-190442|Mitrofanas Pinskietis]]: Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. Šventaragis siuntė pasiuntinius pas Nemuno orakulą.
 - susijęs iš [[objektai/autoriai/Stryjkowski Strijkovskis.md#claim-t-88006|Stryjkowski Strijkovskis]]: Stryjkowski savo kronikoje aiškino Šventaragio vardo kilmę.
 - susijęs iš [[objektai/paprociai/Amžinosios Gabijos ugnies ir Perkūno kulto apeigos Šventaragio slėnyje.md#claim-t-87200|Amžinosios Gabijos ugnies ir Perkūno kulto apeigos Šventaragio slėnyje]]: Šventaragio slėnyje tarp Vilijos ir Vilnelės degė amžinoji ugnis Gabija, kurią lietuviai labai garbino.
 - susijęs iš [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje.md#claim-t-54485|Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]: Šventaragio slėnyje iki krikščioniškojo tikėjimo įvedimo degė Gabija vadinta amžinoji ugnis Perkūno garbei.
@@ -68,6 +112,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - susijęs iš [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas.md#claim-t-97292|Gedimino « Geležinio vilko » sapnas]]: Vilniaus įkūrimo legendoje Gediminas po medžioklės Šventaragio slėnyje susapnavo geležinį vilką, o sapną išaiškino Lizdeika.
 - susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronikos VIII knygoje aiškinta Šventaragio vardo kilmė.
 - susijęs iš M. Strijkovskio kronika: Strijkovskio kronikoje Vilniaus įkūrimas priskiriamas Gediminui ir siejamas su medžiokle Šventaragio slėnyje.
+- susijęs iš Mitrofano Pinskiečio rusiškas metraštis: Narbutas Mitrofano Pinskiečio rusiškam metraščiui priskiria pasakojimą, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno orakulą dėl Gerimanto statomos šventyklos ateities.
+- susijęs iš Tauro kalnas: Narbutas pasakoja, kad Gediminas nukovė taurą ant kalno, vėliau vadinto Tauro kalnu, o Lizdeika po nakvynės Šventaragio miške išaiškino jo sapną.
 - susijęs iš Trakai: Pasakojime Gediminas po Trakų pilies įkūrimo medžiojo apylinkėse ir pasiekė Šventaragio slėnį už keturių mylių nuo Trakų.
 - susijęs iš Vilnelė: Gedimino legendoje medžioklė vyko kalne prie Neries ir Vilnelės santakos, o sapną Šventaragio slėnyje išaiškino Lizdeika.
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Tarp Vilijos ir Vilnelės plytėjo Šventaragio slėnio lanka, nuo seno apaugusi ąžuolais.
@@ -90,9 +136,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - susijęs iš Šventaragio slėnys: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
 - susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86449|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Šventaragio slėnyje iki krikščionybės įvedimo degė Perkūno garbei skirta amžinoji ugnis, vadinta Gabija.
 - susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86451|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Šventaragio vardas aiškintas lietuviškais žodžiais „šventas ragas“, siejant juos su aukuru ir kyšuliu tarp Vilijos bei Vilnios.
-- susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-187907|Gerimantas]]: Narbutas perteikia metraščio pasakojimą, kad kunigaikštis Gerimantas sumanė statyti šventyklą, o jo tėvas Šventaragis 1263 m. siuntė pasiuntinius klausti orakulo dėl jos ateities.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176329|Gediminas]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po sapno pastatydino Aukštutinę mūro pilį ir medinę pilį, pavadintą Vilniumi.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176391|Gediminas]]: Gediminas, pasak Balińskio, plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus ir ant kalno statydino mūro tvirtovę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176391|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, pasak Balińskio, plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus ir ant kalno statydino mūro tvirtovę.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184703|Germantas]]: Šventaragis, siekdamas ramybės tėvynėje, tarybos posėdyje paskyrė beveik šešiasdešimtmetį sūnų Germantą savo įpėdiniu.
 - susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-87374|Manvydas]]: Manvydas buvo vienas garsiausių Lietuvos didikų, kurio didžiuliai rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-184844|Traidenis (valdovas, XIII a.)]]: Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas.
@@ -103,11 +147,13 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - susijęs iš [[objektai/daiktai/Geležinis vilkas kaip simbolinis regėjimo objektas.md#claim-t-87078|Geležinis vilkas kaip simbolinis regėjimo objektas]]: Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas priminė šimto vilkų staugimą.
 - susijęs iš [[objektai/daiktai/Kilpinė ir strėlė.md#claim-t-87111|Kilpinė ir strėlė]]: Pasak Strijkovskio, Gediminas medžiodamas strėle iš kilpinės pašovė taurą ant kalno, vėliau vadinto Tauro kalnu.
 - susijęs iš [[objektai/daiktai/Medinės pilys.md#claim-t-19569|Medinės pilys]]: XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai.
+- susijęs iš [[objektai/daiktai/Sibilės plytos su hieroglifais.md#claim-t-189648|Sibilės plytos su hieroglifais]]: Narbutas perpasakojo legendą, kad Nemuno orakulas liepė pagaminti 122 plytas su hieroglifais, iš kurių turėjo būti pranašaujami metai.
 - susijęs iš [[objektai/daiktai/Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis.md#claim-t-87099|Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis]]: Balińskis Vilniaus vardą kildino iš Vilnios ir laikė tai ženklu, kad pirmykštė Vilniaus gyvenvietė buvo prie šios upės.
 - susijęs iš [[objektai/ivykiai/Kęstučio pasmaugimas Krėvos kalėjime ir represijos jo aplinkai.md#claim-t-185731|Kęstučio pasmaugimas Krėvos kalėjime ir represijos jo aplinkai]]: Po Kęstučio suėmimo Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime.
 - susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185647|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Traidenis su trečdaliu savo kariuomenės nusiaubė Mazoviją, o su likusiais dviem trečdaliais puolė Kulmo žemę.
 - susijęs iš [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas.md#claim-t-77949|Birutės legendos tęstinumas ir Birutės kalno gerbimas]]: Birutės legenda nenutrūko įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta.
 - susijęs iš [[objektai/paprociai/Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika.md#claim-t-87299|Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika]]: Balińskio aiškinimu, Germantas Šventaragio slėnyje vertė miškus lydimais ir plėtė senovinę Vilniaus gyvenvietę Vilnios pakrantėse.
+- susijęs iš [[objektai/paprociai/Metų pranašavimas iš orakulo nurodytų plytų.md#claim-t-189847|Metų pranašavimas iš orakulo nurodytų plytų]]: Narbutas pasakoja, kad apvaliame šventyklos bokšte orakulo nurodytos plytos su ženklais turėjo rodyti gerus ar prastus metus.
 - susijęs iš [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose.md#claim-t-55157|Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]: Pasak Strijkovskio, Vytautas dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose gerdavo iš auksu aptaisytų tauro ragų.
 - susijęs iš [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose.md#claim-t-55158|Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]: Pasak Strijkovskio, 1429 m. Lucko suvažiavime Vytautas vieną auksu aptaisytą tauro ragą įteikė Zigmantui kaip didžią dovaną.
 - susijęs iš [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose.md#claim-t-81868|Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]: Pasak Strijkovskio, Vytautas dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose gerdavo iš Gedimino sumedžioto tauro ragų.
@@ -162,6 +208,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - susijęs iš Vilnius: Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui.
 - susijęs iš Vilnius: Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui.
 - susijęs iš Vilnius: Vilniaus sostinės įkūrimo legenda siejama su Gedimino medžiokle ir Lizdeikos išaiškintu sapnu.
+- susijęs iš Vilnius: Narbutas Gedimino sapno pasakojime rašė, kad Gediminas nakvojo Šventaragiu vadintame miške prie Vilnios ir Neries santakos.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.
 - susijęs iš [[objektai/zodynas/amžinoji ugnis Gabija.md#claim-t-86510|amžinoji ugnis Gabija]]: Šventaragio slėnyje degė lietuvių garbinama amžinoji ugnis Gabija.
 - susijęs iš [[objektai/zodynas/budeliai.md#claim-t-185380|budeliai]]: Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime.
@@ -169,7 +216,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - susijęs iš [[objektai/zodynas/vaidilos, žyniai ir pranašai.md#claim-t-86494|vaidilos, žyniai ir pranašai]]: Šventaragio slėnyje prie medinės šventyklos stovėjo pagonių vaidilų būstai.
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86443|žiogriai statinių tvoros palisadai]]: Vilniaus miesto centro aikštė buvo apstatyta prekijų krautuvėlėmis ir nuo kryžiuočių antpuolių apjuosta statinių tvoromis.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -202,9 +248,59 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Narbutas, remdamasis senu pasakojimu, rašo, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno upės orakulą klausti apie šventyklos ateitį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tas rūmas turėjo apvalų bokš­
+    tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­
+    mą aukos deginimas ant aukuro pakopos reiškė pirmąją mė­
+    nesio dieną, o plytelė su tam tikru ženklu, įmūrijama bokšto
+    sienoje metų pradžioje, rodydavo metus. Senas pasakojimas,
+    kuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša
+    žinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią
+    šventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263
+    metais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­
+    kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
+    eitis. Orakulas žadėjo, kad ji gyvuosianti tol, kol gyva bus
+    pati stabmeldystė, ir įsakė pagaminti 122 apvalainas plytas
+    su orakulo nurodytais ženklais -  hieroglifais; iš jų turėjo būti
+    išpranašaujami geri ar prasti metai; paskutinė plyta buvo su
+    dvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­
+    gaikščiui.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Narbutas teigė, kad kunigaikštis Šventaragis 1282 m. priėmė lietuvių Vytį kaip valstybinį herbą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Bet mažų
+    mažiausiai nelaikysime šito keistu dalyku, jeigu apmąstysime
+    tai, ką išdėstėme dėl stabmeldiškų kryžių straipsnyje „Kapai“;
+    net nesikreipsime dėl herbynų j kryžiuočius, nes jų tikrai dar
+    nerastume Prūsijoje tuo metu, kai giminė, kuri naudojosi Prūso
+    herbu, persikėlė į Lenkiją, tai yra pačioje XII amžiaus pra­
+    džioje. Jeigu net Prūso herbo nelaikytume mitologiniu žen­
+    klu, tai jį randame raitelio skyde lietuvių Vyčio herbe, kurį
+    kunigaikštis Šventaragis 1282 metais priėmė kaip valstybinį
+    herbą1'. Tad nėra abejonės, kad lietuviai pažinojo ženklus, pa­
+    našius į kryžius1 12.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 - Šventaragis paskyre [[objektai/asmenys/Germantas]]
+- [[objektai/asmenys/Gerimantas]] buvo_sunus Šventaragis
 - [[objektai/asmenys/Germantas]] buvo_sunus Šventaragis
 - Šventaragis valde [[objektai/vietos/Lietuva]]
 - Šventaragis buvo_sunus [[objektai/asmenys/Germantas]]

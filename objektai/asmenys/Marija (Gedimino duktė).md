@@ -101,4 +101,4 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
     - t-002
 
 ## Ryšiai
-- Marija (Gedimino duktė) buvo_dukte [[objektai/asmenys/Gediminas]]
+- Marija (Gedimino duktė) buvo_dukte [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

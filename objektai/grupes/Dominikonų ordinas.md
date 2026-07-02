@@ -729,5 +729,5 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] reme Dominikonų ordinas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] reme Dominikonų ordinas
 - [[objektai/asmenys/Aleksandras]] reme Dominikonų ordinas

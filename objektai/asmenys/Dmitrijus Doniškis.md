@@ -10,15 +10,15 @@ date_start: '1380'
 date_end: '1381'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 tags:
   - asmuo
   - karas
   - mūšis
   - sutartis
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 ---
 # Dmitrijus Doniškis
 
@@ -27,7 +27,6 @@ periodo_grupes:
 Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rūpesčiais dalinęsis, kovojęs su juo dar kartu prieš totorius, kur Kulikovo lauke (1380 metų rugsėjo 8-ą) prie perga­ lės daugiausia prisidėjęs, dalyvavo mūšiuose, - Skirgaila užsibuvo.
 
 ## Teiginiai
-
 <a id="claim-t-87652"></a>
 - t-001
   global_id: t-87652
@@ -52,7 +51,6 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
   ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Dmitrijus Doniškis kartu kovojo prieš totorius.
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

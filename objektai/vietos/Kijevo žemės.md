@@ -72,4 +72,4 @@ Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, 
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] uzeme Kijevo žemės
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] uzeme Kijevo žemės

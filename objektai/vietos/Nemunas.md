@@ -9,6 +9,7 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -23,11 +24,11 @@ date_start: '1236'
 date_end: '2013'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Nemunas
 
@@ -49,7 +50,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 Šaltinyje Nemunas pasirodo kaip vakarinės karo ribos ir prekybos kelio pagrindas. Su juo siejami Ordino puolimai, pilių statyba, Salyno susitarimai ir kovos dėl Žemaitijos sienos.
 
 ## Teiginiai
-
 <a id="claim-t-180340"></a>
 - t-001
   global_id: t-180340
@@ -64,7 +64,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180341
   teiginys: 'Į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai ir lamatiečiai, o toliau į šiaurę, Klaipėdos apylinkėse, prasidėjo kuršių teritorija.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai ir tiksliai perteikia citatoje aprašytą teritorijų išsidėstymą prie Nemuno žiočių.'
-  susije_objektai: 'llm_object: Minija; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Kuršių marios; mentioned_place: Minija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Minija; mentioned_place: Šventoji; llm_object: Minija'
   pagrindžia:
     - c-032
 
@@ -189,7 +189,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180351
   teiginys: 'Brolis Ditrichas, sembų fogtas, su kariuomene įžengė į skalvių žemę abipus Nemuno ir užpuolė pilį, stovėjusią dabartinės Ragainės vietoje.'
   sudarymo_pagrindimas: 'Pašalinta antraštė ir nutrūkusi sakinio pabaiga.'
-  susije_objektai: 'mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]'
+  susije_objektai: 'mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/Antikos žmonės|Antikos žmonės]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-028
   irodymo_stiprumas: 0.00
@@ -319,7 +319,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180359
   teiginys: 'Dusburgiečio pasakojime iš Lietuvos traukianti brolių kariuomenė vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Dusburgiečio pasakojimo epizodą apie Nemuno ledą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Jurbarkas; mentioned_place: Lietuva; mentioned_place: Veliuona'
   pagrindžia:
     - c-043
   irodymo_stiprumas: 0.00
@@ -338,7 +338,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180360
   teiginys: 'Tyrimų duomenimis, Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į jo valstybę patekusį plotą nuo Vyslos iki Nemuno.'
   sudarymo_pagrindimas: 'Teiginys pataisytas į aiškų teiginį apie Dusburgiečio vartoseną.'
-  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Varmė; mentioned_place: Vysla; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'llm_object: Kulmas; llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Prūsija; mentioned_place: Varmė; mentioned_place: Vysla'
   pagrindžia:
     - c-025
   irodymo_stiprumas: 0.00
@@ -365,7 +365,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180362
   teiginys: 'Kronikos įvade Kryžiuočių ordino ekspansijos plotas apibūdinamas kaip siekęs nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio.'
   sudarymo_pagrindimas: 'Citata remia redakcinę interpretaciją, todėl reikalinga atribucija.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Viena; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Viena; mentioned_place: Vysla; llm_object: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1282 m.; įvykio data: 1282 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia redakcinę interpretaciją, todėl reikalinga atribucija.'
@@ -387,7 +387,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180363
   teiginys: 'Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų posakį „dar arčiau“, todėl perrašytas konkrečiau.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Marijenburgas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Prūsų žemė; mentioned_place: Varmė; mentioned_place: Vysla; llm_object: Bajerburgas; llm_object: Marijenburgas'
+  susije_objektai: 'llm_object: Bajerburgas; llm_object: Marijenburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Marijenburgas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Varmė; mentioned_place: Vysla; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: 'Nemunas priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-017
 
@@ -395,7 +396,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - t-024
   global_id: t-180365
   teiginys: 'Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Viena; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Viena; mentioned_place: Vysla; llm_object: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1282 m.; įvykio data: 1282 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -415,7 +416,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - t-025
   global_id: t-180367
   teiginys: 'Susitikimas vyko Salyne, Nemuno saloje prie dabartinės Kulautuvos.'
-  susije_objektai: 'mentioned_place: Kulautuva; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kulautuva; mentioned_place: Jurbarkas; mentioned_place: Veliuona'
   pagrindžia:
     - c-023
   irodymo_stiprumas: 0.00
@@ -578,7 +579,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180381
   teiginys: 'Nemunas prasideda Rusios valdose, prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus geografinis sakinys apie Nemuno pradžią, žiotis ir ribinę funkciją.'
-  susije_objektai: 'mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Pomeranija; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Betygala; mentioned_place: Trakai'
   temporaliniai_duomenys: 'įvykio data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus geografinis sakinys apie Nemuno pradžią, žiotis ir ribinę funkciją.'
@@ -622,7 +623,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180383
   teiginys: 'Per šešerius metus lietuviai, gyvenę Nemuno pakrantėje nuo Neries upės iki Lamatos žemės, buvo priversti laikytis taikos su krikščionimis.'
   sudarymo_pagrindimas: 'Pašalinti neaiškūs įvardžiai ir pašalinis OCR fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Lamata; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Lamata; mentioned_place: Upės (Oppen) kaimas; mentioned_object: [[objektai/daiktai/Laužas|Laužas]]; mentioned_place: Kaunas; mentioned_place: Viena'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
@@ -698,7 +699,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180389
   teiginys: 'Vytauto ir magistro susitikimas įvyko Salyne, Nemuno saloje netoli dabartinės Kulautuvos.'
   sudarymo_pagrindimas: 'Pirminiame teiginyje neaišku, koks susitikimas minimas.'
-  susije_objektai: 'mentioned_place: Kulautuva; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kulautuva; mentioned_place: Jurbarkas; mentioned_place: Veliuona'
   pagrindžia:
     - c-023
   irodymo_stiprumas: 0.00
@@ -799,7 +800,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180398
   teiginys: 'Kronikininkas, aprašęs kovas Skalvoje abipus Nemuno, pažymėjo, kad broliai daug kartų kariavo su skalviais.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje minimą kronikininko apibendrinimą apie kovas abipus Nemuno.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Nadruva; mentioned_place: Skalva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Nadruva; mentioned_place: Skalva'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
@@ -916,6 +917,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180409
   teiginys: 'Dusburgietis Nemuną vadino Memela, o Klaipėdos pilį – Memelburgk.'
   sudarymo_pagrindimas: 'Reikia pataisyti skyrybą ir išlaikyti aiškią autorinę vardų vartosenos atribuciją.'
+  susije_objektai: 'mentioned_place: Upės (Oppen) kaimas'
   temporaliniai_duomenys: 'įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pataisyti skyrybą ir išlaikyti aiškią autorinę vardų vartosenos atribuciją.'
@@ -966,15 +968,15 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindžia:
     - c-048
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=aa1237d3673801579c7cb55a18aab6d3b36e489fbe17cc31257ee37569bcaeb0; match=fallback; occurrences=0
+  saltinio_vieta: 170064-170702; hash=1db98ffe7b2fa32aa9e110d46fe4eec0e07166654606a4afcf378ab302593ad3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lietuviai: 0.96
+  ryšio_patikimumas: puole -> Lietuva: 0.82
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vokiečių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vokiečių ordinas pradėjo pulti lietuvius.
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Livonijos ordino šaka puldavo Lietuvą.
 
 <a id="claim-t-185068"></a>
 - t-064
@@ -988,15 +990,15 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindžia:
     - c-049
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a7bf6a5a9a6db31052fdffd77e547792865b6b131d815d01dd760cc540402894; match=fallback; occurrences=0
+  saltinio_vieta: 218913-219155; hash=97d801f3fcc0d520d290f572a4c34da1dea16e84128d1fc0febe21a3841c33f5; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzkariavo -> Prūsija: 0.86
+  ryšio_patikimumas: valde_teritorija -> Kulmas: 0.90
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje Prūsijos plotas apibūdinamas kaip Kryžiuočių ordino jau užkariautas.
+  ryšio_subjekto_parinkimas: Prūsai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Kulmo sritį valdė prūsai.
 
 <a id="claim-t-185069"></a>
 - t-065
@@ -1010,15 +1012,15 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindžia:
     - c-050
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7ad09e9828e5303c9ad4a8bc09c803566c681af92f841485fa05113b34da8d12; match=fallback; occurrences=0
+  saltinio_vieta: 226784-226989; hash=c38560062b2ba4c71487236f45fd1faa02381e3cacd7b3630be9a913f0742dec; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžius: 0.83
+  ryšio_patikimumas: susije_su -> Jurbarkas: 0.83
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžius: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_targeto_parinkimas: Jurbarkas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Jurbarkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185070"></a>
 - t-066
@@ -1032,7 +1034,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindžia:
     - c-051
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 76071-76516; hash=b715241c538060d1ef7a5de75836599528761489e82ca302f39c0f08fee9195a; match=exact
+  saltinio_vieta: 243680-244192; hash=4c27c6d608048aa3487d4341d805d91eb8a0cf5074cb5757754cba5ead16ac33; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Prūsija: 0.83
   ryšio_patikimumo_lygis: vidutinis
@@ -1054,7 +1056,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindžia:
     - c-052
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 77346-78070; hash=8b35698cf5c7c7bda1cbef4d4d9dc777aa19d388b3e6e9742726c85737e9fd56; match=exact
+  saltinio_vieta: 251050-251316; hash=84300b2249f6248fe1156deff62d86397451f6173d6a8468c5ae1b5c6354e3ee; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Kulmas: 0.83
   ryšio_patikimumo_lygis: vidutinis
@@ -1076,7 +1078,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindžia:
     - c-053
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 167310-167641; hash=29f15bdc3ef5ac8ee8da8e2f4c05e76457ec6375488e14f23cae34014a285b78; match=exact
+  saltinio_vieta: 375574-376109; hash=e584319d561c0147be87d3f6865483d6b19e34653515427a5376d23ac4debaaa; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Kuršas: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -1100,27 +1102,282 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: 93489-93794; hash=cd1575948bbda319726eb51efbc7f66e242a207467e64918008688147e67a14e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Minija: 0.88
+  ryšio_patikimumas: gyveno -> Minija: 0.82
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Skalviai: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Minija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad skalviai gyveno Minijos žemupyje.
+  ryšio_paaiskinimas: Teiginys tiesiogiai lokalizuoja skalvių gyvenimą Minijos žemupyje.
+
+<a id="claim-t-188778"></a>
+- t-070
+  global_id: t-188778
+  teiginys: 'Narbutas rašė, kad 1809 m. Lokaičiuose prie kairiojo Nemuno kranto rasta daug ginklų nuolaužų ir metalinių daiktų.'
+  pagrindžia:
+    - c-055
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 170064-170702; hash=1db98ffe7b2fa32aa9e110d46fe4eec0e07166654606a4afcf378ab302593ad3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: puole -> Lietuva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Livonijos ordino šakos puolimus prieš Lietuvą.
+<a id="claim-t-188779"></a>
+- t-071
+  global_id: t-188779
+  teiginys: 'Narbutas 1805 m. Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, matė labai seną mūro pilį.'
+  pagrindžia:
+    - c-056
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 218913-219155; hash=97d801f3fcc0d520d290f572a4c34da1dea16e84128d1fc0febe21a3841c33f5; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulautuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kulautuva: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Kulautuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188780"></a>
+- t-072
+  global_id: t-188780
+  teiginys: 'Narbutas Veliuoną apibūdino kaip menką miestelį dešiniajame Nemuno krante, penkių mylių atstumu nuo Jurbarko.'
+  pagrindžia:
+    - c-057
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 226784-226989; hash=c38560062b2ba4c71487236f45fd1faa02381e3cacd7b3630be9a913f0742dec; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: pastate -> Bajerburgas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bajerburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje kryžiuočiai tiesiogiai įvardyti kaip Bajerburgo pilies statytojai.
+<a id="claim-t-188781"></a>
+- t-073
+  global_id: t-188781
+  teiginys: 'Narbutas rašė, kad prie Sancinės, kur Nemunas išsišakoja į Giliją ir Rusnę, buvo vietinių Kroniszkas-Pilnis vadintas piliakalnis.'
+  pagrindžia:
+    - c-058
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 243680-244192; hash=4c27c6d608048aa3487d4341d805d91eb8a0cf5074cb5757754cba5ead16ac33; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gilija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gilija: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Gilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188782"></a>
+- t-074
+  global_id: t-188782
+  teiginys: 'Narbutas Zapyškį lokalizavo kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, anksčiau vadinto Upinės upeliu.'
+  pagrindžia:
+    - c-059
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 251050-251316; hash=84300b2249f6248fe1156deff62d86397451f6173d6a8468c5ae1b5c6354e3ee; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188783"></a>
+- t-075
+  global_id: t-188783
+  teiginys: 'Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.'
+  pagrindžia:
+    - c-060
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 375574-376109; hash=e584319d561c0147be87d3f6865483d6b19e34653515427a5376d23ac4debaaa; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunaitis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Nemunaitis: mention_match, place, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Nemunaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188784"></a>
+- t-076
+  global_id: t-188784
+  teiginys: 'Narbutas aiškino, kad lietuvių protėviai Nemuno žemupyje šventąja upe laikė Ross, arba Rusnę, dešiniąją Nemuno atšaką.'
+  pagrindžia:
+    - c-061
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 386446-386916; hash=efe7d949ac897f1ab4015d85a354c340798611dcdc8d0099846006dbd5fe3acd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Kaunas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas su Jogaila keliavo į Kauną.
+<a id="claim-t-188785"></a>
+- t-077
+  global_id: t-188785
+  teiginys: 'Narbutas užrašė liaudies padavimą, kuriame vaidilutę ketinta nuskandinti Nemune, bet ją išvadavo raitas šarvuotas bajoras.'
+  pagrindžia:
+    - c-062
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 524584-525431; hash=f01a2b6f8820a403650e088ad23bfc64b668b44bd8c174effbdd41252401a986; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Upės (Oppen) kaimas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Upės (Oppen) kaimas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Upės (Oppen) kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+<a id="claim-t-188786"></a>
+- t-078
+  global_id: t-188786
+  teiginys: 'Narbutas rašė, kad žinioje apie Vilniaus Perkūno šventyklą minimas garsus pranašas kažkur Nemuno žemupyje.'
+  pagrindžia:
+    - c-063
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 531548-532152; hash=cc3126d44603f4189101d1fc45b8a478b35df1049ddf509f3a56eb11e1b24322; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ragainė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ragainė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Ragainė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+<a id="claim-t-188787"></a>
+- t-079
+  global_id: t-188787
+  teiginys: 'Narbutas pažymėjo, kad Nemuno žemupio lietuviai vietoj „Gej“ šaukdavę „Hej“.'
+  pagrindžia:
+    - c-064
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 640861-641177; hash=c67f7a29ac74bbc2f4173710a528886bbdc9949b9bed47506b386300b854ce86; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: puole -> Kaunas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pilies išgriovimas karo žygio metu tiesiogiai pagrindžia Kryžiuočių ordino puolimą prieš Kauną.
+<a id="claim-t-188788"></a>
+- t-080
+  global_id: t-188788
+  teiginys: 'Narbutas rašė matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus per Išlaužą.'
+  pagrindžia:
+    - c-065
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 648468-648986; hash=e57cb3c1bf7eca7e8e776002897872ca2324b164b4a0d7de1727083d6d90dc01; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Išlaužas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Išlaužas: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Išlaužas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188789"></a>
+- t-081
+  global_id: t-188789
+  teiginys: 'Narbutas pateikė iš Hartknocho paimtą lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, maldos pavyzdį.'
+  pagrindžia:
+    - c-066
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 814862-815269; hash=037a73142cb14e78becb7dec6e5923114f008c33d8e6a269d856bcf771e3036e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bisenė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bisenė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+<a id="claim-t-190655"></a>
+- t-082
+  global_id: t-190655
+  teiginys: 'Narbutas Gardiną apibūdino kaip miestą prie Krono upės, kuri jo tekste tapatinama su Nemunu.'
+  pagrindžia:
+    - c-067
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 820256-820492; hash=70d376ad05ce169396960832712b8bf304c1502cee55f70d69efef54b1b410f0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Donatas Malinauskas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Donatas Malinauskas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Donatas Malinauskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+<a id="claim-t-190656"></a>
+- t-083
+  global_id: t-190656
+  teiginys: 'Narbutas minėjo medinį tiltą, jungusį abu Nemuno krantus ir laikytą ant tokiu pačiu būdu pastatytų stulpų.'
+  pagrindžia:
+    - c-068
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 821209-821572; hash=6926fc6b81e53995582505c20a35bf7d8475f06d093fd14784485e4d5ac89883; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Stulpai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Stulpai: mention_match, thing, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Stulpai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Salynas: Salynas buvo Nemuno sala apie dabartinę Kulautuvą, kurioje vyko Salyno sutarties susitikimas.
 - susijęs iš Lamata: Lamatos žemė minima kaip Nemuno pakrantėje gyvenusių lietuvių srities riba nuo Neries upės.
 - susijęs iš Klaipėda: Klaipėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176353|Gediminas]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse prie Nemuno.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176353|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse prie Nemuno.
 - susijęs iš [[objektai/asmenys/Konradas Ciolneris Rotenšteinas.md#claim-t-87439|Konradas Ciolneris Rotenšteinas]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas su didelėmis pajėgomis persikėlė per Nemuną ties Kaunu ir niokojo kraštą.
 - susijęs iš [[objektai/asmenys/Konradas Wallenrodas.md#claim-t-30334|Konradas Wallenrodas]]: Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį į Lietuvą ir rugsėjo 1 d. prie Kauno Nemuno saloje iškėlė išskirtinę puotą svečiams pilgrimams.
 - susijęs iš [[objektai/asmenys/Kūnas.md#claim-t-186134|Kūnas]]: Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dubysa, Nevėžis ir Neris.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59874|Meinhardas Saksas iš Kverfurto]]: 1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.
+- susijęs iš [[objektai/asmenys/Nemunas (jūrininkas).md#claim-t-190076|Nemunas (jūrininkas)]]: Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje prie Nemuno.
 - susijęs iš [[objektai/asmenys/Nodamas.md#claim-t-60395|Nodamas]]: Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais ir atsisėdo Nemuno pakrantėje, siekdamas apgauti brolius.
 - susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39622|P. Liatukas]]: P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną.
 - susijęs iš [[objektai/asmenys/Skaldonis.md#claim-t-184126|Skaldonis]]: Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.
 - susijęs iš [[objektai/asmenys/Skaldonis.md#claim-t-60434|Skaldonis]]: Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.
 - susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49492|V. Grigaliūnas-Glovackis]]: 1859 m. vasario 3 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną saugoti.
 - susijęs iš [[objektai/asmenys/Vilhelmas fon Helfelšteinas.md#claim-t-80724|Vilhelmas fon Helfelšteinas]]: 1402 m. viduryje didžiojo komtūro Vilhelmo fon Helfelšteino vadovaujami kryžiuočiai Nemunu ir Nerimi patraukė į Vilnių.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190639|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis senojoje Lietuvos istorijoje tarp lietuvių didikų mini Montvilos sūnų Nemuną.
 - susijęs iš [[objektai/autoriai/Remeika J.md#claim-t-91934|Remeika J]]: J. Remeikos darbe minima, kad Nemuno senvagė dešiniajame krante priešais Ragainę vadinama Merguva.
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86990|Laivai, valtys, sieliai ir plaustai]]: Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-12313|Laivai]]: 1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.
@@ -1134,7 +1391,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178963|Kryžiuočių ordinas]]: Kryžiuočių pilis Fridbergas buvo pastatyta tuo pat metu kaip Bajerburgas, už dviejų mylių nuo Veliuonos žemyn Nemunu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178971|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai su sąjungininkais išgriovė svarbią lietuvių pilį Kauną prie Nemuno ir Neries santakos.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179047|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė Kauno pilį Nemuno ir Neries santakoje.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179114|Kryžiuočių ordinas]]: Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.
 - susijęs iš [[objektai/grupes/Lamatiečiai.md#claim-t-59036|Lamatiečiai]]: Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179312|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183888|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
@@ -1166,8 +1422,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Prekyba Nemunu iki 1430. Pirmųjų Gediminaičių laikų Lietuvos prekybiniai ryšiai su Vakarais: J. Remeikos „Prekyba Nemunu iki 1430“ 1962 m. paskelbta „Tautos Praeities“ I tomo 4 numeryje.
 - susijęs iš Z. Zinkevičius, Lietuvių kalbos kilmė: Z. Zinkevičiaus „Lietuvių kalbos kilmė“ nurodoma prie paaiškinimo, kad Dusburgietis Krivičių žeme vadino Naugarduko žemę Nemuno aukštupyje.
 - susijęs iš Непокупный А. П. К поискам языковых следов ятвягов к востоку от Немана: A. P. Nepokupno straipsnis apie jotvingių kalbos pėdsakus į rytus nuo Nemuno paskelbtas Rygoje 1980 m. rinkinyje apie baltų tautų etninę istoriją.
-- susijęs iš Bajerburgas: Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės, Marienburgui apsaugoti.
-- susijęs iš Bajerburgas: Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės.
 - susijęs iš Dubysa: Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną.
 - susijęs iš Dubysa: Vytautas liepė atnaujinti Dubysos ir Nemuno krantuose pilis.
 - susijęs iš Dubysos upė: Vytautas liepė atnaujinti Dubysos ir Nemuno krantuose buvusias pilis ir atstatyti sudegintą Veliuoną.
@@ -1183,8 +1437,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Jūros upė: Jūros upės krantu siena pasislinko vieną mylią į šiaurę, o Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui.
 - susijęs iš Karšuvos žemė: Karšuvos žemė buvo pietvakarių Žemaitijoje ir pietuose apie Nemuno bei Mituvos santaką siekė Nemuną.
 - susijęs iš Kaunas: Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje.
-- susijęs iš Kaunas: 1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir ėmė siaubti kraštą.
-- susijęs iš Kaunas: 1385 metų rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną.
 - susijęs iš Kaunas: Kaunas buvo įkurtas Neries ir Nemuno santakoje ir pavadintas įkūrėjo atminimui.
 - susijęs iš Kaunas: Žiemą Vytautas tylomis miškais priėjo prie Kauno, tikėdamasis užimti miestą ir pilį Neries bei Nemuno santakoje.
 - susijęs iš Kauno pilis (pilis): Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje.
@@ -1212,12 +1464,12 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Nemuno žiotys: Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą.
 - susijęs iš Nevėžio žiotys: Kęstutis statydino Naująjį Kauną Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.
 - susijęs iš Prūsija: Po Kryžiuočių ordino užkariavimo Prūsija galutinai imtas vadinti visas kraštas tarp Vyslos ir Nemuno.
-- susijęs iš Prūsija: Petro iš Dusburgo kronikoje Prūsijos vardu politine prasme vadintas Ordino užkariautas plotas nuo Vyslos iki Nemuno.
 - susijęs iš Ragordo ežerai: Siena buvo pravesta nuo Mozūrijos sienos į Grajevo ir Ragordo ežerus, toliau per Vištyčio ežerą ir upes iki Nemuno.
 - susijęs iš Ritterswerderis: 1392 m. birželio pabaigoje Vytautas staiga grįžo ir sudegino Ritterswerderį bei dar dvi Ordino pilis prie Nemuno.
 - susijęs iš Salynas: Salynas buvo Nemuno sala apie dabartinę Kulautuvą, kurioje vyko Salyno sutarties susitikimas.
 - susijęs iš Salynas: Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas.
 - susijęs iš Salyno sala: Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas.
+- susijęs iš Sancinė: Prie Sancinės, kur Nemunas šakojasi į Giliją ir Rusnę, buvo piliakalnis, vietinių vadintas Kroniszkas-Pilnis.
 - susijęs iš Skalva: Sembų fogtas Ditrichas su Ordino pajėgomis atplaukė į skalvių žemę abiejose Nemuno pusėse ir užpuolė Ragainės vietoje stovėjusią pilį.
 - susijęs iš Skalva: Kai kurie tyrinėtojai teritoriją nuo Pamedės iki Skalvos prie Nemuno apibūdino kaip prūsų gyvenamą.
 - susijęs iš Skalvių pilis (pilis, XIII a.): Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie Skalvos upelio ties Paskalviais.
@@ -1266,11 +1518,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/asmenys/Ernekė.md#claim-t-60112|Ernekė]]: Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59959|Fridrichas Kvicas]]: 1323 metais Vėluvos valsčiuje lietuviai nužudė brolį Fridrichą Kvicą, vadintą drąsiu ir narsiu kariu.
 - susijęs iš [[objektai/asmenys/Galminas.md#claim-t-30231|Galminas]]: Galminas su Rumbaudu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10678|Gediminas]]: Gedimino laikais Vilnius tapo nuolatine Lietuvos sostine.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176335|Gediminas]]: 1324 m. Gedimino Lietuva surengė atsakomuosius smūgius prieš Kristmemelio pilį, Rezeknės apylinkes Livonijoje ir Mazoviją.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176372|Gediminas]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176372|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse.
 - susijęs iš [[objektai/asmenys/Georgas Zauerveinas.md#claim-t-18912|Georgas Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
-- susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-187907|Gerimantas]]: Narbutas perteikia metraščio pasakojimą, kad kunigaikštis Gerimantas sumanė statyti šventyklą, o jo tėvas Šventaragis 1263 m. siuntė pasiuntinius klausti orakulo dėl jos ateities.
 - susijęs iš [[objektai/asmenys/Getautas.md#claim-t-30255|Getautas]]: Getautas su Rumbaudu, Galminu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/asmenys/Grigorijus iš Polonos.md#claim-t-186205|Grigorijus iš Polonos]]: Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas.
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59864|Henrikas iš Plockės]]: Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė.
@@ -1348,10 +1597,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65558|Kuršiai]]: Skalviai prie Nemuno žemupio siejosi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65566|Kuršiai]]: Kuršių gyvenama teritorija prasidėjo į šiaurę nuo Minijos žemupio, Klaipėdos apylinkėse.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169585|Latviai]]: Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179283|Lietuviai]]: Lietuviai kaip tauta, anot šaltinio, Europoje Lietuvos vardu tapo žinomi tik X amžiuje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179290|Lietuviai]]: Tik X a. Lietuvos vardu Europai tapusi žinoma tauta citatoje siejama su trijų skirtingų kilmių gyventojų samplaika.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179310|Lietuviai]]: Per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją Junigedos vardu.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179354|Livonijos ordinas]]: 1372 m. Lietuva vienu metu buvo puolama iš Prūsijos ir Livonijos.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179413|Livonijos ordinas]]: 1372 m. kryžiuočiai Lietuvą puolė vienu metu iš Prūsijos ir Livonijos.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179435|Livonijos ordinas]]: Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis.
@@ -1365,7 +1611,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-183189|Totoriai]]: Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus.
 - susijęs iš [[objektai/grupes/Vokiečių ordinas.md#claim-t-183199|Vokiečių ordinas]]: Net po Žalgirio mūšio pagrindinė Vytauto konflikto su Vokiečių ordinu priežastis buvo Žemaitija.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176115|Žemaičiai]]: Žemaičiai, anksčiau neturėję teisės prekiauti su aukštaičiais, vėliau šią teisę atgavo.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176123|Žemaičiai]]: Žemaičiai buvo viena iš šešių pagrindinių lietuvių tautos atšakų.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-182932|Žemaičiai]]: Paaštrėjus Vytauto ir Ordino santykiams, Vytautas parėmė žemaičius, o žemaičiai išvarė kryžiuočius iš savo krašto.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187754|Žemaičiai]]: Kęstutis valdė Trakus ir Žemaičių žemę ir turėjo šešis sūnus.
 - susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97015|Bisenos sunaikinimas (1316 m.)]]: 1316 m. kryžiuočiams pavyko sunaikinti žemaičių Biseną.
@@ -1489,6 +1734,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Gedimino kalnas (Veliuonoje): Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno Veliuonoje šlaitus.
 - susijęs iš Gedimino pilis Castrum Gedemini: 1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.
 - susijęs iš Georgenburgas: 1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą pilį Georgenburgą, tapatinamą su Jurbarku.
+- susijęs iš Gilija: Narbutas rašo, kad prie Sancinės, kur Nemunas išsišakoja į Giliją ir Rusnę, buvo vietinių Kroniszkas-Pilnis vadintas piliakalnis.
 - susijęs iš Gorodecas: Gorodecas buvo viena iš paskutinių rytinių slavų pilių į rytus nuo lietuvių etnografinės ribos.
 - susijęs iš Gotesverderis: Gotesverderis buvo viena iš prie Kauno daug kartų statytų ir vėl sugriautų Ordino pilių.
 - susijęs iš Grajevo: Lietuvos ribos buvo pravestos per Grajevo ir Ragordo ežerus, Vištyčio ežerą, Leipūnos ir Širvintos upes iki Šešupės.
@@ -1497,9 +1743,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Junigeda: Paaiškinimuose Junigedos, arba Veliuonos, pilis siejama su rytiniu Veliuonos piliakalniu, vadinamu Gedimino kapu.
 - susijęs iš Junigeda: Junigeda minima kaip valsčius ir pilis, vėlesnėse kronikose tapatinta su Veliuona.
 - susijęs iš Juodoji Rusija: Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasiliko Slanimą ir Valkaviską, o Vaišvilkui atidavė Naugarduką.
-- susijęs iš Jurbarkas: Apgriautos pilies plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.
-- susijęs iš Jurbarkas: 1259 m. prie Nemuno buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti.
-- susijęs iš Jurbarkas: Aprašomu metu apgriuvusios sienos ir bokštų plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.
 - susijęs iš Karaliaučius: XIX a. septintąjį–aštuntąjį dešimtmetį per Kauną buvo nutiesta geležinkelio atšaka į Karaliaučių.
 - susijęs iš Karaliaučius: Karalius patarė broliams ant kalvos, kur stovėjo Karaliaučiaus pilis, pastatyti pilį tikėjimui ginti.
 - susijęs iš Karaliaučius: XIX a. septintąjį–aštuntąjį dešimtmetį nutiesta geležinkelio atšaka per Kauną į Karaliaučių.
@@ -1526,6 +1769,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Kolainių pilis (pilis): Kolainių pilis dažniausiai siejama su Kalnėnais į vakarus nuo Jurbarko, nors jos vieta tiksliai nenustatyta.
 - susijęs iš Krokuva: Vytauto laikų Lietuvai netoli buvo prekybos centrai, tarp jų Ryga, Dancigas ir Krokuva.
 - susijęs iš Krokuva: Vytauto laikais Krokuva buvo vienas prekybos centrų netoli Lietuvos.
+- susijęs iš Kroniszkas-Pilnis: Narbutas rašė, kad už Tilžės prie Sancinės buvęs piliakalnis vietinių vadintas Kroniszkas-Pilnis, tai yra Kruonio pilimi.
+- susijęs iš Krono-kilpinie: Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakalnį Krono-kilpinie, aiškintą kaip Kruonio kilpa.
 - susijęs iš Kulautuva: Salynas, vokiškai vadintas Sallinwerder, turėjo būti viena iš Nemuno salų tarp Nevėžio žiočių ir Kulautuvos.
 - susijęs iš Kulautuva: Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magistro Konrado delegacijų susitikime buvo patvirtinta kryžiuočiams užleista Žemaitija iki Nevėžio ir Sūduva iki Šešupės aukštupio.
 - susijęs iš Kulmas: Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
@@ -1544,8 +1789,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Lietuva: Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės, vardo.
 - susijęs iš Lietuva: Pasak citatos, Lietuvos vardas Europai tapo žinomas tik X amžiuje.
 - susijęs iš Lietuva: Nuo 1503 m. totoriai vis drąsiau puldinėjo Lietuvos žemes paskutiniaisiais Aleksandro valdymo metais.
-- susijęs iš Lietuva: XVI a. pabaigoje protestantizmas Lietuvoje buvo labai įsigalėjęs tarp didikų ir miestiečių.
-- susijęs iš Lietuva: Po lietuvių išpuolio Sembai lietuviai ir prūsai nuolat rengė karo žygius ir vieni kitiems smogė stiprių smūgių.
 - susijęs iš Lietuva: Grįžęs į Naugarduką Vaišvilkas įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno.
 - susijęs iš Livonija: 1372 m. Ordinas puolė Lietuvą vienu metu iš Prūsijos ir Livonijos.
 - susijęs iš Livonija: Kryžiuočiai padažnino žygius į Lietuvą: 1370 m. surengė du, o 1372 m. puolė vienu metu iš Prūsų ir Livonijos.
@@ -1557,9 +1800,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Mažoji Lietuva: 1914 m. liepą J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas Gintarinėje deklaracijoje siekė sujungti Didžiąją ir Mažąją Lietuvą.
 - susijęs iš Mažoji Lietuva: Georgas Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną.
 - susijęs iš Mažoji Lietuva: Georgas Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną.
-- susijęs iš Merkinė: 1920 m. spalio 7 d. Suvalkų sutartis visą Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje.
 - susijęs iš Merkinė: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene.
-- susijęs iš Merkinė: 1920 m. spalio 7 d. Suvalkų sutartis Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje.
 - susijęs iš Merkinė: Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.
 - susijęs iš Metena: Sugrįžęs jis sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno - Naująjį Gardiną ir Meteną.
 - susijęs iš Minskas: Rytiniame lietuvių etnografinės sienos pakraštyje Minskas minimas tarp paskutinių rytinių slavų pilių.
@@ -1569,6 +1810,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Naugardukas: Iš Juodojoje Rusijoje užimtų sričių Mindaugas Naugarduką atidavė sūnui Vaišvilkui.
 - susijęs iš Naugardukas: Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje.
 - susijęs iš Naujasis Kaunas: 1363 m. balandį Ordino magistras su kariuomene atplaukė Nemunu ir atėjo prie pradėtos atstatinėti Naujojo Kauno pilies.
+- susijęs iš Nemunaitis: Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.
 - susijęs iš Nogatas: Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą.
 - susijęs iš Osa: Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą prūsų gyvenamą teritoriją pietvakariuose riboja Osa ir Vysla.
 - susijęs iš Pamedė: Petro iš Dusburgo kronikoje Pamedė įtraukta į vienuolikos atskirų Prūsijos žemių sąrašą.
@@ -1583,7 +1825,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Pilies kalnas (Veliuonoje): Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus prie Veliuonos.
 - susijęs iš Plikoji Barta: Petro Dusburgiečio kronikoje Plikoji Barta minima kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Pomeranija: Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos.
-- susijęs iš Prienai: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.
 - susijęs iš Prienai: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.
 - susijęs iš Prienai: 7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti miestą iš pietų.
 - susijęs iš Protvos upė: Prie Protvos upės liko asimiliacijai atkirsta toliausiai į rytus įsiterpusi baltiškos kilmės Goliadės atplaiša.
@@ -1612,6 +1853,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Sčara: 1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros.
 - susijęs iš Sūduva: Petro iš Dusburgo kronikoje Sūduva minima kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Tamova: Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos.
+- susijęs iš Tilžė: Narbutas rašo, kad už Tilžės, prie Sancinės, buvo apkasas arba piliakalnis, vietinių vadintas Kroniszkas-Pilnis, tai yra Kruonio pilimi.
+- susijęs iš Trakų apskritis: Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje, Trakų apskrityje.
 - susijęs iš Trapėnai: 1363 m. balandį Ordino magistras su kariuomene Nemunu priplaukė Trapėnus, ten įtvirtino paliktus laivus ir patraukė prie Naujojo Kauno pilies.
 - susijęs iš Uša: Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių.
 - susijęs iš Uša: Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių.
@@ -1628,6 +1871,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Ventės ragas: Kryžiuočiai prie Nemuno žiočių, Ventės rage, statė pilį, vadintą Vindenburgu.
 - susijęs iš Ventės ragas: 1360 m. kryžiuočiai tvirtinosi Nemuno žemupyje ir statė naują pilį prie Nemuno žiočių, Ventės rage, vadintą Vindenburgu.
 - susijęs iš Vilnius: Per 20 metų kryžiuočiai surengė 70 žygių į Lietuvą ir pirmą kartą pasiekė Vilnių bei Trakus, o lietuviai atsakė 30 žygių į Ordino teritoriją.
+- susijęs iš Vingio dvaras: Narbutas rašė, kad žemiau Vingio dvaro, prie Sancinės, buvo vietinių Kroniszkas-Pilnis vadintas apkasas arba piliakalnis.
 - susijęs iš Vištyčio ežeras: Nubrėžtos sienos ėjo pro Vištyčio ežerą į Leipūnos upę.
 - susijęs iš Vysla: Lietuvių tauta, pasak Balińskio, buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Vysla: Kronikos įvade Vyslos žemupys nurodomas kaip viena Kryžiuočių ordino ekspansijos į baltų žemes ploto riba.
@@ -1643,10 +1887,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Žemaitija: Po Žalgirio mūšio Žemaitija liko pagrindinė Vytauto konflikto su Ordinu priežastis.
 - susijęs iš Žemaitija: Žemaitija, siekusi Baltijos jūrą, apibūdinta kaip lietuvių genties centras, išsaugojęs gryniausius savo padermės bruožus.
 - susijęs iš Žemaitija: Vilniaus ir dalies Gardino gubernijų kraštas laikytas dviejų lietuvių padermių, Žemaitijos ir aukštutinės Lietuvos, gyvenviete.
-- susijęs iš Žemaitija: Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai.
 - susijęs iš Žemaitija: Veliuona, tikriausiai XIII a. pastatyta pilis, turėjo saugoti Žemaitijos sienas nuo kryžiuočių puldinėjimų.
-- susijęs iš Žemaitija: Žemaitijoje plėšikavusios kryžiuočių kariuomenės karys, atsilikęs po kritimo nuo žirgo, pėsčiomis grįžo į Ragainę.
-- susijęs iš Žemaitija: Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.
 - susijęs iš Žemaitija: Veliuonos pilis tikriausiai pastatyta XIII a. Žemaitijos sienoms nuo kryžiuočių puldinėjimų saugoti.
 - susijęs iš Žemaičių jūra: Šią jūrą kai kurie raštininkai vadino Rusų mare.
 - susijęs iš Žiežmariai: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
@@ -1677,12 +1918,11 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš Mažosios Lietuvos himnas: Už lietuvių kalbą Rytų Prūsijoje kovojęs Jurgis Zauerveinas parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje.
 - susijęs iš Z. Ivinskis, Salyno taika: Z. Ivinskio „Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351-353 puslapiuose.
 - susijęs iš [[objektai/asmenys/Vilhelmas fon Helfelšteinas.md#claim-t-80724|Vilhelmas fon Helfelšteinas]]: 1402 m. viduryje didžiojo komtūro Vilhelmo fon Helfelšteino vadovaujami kryžiuočiai Nemunu ir Nerimi patraukė į Vilnių.
-- susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-187907|Gerimantas]]: Narbutas perteikia metraščio pasakojimą, kad kunigaikštis Gerimantas sumanė statyti šventyklą, o jo tėvas Šventaragis 1263 m. siuntė pasiuntinius klausti orakulo dėl jos ateities.
 - susijęs iš [[objektai/grupes/Lamatiečiai.md#claim-t-59036|Lamatiečiai]]: Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89215|Skalviai]]: Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.
 - susijęs iš [[objektai/ivykiai/Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.).md#claim-t-66504|Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.)]]: 1295 m. gegužės 20 d. laivų mūšyje prie Gardino žuvo brolis Ditrichas iš Ezbeko ir dar vienas Ordino brolis.
+- susijęs iš Gilija: Narbutas rašo, kad prie Sancinės, kur Nemunas išsišakoja į Giliją ir Rusnę, buvo vietinių Kroniszkas-Pilnis vadintas piliakalnis.
 - susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39622|P. Liatukas]]: P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179114|Kryžiuočių ordinas]]: Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89218|Skalviai]]: Materialinės kultūros požiūriu skalviai prie Nemuno žemupio siejami su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.
 - susijęs iš Merkinė: Nuo Gardino link Merkinės besitęsęs Nemuno aukštupio dešiniojo kranto miškų masyvas buvo ištisai lietuvių gyvenamas.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89217|Skalviai]]: Prie Nemuno buvo pastatyta Skalvių pilis, skirta į Kristaus tikėjimą atsivertusiems skalviams gyventi.
@@ -1697,7 +1937,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
 - susijęs iš [[objektai/autoriai/Makarevičius A.md#claim-t-60745|Makarevičius A]]: A. Makarevičius siejo Paštuvos pilį su Jaučakių piliakalniu į rytus nuo Vilkijos.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2756,6 +2995,284 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-069
+- c-055
+  santrauka: 'Narbutas rašė, kad 1809 m. Lokaičiuose prie kairiojo Nemuno kranto rasta daug ginklų nuolaužų ir metalinių daiktų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Man sakė, kad Karaliaučiuje
+    buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­
+    das žirgas, o ant jo -  juodas gaidys.
+    1809 metais Marijampolės apskrityje, netoli nuo kairiojo
+    Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­
+    liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil­
+    žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų:
+    lai buvo rūdžių suėsti kalavijai, kardai, berdyšiai, skydai, ant­
+    veidžiai, kai kurie variniai ir sidabriniai daiktai. 1813 metais jo
+    mylista Daujotas, anuometinis Lokaičių palivarko nuomoto­
+    jas, man pasakojo: „Gavau varinį žiedą su puse colio pločio,
+    11 colių diametro“.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-070
+- c-056
+  santrauka: 'Narbutas 1805 m. Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, matė labai seną mūro pilį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
+    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
+    125
+
+    ## Puslapis 125
+
+    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
+    nedailaus, bet labai patvaraus gipso.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-071
+- c-057
+  santrauka: 'Narbutas Veliuoną apibūdino kaip menką miestelį dešiniajame Nemuno krante, penkių mylių atstumu nuo Jurbarko.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Skaityk žemiau atitinkamus straipsnius.
+    Ji turėjo savo šventyklą vietovėje, kuri iki šiol tebesivadina
+    Veliuona (Wellona). Dabar tai menkas miestelis dešiniajame
+    Nemuno krante, penkios mylios iki Jurbarko.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-072
+- c-058
+  santrauka: 'Narbutas rašė, kad prie Sancinės, kur Nemunas išsišakoja į Giliją ir Rusnę, buvo vietinių Kroniszkas-Pilnis vadintas piliakalnis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
+    ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­
+    namų Kronie. Už Tilžės, žemiau Vingio (Winge) dvaro, prie
+    Sancinės, kur Nemunas išsišakoja į dvi atšakas -  Giliją ir Rus­
+    nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­
+    kalnis, vietinių vadinamas Kroniszkas -  Pilnis, tai yra Kruonio
+    (Kronu) pilimi. Ties Prienais, kur Nemunas daro pusračio vingį,
+    pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
+    Kronu).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-073
+- c-059
+  santrauka: 'Narbutas Zapyškį lokalizavo kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, anksčiau vadinto Upinės upeliu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
+    tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
+    žiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise
+    vadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­
+    vieną šventę, ypač per šv.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-074
+- c-060
+  santrauka: 'Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Siek tiek pasistūmėję upe
+    aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
+    ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
+    nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
+    (Betygola) pavadinimas. Šių keliautojų vadas vadinosi Nemu­
+    nas (Nemon). Apie jį dar esama padavimo, kad jis buvęs gar­
+    binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
+    ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų ap­
+    skrityje yra taip besivadinąs miestelis su pylimų žymėmis ir
+    keliais milžinkapiais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-075
+- c-061
+  santrauka: 'Narbutas aiškino, kad lietuvių protėviai Nemuno žemupyje šventąja upe laikė Ross, arba Rusnę, dešiniąją Nemuno atšaką.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Si ket­
+    virta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­
+    vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
+    arba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą­
+    ja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno
+    atšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė). Pa­
+    galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
+    kančios per jų svarbiausias sodybas, būdavo praminamos tuo
+    pačiu šventu vardu Ross.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-076
+- c-062
+  santrauka: 'Narbutas užrašė liaudies padavimą, kuriame vaidilutę ketinta nuskandinti Nemune, bet ją išvadavo raitas šarvuotas bajoras.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    33 Viename liaudies padavime pasakojama: šventa mergelė (vai­
+    dilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­
+    žė dvejetu juodų karvių, norėdami užsiūti odiniame maiše su šuni­
+    mi, katinu ir gyvate ir nuskandinti Nemune. Pasirodė tas bajoras rai­
+    tas, šarvuotas, išvadavo mergelę ir liepė sutuokti su ja ant paties upės
+    kranto; tada abu apsikabinę šoko į vandenį ir dingo iš akių. Toje vie­
+    toje vanduo ėmęs virti ir suktis verpetu, ir dabar taip daro, tarytum
+    nelaimingosios poros vestuvių ženklam Kai kada naktį, šviečiant mė­
+    nuliui, ji išlipanti į krantą, dainuojanti dainą apie savo nuotykį ir mai­
+    tinanti kūdikį. Kartais ji pasirodo žvejams naktį, lydima bajoro; prie
+    jų girdėti šuns urzgimas, katino kniaukimas ir gyvatės šnypštimas.
+    Dar daug kitokių pasakų mena apie šią porą panemunių gyventojai
+    Rumšiškių apylinkėse.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-077
+- c-063
+  santrauka: 'Narbutas rašė, kad žinioje apie Vilniaus Perkūno šventyklą minimas garsus pranašas kažkur Nemuno žemupyje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Anksčiau sakėme, kad žyniai stebėdavo dangaus kūnų ju­
+    dėjimą, norėdami padalyti laiką į atkarpas, bet kadangi su jų
+    padėtimi pynėsi mitologija, tai turėjo būti žinomas ir pranaša­
+    vimas iš žvaigždžių; kaip tik todėl liaudies padavimuose žodis
+    žvaigždininkas (Zwajždinikas) -  astronomas -  turi tą pačią
+    prasmę kaip juodaknygininkas (Juodukniginikas).
+    Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
+    sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
+    garsaus pranašo, kurio teirautasi apie tos šventyklos likimą.
+    Įvairiose vietose gyveno moterų pranašautojų, kurių pra­
+    našystėmis tikėta.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-078
+- c-064
+  santrauka: 'Narbutas pažymėjo, kad Nemuno žemupio lietuviai vietoj „Gej“ šaukdavę „Hej“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pas mus, remiantis kitu šaltiniu
+    tikriausiai iš kitos Lietuvos dalies, aptiktas ankstesnis pastebėji­
+    mas. O lietuviai Nemuno žemupyje vietoj „Gej“ šaukia „Hej“*.
+    Reikia atminti, ką sakėme anksčiau straipsnyje „Varpas“, kad
+    Antikos žmonės manė, jog metalo žvangėjimas nubaidąs pik­
+    tąsias dvasias nuo mirusiojo kūno.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-079
+- c-065
+  santrauka: 'Narbutas rašė matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus per Išlaužą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šiuo atveju, kadangi tokių atsitikimų dažniausiai
+    pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­
+    džių šakelių ir jį kasmet tam tikrą dieną kas nors padegdavo;
+    sako, kad tai būdavo daroma niekam nematant. Vieną tokį
+    laužą pats mačiau kairiajame Nemuno krante, prie kelio iš
+    Kauno į Prienus, važiuodamas per Išlaužą. Jis yra kairiojoje
+    kelio pusėje, pamiškėje, prie pat vieškelio; kiekvienas žmo­
+    gus, išsaugojęs vietinį dievobaimingumą, eidamas pro laužą,
+    turi rūpestingai užmesti ant jo kokią nors šakelę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-080
+- c-066
+  santrauka: 'Narbutas pateikė iš Hartknocho paimtą lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, maldos pavyzdį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Musa dieniszku mausu dod mums szoden, unpedod muns
+    musu paradus, ka mes pedodam musum paradukam; un ne wed
+    mus kierdi na szane, bet pestino ta launa.
+    Lietuvių kalba, vartojama Prūsijoje, Nemuno žemupyje; imta
+    iš Hartknocho (ten pat):
+    15. 93
+    449
+
+    ## Puslapis 449
+
+    Tewe musu, kuris essi dangui; te essie Swanczamas wardas
+    tawo; te atejg tawo karaliste; te nusi dode tawo walle kaip dau­
+    giu tejp ir ant žemes.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-081
+- c-067
+  santrauka: 'Narbutas Gardiną apibūdino kaip miestą prie Krono upės, kuri jo tekste tapatinama su Nemunu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    452
+
+    ## Puslapis 452
+
+    kaip ir Karalių miestas su visais priemiesčiais. Arčiausiai jo yra
+    Gardinas, išsidėstęs prie Krono upės, dabar Nemunu vadina­
+    mos. Jis pastatytas iš dalies ant kalvos, o iš dalies slėnyje, kaip
+    įprasta tame krašte.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-082
+- c-068
+  santrauka: 'Narbutas minėjo medinį tiltą, jungusį abu Nemuno krantus ir laikytą ant tokiu pačiu būdu pastatytų stulpų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Taip pastatomas bokštas, turintis varpą, reika­
+    lingą bažnytinėms apeigoms. Tokiu pačiu būdu buvo pastatyti ir
+    stulpai, ant kurių remiasi medinis tiltas, jungiantis abu Nemuno
+    krantus*.
+    „Keistas dalykas, kaip smarkiai tarp miestų gyventojų ir
+    visoje Lietuvoje buvo paplitęs prietaringas netikrų dievų gar­
+    binimas, kol ji priėmė Kristaus tikėjimą ir jo garbinimą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-083
 
 ## Ryšiai
 - [[objektai/vietos/Salynas]] priklause Nemunas
@@ -2767,8 +3284,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - Nemunas priklause [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Skalviai]] gyveno Nemunas
 - [[objektai/asmenys/Ditrichas iš Ezbeko]] keliavo_i Nemunas
+- [[objektai/vietos/Gilija]] priklause Nemunas
 - [[objektai/asmenys/P. Liatukas]] gyne Nemunas
-- [[objektai/grupes/Vokiečių ordinas]] keliavo_i Nemunas
 - [[objektai/grupes/Kryžiuočių ordinas]] priklause Nemunas
 - [[objektai/vietos/Pieštvė]] priklause Nemunas
 - [[objektai/vietos/Paštuvos valsčius]] priklause Nemunas

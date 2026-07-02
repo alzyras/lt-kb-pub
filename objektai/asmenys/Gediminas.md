@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Gediminas'
+pavadinimas: 'Gediminas (Lietuvos didysis kunigaikštis, XIV a.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -8,36 +8,42 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1307 m.'
-  - '1363 m.'
-date_start: '1307'
-date_end: '1363'
+datos: []
+date_start: ''
+date_end: ''
+variantai:
+  - 'Gediminas'
+aliases:
+  - 'Gediminas'
+description: 'Gediminas pristatomas kaip diplomatinis Lietuvos valdovas: iš Vilniaus rašė Europai, telkė sąjungas su Lenkija ir plėtė valstybę rytuose.'
+socialDescription: 'Gedimino valdymas siejamas su Vilniaus iškilimu, laiškais Europai, sąjunga su Lenkija ir Lietuvos plėtra į rytines žemes.'
+seo_atnaujinta: '2026-07-02T19:20:23.262093+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+periodo_grupes: []
 tags:
   - asmuo
   - diplomatas
   - ginklas
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 ---
-# Gediminas
+# Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
 
 ## Santrauka
 
-Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdovas, plėtęs valstybę į rytus ir palaikęs ryšius su Europa. Jis siejamas su laiškais popiežiui ir Europos miestams, Vilniaus įtvirtinimu sostine, Aukštaičių karaliaus vardu, rytinių rusų ir kitų baltų žemių jungimu bei religine pakanta.
+Gediminas vaizduojamas kaip Lietuvos valdovas, derinęs karą, diplomatiją ir dinastines vedybas. 1323 m. iš Vilniaus jis rašė laiškus popiežiui ir Europos miestams, kvietė atvykti amatininkus, pirklius ir kitus naujakurius. Šaltiniai pabrėžia jo sąjungą su Lenkija, kovą su kryžiuočiais, valstybės plėtrą rytuose ir religinę pakantą.
 
 ## Vaidmenys
 
 - Lietuvos valdovas
 
 ## Teiginiai
-
 <a id="claim-t-05167"></a>
 - t-001
   global_id: t-05167
@@ -150,8 +156,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - t-010
   global_id: t-10675
   teiginys: 'Gediminas sudarė sąjungą su Lenkija ir plėtė valstybę gudria politika bei dinastinėmis vedybomis.'
-  susije_objektai: 'mentioned_place: Lenkija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -169,7 +175,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - t-011
   global_id: t-10677
   teiginys: '1323 m. Gediminas laiškais kvietė į Lietuvą amatininkus, pirklius, žemdirbius ir riterius.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Europa; mentioned_place: Kelnas; mentioned_place: Livonija; mentioned_place: Revelis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1323 m.; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -189,7 +195,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - t-012
   global_id: t-10678
   teiginys: 'Gedimino laikais Vilnius tapo nuolatine Lietuvos sostine.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Kristmemelis; mentioned_place: Nemunas; mentioned_place: Rezeknė'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Kristmemelis; mentioned_place: Rezeknė'
   temporaliniai_duomenys: 'įvykio data: po 1324 m.; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -417,7 +423,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   global_id: t-176333
   teiginys: 'Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.'
   sudarymo_pagrindimas: 'Teiginys susieja Gediminą su jo sąjungininku ir yra paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Pamaris; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Pamaris; mentioned_person: [[objektai/asmenys/Dusburgietis|Dusburgietis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] buvo sąjungininkas su [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]'
   pagrindžia:
     - c-050
@@ -459,7 +465,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   global_id: t-176335
   teiginys: '1324 m. Gedimino Lietuva surengė atsakomuosius smūgius prieš Kristmemelio pilį, Rezeknės apylinkes Livonijoje ir Mazoviją.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs, citata pagrindžia užbaigtą faktinį sakinį.'
-  susije_objektai: 'mentioned_place: Kristmemelis; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Rezeknė; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_place: Kristmemelis; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Rezeknė'
   temporaliniai_duomenys: 'įvykio data: po 1324 m.; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs, citata pagrindžia užbaigtą faktinį sakinį.'
@@ -923,7 +929,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   global_id: t-176361
   teiginys: 'Šv. Kryžiaus ir dominikonų bažnyčių griuvėsiai Vilniuje buvo laikomi Gedimino palankumo krikščionybei atminimu.'
   sudarymo_pagrindimas: 'Fragmentas paverstas užbaigtu sakiniu, paremtu citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Fridburgas; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] buvo valdovas Lietuva'
   pagrindžia:
     - c-066
   irodymo_stiprumas: 0.00
@@ -990,7 +997,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   global_id: t-176365
   teiginys: 'Gedimino laiškai Liubekui, Bremenui, Kelnui, kitiems Europos miestams ir vienuolių ordinams turėjo platų tarptautinį atgarsį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Gedimino laiškų poveikį.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Europa; mentioned_place: Kelnas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Revelis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_place: Europa; mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1323 m.; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Gedimino laiškų poveikį.'
@@ -1043,7 +1050,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   global_id: t-176368
   teiginys: 'Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų pakirtęs Ordino egzistavimo pagrindą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas interpretacinis faktas, tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] valdė Lietuva'
   pagrindžia:
     - c-028
   irodymo_stiprumas: 0.00
@@ -1362,8 +1370,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   global_id: t-176388
   teiginys: 'Gediminas laiškuose ir pareiškime popiežiaus legatams kaltino kryžiuočius niokojant žemes, darant skriaudas ir nuostolius.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pašalinti boilerplate ir nutrūkusią citatą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-059
   irodymo_stiprumas: 0.00
@@ -1423,15 +1431,15 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   pagrindžia:
     - c-032
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 237121-237565; hash=f1dae65993bee22a8a878bf107c1cb92cbd57792fe3a79946c1463e77fb6e220; match=whitespace_regex
+  saltinio_vieta: 227123-227583; hash=f65253b9d38a35ac6e61b9a4f76cbc638412ab1f68c13ab5fb4456c3b6e7fed0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gediminas tiesiogiai įvardytas Lietuvos didžiuoju kunigaikščiu.
 
 <a id="claim-t-176394"></a>
 - t-079
@@ -1453,15 +1461,15 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   pagrindžia:
     - c-065
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 147364-147625; hash=7a5523e437f37ae8f3b26d6e5dd7298da53c5e965e153114cbdc3860498d8931; match=exact
+  saltinio_vieta: 363662-364051; hash=380d215ed2092c9e57d58f2fbdd0b1ee58c221eda572fbd50e194d755b2ae574; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.86
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Sąjunga buvo sudaryta prieš kryžiuočius.
+  ryšio_paaiskinimas: Sąjunga sudaryta prieš kryžiuočius, todėl santykis su Ordinu nusakytas kaip priešiškas.
 
 <a id="claim-t-176396"></a>
 - t-081
@@ -1472,7 +1480,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   pagrindžia:
     - c-046
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 155742-156052; hash=000ad94931db6fd6902a4353f05f43f33be16a3849bd7a83220791cd9dcf3f07; match=exact
+  saltinio_vieta: 501951-502434; hash=e93a8b9cb3fef5dc407d1386c99692f4994752a3e420f593bcb0aaf5f251c279; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Europa: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -1492,7 +1500,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   pagrindžia:
     - c-045
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 165942-166286; hash=b881e041f62f7e788f577ea469dc092070c0d5a778a43140501ab816a930c72f; match=exact
+  saltinio_vieta: 530732-531380; hash=97caa508b909e2bacc1a3385aa1b1aec07eb3e0c18af3d04c0fd51121ab0300d; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Kristmemelis: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -1511,7 +1519,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   pagrindžia:
     - c-047
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 34131-34351; hash=bedbe61cc2636f2e5bb4c9a12525db45c48c9b7130028127f5bba6ec6358d49e; match=exact
+  saltinio_vieta: 658618-659165; hash=aac711a749a6171038713fcf68b9d34b199ceb41936c615db7ee7df1ef64b7b0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Plockas: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -1530,15 +1538,15 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   pagrindžia:
     - c-068
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 45021-45544; hash=a28f5c4a3817401f0421ba69b34a0fe71ea8586159b5b00ce382fb24d726e205; match=ocr_normalized_gapped
+  saltinio_vieta: 721482-721979; hash=35beb3de69fef33e4e30a4401d9eef9ee9bf589952b7fd39e6b18b8382a53f12; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Vladislovas Lokietka: 0.96
+  ryšio_patikimumas: buvo_sajungininkas_su -> Vladislovas Lokietka: 0.94
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Vladislovas Lokietka: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai vadina Vladislovą Lokietką Gedimino sąjungininku.
+  ryšio_paaiskinimas: Vladislovas Lokietka tiesiogiai pavadintas Gedimino sąjungininku.
 
 <a id="claim-t-176400"></a>
 - t-085
@@ -1550,15 +1558,15 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   pagrindžia:
     - c-017
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 45357-45818; hash=46d3741c96223683d750fbde3f76e1bc19ea57c5723cf07b22ceb57f62cf425d; match=ocr_normalized_gapped
+  saltinio_vieta: 830516-830783; hash=8a5e12f7289dcf2c86ab80fe00af2a08a8e6daad727f6ad8194cf28264ccd831; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: valde -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Lietuvos padėtį sieja su Gedimino valdymu.
 
 <a id="claim-t-176401"></a>
 - t-086
@@ -1661,6 +1669,151 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
   ryšio_paaiskinimas: Gediminas apibūdinamas kaip dar labiau sutvirtinęs Mindaugo įkurtą Lietuvos valstybę, kas implikuoja valdymo santykį.
+
+<a id="claim-t-188526"></a>
+- t-092
+  global_id: t-188526
+  teiginys: 'Narbutas rašo, kad 1329 m. Lietuvos didysis kunigaikštis Gediminas, puldamas vieną iš kryžiuočių pilių, buvo nukautas šaunamuoju ginklu.'
+  pagrindžia:
+    - c-077
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 227123-227583; hash=f65253b9d38a35ac6e61b9a4f76cbc638412ab1f68c13ab5fb4456c3b6e7fed0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gediminas tiesiogiai įvardytas Lietuvos didžiuoju kunigaikščiu.
+<a id="claim-t-188527"></a>
+- t-093
+  global_id: t-188527
+  teiginys: 'Narbutas nurodo, kad Gediminas gimė 1257 m. iš pirmosios Vytenio žmonos.'
+  pagrindžia:
+    - c-078
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 363216-363661; hash=e8f9c908fb70f7389eb88fdaa53dc155d22d77f6fb930548831b3917dba36689; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_brolis -> Gvaželutis: 0.72
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gvaželutis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata abu asmenis pateikia kaip to paties Vytenio vaikus, todėl ryšys laikomas brolystės išvada.
+<a id="claim-t-188528"></a>
+- t-094
+  global_id: t-188528
+  teiginys: 'Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.'
+  pagrindžia:
+    - c-079
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 363662-364051; hash=380d215ed2092c9e57d58f2fbdd0b1ee58c221eda572fbd50e194d755b2ae574; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Ariogala: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ariogala: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Gediminas anksčiau gyveno Ariogaloje.
+<a id="claim-t-188530"></a>
+- t-095
+  global_id: t-188530
+  teiginys: 'Narbutas rašo, kad Lizdeika, gyvenęs Gedimino laikais, apie 1318 m. patarė įkurti Vilnių.'
+  pagrindžia:
+    - c-080
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 501951-502434; hash=e93a8b9cb3fef5dc407d1386c99692f4994752a3e420f593bcb0aaf5f251c279; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: reme -> Stačiatikiai: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Stačiatikiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Gediminas palaikė Lietuvos stačiatikiams skirtą arkivyskupiją, todėl santykis su stačiatikiais yra paramos pobūdžio.
+<a id="claim-t-188531"></a>
+- t-096
+  global_id: t-188531
+  teiginys: 'Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.'
+  pagrindžia:
+    - c-081
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 530732-531380; hash=97caa508b909e2bacc1a3385aa1b1aec07eb3e0c18af3d04c0fd51121ab0300d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: pastate -> Aukštutinė pilis: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Aukštutinė pilis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Gediminui sapno aiškinimas buvo vada pastatydinti Aukštutinę mūro pilį.
+<a id="claim-t-188532"></a>
+- t-097
+  global_id: t-188532
+  teiginys: 'Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.'
+  pagrindžia:
+    - c-082
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 658618-659165; hash=aac711a749a6171038713fcf68b9d34b199ceb41936c615db7ee7df1ef64b7b0; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antakalnis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Antakalnis: mention_match, place, gap=93
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Antakalnis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188533"></a>
+- t-098
+  global_id: t-188533
+  teiginys: 'Narbutas, remdamasis Strijkovskiu, mini, kad 1302 m. Gediminas suteikė herbą Krunevičiui.'
+  pagrindžia:
+    - c-083
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 721482-721979; hash=35beb3de69fef33e4e30a4401d9eef9ee9bf589952b7fd39e6b18b8382a53f12; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: pastate -> Aukštutinė pilis: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Aukštutinė pilis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Gedimino sapno aiškinimas siejamas su pilies pastatydinimu ant Tauro kalno.
+<a id="claim-t-188534"></a>
+- t-099
+  global_id: t-188534
+  teiginys: 'Narbutas Gedimino valdymą sieja su laikotarpiu, kai Lietuvos galia ir jėga, jo vertinimu, nepaprastai išaugo.'
+  pagrindžia:
+    - c-084
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 830516-830783; hash=8a5e12f7289dcf2c86ab80fe00af2a08a8e6daad727f6ad8194cf28264ccd831; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: valde -> Lietuva: 0.76
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Lietuvos galios augimą sieja su Gedimino valdymo laikotarpiu.
 - susijęs iš [[objektai/asmenys/Teodoras.md#claim-t-79203|Teodoras]]: 1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.
 - susijęs iš [[objektai/asmenys/Marija (Gedimino duktė).md#claim-t-82552|Marija (Gedimino duktė)]]: Gedimino duktė Marija politinėmis vedybomis ištekėjo už didžiojo Tverės kunigaikščio Dimitro.
 - susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija.md#claim-t-66537|Gedimino sąjunga su Lenkija]]: Ivinskis nurodo, kad 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.
@@ -1686,9 +1839,12 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/asmenys/Marija (Gedimino duktė).md#claim-t-82550|Marija (Gedimino duktė)]]: Gedimino duktė Marija buvo ištekinta už Rusios kunigaikščio Boleslovo.
 - susijęs iš [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis.md#claim-t-97293|Kęstutis buvo vyras karingas ir tiesiakalbis]]: Dlugošas Kęstutį apibūdino kaip šaunų, išmintingą, veiklų, išlavintą, žmonišką ir pažadams ištikimą vyrą.
 - susijęs iš [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis.md#claim-t-97294|Kęstutis buvo vyras karingas ir tiesiakalbis]]: Nuolatiniai susidūrimai karuose su vakarų Europos riteriais Kęstutį išmokė riteriškų papročių, kurių jis griežtai laikėsi.
+- susijęs iš [[objektai/asmenys/Jaunė (Jievna).md#claim-t-188540|Jaunė (Jievna)]]: Jaunė, arba Ieva, Narbuto genealogijoje pateikiama kaip trečioji Gedimino žmona ir Polocko kunigaikščio duktė.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90067|Vladislovas Lokietka]]: Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90071|Vladislovas Lokietka]]: Dusburgietis Vladislovą Lokietką vaizduoja kaip Gedimino sąjungininką, kovojusį prieš Ordiną dėl Pamario.
+- susijęs iš [[objektai/grupes/Livonijos riteriai.md#claim-t-189480|Livonijos riteriai]]: Narbutas Gediminą vaizduoja kaip Ariogaloje iškilusį kovotoją su kryžiuočiais ir Livonijos riteriais.
 - susijęs iš Volinija: Liubartas turėjo savo dalį Volinijoje ir galėjo reikšti pretenzijas į kitas Haličo-Vladimiro žemes.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-188575|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Narbutas rašė, kad Kęstutis, Gedimino ir Smolensko kunigaikštytės Olgos sūnus, gimė 1297 metais.
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-05154|Aldona Gediminaitė]]: Aldona šiame šaltinyje tiesiogiai vadinama Gedimino dukterimi.
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97304|Aldona Gediminaitė]]: 1325 m. sutartį tarp Lietuvos ir Vladislovo Lokietkos sutvirtino Aldonos Gediminaitės ir Kazimiero jungtuvės.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176274|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Gedimino sūnus ir Jogailos tėvas.
@@ -1711,6 +1867,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/asmenys/Henrikas Duseneris.md#claim-t-87686|Henrikas Duseneris]]: Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176438|Jaunutis (valdovas, XIV a.)]]: Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176439|Jaunutis (valdovas, XIV a.)]]: Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu.
+- susijęs iš [[objektai/asmenys/Jaunė (Jievna).md#claim-t-188540|Jaunė (Jievna)]]: Jaunė, arba Ieva, Narbuto genealogijoje pateikiama kaip trečioji Gedimino žmona ir Polocko kunigaikščio duktė.
 - susijęs iš [[objektai/asmenys/Jonas (popiežius).md#claim-t-87522|Jonas (popiežius)]]: Popiežius Jonas turėjo atsiųsti pasiuntinius Gediminui, tačiau jų delsimas Gediminui kėlė didelį susirūpinimą.
 - susijęs iš [[objektai/asmenys/Jonas Rygietis.md#claim-t-87528|Jonas Rygietis]]: Jonas Rygietis su Rygos tarėju Henriku fon Calmaru 1323 m. liepos 18 d. Liubeko rotušėje įteikė tariamus Gedimino laiškus.
 - susijęs iš [[objektai/asmenys/Jonas XXII (popiežius).md#claim-t-97447|Jonas XXII (popiežius)]]: 1317 m. popiežius Jonas XXII paragino Gediminą krikštytis.
@@ -1723,8 +1880,13 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176531|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176532|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176534|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-188575|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Narbutas rašė, kad Kęstutis, Gedimino ir Smolensko kunigaikštytės Olgos sūnus, gimė 1297 metais.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-05195|Liubartas]]: Liubartas buvo vienas iš Gedimino sūnų, kurie, gavę dalis stačiatikių srityse, priėmė jų tikėjimą.
+- susijęs iš [[objektai/asmenys/Lizdeika.md#claim-t-188580|Lizdeika]]: Narbutas rašo, kad Lizdeika, gyvenęs Gedimino laikais, apie 1318 m. patarė įkurti Vilnių.
+- susijęs iš [[objektai/asmenys/Lizdeika.md#claim-t-188581|Lizdeika]]: Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.
 - susijęs iš [[objektai/asmenys/Lokietka.md#claim-t-40309|Lokietka]]: 1325 m. Lokietkos sūnus Kazimieras vedė Gedimino dukrą Aldoną Oną, taip stiprindamas Gedimino suartėjimą su Lenkija.
+- susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-188582|Manvydas]]: Narbutas Manvydą laiko Gedimino ir Vidos sūnumi, gimusiu 1276 metais, o jo vardą aiškina kaip „Vidos pasaulis“.
+- susijęs iš [[objektai/asmenys/Naborovskis.md#claim-t-190188|Naborovskis]]: Narbutas 1629 metų Naborovskio paminėjimą pateikia kaip pėdsaką, kad XVII amžiuje Lietuvoje buvo žinoma apie Gedimino kapą.
 - susijęs iš [[objektai/asmenys/Paulius iš Olivos.md#claim-t-87818|Paulius iš Olivos]]: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo.
 - susijęs iš [[objektai/asmenys/Reimaras fon Hanė.md#claim-t-87566|Reimaras fon Hanė]]: Reimaras fon Hanė buvo Vendeno komtūras, kurio patarimo ketinta prašyti prieš apsisprendžiant dėl Gedimino laiškų.
 - susijęs iš [[objektai/asmenys/Tilemannas Zunpachas.md#claim-t-87868|Tilemannas Zunpachas]]: Kryžiuotis Tilemannas Zunpachas, šaulių vadas, ugniniu šūviu mirtinai sužeidė Gediminą.
@@ -1732,11 +1894,12 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/asmenys/Tomas Aldenburgas.md#claim-t-87585|Tomas Aldenburgas]]: 1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas su broliais ir vyrais užpuolė Gedimino pilies papilį.
 - susijęs iš [[objektai/asmenys/Vaclovas (Vanka).md#claim-t-60452|Vaclovas (Vanka)]]: Apie 1320 m. Plocko kunigaikštis Vaclovas Vanka vedė Gedimino dukterį.
 - susijęs iš [[objektai/asmenys/Vaclovas (Wanko) iš Płocko.md#claim-t-100079|Vaclovas (Wanko) iš Płocko]]: Vaclovas (Wanko) iš Płocko vedė Gedimino dukterį.
+- susijęs iš [[objektai/asmenys/Vidmantas iš Kuršo.md#claim-t-190218|Vidmantas iš Kuršo]]: Narbutas Vidmantą iš Kuršo mini kaip švedų kilmės bartininką ir Gedimino žmonos Vidos tėvą.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90068|Vladislovas Lokietka]]: 1326 m. Lokietka paprašė Lietuvos karaliaus Gedimino atsiųsti karių, ir Gediminas jam davė 1200 raitelių.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90071|Vladislovas Lokietka]]: Dusburgietis Vladislovą Lokietką vaizduoja kaip Gedimino sąjungininką, kovojusį prieš Ordiną dėl Pamario.
 - susijęs iš [[objektai/asmenys/Vladislovas Łokietka.md#claim-t-35327|Vladislovas Łokietka]]: 1325 m. Vladislovas Łokietka sudarė sutartį su Gedimino valdoma Lietuva, kurią sutvirtino Aldonos ir Kazimiero jungtuvės.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176640|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis, Kęstučio sūnus, valdė 1392–1430 m. ir šaltinyje vadinamas iškiliausiu Gediminaičių dinastijos atstovu.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176843|Vytenis]]: Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176843|Vytenis (valdovas, XIII–XIV a.)]]: Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m.
 - susijęs iš [[objektai/autoriai/A. Prochaska.md#claim-t-47872|A. Prochaska]]: A. Prochaska gynė Gedimino laiškų autentiškumą.
 - susijęs iš [[objektai/autoriai/Albertas Krantzas.md#claim-t-54997|Albertas Krantzas]]: Albertas Krantzas priskirtas vėlesniems kronikininkams, kurie Gedimino laiškų klausimą siejo su arkivyskupu.
 - susijęs iš [[objektai/autoriai/Albertas Krantzas.md#claim-t-54998|Albertas Krantzas]]: Pasak Alberto Krantzo, Gediminas pareiškė, kad popiežiaus nei pažinojo, nei troško pažinti.
@@ -1762,6 +1925,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/autoriai/M. Ročka.md#claim-t-88030|M. Ročka]]: M. Ročka vertė 1966 m. leidyklos „Mintis“ išleistus „Gedimino laiškus“.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172933|M. Strijkovskis Stryjkowski]]: Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172902|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis XVI a. antrojoje pusėje rašė, kad Gediminas mūšyje prie Irpenės smogė rusams iš šono ir juos sumušė.
+- susijęs iš [[objektai/autoriai/Naborovskis.md#claim-t-190443|Naborovskis]]: Narbutas nurodo, kad Naborovskis 1629 m. minėjo Lietuvoje žinotą Gedimino kapo tradiciją.
 - susijęs iš [[objektai/autoriai/Olivos metraščiai.md#claim-t-88077|Olivos metraščiai]]: Olivos metraščiai rašo, kad Gediminui ar jo kariui stumiant karinę mašiną pataikė Marijano iš bombardos paleistas šūvis.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47901|Rusų ir ukrainiečių istorikai]]: Odesos universiteto istorikas V. V. Antonovičius iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties.
 - susijęs iš [[objektai/autoriai/Rygos arkivyskupas Fridrichas.md#claim-t-88043|Rygos arkivyskupas Fridrichas]]: Balińskis manė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus ir siekė palankaus popiežiaus sprendimo ginče su kryžiuočiais.
@@ -1813,6 +1977,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/grupes/Rygos miestiečiai.md#claim-t-81605|Rygos miestiečiai]]: Rygos miestiečiai ir jų arkivyskupas skelbė žinią, esą Gediminas su saviškiais noriai priimtų krikštą ir tikėjimą.
 - susijęs iš [[objektai/grupes/Vilniaus rusų vienuoliai „čiornai“.md#claim-t-86776|Vilniaus rusų vienuoliai „čiornai“]]: Vilniaus rusų vienuoliai, žmonių vadinti „čiornais“, nuo Gedimino laikų turėjo savo vienuolyną.
 - susijęs iš [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.).md#claim-t-86973|Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]: Gediminas 1337 m. žuvo mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
+- susijęs iš [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui 1302 m.md#claim-t-189620|Gedimino herbo suteikimas Krunevičiui 1302 m]]: Narbutas nurodo, kad 1302 m. Gediminas suteikė Krunevičiui herbą kaip slavų giminei skirtą didžiojo kunigaikščio dovaną.
+- susijęs iš [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui 1302 m.md#claim-t-189621|Gedimino herbo suteikimas Krunevičiui 1302 m]]: Narbutas pažymi, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino herbo suteikimą Krunevičiui, bet šaltinio nenurodė.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185491|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Sutelkęs visas jėgas, Gediminas per Žemaitiją nužygiavo prie Žeimelės upelio ir įrengė įtvirtintą stovyklą.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185492|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Žeimelės mūšyje Gedimino kariuomenės priekyje stovėję totoriai puslankiu išsisklaidė ir išvengė kryžiuočių ietininkų antpuolio.
@@ -1949,7 +2115,9 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Preussens aeltere Geschichte: Augustas Kotzebue veikale „Preussens aeltere Geschichte“ išspausdino Gedimino laiškus dominikonams, pranciškonams ir Hanzos miestams.
 - susijęs iš Raynaldo Bažnyčios istorija: Raynaldo Bažnyčios istorija aiškino kai kuriuos Gedimino valdymo ir politikos aspektus.
 - susijęs iš Stemmata Polonica: XVI a. vidurio herbyne „Stemmata Polonica“, saugomame Paryžiuje, pavaizduoti Gedimino stulpai ir Jogailos kryžius.
+- susijęs iš Antakalnis: Pasak Narbuto minimo padavimo, Vilniaus Antakalnyje, Gedimino sode, dabartinio Šv. Petro vienuolyno vietoje stovėjusi Mildos šventykla arba koplyčia.
 - susijęs iš Braunsbergas: Braunsbergo gvardijonas buvo tarp Mažesniųjų brolių atstovų, laiškais popiežiui gynusių kryžiuočius nuo Gedimino skundo.
+- susijęs iš Druskininkų kapavietė: 1841 metais prie Druskininkų tik ką atkastoje kapavietėje rasta moneta, kurios vienoje pusėje buvo pavaizduoti Gediminaičių Stulpai.
 - susijęs iš Gedimino bokštas: 1989 m. rugpjūčio 23 d. Baltijos kelio žmonių grandinė driekėsi nuo Gedimino bokšto Vilniuje iki Hermano bokšto Taline.
 - susijęs iš Gedimino kalnas (Veliuonoje): Į rytus nuo Veliuonos Pilies kalno dunkso Gedimino kalnu vadinamas kalnas su pilkapiu vakarinėje viršūnės pusėje.
 - susijęs iš Gedimino kalnas (Veliuonoje): Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno Veliuonoje šlaitus.
@@ -1964,6 +2132,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Gedimino pilis (pilis): Ordino brolių vėliava su sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį ant kalno.
 - susijęs iš Gedimino pilis (pilis): Fridrichas iš Libencelės su 150 vyrų slapta priėjo prie Gedimino pilies, bet įspėti pilėnai pilį apgynė.
 - susijęs iš Gedimino pilis (pilis): Guillaume de Machaut rašė, kad 1357 m. žygyje pilgrimai, be Medvėgalio, paėmė Kvėdarną, Gedimino pilį, Gegužkalnį ir Aukaimį.
+- susijęs iš Gedimino sodas Antakalnyje: Narbutas minėjo padavimą, kad Gedimino sode Antakalnyje, dabartinio Šv. Petro vienuolyno vietoje, stovėjusi Mildos šventykla arba koplyčia.
 - susijęs iš Gegužkalnis: Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Gegužkalnį kartu su Kvėdarna, Gedimino pilimi bei Aukaimiu.
 - susijęs iš Junigeda: Paaiškinimuose Junigedos, arba Veliuonos, pilis siejama su rytiniu Veliuonos piliakalniu, vadinamu Gedimino kapu.
 - susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui.
@@ -2017,6 +2186,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemoji pilis laikoma Gedimino kalno papėdėje buvusiu gynybinių įrengimų ir kitų pastatų kompleksu.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Žemutinės pilies įtvirtinimai veikiausiai yra ankstesni už Gedimino laikotarpį.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemoji pilis laikoma Gedimino kalno papėdėje buvusiu gynybinių įrengimų ir kitų pastatų kompleksu.
+- susijęs iš [[objektai/zodynas/Milžinkapis Milsu Kappi.md#claim-t-189161|Milžinkapis Milsu Kappi]]: Narbutas aprašė kalną su terasa ir plokščiu kupolu, kurį vadino milžinkapiu ir siejo su vietos padavimu apie Gedimino kapą.
 - susijęs iš [[objektai/zodynas/Notariats instrument notarinis instrumentas.md#claim-t-86541|Notariats instrument notarinis instrumentas]]: 1323 metais Liubeke parengtame notariniame instrumente aprašytas prie laiško prikabintas apvalus Gedimino vaško antspaudas.
 - susijęs iš [[objektai/zodynas/Notariats instrument notarinis instrumentas.md#claim-t-86542|Notariats instrument notarinis instrumentas]]: Notariniame instrumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.
 - susijęs iš [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai.md#claim-t-104181|aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]: Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo titulą rex, o Algirdas laiškuose Bizantijai - bazileus.
@@ -2088,11 +2258,14 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184414|Kazimieras Didysis]]: Kazimieras III Dobrynės žemę buvo atidavęs Vladislovui iš Opolės.
 - susijęs iš [[objektai/asmenys/Kiršenšteinas.md#claim-t-87913|Kiršenšteinas]]: Prūsijoje lietuvių paimtos karo belaisvės sūnus buvo vadinamas Kiršenšteinu, o jo giminė vėliau valdė Raudonės pilį.
 - susijęs iš [[objektai/asmenys/Konradas Lichtenhagenas.md#claim-t-87759|Konradas Lichtenhagenas]]: Brandenburgo komtūras Konradas Lichtenhagenas atėjo į Gardino valsčių ir pilį po žygio į Pagraudenės valsčių.
+- susijęs iš [[objektai/asmenys/Krunevičius.md#claim-t-190176|Krunevičius]]: Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė herbą Krunevičiui.
+- susijęs iš [[objektai/asmenys/Krunevičius.md#claim-t-190177|Krunevičius]]: Narbutas nurodė, kad Malachovskis pateikė žinių apie Gedimino suteiktą herbą Krunevičiui, bet šaltinis jam buvo neaiškus.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-05189|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1381 m. Kęstutis, išvaręs Jogailą, tapo vyriausiuoju Lietuvos valdovu ir atsisėdo Vilniaus pilyje.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-10689|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis pastatė mūro pilį Trakų ežero saloje.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176516|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176519|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176520|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-188576|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Narbutas taisė Okolskį ir Strijkovskį, teigdamas, kad Naujuosius Trakus įkūrė Gediminas, o ne Kęstutis.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-12192|Liubartas]]: Liubartas vedė paskutinio Volynijos kunigaikščio vienturtę dukterį.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-12193|Liubartas]]: 1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93458|Liubartas]]: Liubartas vedė vienturtę Volynijos kunigaikščio įpėdinę.
@@ -2113,7 +2286,9 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113929|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su tauta priėmė krikščionybę, bet dėl kryžiuočių smurto nuo jos atsimetė.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113933|Mindaugas (valdovas, XIII a.)]]: Gedimino laikais įsitvirtinus leniniam valdymui, buvo įgyvendintos Mindaugo politinės pastangos.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113934|Mindaugas (valdovas, XIII a.)]]: Balińskis teigė, kad Gedimino veiklumo dėka buvo įgyvendintos Mindaugo pastangos.
+- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188597|Motiejus Strijkovskis]]: Narbutas rašo, kad, Strijkovskio teigimu, kai kurios Lietuvos kunigaikščių giminės turėjo tikrus savo herbus.
 - susijęs iš [[objektai/asmenys/Mykolas Zaleskis.md#claim-t-87804|Mykolas Zaleskis]]: Mykolui Zaleskiui priklausė Veliuona.
+- susijęs iš [[objektai/asmenys/Neseckis.md#claim-t-190189|Neseckis]]: Narbutas nurodo, kad Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui.
 - susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173210|Petras Goštautas]]: Waddyngas ir Antoni Melissanius de Macro pasakoja, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų vienuolių.
@@ -2142,7 +2317,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176657|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. Vytautas, su kariuomene įžengęs į Prūsiją, rado jam palankių prūsų bajorų.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176672|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176700|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis buvo Kęstučio sūnus ir valdė 1392–1430 m.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176833|Vytenis]]: Karamzinas abejojo prielaida, kad Vytenis, lietuvis pagonis, galėjo būti rusino Vido Dovydavičiaus vaikaitis.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176833|Vytenis (valdovas, XIII–XIV a.)]]: Karamzinas abejojo prielaida, kad Vytenis, lietuvis pagonis, galėjo būti rusino Vido Dovydavičiaus vaikaitis.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-188651|Vytenis (valdovas, XIII–XIV a.)]]: Narbuto pasakojime Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocką.
 - susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-87898|Šventaragis]]: Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.
 - susijęs iš [[objektai/autoriai/Antoni Melissanius de Macro.md#claim-t-88053|Antoni Melissanius de Macro]]: Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102843|Dusburgas]]: Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą.
@@ -2155,8 +2331,10 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/autoriai/Kojałowicz Kojelavičius.md#claim-t-87997|Kojałowicz Kojelavičius]]: Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78779|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Karoliu Zikaru parengė kartoschemą „Mindaugo valdoma Lietuva iki 1263 m.“.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78789|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Lietuvos teritoriją iki 1341 m.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190644|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskio teigimu kai kurios lietuvių giminės turėjo tikrus herbus: Hipokentaurą, Stulpus, Rožę ir Vytį.
 - susijęs iš [[objektai/autoriai/Naruszewicz Naruševičius.md#claim-t-87996|Naruszewicz Naruševičius]]: Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
 - susijęs iš [[objektai/autoriai/Naruszewicz.md#claim-t-87991|Naruszewicz]]: Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
+- susijęs iš [[objektai/autoriai/Neseckis.md#claim-t-190373|Neseckis]]: Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui.
 - susijęs iš [[objektai/autoriai/P. Būtėnas.md#claim-t-97201|P. Būtėnas]]: P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnius apie Vilnių ir jo pradžią.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181461|Petras Dusburgietis]]: Petras Dusburgietis 1326 m. užbaigė savo kroniką, įteikė ją magistrui, o kūrinys buvo pratęstas iki 1330 m.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181466|Petras Dusburgietis]]: Petras iš Dusburgo 1326 m. užbaigė savo kroniką ir įteikė ją magistrui.
@@ -2177,6 +2355,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/daiktai/Lietuvos trispalvė.md#claim-t-75334|Lietuvos trispalvė]]: Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“.
 - susijęs iš [[objektai/daiktai/Mediniai namai, trobos ir trobelės.md#claim-t-87055|Mediniai namai, trobos ir trobelės]]: Iki Gedimino dabartinio Vilniaus vietoje tikriausiai buvo medinė tvirtovė, o palei Vilnios krantą driekėsi trobelės.
 - susijęs iš [[objektai/daiktai/Mediniai rūmai.md#claim-t-87085|Mediniai rūmai]]: Gedimino dvare gyvenę lietuvių didikai ir kunigaikščio giminės ties pilimi statydinosi medinius rūmus.
+- susijęs iš [[objektai/daiktai/Medžiotojo diržai prie balno risietis.md#claim-t-189689|Medžiotojo diržai prie balno risietis]]: Narbutas rašė, kad lietuviai medžiotojo diržus vadino Risietis ir todėl neturėjo skolintis šio daikto pavadinimo iš svetimos kalbos.
 - susijęs iš [[objektai/daiktai/Mūro pilys.md#claim-t-19571|Mūro pilys]]: Gedimino ar Algirdo valdymo laikais aplink valstybės branduolį buvo sukurta mūro pilių sistema: Medininkai, Krėva, Lyda, Trakai, Gardinas ir Kaunas.
 - susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89430|Mūro sienos ir miesto sienos]]: Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.
 - susijęs iš [[objektai/daiktai/Mūro sienos.md#claim-t-87059|Mūro sienos]]: Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.
@@ -2232,12 +2411,13 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179215|Lietuviai]]: Dėl lietuvių diduomenės ir paprastų žmonių nenoro keisti senojo gyvenimo būdo siūlyta pirmiau pasiųsti į Lietuvą pasiuntinius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179223|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179287|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179310|Lietuviai]]: Per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją Junigedos vardu.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179329|Lietuviai]]: Dalis lietuvių diduomenės ir paprastų žmonių, kaip manyta, nekeisianti senojo gyvenimo būdo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179333|Lietuviai]]: Gediminas laiške popiežiui Jonui prisistatė lietuvių ir daugelio rusų karaliumi.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184550|Lietuviai]]: Gediminas su kitais kariais atskubėjo padėti pradėjusiam krikti lietuvių raitelių pulkui ir vėliau įsakė jam pulti rusų sparną.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190579|Lietuviai]]: Narbutas teigė, kad lietuvių Perkūno stabas X a. buvo garsus Šiaurėje, o panašūs stabai pastatyti Kijeve ir Naugarde.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190596|Lietuviai]]: Narbutas rašė, kad senovinė lietuvių teisė ir papročiai numatė vienpatystę, o kitos lietuvių gentys jos laikėsi griežčiau už prūsus.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169687|Lietuvos Didžioji Kunigaikštija]]: Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.
 - susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-13474|Lietuvos Persitvarkymo Sąjūdis]]: 1988 m. birželio 10 d. Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė įsteigta Kaune, o liepos 6 d. – Klaipėdoje.
 - susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-23309|Lietuvos Persitvarkymo Sąjūdis]]: Pradiniame etape Sąjūdis iš esmės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų etapais siejo tik laisvos Lietuvos siekis.
@@ -2249,6 +2429,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179388|Livonijos ordinas]]: Gedimino vardu rašytų laiškų klastojimas citatoje siejamas su Rygos arkivyskupo ir Livonijos ordino brolių konfliktu.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179422|Livonijos ordinas]]: Rygai kritus, Gediminas neteko paramos prieš Livonijos ordiną, kuris beveik iki Gedimino valdymo pabaigos puldinėjo Lietuvą.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179429|Livonijos ordinas]]: Prūsų kryžiuočiams kariaujant su Lenkijos Kazimieru, Lietuvą puolė Livonijos ordinas.
+- susijęs iš [[objektai/grupes/Livonijos riteriai.md#claim-t-189480|Livonijos riteriai]]: Narbutas Gediminą vaizduoja kaip Ariogaloje iškilusį kovotoją su kryžiuočiais ir Livonijos riteriais.
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86736|Mazovijos kunigaikščiai]]: Gedimino laiškų užuomina apie Mazoviją leido manyti, kad Mazovijos kunigaikštis buvo Lietuvos valdovo sąjungininkas.
 - susijęs iš [[objektai/grupes/Mongolai.md#claim-t-183665|Mongolai]]: Mongolus prie Mėlynųjų vandenų sutriuškino gerai organizuota Lietuvos kariuomenė, vadovaujama Algirdo.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108287|Pranciškonų ordinas]]: Gediminas kreipėsi į pranciškonų ordino brolius, pasklidusius visame pasaulyje, ypač į Saksonijos ministrą.
@@ -2278,6 +2459,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-182934|Žiemgaliai]]: Po Durbės mūšio žiemgaliai atsimetė nuo Ordino ir prisidėjo prie Lietuvos.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89345|Žiemgaliai]]: Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią sukilėlių pusėje puolė žemaičiai.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89352|Žiemgaliai]]: Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią puolė žemaičiai.
+- susijęs iš [[objektai/ivykiai/1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje.md#claim-t-189636|1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje]]: Onacevičiaus periodizacijoje aiškesnės Lietuvos istorijos epocha baigiasi 1386 m., kai Jogaila vedė Jadvygą ir Lietuvoje buvo įvesta krikščionybė.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187459|Algirdo žygis į Maskvą]]: Legenda apie Algirdo žygį į Maskvą yra Bychovco kronikoje, bet jos nėra Trumpajame ir kituose Platesniojo sąvado nuorašuose.
 - susijęs iš [[objektai/ivykiai/Bazilijonų įsikūrimas Vilniuje Algirdo valdymo pradžioje.md#claim-t-86941|Bazilijonų įsikūrimas Vilniuje Algirdo valdymo pradžioje]]: Algirdo valdymo pradžioje jo žmonos, Tverės kunigaikštytės, atkvieti Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią.
 - susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija.md#claim-t-66541|Gedimino sąjunga su Lenkija]]: 1325 m. sutartis buvo pirmasis pastovesnis Lietuvos ir Lenkijos taikos sąlytis.
@@ -2296,6 +2478,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa).md#claim-t-20249|LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]: 1988 m. birželio 10 d. LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 d. – Klaipėdoje, o pirmieji masiniai mitingai vyko Vilniuje.
 - susijęs iš [[objektai/ivykiai/Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.).md#claim-t-62858|Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.)]]: 1358 m. Lietuvos vyriausybė derybose su imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos, Priegliaus žemupio ir jūros.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas).md#claim-t-62860|Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]: 1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė danų vasalinėje priklausomybėje buvusią Revelio žemę.
+- susijęs iš [[objektai/ivykiai/Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai.md#claim-t-189604|Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai (krikštas, XIII–XIV a.)]]: Narbutas Mindaugo–1386 m. laikotarpį užbaigia Lietuvos krikščionybės įvedimu, Jogailos vedybomis su Jadvyga ir tautos vertimu krikštytis.
 - susijęs iš [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.).md#claim-t-89378|Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]: 1326 m. Lietuva sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos centru.
 - susijęs iš [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.).md#claim-t-89379|Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]: Lietuva sudarė taiką su Didžiuoju Naugardu, tvirtindama savo pozicijas prieš Kryžiuočių ordiną.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygis į Dorpato vyskupo valdas (1322 m.).md#claim-t-62865|Lietuvos žygis į Dorpato vyskupo valdas (1322 m.)]]: Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje buvusias Dorpato vyskupo valdas.
@@ -2410,6 +2593,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Vytauto privilegija Trakams (1384 m.): 1384 m. Vytauto privilegija Trakams liudija, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas.
 - susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: Zajączkowskio veikalas nurodomas tarp šaltinių, patikimiau lokalizuojančių minimą vietą buvusioje Pagraudės teritorijoje prie Graumenos.
 - susijęs iš Alna: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros.
+- susijęs iš Antakalnis: Narbuto perpasakotoje Gedimino sapno legendoje Lizdeika aiškino sapną po medžioklės prie Antakalnio link stūksojusio Tauro kalno.
+- susijęs iš Antakalnis: Jėzuitai pralaimėjo teisme dėl plytinės, žemės sklypo ir lankos Antakalnyje, nes neturėjo nuosavybės dokumentų.
 - susijęs iš Aukaimis: Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Aukaimį bei dar tris pilis.
 - susijęs iš Aukštaičių žemė: Platus Nemuno aukštupio ir vidurupio dešiniojo kranto kraštas bei beveik visas Neries baseinas su Šventąja sudarė Aukštaičių žemės pagrindą.
 - susijęs iš Avinjonas: 1323 m. rudenį popiežius į Avinjoną pakvietė didįjį magistrą.
@@ -2459,8 +2644,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Kaunas: Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
 - susijęs iš Kaunas: 1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.
 - susijęs iš Kaunas: Birželio 10 d. Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė buvo įsteigta Kaune.
+- susijęs iš Kaunas: Narbutas nurodo, kad Kauno šventasis miškas buvęs prie Neries ir Nemuno santakos.
 - susijęs iš Kernavė: XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimo vietą nurodė už 5 mylių nuo Kernavės.
-- susijęs iš Kernavė: XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės.
 - susijęs iš Kijevas: Gedimino ar Algirdo laikais Kijevas buvo Lietuvos politinėje įtakoje.
 - susijęs iš Kijevas: Kijevo kunigaikštystė buvo įjungta į Lietuvos valstybę drauge su Podole.
 - susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę.
@@ -2486,6 +2671,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Lietuva: Gedimino laiškų netikrumo įrodymu laikyta užuomina, kad svetimšaliai per Mazoviją galėjo saugiai vykti į Lietuvą.
 - susijęs iš Lietuva: Gediminas savo valstybėje turėjo dvi skirtingų kalbų ir religijų tautas: lietuvius ir rusus.
 - susijęs iš Lietuva: Gedimino misija popiežiui pranešė apie valdovo ryžtą pereiti į naują tikėjimą ir prašė siųsti mokytų tikėjimo vyrų į Lietuvą.
+- susijęs iš Lietuva: Narbutas vaizdavo, kad Graikijos ir Romos dievai persikėlė į Lietuvą ir susiliejo su vietos bei skandinavų religijomis.
 - susijęs iš Liubekas: Gediminas laiške Liubekui ir kitiems miestams pranešė, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto teise.
 - susijęs iš Liubekas: Gedimino laiške Liubeko ir kitų miestų gyventojams skelbta, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto civiline teise.
 - susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
@@ -2558,13 +2744,12 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Strėva: Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš Talinas: Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline.
 - susijęs iš Tartu: Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline.
+- susijęs iš Tauro kalnas: Narbutas pasakoja, kad Gediminas nukovė taurą ant kalno, vėliau vadinto Tauro kalnu, o Lizdeika po nakvynės Šventaragio miške išaiškino jo sapną.
 - susijęs iš Torunė: Sužinoję apie Gedimino skundą popiežiui, Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių.
 - susijęs iš Trakai: 1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis.
 - susijęs iš Trakai: Pasakojime Gediminas po Trakų pilies įkūrimo medžiojo apylinkėse ir pasiekė Šventaragio slėnį už keturių mylių nuo Trakų.
 - susijęs iš Trakai: 1384 m. Vytauto privilegijoje Trakai apibūdinti kaip svarbus Lietuvos miestas, kuriame jau būta krikščionių bažnyčių.
 - susijęs iš Trakai: 1384 m. Vytauto privilegija rodo, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas.
-- susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį.
-- susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį.
 - susijęs iš Ukmergė: Ukmergė su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui.
 - susijęs iš Ukmergė: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
 - susijęs iš Ukmergė: Jaunučiui paskirtame žemių dalinyje, be Vilniaus, buvo Ašmenos, Ukmergės ir Breslaujos sritys su pilimis.
@@ -2614,6 +2799,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Vilnius: Pranciškonų kankinių istorija davė pradžią vienai ilgaamžiškiausių Vilniaus legendų.
 - susijęs iš Vilnius: Gedimino laiškai siejami su pirmuoju Vilniaus paminėjimu rašto šaltiniuose ir Lietuvos europėjimo programa.
 - susijęs iš Vilnius: 1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.
+- susijęs iš Vilnius: 1655 m. rusams užėmus Vilnių, mieste kilęs gaisras siautė 17 dienų.
 - susijęs iš Vilnius: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas, kaip ir pats Vilnius, perėjo Algirdui.
 - susijęs iš Vilnius: Kęstutis, susitaręs su Algirdu, 1344-1345 m. žiemą užėmė Vilnių ir suėmė Jaunutį.
 - susijęs iš Vilnius: 1387 m. pradžioje Jogaila atvyko į Vilnių, pakeliui paėmęs Lietuvos kunigaikščių paklusnumo raštus.
@@ -2625,6 +2811,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Vilnius: Nuo XIV amžiaus pirmos pusės Vilnius ir Kremlius pateikiami kaip Lietuvos ir Maskvos dinastinio antagonizmo ašys.
 - susijęs iš Vilnius: Gedimino laikais Vilnius iš mažos gyvenvietės išaugo į miestą ir buvo pasirinktas Lietuvos karalystės sostine.
 - susijęs iš Vilnius: Lietuvos metraščio pasakojime Gediminas prieš žūtį perdavė aukščiausią valdžią Vilniuje Jaunučiui.
+- susijęs iš Vilnius: Narbutas Gedimino sapno pasakojime rašė, kad Gediminas nakvojo Šventaragiu vadintame miške prie Vilnios ir Neries santakos.
+- susijęs iš Vilnius: Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
 - susijęs iš Vingio parkas: 1988 m. liepos 9 d. Vingio parke vykusiame LPS mitinge dalyvavo apie 100 tūkst. žmonių.
 - susijęs iš Vingrių upokšnis: Kelias iš Žemutinės pilies vakarinių vartų ėjo per tiltą per Vingrių upokšnį, kuris greta Vilnios įtekėjo į Viliją.
 - susijęs iš Vingrių upokšnis: Iš vakarų atitekėjęs Vingrių upokšnis įtekėjo į Viliją visai greta Vilnios žiočių.
@@ -2646,6 +2834,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Vysla: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš Vysla: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš Vyšgorodas: Gedimino valdžią tuo metu pripažino ir Kijevo priemiestis Vyšgorodas.
+- susijęs iš Šv. Petro vienuolyno vieta Antakalnyje: Narbutas mini padavimą, kad Vilniaus Antakalnyje, dabartinio Šv. Petro vienuolyno vietoje, stovėjusi Mildos šventykla arba koplyčia.
 - susijęs iš Šventaragio slėnis: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po Trakų pilies įkūrimo medžiojo Šventaragio slėnyje.
 - susijęs iš Šventaragio slėnis: Balińskis Šventaragio slėnio lydimus siejo su senovinės Vilniaus gyvenvietės plėtra nuo Vilnios krantų Vilijos link.
 - susijęs iš Šventaragio slėnis: Šventaragio slėnyje Germantas esą vertė miškus lydimais ir plėtė senovinę Vilniaus gyvenvietę Vilijos link.
@@ -2668,9 +2857,11 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-86506|Papilys suburbium]]: Ragainės komtūras Tomas Aldenburgas su 44 broliais ir 400 vyrų iš Sembos bei Natangos švintant sudegino Gedimino pilies papilį.
 - susijęs iš [[objektai/zodynas/Pilininkai kaštelionai seniūnas.md#claim-t-86638|Pilininkai kaštelionai seniūnas]]: Lietuvoje pilininkai valdė miestą ir vykdė teisminę priežiūrą kartu su bendruomenės parinktu seniūnu.
 - susijęs iš [[objektai/zodynas/Pilininkas.md#claim-t-55266|Pilininkas]]: Lietuvoje pilininkai valdė miestą panašiai kaip Lenkijoje kaštelionai ir vykdė teisminę priežiūrą kartu su seniūnu.
+- susijęs iš [[objektai/zodynas/Risietis.md#claim-t-189327|Risietis]]: Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė mintį, kad šio žodžio nereikėjo skolintis iš svetimos kalbos.
 - susijęs iš [[objektai/zodynas/Rusios didysis kunigaikštis.md#claim-t-185410|Rusios didysis kunigaikštis]]: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
 - susijęs iš [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės.md#claim-t-86570|Rygos miesto civilinė teisė vokiečių teisės]]: Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.
 - susijęs iš [[objektai/zodynas/Rygos miesto teisė.md#claim-t-86640|Rygos miesto teisė]]: Gedimino laiške nurodyta, kad visiems atvykėliams galiojo Rygos miesto teisė, nebent jiems būtų nustatyta geresnė teisė.
+- susijęs iš [[objektai/zodynas/Trakai Troki.md#claim-t-189142|Trakai Troki]]: Narbutas kaip Trakų vardo paplitimo pavyzdį nurodė Trakais vadintą mišką Lydos apskrities Žirmūnų parapijoje.
 - susijęs iš [[objektai/zodynas/alanai.md#claim-t-185379|alanai]]: Ateiviai persikėlė per Nevėžį ir pasiekė vietas, kuriose, pasak Kojelavičiaus, gyveno alanai, arba lietuviai.
 - susijęs iš [[objektai/zodynas/ankstyvasis feodalizmas kiemai.md#claim-t-22055|ankstyvasis feodalizmas kiemai]]: Valdant Ldk Gediminui ankstyvojo feodalizmo požymiu Lietuvoje buvo ankstyvieji dvarai, vadinti kiemais.
 - susijęs iš [[objektai/zodynas/ankstyvoji monarchija karinė monarchija.md#claim-t-22057|ankstyvoji monarchija karinė monarchija]]: Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turėjusi tokių požymių kaip diarchija ir ankstyvasis feodalizmas.
@@ -2706,6 +2897,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/zodynas/vaidilos, žyniai ir pranašai.md#claim-t-86496|vaidilos, žyniai ir pranašai]]: Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas, pro kurio langą žyniai ir pranašai skelbdavo pranašystes žmonėms.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184644|vietininkas]]: Gediminas prijungė Lucką, Drohičiną ir Brestą prie Lietuvos valdų, palikdamas lietuvių įgulas ir vietininkus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179092|Kryžiuočių ordinas]]: Kryžiuočiai blokavo patekimą į Lietuvą, sudarė sutartį su Didžiuoju Naugardu prieš Gediminą ir juodino jį krikščionių valdovams.
+- susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-188582|Manvydas]]: Narbutas Manvydą laiko Gedimino ir Vidos sūnumi, gimusiu 1276 metais, o jo vardą aiškina kaip „Vidos pasaulis“.
 - susijęs iš [[objektai/asmenys/Tomas Aldenburgas.md#claim-t-87585|Tomas Aldenburgas]]: 1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas su broliais ir vyrais užpuolė Gedimino pilies papilį.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187924|A. Vijūkas Kojelavičius]]: Kojelavičius Pagraudenę vadino apylinke Žemaitijoje.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187927|A. Vijūkas Kojelavičius]]: A. Vijūkas Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
@@ -2722,7 +2914,6 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Semba: 1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį.
 - susijęs iš Mažesniųjų brolių laiškas dėl Teutonų ordino garbės (1323 m.): 1323 m. Mažesniųjų brolių laiške popiežiui Teutonų ordino brolių garbė ginta nuo kaltinimų trukdžius Gediminui priimti krikštą.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -4454,106 +4645,280 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   patikimumo_saltinis: ai
   pagrindžia:
     - t-091
+- c-077
+  santrauka: 'Narbutas rašo, kad 1329 m. Lietuvos didysis kunigaikštis Gediminas, puldamas vieną iš kryžiuočių pilių, buvo nukautas šaunamuoju ginklu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    XIV am­
+    žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
+    jos paimti, pasistatė priešais ją dvi pilis -  Fridburgą ir Bajer-
+    burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
+    lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
+    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
+    kiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17
+    dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
+    buvo sunaikintos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-092
+- c-078
+  santrauka: 'Narbutas nurodo, kad Gediminas gimė 1257 m. iš pirmosios Vytenio žmonos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tuo
+    tarpu visuotiniame Lietuvos suvažiavime Kernavėje, vadovau­
+    2 Ar ne dabartinis Igumenis?
+    214
+
+    ## Puslapis 214
+
+    jant Trobiaus sūnui vienuoliui Laurui, Vytenis, išrinktas Lie­
+    tuvos didžiuoju kunigaikščiu, mirė 1315 metais, kelyje buvo
+    nutrenktas perkūno. Jis turėjo tris žmonas, kurios viena po
+    kitos mirė; iš pirmosios 1257 metais gimė Gediminas, iš ant­
+    rosios 1295 metais -  Gvaželutis ir 1296 metais -  Vainius. Tre­
+    čioji paliko bevaikė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-093
+- c-079
+  santrauka: 'Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lietuvos ponai 1316 metų sausio mėnesį
+    Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš
+    tai gyveno Ariogaloje ir valdė kunigaikščio žemes ir kaimenes
+    Žemaitijoje. Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­
+    čiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto
+    naudai. Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
+    Jaunę, o su jomis -  septynis sūnus3.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-094
+- c-080
+  santrauka: 'Narbutas rašo, kad Lizdeika, gyvenęs Gedimino laikais, apie 1318 m. patarė įkurti Vilnių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Straips­
+    nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
+    buveinių vietos Lietuvoje. Jokiuose istorijos šaltiniuose neiš­
+    liko vardų šių garsių žmonių, kurių būta Lietuvoje, išskyrus
+    vienintelį Lizdeiką, gyvenusį Gedimino laikais, apie 1318 me­
+    tus patarusį įkurti Vilnių. Sako, kad jis paskutinis vyriausiasis
+    žynys, kuris dar gyveno, kai buvo griaunama Vilniaus Perkū­
+    no šventykla; tai įvyko praėjus 69 metams po minėtosios da­
+    tos, todėl turėjo būti jau labai senas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-095
+- c-081
+  santrauka: 'Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    304
+
+    ## Puslapis 304
+
+    tinai turi išaugti į didelį miestą, kadangi tą nuostabiai skati­
+    no ir vietos padėtis.
+    Lizdeika išaiškino sapną Gediminui po to, kai jis, nukovęs
+    didžiulį taurą ant aukščiausio kalno, stūksančio Antakalnio
+    link, -  išmanantys tėvynės istoriją dabar jį vadina Tauro kal­
+    nu -  nakvojo šventajame miške prie Vilnios ir Neries santa­
+    kos, vadintame Šventaragiu; jam prisisapnavo, kad matęs mil­
+    žinišką vilką, visą šarvuotą geležiniais šarvais, o jo viduje stau­
+    gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
+    kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
+    čiui -  kas nors panašaus prisisapnuotų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-096
+- c-082
+  santrauka: 'Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lietuvos didžiojo kunigaikščio Gedimino kapas yra
+    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
+    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
+    avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
+    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
+    pelenai ilsisi supiltame kalne).
+    2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski
+    numeryje**.
+    372
+
+    ## Puslapis 372
+
+    vedančio iš Užupio į Antakalnį. Tai yra kalnas, gerokai aukš­
+    tesnis už kitus gretimus, stūksantis atskirai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-097
+- c-083
+  santrauka: 'Narbutas, remdamasis Strijkovskiu, mini, kad 1302 m. Gediminas suteikė herbą Krunevičiui.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
+    jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
+    Hipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­
+    nigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302
+    metais Gediminas davė Krunevičiui10. Sis paprotys lietuviams
+    nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios
+    Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,
+    kad jiems būtų suteikti herbai -  taip būdavo Lenkijoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-098
+- c-084
+  santrauka: 'Narbutas Gedimino valdymą sieja su laikotarpiu, kai Lietuvos galia ir jėga, jo vertinimu, nepaprastai išaugo.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
+    metų. Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių
+    problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant­
+    roje (ypač nuo Gedimino valdymo) Lietuvos galia ir jėga nepa­
+    prastai išaugo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-099
 
 ## Ryšiai
-- [[objektai/asmenys/Teodoras]] buvo_brolis Gediminas
-- [[objektai/asmenys/Aldona Gediminaitė]] buvo_dukte Gediminas
-- Gediminas buvo_brolis [[objektai/asmenys/Vytenis]]
-- Gediminas gyveno [[objektai/vietos/Vilnius]]
-- Gediminas uzeme [[objektai/vietos/Kijevas]]
-- Gediminas uzkariavo [[objektai/vietos/Kijevas]]
-- [[objektai/asmenys/Marija (Gedimino duktė)]] buvo_dukte Gediminas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_sunus Gediminas
-- Gediminas uzeme [[objektai/vietos/Brianskas]]
-- Gediminas apgule [[objektai/vietos/Vladimiras]]
-- Gediminas buvo_sajungininkas_su [[objektai/asmenys/Vladislovas Lokietka]]
-- Gediminas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Gediminas buvo_valdovas [[objektai/grupes/Lietuviai]]
-- Gediminas pastate [[objektai/vietos/Vilniaus Aukštutinė pilis]]
-- Gediminas uzeme [[objektai/vietos/Perejeslavlis]]
-- Gediminas valde [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Marija]] buvo_dukte Gediminas
-- [[objektai/asmenys/Aldona Ona]] buvo_dukte Gediminas
-- Gediminas pastate [[objektai/vietos/Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis)]]
-- Gediminas sudare_sutarti_su [[objektai/asmenys/Lokietka]]
-- Gediminas uzeme [[objektai/vietos/Luckas]]
-- Gediminas buvo_valdovas [[objektai/grupes/Rusai]]
-- Gediminas pastate [[objektai/daiktai/Gedimino pastatytos pranciškonų ir dominikonų bažnyčios]]
-- Gediminas pastate [[objektai/vietos/Vilnius]]
-- Gediminas puole [[objektai/vietos/Mazovija]]
-- [[objektai/grupes/Rygiečiai]] buvo_sajungininkas_su Gediminas
-- Gediminas kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Gediminas keliavo_i [[objektai/vietos/Lietuva]]
-- Gediminas pastate [[objektai/vietos/Aukštutinė pilis]]
-- Gediminas surenge_zygi_i [[objektai/vietos/Kijevas]]
-- Gediminas surenge_zygi_i [[objektai/vietos/Mazovija]]
-- Gediminas uzkariavo [[objektai/vietos/Vitebskas]]
-- Gediminas uzkariavo [[objektai/vietos/Volynė]]
-- [[objektai/asmenys/Jaunė (Jievna)]] buvo_zmona Gediminas
-- Gediminas puole [[objektai/vietos/Semba]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] buvo_sunus Gediminas
-- Gediminas buvo_sajungininkas_su [[objektai/grupes/Rygiečiai]]
-- Gediminas keliavo_i [[objektai/vietos/Severskas]]
-- Gediminas mire [[objektai/vietos/Bajerburgas]]
-- Gediminas mire [[objektai/vietos/Bajerburgo pilis]]
-- Gediminas puole [[objektai/vietos/Brandenburgo žemė]]
-- Gediminas puole [[objektai/vietos/Dobrynė]]
-- Gediminas puole [[objektai/grupes/Rusai]]
-- Gediminas reme [[objektai/grupes/Dominikonų ordinas]]
-- Gediminas reme [[objektai/asmenys/Vladislovas]]
-- Gediminas surenge_zygi_i [[objektai/vietos/Dobrynė]]
-- Gediminas uzeme [[objektai/vietos/Drohičinas]]
-- Gediminas uzeme [[objektai/vietos/Kijevo žemės]]
-- [[objektai/asmenys/Liubartas]] buvo_sunus Gediminas
-- [[objektai/asmenys/Vladislovas Lokietka]] buvo_sajungininkas_su Gediminas
-- Gediminas apgule [[objektai/vietos/Bajerburgas]]
-- Gediminas kariavo_pries [[objektai/grupes/Rusai]]
-- Gediminas kariavo_pries [[objektai/grupes/Totoriai]]
-- Gediminas mire [[objektai/vietos/Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė)]]
-- Gediminas reme [[objektai/asmenys/Vladislovas Lokietka]]
-- Gediminas uzeme [[objektai/vietos/Voluinė]]
-- Gediminas uzkariavo [[objektai/vietos/Severskas]]
-- Gediminas buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
-- Gediminas dalyvavo_musyje [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]
-- Gediminas kariavo_pries [[objektai/grupes/Krikščionys]]
-- Gediminas pastate [[objektai/vietos/Naugardukas]]
-- Gediminas puole [[objektai/vietos/Bajerburgas]]
-- Gediminas buvo_sajungininkas_su [[objektai/grupes/Lenkai]]
-- Gediminas reme [[objektai/grupes/Pranciškonų ordinas]]
-- Gediminas valde_miesta [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Naugardas]] priklause Gediminas
-- Gediminas sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Gediminas surenge_zygi_i [[objektai/vietos/Bajerburgas]]
-- Gediminas valde [[objektai/vietos/Kijevas]]
-- Gediminas keliavo_i [[objektai/vietos/Bajerburgas]]
-- Gediminas prekiavo_su [[objektai/vietos/Livonija]]
-- Gediminas reme [[objektai/grupes/Stačiatikiai]]
-- Gediminas siunte_i [[objektai/vietos/Europa]]
-- Gediminas valde_miesta [[objektai/vietos/Vyšgorodas]]
-- [[objektai/grupes/Kryžiuočių ordinas]] buvo_priesas Gediminas
-- Gediminas puole [[objektai/vietos/Rezeknės regionas]]
-- Gediminas siunte_i [[objektai/vietos/Mazovija]]
-- Gediminas gyne [[objektai/vietos/Veliuona]]
-- Gediminas kariavo_pries [[objektai/grupes/Auksinė Orda]]
-- Gediminas keliavo_i [[objektai/vietos/Luckas]]
-- Gediminas mire [[objektai/vietos/Veliuona]]
-- [[objektai/daiktai/Gedimino antspaudas]] priklause Gediminas
-- [[objektai/grupes/Naugardukiečiai]] reme Gediminas
-- [[objektai/grupes/Polockiečiai]] reme Gediminas
-- [[objektai/asmenys/Tomas Aldenburgas]] puole Gediminas
-- [[objektai/vietos/Vilnius]] priklause Gediminas
-- Gediminas gyne [[objektai/grupes/Lietuviai]]
-- Gediminas keliavo_i [[objektai/vietos/Vilnius]]
-- Gediminas puole [[objektai/vietos/Mozūrijos žemė]]
-- [[objektai/asmenys/Ditrichas iš Altenburgo]] puole Gediminas
-- Gediminas pastate [[objektai/vietos/Trakai]]
-- Gediminas valde [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Vitebskas]] priklause Gediminas
-- Gediminas puole [[objektai/vietos/Kulmas]]
-- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]] puole Gediminas
-- Gediminas buvo_palaidotas [[objektai/vietos/Veliuona]]
-- Gediminas siunte_i [[objektai/vietos/Lietuva]]
-- Gediminas siunte_i [[objektai/vietos/Livonija]]
-- Gediminas buvo_palaidotas [[objektai/vietos/Gedimino kalnas]]
-- Gediminas surenge_zygi_i [[objektai/vietos/Ovručas]]
-- [[objektai/grupes/Teutonai]] buvo_priesas Gediminas
+- [[objektai/asmenys/Teodoras]] buvo_brolis Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- [[objektai/asmenys/Aldona Gediminaitė]] buvo_dukte Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_brolis [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) gyveno [[objektai/vietos/Vilnius]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzeme [[objektai/vietos/Kijevas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzkariavo [[objektai/vietos/Kijevas]]
+- [[objektai/asmenys/Marija (Gedimino duktė)]] buvo_dukte Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_sunus Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzeme [[objektai/vietos/Brianskas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) apgule [[objektai/vietos/Vladimiras]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastate [[objektai/vietos/Vilniaus Aukštutinė pilis]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzeme [[objektai/vietos/Perejeslavlis]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) valde [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Marija]] buvo_dukte Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- [[objektai/asmenys/Aldona Ona]] buvo_dukte Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) gyveno [[objektai/vietos/Ariogala]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastate [[objektai/vietos/Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis)]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) sudare_sutarti_su [[objektai/asmenys/Lokietka]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzeme [[objektai/vietos/Luckas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_sajungininkas_su [[objektai/asmenys/Vladislovas Lokietka]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_valdovas [[objektai/grupes/Lietuviai]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_valdovas [[objektai/grupes/Rusai]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastate [[objektai/daiktai/Gedimino pastatytos pranciškonų ir dominikonų bažnyčios]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastate [[objektai/vietos/Vilnius]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Mazovija]]
+- [[objektai/grupes/Rygiečiai]] buvo_sajungininkas_su Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) keliavo_i [[objektai/vietos/Lietuva]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastate [[objektai/vietos/Aukštutinė pilis]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) surenge_zygi_i [[objektai/vietos/Kijevas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) surenge_zygi_i [[objektai/vietos/Mazovija]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzkariavo [[objektai/vietos/Vitebskas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzkariavo [[objektai/vietos/Volynė]]
+- [[objektai/asmenys/Jaunė (Jievna)]] buvo_zmona Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Semba]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] buvo_sunus Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_sajungininkas_su [[objektai/grupes/Rygiečiai]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) keliavo_i [[objektai/vietos/Severskas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) mire [[objektai/vietos/Bajerburgas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) mire [[objektai/vietos/Bajerburgo pilis]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Brandenburgo žemė]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Dobrynė]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/grupes/Rusai]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) reme [[objektai/grupes/Dominikonų ordinas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) reme [[objektai/asmenys/Vladislovas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) surenge_zygi_i [[objektai/vietos/Dobrynė]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzeme [[objektai/vietos/Drohičinas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzeme [[objektai/vietos/Kijevo žemės]]
+- [[objektai/grupes/Lietuvos ponai]] paskyre Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- [[objektai/asmenys/Liubartas]] buvo_sunus Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- [[objektai/asmenys/Vladislovas Lokietka]] buvo_sajungininkas_su Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) apgule [[objektai/vietos/Bajerburgas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) kariavo_pries [[objektai/grupes/Livonijos riteriai]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) kariavo_pries [[objektai/grupes/Rusai]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) kariavo_pries [[objektai/grupes/Totoriai]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) mire [[objektai/vietos/Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė)]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) reme [[objektai/asmenys/Vladislovas Lokietka]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzeme [[objektai/vietos/Voluinė]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) uzkariavo [[objektai/vietos/Severskas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) dalyvavo_musyje [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) kariavo_pries [[objektai/grupes/Krikščionys]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastate [[objektai/vietos/Naugardukas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Bajerburgas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_sajungininkas_su [[objektai/grupes/Lenkai]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) reme [[objektai/grupes/Pranciškonų ordinas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) valde_miesta [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Naugardas]] priklause Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) surenge_zygi_i [[objektai/vietos/Bajerburgas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) valde [[objektai/vietos/Kijevas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) keliavo_i [[objektai/vietos/Bajerburgas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) prekiavo_su [[objektai/vietos/Livonija]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) reme [[objektai/grupes/Stačiatikiai]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) siunte_i [[objektai/vietos/Europa]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) valde_miesta [[objektai/vietos/Vyšgorodas]]
+- [[objektai/grupes/Kryžiuočių ordinas]] buvo_priesas Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Rezeknės regionas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) siunte_i [[objektai/vietos/Mazovija]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) gyne [[objektai/vietos/Veliuona]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) kariavo_pries [[objektai/grupes/Auksinė Orda]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) keliavo_i [[objektai/vietos/Luckas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) mire [[objektai/vietos/Veliuona]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) pastate [[objektai/vietos/Trakai]]
+- [[objektai/daiktai/Gedimino antspaudas]] priklause Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- [[objektai/asmenys/Manvydas]] buvo_sunus Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- [[objektai/grupes/Naugardukiečiai]] reme Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- [[objektai/grupes/Polockiečiai]] reme Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- [[objektai/asmenys/Tomas Aldenburgas]] puole Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- [[objektai/vietos/Vilnius]] priklause Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) gyne [[objektai/grupes/Lietuviai]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) keliavo_i [[objektai/vietos/Vilnius]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Mozūrijos žemė]]
+- [[objektai/asmenys/Ditrichas iš Altenburgo]] puole Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_brolis [[objektai/asmenys/Gvaželutis]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) paskyre [[objektai/asmenys/Krunevičius]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) valde [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/Vitebskas]] priklause Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) puole [[objektai/vietos/Kulmas]]
+- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]] puole Gediminas (Lietuvos didysis kunigaikštis, XIV a.)
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_palaidotas [[objektai/vietos/Veliuona]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) siunte_i [[objektai/vietos/Lietuva]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) siunte_i [[objektai/vietos/Livonija]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) buvo_palaidotas [[objektai/vietos/Gedimino kalnas]]
+- Gediminas (Lietuvos didysis kunigaikštis, XIV a.) surenge_zygi_i [[objektai/vietos/Ovručas]]
+- [[objektai/grupes/Teutonai]] buvo_priesas Gediminas (Lietuvos didysis kunigaikštis, XIV a.)

@@ -3,6 +3,7 @@ tipas: autorius
 pavadinimas: 'Miechovita'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1382 m.'
   - '1393 m.'
@@ -10,13 +11,13 @@ date_start: '1382'
 date_end: '1393'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
-  - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - autorius
+  - ordinas
 ---
 # Miechovita
 
@@ -25,7 +26,6 @@ periodo_grupes:
 22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s klysta sakyda­ mi, esą žygio vadovavimas buvo pa­ vestas Konradui Valenrodui, kurį jau tuo metu vadina didžiuoju ma­ gistru, kai Konradas Valenrodas 1382 metais, sekmadienį prieš Šv.
 
 ## Teiginiai
-
 <a id="claim-t-88096"></a>
 - t-001
   global_id: t-88096
@@ -47,10 +47,28 @@ periodo_grupes:
   ryšio_subjekto_parinkimas: Miechovita: owner_note_path, author, gap=0
   ryšio_targeto_parinkimas: Konradas Valenrodas: mention_match, person, gap=65
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Miechovita" parinktas kaip owner_note_path. Targetas "Konradas Valenrodas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188450"></a>
+- t-002
+  global_id: t-188450
+  teiginys: 'Narbutas cituoja Miechovitą, kuris prūsus vertino kaip sugedusią tautą dėl miškų, paukščių ir žvėrių laikymo šventais.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 453621-454382; hash=0ddc2caab7f3d81f976931ccabfe7aedf83d8bcdac4dbd6c4fa4d81a7085dc38; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Miechovita: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, group, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Miechovita" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Augsburgas: Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518 m.
 - susijęs iš [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos.md#claim-t-186822|Kryžiuočių kariuomenės dalių vėliavos]]: Bychovco kronikoje teigiama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -91,3 +109,27 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Narbutas cituoja Miechovitą, kuris prūsus vertino kaip sugedusią tautą dėl miškų, paukščių ir žvėrių laikymo šventais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tas pats pastebima lietuvių mitologijoje; šventi buvo ištisi
+    miško plotai, kur stovėjo aukurai ir šventyklos, žinoma, visuo­
+    met prie upių, dažniausiai dviejų didesnių upių santakoje.
+    Miškelių garbinimas buvo taip sureikšmintas, kad juose
+    jokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­
+    čius, bet jie dar buvo persekiojamų žmonių prieglobstis; pasi­
+    slėpę toje šventoje vietoje, jie išsivaduodavo nuo persekioji­
+    mo, kadangi visos ten esančios būtybės, taip pat medžiai ir
+    augalai dėl griežto pamaldumo buvo laikomi šventais ir nelie­
+    čiamais. Miechovita3 sako: „Prūsų tauta buvo taip sugedusi,
+    kad ne tik miškai, bet ir juose gyvenantys paukščiai ir žvėrys
+    buvo laikomi šventais, o tų žvėrių užmušėjams velnių galybė
+    susukdavo kojas ir rankas“.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002

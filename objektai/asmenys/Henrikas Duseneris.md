@@ -37,7 +37,7 @@ tags:
   ryšio_targeto_parinkimas: Bajerburgas: llm_allowed_candidate, place
   ryšio_paaiskinimas: Citatos kontekste Gediminas puola Bajerburgo tvirtovę, po ko minima jos apsuptis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178790|Kryžiuočių ordinas]]: Per Bajerburgo apsuptį Ordino maršalas Henrikas Duseneris ir Reino palatinas atvyko į pagalbą apsuptiesiems.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
 - susijęs iš [[objektai/asmenys/Tilemannas Zunpachas.md#claim-t-87868|Tilemannas Zunpachas]]: Kryžiuotis Tilemannas Zunpachas, šaulių vadas, ugniniu šūviu mirtinai sužeidė Gediminą.
 ## Reikšmingi paminėjimai
 

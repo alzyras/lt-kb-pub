@@ -330,8 +330,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - susijęs iš Zajączkowski S. Kaip jotvingiai buvo vadinami viduriniais amžiais: S. Zajączkowskio straipsnis „Kaip jotvingiai buvo vadinami viduriniais amžiais“ paskelbtas 1940 m. leidinio „Lietuvos praeitis“ 1 tomo 1 sąsiuvinyje.
 - susijęs iš Jotvingija: 1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.
 - susijęs iš [[objektai/asmenys/Albertas (Rygos vyskupas).md#claim-t-09984|Albertas (Rygos vyskupas)]]: Rygos vyskupas Albertas nugalėjo Visvaldį.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/daiktai/Arbaletai.md#claim-t-186830|Arbaletai]]: Lietuvos metraštyje pasakojama, kad prieš vokiečius išjoję Mindaugo kariai buvo ginkluoti arbaletais.
 - susijęs iš [[objektai/daiktai/Strėlės.md#claim-t-186831|Strėlės]]: Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad rusai ir poloviečiai šiame susirėmime jodinėjo su strėlėmis; Šiame gabale strėlės minimos kaip atskira kovinė priemonė.
 - susijęs iš [[objektai/daiktai/Trumpos ietys.md#claim-t-186832|Trumpos ietys]]: Lietuvos metraščio pasakojime jotvingiai susirėmime prieš vokiečius jodinėjo su trumpomis ietimis.

@@ -3,21 +3,22 @@ tipas: asmuo
 pavadinimas: 'Anzelmas (vyskupas, XIII a.)'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1254 m.'
 date_start: '1254'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 tags:
   - asmuo
   - karvedys
   - kunigaikštis
   - valdovas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 ---
 # Anzelmas (vyskupas, XIII a.)
 
@@ -26,19 +27,37 @@ periodo_grupes:
 Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną. Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus.
 
 ## Teiginiai
-
 <a id="claim-t-60084"></a>
 - t-001
   global_id: t-60084
   teiginys: 'Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Brunsbergas; mentioned_place: Brunsbergas; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Varmė'
+  susije_objektai: 'llm_object: Brunsbergas; mentioned_place: Brunsbergas; mentioned_place: Upės (Oppen) kaimas; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Varmė'
   semantiniai_rysiai: '[[objektai/asmenys/Anzelmas|Anzelmas]] pastatė Brunsbergas'
   pagrindžia:
     - c-001
 
+<a id="claim-t-188513"></a>
+- t-002
+  global_id: t-188513
+  teiginys: 'Pasak Narbuto cituojamo Treterio, Varmijos vyskupas Anzelmas įsakė nukirsti ąžuolą, prie kurio žmonės garbino dievus.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 406496-407131; hash=4dac4b5a48bb8b88b9f32d0c823dbdf2bc81cf7c7186e50988fcaae228085d71; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: pastate -> Brunsbergas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anzelmas (vyskupas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Brunsbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai teigia, kad Anzelmas pastatė Brunsbergo pilį ir miestą.
+- susijęs iš [[objektai/daiktai/Heiligenbeilio kirvis.md#claim-t-189721|Heiligenbeilio kirvis]]: Narbutas pasakojo, kad Heiligenbeilio kirvis atšoko nuo švento ąžuolo kamieno ir mirtinai sužeidė žmogų, kai vyskupas Anzelmas liepė ąžuolą nukirsti.
+- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio šventojo miško kirtimas.md#claim-t-189627|Jeronimo Prahiškio šventojo miško kirtimas]]: Narbutas pasakoja, kad šventojo miško viduryje žmonės kurį laiką nedrįso paliesti seniausio medžio, laikyto dievų buveine.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -59,6 +78,29 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Pasak Narbuto cituojamo Treterio, Varmijos vyskupas Anzelmas įsakė nukirsti ąžuolą, prie kurio žmonės garbino dievus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Varmijos vyskupų biografas Trete-
+    ris sako: „Toje vietoje, kur yra Heiligenbeilis, augo milžiniš­
+    kas ąžuolas, kuris tiek vasarą, tiek žiemą žaliavo (be abejo,
+    velnio pastangomis).
+    Sunaikinus Kurko šventyklą, tas ąžuolas dar stovėjo, ir pa­
+    prasti žmonės, nepaisydami Varmijos vyskupo Anzelmo pa­
+    mokslų ir pamokymų, nesiliovė po juo garbinti dievų. Tad, kai
+    vyskupas įsakė ąžuolą nukirsti, atsitiko taip, jog kirvis, atšokęs
+    nuo kamieno, mirtinai sužeidė žmogų, todėl krikščionys ne­
+    bedrįso jo liesti, kol pats vyskupas, paėmęs į rankas kirvį, ne­
+    pradėjo vadovauti kirtimui, tačiau ir šiaip be ugnies nepajėgta
+    susidoroti su ąžuolu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 - Anzelmas (vyskupas, XIII a.) pastate [[objektai/vietos/Brunsbergas]]

@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Senieji Trakai'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1978 m.'
@@ -53,7 +54,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-71966"></a>
 - t-001
   global_id: t-71966
@@ -91,8 +91,26 @@ Nenurodyta
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=38
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senieji Trakai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
-## Reikšmingi paminėjimai
+<a id="claim-t-71968"></a>
+- t-003
+  global_id: t-71968
+  teiginys: 'Narbutas Senųjų Trakų miesto skydą aprašo kaip kryžių, einantį beveik per visą trečiąjį skydą dešinėje nuo kunigaikščio.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 732548-733024; hash=4e2cf3940433e6bdd613d3dd9b4992a65d104b3fd26ed5e3361eb16b00d49982; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Senieji Trakai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senieji Trakai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -110,3 +128,23 @@ Nenurodyta
     - t-002
     - t-003
     - t-001
+- c-002
+  santrauka: 'Narbutas Senųjų Trakų miesto skydą aprašo kaip kryžių, einantį beveik per visą trečiąjį skydą dešinėje nuo kunigaikščio.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Antrame
+    skyde -  bėgantis lokys, nugręžtas į dešiniąją skydo pusę; tai
+    tėvoninės Žemaičių kunigaikštystės herbas. Trečiame skyde, į
+    dešinę nuo kunigaikščio, yra kryžius, einantis beveik per visą
+    skydą; šis skydas priklauso Senųjų Trakų miestui . Ketvirta­
+    me skyde -  visu ūgiu stovintis šarvuotas riteris su smailiaviršiu
+    šalmu ant galvos; dešine ranka jis remiasi į nulaužtą medžio
+    kamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, lai­
+    ko kažką panašaus į pasagą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

@@ -4,18 +4,21 @@ pavadinimas: 'Aukaimis'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1357 m.'
+  - '1414 m.'
 date_start: '1357'
-date_end: ''
+date_end: '1414'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XV'
 tags:
   - pilis
   - vieta
-amziai:
-  - 'XIV'
 ---
 # Aukaimis
 
@@ -24,7 +27,6 @@ amziai:
 Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­ kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­ šui padegus pilį, turėję pasiduoti.
 
 ## Teiginiai
-
 <a id="claim-t-67659"></a>
 - t-001
   global_id: t-67659
@@ -85,6 +87,25 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   ryšio_subjekto_parinkimas: Aukaimis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Aukaimio pilis (pilis): mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukaimis" parinktas kaip owner_note_path. Targetas "Aukaimio pilis (pilis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188669"></a>
+- t-004
+  global_id: t-188669
+  teiginys: 'Narbutas rašo, kad Aukaimio kaime slapstėsi vyriausiasis žynys Gintautas, miręs 1414 m. liepos 28 d., ir su juo baigėsi lietuvių stabmeldystė.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 775518-776410; hash=11cc599f8f4e967b8ab9aa378d5510d5203c0973728832ad1c6926def6a716d6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aukaimis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukaimis" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Folradas.md#claim-t-60116|Folradas]]: Ragainės komtūras Folradas, gavęs Draikos prašymą, su kariuomene patraukė prieš Aukaimio pilį.
 - susijęs iš [[objektai/daiktai/Pilies vartai.md#claim-t-59700|Pilies vartai (pilis, XIV a.)]]: Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.
 - susijęs iš [[objektai/ivykiai/Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis.md#claim-t-183921|Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis (pilis, XIII a.)]]: 1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė.
@@ -129,6 +150,7 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - susijęs iš [[objektai/zodynas/vora.md#claim-t-184651|vora]]: Girdila pasisiūlė siaurais miškų takais vesti kareivių voras, kad netikėtai užkluptų Aukaimio pilį.
 - susijęs iš [[objektai/asmenys/Draika.md#claim-t-184694|Draika]]: Aukaimio pilies viršininkas Draika pradėjo linkti į krikščionių tikėjimą.
 - susijęs iš [[objektai/asmenys/Draika.md#claim-t-60109|Draika]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
+- susijęs iš [[objektai/asmenys/Gintautas.md#claim-t-190067|Gintautas]]: Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mirė 1414 m. liepos 28 d. ir buvęs 74-asis eilėje.
 - susijęs iš [[objektai/asmenys/Girdila.md#claim-t-60124|Girdila]]: 1285 m. skalvis Girdila, prieš atsivertimą gerbtas saviškių, pasigyrė galįs su šimtu ginkluotų vyrų pridaryti lietuviams žalos.
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59915|Henrikas Cutsvertas]]: Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.
 - susijęs iš [[objektai/asmenys/Jonas Liuksemburgietis.md#claim-t-30310|Jonas Liuksemburgietis]]: 1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.
@@ -162,6 +184,7 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-58883|pilėnas]]: 1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams.
 - susijęs iš [[objektai/zodynas/stabų garbinimas stabmeldystė.md#claim-t-58925|stabų garbinimas stabmeldystė]]: 1301 m. Aukaimio pilėnas Draika panoro išsižadėti stabų garbinimo ir per sūnų Piną paprašė Ragainės komtūro Folrado pagalbos.
 - susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-58880|villa kaimas sodžius]]: Sodžių, tiek ir vieno kiemo nobilio gyvenvietę.
+- susijęs iš [[objektai/asmenys/Gintautas.md#claim-t-190067|Gintautas]]: Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mirė 1414 m. liepos 28 d. ir buvęs 74-asis eilėje.
 - susijęs iš [[objektai/daiktai/Pilies vartai.md#claim-t-59700|Pilies vartai (pilis, XIV a.)]]: Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.
 - susijęs iš [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.).md#claim-t-66824|Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]: Draikai slapta atidarius Aukaimio pilies vartus, broliai įsiveržė, beveik visus išžudė, moteris ir vaikus paėmė į nelaisvę ir sudegino pilį su papiliu.
 - susijęs iš [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.).md#claim-t-66824|Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]: Draikai slapta atidarius Aukaimio pilies vartus, broliai įsiveržė, beveik visus išžudė, moteris ir vaikus paėmė į nelaisvę ir sudegino pilį su papiliu.
@@ -169,7 +192,6 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102841|Dusburgas]]: Dusburgo kronikoje Junigėda pirmą kartą paminėta aprašant 1291 m. puolimą.
 - susijęs iš [[objektai/paprociai/Burtų metimas prieš karo išpuolį.md#claim-t-62110|Burtų metimas prieš karo išpuolį]]: Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės, todėl tuojau pasuko atgal.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -228,12 +250,39 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Narbutas rašo, kad Aukaimio kaime slapstėsi vyriausiasis žynys Gintautas, miręs 1414 m. liepos 28 d., ir su juo baigėsi lietuvių stabmeldystė.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
+    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
+    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
+    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
+    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
+    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
+    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
+    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
+    nių apeigų papročių, vienodų su jų lietuvių apeigomis. Smun­
+    kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai -  pir­
+    miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
+    liau Žemaitijoje. Tenai, Aukaimio kaime, dar slapstėsi vyriau­
+    siasis žynys Gintautas, kurio gyvenimas nutrūko 1414 metų
+    liepos 28 dieną; jis buvo 74-asis iš eilės ir su juo baigėsi lietu­
+    vių stabmeldystė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 - [[objektai/asmenys/Folradas]] puole Aukaimis
 - [[objektai/asmenys/Girdila]] keliavo_i Aukaimis
 - [[objektai/grupes/Kryžiuočių ordinas]] puole Aukaimis
 - [[objektai/asmenys/Henrikas iš Dobino]] puole Aukaimis
+- [[objektai/asmenys/Gintautas]] mire Aukaimis
 - [[objektai/grupes/Kryžiuočių ordinas]] uzeme Aukaimis
 - [[objektai/asmenys/Draika]] gyveno Aukaimis
 - [[objektai/grupes/Lietuviai]] keliavo_i Aukaimis

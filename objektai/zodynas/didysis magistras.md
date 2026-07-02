@@ -202,7 +202,6 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 - susijęs iš [[objektai/asmenys/Zinnenbergas.md#claim-t-87893|Zinnenbergas]]: 1323 metų pradžioje riteriai Zinnenbergas ir Egerbergas atvyko su stipriu kilmingų karių ir vasalų pulku.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179696|Švitrigaila]]: Didysis magistras apstatė Švitrigailą savo parankiniais, siekdamas silpninti Lietuvos ir Lenkijos vienybę.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183852|Žygimantas Augustas (arkivyskupas, XVI a.)]]: 1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje.
-- susijęs iš [[objektai/autoriai/Ignacas Onacevičius.md#claim-t-81904|Ignacas Onacevičius]]: Ignacas Onacevičius pateikė pastabų, kuriomis M. Balinskis rėmėsi taisydamas žygio į Vilnių aprašymą.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172916|M. Strijkovskis Stryjkowski]]: Stryjkowskis nurodė, kad Švitrigaila piliai užimti pasinaudojo rusų vienuolių, vadintų čiornais, išdavyste.
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86990|Laivai, valtys, sieliai ir plaustai]]: Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179483|Laivai]]: Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.

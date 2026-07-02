@@ -119,7 +119,7 @@ amziai:
 - susijęs iš [[objektai/asmenys/Frydrichas fon Valenrodas.md#claim-t-40112|Frydrichas fon Valenrodas]]: Frydrichas fon Valenrodas kariuomenei išsirikiavus mūšio lauke vadovavo kairiajam sparnui.
 - susijęs iš [[objektai/asmenys/Gadikas.md#claim-t-184066|Gadikas]]: Gadikas buvo Notangos žemės pakraščio vadas, nužudytas kartu su dviem sūnumis ir daugybe kitų žmonių.
 - susijęs iš [[objektai/asmenys/Gadikas.md#claim-t-60281|Gadikas]]: Gadikas buvo Notangos žemės pakraščio vadas, nužudytas kartu su dviem sūnumis ir daugybe kitų žmonių.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176340|Gediminas]]: Balińskis darė išvadą, kad Gedimino vardu naudotas antspaudas nebuvo tikras ir buvo suklastotas.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176340|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis darė išvadą, kad Gedimino vardu naudotas antspaudas nebuvo tikras ir buvo suklastotas.
 - susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89792|Glapas]]: Varmių vadas Glapas, gavęs pabėgusios prūsės pranešimą, su daugybe karių atvyko ir užėmė pilį.
 - susijęs iš [[objektai/asmenys/Hartmanas iš Heldrungeno.md#claim-t-59967|Hartmanas iš Heldrungeno]]: Hartmanas iš Heldrungeno buvo didysis magistras, broliu tapęs prieš 1237 m. ir miręs 1282 m.
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59915|Henrikas Cutsvertas]]: Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.

@@ -37,6 +37,8 @@ Tai vadinamoji šventoji namų ugnelė, arba gabija.
 - susijęs iš [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė.md#claim-t-10816|Aisčių ugnies kultas ir šventoji namų ugnelė]]: Namų židinyje nuolat kūrenama šventoji namų ugnelė buvo vadinama gabija.
 - susijęs iš [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje.md#claim-t-54485|Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]: Šventaragio slėnyje iki krikščioniškojo tikėjimo įvedimo degė Gabija vadinta amžinoji ugnis Perkūno garbei.
 - susijęs iš Šventaragio slėnis: Šventaragio slėnyje, kur dabar stovi katedra, iki krikščionybės įvedimo degė amžinoji ugnis Gabija Perkūno garbei.
+- susijęs iš [[objektai/zodynas/Gabija ir sudėtinės formos.md#claim-t-189148|Gabija ir sudėtinės formos]]: Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenantį židinį.
+- susijęs iš [[objektai/zodynas/Pelenų Gabija Moterų Gabija.md#claim-t-189270|Pelenų Gabija Moterų Gabija]]: Narbutas Pelenų Gabiją (Polengabia) apibūdino kaip besikūrenantį židinį globojusią ir nuo gaisrų saugojusią deivę.
 ## Reikšmingi paminėjimai
 
 - c-001

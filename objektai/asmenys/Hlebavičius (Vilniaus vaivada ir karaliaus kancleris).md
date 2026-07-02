@@ -64,6 +64,7 @@ Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilij
 - susijęs iš Vilnius: Rengiantis 1579 m. žygiui Vilniuje buvo įsteigta patrankų liejykla.
 - susijęs iš Vilnius: Stepono Batoro laikais Vilniuje gerokai išaugo spaustuvių skaičius.
 - susijęs iš Vilnius: Rengiant 1579 m. karo žygį Vilniuje buvo įsteigta patrankų liejykla.
+- susijęs iš Vilnius: Narbutas rašė, kad XVII a. pradžioje jėzuitai greta Vilniaus esančio kaimo mokykloje ant mokinio kaklo pastebėjo maišelį.
 - susijęs iš [[objektai/zodynas/tenuta laikytojas.md#claim-t-86575|tenuta laikytojas]]: 1503 m. Vilniuje duotame rašte Stanislovas Hlebavičius minimas kaip Polocko laikytojas, o Albertas Janavičius - kaip Kauno laikytojas.
 - susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188015|Bazilijonų ordinas]]: Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.
 ## Reikšmingi paminėjimai

@@ -60,6 +60,7 @@ Nenurodyta
   ryšio_paaiskinimas: Citata sako, kad pilys buvo pastatytos užkariautose Prūsijos žemėse; leistinas ryšys sieja pilis su Prūsija.
 - susijęs iš [[objektai/daiktai/Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai.md#claim-t-64923|Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai]]: Vytauto laikų gotikinę gynybinę architektūrą liudijo mūrinės pilys Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.
 - susijęs iš [[objektai/asmenys/Burchardas iš Magdeburgo.md#claim-t-60097|Burchardas iš Magdeburgo]]: Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188526|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad 1329 m. Lietuvos didysis kunigaikštis Gediminas, puldamas vieną iš kryžiuočių pilių, buvo nukautas šaunamuoju ginklu.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
 - susijęs iš [[objektai/asmenys/Laukstetas.md#claim-t-60374|Laukstetas]]: Laukstetų pilies vardas kildinamas iš ten gyvenusio sembo, vadinamo Laukstetu, vardo.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-183576|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas įsakė žemaičiams puldinėti Ordino pilis, kad pridengtų jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį.
@@ -86,6 +87,7 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika.md#claim-t-62704|Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika]]: Marienverderio ir Kristmemelio pilys Dusburgiečio pasakojime siejamos su keliu į netikėlių žemes ir krikščionių žemių plėtra.
 - susijęs iš [[objektai/posakiai/Lietuvių žemėse patį pavojingiausią miestą.md#claim-t-86862|Lietuvių žemėse patį pavojingiausią miestą]]: Sename vokiečių pranešime Vilnius vadintas lietuvių žemėse pavojingiausiu miestu, kuriame buvo trys įgulų saugomos pilys.
 - susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Narbuto pasakojime pagal 1331 m. rugsėjo 17 d. sutartį prie Bartenšteino buvo sunaikintos Fridburgo ir Bajerburgo pilys.
+- susijęs iš 1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino: Pagal 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino, Fridburgo ir Bajerburgo pilys buvo sunaikintos.
 - susijęs iš Vokiečių ordino pilys Kauno apylinkėje: K. Wagnerio „Vokiečių ordino pilys Kauno apylinkėje“ paskelbta „Naujojoje Romuvoje“ 1933 m., Nr. 107.
 - susijęs iš Angerburgas: Angerburgo pilis minima tarp Lietuvai artimesnių pilių, įkurtų 1335 metais.
 - susijęs iš Auktalitas: 1256 m. Karaliaučiaus komtūras Vonsdorfo žemėje apsupo, užėmė ir iki pamatų sudegino Auktalito pilį.
@@ -117,6 +119,7 @@ Nenurodyta
 - susijęs iš Trakai: 1377 m. birželio pabaigoje pakeliui į Vilnių buvo sudegintas Trakų miestas, bet pilys dėl Kęstučio gynybos neužimtos.
 - susijęs iš Trakai: Vytautas su žemaičiais ir Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė.
 - susijęs iš Trakų salos pilis (pilis): Trakų salos pilis buvo baigta statyti 1409 m.
+- susijęs iš Veliuonos pilis (pilis): 1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė Veliuonos pilį.
 - susijęs iš Vilnius: Sename pranešime Vilnius vadintas pavojingiausiu lietuvių žemių miestu, kuriame buvo trys įgulos saugomos pilys.
 - susijęs iš Vėluva: Vėluvos ir Angerburgo pilys nurodytos kaip įkurtos 1335 metais.
 - susijęs iš Žemaitija: Gedimino laikais Žemaitijoje tik šen bei ten stovėjo vienišos feodalinių kunigaikščių ir bajorų pilys bei gynybinės gyvenvietės.
@@ -125,6 +128,7 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184635|pilėnas]]: Bisenės užpuolimą pilėnai narsiai atrėmė, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.
 - susijęs iš [[objektai/asmenys/Andrejus Možaiskis.md#claim-t-186176|Andrejus Možaiskis]]: Andrejus Možaiskis kartu su Jakovu Zachariničiumi ir Andrejumi Šemiačičiumi vedė priešo pajėgas į Severską.
 - susijęs iš [[objektai/asmenys/Andriejus Šemiačičius.md#claim-t-186177|Andriejus Šemiačičius]]: Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu vedė priešo pajėgas į Severską.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176361|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Šv. Kryžiaus ir dominikonų bažnyčių griuvėsiai Vilniuje buvo laikomi Gedimino palankumo krikščionybei atminimu.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184709|Goštautas (vyskupas, XV a.)]]: Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.
 - susijęs iš [[objektai/asmenys/Jakovas Zachariničius.md#claim-t-186213|Jakovas Zachariničius]]: Jakovas Zachariničius kartu su Andrejumi Možaiskiu ir Andrejumi Šemiačičiumi vedė priešo pajėgas į Severską.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184801|Mykolas Glinskis]]: Pagal sutarties sąlygas Mykolas Glinskis turėjo likti Maskvos kunigaikštystėje kaip tremtinys be vilties sugrįžti.
@@ -157,6 +161,7 @@ Nenurodyta
 - susijęs iš Kernavė: H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę.
 - susijęs iš Lietuva: Lietuvoje miestai kūrėsi tada, kai aukštesnieji kunigaikščiai jau buvo įtvirtinę savo viršenybę.
 - susijęs iš Lietuva: Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą ir pasiekė Trakus.
+- susijęs iš Lietuva: Narbutas rašė, kad lietuvių genties ikijungtuviniai papročiai skyrėsi pagal tautą, vietos aplinkybes ir laiką.
 - susijęs iš Lochštetė: Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą.
 - susijęs iš Naugardukas: 1044 m. Jaroslavas įkūrė Naugarduką, turbūt dar lietuvių gyvenamoje žemėje.
 - susijęs iš Naugardukas: 1044 m. Jaroslavo įkurtas Naugardukas, turbūt, buvo dar lietuvių gyvenamoje žemėje.

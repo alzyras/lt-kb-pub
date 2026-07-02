@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1389 m.'
@@ -18,13 +19,13 @@ date_start: '1389'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 tags:
   - pilis
   - valdovas
   - vieta
-amziai:
-  - 'XIV'
-  - 'XXI'
 ---
 # Vilniaus katedra
 
@@ -33,7 +34,6 @@ amziai:
 Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas katedros rūsyje, po šv. Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą; bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas. Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo 1610 m. gaisro.
 
 ## Teiginiai
-
 <a id="claim-t-110146"></a>
 - t-001
   global_id: t-110146
@@ -370,6 +370,25 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   ryšio_subjekto_parinkimas: Vilniaus katedra: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=18
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus katedra" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188858"></a>
+- t-021
+  global_id: t-188858
+  teiginys: 'Pasak Narbuto perteikiamo Strijkovskio, Vilniaus katedroje po didžiuoju altoriumi buvo koplyčia, kur laikytos gyvatės.'
+  pagrindžia:
+    - c-017
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 342092-342425; hash=8764ce27956a4b27f5fcce065b58f0dd0d7ad44b2ebce84196234adb64cd29f6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Altorius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus katedra: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Altorius: mention_match, thing, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus katedra" parinktas kaip owner_note_path. Targetas "Altorius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Dambrava: Dambravos kaimas prie Vilniaus buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra.
 - susijęs iš Vilniaus albumas: J. K. Vilčinskio „Vilniaus albume“ pavaizduota Vilniaus katedra.
 - susijęs iš Bokštai: Bokštai buvo tarp valdų, kuriomis iškilmingu dovanojimo aktu buvo aprūpinta Vilniaus katedra.
@@ -386,7 +405,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - susijęs iš Bokštai: Bokštai buvo tarp valdų, kuriomis iškilmingu dovanojimo aktu buvo aprūpinta Vilniaus katedra.
 - susijęs iš Labanoras: Labanoro kaimas buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -718,6 +736,24 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+- c-017
+  santrauka: 'Pasak Narbuto perteikiamo Strijkovskio, Vilniaus katedroje po didžiuoju altoriumi buvo koplyčia, kur laikytos gyvatės.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Gyvatė (Giwojte)
+    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
+    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
+    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
+    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
+    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
+    riumi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-021
 
 ## Ryšiai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Vilniaus katedra

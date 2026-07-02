@@ -8,10 +8,6 @@ datos:
   - '1864 m.'
 date_start: '1863'
 date_end: '1864'
-variantai:
-  - 'Narbutų šeimos represavimas po 1863 m. sukilimo'
-aliases:
-  - 'Narbutų šeimos represavimas po 1863 m. sukilimo'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -47,23 +43,26 @@ M. Muravjovas siekė ištremti Narbutų šeimą, o Rusijos valdžia sekvestravo 
 Knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią.
 
 ## Teiginiai
-
-<a id="claim-t-187970"></a>
-- t-001
-  global_id: t-187970
+- t-004
   teiginys: 'Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Išskleista, kad kalbama apie Narbutų šeimos turtą po dvaro sekvestravimo. Nepalikta pasakojamo epizodo apie sargą ir rublio mokestį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Narbutai|Narbutai]]; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Šaurų dvaras; mentioned_person: [[objektai/asmenys/Michailas Muravjovas|Michailas Muravjovas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Sibiras; llm_object: Rusija'
-  temporaliniai_duomenys: 'priklausymo laikotarpis: 1864 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Šaurų dvaras priklausė Rusija“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Išskleista, kad kalbama apie Narbutų šeimos turtą po dvaro sekvestravimo. Nepalikta pasakojamo epizodo apie sargą ir rublio mokestį.'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 19775-20234; hash=bb4e1f15b61e8c0b957d965ab3d148da7a6bc898380c836e7f6d6be176416bf5; match=exact
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: priklause -> Šaurų dvaras: 0.62
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Narbutai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šaurų dvaras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas nurodo Narbutų šeimos turtą po Šaurų dvaro sekvestravimo; ryšys su dvaru remiamas kontekstu, bet pats priklausymas pasakytas netiesiogiai.
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­
@@ -74,13 +73,14 @@ Knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažny
     natus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­
     ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
     ir rankraščius išgabenti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
+
 ## Data ir vieta
 
 Laikotarpis siejamas su 1863 m. sukilimo slopinimu ir 1864 m. lapkričio 26 d. T. Narbuto mirtimi.

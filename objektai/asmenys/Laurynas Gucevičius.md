@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Laurynas Gucevičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1769 m.'
   - '1786 m.'
@@ -10,14 +11,14 @@ date_start: '1769'
 date_end: '1786'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - kraštas
-  - sukilimas
 amziai:
   - 'XVIII'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - kraštas
+  - sukilimas
 ---
 # Laurynas Gucevičius
 
@@ -26,7 +27,6 @@ periodo_grupes:
 Žymiausias Lietuvos klasicizmo kūrėjas lietuvis Laurynas Gucevičius (1753–1798) 1782 m. pradėjo Vilniaus katedros, o 1786 m. – Vilniaus rotušės rekonstrukciją. Gucevičius, T.
 
 ## Teiginiai
-
 <a id="claim-t-19102"></a>
 - t-001
   global_id: t-19102
@@ -67,11 +67,29 @@ periodo_grupes:
   ryšio_subjekto_parinkimas: Laurynas Gucevičius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=46
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laurynas Gucevičius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188577"></a>
+- t-003
+  global_id: t-188577
+  teiginys: 'Narbutas rašo, kad Šulcas tarp mirusio architekto Lauryno Gucevičiaus popierių aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 234075-234373; hash=62336b16c123bb047f7fd81231523a82f00c382415b0c1c12b98bb69a22de6f4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Laurynas Gucevičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laurynas Gucevičius" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/T. Kosciuškos sukilimas.md#claim-t-77916|T. Kosciuškos sukilimas]]: Tado Kosciuškos sukilimo metu Laurynas Gucevičius tapo Vilniaus gvardijos vadu.
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-66434|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: Laurynas Gucevičius per Tado Kosciuškos sukilimą tapo Vilniaus gvardijos vadu.
 - susijęs iš [[objektai/ivykiai/Vilniaus katedros ir Vilniaus rotušės rekonstrukcijos.md#claim-t-77889|Vilniaus katedros ir Vilniaus rotušės rekonstrukcijos]]: Laurynas Gucevičius 1782 m. pradėjo Vilniaus katedros, o 1786 m. – Vilniaus rotušės rekonstrukciją.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Laurynas Gucevičius buvo žymiausias Lietuvos klasicizmo kūrėjas ir 1782 m. pradėjo Vilniaus katedros, o 1786 m. Vilniaus rotušės rekonstrukciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -105,3 +123,20 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-003
+  santrauka: 'Narbutas rašo, kad Šulcas tarp mirusio architekto Lauryno Gucevičiaus popierių aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Petro vienuolyno vietoje, stovė­
+    jusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­
+    teto architektūros profesorius ponas Šulcas tarp mirusio ar­
+    chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
+    tinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­
+    kimumu neabejota.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

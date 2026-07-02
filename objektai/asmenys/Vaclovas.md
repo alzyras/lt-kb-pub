@@ -102,6 +102,7 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
 - susijęs iš [[objektai/asmenys/Vengrijos Zigmantas.md#claim-t-30408|Vengrijos Zigmantas]]: Vengrijos Zigmantas siūlėsi tarpininkauti ir galėjo tapti rimtu kryžiuočių sąjungininku.
 - susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87381|Zigmantas (Romos imperatorius)]]: Imperatorius Zigmantas ir didysis magistras siekė nutraukti Lietuvos ir Lenkijos sąjungą, tačiau jų sumanymai žlugo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179255|Lietuviai]]: 1300 m. šeši tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami, imdami belaisvius ir degindami turtą.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190599|Lietuviai]]: Narbutas rašė, kad lietuvių laidotuvių giesmės vadinamos raudomis ir skambėjo visose lietuvių genties tautose.
 - susijęs iš [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.).md#claim-t-97031|Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]: Po Prahos sprendimo Lietuvos vardu protestą Prahoje pareiškė Butrimas ir Vytauto sekretorius Cibulka.
 - susijęs iš [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.).md#claim-t-97032|Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]: Lietuvos vardu protestuoti į Prahą nuvyko Butrimas ir Vytauto sekretorius Cibulka.
 - susijęs iš Gardinas: Vaclovas pripažino Ordinui Žemaičius ir visą kairiąją Panemunę iki Gardino.
@@ -162,6 +163,3 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Vaclovas reme [[objektai/grupes/Kryžiuočių ordinas]]

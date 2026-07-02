@@ -10,15 +10,15 @@ date_start: '1400'
 date_end: '1407'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - tikėjimas
-  - vyskupas
 amziai:
   - 'XIV'
   - 'XV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - tikėjimas
+  - vyskupas
 ---
 # Jokūbas I
 
@@ -27,7 +27,6 @@ periodo_grupes:
 Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę „Z", dieceziją tevaldė 7 metus - nuo 1400 metų iki 1407 m. Gražumu ir įkalbinėjimais daugelį pagonių krikščionių tikėjimą priimti paskatino.
 
 ## Teiginiai
-
 <a id="claim-t-87708"></a>
 - t-001
   global_id: t-87708
@@ -51,8 +50,9 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jokūbas I" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108295|Pranciškonų ordinas]]: Jokūbas I buvo lietuvių kilmės pranciškonas, 1400–1407 m. valdęs Vilniaus dieceziją.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108308|Pranciškonų ordinas]]: Jokūbas I buvo lietuvių kilmės pranciškonas ir 1400-1407 m. valdė dieceziją.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108295|Pranciškonų ordinas]]: Jokūbas I buvo lietuvių kilmės pranciškonas, 1400–1407 m. valdęs Vilniaus dieceziją.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108308|Pranciškonų ordinas]]: Jokūbas I buvo lietuvių kilmės pranciškonas ir 1400-1407 m. valdė dieceziją.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Jokūbas I, lietuvių kilmės pranciškonas, Vilniaus dieceziją valdė 1400-1407 m. ir skatino pagonis priimti krikščionybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

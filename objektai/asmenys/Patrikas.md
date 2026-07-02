@@ -4,6 +4,7 @@ pavadinimas: 'Patrikas (kunigaikštis, XIV a.)'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1348 m.'
@@ -12,13 +13,13 @@ date_start: '1348'
 date_end: '1380'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - krikštas
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - krikštas
 ---
 # Patrikas (kunigaikštis, XIV a.)
 
@@ -27,7 +28,6 @@ periodo_grupes:
 Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino imperatorių, kad Lietuva tikrai krikštysis.
 
 ## Teiginiai
-
 <a id="claim-t-121122"></a>
 - t-001
   global_id: t-121122
@@ -71,8 +71,8 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko Patriko veiksmą ir rezultatą, bet pradiniame teiginyje yra OCR antraščių ir nutrūkusių fragmentų.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Patrikas|Patrikas]] buvo sūnus [[objektai/asmenys/Kęstutis|Kęstutis]]; [[objektai/asmenys/Patrikas|Patrikas]] gynė [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Patrikas|Patrikas]] buvo sūnus [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -85,6 +85,25 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   ryšio_subjekto_parinkimas: Patrikas (kunigaikštis, XIV a.): llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person
   ryšio_paaiskinimas: Citata tiesiogiai sako, kad Patrikas buvo Narimanto sūnus.
+
+<a id="claim-t-188603"></a>
+- t-004
+  global_id: t-188603
+  teiginys: 'Narbutas Patriką įvardija kaip vieną iš Kęstučio sūnų, gimusių iš žmonos, kurią Kęstutis, jo pasakojimu, vedė Naujuosiuose Trakuose.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 268228-268748; hash=110703b1dc4e04d6b8640df45d1cf9d9ece6836884f9840c876cc2ee541d913f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Patrikas (kunigaikštis, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Patrikas tiesiogiai įvardytas Kęstučio sūnumi.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176281|Algirdas (Lietuvos valdovas)]]: 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.
 - susijęs iš [[objektai/asmenys/Henrikas Hochbergas.md#claim-t-186209|Henrikas Hochbergas]]: Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis bandė pagelbėti Kęstučiui.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176518|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį.
@@ -97,7 +116,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 - susijęs iš Skalvos žemė: 1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir sunaikino kelias priešo pilaites.
 - susijęs iš [[objektai/zodynas/lenkų tikėjimas.md#claim-t-187551|lenkų tikėjimas]]: Vytautui priėmus lenkų tikėjimo krikštą, jam buvo duotas Aleksandro vardas.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -171,10 +189,29 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Narbutas Patriką įvardija kaip vieną iš Kęstučio sūnų, gimusių iš žmonos, kurią Kęstutis, jo pasakojimu, vedė Naujuosiuose Trakuose.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
+    Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
+    nė, būdama gyva, garsėjo savo kilniaširdiškumu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
-- Patrikas (kunigaikštis, XIV a.) buvo_sunus [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Patrikas (kunigaikštis, XIV a.) buvo_sunus [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
-- Patrikas (kunigaikštis, XIV a.) gyne [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Patrikas (kunigaikštis, XIV a.) buvo_sunus [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Patrikas (kunigaikštis, XIV a.) puole [[objektai/vietos/Skalvos žemė]]
 - Patrikas (kunigaikštis, XIV a.) puole [[objektai/vietos/Skalva]]

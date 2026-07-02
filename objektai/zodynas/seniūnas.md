@@ -83,6 +83,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - susijęs iš [[objektai/asmenys/Sungaila.md#claim-t-30386|Sungaila]]: Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų.
 - susijęs iš [[objektai/autoriai/Jurginis J.md#claim-t-64667|Jurginis J]]: J. Jurginis siejo krivio vardą su vėlesniu bendruomenės seniūno arba vado pavadinimu.
 - susijęs iš [[objektai/grupes/Goštautų giminė.md#claim-t-187758|Goštautų giminė]]: Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas.
+- susijęs iš Vilkija: Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas, ant Upinės kaupo buvo pastatyta koplyčia.
 - susijęs iš [[objektai/zodynas/Pilininkas capitaneus seniūnas.md#claim-t-86567|Pilininkas capitaneus seniūnas]]: 1385 metų Vladislovo Jogailos laiške Hanka pavadintas Vilniaus seniūnu, lotyniškai Hanko Capitaneus Vilnensis.
 - susijęs iš [[objektai/zodynas/krivis krivė krivaitis.md#claim-t-58817|krivis krivė krivaitis]]: Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas.
 - susijęs iš [[objektai/zodynas/pataurininkas.md#claim-t-86636|pataurininkas]]: 1501 metais Gardine tarp dalyvavusių pareigūnų minimas LDK pataurininkas ir Belsko seniūnas Mikalojus Mikolajevičius.
@@ -103,6 +104,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - susijęs iš [[objektai/asmenys/Spūdas.md#claim-t-186252|Spūdas]]: Pūtvės pilies seniūnas Spūdas išdavė pilį ir su tėvu, vaikais bei visa šeimyna pasidavė kryžiuočiams.
 - susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87477|Stanislovas Goštautas]]: 1494 m. balandžio 18 d. Maskvoje Žemaičių seniūnas Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.
 - susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-184852|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Po Vilniaus vyskupo Andriaus mirties jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.
+- susijęs iš [[objektai/asmenys/Zabiela.md#claim-t-190221|Zabiela]]: Narbutas rašo, kad Vilkijos seniūnui Zabielai uždraudus kerus ant Upinės kaupo buvo pastatyta koplyčia.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-114097|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-183772|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187735|Ponų taryba (institucija)]]: Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.
@@ -123,12 +125,16 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - susijęs iš Karšuva: Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.
 - susijęs iš Kijevas: Ostrogiškis už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.
 - susijęs iš Smolenskas: Jonas Goštautas buvo Smolensko vietininkas ir tuo metu buvo Smolenske, tolimame Didžiosios Kunigaikštystės mieste.
+- susijęs iš Upinės kaupas: Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant Upinės kaupo buvo pastatyta koplyčia.
+- susijęs iš Upinės upelis Išganytojo upelis: Narbutas pasakojo, kad senė, vadinama Upine, apeigomis pašventindavo Upinės upelį ir suteikdavo jam metų gydomąją galią.
+- susijęs iš Upinės upelis Išganytojo upelis: Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės kerus ant Upinės kaupo buvo pastatyta koplyčia.
 - susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
 - susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
 - susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
 - susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
 - susijęs iš Voluinė: Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje.
 - susijęs iš Žemaitija: Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.
+- susijęs iš [[objektai/zodynas/Upinė.md#claim-t-189186|Upinė]]: Narbutas pasakojo, kad Upine vadinama senė apeigomis pašventindavo upelį, kuris esą visiems metams įgydavo gydomosios galios.
 - susijęs iš [[objektai/zodynas/etmonas.md#claim-t-187522|etmonas]]: Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70312|rotmistras]]: Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185342|skitai]]: Priešas, neįveikęs pilies, apiplėšė apylinkę ir patraukė į Skitiją.

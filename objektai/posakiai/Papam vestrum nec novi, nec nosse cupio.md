@@ -95,7 +95,7 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 214573-215259; hash=597b0000de68117bc2da9f436c769c6c7b89620f9cbf35dba2ef94668afcdede; match=whitespace_regex
   sprendimo_priezastis: gap::sayings
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176386|Gediminas]]: Gediminas esą prisipažino nerašęs laiškų nei popiežiui, nei Vokietijos miestams ir nepareiškęs noro krikštytis.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176386|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas esą prisipažino nerašęs laiškų nei popiežiui, nei Vokietijos miestams ir nepareiškęs noro krikštytis.
 - susijęs iš [[objektai/autoriai/Albertas Krantzas.md#claim-t-54998|Albertas Krantzas]]: Pasak Alberto Krantzo, Gediminas pareiškė, kad popiežiaus nei pažinojo, nei troško pažinti.
 ## Reikšmingi paminėjimai
 

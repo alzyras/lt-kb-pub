@@ -9,12 +9,12 @@ date_start: '1897'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+tags:
+  - asmuo
 ---
 # Jonas Spudulis
 
@@ -28,23 +28,26 @@ Jonas Spudulis minimas kaip laiško Adomui Dambrauskui-Jakštui autorius aušrin
 - J. Spudulio
 
 ## Teiginiai
-
-<a id="claim-t-188041"></a>
-- t-001
-  global_id: t-188041
+- t-002
   teiginys: 'Jonas Spudulis rašė Adomui Dambrauskui-Jakštui apie kitomis kalbomis rašiusius autorius, kurie, jo žodžiais, pagarsino ir pakėlė savo tėvynę.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jono Spudulio laiško mintį. Vertinamoji formuluotė priskirta Spudulio žodžiams, kaip reikalauja citatos pobūdis.'
-  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_group: [[objektai/grupes/Aušrininkai|Aušrininkai]]'
-  temporaliniai_duomenys: 'įvykio data: 1897 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Jono Spudulio laiško mintį. Vertinamoji formuluotė priskirta Spudulio žodžiams, kaip reikalauja citatos pobūdis.'
   pagrindžia:
     - c-001
-
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 20393-20933; hash=8e910cc35828260205ada0f78658dd36c2575cc14999158bad469c0ca97430a7; match=exact
+  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
+  ryšio_patikimumas: susije_su -> Jonas Basanavičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Spudulis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas Basanavičius: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Spudulis" parinktas kaip owner_note_path. Targetas "Jonas Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Musų senovė: „Musų senovės“ 1940 m. trečiame tome nurodomi J. Spudulio laiškai A. Dambrauskui-Jakštui.
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Jonas Spudulis rašė Adomui Dambrauskui-Jakštui apie kitomis kalbomis rašiusius autorius, kurie, jo žodžiais, pagarsino ir pakėlė savo tėvynę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Jonas Basanavičius 1897 m. išvertė į lietuvių kalbą ir išlei­
@@ -56,10 +59,10 @@ Jonas Spudulis minimas kaip laiško Adomui Dambrauskui-Jakštui autorius aušrin
     gimtoje „motinos“ kalboje, vienok pagarbino ir pakėlė savo
     tėvynę ir atnešė jai nemažą naudą, nors ir ne taip gausią, kaip
     tai būtų padarę rašydami savotiškoje kalboje“15.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

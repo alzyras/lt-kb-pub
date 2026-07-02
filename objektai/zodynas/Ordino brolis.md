@@ -54,11 +54,10 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178864|Kryžiuočių ordinas]]: XIV a. trečiajame dešimtmetyje Vakarų Europoje pasigirdo kritiškų balsų Kryžiuočių ordino atžvilgiu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179081|Kryžiuočių ordinas]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinio pratarmėje kronika apibūdinama kaip oficialus Kryžiuočių ordino valstybės kūrinys.
-- susijęs iš [[objektai/asmenys/Anzelmas.md#claim-t-60084|Anzelmas (vyskupas, XIII a.)]]: Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
 - susijęs iš [[objektai/asmenys/Heidenreichas.md#claim-t-60301|Heidenreichas (vyskupas, XIII–XIV a.)]]: Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas.
 - susijęs iš [[objektai/asmenys/Jonas iš Endorfo.md#claim-t-60345|Jonas iš Endorfo]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis ėjo iš bažnyčios.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-183554|Kristijonas]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie popiežiaus santykius su Europos valdovais.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93430|Kristijonas]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-183554|Kristijonas (vyskupas, XIII a.)]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie popiežiaus santykius su Europos valdovais.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93430|Kristijonas (vyskupas, XIII a.)]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64228|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1326 m. Petras iš Dusburgo užbaigtą „Prūsijos žemės kroniką“ įteikė Verneriui iš Orzelno.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64229|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64233|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: „Prūsijos žemės kronika“ buvo įteikta didžiajam magistrui Verneriui iš Orzelno peržiūrėti ir pataisyti.
@@ -73,7 +72,6 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
 - susijęs iš Brunsbergas: Anzelmas, Varmės vyskupas ir Teutonų ordino brolis, pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
 - susijęs iš Kaunas: 1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.
 - susijęs iš Pasarė: Brunsbergo pilis ir miestas buvo pastatyti Pasarės, vadintos Serijos upe, žemupyje esančioje saloje.
-- susijęs iš Prūsija: 1326 m. Petras iš Dusburgo užbaigė kroniką, skirtą pagrįsti kryžiuočių užkariavimus Prūsijoje ir karą prieš Lietuvą.
 - susijęs iš [[objektai/zodynas/magistro kapelionas.md#claim-t-58915|magistro kapelionas]]: Dusburgiečio dedikacija rodo, kad jis buvo Kryžiuočių ordino brolis kunigas, o vėliau galėjo būti magistro kapelionas.
 - susijęs iš [[objektai/zodynas/mišparai.md#claim-t-58917|mišparai]]: 1330 m. lapkričio 18 d. Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis po mišparų ėjo iš bažnyčios.
 - susijęs iš [[objektai/zodynas/oktava.md#claim-t-58859|oktava]]: 1330 m. per švento Martyno oktavą Jonas iš Endorfo nužudė didįjį magistrą Vernerį.

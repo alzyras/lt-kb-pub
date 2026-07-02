@@ -5,24 +5,26 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1429 m.'
   - '1725 m.'
   - '1999 m.'
+  - '2000 m.'
   - '2026 m.'
 date_start: '1429'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
+  - 'XXI'
 tags:
   - karas
   - mokslininkas
   - valdovas
   - vieta
-amziai:
-  - 'XV'
-  - 'XXI'
 ---
 # Europa
 
@@ -31,13 +33,12 @@ amziai:
 Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Iš Prancūzijos ta pati srovė paplito po visą Europą.
 
 ## Teiginiai
-
 <a id="claim-t-109172"></a>
 - t-001
   global_id: t-109172
   teiginys: 'Lietuva, pagonybės atskirta nuo kitų Europos šalių, savo narsa atrėmė mongolų antpuolius ir priešinosi Prūsijos Kryžiuočių ordinui.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti faktinį teiginį apie Lietuvos santykį su Europa ir išorės grėsmėmis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -45,7 +46,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - t-002
   global_id: t-109173
   teiginys: 'Vilnius buvo vadinamas vienos galingiausių Šiaurės Europos šalių sostine ir svarbiausiu Lietuvos mokslo bei valdžios centru.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -89,7 +90,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 808663-808968; hash=5e8ab61d81081a364adcc708ea5edfe141578c81b366f09b2a1ea0ce270e852b; match=exact
+  saltinio_vieta: 161732-162264; hash=dd9657b4cc5fac7ed7ab583e9c61ab75be07835292faf9a5a536788f3a80f17d; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Lietuva: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -123,7 +124,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 808663-808968; hash=5e8ab61d81081a364adcc708ea5edfe141578c81b366f09b2a1ea0ce270e852b; match=exact
+  saltinio_vieta: 161732-162264; hash=dd9657b4cc5fac7ed7ab583e9c61ab75be07835292faf9a5a536788f3a80f17d; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -132,9 +133,48 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   ryšio_subjekto_parinkimas: Europa: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=75
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europa" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188688"></a>
+- t-008
+  global_id: t-188688
+  teiginys: 'Narbutas vertino, kad apie 2000 m. pr. Kr. egiptiečiai pietiniuose Europos pakraščiuose rado žmones, kuriems buvo lemta iškilti.'
+  pagrindžia:
+    - c-006
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 142409-142890; hash=55734afa0e2f611c1494ce82bd1f11df5ff5f41de3ad0fb9a1d244e7bb80533c; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Petras I Didysis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Europa: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Petras I Didysis: mention_match, person, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europa" parinktas kaip owner_note_path. Targetas "Petras I Didysis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188689"></a>
+- t-009
+  global_id: t-188689
+  teiginys: 'Narbutas Perkūną apibūdino kaip senovės Europoje plačiai paplitusį dievą, dangaus ir žemės karalių bei gamtos valdovą.'
+  pagrindžia:
+    - c-007
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 161732-162264; hash=dd9657b4cc5fac7ed7ab583e9c61ab75be07835292faf9a5a536788f3a80f17d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Europa: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europa" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Snorro Sturleson.md#claim-t-87576|Snorro Sturleson]]: Islandų keliautojas Snorro, vykdamas per Europos šiaurę, prie Vilniaus ir Trakų rado savo genties naujakurių.
+- susijęs iš [[objektai/grupes/Gelonai.md#claim-t-189488|Gelonai]]: Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo tėvynėje turėjo trečią šventąją Ross upę, tapatintą su Oskolu.
 - susijęs iš [[objektai/paprociai/Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija.md#claim-t-183337|Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija]]: Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams – Vidurio Europai.
 - susijęs iš [[objektai/posakiai/„senoji“ „naujoji“ „naujausioji“ Viduramžių Europa.md#claim-t-20943|„senoji“ „naujoji“ „naujausioji“ Viduramžių Europa]]: Suomių, estų, latvių, prūsų ir lietuvių gyvenama Viduramžių Europa laikytina „naujausiąja“ Viduramžių Europa.
+- susijęs iš [[objektai/grupes/Samojedai.md#claim-t-189500|Samojedai]]: Narbutas samojedus laikė paskutiniais Šiaurės Europos stabmeldžiais ir rašė, kad XVII a. prie Baltosios jūros jie garbino dangaus kūnus.
 - susijęs iš [[objektai/paprociai/Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija.md#claim-t-54366|Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija]]: Lietuvoje, kaip ir Vidurio Europoje, nuo Viduramžių kūrėsi individualus valstiečių ūkis ir formavosi bajorų pilietinė visuomenė.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75633|A. Hitleris]]: A. Smetona 1935 m. privačiai apibūdino A. Hitlerį kaip pavojingą politinį pamišėlį, galintį dėl savo pseudoidėjų išnaikinti pusę Europos.
 - susijęs iš [[objektai/asmenys/Algirdas Brazauskas.md#claim-t-75684|Algirdas Brazauskas]]: 2003 m. Atėnuose Algirdas Brazauskas pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
@@ -142,13 +182,13 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Benito Musolinis.md#claim-t-18850|Benito Musolinis]]: Benito Musolinio atėjimas į valdžią Italijoje buvo vienas Europos procesų, skatinusių Seimo valdymu Lietuvoje nepatenkintas jėgas veikti.
 - susijęs iš [[objektai/asmenys/Džordžas Robertsonas.md#claim-t-26439|Džordžas Robertsonas]]: Džordžas Robertsonas 2000 m. gegužės 19 d. Vilniuje dalyvavo konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.
 - susijęs iš [[objektai/asmenys/Frank Lubin.md#claim-t-18894|Frank Lubin]]: Krepšininkas Frank Lubin su Lietuvos rinktine tapo Europos čempionu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176365|Gediminas]]: Gedimino laiškai Liubekui, Bremenui, Kelnui, kitiems Europos miestams ir vienuolių ordinams turėjo platų tarptautinį atgarsį.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176365|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino laiškai Liubekui, Bremenui, Kelnui, kitiems Europos miestams ir vienuolių ordinams turėjo platų tarptautinį atgarsį.
 - susijęs iš [[objektai/asmenys/Henrikas von Plauenas.md#claim-t-176403|Henrikas von Plauenas]]: Henrikas von Plauenas po 1410 m. smūgio rengė Ordino revanšą ir rinko jėgas iš Vakarų Europos.
 - susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75848|Ignotas Masalskis]]: Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo pirmos Europoje švietimo ministerijos tipo įstaigos pirmininku.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182811|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila siekė Lenkijos sosto ir ketino sukurti naują galingą valstybę Šiaurės Europoje.
 - susijęs iš [[objektai/asmenys/Karolis Didysis.md#claim-t-78062|Karolis Didysis]]: Karolio Didžiojo imperija apibūdinama kaip ant Romos imperijos griuvėsių sukurta Europa, siekusi Elbę.
 - susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63843|Kotryna II]]: Kotryna II valdė 1762-1796 m., o jos laikais Rusija pradėjo vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-183554|Kristijonas]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie popiežiaus santykius su Europos valdovais.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-183554|Kristijonas (vyskupas, XIII a.)]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie popiežiaus santykius su Europos valdovais.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113906|Mindaugas (valdovas, XIII a.)]]: Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113915|Mindaugas (valdovas, XIII a.)]]: Mindaugas sukūrė valstybę ir, nors laikinai, įvedė ją į Europos šalių sistemą.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113923|Mindaugas (valdovas, XIII a.)]]: Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams, o Vakarų Europos parama Ordinui sustiprėjo.
@@ -184,6 +224,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112521|Domininkonų ordinas]]: Domininkonai, iš naujo skelbdami kryžiaus karą, turėjo atvesti naujus piligrimų būrius iš kelių Europos kraštų.
 - susijęs iš [[objektai/grupes/Edukacinė Komisija.md#claim-t-107736|Edukacinė Komisija]]: Edukacinė Komisija buvo laikoma pirmu Europoje atveju, kai švietimą perėmė valstybė.
 - susijęs iš [[objektai/grupes/Edukacinė Komisija.md#claim-t-182888|Edukacinė Komisija]]: A. Šapokos redaguotoje istorijoje Edukacinė Komisija vertinama kaip pirmas Europoje atvejis, kai švietimą perėmė valstybė.
+- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-188173|Egiptiečiai]]: Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai pietiniuose Europos pakraščiuose rado kitokių polinkių žmones.
 - susijęs iš [[objektai/grupes/Europos Parlamentas.md#claim-t-74105|Europos Parlamentas]]: Lietuvai įstojus į ES, Europos Parlamente jai atstovavo 12 europarlamentarų.
 - susijęs iš [[objektai/grupes/Europos Parlamentas.md#claim-t-74106|Europos Parlamentas]]: Lietuva, įstojusi į ES, Europos Parlamente turėjo 12 europarlamentarų.
 - susijęs iš [[objektai/grupes/Europos Parlamentas.md#claim-t-74107|Europos Parlamentas]]: ES piliečiai turi teisę teikti peticijas Europos Parlamentui.
@@ -201,6 +242,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Europos kryžininkai.md#claim-t-86725|Europos kryžininkai]]: 1392 m. Europos kryžininkai rengė didesnį žygį į Lietuvą.
 - susijęs iš [[objektai/grupes/Gediminaičiai.md#claim-t-19691|Gediminaičiai]]: Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96102|Gediminaičių dinastija]]: Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis.
+- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188196|Herulai]]: Narbutas gotiškus lietuvių tautų elementus siejo ir su herulais, kurie, jo teigimu, ilgai lydėjo gotus Pietryčių Europoje.
 - susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110664|Jogailaičiai]]: Gediminaičių ir Jogailaičių dinastijų palikuonys siejami su žinomiausiomis Europos monarchijomis.
 - susijęs iš [[objektai/grupes/Katalikiškoji ir protestantiškoji Europa.md#claim-t-16165|Katalikiškoji ir protestantiškoji Europa]]: XVII–XVIII a. senoji Vakarų Europa skilo į pietinę katalikiškąją ir šiaurinę protestantiškąją dalis.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116729|Katalikų Bažnyčia]]: Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą.
@@ -216,6 +258,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Laisvųjų riterių brolija.md#claim-t-80641|Laisvųjų riterių brolija]]: „Laisvųjų riterių“ brolija parengė XIII a. Vakarų Europos riterio rekonstrukciją.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179283|Lietuviai]]: Lietuviai kaip tauta, anot šaltinio, Europoje Lietuvos vardu tapo žinomi tik X amžiuje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179290|Lietuviai]]: Tik X a. Lietuvos vardu Europai tapusi žinoma tauta citatoje siejama su trijų skirtingų kilmių gyventojų samplaika.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190611|Lietuviai]]: Narbutas sanskritą laikė lietuvių kalbos ir kitų senųjų Europos tautų kalbų šaltiniu.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169687|Lietuvos Didžioji Kunigaikštija]]: Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169692|Lietuvos Didžioji Kunigaikštija]]: 1387 m. Lietuva priėmė katalikišką krikštą, o Žemaitija tapo paskutiniu Europoje apsikrikštijusiu regionu.
 - susijęs iš [[objektai/grupes/Lietuvos moterų krepšinio rinktinė.md#claim-t-74757|Lietuvos moterų krepšinio rinktinė]]: Lietuvos moterų krepšinio rinktinė 1997 m. tapo Europos čempione.
@@ -226,6 +269,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė.md#claim-t-74804|Lietuvos vyrų krepšinio rinktinė]]: 1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.
 - susijęs iš [[objektai/grupes/NATO.md#claim-t-19949|NATO]]: 2004 m. Lietuva tapo NATO ir Europos Sąjungos nare.
 - susijęs iš [[objektai/grupes/Prancūzijos steigiamasis susirinkimas.md#claim-t-19967|Prancūzijos steigiamasis susirinkimas]]: 1791 m. vasarą Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui apie kitą tautą Europoje.
+- susijęs iš [[objektai/grupes/Samojedai.md#claim-t-189500|Samojedai]]: Narbutas samojedus laikė paskutiniais Šiaurės Europos stabmeldžiais ir rašė, kad XVII a. prie Baltosios jūros jie garbino dangaus kūnus.
+- susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189415|Senovės egiptiečiai]]: Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniais Europos pakraščiais, rado kitokių polinkių žmones.
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-190621|Slavai]]: Narbutas teigė, kad pakirptuvių, rusiškai Zastryžyny, apeigos buvo įprastos slavų kiltims ir bendros daugeliui Europos tautų.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113357|Vilniaus universitetas]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113366|Vilniaus universitetas]]: Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113367|Vilniaus universitetas]]: 1803 m. Vilniaus universitetas reorganizuotas pagal populiarų Europos universitetų modelį ir gavo Imperatoriškojo universiteto statusą.
@@ -322,6 +368,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Kauno sporto halė: Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.
 - susijęs iš Konstancija: Į Konstancijos miestą, kuriame šauktas susirinkimas, suvažiavo dvasininkai, kunigaikščiai, diduomenė ir riteriai iš visos Europos.
 - susijęs iš Kuršo gubernija: Sukilėliai siekė perimti Kuršo gubernijos vakarinės dalies kontrolę, kad galėtų priimti iš Vakarų Europos atgabentus ginklus.
+- susijęs iš Lacijus: Narbutas senovės Lacijuje užsimezgusią romėnų karalystę aiškina kaip Apvaizdos parengtą Europos apšvietos sargą.
 - susijęs iš Lenkija: Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.
 - susijęs iš Lenkija: Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.
 - susijęs iš Liegnitzas: Prie Liegnitzo Silezijoje 1241 m. vokiečių ir Silezijos kunigaikščiai sulaikė tolesnį totorių veržimąsi į Europą.
@@ -362,6 +409,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Vilnius: Vilniuje ponai prisistatė daugybę rūmų, o miestas tapo vienu gražiausių Rytų Europos miestų.
 - susijęs iš Vilnius: XVI–XVIII a. Vilnius tapo Europos sostine ant dviejų pasaulių ribos, kurioje sugyveno dešimt konfesijų.
 - susijęs iš Vilnius: XVI–XVIII a. Vilnius buvo Europos sostinė, kurioje sugyveno dešimt konfesijų, o žydų pasaulyje jis vadintas Vilniaus Gaono miestu ir Šiaurės Jeruzale.
+- susijęs iš Šiaurės Europa: Narbutas rašė, kad midus, kaip ir alus, įeidavo į Šiaurės Europos tautų apeigas, o jo pavadinimas daugelyje tautų buvo beveik toks pat.
 - susijęs iš Šiaurės Europa: XVII–XVIII a. Šiaurės Europa dėl protestantizmo pritapo prie dinamiškosios Vakarų Europos dalies.
 - susijęs iš Šiaurės Europa: Protestantizmas lėmė, kad Šiaurės Europa per XVII–XVIII a. pritapo prie dinamiškosios Vakarų Europos dalies ir pralenkė katalikiškąją Vidurio Europą.
 - susijęs iš Žemaitija: 1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.
@@ -405,6 +453,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75782|Augustinas Voldemaras]]: 1918 m. lapkričio 5 d. Taryba pavedė A. Voldemarui sudaryti pirmą nepriklausomos Lietuvos kabinetą.
 - susijęs iš [[objektai/asmenys/Bajazitas.md#claim-t-40062|Bajazitas]]: Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (prancūzai, vengrai, vokiečiai, britai, italai, čekai ir kiti), kovoję be vieningos vadovybės, buvo sutriuškinti Osmanų imperijos sultono Bajazito kariuomenės.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176314|Birutė]]: Birutė iš jų bus išmokęs skaityti ir rašyti.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188516|Birutė]]: Narbutas rašo, kad Birutė, žuvus Kęstučiui ir valdant Vytautui, grįžo į Palangą ir 1416 metais ten mirė laikydamasi senojo tikėjimo.
 - susijęs iš [[objektai/asmenys/Boucicaut.md#claim-t-87489|Boucicaut]]: Prancūzų vadas Boucicaut'as per kautynes buvo pridaręs nemažai žalos apgultiesiems.
 - susijęs iš [[objektai/asmenys/Bronislovas Komorovskis.md#claim-t-17466|Bronislovas Komorovskis]]: Bronislovo Komorovskio tėvo šaknys buvo Lietuvoje, jo dvare Rokiškio apskrityje.
 - susijęs iš [[objektai/asmenys/Bronislovas Komorovskis.md#claim-t-183527|Bronislovas Komorovskis]]: Bronislovo Komorovskio tėvo šaknys siejamos su Lietuva ir dvaru Rokiškio apskrityje.
@@ -421,8 +470,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Edigėjus.md#claim-t-40095|Edigėjus]]: Edigėjus pirmasis su savo pajėgomis stojo į mūšį su Vytautu, bet Lietuvos pajėgos pradėjo pergalėti Ordos kunigaikštį.
 - susijęs iš [[objektai/asmenys/Eneas Silvius Picolomini.md#claim-t-35059|Eneas Silvius Picolomini]]: Eneas Silvius Picolomini pasakojo apie Vytauto žiaurumą, nors šaltinyje pažymima, kad jis perdėjo.
 - susijęs iš [[objektai/asmenys/Enejas Silvijus Picolomini.md#claim-t-35060|Enejas Silvijus Picolomini]]: Enejas Silvijus Picolomini pasakojo, kad Vytauto valdiniai, bijodami jį supykinti, net patys ėjo kartis.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10677|Gediminas]]: 1323 m. Gediminas laiškais kvietė į Lietuvą amatininkus, pirklius, žemdirbius ir riterius.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176357|Gediminas]]: 1316 m. pradėjęs valdyti Lietuvą Gediminas turėjo atlaikyti suintensyvėjusį kryžiuočių puolimą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176357|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1316 m. pradėjęs valdyti Lietuvą Gediminas turėjo atlaikyti suintensyvėjusį kryžiuočių puolimą.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87427|Germantas]]: Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.
 - susijęs iš [[objektai/asmenys/Ghilebertas de Lannoy.md#claim-t-96030|Ghilebertas de Lannoy]]: Ghilebertas de Lannoy liudijo, kad Vytautas Lietuvos kunigaikštijoje buvo įvedęs svetimšaliams palankią tvarką.
 - susijęs iš [[objektai/asmenys/Henrikas (Meiseno markgrafas).md#claim-t-63617|Henrikas (Meiseno markgrafas)]]: Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.
@@ -432,7 +480,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108753|J. Pilsudskis]]: 1926 m. karinis perversmas Lenkijoje, sugrąžinęs J. Pilsudskį į valdžią, skatino veikti Seimo valdymu nepatenkintas jėgas.
 - susijęs iš [[objektai/asmenys/Jack Sharkey.md#claim-t-78057|Jack Sharkey]]: Jack Sharkey (Juozas Žukauskas) buvo boksininkas.
 - susijęs iš [[objektai/asmenys/Jascha Heifetz.md#claim-t-26445|Jascha Heifetz]]: Jascha Heifetzas buvo 1901 m. Vilniuje gimęs ir smuiko mokęsis virtuozas.
-- susijęs iš [[objektai/asmenys/Joachimas Lelevelis.md#claim-t-78033|Joachimas Lelevelis]]: Po caro administracijos tyrimo politiškai nepatikimu laikytas Joachimas Lelevelis buvo pašalintas iš profesorių.
+- susijęs iš [[objektai/asmenys/Joachimas Lelevelis.md#claim-t-78033|Joachimas Lelevelis (istorikas, XVIII–XIX a.)]]: Po caro administracijos tyrimo politiškai nepatikimu laikytas Joachimas Lelevelis buvo pašalintas iš profesorių.
 - susijęs iš [[objektai/asmenys/Johanas Gotfrydas Herderis.md#claim-t-75881|Johanas Gotfrydas Herderis]]: Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio ir kitų vokiečių romantikų mintys apie tautos dvasią liaudies kalboje ir kultūroje.
 - susijęs iš [[objektai/asmenys/Johanas Gotfrydas Herderis.md#claim-t-75882|Johanas Gotfrydas Herderis]]: Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio ir kitų vokiečių romantikų mintys apie tautos dvasią liaudies kalboje ir kultūroje.
 - susijęs iš [[objektai/asmenys/Johnny Unitas.md#claim-t-18969|Johnny Unitas]]: Johnny Unitas (Jonas Jonaitis) buvo amerikietiškojo futbolo garsenybė.
@@ -459,7 +507,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Kazimieras Simanavičius.md#claim-t-39577|Kazimieras Simanavičius]]: Kazimieras Simanavičius pirmasis aptarė daugiapakopės raketos ir raketinės artilerijos idėjas.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93426|Konradas (Mozūrijos kunigaikštis)]]: Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis.
 - susijęs iš [[objektai/asmenys/Konradas Valenrodas.md#claim-t-87395|Konradas Valenrodas]]: Konrado Valenrodo šlovė ir narsa 1392 m. padėjo suburti gausius kryžininkų pulkus žygiui į Lietuvą.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93430|Kristijonas]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93430|Kristijonas (vyskupas, XIII a.)]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją.
+- susijęs iš [[objektai/asmenys/Ksaveras Bogušas.md#claim-t-190001|Ksaveras Bogušas]]: Ksaveras Bogušas išvertė Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių fragmentą, perteikdamas originalo eilių metrą.
+- susijęs iš [[objektai/asmenys/Ksaveras Bogušas.md#claim-t-190002|Ksaveras Bogušas]]: Narbutas rašė, kad pirmą kartą paėmęs Ksavero Bogušo studiją atkreipė dėmesį į jo išverstas Ovidijaus eilutes.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176523|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstučio palaikai Skirgailos rūpesčiu buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176528|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176532|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.
@@ -491,6 +541,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113971|Steponas Batoras]]: Michałas Balińskis Vilniaus miesto istorinę apžvalgą užbaigė Stepono Batoro valdymo metais, 1586 m.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113977|Steponas Batoras]]: M. Balinskis Vilniaus miesto istorinę apžvalgą užbaigė Stepono Batoro valdymo metais, 1586 m.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188634|Teodoras Narbutas]]: Citatos autorius teigia, kad Teodoras Narbutas sąmoningai vengė žodžio „istorija“ ir save suvokė veikiau kaip aprašinėtoją.
 - susijęs iš [[objektai/asmenys/Timūras (Tamerlanas).md#claim-t-40469|Timūras (Tamerlanas)]]: Timūro mongolų kariuomenė XV a. pradžioje pristabdė Osmanų plėtrą.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-05203|Traidenis (valdovas, XIII a.)]]: Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90063|Treniota]]: Treniota veikė išvien su Nalšios kunigaikščiu Daumantu, kuris 1263 m. nužudė Mindaugą.
@@ -501,8 +552,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Victor David Brenner.md#claim-t-76029|Victor David Brenner]]: Victor David Brenner buvo iš Šiaulių kilęs skulptorius ir JAV vieno cento autorius.
 - susijęs iš [[objektai/asmenys/Vinrichas fon Kniprodė.md#claim-t-80702|Vinrichas fon Kniprodė]]: 1362 m. Kauno pilies žygiui vadovavo didysis Ordino magistras Vinrichas fon Kniprodė.
 - susijęs iš [[objektai/asmenys/Vinrichas von Kniprodė.md#claim-t-117889|Vinrichas von Kniprodė]]: Vinrichas von Kniprodė 1351–1382 m. buvo Vokiečių ordino magistras.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Vytautas Sirvydis.md#claim-t-78075|Vytautas Sirvydis]]: Vytautas Sirvydis kartu su Algimantu Marcinkevičiumi siejamas su Lietuvos kardiochirurgijos mokykla.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-10104|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. Vytautas, suvienijęs jėgas su Jogailos vedama Lenkijos kariuomene, Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176625|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas tikėjo, kad viename pralaimėtame mūšyje jį išgelbėjo Švč. Mergelė Marija.
@@ -519,7 +568,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176731|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Lucko suvažiavime priėmė imperatoriaus siūlomą vainiką ir pareiškė tai darantis niekieno neatsiklausdamas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176738|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Lucko suvažiavimas Lietuvos istorijoje siejamas su Vytauto vainikavimo planu, kurį rėmė Zigmantas I ir Vokiečių ordinas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176770|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176841|Vytenis]]: Vytenis buvo Gedimino pirmtakas Lietuvos ir Rusios valdovo soste.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-188647|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas Vytautą įvardija kaip Kęstučio ir kunigaikštienės Birutės sūnų, kartu su Patriku, Tautvila, Sigaila ir Danute.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-188648|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas rašo, kad Vytautui viešpataujant Lietuvoje kunigaikštienė Birutė sugrįžo į Palangą ir ten mirė 1416 m.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176841|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis buvo Gedimino pirmtakas Lietuvos ir Rusios valdovo soste.
 - susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114076|Zigmantas I]]: Zigmantas I rėmė Vytauto vainikavimo planą, kuriuo siekta regione sukurti atsvarą Lenkijai.
 - susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-87898|Šventaragis]]: Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173333|Žygimantas Senasis]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
@@ -557,13 +608,16 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/autoriai/Kazimieras Semenavičius.md#claim-t-23231|Kazimieras Semenavičius]]: K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.
 - susijęs iš [[objektai/autoriai/Kazimieras Semenavičius.md#claim-t-23233|Kazimieras Semenavičius]]: Kazimieras Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.
 - susijęs iš [[objektai/autoriai/Kazimieras Semenavičius.md#claim-t-23234|Kazimieras Semenavičius]]: Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.
+- susijęs iš [[objektai/autoriai/Ksaveras Bogušas.md#claim-t-188440|Ksaveras Bogušas (kunigas, XIX a.)]]: Narbutas pateikia Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1-30 eilučių fragmentą kaip bandymą kurti gryna lietuvių kalba.
 - susijęs iš [[objektai/autoriai/M. Bielski.md#claim-t-30826|M. Bielski]]: M. Bielskio kronika buvo tarp XVI a. išspausdintų lenkų kronikų, pažįstamų aptariamam autoriui.
 - susijęs iš [[objektai/autoriai/M. Kromer.md#claim-t-30838|M. Kromer]]: M. Kromerio kronika buvo tarp XVI a. išspausdintų lenkų kronikų, naudotų Lietuvos istorijos pasakojimui.
+- susijęs iš [[objektai/autoriai/Malte-Brunas.md#claim-t-190441|Malte-Brunas]]: Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško aiškinimo „plikasis kalnas“.
 - susijęs iš [[objektai/autoriai/Martynas Smigleckis.md#claim-t-105593|Martynas Smigleckis]]: Martyno Smigleckio „Logika“ (1618 m.) pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai.
 - susijęs iš [[objektai/autoriai/Martynas Smigleckis.md#claim-t-105594|Martynas Smigleckis]]: Martyno Smigleckio „Logika“ (1618 m.) pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182794|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą.
 - susijęs iš [[objektai/autoriai/Miechowita.md#claim-t-64760|Miechowita]]: Miechowitos XVI a. išspausdinta kronika buvo tarp lenkų kronikų, pažįstamų Lietuvos Metraščio sąvadą rengusiam autoriui.
 - susijęs iš [[objektai/autoriai/Mindaugas Tamošaitis.md#claim-t-169891|Mindaugas Tamošaitis]]: 2013 m. antrajame leidime Mindaugas Tamošaitis nurodytas tarp autorių teisių turėtojų.
+- susijęs iš [[objektai/autoriai/Ovidijus.md#claim-t-190356|Ovidijus]]: Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertimą pateikė kaip bandymą kurti gryna lietuvių kalba.
 - susijęs iš [[objektai/autoriai/Peringskioeld.md#claim-t-88079|Peringskioeld]]: Peringskioeld 1697 m. Stokholme išleido „Heimskringlą“ islandų, švedų ir lotynų kalbomis.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181459|Petras Dusburgietis]]: Petro iš Dusburgo „Prūsijos žemės kronika“ pateikia unikalių žinių apie prūsus, lietuvius ir jų kovą XIII-XIV a. pradžioje.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181461|Petras Dusburgietis]]: Petras Dusburgietis 1326 m. užbaigė savo kroniką, įteikė ją magistrui, o kūrinys buvo pratęstas iki 1330 m.
@@ -607,6 +661,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86992|Laivai, valtys, sieliai ir plaustai]]: Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179488|Laivai]]: Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.
 - susijęs iš [[objektai/daiktai/Lenkijos ir Lietuvos Valstybės žemėlapis.md#claim-t-64955|Lenkijos ir Lietuvos Valstybės žemėlapis]]: XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapyje, saugotame Varšuvos karalių pilyje, buvo matyti ir LDK sienos.
+- susijęs iš [[objektai/daiktai/Moneta su nepaaiškintais užrašais ir lazda laikančiu žmogumi.md#claim-t-189660|Moneta su nepaaiškintais užrašais ir lazda laikančiu žmogumi]]: Narbutas manė, kad nepaaiškintų užrašų moneta pagal kaldinimo būdą, sidabrą ir pavidalą tikriausiai yra to paties amžiaus kaip kita lyginta moneta.
 - susijęs iš [[objektai/daiktai/Monumentalios Lietuvos istorijos drobės.md#claim-t-75340|Monumentalios Lietuvos istorijos drobės]]: 1939 m. pasaulinei parodai Niujorke svarbiausi Lietuvos istorijos įvykiai buvo parodyti monumentaliose dailininkų drobėse.
 - susijęs iš [[objektai/daiktai/Sklandytuvai.md#claim-t-19592|Sklandytuvai]]: Kaune lietuviai konstravo karo ir sporto lėktuvus, lengvuosius bombonešius ir gamino sportui skirtus sklandytuvus.
 - susijęs iš [[objektai/daiktai/Tik Lietuvai būdingi dvinariai žąslai su skersinukais.md#claim-t-40776|Tik Lietuvai būdingi dvinariai žąslai su skersinukais]]: Dvinariai žąslai su skersinukais buvo būdingi tik Lietuvai.
@@ -631,10 +686,15 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169568|Bajorai]]: Lietuvoje politinėmis teisėmis naudojosi tik bajorų luomas.
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-183120|Bajorai]]: Lietuvoje politinėmis teisėmis naudojosi tik bajorų luomas.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96077|Baltai]]: Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo.
+- susijęs iš [[objektai/grupes/Biarmiai.md#claim-t-189430|Biarmiai]]: Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos šaka, besiskiriančia tarme, papročiais ir fizionomija.
+- susijęs iš [[objektai/grupes/Biarmiai.md#claim-t-189431|Biarmiai]]: Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę.
 - susijęs iš [[objektai/grupes/Bizantijos imperija.md#claim-t-01290|Bizantijos imperija]]: Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.
+- susijęs iš [[objektai/grupes/Budinai.md#claim-t-189468|Budinai]]: Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso.
+- susijęs iš [[objektai/grupes/Budinai.md#claim-t-189469|Budinai]]: Narbutas pasakojo, kad gelonai ir budinai apsigyveno prie Nemuno vidurupio ir Volkovysko apskrityje upę pavadino Rose.
 - susijęs iš [[objektai/grupes/Danijos karaliaus kariai iš Revelio.md#claim-t-40872|Danijos karaliaus kariai iš Revelio]]: Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį.
 - susijęs iš [[objektai/grupes/Dregovičiai.md#claim-t-31176|Dregovičiai]]: Dregovičiai Beržūnės baseine, nors Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno gana žemame kultūros laipsnyje.
 - susijęs iš [[objektai/grupes/Estai.md#claim-t-65145|Estai]]: 1260 m. Klaipėdoje estai minimi tarp Ordino prievarta buriamų karių iš užgrobtų žemių.
+- susijęs iš [[objektai/grupes/Gelonai.md#claim-t-189488|Gelonai]]: Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo tėvynėje turėjo trečią šventąją Ross upę, tapatintą su Oskolu.
 - susijęs iš [[objektai/grupes/Germanai.md#claim-t-01324|Germanai]]: Germanai priskiriami tai pačiai indoeuropiečių, arba arijų, tautų grupei kaip aisčiai, slavai ir romanai.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-184474|Gotai]]: Gotai drauge su dalimi alanų ir hunais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.
 - susijęs iš [[objektai/grupes/Habsburgų dinastija.md#claim-t-19699|Habsburgų dinastija]]: XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija buvo pagrindinė Habsburgų dinastijos konkurentė.
@@ -645,6 +705,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-86794|Herulai]]: Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.
 - susijęs iš [[objektai/grupes/Hunai.md#claim-t-185449|Hunai]]: Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo.
 - susijęs iš [[objektai/grupes/III Seimas.md#claim-t-74133|III Seimas]]: 1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo.
+- susijęs iš [[objektai/grupes/Indai.md#claim-t-189412|Indai]]: Narbutas buvo įsitikinęs, kad aptariamas kultas kilo iš indų arba iš tautos prie Himalajų kalnų, iš kurios kilo indai.
 - susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72081|Joanitų ordinas]]: Popiežius patvirtino Jeruzalės ligoninės brolių ordiną, skirtą pavargėliams ir paliegėliams slaugyti.
 - susijęs iš [[objektai/grupes/Jogailaičių dinastija.md#claim-t-182855|Jogailaičių dinastija]]: Jogailaičių epocha truko beveik du amžius, nuo 1386 iki 1572 metų.
 - susijęs iš [[objektai/grupes/Jogailaičių dinastija.md#claim-t-182856|Jogailaičių dinastija]]: Jogailaičių epocha Lenkijos istorijoje laikoma šviesiausiąja.
@@ -653,6 +714,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172110|Jėzuitų ordinas]]: 1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172116|Jėzuitų ordinas]]: 1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172129|Jėzuitų ordinas]]: 1569 m. jėzuitų ordino pasirodymas Lietuvoje siejamas su simboline Baroko epochos pradžia.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-188199|Jėzuitų ordinas]]: Narbutas perteikia jėzuitų istoriko pasakojimą, kad, jėzuitams naikinant senojo tikėjimo liekanas, kilo audra ir griausmas.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175537|Kalavijuočių ordinas]]: Kalavijuočiai iš šiaurės Vytauto jaunystėje buvo vienas iš dviejų galingų priešų, smarkiai puldavusių Lietuvą.
 - susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171343|Karijotaičiai]]: Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116728|Katalikų Bažnyčia]]: XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją.
@@ -684,9 +746,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179219|Lietuviai]]: XIII-XIV a. rašytiniai šaltiniai ir karai su ordino riteriais rodo, kad pagonys lietuviai buvo pasiekę palyginti aukštą kultūros lygį.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179226|Lietuviai]]: 1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179242|Lietuviai]]: Mindaugo sukurta valstybė sudarė sąlygas lietuvių tautai išlikti ir vėliau perimti Vakarų civilizaciją.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179251|Lietuviai]]: Vytauto jaunystės laikotarpiu kardininkai ir kryžiuočiai smarkiai puldavo Lietuvą.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179292|Lietuviai]]: XI a. rusų metraščiai tik du kartus paminėjo lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179325|Lietuviai]]: Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą.
 - susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-13467|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje.
 - susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-24554|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).
 - susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-26625|Lietuvių aktyvistų frontas]]: Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir iš Vokietijos siuntė instrukcijas dėl valstybingumo atkūrimo bei sukilimo.
@@ -721,6 +781,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Saksų dinastija.md#claim-t-20000|Saksų dinastija]]: Valdant Saksų dinastijai 1697–1763 m. Lietuva tapo Šiaurės karo tarp Rusijos ir Švedijos kovų arena.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175094|Sembai]]: 1260 m. Klaipėdoje sembai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175102|Sembai]]: 1260 m. Klaipėdoje sembai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą.
+- susijęs iš [[objektai/grupes/Senovės graikai.md#claim-t-189382|Senovės graikai]]: Narbutas graikų nepastovumą vertino kaip ydą, lėmusią pasaulietinių ir religinių piktnaudžiavimų.
+- susijęs iš [[objektai/grupes/Skitai.md#claim-t-189483|Skitai]]: Narbutas rašo, kad senovės Graikijos geografai žinias apie Biarmijos gyventojus gavo iš skitų.
 - susijęs iš [[objektai/grupes/Skyrai.md#claim-t-86826|Skyrai]]: Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-182923|Slavai]]: Karolio Didžiojo agentai, pasiekę slavus, sužinojo, kad už slavų gyvena lietuviai.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74921|Sovietų Sąjunga]]: Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi.
@@ -748,6 +810,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Vokiečių nacionalsocialistų partija.md#claim-t-77832|Vokiečių nacionalsocialistų partija]]: 1934–1935 m. Kaune vyko pirmasis Europoje vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.
 - susijęs iš [[objektai/grupes/Vokiečių ordinas.md#claim-t-182838|Vokiečių ordinas]]: Vokiečių ordinui draudžiant į Lietuvą įvežti ginklus ir arklius, Vytautas jų gaudavo iš Rygos ir Krokuvos.
 - susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas.md#claim-t-66326|Vyriausiasis Lietuvos išlaisvinimo komitetas]]: Iš Europos į JAV persikėlęs VLIK siekė veikti išvien su ALT ir PLB bei tarptautiniu mastu pasitarnauti Lietuvos laisvės bylai.
+- susijęs iš [[objektai/grupes/Šiaurės slavai.md#claim-t-189485|Šiaurės slavai]]: Narbutas biarmius, arba permius, laikė atskira didelės šiaurės slavų šeimos šaka pagal kalbos, papročių ir fizionomijos skirtumus.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117390|Žydai]]: Vytauto laikais žydai organizuotai persikėlė iš Lenkijos į Lietuvą.
 - susijęs iš [[objektai/ivykiai/1941 m. Birželio sukilimas.md#claim-t-45327|1941 m. Birželio sukilimas (sukilimas)]]: 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per radiją paskelbė atkuriamą laisvą ir nepriklausomą Lietuvos valstybę.
 - susijęs iš [[objektai/ivykiai/1941 m. Birželio sukilimas.md#claim-t-45329|1941 m. Birželio sukilimas (sukilimas)]]: Per 1941 m. Birželio sukilimą provincijos sukilėliai užimdavo vietos valdžios įstaigas ir suimdavo sovietų valdžios aktyvistus.
@@ -950,6 +1013,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Gintarinė deklaracija: 1914 m. liepą Vilniuje Jonas Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gintarinę deklaraciją.
 - susijęs iš Heimskringla: Heimskringla pirmą kartą iš rankraščio išspausdinta 1697 m. Stokholme islandų, švedų ir lotynų kalbomis.
 - susijęs iš Helsinkio Baigiamasis aktas: 1975 m. rugpjūčio 1 d. Helsinkyje pasirašytas Baigiamasis aktas padėjo Lietuvos laisvės bylai.
+- susijęs iš Ksavero Bogušo studija apie lietuvių tautos ir kalbos pradžią: Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių fragmentą laiko bandymu kurti gryna lietuvių kalba ir tiksliai perteikti originalo metrą.
 - susijęs iš LAF radijo pranešimas dėl Lietuvos valstybės atkūrimo (1941 m. birželio 23 d.): 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per radiją paskelbė apie laisvos ir nepriklausomos Lietuvos valstybės atkūrimą.
 - susijęs iš Lietuvių aktyvistų fronto programa: Kazys Škirpa manė, kad Lietuvių aktyvistų frontas turi palaikyti ypač glaudžius ryšius su nacių Vokietija.
 - susijęs iš Lietuvių laisvinimo darbo konferencijos nuostata dėl nepriklausomos Lietuvos atstatymo (1974 m.): 1974 m. lietuvių laisvinimo darbo konferencija patvirtino nuostatą siekti nepriklausomos Lietuvos atstatymo, remiantis lietuvių tautos valia.
@@ -962,6 +1026,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Lietuvos metraštis (Bychovco kronika): Lietuvių kilmės iš romėnų teorija pateko į Lietuvos metraščius, tarp jų ir Bychovco kroniką.
 - susijęs iš Liublino unijos aktas (1569 m.): LDK atstovai priėmė Liublino unijos kompromisą, nors lenkai ir Žygimantas Augustas spaudė naikinti Lietuvos valstybingumą ir atplėšti teritorijų.
 - susijęs iš Liublino unijos aktas (1569 m.): 1569 m. sudaryta Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.
+- susijęs iš Malte-Bruno „Vocabulaire de mots génériques“: Narbutas Malte-Brunui priskiria nuomonę, kad Kaukazo pavadinimas išvedamas iš prūsiško „Khohkasp“ – plikojo kalno.
 - susijęs iš Martyno Smigleckio Logika: Martyno Smigleckio „Logika“ (1618 m.) pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai.
 - susijęs iš Melno taika (1422 m.): Po Melno taikos santykiai su Lenkija tapo svarbiausia politine Lietuvos problema, todėl Vytauto vainikavimo projektas įgijo tarptautinę reikšmę.
 - susijęs iš Melno taika (1422 m.): Po Melno taikos santykiai su Lenkija tapo svarbiausia politine problema, todėl Vytauto vainikavimo projektas įgijo tarptautinę reikšmę.
@@ -971,6 +1036,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Naturalis historiae libri XXXVII: Plinijus Senesnysis 77 m. po Kr. veikale „Naturalis historiae libri XXXVII“ plačiai rašė apie gintaro prekybą, kilmę ir fizines savybes.
 - susijęs iš Ništato sutartis (1721 m.): 1721 m. pasirašius Šiaurės karą užbaigusią Ništato sutartį, Rusija buvo iškilmingai paskelbta imperija.
 - susijęs iš Ništato sutartis (1721 m.): Po 1721 m. Ništato sutarties Rusija buvo paskelbta imperija, o Prūsijos ir Brandenburgo unija pakėlė valstybės statusą iki karalystės.
+- susijęs iš Ovidijaus „Metamorfozės“: Narbutas Ksaverui Bogušui priskiria Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių vertimą gryna lietuvių kalba, perteikiant originalo metrą.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Įžanginiame straipsnyje Petro iš Dusburgo „Prūsijos žemės kronika“ išskiriama kaip ypač svarbi tarp XIII-XIV a. kronikų ir siejama su unikaliomis žiniomis apie prūsus, lietuvius bei jų kovą iki 1330 m.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinio pratarmėje kronika apibūdinama kaip oficialus Kryžiuočių ordino valstybės kūrinys.
 - susijęs iš Reden an die deutsche Nation (1808 m.): Fichtė 1808 m. išleido veikalą „Reden an die deutsche Nation“, kuriame aiškiai kėlė tautų teises.
@@ -998,6 +1064,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Baltijos jūra: Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
 - susijęs iš Baltijos jūra: XIII amžiaus viduryje Lietuva valdė nedidelį, uostų stokojantį Baltijos pakrantės ruožą.
 - susijęs iš Bartos žemė: Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.
+- susijęs iš Biarmija: Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, palaikiusią santykius su Naugardo slavais.
 - susijęs iš Briuselis: Įstojusi į Europos Sąjungą Lietuva galėjo Briuselyje reikšti savo poziciją įvairiais klausimais ir veikti ES sprendimus.
 - susijęs iš Dancigas: Dancigo laisvojo miesto statusas minimas kaip pavyzdys, į kurį orientavosi dalis prie Lietuvos nenorėjusių jungtis klaipėdiškių lietuvininkų.
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.
@@ -1007,15 +1074,18 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Dniepras: Nemuno ir Dniepro baseinai jungė valstybę su Baltijos ir Juodąja jūromis, todėl jos padėtis buvo patogi prekybai.
 - susijęs iš Dniepras: Maskvai palikus Černigovą, Naugardą Sieverską, Starodubą ir Okos paupius, jos sienos jau siekė Dnieprą.
 - susijęs iš Dniepras: Vytauto valstybės teritoriją su Juodosios jūros kryptimi jungė platus Dniepro baseinas.
+- susijęs iš Donas ir Donecas: Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Doneco, o jų tėvynėje buvusi šventoji Ross upė.
 - susijęs iš Dorpatas: Vytauto laikų Dorpatas buvo vienas iš prekybos centrų netoli Lietuvos.
 - susijęs iš Dubysa: 1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais.
 - susijęs iš Dubysa: 1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais.
+- susijęs iš Dubysa: Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu.
 - susijęs iš Gardinas: 1917 m. Berno konferencijoje Lietuvos teritorijai siūlyta priskirti Balstogės, Gardino, Slanimo ir Valkavisko apskritis.
 - susijęs iš Gardinas: Užsienio lietuvių atstovai siūlė į „Lithuania Propria“ ribas įtraukti Gardino apskritį.
 - susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
 - susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
 - susijęs iš Gdanskas: Kai kurie Klaipėdos krašto lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko.
 - susijęs iš Griunvaldas: 1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę.
+- susijęs iš Himalajų kalnai: Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kultas kilo iš prie jų gyvenusios tautos.
 - susijęs iš Ispanija: XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.
 - susijęs iš Italija: Aukštojo mokslo siekę ne dvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus.
 - susijęs iš Italija: Aukštojo mokslo siekę nedvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus.
@@ -1029,7 +1099,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Kaunas: Kaune lietuviai konstravo ir statė karo bei sporto lėktuvus, įskaitant lengvuosius bombonešius, ir gamino sportinius sklandytuvus.
 - susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
 - susijęs iš Kaunas: 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis užimtame Kaune per radiją paskelbė apie Lietuvos valstybės atkūrimą.
-- susijęs iš Kaunas: Emmanuelis Levinas gimė Kaune ir baigė gimnaziją.
 - susijęs iš Kaunas: 1941 m. birželio 23 d. užėmus Kauno radiją, LAF atstovas Leonas Prapuolenis paskelbė apie Lietuvos valstybės atkūrimą.
 - susijęs iš Kaunas: 1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.
 - susijęs iš Kauno gubernija: 1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.
@@ -1084,6 +1153,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Nemunas: 1914 m. Gintarinėje deklaracijoje lietuviai siekė sujungti apie Nemuną esančias Didžiąją ir Mažąją Lietuvą.
 - susijęs iš Nemuno-Dauguvos-Dniepro plotas: Viduriniame geležies amžiuje baltai ir toliau gyveno Nemuno, Dauguvos ir Dniepro plote, nedaug tepajudėdami.
 - susijęs iš Oksfordas: Oksfordo daktarai rėmėsi Martyno Smigleckio „Logika“ (1618 m.), vienu iš Vilniaus universiteto profesorių veikalų, pasiekusių protestantiškąją Angliją.
+- susijęs iš Oskolas: Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir budinų gyvenimu tarp Dono ir Doneco.
 - susijęs iš Palestina: Europoje skelbiami kryžiaus karai prieš turkus Palestinoje skatino savanorius karius vykti į kovas su pagonimis.
 - susijęs iš Pietų Afrikos Respublika: 1967 m. Pietų Afrikos Respublikoje Christiaan Barnard atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.
 - susijęs iš Pietų Rusija: Virvelinės keramikos kultūros šaknų ieškoma Pietų Rusijoje.
@@ -1097,8 +1167,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Prancūzija: LLV Konstitucija buvo priimta keliais mėnesiais anksčiau už Prancūzijos konstituciją.
 - susijęs iš Prancūzija: Į Prancūzijos universitetus vykdavo mokytis tie, kurie nesiruošė dvasininkais.
 - susijęs iš Prancūzija: Aukštojo mokslo siekę ne dvasininkai vykdavo į Vakarų Europos universitetus Vokietijoje, Italijoje ir Prancūzijoje.
+- susijęs iš Prilvicas: Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir laikė Retrą pirmykščiu herulų miestu.
 - susijęs iš Pripetės pelkės: Pripetės pelkės ilgus amžius iš pietų pusės saugojo baltus kaip gamtinė judėjimo kliūtis.
 - susijęs iš Pripetės pelkės: Pripetės pelkės ilgus amžius iš pietų pusės saugojo baltus kaip sunkiai pereinama gamtinė kliūtis.
+- susijęs iš Retra: Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie Prilvico kaimo netoli Penclino Meklenburge.
 - susijęs iš Rokiškio apskritis: Bronislovo Komorovskio tėvo šaknys Lietuvoje siejamos su jo dvaru Rokiškio apskrityje.
 - susijęs iš Rokiškio apskritis: Lenkijos prezidento Bronislovo Komorovskio tėvo šaknys siejamos su dvaru Rokiškio apskrityje.
 - susijęs iš Rusija: Šiaurės Europą dengęs ledynas buvo apėmęs ir vidurio Rusiją.
@@ -1147,20 +1219,21 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš Vokietija: 1940 m. birželio 16 d. sovietų divizijos per Lietuvą strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.
 - susijęs iš Vokietija: Aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo detalių.
 - susijęs iš Vokietija: Dvasininkais besirengiantys studentai paprastai vykdavo į Krokuvą, o kiti mokėsi Vokietijos, Italijos ir Prancūzijos universitetuose.
+- susijęs iš Volkovysko apskritis: Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskrityje, kairiajame Nemuno vidurupio krante.
 - susijęs iš Voluinė: Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi.
 - susijęs iš Voluinė: Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi.
 - susijęs iš Vorskla: Vytauto organizuotas kryžiaus žygis 1399 m. baigėsi pralaimėjimu prie Vorsklos.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš Vysla: Kronikos įvade Vyslos žemupys nurodomas kaip viena Kryžiuočių ordino ekspansijos į baltų žemes ploto riba.
+- susijęs iš Vysla: Narbutas mitologiniame aiškinime siejo Krivių Krivaičio valdžios ribas su žemėmis nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.
 - susijęs iš Vytauto Didžiojo karo muziejus: Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.
 - susijęs iš Vyšnivecis: Vyšnioveckiai sukūrė tėvoniją Vyšnivecyje, Voluinėje.
 - susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
 - susijęs iš White Plains: 1974 m. spalio 26–27 d. White Plainse vyko lietuvių laisvinimo darbo konferencija, patvirtinusi siekį atstatyti nepriklausomą Lietuvą.
 - susijęs iš Švedija: 1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama „tvanu“.
 - susijęs iš Švedija: Valdant Vazų dinastijai Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija 1654–1667 metais.
-- susijęs iš Žemaitija: 1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
-- susijęs iš Žemaitija: Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai.
+- susijęs iš Švedija: Narbutas Švediją ir Daniją pateikė kaip kraštus, kuriuose prie didžiųjų šventyklų susirinkdavo gausios žmonių minios.
 - susijęs iš [[objektai/zodynas/Austurweg.md#claim-t-54799|Austurweg]]: Austurweg pavadinimas buvo taikomas Baltijos jūros pakrantei nuo Vyslos žiočių iki Suomijos įlankos.
 - susijęs iš [[objektai/zodynas/Austurweg.md#claim-t-54800|Austurweg]]: Austurweg buvo normanų vartotas Baltijos jūros pakrantės nuo Vyslos žiočių iki Suomijos įlankos pavadinimas.
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-183400|Bajorų respublika liberum veto]]: Lenkijoje ir Lietuvoje visuomenės agrarinis pobūdis ir miestų silpnumas lėmė Bajorų respublikos susiformavimą.
@@ -1168,6 +1241,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla.md#claim-t-21978|Baroko epocha Vilniaus baroko mokykla]]: XVIII a. susiformavo originali Vilniaus baroko mokykla, kurios pagrindiniu architektu laikomas Jonas Kristupas Glaubicas.
 - susijęs iš [[objektai/zodynas/Baroko epocha.md#claim-t-21979|Baroko epocha]]: XVIII a. susiformavo originali Vilniaus baroko mokykla, kurios pagrindiniu architektu laikomas Jonas Kristupas Glaubicas.
 - susijęs iš [[objektai/zodynas/Bolonijos deklaracijos tikslas.md#claim-t-21985|Bolonijos deklaracijos tikslas]]: Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę.
+- susijęs iš [[objektai/zodynas/Dangaus kūnų sudievinimas.md#claim-t-189146|Dangaus kūnų sudievinimas]]: Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo manymu, kilo kai kurie anksčiau aptarti lietuvių dievaičiai.
 - susijęs iš [[objektai/zodynas/Laisvoji rinka.md#claim-t-75565|Laisvoji rinka]]: Po sovietinės sistemos žlugimo daugelis Lietuvos pramonės įmonių neteko žaliavų, rinkų ir užsakymų.
 - susijęs iš [[objektai/zodynas/Laisvoji rinka.md#claim-t-75566|Laisvoji rinka]]: Suomijos, laisvosios rinkos šalies, ekonomika smuko daugiau kaip dešimt procentų, nes 22 proc. produkcijos Suomija eksportavo į SSRS.
 - susijęs iš [[objektai/zodynas/Lietuviška Lietuva.md#claim-t-75571|Lietuviška Lietuva]]: Lietuviška Lietuva, nors tarpais buvo be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu.
@@ -1176,6 +1250,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/zodynas/Personalinė unija.md#claim-t-182717|Personalinė unija (unija)]]: Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.
 - susijęs iš [[objektai/zodynas/Personalinė unija.md#claim-t-182718|Personalinė unija (unija)]]: Savotiškos personalinės unijos reikalavo lietuviai.
 - susijęs iš [[objektai/zodynas/Planinė ekonomika.md#claim-t-183452|Planinė ekonomika]]: Planinės ekonomikos metais Lietuvos visuomenėje tikėta, kad perėmus gamybą bus galima ją paskirstyti pagal poreikius ir valstybė suklestės.
+- susijęs iš [[objektai/zodynas/Plikasis kalnas Lyse góry.md#claim-t-189171|Plikasis kalnas Lyse góry]]: Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypač šiaurėje, nuogus ir be medžių aukų kalnus.
 - susijęs iš [[objektai/zodynas/Rinkos ekonomika.md#claim-t-22022|Rinkos ekonomika]]: Sukūrusi rinkos ekonomiką Lietuva tapo jautresnė pasaulinėms ir regioninėms ekonomikos krizėms bei globalizacijos poveikiui.
 - susijęs iš [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas.md#claim-t-86508|Romos tikėjimas graikų apeigų tikėjimas]]: Romos tikėjimo skelbėjais vadinti Vilniaus pranciškonai, kuriuos 1341 m. užpuolė sukurstyti pagonys.
 - susijęs iš [[objektai/zodynas/Soclageris.md#claim-t-183464|Soclageris]]: Soclagerio politinės, ekonominės ir tautinės krizės sąlygomis lietuviai sukūrė tautinio judėjimo modelį ir prisidėjo prie SSRS vienpartinio režimo žlugimo.
@@ -1218,13 +1293,15 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/zodynas/vienvaldystė.md#claim-t-77809|vienvaldystė]]: Augustinas Voldemaras, būdamas premjeru ir užsienio reikalų ministru, konfliktavo su ministrais ir ėmė pretenduoti į vienvaldystę.
 - susijęs iš [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta.md#claim-t-58940|viešpaties dievo kariuomenė dievo tauta]]: Kronikoje Ordino broliai vadinami „viešpaties dievo kariuomene“ ir „dievo tauta“.
 - susijęs iš [[objektai/zodynas/šventas sumanymas.md#claim-t-58942|šventas sumanymas]]: „Šventas sumanymas“ kronikos įvade siejamas su stojimu į Ordiną ir jo veiksmų pateisinimu krikščionybės platinimu.
+- susijęs iš [[objektai/grupes/Budinai.md#claim-t-189468|Budinai]]: Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso.
 - susijęs iš [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.).md#claim-t-05290|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]: Gedimino vardu į Vakarų Europą įvairiems adresatams buvo išsiuntinėti šeši laiškai.
+- susijęs iš [[objektai/grupes/Budinai.md#claim-t-189469|Budinai]]: Narbutas pasakojo, kad gelonai ir budinai apsigyveno prie Nemuno vidurupio ir Volkovysko apskrityje upę pavadino Rose.
 - susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187823|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: Masonų ložės ir studentų organizacijos sąmokslų nerezgė, bet kūrė valdžiai nepaklusnią atmosferą.
 - susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187826|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: Masonų ložės ir studentų organizacijos sąmokslų nerezgė, bet kūrė valdžiai nepaklusnią atmosferą.
 - susijęs iš [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui.md#claim-t-45355|Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]: Baigiantis Antrajam pasauliniam karui tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus, bijodami Raudonosios armijos sugrįžimo ir deportacijų.
 - susijęs iš [[objektai/asmenys/Vinrichas von Kniprodė.md#claim-t-117889|Vinrichas von Kniprodė]]: Vinrichas von Kniprodė 1351–1382 m. buvo Vokiečių ordino magistras.
+- susijęs iš Oskolas: Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir budinų gyvenimu tarp Dono ir Doneco.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1339,10 +1416,61 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+- c-006
+  santrauka: 'Narbutas vertino, kad apie 2000 m. pr. Kr. egiptiečiai pietiniuose Europos pakraščiuose rado žmones, kuriems buvo lemta iškilti.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tokia pat dvasia gyveno dau­
+    gybė senųjų Azijos tautų.
+    Prieš 2000 metų iki krikščioniškosios eros, kai egiptiečiai
+    pradėjo bendrauti su pietiniais Europos pakraščiais, jie tenai
+    rado visai kitų polinkių žmones, kuriems lemtis lėmė iškilti
+    visose srityse. Mat vos Europos tautos pasiekė tam tikrą civili­
+    zacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili­
+    zuotų Azijos ir Afrikos gyventojų -  jis milžiniškais žingsniais
+    80
+
+    ## Puslapis 80
+
+    pakilo siekti šviesos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-007
+  santrauka: 'Narbutas Perkūną apibūdino kaip senovės Europoje plačiai paplitusį dievą, dangaus ir žemės karalių bei gamtos valdovą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pagal lietuvių mitologijos dvasią galėjo būti taip,
+    kad aukštesniojo dievo mitas vėliau virto legenda apie kuni-
+    92
+
+    ## Puslapis 92
+
+    gaikštį, pirmąjį vyriausiąjį žynį ir tautos įstatymų leidėją, kuris
+    buvo laikomas tautos tėvu, kaip Viršaitis buvo dievų tėvas3.
+    Perkūnas (Perkūnas)
+    Perkūnas, Jupiteris griausmavaldis, Jupiter tonam -  seno­
+    vės Europoje labiausiai paplitęs dievas, dievų, dangaus ir že­
+    mės karalius, gamtos valdovas. Žmogus, vadovaudamasis įgim­
+    tu jausmu, pajutęs dievą savo širdyje, protu ieškojo jo aplin­
+    koje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 - [[objektai/asmenys/Snorro Sturleson]] keliavo_i Europa
+- [[objektai/grupes/Budinai]] keliavo_i Europa
 - [[objektai/vietos/Lietuva]] priklause Europa
 - [[objektai/grupes/Lietuviai]] gyveno Europa
-- [[objektai/asmenys/Gediminas]] siunte_i Europa
+- [[objektai/grupes/Samojedai]] gyveno Europa
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] siunte_i Europa
 - [[objektai/grupes/Kryžiuočių ordinas]] prekiavo_su Europa

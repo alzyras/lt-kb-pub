@@ -224,10 +224,9 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185601|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185601|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179255|Lietuviai]]: 1300 m. šeši tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami, imdami belaisvius ir degindami turtą.
 - susijęs iš [[objektai/asmenys/Dovydas.md#claim-t-82261|Dovydas]]: Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176347|Gediminas]]: 1323 ir 1324 m. Gediminas su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176397|Gediminas]]: Gediminas 1323 ir 1324 metais su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176347|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 ir 1324 m. Gediminas su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176397|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas 1323 ir 1324 metais su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89380|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: Lietuvos kariuomenė vasarą puolė Ordiną Semboje ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89381|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę ginti Mazovijos.
 - susijęs iš A. Vijūko-Kojelavičiaus Lietuvos istorija: A. Vijūko-Kojelavičiaus Lietuvos istorijos p. 270 minimas Gedimino 1323-1324 m. įsiveržimas į Mazoviją ir Dobrynės žemę.
@@ -239,10 +238,10 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - susijęs iš Mazovija: Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, kaimyninė Mazovija ir artimos apylinkės.
 - susijęs iš [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė).md#claim-t-87619|Anastazija (Dobrynės kunigaikštienė)]]: Anastazija valdė Dobrynės kunigaikštystę maždaug tuo metu, kai ši smarkiai nukentėjo per lietuvių antpuolį.
 - susijęs iš [[objektai/asmenys/Dovydas.md#claim-t-82261|Dovydas]]: Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176347|Gediminas]]: 1323 ir 1324 m. Gediminas su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176397|Gediminas]]: Gediminas 1323 ir 1324 metais su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176347|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 ir 1324 m. Gediminas su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176397|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas 1323 ir 1324 metais su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184414|Kazimieras Didysis]]: Kazimieras III Dobrynės žemę buvo atidavęs Vladislovui iš Opolės.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93437|Kristijonas]]: Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93437|Kristijonas (vyskupas, XIII a.)]]: Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90044|Traidenis (valdovas, XIII a.)]]: Viename dokumente pasakojama, kad kunigaikštis Traidenis įsiveržė į Dobrynės žemę.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90050|Traidenis (valdovas, XIII a.)]]: Kunigaikščiai Ziemovitas ir Traidenis įsiveržė į Dobrynės žemę.
 - susijęs iš [[objektai/asmenys/Vladislovas iš Opolės.md#claim-t-93549|Vladislovas iš Opolės]]: Vladislovas iš Opolės sutiko, kad Dobrynė ir Kujavija būtų parduotos Ordinui, ir įkeitė Dobrynės žemę.
@@ -305,6 +304,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184494|Kryžiuočių ordinas]]: Atvirame lauke lietuviai laimėjo kautynes su kryžiuočiais, o mūšyje žuvo ordino magistras Burchardas Aremas ir trisdešimt riterių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179226|Lietuviai]]: 1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179254|Lietuviai]]: Plėšikaujančios lietuvių gaujos niokojo krikščionių žemes, kai Prūsijoje pasklido gandas apie Gedimino norą krikštytis.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190599|Lietuviai]]: Narbutas rašė, kad lietuvių laidotuvių giesmės vadinamos raudomis ir skambėjo visose lietuvių genties tautose.
 - susijęs iš [[objektai/ivykiai/Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.).md#claim-t-62828|Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.)]]: 1323 m. Žemaitijos lietuviai sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.
 - susijęs iš [[objektai/ivykiai/Medininkų žemės mūšis (1320 m. liepos 27 d.).md#claim-t-62876|Medininkų žemės mūšis (1320 m. liepos 27 d.)]]: 1320 m. liepos 27 d. Medininkų žemėje Lietuvos kariuomenė sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
 - susijęs iš [[objektai/paprociai/Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas.md#claim-t-87297|Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas]]: Rugpjūtį lietuviai prie Vėluvos sudegino šešis kaimus ir nužudė kryžiuotį Fridrichą fon Quitzą su 36 kariais.
@@ -345,7 +345,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - susijęs iš Vysla: Prūsijos žemės aprašyme Vysla minima kaip viena iš Prūsijos ribų.
 - susijęs iš Vėluva: 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.
 - susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
-- susijęs iš Žemaitija: 1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
 - susijęs iš [[objektai/zodynas/kunigaikštija.md#claim-t-36803|kunigaikštija]]: Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža.
 - susijęs iš [[objektai/zodynas/superarbitras.md#claim-t-36837|superarbitras]]: Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą.
 - susijęs iš [[objektai/paprociai/Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas.md#claim-t-87297|Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas]]: Rugpjūtį lietuviai prie Vėluvos sudegino šešis kaimus ir nužudė kryžiuotį Fridrichą fon Quitzą su 36 kariais.
@@ -539,12 +538,12 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] puole Dobrynė
 - [[objektai/grupes/Kryžiuočių ordinas]] uzeme Dobrynė
-- [[objektai/grupes/Lietuviai]] puole Dobrynė
 - [[objektai/asmenys/Dovydas]] surenge_zygi_i Dobrynė
-- [[objektai/asmenys/Gediminas]] puole Dobrynė
-- [[objektai/asmenys/Gediminas]] surenge_zygi_i Dobrynė
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] puole Dobrynė
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] surenge_zygi_i Dobrynė
 - [[objektai/grupes/Lietuvos kariuomenė]] surenge_zygi_i Dobrynė
 - [[objektai/asmenys/Dovydas]] puole Dobrynė
+- [[objektai/grupes/Lietuviai]] puole Dobrynė
 - [[objektai/grupes/Lietuviai]] surenge_zygi_i Dobrynė
 - [[objektai/grupes/Lietuviai]] uzeme Dobrynė
 - [[objektai/asmenys/Ziemovitas]] surenge_zygi_i Dobrynė

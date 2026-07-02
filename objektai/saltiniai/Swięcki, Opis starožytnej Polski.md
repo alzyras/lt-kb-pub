@@ -1,0 +1,51 @@
+---
+tipas: saltinis
+pavadinimas: 'Swięcki, Opis starožytnej Polski'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+sukurta: ''
+atnaujinta: ''
+---
+# Swięcki, Opis starožytnej Polski
+
+## Santrauka
+
+Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dėl Triznų giminės kilmės iš Seversko žemės.
+
+## Teiginiai
+<a id="claim-t-190563"></a>
+- t-001
+  global_id: t-190563
+  teiginys: 'Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dėl Triznų giminės kilmės iš Seversko žemės.'
+  pagrindžia:
+    - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 653323-653429; hash=3c7471dfb29513ee8df142052faba4c4491c2d1dc809b1b8f677eca70ee5e34f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Seversko žemės: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Triznų giminė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Seversko žemės: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Triznų giminės kilmę iš Seversko žemės; leistina artimiausia vietos semantika yra gyveno.
+
+## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
+- c-001
+  santrauka: 'Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dėl Triznų giminės kilmės iš Seversko žemės.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Net buvo ap­
+    23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-
+    rožytnej Polski. -  T. II).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

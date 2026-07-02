@@ -37,29 +37,35 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-187992"></a>
-- t-001
-  global_id: t-187992
-  teiginys: 'Narbutas rašo, kad kronikos nenurodo, ar apžado aukos mergaitė būdavo sudeginama gyva, ar pirma užmušama.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Išskleistas citatos subjektas ir patikslinta, kad neaiškumą Narbutas sieja su kronikų tyla. Nepridėta duomenų apie apeigas už šios formuluotės ribų.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-187993"></a>
-- t-002
-  global_id: t-187993
+- t-004
   teiginys: 'Narbutas apžado auką sieja su grobiamaisiais žygiais, kai būrio vadas pažadėdavo gražiausią grobį dievams.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie paprotį ir išlaiko Narbuto atribuciją. Papildomų faktų už citatos ribų nepridėta.'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 557626-558013; hash=f77b4f29959511c1e6fbf2b632cc97f80ce5a36d742cacbcd3964beb64877ca6; match=exact
+  sprendimo_priezastis: gap::customs
+- t-005
+  teiginys: 'Narbutas rašo, kad kronikos nenurodo, ar apžado aukos mergaitė būdavo sudeginama gyva, ar pirma užmušama.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 557779-558202; hash=b17c57424d2ffb2d44ce84621ab1ae40ffdee646c8219cd3ce823e9bfacc5210; match=exact
+  sprendimo_priezastis: gap::customs
+  ryšio_patikimumas: susije_su -> Drabužiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Apžado auka iš karo grobio: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Drabužiai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Apžado auka iš karo grobio" parinktas kaip owner_note_path. Targetas "Drabužiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Narbutas apžado auką sieja su grobiamaisiais žygiais, kai būrio vadas pažadėdavo gražiausią grobį dievams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     15. Apžado auka. Kartais žygiuojant į svetimą žemę gro­
@@ -73,13 +79,13 @@ Nenurodyta
     mergaitė, -  o tokio grobio buvo labai vaikomasi, -  kurios gro­
     žis, o todėl ir vertė viršydavo kitus paskirus pagrobtus daly­
     kus, tokią mergaitę sugrįžę į tėvynę paaukodavo dievams.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 - c-002
   santrauka: 'Narbutas rašo, kad kronikos nenurodo, ar apžado aukos mergaitė būdavo sudeginama gyva, ar pirma užmušama.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -91,10 +97,10 @@ Nenurodyta
     nikos tyli, ar sudegindavo gyvą, ar pirma užmušdavo. Tikra tik
     tai, kad ją išpuošdavo vainikais, gėlėmis, aprengdavo puoš­
     niais drabužiais ir atlikdavo įprastines aukojimo apeigas16.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-005

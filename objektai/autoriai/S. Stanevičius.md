@@ -34,7 +34,7 @@ Stanevičius — lietuviškų dainų rinkinį.
   ryšio_subjekto_parinkimas: S. Stanevičius: owner_note_path, author, gap=0
   ryšio_targeto_parinkimas: D. Poška: mention_match, author, gap=34
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Stanevičius" parinktas kaip owner_note_path. Targetas "D. Poška" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/autoriai/J. Lasickis.md#claim-t-30684|J. Lasickis]]: S. Stanevičius kritikavo J. Lasickio knygutę apie žemaičių dievus, nes joje paprasti kalbos žodžiai esą paversti dievų vardais.
+- susijęs iš [[objektai/autoriai/J. Lasickis.md#claim-t-30684|Jonas Lasickis]]: S. Stanevičius kritikavo J. Lasickio knygutę apie žemaičių dievus, nes joje paprasti kalbos žodžiai esą paversti dievų vardais.
 ## Reikšmingi paminėjimai
 
 - c-001

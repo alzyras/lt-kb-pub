@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Prutenis'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,7 +17,6 @@ tags:
 Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruteniu ir Videvučiu (SRP, 4, p. 293—298; Jurginis J.
 
 ## Teiginiai
-
 <a id="claim-t-60419"></a>
 - t-001
   global_id: t-60419
@@ -36,10 +36,14 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
   ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=33
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prutenis" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Videvutis.md#claim-t-60073|Videvutis]]: Kai kuriuose šaltiniuose Prūsijos pradžia siejama su Pruteniu ir Videvučiu.
+- susijęs iš [[objektai/ivykiai/Vaidevučio ir Prutenio civilinės bei religinės tvarkos įvedimas.md#claim-t-189633|Vaidevučio ir Prutenio civilinės bei religinės tvarkos įvedimas]]: Narbutas Vaidevutį ir Prutenį vaizduoja kaip geresnės civilinės bei religinės tvarkos įvedėjus, vyriausiuosius žynius ir tautos vadus.
+- susijęs iš [[objektai/asmenys/Prūsijus.md#claim-t-60420|Prūsijus]]: XV a. Prūsijos vardas buvo siejamas su II a. pr. m. e. Bitinijos karaliumi Prūsijumi.
+- susijęs iš J. Dlugošo Analai, arba kronikos: J. Dlugošo „Analuose“ Prūsijos vardas buvo siejamas su II a. pr. m. e. Bitinijos karaliumi Prūsijumi.
+- susijęs iš [[objektai/asmenys/Videvutis.md#claim-t-60073|Videvutis]]: Kai kuriuose šaltiniuose Prūsijos pradžia siejama su Pruteniu ir Videvučiu.
+- susijęs iš [[objektai/ivykiai/Vaidevučio ir Prutenio civilinės bei religinės tvarkos įvedimas.md#claim-t-189633|Vaidevučio ir Prutenio civilinės bei religinės tvarkos įvedimas]]: Narbutas Vaidevutį ir Prutenį vaizduoja kaip geresnės civilinės bei religinės tvarkos įvedėjus, vyriausiuosius žynius ir tautos vadus.
 - susijęs iš [[objektai/asmenys/Prūsijus.md#claim-t-60420|Prūsijus]]: XV a. Prūsijos vardas buvo siejamas su II a. pr. m. e. Bitinijos karaliumi Prūsijumi.
 - susijęs iš J. Dlugošo Analai, arba kronikos: J. Dlugošo „Analuose“ Prūsijos vardas buvo siejamas su II a. pr. m. e. Bitinijos karaliumi Prūsijumi.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vienoje XV a. tradicijoje Prūsijos pradžia buvo siejama su Pruteniu ir Videvučiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

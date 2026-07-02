@@ -63,7 +63,12 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Juostos: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=17
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juostos" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190597|Lietuviai]]: Narbutas rašė, kad jaunos netekėjusios lietuvaitės nešiodavosi prie juostos prikabintus varpelius, kad tėvai girdėtų jų judėjimą.
+- susijęs iš [[objektai/asmenys/Juozapas Ignotas Kraševskis.md#claim-t-190035|Juozapas Ignotas Kraševskis]]: Anot Kraševskio, mirusįjį palietę žmonės lietuvių laidojimo papročiuose tapdavo „nešvarūs“.
+- susijęs iš [[objektai/autoriai/Juozapas Ignacas Kraševskis.md#claim-t-190432|Juozapas Ignacas Kraševskis]]: Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“.
 - susijęs iš [[objektai/daiktai/Troba.md#claim-t-08341|Troba]]: Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
+- susijęs iš J. I. Kraševskio veikalas apie Lietuvą: Narbutas nurodo, kad, anot Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“.
 ## Reikšmingi paminėjimai
 
 - c-001

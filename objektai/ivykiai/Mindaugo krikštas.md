@@ -159,14 +159,13 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Klemensas IV.md#claim-t-183552|Klemensas IV]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113903|Mindaugas (valdovas, XIII a.)]]: Mindaugo krikštas ir karalystė nepanaikino pagoniškų dievų vaidmens Lietuvoje.
 - susijęs iš Klemenso IV bulė apie Mindaugą (1268 m.): 1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113787|Goštautas (vyskupas, XV a.)]]: Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179357|Livonijos ordinas]]: Mindaugo krikštas nepašalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Žemaitija.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179384|Livonijos ordinas]]: 1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179426|Livonijos ordinas]]: Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija ir išlaikyti krikščionio valdovo statusą.
 - susijęs iš [[objektai/posakiai/„šviesaus atminimo valdovu“.md#claim-t-77863|„šviesaus atminimo valdovu“]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“.
 - susijęs iš Livonija: Mindaugui reikėjo kovoti su krikščioniškąja Livonija dėl pagoniškos Žemaitijos ir Vakaruose išlaikyti krikščionio valdovo statusą.
-- susijęs iš Žemaitija: Po Mindaugo krikšto Žemaitija buvo prarasta kaip etninės Lietuvos dalis, o ordinų pavojus neišnyko.
 - susijęs iš Žemaitija: Po Mindaugo krikšto Žemaitija buvo prarasta kaip etninės Lietuvos dalis, o ordinų pavojus neišnyko.
 ## Reikšmingi paminėjimai
 

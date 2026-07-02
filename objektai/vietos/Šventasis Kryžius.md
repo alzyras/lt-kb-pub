@@ -110,10 +110,9 @@ J. Dlugošo pasakojime Sandomiro kraštas niokojamas iki Šventojo Kryžiaus vie
     sidabriniuose apsoduose.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
     - t-002

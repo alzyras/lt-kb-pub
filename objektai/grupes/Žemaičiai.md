@@ -9,6 +9,7 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -16,18 +17,17 @@ datos:
   - '1237 m.'
   - '1259 m.'
   - '1260 m.'
-  - '1263 m.'
   - '1930 m.'
 date_start: '1236'
 date_end: '1930'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - grupe
-  - sukilimas
 amziai:
   - 'XIII'
   - 'XX'
+tags:
+  - grupe
+  - sukilimas
 ---
 # Žemaičiai
 
@@ -36,7 +36,6 @@ amziai:
 Žemaičiai lokalizuojami Klaipėdos krašte ir Kuršių marių pakrantėse. Žemaičiai yra pagrindinis ordino karinis tikslas. Kituose šaltiniuose jie rodomi kaip savarankiškumą išlaikanti bendruomenė, anksti pradėjusi intensyvius karo žygius prieš vokiečius, taiką tvirtinusi delnų sudaužymu ir palaikiusi prekybinius ryšius su rygiečiais. Daukanto tekste jie dar aiškinami kaip pajūrių arba žemai gyvenantys žmonės, Perūną vadinę Kūrėju, žinyčiose nestatę savo dievų paveikslų ir motinų išlaikyta sena kalba besididžiuojanti bendruomenė.
 
 ## Teiginiai
-
 <a id="claim-t-176115"></a>
 - t-001
   global_id: t-176115
@@ -61,7 +60,7 @@ amziai:
 - t-003
   global_id: t-176117
   teiginys: '1413 m. vasario 6 d. Vilniuje Jogaila ir Vytautas įgaliojo dvasininkus vesti derybas su kryžiuočiais, atstovaujant žemaičiams.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Gniezno; mentioned_place: Lenčica; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1413 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -72,7 +71,7 @@ amziai:
   global_id: t-176119
   teiginys: 'Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o prieš Durbės mūšį ir jame mini lietuvius arba pagonis.'
   sudarymo_pagrindimas: 'Pašalintas antraštinis triukšmas ir suformuotas glaustas sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Durbė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Georgenburgas; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_place: Durbė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Georgenburgas; mentioned_place: Livonija; llm_object: Georgenburgas'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas antraštinis triukšmas ir suformuotas glaustas sakinys.'
@@ -113,7 +112,7 @@ amziai:
   global_id: t-176123
   teiginys: 'Žemaičiai buvo viena iš šešių pagrindinių lietuvių tautos atšakų.'
   sudarymo_pagrindimas: 'Pradinis teiginys labiau kalba apie Žemaitiją, todėl perrašyta aiškiai apie note objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Thunmanas|Thunmanas]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Gardinas; mentioned_place: Nemunas; mentioned_place: Vilija; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-020
 
@@ -228,7 +227,6 @@ amziai:
   global_id: t-176140
   teiginys: 'Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą ir nužudė apie 70 žmonių.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų veiksmą, bet pradiniame teiginyje yra OCR triukšmo ir nutrūkusi pabaiga.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis'
   pagrindžia:
     - c-023
 
@@ -279,7 +277,7 @@ amziai:
   global_id: t-176148
   teiginys: 'Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata apie žemaičių sutartį su Ordinu.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Čeltyčios|Čeltyčios]]; mentioned_place: Baltija; mentioned_place: Pajūris'
   semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-012
@@ -494,7 +492,6 @@ amziai:
   global_id: t-176161
   teiginys: 'Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių ir jį sudegino.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį, bet verta pridėti laiką ir išvengti pasikartojimo „miestą“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis'
   pagrindžia:
     - c-023
 
@@ -842,6 +839,180 @@ amziai:
   ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
   ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
   ryšio_paaiskinimas: Citatoje žemaičiai aiškiai atėjo prie Trakų.
+
+<a id="claim-t-188361"></a>
+- t-059
+  global_id: t-188361
+  teiginys: 'Dionizo Poškos 1829 m. straipsnis „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“ siejamas su Žemaičių istorijos rašymo atmosfera.'
+  pagrindžia:
+    - c-054
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 89106-89467; hash=310624a9e2dcc8a1552cb800858fbd63d7a92b849506a70cc4fe741eee47c5bf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188362"></a>
+- t-060
+  global_id: t-188362
+  teiginys: 'Narbutas savo Lietuvos senovės tyrimų lobiu vadino papročius, prietarus, pasakojimus, padavimus ir dainas, rinktus iš Žemaičių, Lietuvos, Prūsų ir Latvijos.'
+  pagrindžia:
+    - c-055
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 153162-153686; hash=c54751fd984c3928c37b0df3fdc615287384992e6dcc4c8e7c857f3fe1531e4b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Latvija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Latvija: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Latvija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188363"></a>
+- t-061
+  global_id: t-188363
+  teiginys: 'Narbutas mini pajūrio žemaičių dainą, kurioje apverkiami jūreiviai, esą pagrobti paaukoti audrai.'
+  pagrindžia:
+    - c-056
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 187325-187672; hash=c1906783f30e06f1b47b8e3921763f15484317d342120cd67733b9e2787f3725; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad žemaičiai sudarė sutartį su Ordinu.
+<a id="claim-t-188364"></a>
+- t-062
+  global_id: t-188364
+  teiginys: 'Yra padavimas, jog Žemaičiuose buvę septynios deivės par kos.'
+  pagrindžia:
+    - c-057
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 246752-246969; hash=ee2aa75010b206d8c3ccd8200f017eb4f4f3c6b0508a0681fe5592f32cd09be7; match=exact
+  sprendimo_priezastis: auto
+<a id="claim-t-188365"></a>
+- t-063
+  global_id: t-188365
+  teiginys: 'Narbutas rašė, kad pajūrio žemaičių vaizduotėje Čeltyčios buvo Baltijos jūros nimfos, gyvenančios gintaro rūmuose jūros gelmėse.'
+  pagrindžia:
+    - c-058
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 263982-264344; hash=11b81c9f8a6169cd3930bf7f73b102c0f5a547b10a3c015f320c85791b55587b; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188366"></a>
+- t-064
+  global_id: t-188366
+  teiginys: 'Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių siejo su atsargiu elgesiu su ugnimi ir teigė, kad Žemaičiuose jis buvo dievinamas „Dims tipo“ vardu.'
+  pagrindžia:
+    - c-059
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 281132-281365; hash=0c1eb62b2094eab34cf625461a9b701eb7e3d937a693000b4330826fe109b3fe; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188367"></a>
+- t-065
+  global_id: t-188367
+  teiginys: 'Narbutas rašė, kad žemaičiai religijos pasikeitimą aiškino krikščionių užgesinta amžinąja ugnimi, dėl kurios Perkūnas sušals, o dievai užmigs.'
+  pagrindžia:
+    - c-060
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 384434-384683; hash=c99e424f525a1e4a8e4b0cfa175dd26417b747ddb3b8432ea8b03e93cb114227; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krikščionys: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Krikščionys: mention_match, group, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188368"></a>
+- t-066
+  global_id: t-188368
+  teiginys: 'Narbutas žemaičių liaudies procesijų paprotį gultis veidu į žemę po brolijų altorėliais aiškino kaip senųjų stabmeldiškų apeigų tąsą.'
+  pagrindžia:
+    - c-061
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 603174-603710; hash=3d7874d1141c84b19484602901f4deeb3380ea2734e0ec5a92a323bc8eb80f67; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyne -> Georgenburgas: 0.81
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas sako, kad vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą; tai pagrindžia gynimo ryšį.
+<a id="claim-t-188369"></a>
+- t-067
+  global_id: t-188369
+  teiginys: '1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius.'
+  pagrindžia:
+    - c-062
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 652697-653017; hash=e4506876e1ce191f5c8c27a1f7bc87762a23bf65e146b771139a05201876a149; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188370"></a>
+- t-068
+  global_id: t-188370
+  teiginys: 'Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daug kaimiečių nepažino krikščioniško tikėjimo tiesų.'
+  pagrindžia:
+    - c-063
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 654201-654577; hash=0fb3ccba74cb5114f412838860a505e6308770e1b0f1184a98d009bfe1cb65cc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyne -> Georgenburgas: 0.81
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo vokiečių siekį išsaugoti Georgenburgą, todėl ryšys interpretuojamas kaip gynimas.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178925|Kryžiuočių ordinas]]: Kai Žemaičių nepavyko įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba į jas kišosi.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179061|Kryžiuočių ordinas]]: Kai Žemaičių nepavyko įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba į jas sėkmingai kišosi.
 - susijęs iš [[objektai/asmenys/Dlugošas.md#claim-t-184372|Dlugošas]]: Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.
@@ -851,6 +1022,7 @@ amziai:
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184440|Martynas V]]: Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją.
 - susijęs iš [[objektai/asmenys/Otonas.md#claim-t-184812|Otonas]]: Livonijos magistras Otonas žuvo prie Eželio ant ledo kovodamas su žemaičiais ir lietuviais.
 - susijęs iš [[objektai/asmenys/Vydimantas.md#claim-t-35338|Vydimantas]]: Vydimantas buvo žinomas Žemaičių bajoras, kurio dukterį Birutę vedė Kęstutis.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-188449|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis Ilgių šventę laikė visai neseniai pradėta žemaičių švente.
 - susijęs iš [[objektai/daiktai/Kalvė.md#claim-t-08291|Kalvė]]: Kalvėje kalnėnai ir žemaičiai patys sau kalė padargus ir ginklus.
 - susijęs iš [[objektai/daiktai/Kūlgrindos.md#claim-t-06735|Kūlgrindos]]: Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais.
 - susijęs iš [[objektai/grupes/Giruliai.md#claim-t-07834|Giruliai]]: Šeštajame amžiuje giruliais arba girionimis vadinti žemaičiai ir kalnėnai mokėjo auginti linus.
@@ -926,9 +1098,12 @@ amziai:
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176663|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas šiame veikale pavadintas žymiausiu dinastijos atstovu.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176664|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas išvyko į Žemaitiją, kur jo tėvui Kęstučiui nuo seno buvo palankūs paprasti žmonės ir bajorai.
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-187942|Adomas Stanislovas Naruševičius]]: Narbutas Naruševičiui priskyrė nuomonę, kad slavai žinojo panašią ugnį, vadintą Zwicz.
+- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-188396|Adomas Stanislovas Naruševičius]]: Naruševičiaus manymu, slavai taip pat žinojo panašią ugnį, vadintą Zwicz.
 - susijęs iš [[objektai/autoriai/Gadebusch.md#claim-t-88056|Gadebusch]]: Gadebuscho „Livl. Jahrb.“ nurodytas kaip šaltinis, papildantis žinias apie nepaprastą šaltį.
 - susijęs iš [[objektai/autoriai/K. Zabitis Nezabitauskas.md#claim-t-05735|K. Zabitis Nezabitauskas]]: K. Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją.
 - susijęs iš [[objektai/autoriai/S. Stanevičius.md#claim-t-01132|S. Stanevičius]]: S. Stanevičius išleido lietuviškų dainų rinkinį.
+- susijęs iš [[objektai/daiktai/Amžinosios ugnies aukuras, malkos ir pelenai.md#claim-t-189671|Amžinosios ugnies aukuras, malkos ir pelenai]]: Narbutas rašo, kad žinyčios aukuro pelenams buvo priskiriama gydomoji galia, o žyniai iš jų burdavo.
+- susijęs iš [[objektai/daiktai/Amžinosios ugnies aukuras, ąžuolinės malkos ir pelenai.md#claim-t-189719|Amžinosios ugnies aukuras, ąžuolinės malkos ir pelenai]]: Narbutas rašo, kad žinyčios aukuro pelenams buvo priskiriama gydomoji galia, o žyniai iš jų burdavo.
 - susijęs iš [[objektai/daiktai/Laivai Memelyje.md#claim-t-87113|Laivai Memelyje]]: Žemaičiai Memelyje sunaikino didelių ir mažų laivų, o kryžiuočių pilis išliko sveika.
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86994|Laivai, valtys, sieliai ir plaustai]]: Žemaičiai Memelyje sunaikino didelių ir mažų laivų, o kryžiuočių pilis išliko sveika.
 - susijęs iš [[objektai/daiktai/Memelio kryžiuočių pilis, apjuosta siena.md#claim-t-87031|Memelio kryžiuočių pilis, apjuosta siena]]: Per žemaičių antpuolį Memelyje kryžiuočių pilis išliko sveika, nors miestas buvo sudegintas.
@@ -946,6 +1121,8 @@ amziai:
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184544|Lietuviai]]: Livonijos metraščio teigimu, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu.
 - susijęs iš [[objektai/grupes/Normanai.md#claim-t-86723|Normanai]]: Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.
 - susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81593|Prancūzai]]: Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-188351|Slavai]]: Narbutas nurodė Naruševičiaus nuomonę, kad slavai žinojo panašią amžinąją ugnį, vadintą Zwicz.
+- susijęs iš [[objektai/ivykiai/1910 m. A. Briuknerio enciklopedinis straipsnis apie lietuvių mitologiją.md#claim-t-189605|1910 m. A. Briuknerio enciklopedinis straipsnis apie lietuvių mitologiją]]: 1910 m. lenkų enciklopedijos straipsnyje apie lietuvių mitologiją T. Narbutas vadintas „įžymiuoju falsifikatoriumi“.
 - susijęs iš [[objektai/ivykiai/Aukaimio pilies sunaikinimas (1302 ir 1305 m.).md#claim-t-184337|Aukaimio pilies sunaikinimas (1302 ir 1305 m.)]]: Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį.
 - susijęs iš [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md#claim-t-50801|Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]: Vytautas susitarė su Ordinu dėl pagal taiką nustatytų sienų, suteikė laisvę prekybai ir užmezgė draugiškus santykius.
 - susijęs iš [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.).md#claim-t-185559|Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]: Kryžiuočiai puolė Christmemelio pilį taranais ir strėlėmis, o į pagalbą iš Sembos skubėjęs būrys buvo sunaikintas.
@@ -975,7 +1152,7 @@ amziai:
 - susijęs iš [[objektai/posakiai/jeigu jis taps krikščionimi, jam nepasiduosime.md#claim-t-100010|jeigu jis taps krikščionimi, jam nepasiduosime]]: Wigando kronikos duomenimis, 1382 m. vidaus karo metu žemaičiai įspėjo Jogailą, kad jam tapus krikščionimi nepasiduos.
 - susijęs iš [[objektai/posakiai/pinklėmis antremti pinkles.md#claim-t-67305|pinklėmis antremti pinkles]]: Žemaičiai buvo palaikomi siekiant užbėgti už akių didesnėms nelaimėms ir pinklėmis atremti pinkles.
 - susijęs iš [[objektai/posakiai/Žemaičių skundas.md#claim-t-184365|Žemaičių skundas]]: Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris Konstancoje buvo ištisai paskelbtas, skundėsi kieta ordino priespauda ir jo žiaurumais.
-- susijęs iš A. Brückner, Mitologia: Įvadiniame straipsnyje nurodoma, kad 1910 m. lenkų enciklopedijos straipsnyje apie lietuvių mitologiją T. Narbutas vadintas „įžymiuoju falsifikatoriumi“.
+- susijęs iš A. Brückner, Mitologia: 1910 m. lenkų enciklopedijos straipsnyje apie lietuvių mitologiją T. Narbutas buvo pavadintas „įžymiuoju falsifikatoriumi“.
 - susijęs iš Anglija: Rugpjūtį, baigus karinę parengtį Prūsijoje, į žygį atvyko savanorių iš Anglijos ir Prancūzijos.
 - susijęs iš Anglija: Rugpjūtį, pasibaigus pasirengimui mūšiams Prūsijoje, atvyko savanorių iš Anglijos ir Prancūzijos.
 - susijęs iš Aukaimis: Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Aukaimį bei dar tris pilis.
@@ -1025,7 +1202,6 @@ amziai:
 - susijęs iš [[objektai/asmenys/Otonas.md#claim-t-184812|Otonas]]: Livonijos magistras Otonas žuvo prie Eželio ant ledo kovodamas su žemaičiais ir lietuviais.
 - susijęs iš [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.).md#claim-t-185683|Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]: Sūduvos prūsai ir jiems padėję žemaičiai nusiaubė Kulmo kraštą, bet prie Liubavos pasitraukė nuo kryžiuočių puolimo.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2184,6 +2360,187 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-058
+- c-054
+  santrauka: 'Dionizo Poškos 1829 m. straipsnis „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“ siejamas su Žemaičių istorijos rašymo atmosfera.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Be to,
+    ir anuometinė atmosfera buvo palanki tokiam sprendimui pri­
+    imti. Bene geriausiai ją apibūdina 1829 metais „Dziennik Wars-
+    zawski“ išspausdintas Dionizo Poškos straipsnis „Keletas įžan­
+    ginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių
+    istoriją“8. Jis parašytas metai prieš mirtį, todėl jį drįstume lai­
+    kyti tam tikru literatūriniu testamentu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-059
+- c-055
+  santrauka: 'Narbutas savo Lietuvos senovės tyrimų lobiu vadino papročius, prietarus, pasakojimus, padavimus ir dainas, rinktus iš Žemaičių, Lietuvos, Prūsų ir Latvijos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Be to, mano pa­
+    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
+    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
+    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
+    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
+    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
+    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
+    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
+    logija yra raktas seniausiajai tautų istorijai pažinti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-060
+- c-056
+  santrauka: 'Narbutas mini pajūrio žemaičių dainą, kurioje apverkiami jūreiviai, esą pagrobti paaukoti audrai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Valdant Hote-
+    riui, Balderis pakeitė ją žmonių auka (Eddy). Esama dainos,
+    iki šiol pajūrio žemaičių tebedainuojamos, kurioje dainuojan­
+    tis apverkia žuvusius jūreivius, pagrobtus paaukoti audrai, Ju-
+    dime. Juos laukinių žmonių rankos nužudžiusios kaip juodus
+    gyvulius, kurie aukojami audroms, tai yra kuriuos buvo įpras­
+    ta atnašauti audrų dievui.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-061
+- c-057
+  santrauka: 'Yra padavimas, jog Žemaičiuose buvę septynios deivės par kos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Yra padavimas, jog Žemaičiuose buvę septynios deivės par­
+    kos. Jas vadino Deivėmis Valdytojomis (Dejwe-Walditoje). Pir­
+    moji verpdavo žmogaus gyvenimą kuodeliu, gautu iš Ukapirmo;
+    ji buvo vadinama Verpėja (Werpentie).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-062
+- c-058
+  santrauka: 'Narbutas rašė, kad pajūrio žemaičių vaizduotėje Čeltyčios buvo Baltijos jūros nimfos, gyvenančios gintaro rūmuose jūros gelmėse.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Čeltyčios (Czeltice)
+    Tai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių
+    vaizduotėje jos įgaudavo dailių nuogiį merginų, gyvenančių gin­
+    152
+
+    ## Puslapis 152
+
+    taro rūmuose, jūros gelmėse, pavidalą. Jos sugundydavo, nusivi­
+    liodavo į savo slėptuves dailius jaunikaičius, kurie jau niekuo­
+    met iš ten nebesugrįždavo . Tų deivių karalienės vardas buvo
+    Jūratė .
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-063
+- c-059
+  santrauka: 'Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių siejo su atsargiu elgesiu su ugnimi ir teigė, kad Žemaičiuose jis buvo dievinamas „Dims tipo“ vardu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Trotytojas kibirkščių (Trotitas-Kirbixtu)
+    Pasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats
+    pavadinimas reiškia kibirkščių gesintoją. Žemaičiuose jis buvo
+    dievinamas „Dims tipo“ vardu ir priklausė naminių gyvulių gru­
+    pei*.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-064
+- c-060
+  santrauka: 'Narbutas rašė, kad žemaičiai religijos pasikeitimą aiškino krikščionių užgesinta amžinąja ugnimi, dėl kurios Perkūnas sušals, o dievai užmigs.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Žyniai iš jų burdavo. Žemaičiai
+    manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
+    užmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį
+    užgesino .
+    Kaip mano Naruševičius', slavai taip pat žinojo panašią
+    ugnį, vadintą Zwicz.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-065
+- c-061
+  santrauka: 'Narbutas žemaičių liaudies procesijų paprotį gultis veidu į žemę po brolijų altorėliais aiškino kaip senųjų stabmeldiškų apeigų tąsą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Atlikdami religines apeigas, jie naudodavo storus (tuščiavidu­
+    rius) medžių kamienus, aptrauktus žalia oda, kurių garsas bu­
+    vo panašus į patrankos šūvį; jie vadinosi liutaurai (Lietauros)“.
+    Perdėtai pamaldi žemaičių liaudis religiniame gyvenime
+    iki šiol tebeatlieka kai kurias savo senąsias stabmeldiškas apei­
+    gas: per procesiją nešant brolijų altorėlius, žmonės sugula vei­
+    dais į žemę, kad per juos perneštų tuos altorėlius. Bažnyčioje
+    nusilenkdami klaupiasi ir patys mušasi per veidą dešiniuoju
+    delnu, pradėdami nuo kairiojo žando.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-066
+- c-062
+  santrauka: '1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Dar negalime nepaminėti smulkmenų, bylojančių apie Že­
+    maitijoje įsišaknijusį apeiginį dievų garbinimą. Ten jis buvo pa­
+    stebėtas praėjus daugiau nei pusantro šimto metų po krikščiony­
+    bės įvedimo. 1583 metais jėzuitai į Žemaičius ir į Livoniją pa­
+    siuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiu­
+    lius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-067
+- c-063
+  santrauka: 'Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daug kaimiečių nepažino krikščioniško tikėjimo tiesų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Taip jų mokslas rado mora­
+    linę atramą. Po ketverto metų Žemaičių vyskupas Melchioras
+    Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­
+    miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
+    niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
+    kai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
+    kunigas Jeronimas Kninskis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-068
 
 ## Ryšiai
 - Žemaičiai priklause [[objektai/grupes/Lietuviai]]

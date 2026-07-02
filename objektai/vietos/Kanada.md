@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Kanada'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1944 m.'
   - '1967 m.'
@@ -11,10 +12,10 @@ date_start: '1944'
 date_end: '1977'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XX'
+tags:
+  - vieta
 ---
 # Kanada
 
@@ -23,7 +24,6 @@ amziai:
 Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie 30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją. Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje.
 
 ## Teiginiai
-
 <a id="claim-t-68041"></a>
 - t-001
   global_id: t-68041
@@ -44,8 +44,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pritaikytas Kanados objektui ir pašalinta perteklinė detalė apie JAV.'
-  susije_objektai: 'mentioned_place: Australija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Lenkija; llm_object: Australija; llm_object: Kanada'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Kanada'
+  susije_objektai: 'mentioned_place: Australija; mentioned_place: Baltija; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -58,13 +57,33 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   ryšio_subjekto_parinkimas: Kanada: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=24
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kanada" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188704"></a>
+- t-003
+  global_id: t-188704
+  teiginys: 'Narbutas Kanadoje gyvenančių huronų laidotuvių apeigas lygino su aptariamu laidojimo papročių kontekstu.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 639426-639833; hash=7c9e5874c3290ee95bb24a7d2b342baf0ad2a9c406c75b34c6cc1ae35ed92a16; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Kanada: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Huronai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kanada: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Kanadoje gyvenančius huronus.
+- susijęs iš [[objektai/grupes/Huronai.md#claim-t-189489|Huronai]]: Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvių apeigas laikė labai panašiomis į aptariamas apeigas.
 - susijęs iš Australija: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
+- susijęs iš [[objektai/grupes/Huronai.md#claim-t-189489|Huronai]]: Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvių apeigas laikė labai panašiomis į aptariamas apeigas.
 - susijęs iš Didžioji Britanija: Po Antrojo pasaulinio karo dalis lietuvių tremtinių ir pabėgėlių pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
 - susijęs iš Helsinkio Baigiamasis aktas: 1975 m. rugpjūčio 1 d. Helsinkyje pasirašytas Baigiamasis aktas padėjo Lietuvos laisvės bylai.
 - susijęs iš Australija: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
 - susijęs iš Meksika: Meksika pateikiama kaip ispaniškosios kultūros laidos pavyzdys.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Kanadoje ir kitose SSRS aneksijos nepripažinusiose šalyse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -99,6 +118,29 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Narbutas Kanadoje gyvenančių huronų laidotuvių apeigas lygino su aptariamu laidojimo papročių kontekstu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Mes gi apie tai nieko negalime pasakyti*.
+    362
+
+    ## Puslapis 362
+
+    Huronų -  Šiaurės Amerikoje, Kanadoje, gyvenančios tau­
+    tos -  yra labai panašios laidotuvių apeigos. Kam nors mirus,
+    šeima ir kaimynai susirenka atsisveikinti: aprengia mirusiuo­
+    sius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad
+    būtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­
+    je; verkia, priekaištauja, kam juos paliko.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
+- [[objektai/grupes/Huronai]] gyveno Kanada
 - [[objektai/grupes/Lietuviai]] keliavo_i Kanada

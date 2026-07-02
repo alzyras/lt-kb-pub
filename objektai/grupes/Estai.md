@@ -4,6 +4,7 @@ pavadinimas: 'Estai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1260 m.'
   - '2013 m.'
@@ -12,12 +13,12 @@ date_start: '1260'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - grupe
-  - tauta
 amziai:
   - 'XIII'
   - 'XXI'
+tags:
+  - grupe
+  - tauta
 ---
 # Estai
 
@@ -26,7 +27,6 @@ amziai:
 Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent jau tokios pačios kultūrinės galimybės ir.
 
 ## Teiginiai
-
 <a id="claim-t-65144"></a>
 - t-001
   global_id: t-65144
@@ -85,11 +85,33 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   ryšio_subjekto_parinkimas: Estai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Kuršiai: mention_match, group, gap=15
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Estai" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188180"></a>
+- t-004
+  global_id: t-188180
+  teiginys: 'Narbutas rašė, kad laisvės, malonumų ir džiaugsmo deivę Lietuvą tebežinojo lietuviai, latviai ir estai.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 222287-222439; hash=995046d6f89d1921d71c8ace10c1955ea6d92ec4bf3582b136b6c287877be16e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Latviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Estai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Estai" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188263|Lietuviai]]: Narbutas deivę Lietuvą apibūdino kaip laisvės, malonumų ir džiaugsmo deivę, žinomą lietuviams, latviams ir estams.
 - susijęs iš Eiliuotoji Livonijos kronika: Eiliuotojoje Livonijos kronikoje rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius, o jų pavyzdžiu pasekė estai.
 - susijęs iš Dauguvos žiotys: 1202 m. Dauguvos žiotyse susikūrė Kalavijuočių ordinas, vėliau pradėjęs užkariauti lybius, latvius, estus ir kuršius.
 - susijęs iš Estija: SSRS unifikacinė politika nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai pasivyti kaimynes pagal visus parametrus.
 - susijęs iš Latvija: SSRS unifikacinė politika, autorių vertinimu, nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai juos pasivyti.
+- susijęs iš Senoji Trakų vaivadija: Narbutas rašo, kad deivę Lietuvą dar žinojo lietuviai, ypač senojoje Trakų vaivadijoje, taip pat latviai ir estai.
+- susijęs iš [[objektai/zodynas/Lietuva Lietwii kaip laisvės ženklas.md#claim-t-189116|Lietuva Lietwii kaip laisvės ženklas]]: Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo deivę, siejamą su lietuviais, latviais ir estais.
 - susijęs iš [[objektai/zodynas/Vidivarijai.md#claim-t-54797|Vidivarijai]]: Vidivarijų vardas siejamas su nauja pasienio tauta, atsiradusia maišantis venedams, estams ir gotams.
 - susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
 - susijęs iš [[objektai/asmenys/Henrikas Botelis.md#claim-t-116281|Henrikas Botelis]]: Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.
@@ -144,7 +166,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-183422|etnografinės ribos etnografinis principas]]: Lietuvos delegacija sienų klausimu turėjo remtis etnografiniu principu ir būtiniausiomis ekonominėmis korektyvomis.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -211,6 +232,24 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Narbutas rašė, kad laisvės, malonumų ir džiaugsmo deivę Lietuvą tebežinojo lietuviai, latviai ir estai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    127
+
+    ## Puslapis 127
+
+    Lietuva į.Liethua)
+    Laisvės, malonumų, džiaugsmo deivė. Ją tebežino lietu­
+    viai, ypač senojoje Trakų vaivadijoje, latviai ir estai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 - [[objektai/grupes/Kalavijuočių ordinas]] uzkariavo Estai

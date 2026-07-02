@@ -57,6 +57,7 @@ Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties 
   ryšio_subjekto_parinkimas: Bidgoščius: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=33
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bidgoščius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190290|Tadas Volianskis]]: Narbutas informaciją apie užrašą paėmė iš 1844 m. sausio 17 d. Tado Volianskio laiško iš Bidgoščiaus.
 - susijęs iš Radzejovas: Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.
 - susijęs iš Zlotorija: Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir išdavus Bidgoščių.
 - susijęs iš Lenčica: Jogaila Didžiosios Lenkijos kariams liepė rinktis į Lenčicą kovai su Prūsija.

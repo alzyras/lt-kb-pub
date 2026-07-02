@@ -37,15 +37,18 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Kerim Berdis užpuolė brolį Jerim Berdį.
 - susijęs iš [[objektai/asmenys/Kerim Berdis.md#claim-t-186054|Kerim Berdis]]: Kerim Berdis, padrąsintas ankstesnės pergalės, ryžtingai su kariuomene užpuolė brolį netoli Volgos.
 - susijęs iš [[objektai/asmenys/Kristupas Radvila Perkūnas.md#claim-t-79100|Kristupas Radvila Perkūnas]]: Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene.
+- susijęs iš [[objektai/grupes/Budinai.md#claim-t-189468|Budinai]]: Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso.
 - susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186783|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Pagal 1501 m. Aukso ordos ir LDK sutartį Aukso orda apie 1501 m. birželį iš Volgos ir Dono žemupio stepių persimetė į Dono aukštupį.
 - susijęs iš [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože.md#claim-t-186793|Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]: Po Mengli-Girėjaus laimėto mūšio Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje.
+- susijęs iš Araksas: Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, gyveno budinai, ir Volgos žemupį, kur jie vėliau apsigyveno.
 - susijęs iš Volgos upė: Rugsėjo 4 d. lietuviai pasiekė Dauguvos ir Volgos upių vandenskyrą, kur ilsėjosi ir išsižvalgė apylinkes.
 - susijęs iš Volgos upė: K. Radvilos pajėgos, perėjusios Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link.
+- susijęs iš Volgos žemupys: Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir apsigyveno prie Volgos žemupio.
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-184369|Aleksandras (Mykolo sūnus)]]: Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų).
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-30193|Aleksandras (Mykolo sūnus)]]: Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų).
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-30194|Aleksandras (Mykolo sūnus)]]: Aleksandras su sūnumi greičiausiai dėl artimų ryšių su Gediminu buvo nužudyti totorių ordoje.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05168|Gediminas]]: 1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05175|Gediminas]]: Gediminas jungė kitų baltų žemes į savo valstybę, paimdamas ir dalį Jotvingos.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05168|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05175|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas jungė kitų baltų žemes į savo valstybę, paimdamas ir dalį Jotvingos.
 - susijęs iš [[objektai/asmenys/Jedigėjus.md#claim-t-87703|Jedigėjus]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, iš Juodosios jūros pakrančių siųsdavo į Vilnių turtingas dovanas.
 - susijęs iš [[objektai/asmenys/Michailas Jaroslavičius.md#claim-t-79112|Michailas Jaroslavičius]]: Lietuviai prie Protvos nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.
 - susijęs iš [[objektai/asmenys/Michailas Jaroslavičius.md#claim-t-79113|Michailas Jaroslavičius]]: Pamaskvėje prie Protvos lietuviai nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.
@@ -80,6 +83,7 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 - susijęs iš Urdomas: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos, perėjusios Volgą, sudegino Urdomą ir pasuko Staricos link.
 - susijęs iš Vilnius: 1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.
 - susijęs iš Žemaitija: 1398 m. vasarį Kryžiuočių ordino Livonijos atšakos pajėgos smogė Žemaitijai ir daug žmonių išsivedė į nelaisvę.
+- susijęs iš Žemaitija: Narbutas remiasi Lasickiu, kad Žemaitijoje ežeras Orthus buvo laikomas dievu.
 - susijęs iš Žemutinis Padnieprys: Prieš mūšį parengiamieji žygiai buvo organizuoti nuo Žemutinio Padnieprio Dono link ir į Krymą.
 ## Reikšmingi paminėjimai
 

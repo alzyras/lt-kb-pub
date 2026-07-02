@@ -34,6 +34,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184665|Algirdas (Lietuvos valdovas)]]: Algirdas įsakė kariuomenei sustoti ir pasirengti kautynėms, kai priešo kunigaikščiai rengėsi stoti į mūšį.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176528|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Olegas (Romano sūnus).md#claim-t-40378|Olegas (Romano sūnus)]]: Olegas, Briansko kunigaikščio Romano sūnus, buvo priverstas dalyvauti totorių antpuolyje prieš Lietuvą.
+- susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-188604|Prokopas]]: Narbutas Prokopą vaizduoja kaip Polocko kunigaikščio patikėtinį ir išdaviką, kurį Treniota pasiuntė į Polocką po Tautvilos nužudymo.
 - susijęs iš [[objektai/asmenys/Traidenis (Mazovijos kunigaikštis, 1325 m.).md#claim-t-87870|Traidenis (Mazovijos kunigaikštis, 1325 m.)]]: Traidenis 1325 m. viešpatavo vienoje iš Mazovijos žemių kartu su kunigaikščiu Ziemovitu.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90073|Vladislovas Lokietka]]: Kazimieras ir Lokietka, Lenkijos kunigaikščiai, dėl savo žmonių likimo paprašė Prūsijos magistro Meinhardo pagalbos.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176714|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.
@@ -124,8 +125,8 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš [[objektai/zodynas/žemė žemių konfederacija.md#claim-t-22355|žemė žemių konfederacija]]: Žemė buvo to meto politinės organizacijos vienetas, o žemių konfederacijoje atskirų žemių kunigaikščiai derino savo veiksmus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176274|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Gedimino sūnus ir Jogailos tėvas.
 - susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185996|Andrius Vingaudas]]: Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05172|Gediminas]]: Kryžiuočiai Gediminą vadino Aukštaičių karaliumi.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176345|Gediminas]]: Gediminas popiežiui pareiškė esąs pasirengęs priimti krikščioniškąjį tikėjimą, jei neturės būti dėkingas Ordinui.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05172|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kryžiuočiai Gediminą vadino Aukštaičių karaliumi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176345|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas popiežiui pareiškė esąs pasirengęs priimti krikščioniškąjį tikėjimą, jei neturės būti dėkingas Ordinui.
 - susijęs iš [[objektai/asmenys/Gedūnas.md#claim-t-60016|Gedūnas]]: Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos tėvas, gerai žinojęs Sembos karių galią.
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Glebas (Smolensko kunigaikštis).md#claim-t-40124|Glebas (Smolensko kunigaikštis)]]: Smolensko kunigaikštis Glebas buvo priverstas kartu su totoriais dalyvauti antpuolyje prieš Lietuvą.
@@ -146,7 +147,9 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-82663|Simonas Lengvenis (valdovas, XIV a.)]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186014|Skirmantas]]: Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.
 - susijęs iš [[objektai/asmenys/Stanislovas Strumila Petravičius.md#claim-t-186165|Stanislovas Strumila Petravičius]]: Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių protestuoti dėl paliaubų sulaužymo.
+- susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-188621|Tautvila]]: Narbutas pasakoja, kad po Mindaugo žūties Polocko kunigaikštį Tautvilą per ginčą dėl grobio nužudė Treniota.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90050|Traidenis (valdovas, XIII a.)]]: Kunigaikščiai Ziemovitas ir Traidenis įsiveržė į Dobrynės žemę.
+- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-188644|Treniota]]: Narbutas pasakoja, kad po Mindaugo žūties dėl grobio susikivirčijęs Žemaičių Treniota nužudė Polocko kunigaikštį Tautvilą.
 - susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-184852|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Po Vilniaus vyskupo Andriaus mirties jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.
 - susijęs iš [[objektai/asmenys/Vasilijus Vasiljevičius.md#claim-t-87932|Vasilijus Vasiljevičius]]: Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176640|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis, Kęstučio sūnus, valdė 1392–1430 m. ir šaltinyje vadinamas iškiliausiu Gediminaičių dinastijos atstovu.
@@ -156,13 +159,14 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176730|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. Vytautas pasiuntė į Prahą savo sūnėną Žygimantą Kaributaitį kaip pageidaujamą valdovą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184863|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Skirgaila Jogailos vardu turėjo viešai pažadėti Vytautui saugumą ir neliečiamybę taikos derybose.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184865|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesistengė suteikti jam deramos pagalbos.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176846|Vytenis]]: Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184889|Vytenis]]: Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176846|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184889|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo.
 - susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184895|Zemovitas]]: Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesuteikė jam deramos pagalbos.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-114097|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-114098|Žygimantas Kaributaitis]]: 1422 m. Vytautas išsiuntė savo sūnėną Žygimantą Kaributaitį į Prahą kaip čekų pageidaujamą valdovą.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-183772|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114100|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis žudė jam įtartinus asmenis ir ištisas šeimas, prieš tai juos apiplėšęs.
+- susijęs iš [[objektai/autoriai/Dusburgiečio kronikos perdirbinio autorius.md#claim-t-190384|Dusburgiečio kronikos perdirbinio autorius]]: Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasakojime krivį vadino „kilmingesniu iš jų“ ir praleido srities pavadinimą.
 - susijęs iš [[objektai/autoriai/M. Liubavskij.md#claim-t-30839|M. Liubavskij]]: M. Liubavskij teigė, kad rusai siekė pasipelnyti iš lietuvių kailių, vaško ir medaus prekybos su Bizantija.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172936|M. Strijkovskis Stryjkowski]]: Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors šis tapatinimas laikomas klaidingu.
 - susijęs iš [[objektai/daiktai/Brangieji metalai.md#claim-t-64908|Brangieji metalai]]: XIII a. Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius.
@@ -181,12 +185,14 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - susijęs iš [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md#claim-t-86719|Lenkų įgula Vilniaus Aukštutinėje pilyje]]: Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179260|Lietuviai]]: Lietuvos karalius Pukuveras pasiuntė Vytenį su didele kariuomene į Bresto žemę, kur lietuviai žudė, degino ir grobė.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179299|Lietuviai]]: 1315 m. apie Žolinę lietuviai iš Žemaitijos su visa kariuomene slaptai ir netikėtai užpuolė Ragainės pilį.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188265|Lietuviai]]: Narbutas aiškino, kad lietuviai, siekdami išsivaduoti iš priespaudos, naudodavo laisvės deivės simbolį.
 - susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-96723|Lietuvos bajorija]]: Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypatingu Žygimanto Kęstutaičio neapykantos taikiniu.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92735|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92739|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
 - susijęs iš [[objektai/grupes/Mongolai.md#claim-t-113191|Mongolai]]: 1272 m. Lietuvą puolę Haličo kunigaikščiai veikė kartu su Nogajaus mongolais.
 - susijęs iš [[objektai/grupes/Mongolų imperija.md#claim-t-74873|Mongolų imperija]]: XIII a. Mongolų imperija sudaužė Kijevo Rusią, o Lietuva pasinaudojo pergale ir pajungė kai kurias rusų žemes.
 - susijęs iš [[objektai/grupes/Mongolų imperija.md#claim-t-74874|Mongolų imperija]]: XIII a. Mongolų imperija sudaužė Kijevo Rusią, o Lietuva pasinaudojo pergale ir pajungė kai kurias rusų žemes.
+- susijęs iš [[objektai/grupes/Polockiečiai.md#claim-t-185445|Polockiečiai]]: Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas.
 - susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113194|Pskovo respublika]]: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171400|Totoriai]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo jam turtingomis dovanomis apkrautus kupranugarius.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171430|Totoriai]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo į Vilnių kupranugarius su turtingomis dovanomis.

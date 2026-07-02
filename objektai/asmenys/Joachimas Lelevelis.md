@@ -1,32 +1,36 @@
 ---
 tipas: asmuo
-pavadinimas: 'Joachimas Lelevelis'
+pavadinimas: 'Joachimas Lelevelis (istorikas, XVIII–XIX a.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1756 m.'
   - '1861 m.'
 date_start: '1756'
 date_end: '1861'
+variantai:
+  - 'Joachimas Lelevelis'
+aliases:
+  - 'Joachimas Lelevelis'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - mokslininkas
 amziai:
   - 'XVIII'
   - 'XIX'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - mokslininkas
 ---
-# Joachimas Lelevelis
+# Joachimas Lelevelis (istorikas, XVIII–XIX a.)
 
 ## Santrauka
 
 Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus. Lelevelis, priverstinai atsistatydino iš globėjo posto A.
 
 ## Teiginiai
-
 <a id="claim-t-78033"></a>
 - t-001
   global_id: t-78033
@@ -64,6 +68,26 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   ryšio_subjekto_parinkimas: Joachimas Lelevelis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lelevelis: mention_match, author, gap=10
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Joachimas Lelevelis" parinktas kaip owner_note_path. Targetas "Lelevelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-188541"></a>
+- t-003
+  global_id: t-188541
+  teiginys: 'Joachimas Lelevelis Narbuto jaunystės laikotarpiu dėstė Vilniaus universitete kartu su Ignotu Danilavičiumi ir Ignotu Onacevičiumi.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 6622-7113; hash=fb5448ba5e2b681869e28619c93fb8cc0725870ad338f7ce55859a6ae7e73823; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Filomatai ir filaretai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Joachimas Lelevelis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Filomatai ir filaretai: mention_match, group, gap=108
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Joachimas Lelevelis" parinktas kaip owner_note_path. Targetas "Filomatai ir filaretai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-188409|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas istorija.
 - susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-63305|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis buvo tarp politiškai nepatikimų profesorių, išvarytų iš universiteto.
 - susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-63306|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis dirbo universitete kaip vienas iš garsių mokslininkų.
 - susijęs iš [[objektai/asmenys/Andrius Sniadeckis.md#claim-t-183521|Andrius Sniadeckis]]: Andrius Sniadeckis dirbo Vilniaus universitete kaip chemikas ir biologas.
@@ -75,7 +99,6 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - susijęs iš [[objektai/asmenys/Liudvigas Heinrichas Bojanus.md#claim-t-78065|Liudvigas Heinrichas Bojanus]]: Liudvigas Heinrichas Bojanus dirbo Vilniaus universitete tarp tarptautiniu mastu žinomų mokslininkų.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113356|Vilniaus universitetas]]: Vilniaus universitetas tapo istorinės Lietuvos žemių visuomeninio ir kultūrinio gyvenimo centru.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Po caro administracijos tyrimo politiškai nepatikimu laikytas Joachimas Lelevelis buvo pašalintas iš profesorių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -121,3 +144,23 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Joachimas Lelevelis Narbuto jaunystės laikotarpiu dėstė Vilniaus universitete kartu su Ignotu Danilavičiumi ir Ignotu Onacevičiumi.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Išsamesnėms krašto praeities studijoms istoriką galė­
+    jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
+    „Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­
+    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
+    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
+    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
+    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
+    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
+    kus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

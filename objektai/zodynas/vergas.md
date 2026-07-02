@@ -35,7 +35,7 @@ Lietuvos metraštis Vaidilą vadina didžiojo kunigaikščio Algirdo tarnu ir ve
   ryšio_subjekto_parinkimas: vergas: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=17
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "vergas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
 - susijęs iš [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas.md#claim-t-07800|Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]: Jaunas žemaitis į bažnyčią ar į mugę mieliau joja, negu važiuoja vežimu.
 - susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Naugardą ir Pskovą.
 - susijęs iš Naugardas ir Pskovas: Naugardą ir Pskovą aplankyti vykusiems pasiuntiniams buvo leista pereiti sienas be tikrinimo.

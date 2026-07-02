@@ -185,9 +185,11 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176515|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172840|Vilniaus miestiečių luomas]]: Vilniaus gyventojai įvertino, kad gaisras didžiajam kunigaikščiui padarė iki 60 tūkstančių sidabro luitų žalą.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55087|Vilniaus miestiečių luomas]]: Vilniaus miestiečių saugumui ir gausėjimui bajorams buvo uždrausta iškelti iš miesto pavaldinius, kurie ten ramiai pragyveno šešerius metus.
+- susijęs iš [[objektai/ivykiai/Altambo šventyklos pastatymas Vilniuje.md#claim-t-189618|Altambo šventyklos pastatymas Vilniuje]]: Narbutas Altambo šventyklos pastatymą Vilniuje sieja su Vilniaus tapimu sostine ir didesniu gyventojų srautu nei į Trakus.
 - susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54448|Lietuvos krikštas Vilniuje (1387 m.)]]: Vilniaus gyventojai pagonys buvo pakrikštyti, o po apeigų jiems išdalyti balti lininiai marškiniai.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173316|Žygimantas Senasis]]: Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173323|Žygimantas Senasis]]: Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190586|Lietuviai]]: Narbutas cituojamame pasakojime nurodė, kad Vilniui tapus Lietuvos sostine Trakai, nors turėjo pilį ir kunigaikščio rūmus, sumenko.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55088|Vilniaus miestiečių luomas]]: Miesto taryba negalėjo įvesti naujų mokesčių be miestiečių leidimo.
 - susijęs iš Haličas: Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176266|vietininkas]]: Rusios kronikininkai liudijo, kad Vilniaus gyventojai vietininkais pasikvietė Dovilą ir Maukoldą.

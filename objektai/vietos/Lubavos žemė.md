@@ -155,5 +155,5 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
     - t-003
 
 ## Ryšiai
-- Lubavos žemė priklause [[objektai/asmenys/Kristijonas]]
+- Lubavos žemė priklause [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas, XIII a.)]]
 - Lubavos žemė priklause [[objektai/grupes/Teutonai]]

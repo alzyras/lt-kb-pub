@@ -54,6 +54,7 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1580 metais ant kalno prie Vilnelės Kasparo Bekešo kapui buvo pastatytas apvalaus bokšto pavidalo paminklas.
 - susijęs iš Vilnius: Vilnius tuo metu tapo vienu gražiausių Rytų Europos miestų ir turėjo daug ponų rūmų.
 - susijęs iš Vilnius: Vilniuje ponai prisistatė daugybę rūmų, o miestas tapo vienu gražiausių Rytų Europos miestų.
+- susijęs iš Vilnius: Narbuto minima knygelė eilėmis pasakojo 1748 ir 1749 m. Vilniuje įvykusių gaisrų istoriją.
 - susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-184780|Manvydas]]: Manvydas susitarė su Goštautu ir Astiku paskelbti valdovu karalių Vladislovą pagal senąjį susitarimą su lenkais.
 - susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.
 ## Reikšmingi paminėjimai

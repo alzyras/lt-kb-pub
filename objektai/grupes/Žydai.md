@@ -4,8 +4,10 @@ pavadinimas: 'Žydai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1240 m.'
   - '1320 m.'
   - '1388 m.'
   - '1408 m.'
@@ -13,18 +15,18 @@ datos:
   - '1427 m.'
   - '1791 m.'
   - '2026 m.'
-date_start: '1320'
+date_start: '1240'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+  - 'XXI'
 tags:
   - bajorija
   - grupe
   - privilegija
   - tauta
-amziai:
-  - 'XIV'
-  - 'XXI'
 ---
 # Žydai
 
@@ -33,7 +35,6 @@ amziai:
 Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo atimamas. Bet Vytautas suprato, kad ekonomiškam Lietuvos kilimui reikalingi ir piniguočiai, kurie reikale teiktų kredito. Todėl atvykusių žydų jis ne tik nespaudė, bet dar jiems davė.
 
 ## Teiginiai
-
 <a id="claim-t-117381"></a>
 - t-001
   global_id: t-117381
@@ -452,6 +453,43 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=102
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-183206"></a>
+- t-024
+  global_id: t-183206
+  teiginys: 'Narbutas rašė, kad po dešimties metų neberasta statulėlių liekanos pėdsakų, o žydai nenorėjo prisipažinti ją pirkę.'
+  pagrindžia:
+    - c-020
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 201647-202194; hash=22c4cbe36a46a9f453cd3556e3c277cefcf237cc84e17120091cea4010743ee7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje „į ją“ reiškia Lietuvą, į kurią žydai galėjo laisvai atvykti.
+<a id="claim-t-188371"></a>
+- t-025
+  global_id: t-188371
+  teiginys: 'Narbutas teigė pastebėjęs, kad kaimiečiai ir kaimuose gyvenantys Lietuvos žydai išlaikė vaizdinio apie mirusiųjų vėlių vaidenimąsi liekanų.'
+  pagrindžia:
+    - c-021
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 647077-647424; hash=8fc9ce664f9cdd1c6fab6d121a7b0d84d507bec289807d444ac98bb7bbb38937; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Trakai: 0.70
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Trakų žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Grupės pavadinimas tiesiogiai sieja ją su Trakais, nors pagrindinis teiginys yra apie privilegiją.
 - susijęs iš [[objektai/grupes/SD Einsatzgruppen.md#claim-t-19997|SD Einsatzgruppen]]: 1941 m. birželį SD Einsatzgruppen organizavo terorą, per kurį pasienyje buvo šaudomi žydai Gargžduose, Kretingoje, Palangoje ir kitur.
 - susijęs iš Gargždai: 1941 m. birželio 24 d. Tilžės gestapo būrys Gargžduose sušaudė 201 žydą vyrą.
 - susijęs iš [[objektai/grupes/Tilžės gestapo būrys.md#claim-t-20049|Tilžės gestapo būrys]]: Tilžės gestapo būrys 1941 m. birželio 24–27 d. Gargžduose, Kretingoje ir Palangoje sušaudė 526 žydus.
@@ -752,6 +790,8 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš Amsterdamas: Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais per Gdanską į Amsterdamą.
 - susijęs iš Amsterdamas: Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais per Gdanską į Amsterdamą.
 - susijęs iš Bernardinų gatvė: 1677 m. Paulius Bochenas Bernardinų gatvėje buvusį mūrinį namą pardavė Eustachijui Kotovičiui už 750 auksinų.
+- susijęs iš Drujos apylinkė: Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą.
+- susijęs iš Drujos apylinkės ir Druja: Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą.
 - susijęs iš Galvės ežeras: Ivinskis Galvės ežero salos pilį minėjo kaip žymiausią Vytauto garbės ir pasididžiavimo statinį.
 - susijęs iš Galvės ežero salos pilis (pilis): 1414 m. Galvės ežero salos pilyje apsilankė Burgundijos riteris Ghillebert de Lannoy.
 - susijęs iš Galvės ežero salos pilis (pilis): Ivinskis Galvės ežero salos pilį vadino žymiausiu Vytauto garbės ir pasididžiavimo statiniu.
@@ -795,6 +835,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-183400|Bajorų respublika liberum veto]]: Lenkijoje ir Lietuvoje visuomenės agrarinis pobūdis ir miestų silpnumas lėmė Bajorų respublikos susiformavimą.
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-21976|Bajorų respublika liberum veto]]: Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę.
 - susijęs iš [[objektai/zodynas/Jidiš.md#claim-t-26336|Jidiš]]: Žydų atstovai Lietuvos Seime galėjo kalbėti jidiš, nes gerai nemokėjo lietuvių kalbos; Europoje tai buvo precedento neturintis atvejis.
+- susijęs iš [[objektai/zodynas/Kabirai Trejopa.md#claim-t-189128|Kabirai Trejopa]]: Narbutas žodį „Triopa“ arba „Trejopa“ aiškina kaip tris ženklus, simbolius ar žmogaus egzistavimo tarpsnius.
 - susijęs iš [[objektai/zodynas/Kahalai.md#claim-t-21993|Kahalai]]: 1920 m. nacionalinėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų konferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo spręsti visus socialinius ir kultūrinius žydų reikalus.
 - susijęs iš [[objektai/zodynas/Lite litvakai.md#claim-t-183445|Lite litvakai]]: Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK erdvės kilę žydai litvakai.
 - susijęs iš [[objektai/zodynas/Lite litvakai.md#claim-t-22004|Lite litvakai]]: Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.
@@ -831,7 +872,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš Luckas: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams.
 - susijęs iš [[objektai/zodynas/Filosemitas.md#claim-t-77795|Filosemitas]]: Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vytauto laikais žydai organizuotai persikėlė iš Lenkijos į Lietuvą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1222,6 +1262,46 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+- c-020
+  santrauka: 'Narbutas rašė, kad po dešimties metų neberasta statulėlių liekanos pėdsakų, o žydai nenorėjo prisipažinti ją pirkę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Toms statulėlėms
+    stigo keleto rankų, matyt, buvo nulaužtos. Domintis vėliau,
+    po dešimt metų, neaptikta nė pėdsako, kur toji liekana dingo;
+    vos rasta atsimenančių šį nutikimą; žydai nenorėjo prisipažin­
+    ti tai pirkę. Nežinia, kas buvo užrašyta, bet vis dėlto vienas
+    žodis, to dvarininko nupieštas iš atminties, kaip nagrinėjant
+    paaiškėjo, mūsų raštu reiškė Triopa (Trejopa), o tai lietuviškai
+    tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai
+    ar figūros arba trys žmogaus egzistavimo tarpsniai -  gyveni­
+    mas, mirtis ir amžinybė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-024
+- c-021
+  santrauka: 'Narbutas teigė pastebėjęs, kad kaimiečiai ir kaimuose gyvenantys Lietuvos žydai išlaikė vaizdinio apie mirusiųjų vėlių vaidenimąsi liekanų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Iš čia tamsioje vaizduotėje įsišaknijo įsi­
+    vaizdavimas apie gąsdinantį mirusių vėlių vaidenimąsi prie tro­
+    besių; dažniausiai jos matomos šiukšlynuose, kur išmeta šiukš­
+    les iš kambarių. Dar aš pats pastebėjau, kad kaimiečiai, net
+    kaimuose gyvenantys Lietuvos žydai turi šito įsivaizdavimo lie­
+    kanų. 19
+    19
+    Ištrauka iš 1240 metų sutarties (Voigt.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-025
 
 ## Ryšiai
 - Žydai gyveno [[objektai/vietos/Lietuva]]

@@ -3,12 +3,19 @@ tipas: saltinis
 pavadinimas: 'Gazeta Warszawska'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+datos:
+  - '1854 m.'
+date_start: '1854'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - saltinis
   - upė
+amziai:
+  - 'XIX'
 ---
 # Gazeta Warszawska
 
@@ -17,7 +24,6 @@ tags:
 Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos laikraštis). Kituose Gazeta Warszawska spausdintuose straipsniuo­ se istorikas detaliai aprašė Vilniaus Archeologinės komisijos veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­ šuvoje, Vilniuje.
 
 ## Teiginiai
-
 <a id="claim-t-88251"></a>
 - t-001
   global_id: t-88251
@@ -36,7 +42,6 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   ryšio_subjekto_parinkimas: Gazeta Warszawska: owner_note_path, source, gap=0
   ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=34
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gazeta Warszawska" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
 <a id="claim-t-88252"></a>
 - t-002
   global_id: t-88252
@@ -56,8 +61,7 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=110
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gazeta Warszawska" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   santrauka: '„Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -77,8 +81,7 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-- c-002
+    - t-002- c-002
   santrauka: '„Gazeta Warszawska“ buvo svarbi M. Balinskio publicistinės literatūros dalis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |

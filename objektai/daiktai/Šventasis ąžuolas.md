@@ -58,6 +58,10 @@ Nenurodyta
   ryšio_paaiskinimas: Šventasis ąžuolas tiesiogiai lokalizuojamas Romuvoje.
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60509|Powierski J]]: J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais.
 - susijęs iš [[objektai/autoriai/Иванов В. В.md#claim-t-60643|Иванов В. В]]: V. V. Ivanovo ir V. N. Toporovo tyrimai siejami su aiškinimu, kad Romovės šventasis ąžuolas buvo tridalio pasaulio medžio simbolis.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188302|Prūsai]]: Narbutas rašo, kad Dybove prie Torunės buvo senovės prūsų šventasis ąžuolas arba šventykla, kurią paėmę kryžiuočiai ten įkūrė Senąją Torunę.
+- susijęs iš Heiligenbeilis Šventasis Kirvelis: Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.
+- susijęs iš Heiligenbeilis: Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.
+- susijęs iš Romanovas: Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame galėjęs augti šventasis ąžuolas arba būti šventykla.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -80,4 +84,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
+- Šventasis ąžuolas priklause [[objektai/vietos/Heiligenbeilis]]
 - Šventasis ąžuolas priklause [[objektai/vietos/Romuva]]

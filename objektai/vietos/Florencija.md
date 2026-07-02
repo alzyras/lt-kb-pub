@@ -85,8 +85,10 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 - susijęs iš Nifono laiškas rusams dėl Florencijos tikėjimo santarvės: Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, dėl kurios sutarė Jonas Paleologas ir Rytų bažnyčios patriarchai.
 - susijęs iš [[objektai/asmenys/Borisas (Tverės kunigaikštis).md#claim-t-87596|Borisas (Tverės kunigaikštis)]]: Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas.
 - susijęs iš [[objektai/asmenys/Eugenijus IV.md#claim-t-87661|Eugenijus IV]]: Popiežius Eugenijus IV 1434 m. spalio 20 d. laiške Žygimantui Kęstutaičiui užtarė Švitrigailos žmoną Sofiją.
+- susijęs iš [[objektai/asmenys/Mozė.md#claim-t-188598|Mozė]]: Narbutas mini Florencijos tapybos paminkluose pavaizduotą varinį žaltį, kurį Mozė dykumoje įsakė išliedinti.
 - susijęs iš [[objektai/asmenys/Sofija (Švitrigailos žmona).md#claim-t-87855|Sofija (Švitrigailos žmona)]]: Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176748|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.
+- susijęs iš [[objektai/asmenys/Šventasis Augustinas.md#claim-t-190121|Šventasis Augustinas]]: Narbutas rašė, kad Šventasis Augustinas kryžiaus ženklą siejo su egiptiečių amžinojo gyvenimo vaizdavimu.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179733|Švitrigaila]]: Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas.
 - susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45608|Grigorijus Camblakas]]: Grigorijaus Camblako vadovaujama LDK stačiatikių delegacija Konstance iškėlė visuotinės bažnyčių unijos idėją.
 - susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45609|Grigorijus Camblakas]]: Vytautas paskyrė Grigorijų Camblaką į 1415 m. įkurtą LDK stačiatikių metropoliją.

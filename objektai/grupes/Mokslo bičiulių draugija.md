@@ -76,7 +76,7 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
 - susijęs iš [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos.md#claim-t-54281|Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]: Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija leido mokslinius tęstinius leidinius ir buvo viena kitos kolektyvinės narės.
 - susijęs iš [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos.md#claim-t-54283|Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]: Nepavykus atkurti Vilniaus universiteto, Lietuvoje įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.
 - susijęs iš Vilnius: Nepavykus atkurti universiteto Vilniuje, buvo įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.
-- susijęs iš [[objektai/autoriai/Ksaveras Bogušas.md#claim-t-26607|Ksaveras Bogušas]]: 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.
+- susijęs iš [[objektai/autoriai/Ksaveras Bogušas.md#claim-t-26607|Ksaveras Bogušas (kunigas, XIX a.)]]: 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.
 ## Reikšmingi paminėjimai
 
 - c-001

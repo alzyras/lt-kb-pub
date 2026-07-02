@@ -3,25 +3,22 @@ tipas: autorius
 pavadinimas: 'Simonas Stanevičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1793 m.'
   - '1864 m.'
 date_start: '1793'
 date_end: '1864'
-aliases:
-  - 'objektai/asmenys/Simonas Stanevičius'
-variantai:
-  - 'Simonas Stanevičius'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - tauta
 amziai:
   - 'XVIII'
   - 'XIX'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - tauta
 ---
 # Simonas Stanevičius
 
@@ -30,7 +27,6 @@ periodo_grupes:
 Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu. poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepavyks.
 
 ## Teiginiai
-
 <a id="claim-t-169894"></a>
 - t-001
   global_id: t-169894
@@ -54,6 +50,43 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+
+<a id="claim-t-188475"></a>
+- t-003
+  global_id: t-188475
+  teiginys: 'Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui liudijo apie Švėkšnos klebono Juozapo Januškevičiaus sode rastą lobį.'
+  pagrindžia:
+    - c-003
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 373691-374060; hash=9f2e7e11fe37afb87375db6bc2221ae2b92dc0aba7ee24fbbde9fb4b841d1a72; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Švėkšna: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Simonas Stanevičius: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Švėkšna: mention_match, place, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simonas Stanevičius" parinktas kaip owner_note_path. Targetas "Švėkšna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+<a id="claim-t-188476"></a>
+- t-004
+  global_id: t-188476
+  teiginys: 'Redakcinėje pastaboje spėjama, kad Raseinių korespondentas galėjo būti Simonas Stanevičius.'
+  pagrindžia:
+    - c-004
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 860386-860605; hash=f62f7da894def10abd8d6bfa19d9521c471d81caca19856b0b3db46669206531; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Raseiniai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Simonas Stanevičius: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Raseiniai: mention_match, place, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simonas Stanevičius" parinktas kaip owner_note_path. Targetas "Raseiniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba.md#claim-t-67138|Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]: Lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“.
 - susijęs iš [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis.md#claim-t-183126|Etninių lietuvių tautinis kultūrinis sąjūdis]]: Simono Daukanto ir Simono Stanevičiaus aplinkos inteligentai laikomi etninių lietuvių tautinio kultūrinio sąjūdžio pradininkais.
 - susijęs iš [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis.md#claim-t-65147|Etninių lietuvių tautinis kultūrinis sąjūdis]]: Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo aukštąją kultūrą lietuvių ir žemaičių kalba.
@@ -70,7 +103,6 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 - susijęs iš [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas.md#claim-t-183417|dvilypis lietuvių-žemaičių etnosas]]: Vilniaus universiteto aplinkoje susibūrę iš Žemaitijos kilę inteligentai siekė plėtoti aukštąją kultūrą lietuvių arba žemaičių kalba.
 - susijęs iš [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas.md#claim-t-22127|dvilypis lietuvių-žemaičių etnosas]]: Kai kurie žemaičiai save laikė vieno dvilypio lietuvių ir žemaičių etnoso dalimi, nors kiti juos laikė atskiru giminingu etnosu.
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, laikomu kone tautinio kultūrinio sąjūdžio himnu ar manifestu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -122,3 +154,36 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui liudijo apie Švėkšnos klebono Juozapo Januškevičiaus sode rastą lobį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
+    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
+    to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
+    turėjo keletą tokių auksinių monetų. Taip tvirtina ponas Simo­
+    nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
+    autorius, man rašytame laiške (Raseiniai. -  1836.IV19)*.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Redakcinėje pastaboje spėjama, kad Raseinių korespondentas galėjo būti Simonas Stanevičius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tekstas, kuriuo T. Narbutas papildė skyrių, reng­
+    damas antrąjį LTI leidimą (PEĮ. -  L. 104-105). Ga­
+    lima spėti, kad šio laiško autorius, tai yra Raseinių
+    korespondentas, galėjo būti ir Simonas Stanevičius
+    (1799-1848).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004

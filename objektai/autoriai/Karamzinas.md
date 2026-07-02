@@ -42,7 +42,7 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
   ryšio_subjekto_parinkimas: Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
   ryšio_paaiskinimas: Citata Narimantą pateikia tarp Algirdo sūnų.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176833|Vytenis]]: Karamzinas abejojo prielaida, kad Vytenis, lietuvis pagonis, galėjo būti rusino Vido Dovydavičiaus vaikaitis.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176833|Vytenis (valdovas, XIII–XIV a.)]]: Karamzinas abejojo prielaida, kad Vytenis, lietuvis pagonis, galėjo būti rusino Vido Dovydavičiaus vaikaitis.
 ## Reikšmingi paminėjimai
 
 - c-001

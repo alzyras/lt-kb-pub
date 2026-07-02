@@ -131,7 +131,6 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - susijęs iš [[objektai/asmenys/Albertas (Rygos vyskupas).md#claim-t-09984|Albertas (Rygos vyskupas)]]: Rygos vyskupas Albertas nugalėjo Visvaldį.
 - susijęs iš [[objektai/asmenys/Aleksandras IV.md#claim-t-60233|Aleksandras IV]]: 1253 m. popiežius Aleksandras IV sėdėjo apaštališkajame soste, o imperatoriaus sostas buvo neužimtas.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-60083|Anonas (didysis magistras)]]: Didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje.
-- susijęs iš [[objektai/asmenys/Anzelmas.md#claim-t-60084|Anzelmas (vyskupas, XIII a.)]]: Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59879|Bertoldas, vadinamas Briuhavenu]]: 1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.
 - susijęs iš [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas).md#claim-t-60252|Boguslavas (jaunesnysis Dirsovijos grafas)]]: Jaunesnysis Dirsovijos grafas Boguslavas buvo tarp liudytojų, dalyvavusių apie 1226 ar 1230 m. patvirtinant žemių dovanojimą.
 - susijęs iš [[objektai/asmenys/Boguslavas (vyresnysis Dirsovijos grafas).md#claim-t-60253|Boguslavas (vyresnysis Dirsovijos grafas)]]: Vyresnysis Dirsovijos grafas Boguslavas buvo tarp liudytojų, dalyvavusių apie 1226 ar 1230 m. patvirtinant žemių dovanojimą.
@@ -176,8 +175,8 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - susijęs iš [[objektai/asmenys/Konradas iš Foichtvangeno.md#claim-t-59993|Konradas iš Foichtvangeno]]: Konradas iš Foichtvangeno turėjo dievui atsidavusią seserį, gyvenusią viename Vokietijos vienuolyne.
 - susijęs iš [[objektai/asmenys/Konradas iš Foichtvangeno.md#claim-t-59995|Konradas iš Foichtvangeno]]: 1295 m. Konradas iš Foichtvangeno atvyko į Prūsiją, parėmė brolius dovanomis ir paguodė juos pamokymais.
 - susijęs iš [[objektai/asmenys/Konradas iš Tuteleno.md#claim-t-60367|Konradas iš Tuteleno]]: Konradas iš Tuteleno, buvęs šventosios Elžbietos kamerarijus, buvo paskirtas pagalbininku Hermanui Balkui.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93436|Kristijonas]]: Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93437|Kristijonas]]: Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93436|Kristijonas (vyskupas, XIII a.)]]: Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93437|Kristijonas (vyskupas, XIII a.)]]: Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus.
 - susijęs iš [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus).md#claim-t-87764|Leonas (Haličo kunigaikščio sūnus)]]: Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.
 - susijęs iš [[objektai/asmenys/Lešekas Juodasis.md#claim-t-87765|Lešekas Juodasis]]: Lešekas Juodasis Krokuvai suteikė svarbias privilegijas ir sustiprino miestą geriausiomis mūro sienomis.
 - susijęs iš [[objektai/asmenys/Mangoldas [iš Šternbergo].md#claim-t-60170|Mangoldas [iš Šternbergo]]]: Mangoldas iš Šternbergo buvo vienuoliktasis Prūsijos magistras ir vadovavo Prūsijos žemei beveik dvejus metus.
@@ -197,10 +196,8 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64229|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.
 - susijęs iš [[objektai/asmenys/Vilhelmas (dekanas).md#claim-t-60462|Vilhelmas (dekanas)]]: Dekanas Vilhelmas dalyvavo kaip liudytojas tvirtinant apie 1226 arba 1230 m. sudarytą Kulmo ir Lubavos žemių dovanojimą Ordinui.
 - susijęs iš [[objektai/asmenys/Vilhelmas iš Modenos.md#claim-t-60078|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]: 1243 m. popiežius Inocentas IV pasiuntė į Prūsiją Vilhelmą, buvusį Modenos vyskupą.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Volframas Saksas.md#claim-t-60222|Volframas Saksas]]: Dusburgietis pasakoja, kad Teutonų ordino brolį Volframą Saksą pilyje metus kasnakt gundė velnias.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis (valdovas, XIII–XIV a.)]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
 - susijęs iš [[objektai/autoriai/Benjaminas iš Tudelio.md#claim-t-54999|Benjaminas iš Tudelio]]: Benjaminas iš Tudelio apibūdintas kaip žydų kilmės keliauninkas.
 - susijęs iš [[objektai/autoriai/Benjaminas iš Tudelio.md#claim-t-55000|Benjaminas iš Tudelio]]: Benjaminas iš Tudelio tvirtino, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai.
 - susijęs iš [[objektai/autoriai/Benjaminas iš Tudelio.md#claim-t-81885|Benjaminas iš Tudelio]]: Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.
@@ -210,10 +207,8 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179536|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.
 - susijęs iš [[objektai/autoriai/M. Perlbachas.md#claim-t-175146|M. Perlbachas]]: M. Perlbachas nagrinėtas aiškinant Dusburgiečio pasakojimo ryšį su 1230 ir 1232 metų popiežiaus bulėmis.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181462|Petras Dusburgietis]]: Petras iš Dusburgo aiškina, kad kronikoje aprašys Ordino įkūrimą, atsikėlimą į Prūsiją, karus ir įvykius, kuriuos pats matė, apie kuriuos pasakojo dalyviai arba kuriuos sužinojo iš patikimų šaltinių.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181463|Petras Dusburgietis]]: Dedikacijoje Petras iš Dusburgo tiesiogiai įvardija save tų pačių įžadų kunigu ir kronikos siuntėju Verneriui iš Orzelno.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181467|Petras Dusburgietis]]: Petras iš Dusburgo kronikos dedikacijoje prisistato kaip tų pačių šventųjų įžadų kunigas.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181476|Petras Dusburgietis]]: Petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-183995|Petras Dusburgietis]]: Petras iš Dusburgo kronikos dedikacijoje kreipėsi į magistrą Vernerį iš Orzelno.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188463|Petras Dusburgietis]]: Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną prūsų moterį pranašautoją.
 - susijęs iš [[objektai/autoriai/R. Batūra.md#claim-t-97214|Romas Batūra]]: Romas Batūra cituojamas aiškinant 1236 m. rugsėjo 22 d. Saulės mūšį, kuriame lietuviai sutriuškino kalavijuočius.
 - susijęs iš [[objektai/autoriai/R. Jasas.md#claim-t-64832|R. Jasas]]: R. Jasas 1959 m. paskelbė darbą „Didysis prūsų sukilimas 1260-1274 m.“ apie lietuvių kovas su kryžiuočiais ir kalavijuočiais.
 - susijęs iš [[objektai/daiktai/Altorius.md#claim-t-59677|Altorius]]: Markburge priimami riteriai prieš įvilktuves kniūpsti puolė prieš altorių.
@@ -260,11 +255,8 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179071|Kryžiuočių ordinas]]: Brolis Gerhardas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir pradėjo tyrą gyvenimą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179081|Kryžiuočių ordinas]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179091|Kryžiuočių ordinas]]: Pratarmėje Petras Dusburgietis pranašo Danieliaus žodžius panaudojo Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179101|Kryžiuočių ordinas]]: Marijos Mergelės ordino nariai nešiojo baltus apsiaustus su juodu kryžiumi, todėl Lietuvoje dažnai vadinti kryžiuočiais.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-183884|Kryžiuočių ordinas]]: Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-183885|Kryžiuočių ordinas]]: Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179257|Lietuviai]]: Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179322|Lietuviai]]: Henrikas Tupadelis balistos strėle nukovė kilmingą ir galingą lietuvių vadą per Vėluvos pilies apgultį.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179417|Livonijos ordinas]]: 1260 m. liepos 13 d. Durbės mūšyje buvo sutriuškinta Livonijos ordino šaka, Prūsijos kryžiuočiai ir jų talkininkai.
 - susijęs iš [[objektai/grupes/Mongolai.md#claim-t-113191|Mongolai]]: 1272 m. Lietuvą puolę Haličo kunigaikščiai veikė kartu su Nogajaus mongolais.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78401|Notangai]]: Po skerdynių notangai metė burtus dėl aukos dievams, ir burtai tris kartus krito Magdeburgo miestiečiui Hirtshalsui.
@@ -349,7 +341,6 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - susijęs iš Kujavija: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijoje veikė vyskupas Kristijonas.
 - susijęs iš Kujavija: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai veikė Prūsijos vyskupas Kristijonas.
 - susijęs iš Lietuva: Dusburgietis, aprašydamas lietuvių puolimus, grindė būtinybę kariauti prieš Lietuvą.
-- susijęs iš Lietuva: Riterių magistras Konradas su savo ir svetimšalių kariuomene pavasario pabaigoje patraukė į Lietuvą.
 - susijęs iš Liublinas: Liublinas Vladislovo Lokietkos laikais, 1317 m., ėmė tvarkytis pagal vokiečių miestų teises.
 - susijęs iš Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai.
 - susijęs iš Malburgas: Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių.
@@ -459,6 +450,7 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - Teutonai uzkariavo [[objektai/grupes/Prūsai]]
 - [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]] reme Teutonai
 - [[objektai/grupes/Lietuvos luomai]] gyne Teutonai
+- Teutonai keliavo_i [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Diunamiundė]] priklause Teutonai
 - [[objektai/asmenys/Grigalius IX]] sudare_sutarti_su Teutonai
 - [[objektai/vietos/Vancka]] priklause Teutonai
@@ -469,7 +461,6 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - Teutonai pastate [[objektai/vietos/Štarkenbergas]]
 - [[objektai/asmenys/Grigalius IX]] paskyre Teutonai
 - [[objektai/vietos/Prūsija]] priklause Teutonai
-- Teutonai keliavo_i [[objektai/vietos/Prūsija]]
 - Teutonai pastate [[objektai/vietos/Malburgas]]
 - Teutonai pastate [[objektai/vietos/Poterbergas]]
 - Teutonai pastate [[objektai/vietos/Torunė]]
@@ -478,7 +469,7 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - [[objektai/asmenys/Jėzus Kristus]] reme Teutonai
 - [[objektai/grupes/Notangai]] kariavo_pries Teutonai
 - Teutonai gyne [[objektai/vietos/Lenkija]]
-- Teutonai buvo_priesas [[objektai/asmenys/Gediminas]]
+- Teutonai buvo_priesas [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - [[objektai/grupes/Notangai]] priklause Teutonai
 - [[objektai/grupes/Varmiai]] priklause Teutonai
 - Teutonai puole [[objektai/vietos/Treiderės upė]]

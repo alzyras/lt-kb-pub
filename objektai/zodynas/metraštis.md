@@ -127,7 +127,7 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Pilypas (Fermo vyskupas).md#claim-t-60411|Pilypas (Fermo vyskupas)]]: Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179663|Skirgaila]]: Skirgaila neturėjo visos valdžios valstybėje, nes Vilnių Jogaila pasiliko sau.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-05203|Traidenis (valdovas, XIII a.)]]: Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176840|Vytenis]]: Tęsdamas tėvo politiką, Vytenis intensyviai iki 1307 m. puldinėjo Lenkiją.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176840|Vytenis (valdovas, XIII–XIV a.)]]: Tęsdamas tėvo politiką, Vytenis intensyviai iki 1307 m. puldinėjo Lenkiją.
 - susijęs iš [[objektai/autoriai/P. Tarasenka.md#claim-t-71551|P. Tarasenka]]: P. Tarasenka 1929 m. Kaune išleido veikalą „Lietuvos archeologijos medžiaga“.
 - susijęs iš [[objektai/daiktai/Ietis.md#claim-t-186834|Ietis]]: Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos.
 - susijęs iš [[objektai/daiktai/Kryžius.md#claim-t-186839|Kryžius]]: Lietuvos metraštis pasakoja, kad Vilniuje septyni pranciškonai buvo pririšti prie kryžių ir paleisti Nerimi žemyn.
@@ -244,6 +244,7 @@ Nenurodyta
 - susijęs iš Liatopisiec velikich kniaziej litovskich: „Liatopisiec velikich kniaziej litovskich“ Vytauto vardu aiškina, kad Jogailos žygis sukėlė nepasitenkinimą Lietuvoje dėl svetimųjų valdžios.
 - susijęs iš Lietuvos metraštis (Bychovco kronika): Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą.
 - susijęs iš Lietuvos metraštis (Bychovco kronika): Bychovco kronikoje Jogaila pataria Vytautui kreiptis į ciesorių, siekti karaliaus titulo ir žada padėti pas ciesorių bei popiežių.
+- susijęs iš Lietuvos metraštis (Bychovco kronika): Narbutas cituoja Bychovco kroniką, kurioje rašoma, kad deginant lietuvių kunigaikštį ar didiką prie kūno dėdavo lūšies arba lokio nagus.
 - susijęs iš Pskovo prekybos sutartis su Švitrigaila: 1432 m. Pskovo vietininkai ir bojarinai sudarė sutartį su Švitrigaila, joje patvirtindami senovines sienas.
 - susijęs iš Braclavas: Lietuvos metraštis pasakoja, kad Aleksandras įsakė atstatyti Braclavą, nes miestas buvo Moldavijos vaivados nusiaubtas ir sudegintas.
 - susijęs iš Brasta: Lietuvos metraštis pasakoja, kad Kęstutis atvyko į Gardiną pas sūnų, o žmoną pasiuntė į Brastą, pasikliaudamas žentu Jonušu.
@@ -251,6 +252,7 @@ Nenurodyta
 - susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Bukovinos miškuose ir bukynuose Steponas užpuolė Olbrachtą ir jo kariuomenę.
 - susijęs iš Deltuva: Ipatijaus metraštis Deltuvą prie Ukmergės mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų.
 - susijęs iš Deltuva: Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų .
+- susijęs iš Deltuva: Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos.
 - susijęs iš Didysis Naugardas: Lietuvos metraštis vaizduoja, kad naugardiečiai pagerbė Sofiją ir Joną Algimantaitį ir nulydėjo juos į Maskvą pas Vasilijų Dimitrijevičių.
 - susijęs iš Gudija: Ivinskis Mohilną, prie kurios Lietuvos metraštis mini 1234 m. kovą su totoriais, lokalizuoja Nemuno aukštupyje dabartinėje Gudijoje.
 - susijęs iš Karačevas: Lietuvos metraštis pasakoja, kad po Skirmanto mirties Liubartas sėdo valdyti Karačevą ir ėmė tituluotis Karačevo kunigaikščiu.

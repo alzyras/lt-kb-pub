@@ -3,20 +3,23 @@ tipas: daiktas
 pavadinimas: 'Patrankos'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
+  - '1830 m.'
+  - '1831 m.'
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - daiktas
-  - ginklas
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - daiktas
+  - ginklas
 ---
 # Patrankos
 
@@ -45,7 +48,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-176197"></a>
 - t-001
   global_id: t-176197
@@ -113,6 +115,23 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]'
   pagrindžia:
     - c-005
+
+- t-010
+  teiginys: 'Apie Teodorą Narbutą buvo pasklidę gandai, kad jis padėjo 1830-1831 m. sukilėliams lieti patrankas, bet caro valdžia to neįrodė.'
+  pagrindžia:
+    - c-008
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 8959-9257; hash=4f4606e91b28225941635d413fc785483a7d98061f1d5adbe78f26fc86c13588; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Artilerija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Patrankos: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Artilerija: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Patrankos" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/V. Grigas.md#claim-t-80744|V. Grigas]]: Grigo vadovaujama lengvosios artilerijos 1-oji baterija (4 patrankos).
 - susijęs iš [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka.md#claim-t-183681|1916 m. modelio 77 mm vokiška patranka]]: Lietuvos kariuomenės artileristai buvo prie 1916 m. modelio 77 mm vokiškos patrankos.
 - susijęs iš [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka.md#claim-t-39233|1916 m. modelio 77 mm vokiška patranka]]: Lietuvos kariuomenės artileristai buvo užfiksuoti prie 1916 m. modelio 77 mm vokiškos patrankos.
@@ -130,6 +149,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172819|Vilniaus magistratas]]: Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172825|Vilniaus miestiečių luomas]]: Gaisro atveju kiekvienas Vilniaus miestietis privalėjo skubėti prie ugnies, o burmistrai turėjo vadovauti gesinimui.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55086|Vilniaus miestiečių luomas]]: Vilniaus miestiečiai gaisro atveju privalėjo skubėti prie ugnies, o miesto gynybai turėti šarvus, muškietą ir ragotinę.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-188368|Žemaičiai]]: Narbutas žemaičių liaudies procesijų paprotį gultis veidu į žemę po brolijų altorėliais aiškino kaip senųjų stabmeldiškų apeigų tąsą.
 - susijęs iš [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.).md#claim-t-80676|Vilniaus gynyba (1794 m. liepos 19–20 d.)]]: 1794 m. liepos 19 d. B. Knorringo vadovaujamas Rusijos kariuomenės korpusas, padalytas į tris kolonas, pasiekė Vilnių.
 - susijęs iš Gedimino pilies kalnas (pilis): Velykų naktį patrankos šūvis, pasak kai kurių šaltinių, driokstelėjo nuo Gedimino pilies kalno ir davė puolimo signalą.
 - susijęs iš Paupys: 1794 m. liepos 19 d. dalis rusų pajėgų prasiveržė ir užėmė Paupį bei Užupį.
@@ -137,7 +157,6 @@ Nenurodyta
 - susijęs iš Užupis: 1794 m. liepos 19 d. dalis rusų jėgerių batalionų prasiveržė į Paupį ir Užupį, o Užupis buvo padegtas.
 - susijęs iš [[objektai/zodynas/miesto sargyba ir policija.md#claim-t-86596|miesto sargyba ir policija]]: 1522 m. karaliaus Žygimanto įsakymu miesto sargyba ir policija buvo sugrąžintos magistratui, kuris turėjo išlaikyti 24 sargybinius.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -255,3 +274,19 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+- c-008
+  santrauka: 'Apie Teodorą Narbutą buvo pasklidę gandai, kad jis padėjo 1830-1831 m. sukilėliams lieti patrankas, bet caro valdžia to neįrodė.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    T. Narbutas gana aktyviai dalyvavo 1830-1831 m. sukili­
+    me. Tiesa, jis nekovojo su ginklu rankose. T. Narbutas buvo
+    parašęs kažkokį paskvilį prieš rusų valdžią ir už tai kurį laiką jį
+    tardė. Buvo pasklidę gandai, esą jis padėjęs sukilėliams lieti
+    patrankas, tačiau caro valdžia negalėjo to įrodyti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010

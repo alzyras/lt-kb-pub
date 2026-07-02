@@ -8,6 +8,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+description: 'Žygimantas Senasis valdė Lietuvą siekdamas tvarkos, stiprino Vilniaus magistrato teises, rūpinosi vandentiekiu ir ribojo piktnaudžiavimą.'
+socialDescription: 'Žygimantas Senasis siejamas su Vilniaus magistrato teisių stiprinimu, miesto infrastruktūra ir valdovo sprendimais religinių ginčų metu.'
+seo_atnaujinta: '2026-07-02T19:20:23.305391+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +25,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą (Bona Sforza).
+Žygimantas Senasis perėmė Lietuvos valdymą siekdamas įvesti tvarką ir aktyviai reguliavo Vilniaus miesto reikalus. Jis stiprino Vilniaus magistrato teises, 1522 m. grąžino jam miesto sargybą ir policiją, o 1532 m. įspėjo vaitą netaikyti miestiečiams prievartos. Valdovo sprendimai taip pat siejami su Vilniaus vandentiekiu, tiltu per Viliją, mėsos prekyvietėmis ir veiksmais prieš eretikais laikytus asmenis.
 
 ## Teiginiai
 

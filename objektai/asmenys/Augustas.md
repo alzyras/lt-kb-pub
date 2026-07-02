@@ -91,6 +91,7 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183854|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-184912|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimantas Augustas slėpė Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, todėl pasklido gandai apie jo palankumą liuteronybei.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-184913|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimanto Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį.
+- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-188657|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Narbutas Žygimantą Augustą vadino paskutiniu savarankišku Lietuvos valdovu ir paskutiniu vyriškuoju Jogailos palikuoniu.
 - susijęs iš [[objektai/daiktai/Zigmanto Augusto antkapis.md#claim-t-01248|Zigmanto Augusto antkapis]]: Zigmanto Augusto antkapis yra Krokuvos katedroje.
 - susijęs iš [[objektai/daiktai/Zigmanto Augusto pinigai.md#claim-t-65013|Zigmanto Augusto pinigai]]: Visuose Zigmanto Augusto piniguose buvo įrašas „Moneta magni ducatus Lithuaniae“.
 - susijęs iš [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija.md#claim-t-87008|Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]: Iki 1565 m. Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija iš dalies liko Vilniuje.
@@ -152,7 +153,7 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54949|Barbora Radvilaitė]]: Barbora Radvilaitė gyveno rūmuose prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
 - susijęs iš [[objektai/asmenys/Erazmas Bretneris.md#claim-t-87660|Erazmas Bretneris]]: Vilniaus burmistras ir auksakalys Erazmas Bretneris 1546 m. testamentu skyrė savo namą Švč. Trejybės špitolei.
 - susijęs iš [[objektai/asmenys/Florijonas Zebžidovskis.md#claim-t-186109|Florijonas Zebžidovskis]]: Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus į Polocką.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176331|Gediminas]]: Valdant Gediminui pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė bei dvasinė struktūra įgijo brandžiausią pavidalą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176331|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Valdant Gediminui pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė bei dvasinė struktūra įgijo brandžiausią pavidalą.
 - susijęs iš [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras).md#claim-t-87680|Goštautas (Trakų vaivada, Barboros vyras)]]: Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė.
 - susijęs iš [[objektai/asmenys/Grigalius Chodkevičius.md#claim-t-184710|Grigalius Chodkevičius]]: Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius.
 - susijęs iš [[objektai/asmenys/Grigalius Chodkevičius.md#claim-t-40125|Grigalius Chodkevičius]]: Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų karių.
@@ -223,6 +224,7 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169844|Liublino unija (1569 m.)]]: Po Liublino unijos Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169845|Liublino unija (1569 m.)]]: 1569 m. birželio 28 d. Jonas Jeronimaitis Chodkevičius Liublino seime priėmė unijos ir vieno antspaudo idėją kaip žiaurų kompromisą.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169850|Liublino unija (1569 m.)]]: 1569 m. birželio 28 d. Jonas Jeronimaitis Chodkevičius Liublino seime priėmė unijos ir vieno antspaudo idėją.
+- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-188373|Liublino unija (1569 m.)]]: Narbutas lietuvių politinę ir kultūrinę raidą apžvelgė nuo seniausių laikų iki 1569 m. Liublino unijos.
 - susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185750|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus.
 - susijęs iš [[objektai/ivykiai/Padalinamasis seimas (1773–1775 m.).md#claim-t-01764|Padalinamasis seimas (1773–1775 m.)]]: Per 1773–1775 m. padalinamąjį seimą buvo sunaikintos valstybės pajamos, išgrobsčius daugumą valstybės dvarų ir iždo pinigus.
 - susijęs iš [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.).md#claim-t-41344|Polocko apsiaustis (1563 m. sausio 31 d.)]]: Polocko praradimas buvo skaudi netektis Lietuvai, nes miestas buvo svarbus prekybos centras ir stipriausia rytinių žemių tvirtovė.
@@ -285,6 +287,7 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš Lietuva: Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.
 - susijęs iš Lietuva: Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.
 - susijęs iš Lietuva: Karalius lapkritį grįžo į Krokuvą ir leido Augustui vykti į Lietuvą.
+- susijęs iš Lietuva: Narbutas nurodė, kad toliau pateikia smulkius kai kurių lietuvių mitologijos sričių aprašymus.
 - susijęs iš Livonija: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš kalavijuočių ordino magistrą Firstenbergą.
 - susijęs iš Narva: Ties Narva Estijoje buvo visiškai sunaikinta caro kariuomenė.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
@@ -312,18 +315,17 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš Vilniaus pilis: Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.
 - susijęs iš Vilniaus rotušė: 1547 m. Vilniuje padieniams darbininkams nurodyta rinktis prie rotušės, kad miestiečiai galėtų lengviau juos pasisamdyti.
 - susijęs iš Vilnius: 1544 m. Žygimantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir perėmė valdžią Lietuvoje.
-- susijęs iš Vilnius: Mikalojus Radvila Juodasis Lukiškėse pastatė kalvinų bažnyčią ir traukė į ją vilniečius.
 - susijęs iš Vilnius: Iki 1565 m. Žygimanto Augusto lėšomis pagamintų ginklų ir amunicijos dalis buvo palikta Vilniuje, o kita išsiųsta į pilis.
-- susijęs iš Vilnius: Karalius Vilniuje užkirto kelią piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.
 - susijęs iš Vilnius: 1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje.
 - susijęs iš Vilnius: Balińskis Žygimanto Augusto laikus Vilniui vadino aukso amžiumi, o jo mirtį siejo su visuotiniu sielvartu.
 - susijęs iš Vilnius: Vilniaus miestiečiams ir pirkliams buvo nurodyta apskaičiuoti ir sumokėti muitus bei Czopowe ir Szosowe mokesčius.
 - susijęs iš Vilnius: Žygimantas Augustas savo turtingą biblioteką, pradėtą tėvo ir jo paties kauptą, atidavė Vilniaus jėzuitų kolegijai.
 - susijęs iš Vilnius: Po rimtesnių kautynių birželio 11 d. prie Myro Vilnius birželio 14 d. buvo atiduotas be kovos.
 - susijęs iš Vilnius: 1544 m. Žygimantui perdavus Lietuvos valdžią sūnui, Vilnius vėl tapo pagrindiniu valdžios židiniu.
-- susijęs iš Vilnius: Miestuose, ypač Vilniuje, kur mišrai gyveno katalikai su protestantais, kildavo visokių nesusipratimų ir muštynių.
 - susijęs iš Vilnius: Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.
 - susijęs iš Vilnius: Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, kurioje dažnai būdavo ir pats karalius.
+- susijęs iš Vilnius: Narbutas rašė, kad Vilniuje ir kitose vietose būta aukurų, kuriuose degė vaidilučių saugoma Amžinoji ugnis.
+- susijęs iš Vilnius: Narbutas senajame Vilniaus miesto herbe matė milžiną Alcį, žengiantį per vandenį su moterimi ant pečių.
 - susijęs iš Volinijos-Haličo kunigaikštija: Vaišvilko bandymas sujungti Lietuvos valstybę su Volinijos-Haličo kunigaikštija buvo labai trumpas.
 - susijęs iš Voluinė: Žygimantas Augustas prie Lenkijos prijungė Voluinės, Kijevo ir Podolės vaivadijas bei Palenkę.
 - susijęs iš Šv. Jono akademijos spaustuvė: Akademijos kolegija vėlesniais laikais 1631 m. įgytą mūrinį namą ir sklypą pavertė spaustuve.
@@ -395,9 +397,9 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
     - t-002
 
 ## Ryšiai
+- Augustas keliavo_i [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Barbora Radvilaitė]] buvo_zmona Augustas
 - Augustas buvo_sunus [[objektai/asmenys/Bona]]
-- Augustas keliavo_i [[objektai/vietos/Lietuva]]
 - Augustas siunte_i [[objektai/vietos/Maskva]]
 - Augustas siunte_i [[objektai/vietos/Polockas]]
 - Augustas buvo_vyras [[objektai/asmenys/Barbora Radvilaitė]]

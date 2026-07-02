@@ -96,8 +96,6 @@ periodo_grupes:
 - susijęs iš [[objektai/asmenys/Vaitiekus Chelminskis.md#claim-t-87872|Vaitiekus Chelminskis]]: Vaitiekus Chelminskis iš Inovroclavo buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių.
 - susijęs iš [[objektai/daiktai/1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas.md#claim-t-87106|1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas]]: 1547 m. gegužės 22 d. Paleckiui duota privilegija turėjo prikabintą Lietuvos Didžiosios Kunigaikštystės antspaudą.
 - susijęs iš [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje.md#claim-t-55041|Martyno Paleckio stiklo gaminiai Vilniuje]]: Paleckio privilegija steigti stiklo liejyklą buvo duota 1547 m. gegužės 22 d. ir turėjo prikabintą Lietuvos Didžiosios Kunigaikštystės antspaudą.
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172120|Jėzuitų ordinas]]: Karalius vyskupo Protasevičiaus funduotą ir aprūpintą jėzuitų kolegiją pakėlė iki universiteto laipsnio.
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172125|Jėzuitų ordinas]]: Karalius vyskupo Protasevičiaus funduotą ir aprūpintą jėzuitų kolegiją pakėlė iki universiteto laipsnio.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116737|Katalikų Bažnyčia]]: Vyskupas Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116743|Katalikų Bažnyčia]]: Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.
 - susijęs iš [[objektai/grupes/Vilniaus jėzuitų kolegija.md#claim-t-86710|Vilniaus jėzuitų kolegija]]: Karalius balandžio 1 d. dekretais vyskupo Protasevičiaus funduotą Vilniaus jėzuitų kolegiją pakėlė iki universiteto laipsnio.
@@ -117,6 +115,7 @@ periodo_grupes:
 - susijęs iš Vilnius: 1581 m. Vilniuje įvesdintas Lietuvos Tribunolas miestui suteikė daugiau orumo ir naudos.
 - susijęs iš Vilnius: 1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje.
 - susijęs iš Vilnius: Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.
+- susijęs iš Vilnius: Pasakojama, kad į Vilniaus bažnyčią suvežtą Saurų dvaro biblioteką ir rankraščius sargas už rublį leisdavo išgabenti.
 - susijęs iš [[objektai/zodynas/bursa.md#claim-t-86416|bursa]]: Valerijono bursos fundacijos dokumentas buvo datuotas 1579 m. Vilniuje, vyskupo dvare ir įprastuose rezidencijos namuose.
 - susijęs iš [[objektai/zodynas/kahalas.md#claim-t-86529|kahalas]]: Akademijos rektorius Juraha nuėmė viderkafto mokestį nuo Švarco namu vadinto mūro ir priskyrė jį kahale investuotoms sumoms.
 - susijęs iš [[objektai/zodynas/viderkaftas.md#claim-t-86624|viderkaftas]]: Tėvas Juraha nuo mūrinio namo nuėmė 140 auksinų metinį viderkafto mokestį už Uršulę ir Mauricijų.

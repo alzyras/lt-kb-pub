@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Afrika'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -17,7 +18,6 @@ tags:
 Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausiais nuotykiais ir pavojais po Arabiją, Afriką, Mezopotamiją.
 
 ## Teiginiai
-
 <a id="claim-t-34164"></a>
 - t-001
   global_id: t-34164
@@ -36,6 +36,25 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   ryšio_subjekto_parinkimas: Afrika: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Arabija: mention_match, place, gap=9
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Afrika" parinktas kaip owner_note_path. Targetas "Arabija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+<a id="claim-t-188662"></a>
+- t-002
+  global_id: t-188662
+  teiginys: 'Narbutas fetišo terminą siejo su naujaisiais amžiais perimtu Afrikos stabmeldžių, jo laikytų didžiausiais fetišų garbintojais, vartojimu.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 340616-340975; hash=f8be6dbdef345da727e5f88af24fef5a383055966e5752b1cfe19d829b3318b8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ragana: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Afrika: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ragana: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Afrika" parinktas kaip owner_note_path. Targetas "Ragana" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Christiaan Barnard.md#claim-t-18867|Christiaan Barnard]]: Christiaanas Barnardas 1967 m. Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.
 - susijęs iš [[objektai/asmenys/Davidas Suchetas.md#claim-t-18874|Davidas Suchetas]]: Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
 - susijęs iš [[objektai/asmenys/Nadine Gordimer.md#claim-t-101698|Nadine Gordimer]]: Nadine Gordimer buvo Pietų Afrikos Respublikos romanistė ir 1991 m. Nobelio literatūros premijos laureatė, kurios tėvas kilęs iš Lietuvos.
@@ -75,6 +94,9 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
 - susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45490|Gitara „Zemaitis“]]: Tony Zemaicis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
 - susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45491|Gitara „Zemaitis“]]: Gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.
 - susijęs iš [[objektai/grupes/Draugija užsienio lietuviams remti.md#claim-t-77822|Draugija užsienio lietuviams remti]]: Draugija užsienio lietuviams remti buvo sukurta padėti užsienio lietuviams ir palaikyti jų ryšius su tėvyne.
+- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-188173|Egiptiečiai]]: Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai pietiniuose Europos pakraščiuose rado kitokių polinkių žmones.
+- susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189415|Senovės egiptiečiai]]: Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniais Europos pakraščiais, rado kitokių polinkių žmones.
+- susijęs iš [[objektai/grupes/Senovės graikai.md#claim-t-189382|Senovės graikai]]: Narbutas graikų nepastovumą vertino kaip ydą, lėmusią pasaulietinių ir religinių piktnaudžiavimų.
 - susijęs iš [[objektai/grupes/Užsienio lietuviai.md#claim-t-20055|Užsienio lietuviai]]: Per 20 metų lietuviai iš Lietuvos daugiausia emigravo į Pietų Amerikos šalis: Argentiną, Braziliją, Venesuelą ir Urugvajų.
 - susijęs iš [[objektai/ivykiai/Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.).md#claim-t-20453|Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)]]: 1967 m. litvakų palikuonis Christiaan Barnard Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.
 - susijęs iš [[objektai/paprociai/Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus.md#claim-t-77962|Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus]]: Draugija užsienio lietuviams remti buvo sukurta padėti emigrantams ir palaikyti jų ryšius su tėvyne.
@@ -84,12 +106,12 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
 - susijęs iš Butrimonys: Italų renesanso tapybos žinovas Bernardas Berensonas buvo kilęs iš Butrimonių.
 - susijęs iš Ispanija: 1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.
 - susijęs iš Londonas: 1935 m. Londone gimė Antanas Kazimeras Žemaitis, sukūręs roko pasaulyje bendrine sąvoka tapusią gitarą „Zemaitis“.
+- susijęs iš Sacharos dykuma: Narbutas remiasi autoriais, kurie, jo teigimu, kai kurių apeigų slėpimą pripažino ir Afrikos Sacharos dykumos gyventojams.
 - susijęs iš Urugvajus: Urugvajus buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai.
 - susijęs iš Venesuela: Venesuela buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai.
 - susijęs iš Želva: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
 - susijęs iš [[objektai/zodynas/Bendrinė sąvoka.md#claim-t-21984|Bendrinė sąvoka]]: Tony Žemaitis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -108,3 +130,22 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Narbutas fetišo terminą siejo su naujaisiais amžiais perimtu Afrikos stabmeldžių, jo laikytų didžiausiais fetišų garbintojais, vartojimu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šitą dievybių rūšį vadina­
+    me fetišais, o tikėjimą jais -  fetišizmu.
+    Pats fetišo terminas, nežinomas Antikos laikų europie­
+    čiams, yra perimtas naujaisiais amžiais iš Afrikos stabmeldžių,
+    didžiausių fetišų garbintojų . Todėl ne kiekvienas istorikas ir 5
+    5
+    Fetiche, iš portugalų Fetisso -  stabmeldiška statulėlė; feticzei-
+    ra -  ragana (fée, feérie, f  ata).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002

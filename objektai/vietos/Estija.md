@@ -104,6 +104,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš [[objektai/asmenys/Rudolfas (Pomezanijos vyskupas).md#claim-t-87847|Rudolfas (Pomezanijos vyskupas)]]: Pomezanijos vyskupas Rudolfas Elblionge su kitais vyskupais surengė pasitarimą dėl taikos sutarties ir prisidėjo prie laiško Livonijai.
 - susijęs iš [[objektai/asmenys/Valdemaras II.md#claim-t-60457|Valdemaras II]]: Danijos karaliaus Valdemaro II valdžia plito vokiečių užkariautoje Livonijoje ir Rygoje.
 - susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170245|Vytautas Landsbergis]]: Vytautas Landsbergis ir B. Jelcinas 1991 m. liepos 29 d. buvo savo šalių parlamentų pirmininkai.
+- susijęs iš [[objektai/autoriai/Nežinomas Jėzuitų ordino narys.md#claim-t-190397|Nežinomas Jėzuitų ordino narys]]: Narbutas mini nežinomo jėzuito sukompiliuotą rankraštinę Bažnyčios istoriją, saugotą privataus dvarininko bibliotekoje.
 - susijęs iš [[objektai/daiktai/Šarvuočiai.md#claim-t-26415|Šarvuočiai]]: 1926 m. gruodžio 17 d. perversmo metu šarvuočiai buvo prie Vyriausiojo štabo.
 - susijęs iš [[objektai/grupes/Baltijos Valstybių Taryba.md#claim-t-19657|Baltijos Valstybių Taryba (institucija)]]: Įkūrus Baltijos Valstybių Tarybą, jos posėdžiuose rengta bendra užsienio politikos pozicija.
 - susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-183127|Europos Sąjunga]]: 2004 m. gegužės 1 d. Lietuva įstojo į Europos Sąjungą ir įgijo teisę kurti savo bei žemyno ateitį su kitomis demokratinėmis valstybėmis.
@@ -160,6 +161,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš Gedimino laiškai ordinams ir Hanzos miestams: Gedimino laiškai buvo įdėti į papildymus kartu su vertimu į lenkų kalbą ir Foigto pastabomis.
 - susijęs iš Gedimino laiškai: Balińskis Gedimino laiškus dėjo į papildymus kartu su lenkišku vertimu ir Foigto pastabomis.
 - susijęs iš Prūsijos vyskupų laiškas dėl 1323 m. sutarties: Prūsijos vyskupai laiške 1323 m. taikos sutartį vadino velnio žabangomis ir gėda krikščioniškajam pasauliui.
+- susijęs iš Rankraštinė Bažnyčios istorija: Narbutas aprašė privačioje bibliotekoje saugotą rankraštinę Bažnyčios istoriją, sukompiliuotą iš kronikų ir įvairių raštų išrašų.
 - susijęs iš Valstybės gynimo tarybos kariuomenės perorganizavimo planas (1935 m.): Valstybės gynimo tarybos priimtas kariuomenės perorganizavimo planas numatė apie 20 proc. biudžeto skirti krašto gynybai.
 - susijęs iš Baltarusija: Lietuvos ir Baltarusijos politinius santykius komplikavo Baltarusijos prezidento Aleksandro Lukašenkos diktatūrinis valdymas.
 - susijęs iš Druskininkai: Lietuviai derybose su sovietais siekė atgauti lietuviškus Vilniaus krašto rajonus, tarp jų Druskininkus.

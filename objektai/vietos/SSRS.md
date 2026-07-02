@@ -553,6 +553,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - susijęs iš Kaunas: Kaune atsirado jėzuitų kolegija, funduota brolių Vijūkų Kojelavičių.
 - susijęs iš Kaunas: 1941 m. liepą Heinrichas Himmleris perdavė Kaune veikusiai einzatsgrupei A nurodymą žudyti ne tik žydų vyrus, bet ir moteris bei vaikus.
 - susijęs iš Kaunas: 1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė.
+- susijęs iš Kaunas: Narbutas perteikia Kosakovskio nuomonę, kad rastasis atvaizdas buvęs Kauno miesto dievas globėjas, kaip rodžiusi jo karūna.
 - susijęs iš Kauno IX fortas: Kauno IX forte sušaudyta apie 6–8 tūkst. žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.
 - susijęs iš Kauno miesto sodas (miestas): 1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė.
 - susijęs iš Kolumbija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos valstybės pripažinimą Kolumbijoje ir kitose okupacijos nepripažinusiose šalyse.

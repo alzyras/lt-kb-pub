@@ -116,4 +116,3 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Panemunė
 - [[objektai/asmenys/Švitrigaila]] puole Panemunė
 - [[objektai/vietos/Rambynas]] priklause Panemunė
-- Panemunė priklause [[objektai/grupes/Kryžiuočių ordinas]]

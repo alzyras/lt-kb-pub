@@ -974,9 +974,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.).md#claim-t-34521|Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]: 1426 m. rugpjūtį Vytautas su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą, bet miesto paimti nepavyko.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176652|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Tų metų rugpjūtį Vytautas Didysis su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.
 - susijęs iš Naugardas: Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).
+- susijęs iš [[objektai/asmenys/Jurijus Vytutaitis.md#claim-t-190168|Jurijus Vytutaitis]]: Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus valdė Pskovo žemę.
 - susijęs iš [[objektai/paprociai/Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes.md#claim-t-09528|Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes]]: 1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes.
 - susijęs iš Lietuvių karas su kryžiuočiais: Lietuvių kare su kryžiuočiais Dovydas Gardiniškis įvardijamas kaip Lietuvos didžiojo kunigaikščio vietininkas ir Gardino pilininkas.
-- susijęs iš Naugardas: 1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai.
 - susijęs iš Kijevo Rusia: 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, nusiaubė Pskovą ir galbūt Polocką.
 - susijęs iš Kijevo Rusia: 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes ir nusiaubė Pskovą.
 - susijęs iš Koloža: 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos miestą.
@@ -996,10 +996,12 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82286|Elena (vyskupas, XV–XVI a.)]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.
 - susijęs iš [[objektai/asmenys/Ivanas Sidorovičius.md#claim-t-87909|Ivanas Sidorovičius]]: Ivanas Sidorovičius buvo Pskovo bojarinas, atvykęs į Vilnių prašyti Vytauto paleisti belaisvius.
 - susijęs iš [[objektai/asmenys/Jurgis Vytautaitis.md#claim-t-39568|Jurgis Vytautaitis]]: Jurgis Vytautaitis buvo lietuvių vietininkas Pskove ir balandžio 13 d. žuvo mūšyje prie Izborsko.
+- susijęs iš [[objektai/asmenys/Jurijus Vytutaitis.md#claim-t-190168|Jurijus Vytutaitis]]: Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus valdė Pskovo žemę.
 - susijęs iš [[objektai/asmenys/Machmetas.md#claim-t-96027|Machmetas]]: Machmetas pasiuntė savo sūnų auklėtis į Vytauto Didžiojo dvarą ir rėmė Vytauto žygius į Pskovą bei Naugardą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176652|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Tų metų rugpjūtį Vytautas Didysis su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.
 - susijęs iš [[objektai/autoriai/Pskovo metraštininkas.md#claim-t-88081|Pskovo metraštininkas]]: Pskovo metraštininkas minėjo pskoviečių pasiuntinybę pas Vytautą.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-103736|Didžiojo Naugardo respublika]]: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190582|Lietuviai]]: Narbutas kaip lietuvių valdovą Jurijaus vardu minėjo Jurijų Vytautaitį, apie 1342 m. valdžiusį Pskovo žemę.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179379|Livonijos ordinas]]: Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179414|Livonijos ordinas]]: Livonijos ordinas sudarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą.
 - susijęs iš [[objektai/grupes/Pskoviečiai.md#claim-t-187767|Pskoviečiai]]: Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo klausyti, mokėti duoklę ir įsileisti jo vietininką.
@@ -1092,6 +1094,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-12358|Didžiojo Naugardo respublika]]: Vytautui gyvenimo pabaigoje pasisekė paimti savo įtakon Pskovą ir Didįjį Naugardą.
 - susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78166|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
 - susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78167|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
+- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188194|Herulai]]: Narbutas spėjo, kad obotritai kai kuriuos Prilvico stabus galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklomis.
 - susijęs iš [[objektai/grupes/Jedinstvo.md#claim-t-65204|Jedinstvo]]: Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komunistų partijos suorganizuoti ir „Jedinstvo“ vedami rusakalbiai darbininkai.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116735|Katalikų Bažnyčia]]: 1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą Lietuvoje ir Rusijoje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179008|Kryžiuočių ordinas]]: 1429 m. Lucko suvažiavime dalyvavo ir Vokiečių ordino pasiuntiniai.
@@ -1151,6 +1154,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - susijęs iš Bizantija: Bizantijos imperatoriaus pasiuntiniai buvo tarp svečių, atvykusių pas Vytautą.
 - susijęs iš Deltuva: Ipatijaus metraštis Deltuvą prie Ukmergės mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų.
 - susijęs iš Deltuva: Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų .
+- susijęs iš Deltuva: Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos.
 - susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis, turtingesnėmis gyvenvietėmis.
 - susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Gerokai prieš XIII a. Pskovas ir Naugardas garsėjo prekyba, mūrais ir savo pačių valdžia.
 - susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Vytautas senatvėje kovojo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai padarytas skriaudas.
@@ -1202,7 +1206,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - susijęs iš Naugardas: Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi.
 - susijęs iš Naugardas: 1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai.
 - susijęs iš Naugardas: Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).
-- susijęs iš Nemunas: Per šešerius metus lietuviai, gyvenę Nemuno pakrantėje nuo Neries upės iki Lamatos žemės, buvo priversti laikytis taikos su krikščionimis.
 - susijęs iš Opokos apylinkės: 1581 m. K. Radvilos Perkūno reido metu buvo nusiaubtos Opokos apylinkės.
 - susijęs iš Opočka: 1426 m. rugpjūčio 1 d. Vytautas puolė Pskovo miestą Opočką, bet jo nepaėmė.
 - susijęs iš Plockas: 1386 m. Šv. Jono bažnyčią per iškilmes pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.
@@ -1238,7 +1241,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
 - susijęs iš Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): 1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: 1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.
-- susijęs iš Žemaitija: 1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
 - susijęs iš [[objektai/zodynas/Kašteliono valdžia.md#claim-t-86633|Kašteliono valdžia]]: Išsivadavę iš kašteliono valdžios, Lenkijos miestai įgijo atleidimą nuo duoklių, savo teisėtvarką ir atskirą miesto valdymą.
 - susijęs iš [[objektai/zodynas/družina.md#claim-t-32773|družina]]: Nalšėnų Daumantas, bijodamas patekti Vaišvilkui į rankas, pabėgo į Pskovą su šeima, bajorais ir palydovais, vadinamais družina.
 - susijęs iš [[objektai/zodynas/indiktas.md#claim-t-86423|indiktas]]: Karaliaus Kazimiero sutartis su Pskovu Vilniuje datuota 1440 m. gruodžio 30 d., 4 indiktu.
@@ -2140,6 +2142,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] gyne Pskovas
 - [[objektai/grupes/Lietuviai]] puole Pskovas
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Pskovas
+- [[objektai/asmenys/Jurijus Vytutaitis]] valde Pskovas
 - [[objektai/grupes/Lietuviai]] surenge_zygi_i Pskovas
 - [[objektai/asmenys/Dovydas Gardiniškis]] gyne Pskovas
 - [[objektai/vietos/Koloža]] priklause Pskovas
@@ -2155,7 +2158,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - [[objektai/asmenys/Sofija (Vytauto duktė)]] keliavo_i Pskovas
 - [[objektai/vietos/Bokštai]] priklause Pskovas
 - [[objektai/asmenys/Jurgis Vytautaitis]] valde_miesta Pskovas
-- [[objektai/asmenys/Gediminas]] valde Pskovas
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] valde Pskovas
 - [[objektai/asmenys/Steponas Batoras]] apgule Pskovas
 - Pskovas priklause [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Pskoviečiai]] keliavo_i Pskovas

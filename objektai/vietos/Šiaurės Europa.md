@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Šiaurės Europa'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,7 +16,6 @@ tags:
 Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Europos dalies (Olandija, Anglija) ir per XVII–XVIII a.
 
 ## Teiginiai
-
 <a id="claim-t-77713"></a>
 - t-001
   global_id: t-77713
@@ -54,8 +54,26 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   ryšio_targeto_parinkimas: Europa: mention_match, place, gap=8
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiaurės Europa" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
-## Reikšmingi paminėjimai
+<a id="claim-t-188875"></a>
+- t-003
+  global_id: t-188875
+  teiginys: 'Narbutas rašė, kad midus, kaip ir alus, įeidavo į Šiaurės Europos tautų apeigas, o jo pavadinimas daugelyje tautų buvo beveik toks pat.'
+  pagrindžia:
+    - c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 538670-539323; hash=4b36aa488204b185b16e3978821951e53c431e920b95452694525fe8101ac645; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šiaurės Europa: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiaurės Europa" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -77,3 +95,25 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   pagrindžia:
     - t-002
     - t-001
+- c-002
+  santrauka: 'Narbutas rašė, kad midus, kaip ir alus, įeidavo į Šiaurės Europos tautų apeigas, o jo pavadinimas daugelyje tautų buvo beveik toks pat.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Čia kalbama apie baltą gėrimą, kuris gali būti arba kume­
+    lių pienas, arba fermentuotas jo gaminys, kuris, kaip pamaty­
+    sime toliau, antrajame tome, buvo mėgstamas senovės lietu­
+    vių gėrimas; arba tas Alus, galintis taip vadintis dėl šviesios
+    spalvos, arba pagaliau liepų midus, kadangi seniau lietuvių
+    kraštai visur garsėjo midumi; ypač liepinis buvo geras Kauno
+    apylinkėse, kol didžiulius tenykščius liepynus sunaikino šalį
+    ištikusi suirutė. Naujoji Edą 20-ojoje giesmėje taip pat mini
+    midų, kaip mėgstamą dievų gėrimą. Kaip ir alus, midus įeida­
+    vo į Siaurės Europos tautų apeigas6; jo pavadinimas visose ci­
+    vilizuotose tautose buvo beveik toks pat.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

@@ -79,6 +79,10 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pavietas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Dubrovno pavietas: Dubrovno pavietas atiteko Vilniaus katedrai ir kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš [[objektai/asmenys/Vaidila.md#claim-t-87462|Vaidila]]: Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
+- susijęs iš [[objektai/grupes/Saulės garbintojai.md#claim-t-189533|Saulės garbintojai]]: Narbutas pasakojo, kad Jeronimas keliaudamas rado saulės garbintojus, ypač garbinusius didžiulį geležinį kūjį.
+- susijęs iš [[objektai/grupes/Žyniai.md#claim-t-189398|Žyniai]]: Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę.
+- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio atsiskaitymas Bazelio bažnytiniam susirinkimui.md#claim-t-189634|Jeronimo Prahiškio atsiskaitymas Bazelio bažnytiniam susirinkimui]]: Narbutas sieja Jeronimo Prahiškio pasakojimą Pijui II ir Bazelio susirinkimo tėvams su atsiskaitymu apie apaštalavimą Lietuvoje 1392 arba 1393 m.
+- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio saulės garbintojų mokymas ir kūjo garbinimo atmetimas.md#claim-t-189625|Jeronimo Prahiškio saulės garbintojų mokymas ir kūjo garbinimo atmetimas]]: Narbutas pasakoja, kad keliaudamas Jeronimas Prahiškis rado saulės garbintojus, ypač garbinusius didžiulį geležinį kūjį.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -98,6 +98,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 - susijęs iš [[objektai/asmenys/Grigalius Chodkevičius.md#claim-t-184710|Grigalius Chodkevičius]]: Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius.
 - susijęs iš [[objektai/asmenys/Grigalius Chodkevičius.md#claim-t-40125|Grigalius Chodkevičius]]: Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų karių.
 - susijęs iš [[objektai/asmenys/Ivanas Fiodorovas.md#claim-t-23198|Ivanas Fiodorovas]]: Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve priglobė Chodkevičiai.
+- susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-188549|Jonas Chodkevičius]]: Narbutas rašo, kad Jonas Chodkevičius ir Romanas Sanguška 1567 metais palaikė karo veiksmų su Rusija tęsimą.
 - susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-63715|Jonas Chodkevičius]]: Jonas Chodkevičius buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo Livonijos etmonu.
 - susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-63716|Jonas Chodkevičius]]: XVI a. antrojoje pusėje Jonas Chodkevičius Roneburgo pilies bažnyčioje rado Petro iš Dusburgo kronikos nuorašą ir perdavė jį Augustinui Rotundui.
 - susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101648|Jonas Jeronimaitis Chodkevičius]]: Jonas Jeronimaitis Chodkevičius pasirinko Lietuvos susisaistymą su Lenkija ir 1569 m. Liublino seime priėmė unijos idėją.
@@ -138,6 +139,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169847|Liublino unija (1569 m.)]]: Gindamas LDK antspaudus J. J. Chodkevičius paliko galimybę išsaugoti Lietuvos valstybingumą po Liublino unijos.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169848|Liublino unija (1569 m.)]]: Liublino unijos metu lenkai ir Žygimantas Augustas spaudė LDK atstovus, siekdami panaikinti valstybingumą ir atplėšti teritorijų.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169850|Liublino unija (1569 m.)]]: 1569 m. birželio 28 d. Jonas Jeronimaitis Chodkevičius Liublino seime priėmė unijos ir vieno antspaudo idėją.
+- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-188373|Liublino unija (1569 m.)]]: Narbutas lietuvių politinę ir kultūrinę raidą apžvelgė nuo seniausių laikų iki 1569 m. Liublino unijos.
 - susijęs iš [[objektai/ivykiai/Polocko praradimas.md#claim-t-16735|Polocko praradimas]]: 1563 m. Polocko praradimas parodė, kad Lietuvai reikėjo Lenkijos paramos.
 - susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10284|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje abi kariuomenės iki vidudienio stovėjo nepajudėjusios.
 - susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-186375|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje lietuviai nedideliais išpuoliais mėgino išprovokuoti švedus pulti pirmuosius, bet abi kariuomenės išstovėjo iki vidudienio.

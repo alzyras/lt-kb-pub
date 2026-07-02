@@ -143,7 +143,7 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   ryšio_subjekto_parinkimas: Gedimino antspaudas: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Antspaudas: mention_match, thing, gap=30
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino antspaudas" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176383|Gediminas]]: Gedimino vardu naudotame antspaude jis tituluotas lietuvių ir rusų karaliumi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176383|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino vardu naudotame antspaude jis tituluotas lietuvių ir rusų karaliumi.
 - susijęs iš Notariats-Instrument dėl Gedimino antspaudo (Liubekas, 1323 m.): 1323 m. Liubeke parengtas Notariats-Instrument aprašė Gedimino apvalų vaško antspaudą su soste sėdinčio vyro atvaizdu.
 - susijęs iš [[objektai/zodynas/Notariats instrument notarinis instrumentas.md#claim-t-86541|Notariats instrument notarinis instrumentas]]: 1323 metais Liubeke parengtame notariniame instrumente aprašytas prie laiško prikabintas apvalus Gedimino vaško antspaudas.
 - susijęs iš [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės.md#claim-t-87191|Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]: 1584 m. Gardine Steponas Batoras paskelbė Vilniaus vyskupijos jurisdikcijos pavaldinius laisvus nuo miesto pasaulietinės jurisdikcijos ir cechų.
@@ -279,4 +279,4 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     - t-003
 
 ## Ryšiai
-- Gedimino antspaudas priklause [[objektai/asmenys/Gediminas]]
+- Gedimino antspaudas priklause [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

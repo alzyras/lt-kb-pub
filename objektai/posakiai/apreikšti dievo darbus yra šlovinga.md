@@ -42,9 +42,6 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-184140|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64226|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102847|Dusburgas]]: Dedikacijoje Petras iš Dusburgo prisistato tų pačių šventųjų įžadų kunigu ir kreipiasi į magistrą Vernerį iš Orzelno.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181463|Petras Dusburgietis]]: Dedikacijoje Petras iš Dusburgo tiesiogiai įvardija save tų pačių įžadų kunigu ir kronikos siuntėju Verneriui iš Orzelno.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181467|Petras Dusburgietis]]: Petras iš Dusburgo kronikos dedikacijoje prisistato kaip tų pačių šventųjų įžadų kunigas.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-183995|Petras Dusburgietis]]: Petras iš Dusburgo kronikos dedikacijoje kreipėsi į magistrą Vernerį iš Orzelno.
 ## Reikšmingi paminėjimai
 
 - c-001

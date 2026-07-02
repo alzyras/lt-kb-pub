@@ -28,36 +28,41 @@ Istorinės Lietuvos bajorų katalikų tapatybės grupė, šaltinyje siejama su N
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-188046"></a>
-- t-001
-  global_id: t-188046
+<a id="claim-t-188288"></a>
+- t-002
+  global_id: t-188288
   teiginys: 'Narbutui skirtame įvadiniame straipsnyje „litvinais“ vadinami Vilniaus, Kauno, Gardino ir Minsko gubernijų bajorai katalikai.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie litvinus ir aiškiai nurodo įvadinio straipsnio vartoseną. Papildomų faktų iš citatos nepridėta.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Gardinas; mentioned_place: Minskas; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Lietuva; llm_object: Gardinas; llm_object: Minskas'
-  semantiniai_rysiai: '[[objektai/grupes/Litvinai|Litvinai]] priklausė [[objektai/grupes/Bajorai|Bajorai]]; [[objektai/grupes/Litvinai|Litvinai]] gyveno Gardinas; [[objektai/grupes/Litvinai|Litvinai]] gyveno Minskas'
   pagrindžia:
     - c-001
-
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 11719-11966; hash=4b856824882ab9e1377c1a410c83e041f8abbaa45de7b01d8c7aab5cb6d15c87; match=exact
+  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
+  ryšio_patikimumas: gyveno -> Lietuva: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Litvinai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata apibrėžia litvinus kaip istorinėje Lietuvoje gyvenančius bajorus.
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Narbutui skirtame įvadiniame straipsnyje „litvinais“ vadinami Vilniaus, Kauno, Gardino ir Minsko gubernijų bajorai katalikai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     savarankišką kultūrinio palikimo vertinimą. Istorinė Lietuva -
     tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ -
     tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems
     visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
+    - t-003
 
 ## Ryšiai
-- Litvinai priklause [[objektai/grupes/Bajorai]]
-- Litvinai gyveno [[objektai/vietos/Gardinas]]
-- Litvinai gyveno [[objektai/vietos/Minskas]]
+- Litvinai gyveno [[objektai/vietos/Lietuva]]

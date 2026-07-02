@@ -71,4 +71,4 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] puole Mozūrijos žemė
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]] puole Mozūrijos žemė

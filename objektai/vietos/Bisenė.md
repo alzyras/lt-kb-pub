@@ -144,6 +144,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78404|Notangai]]: 1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį ir sudegino abu jos papilius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178938|Kryžiuočių ordinas]]: Kryžiuočių kariauna, pakeliui viską degindama, puolė Bisenės pilį ir mėgino ją užimti šturmu.
 - susijęs iš [[objektai/ivykiai/Bisenės pilies puolimas (1313 m.).md#claim-t-62208|Bisenės pilies puolimas (1313 m.)]]: 1313 m. vasarą Henrikas iš Plockės puolė Bisenės pilį, bet po nesėkmingos apgulties pasitraukė sužeidus kelis brolius ir pilėnus.
+- susijęs iš Ariogala: Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.
+- susijęs iš Ariogala: Narbutas Liutaurą vadina jūrų karžygiu ir rašo, kad jis 1262 m. atstatė senovinę Ariogalą.
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59864|Henrikas iš Plockės]]: Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė.
 - susijęs iš [[objektai/ivykiai/Bisenės pilies užkariavimas.md#claim-t-66499|Bisenės pilies užkariavimas]]: Konradas iš Tirbergo su didele kariuomene perėjo užšalusį Nemuną, puolė Bisenės pilį, įsiveržė į ją ir sudegino.
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59864|Henrikas iš Plockės]]: Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė.
@@ -178,15 +180,16 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185497|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Vasaros pabaigoje Ragainės kryžiuočiai sudegino Pūtvės miestą prie Jūros, o miestiečius paėmė į nelaisvę arba išžudė.
 - susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185498|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Lietuviai įgulų tarnybas tvarkė taip, kad kariškai lavintųsi jaunimas.
 - susijęs iš Ariogala: Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.
+- susijęs iš Ariogala: Narbutas Liutaurą vadina jūrų karžygiu ir rašo, kad jis 1262 m. atstatė senovinę Ariogalą.
 - susijęs iš Kolainių pilis (pilis): Kolainių pilis dažniausiai siejama su Kalnėnais į vakarus nuo Jurbarko, nors jos vieta tiksliai nenustatyta.
 - susijęs iš Kristmemelis: Kristmemelio pilis greičiausiai stovėjo Maštaičių arba Norkūnų piliakalnyje kairiajame Nemuno krante žemiau dabartinio Gelgaudiškio.
 - susijęs iš Nemunas: Henrikui iš Plockės puolant Bisenės pilį, upe atplaukę kariai iš laivų nutiesė tiltą per Nemuną, bet apgula baigėsi nesėkme.
+- susijęs iš Nemunas: Narbutas pateikė iš Hartknocho paimtą lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, maldos pavyzdį.
 - susijęs iš Romuva: Romuva minima kaip Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58772|papilys]]: 1313 m. rudenį maršalas Henrikas užpuolė Bisenės pilį, o po ilgų kovų sudegė abu jos papiliai.
 - susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184635|pilėnas]]: Bisenės užpuolimą pilėnai narsiai atrėmė, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59957|Fridrichas Kvicas]]: 1316 m. balandžio 4 d. Fridrichas Kvicas su Ditrichu iš Altenburgo, dar vienu broliu ir trimis Ragainės ginklanešiais patraukė link Bisenės pilies.
 - susijęs iš [[objektai/ivykiai/Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.).md#claim-t-185554|Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.)]]: Bisenės pilėnai narsiai atrėmė kryžiuočių puolimą ir privertė daug karių netekusį priešą pasitraukti.
-- susijęs iš Ariogala: Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.
 - susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97014|Bisenos sunaikinimas (1316 m.)]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo ir Fridrichas Kvicas, užklupę Bisenės sargybos kaitą, įėjo į tuščią pilį ir ją sudegino.
 - susijęs iš [[objektai/ivykiai/Bisenės pilies sudeginimas (1316 m. balandžio 4 d.).md#claim-t-59490|Bisenės pilies sudeginimas (1316 m. balandžio 4 d.)]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo, Fridrichas Kvicas ir jų palyda įėjo į tuščią Bisenės pilį ir ją sudegino.
 - susijęs iš [[objektai/ivykiai/Bisenės pilies sudeginimas (1316 m. balandžio 4 d.).md#claim-t-59490|Bisenės pilies sudeginimas (1316 m. balandžio 4 d.)]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo, Fridrichas Kvicas ir jų palyda įėjo į tuščią Bisenės pilį ir ją sudegino.

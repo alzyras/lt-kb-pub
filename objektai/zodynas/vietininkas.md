@@ -367,6 +367,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113837|Julijona (Vytauto žmona)]]: 1426 m. Julijona iš didžiojo magistro Pauliaus Rusdorfo gavo jai atsiųstų gydomųjų gėrimų.
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40368|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų.
 - susijęs iš [[objektai/asmenys/Popiežius Celestinas III.md#claim-t-60480|Popiežius Celestinas III]]: Dusburgietis rašo, kad popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę.
+- susijęs iš [[objektai/asmenys/Sveneldas.md#claim-t-190212|Sveneldas]]: Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiajame Naugarde.
 - susijęs iš [[objektai/asmenys/Tomas Survila.md#claim-t-39652|Tomas Survila]]: Tomas Survila žuvo tarnaudamas senajai Tėvynei kaip vienas iš dviejų lietuvių kryžiuočių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178806|Kryžiuočių ordinas]]: Po nepavykusio Vilniaus apsiautimo Ordinas grobuoniškus planus nukreipė prieš Žemaitiją.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179002|Kryžiuočių ordinas]]: Po nepavykusio Vilniaus apsiautimo Ordinas grobuoniškus planus nukreipė prieš Žemaitiją.
@@ -379,6 +380,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - susijęs iš [[objektai/posakiai/ant tvirtos uolos, o toji uola — Kristus.md#claim-t-59072|ant tvirtos uolos, o toji uola — Kristus]]: Teutonų ordino namų pagrindas vadinamas nesugriaunamu, nes jis pastatytas ant tvirtos uolos, kuri yra Kristus.
 - susijęs iš Jeruzalė: Popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę ir paskyrė septynis brolius kraštų valdytojais.
 - susijęs iš Klaipėda: Klaipėda atlaikė žemaičių puolimus.
+- susijęs iš Naugardas: Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu.
 - susijęs iš Sučiava: 1485 m. rugsėjo 19–20 d. Ali-pašos vadovaujama Turkijos kariuomenė puolė Moldavijos sostinę Sučiavą.
 - susijęs iš Sučiava: 1485 m. rugsėjo 19–20 d. puolimo pastaboje Sučiava įvardijama kaip Moldavijos sostinė.
 - susijęs iš [[objektai/zodynas/Kamarninkas.md#claim-t-28555|Kamarninkas]]: Ordino kamarninkai Žemaičiuose vėl ėmė matuoti laukus ir surašinėti gyventojus.

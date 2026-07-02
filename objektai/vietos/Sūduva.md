@@ -277,6 +277,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - susijęs iš Nemunas: Ordinas turėjo tuojau paimti vakarinį Sūduvos ruožą ir Žemaičių dalį į vakarus nuo Raudonės įtakos į Nemuną iki Klaipėdos.
 - susijęs iš Nemunas: Kronikininkas Prūsijos žemių tarp Vyslos ir Nemuno nukariavimą aprašė remdamasis geografiniu principu.
 - susijęs iš Nemunas: Ordinas primygtinai savinosi visą didžiąją Sūduvos dykrą, persimetusią į Nemuno dešiniąją pusę ir nusidriekusią per visą vakarų Žemaitiją.
+- susijęs iš Nemunas: Narbutas rašė, kad prie Sancinės, kur Nemunas išsišakoja į Giliją ir Rusnę, buvo vietinių Kroniszkas-Pilnis vadintas piliakalnis.
 - susijęs iš Niešavos kraštas (kraštas): Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
 - susijęs iš Preivosto šilai: Per dykrą einanti siena tiesėsi į Preivosto šilus, o iš ten - tiesia linija į Merūniškius ir Vystyčio ežerą.
 - susijęs iš Pskovas: Ordino reikalautos Žemaičių ribos buvo vedamos iki Pskovo respublikos valdų.

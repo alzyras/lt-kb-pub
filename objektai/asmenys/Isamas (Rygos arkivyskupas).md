@@ -63,8 +63,8 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113925|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl teutonų išdavysčių nuo jo atkrito.
 - susijęs iš [[objektai/asmenys/Pranciškus (popiežiaus legatas).md#claim-t-87564|Pranciškus (popiežiaus legatas)]]: Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų į pastatytą bažnyčią.
 - susijęs iš [[objektai/asmenys/Pranciškus (popiežiaus legatas).md#claim-t-87565|Pranciškus (popiežiaus legatas)]]: Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176839|Vytenis]]: Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis (valdovas, XIII–XIV a.)]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176839|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų.
 - susijęs iš [[objektai/daiktai/Vytenio minoritams pastatyta bažnyčia.md#claim-t-87103|Vytenio minoritams pastatyta bažnyčia]]: Vytenis prašė atsiųsti minoritų, kuriems norėjo skirti jau pastatytą bažnyčią.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178883|Kryžiuočių ordinas]]: Gedimino laiške popiežiui ir kardinolams teigta, kad Mindaugą nuo krikščionybės atstūmė kryžiuočių magistro smurtas ir išdavystės.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179012|Kryžiuočių ordinas]]: Ordinas, sužinojęs apie Vytenio minoritams skirtą bažnyčią, pasiuntė ginkluotą būrį jos sudeginti.

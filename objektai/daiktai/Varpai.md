@@ -140,9 +140,17 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Varpai: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Kalvarija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varpai" parinktas kaip owner_note_path. Targetas "Kalvarija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Teokritas Scholastas.md#claim-t-190215|Teokritas Scholastas]]: Narbutas remiasi Teokritu Scholastu teigdamas, kad varpai priklausė slaptoms Kabirų garbinimo apeigoms.
+- susijęs iš [[objektai/autoriai/Teokritas Scholastas.md#claim-t-190458|Teokritas Scholastas]]: Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbinimo paslaptingoms apeigoms.
+- susijęs iš [[objektai/daiktai/Lietuvių pilių varpai žadintojai ir gumbai.md#claim-t-189658|Lietuvių pilių varpai žadintojai ir gumbai]]: Narbutas rašo, kad padavimai lietuvių pilyse mini varpus kariams prikelti, sargybiniams perspėti ir pavojui paskelbti.
+- susijęs iš [[objektai/daiktai/Prūsų didžioji vėliava.md#claim-t-189741|Prūsų didžioji vėliava]]: Narbutas Prūsų didžiojoje vėliavoje aprašo Atrimpo atvaizdą kaip jaunikaitį su javų varpų vainiku ant galvos, stovintį Perkūno kairėje.
+- susijęs iš [[objektai/daiktai/Senovės prūsų vėliava.md#claim-t-189713|Senovės prūsų vėliava]]: Narbutas rašė, kad prūsų didžiojoje vėliavoje Atrimpas vaizduotas kaip jaunikaitis su javų varpų vainiku, stovintis Perkūno kairėje.
 - susijęs iš [[objektai/daiktai/Varpų vainikas.md#claim-t-08346|Varpų vainikas]]: Antrasis stabas turėjo varpų vainiką ant galvos.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188294|Prūsai]]: Narbutas rašo, kad prūsų didžiojoje vėliavoje Atrimpas vaizduotas kaip jaunikaitis su javų varpų vainiku, stovintis Perkūno kairėje.
 - susijęs iš [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas.md#claim-t-31531|Monetų kalimas ir pabūklų, varpų liejimas]]: Nuo Vytauto laikų Lietuvoje buvo kalamos monetos ir liejami pabūklai bei varpai.
 - susijęs iš [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą.md#claim-t-09578|Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]: Žmones į Salas telkė bažnyčios varpų skambėjimas.
+- susijęs iš Gorodiščės kaimas: 1780 metais Narbutas sename apkase arba pilies pylime prie Gorodiščės kaimo rado didžiuliam varpui priklausiusį gabalą.
+- susijęs iš Romovės šventykla: Narbutas rašo, kad Atrimpo stabas Romovės šventykloje stovėjo Perkūno dešinėje ir buvo medinis, su varpų vainiku.
 - susijęs iš [[objektai/zodynas/atšilimas.md#claim-t-22059|atšilimas]]: 1958 m. „atšilimas“ baigėsi, o valdžia pradėjo kovą su religija mokymo įstaigose, draudė skambinti varpais ir ribojo atlaidų lankymą.
 - susijęs iš [[objektai/autoriai/Liudvika Gedgaudienė-Didžiulienė.md#claim-t-64705|Liudvika Gedgaudienė-Didžiulienė]]: Liudvika Gedgaudienė-Didžiulienė paliko užrašus su prisiminimais apie sukilėlių pajėgų telkimą Salų miestelyje.
 - susijęs iš [[objektai/autoriai/Liudvika Gedgaudienė-Didžiulienė.md#claim-t-64707|Liudvika Gedgaudienė-Didžiulienė]]: Liudvika Gedgaudienė-Didžiulienė užrašuose mini į Salas atėjusius tris didelius Lietuvos kariuomenės pulkus.
@@ -237,3 +245,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Ryšiai
+- Varpai priklause [[objektai/grupes/Romėnai]]

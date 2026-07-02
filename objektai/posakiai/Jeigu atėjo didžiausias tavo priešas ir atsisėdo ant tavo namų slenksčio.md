@@ -1,0 +1,55 @@
+---
+tipas: posakis
+pavadinimas: 'Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų slenksčio'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+sukurta: ''
+atnaujinta: ''
+---
+# Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų slenksčio
+
+## Santrauka
+
+Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį paprotį, kuriame slenkstis siejamas su Dievo įžeidimu ir namų laime.
+
+## Teiginiai
+<a id="claim-t-189553"></a>
+- t-001
+  global_id: t-189553
+  teiginys: 'Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį paprotį, kuriame slenkstis siejamas su Dievo įžeidimu ir namų laime.'
+  pagrindžia:
+    - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 277616-278165; hash=f8fbf79ecc15baf63a9d072f3b066042e55f70cdbf7e42fa8d1a1b405bac8c8b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų slenksčio: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų slenksčio" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį paprotį, kuriame slenkstis siejamas su Dievo įžeidimu ir namų laime.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje
+    patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­
+    kas laikoma Dievo įžeidimu3. Jie turi tokią papročių taisyklę:
+    „Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų
+    slenksčio, nedaryk jam skriaudos, nes virš tavęs kybos amži­
+    nas Dievo pyktis. Virš slenksčio ir po slenksčiu vieši namų lai­
+    mė. Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­
+    se“. Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­
+    kala išorėje, virš pirkios arba svirno durų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

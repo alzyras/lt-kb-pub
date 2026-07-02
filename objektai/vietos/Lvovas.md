@@ -213,6 +213,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184709|Goštautas (vyskupas, XV a.)]]: Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.
 - susijęs iš [[objektai/asmenys/Jonas (Breslavo vyskupas).md#claim-t-34796|Jonas (Breslavo vyskupas)]]: 1415 m. Breslavo vyskupas Jonas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
 - susijęs iš [[objektai/asmenys/Jonas (Lvovo arkivyskupas).md#claim-t-34797|Jonas (Lvovo arkivyskupas)]]: 1415 m. Lvovo arkivyskupas Jonas buvo Lietuvos ir Lenkijos vyskupų delegacijos į Konstanciją narys.
+- susijęs iš [[objektai/asmenys/Karolis Kozakovskis.md#claim-t-190073|Karolis Kozakovskis]]: Karolis Kozakovskis 1840 m. sausio 27 d. iš Kurėnų pateikė informaciją ir atsiuntė daug iškasenų.
+- susijęs iš [[objektai/asmenys/Kosakovskis.md#claim-t-190173|Kosakovskis]]: Generolo grafo Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkastas netoli Lukoinių dvaro.
 - susijęs iš [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas).md#claim-t-34813|Mikalojus (Gniezno arkivyskupas)]]: Gniezno arkivyskupas Mikalojus 1415 m. buvo į Konstanciją išsiųstos Lietuvos ir Lenkijos vyskupų delegacijos narys.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
@@ -224,9 +226,11 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 - susijęs iš [[objektai/ivykiai/Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.).md#claim-t-185610|Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)]]: Lietuvių kariuomenė įsiveržė į Sandomiro vaivadiją, sumušė ją gynusius lenkus ir nuniokojo kraštą kalaviju bei ugnimi.
 - susijęs iš N. Korčino aktas: N. Korčino aktas kliudė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką.
 - susijęs iš Gniezno: 1415 m. į Konstanciją siųstoje Lietuvos ir Lenkijos vyskupų delegacijoje dalyvavo Gniezno arkivyskupas Mikalojus.
+- susijęs iš Kauno apskritis: Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkastas Kauno apskrityje prie Lukoinių dvaro greta skeleto.
 - susijęs iš Liublinas: Liublinas Vladislovo Lokietkos laikais, 1317 m., ėmė tvarkytis pagal vokiečių miestų teises.
 - susijęs iš Luckas: Naujojo Korčino aktas trukdė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką.
 - susijęs iš Luckas: 1392 m. Jogailos privilegija buvo nukreipta prieš Vytauto pretenzijas į Lucką.
+- susijęs iš Lukoinių dvaras: Netoli Lukoinių dvaro Kauno apskrityje buvo atkastas stiklinis tuščiaviduris rutuliukas greta sidabro grandine apjuosto skeleto.
 - susijęs iš Parčevas: Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl amžinos taikos.
 - susijęs iš Podolė: Jogailai išvykus iš Lietuvos į Lenkiją, Boleslovas su kariuomene patraukė į Podolę.
 - susijęs iš Poznanė: Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises.

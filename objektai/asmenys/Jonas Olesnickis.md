@@ -259,13 +259,11 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     nės vadas^1 ).
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: 'Jonas Olesnickis su visa įgula netikėtai užpuolė vokiečius ir sudavė jiems skaudų smūgį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -289,13 +287,11 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     latinėje baimėje.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-005
-
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -310,14 +306,12 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     glaistyti dar šviežius krašto niokojimo pėdsakus.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
     - t-004
-
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -333,14 +327,12 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     valdovas, daugelis kunigaikščių ir bajorų.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
     - t-007
-
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -355,13 +347,11 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     valdovo nelemto viešpatavimo Lietuvoje laikais.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-009
-
 - c-006
   santrauka: 'Jonas Olesnickis, gelbėdamas Vilniaus pilis, įsakė sudeginti likusius miesto namus ir gyventojus perkelti į Žemutinę pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -380,14 +370,12 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     netoli nuo Švč.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-008
     - t-006
-
 - c-007
   santrauka: 'Jonas Olesnickis pakeitė ankstesnį pareigūną ir buvo garsus Lenkijoje karo žygiais bei sena protėvių kilme.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -401,13 +389,11 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     nekenčiamas Kazimieras Skirgaila.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-010
-
 - c-008
   santrauka: 'Jonas Olesnickis nutarė pulti priešą, kol šis dar nebuvo tinkamai sutvirtinęs stovyklos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -420,13 +406,11 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     priešą, kol dar tas kaip reikiant nesutvirtino stovyklos.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-011
-
 - c-009
   santrauka: 'Vytautui pakeitus Skirgailą, Jonas Olesnickis atsisakė Vilniaus seniūno pareigų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -451,10 +435,9 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     didingesnė, kaip viešpataujant Vytautui.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-012
 

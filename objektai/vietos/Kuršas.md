@@ -7,6 +7,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '675 m.'
@@ -43,7 +44,6 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - tipas: kraštas / pajūrio regionas; regionas
 
 ## Teiginiai
-
 <a id="claim-t-90761"></a>
 - t-001
   global_id: t-90761
@@ -370,6 +370,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   ryšio_targeto_parinkimas: Krokuva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršas" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
+- susijęs iš Alsunga: Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos tarme, gautą iš tenykščio klebono.
 - susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-179567|Zenonas Ivinskis]]: Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Fridrichas Ketleris.md#claim-t-40109|Fridrichas Ketleris]]: Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, matydamas besirikiuojančius lietuvius, savo 300 raitelių įsakė persikelti į dešinįjį krantą.
 - susijęs iš Embutė: Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis puolė Ordino valdytą Embutės pilį, bet jos neužėmė.
@@ -377,12 +378,16 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
 - susijęs iš [[objektai/asmenys/Gotardas Ketleris.md#claim-t-87505|Gotardas Ketleris]]: 1579 m. Vilniuje Steponas Batoras priėmė Gotardą Ketlerį, Kuršo kunigaikštį.
 - susijęs iš [[objektai/asmenys/Henrikas Botelis.md#claim-t-116281|Henrikas Botelis]]: Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.
+- susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190190|Nestoras]]: Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš“, bet jį esą reikia skaityti kaip „Kurs“.
+- susijęs iš [[objektai/asmenys/Vidmantas iš Kuršo.md#claim-t-190218|Vidmantas iš Kuršo]]: Narbutas Vidmantą iš Kuršo mini kaip švedų kilmės bartininką ir Gedimino žmonos Vidos tėvą.
+- susijęs iš [[objektai/autoriai/Brantas.md#claim-t-190418|Brantas]]: Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latvišką maldos „Tėve mūsų“ tekstą.
 - susijęs iš [[objektai/autoriai/J. Endzelynas.md#claim-t-60571|J. Endzelynas]]: J. Endzelynas Kuršo vietovardį Semba tapatino su prūsų žemės vardu Semba.
 - susijęs iš [[objektai/autoriai/Mažiulis V.md#claim-t-60847|Mažiulis V]]: V. Mažiulis teigė, kad lietuvių kalboje Kuršių nerija vadinta Kopomis, Kalnais, Pajūriais ir Randavomis.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181472|Petras Dusburgietis]]: Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.
 - susijęs iš [[objektai/autoriai/V. Mažiulis.md#claim-t-64861|V. Mažiulis]]: V. Mažiulio darbe „Dėl Neringos“ remiamasi aiškinant Kuršių nerijos pavadinimus.
 - susijęs iš [[objektai/autoriai/W. Eckert.md#claim-t-31060|W. Eckert]]: W. Eckertas tyrė Kuršo Cedis kraštovaizdį ir kovą dėl Pietų Kuršo tarp Vokiečių ordino ir Lietuvos.
 - susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-179567|Zenonas Ivinskis]]: Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną.
+- susijęs iš [[objektai/grupes/Kuršiai ir latviai.md#claim-t-189519|Kuršiai ir latviai]]: Narbutas pateikė kuršišku arba latvišku vadinamą maldos tekstą ir atskirą Kuršo Alsungos katalikų parapijos tarmės variantą.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-184515|Kuršiai]]: Kitais metais Utenis perkėlė karą iš Kuršo į Livoniją, o sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65554|Kuršiai]]: Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65557|Kuršiai]]: Livonijoje sukilę estai, kuršiai ir žiemgaliai 1263-1270 m. mažino išorinį pavojų Lietuvai.
@@ -407,6 +412,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - susijęs iš Kuršių Neringa: Kuršių Neringa buvo patogaus kelio tarp Prūsijos ir Livonijos dalis, kurį turėjo ginti Klaipėdos pilis.
 - susijęs iš Kuršo gubernija: Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.
 - susijęs iš Kuršo gubernija: Sukilėliai siekė perimti Kuršo gubernijos vakarinės dalies kontrolę, kad galėtų priimti iš Vakarų Europos atgabentus ginklus.
+- susijęs iš Kuršo kraštas (kraštas): Narbutas Kuršo krašto pavadinimą siejo su forma Kur-zeeme, lenkišku Kuronska ziemia ir vokišku Kuhrland.
 - susijęs iš Kuršo pasienis: Generolams sutarus perskirti jėgas, Dembinskis turėjo eiti į Kuršo pasienį.
 - susijęs iš Kuršo Šventoji: Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios.
 - susijęs iš Kuršo žemė: 1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo žemės dalį, grobdami, degindami ir išsivesdami belaisvius.
@@ -417,7 +423,6 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - susijęs iš Piltenė: Piltene vadintos buvusios Kuršo vyskupystės žemės.
 - susijęs iš Rusios žemė: Nemunas prasidėjo Rusios valdose ir skyrė Prūsiją nuo Rusios, Lietuvos bei Kuršo.
 - susijęs iš [[objektai/zodynas/etnografinė siena.md#claim-t-72691|etnografinė siena]]: Pradinė Lietuvos ir Latvijos siena laikyta buvusia Kuršo gubernijos siena, tačiau ji nesutapo su etnografine lietuvių siena.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181472|Petras Dusburgietis]]: Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.
 - susijęs iš Eilėtoji Livonijos kronika: Eiliuotoji Livonijos kronika prie Skuodo mūšio mini žemaičius, o Durbės mūšio išvakarėse ir mūšyje - lietuvius arba pagonis.
 - susijęs iš [[objektai/asmenys/Bazilijus Lopacinskis.md#claim-t-87631|Bazilijus Lopacinskis]]: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
@@ -428,6 +433,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - susijęs iš [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.).md#claim-t-40177|Jaroslavas (rusų kunigaikštis, 1234 m.)]]: 1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.
 - susijęs iš [[objektai/asmenys/Jurgis Šaulys.md#claim-t-19033|Jurgis Šaulys]]: Jurgis Šaulys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Laurynas Goslickis.md#claim-t-87538|Laurynas Goslickis]]: 1581 m. Steponas Batoras iš Vilniaus per Lauryną Goslickį išsiuntė svarbią pasiuntinybę į Švediją.
+- susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-188582|Manvydas]]: Narbutas Manvydą laiko Gedimino ir Vidos sūnumi, gimusiu 1276 metais, o jo vardą aiškina kaip „Vidos pasaulis“.
 - susijęs iš [[objektai/asmenys/Mata.md#claim-t-60056|Mata]]: Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113967|Steponas Batoras]]: Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, o pats karalius čia dažnai būdavo.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
@@ -461,6 +467,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - susijęs iš Eilėtoji Livonijos kronika: Tautvilas, remiamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką.
 - susijęs iš Livonijos kronika: Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam kraštui, smarkiai sumušė riterių magistras.
 - susijęs iš Aizkrauklė: XII–XIII a. sąvartoje latvių gyvenama sritis dešiniajame Dauguvos krante driekėsi nuo Aizkrauklės iki Burtnieko ežero.
+- susijęs iš Alsunga: Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos tarme, gautą iš tenykščio klebono.
 - susijęs iš Burtnieko ežeras: XII–XIII a. sandūroje latvių gyvenama rytinė Vidžemės dalis siekė Burtnieko ežerą.
 - susijęs iš Ceklis: Mindaugo karūnavimo metais per Ceklio dalybas Livonijos ordinui atiteko daug Žemaitijos ploto žemių.
 - susijęs iš Durbė: Eiliuota Livonijos kronika Durbės mūšio išvakarėse ir pačiame mūšyje mini lietuvius arba „pagonis“.
@@ -516,10 +523,169 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - susijęs iš Alūkšta: 1917 m. Berno konferencijoje Alūkštos apskritį Kurše iki Dauguvos upės numatyta įtraukti į būsimos Lietuvos teritoriją.
 - susijęs iš Prūsija: Sudeginus Karšuvos ir Heilsbergo pilis Kurše, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
 - susijęs iš Livonija: Tragiškomis aplinkybėmis Livonijos ordinui buvo suduotas lemiamas smūgis, kartu paveikęs ir Vokiečių-kryžiuočių ordiną.
+- susijęs iš [[objektai/autoriai/Brantas.md#claim-t-190418|Brantas]]: Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latvišką maldos „Tėve mūsų“ tekstą.
+- susijęs iš [[objektai/asmenys/Vidmantas iš Kuršo.md#claim-t-190218|Vidmantas iš Kuršo]]: Narbutas Vidmantą iš Kuršo mini kaip švedų kilmės bartininką ir Gedimino žmonos Vidos tėvą.
+- susijęs iš Karšuva: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
+- susijęs iš Mindaugo dovanojimo raštas Livonijos ordinui: 1252 m. Mindaugas pasiuntinybės akivaizdoje priėmė krikščionybę ir raštu pripažino amžiams dovanojęs Jotvingijos, Žemaitijos, Kuršo ir Veizių kraštus.
+- susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
+- susijęs iš Alsunga: Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos tarme, gautą iš tenykščio klebono.
+- susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-179567|Zenonas Ivinskis]]: Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną.
+- susijęs iš [[objektai/asmenys/Fridrichas Ketleris.md#claim-t-40109|Fridrichas Ketleris]]: Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, matydamas besirikiuojančius lietuvius, savo 300 raitelių įsakė persikelti į dešinįjį krantą.
+- susijęs iš Embutė: Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis puolė Ordino valdytą Embutės pilį, bet jos neužėmė.
+- susijęs iš Piltenė: Piltene vadintos buvusios Kuršo vyskupystės žemės.
+- susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
+- susijęs iš [[objektai/asmenys/Gotardas Ketleris.md#claim-t-87505|Gotardas Ketleris]]: 1579 m. Vilniuje Steponas Batoras priėmė Gotardą Ketlerį, Kuršo kunigaikštį.
+- susijęs iš [[objektai/asmenys/Henrikas Botelis.md#claim-t-116281|Henrikas Botelis]]: Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.
+- susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190190|Nestoras]]: Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš“, bet jį esą reikia skaityti kaip „Kurs“.
+- susijęs iš [[objektai/asmenys/Vidmantas iš Kuršo.md#claim-t-190218|Vidmantas iš Kuršo]]: Narbutas Vidmantą iš Kuršo mini kaip švedų kilmės bartininką ir Gedimino žmonos Vidos tėvą.
+- susijęs iš [[objektai/autoriai/Brantas.md#claim-t-190418|Brantas]]: Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latvišką maldos „Tėve mūsų“ tekstą.
+- susijęs iš [[objektai/autoriai/J. Endzelynas.md#claim-t-60571|J. Endzelynas]]: J. Endzelynas Kuršo vietovardį Semba tapatino su prūsų žemės vardu Semba.
+- susijęs iš [[objektai/autoriai/Mažiulis V.md#claim-t-60847|Mažiulis V]]: V. Mažiulis teigė, kad lietuvių kalboje Kuršių nerija vadinta Kopomis, Kalnais, Pajūriais ir Randavomis.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181472|Petras Dusburgietis]]: Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.
+- susijęs iš [[objektai/autoriai/V. Mažiulis.md#claim-t-64861|V. Mažiulis]]: V. Mažiulio darbe „Dėl Neringos“ remiamasi aiškinant Kuršių nerijos pavadinimus.
+- susijęs iš [[objektai/autoriai/W. Eckert.md#claim-t-31060|W. Eckert]]: W. Eckertas tyrė Kuršo Cedis kraštovaizdį ir kovą dėl Pietų Kuršo tarp Vokiečių ordino ir Lietuvos.
+- susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-179567|Zenonas Ivinskis]]: Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną.
+- susijęs iš [[objektai/grupes/Kuršiai ir latviai.md#claim-t-189519|Kuršiai ir latviai]]: Narbutas pateikė kuršišku arba latvišku vadinamą maldos tekstą ir atskirą Kuršo Alsungos katalikų parapijos tarmės variantą.
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-184515|Kuršiai]]: Kitais metais Utenis perkėlė karą iš Kuršo į Livoniją, o sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus.
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65554|Kuršiai]]: Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas.
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65557|Kuršiai]]: Livonijoje sukilę estai, kuršiai ir žiemgaliai 1263-1270 m. mažino išorinį pavojų Lietuvai.
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65567|Kuršiai]]: Livonijoje sukilę kuršiai buvo pajungti tik po septynerių metų kovos, 1267 m.
+- susijęs iš [[objektai/grupes/Kuršiečiai.md#claim-t-40966|Kuršiečiai]]: Kuršiečiai su Kuršo kunigaikščiu Fridrichu Ketleriu perplaukė Dauguvą ir prisistatė didžiajam etmonui.
+- susijęs iš [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė.md#claim-t-183656|Kuršo ir Žiemgalos kunigaikštystė]]: Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.
+- susijęs iš [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė.md#claim-t-38968|Kuršo ir Žiemgalos kunigaikštystė]]: Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.
+- susijęs iš [[objektai/grupes/Kuršo kunigaikštystė.md#claim-t-71644|Kuršo kunigaikštystė]]: Po ilgų ginčų sutarta, kad Livonija ir Kuršo kunigaikštystė bus laikomos lygiai priklausančiomis Lietuvai ir Lenkijai.
+- susijęs iš [[objektai/grupes/Kuršo kunigaikštystė.md#claim-t-71645|Kuršo kunigaikštystė]]: 1561 m. nustojus egzistuoti Livonijos konfederacijai, Kuršo kunigaikštystė buvo viena iš dviejų kunigaikštysčių, atitekusių Lietuvai.
+- susijęs iš [[objektai/grupes/Kuršo kunigaikštystė.md#claim-t-71646|Kuršo kunigaikštystė]]: Po Liublino unijos Kuršo kunigaikštystė buvo pripažinta bendra Lenkijos ir LDK valda.
+- susijęs iš [[objektai/grupes/Kuršo kunigaikštystė.md#claim-t-71647|Kuršo kunigaikštystė]]: Po Liublino unijos Livonijos ir Kuršo kunigaikštystės buvo pripažintos bendromis Lenkijos ir LDK valdomis.
+- susijęs iš [[objektai/grupes/Kuršo kunigaikštystė.md#claim-t-71648|Kuršo kunigaikštystė]]: 1561 m. Livonijos konfederacijai nustojus egzistuoti, Kuršo ir Livonijos kunigaikštystės atiteko Lietuvai.
+- susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78383|Livonijos kunigaikštystė]]: Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.
+- susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78384|Livonijos kunigaikštystė]]: 1561 m. Livonijos konfederacijai nustojus egzistuoti, likusi jos dalis padalyta į Kuršo ir Livonijos kunigaikštystes, atitekusias Lietuvai.
+- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.
+- susijęs iš [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.).md#claim-t-66696|Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]: 1921 m. Lietuvos ir Latvijos siena buvo išvesta maždaug buvusios Kuršo gubernijos riba, padarius nedidelių pakeitimų abiejų valstybių naudai.
+- susijęs iš Mindaugo dovanojimo raštas Livonijos ordinui: 1252 m. Mindaugas pasiuntinybės akivaizdoje priėmė krikščionybę ir raštu pripažino amžiams dovanojęs Jotvingijos, Žemaitijos, Kuršo ir Veizių kraštus.
+- susijęs iš Rimberto parašytas šv. Ansgaro gyvenimas: Rimbertas apie 875 m. parašė šv. Ansgaro gyvenimą, kuriame minima, kad šis misijų reikalu buvo sustojęs Kurše.
+- susijęs iš Alūkšta: 1917 m. Berno konferencijoje Alūkštos apskritį Kurše iki Dauguvos upės numatyta įtraukti į būsimos Lietuvos teritoriją.
+- susijęs iš Gardinas: Lietuvos teritorinės aspiracijos apėmė Vilniaus, Kauno, Suvalkų ir Gardino gubernijų lietuvių žemes bei dalį Kuršo.
+- susijęs iš Klaipėda: Nemunas prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo.
+- susijęs iš Kuršių Neringa: Kuršių Neringa buvo patogaus kelio tarp Prūsijos ir Livonijos dalis, kurį turėjo ginti Klaipėdos pilis.
+- susijęs iš Kuršo gubernija: Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.
+- susijęs iš Kuršo gubernija: Sukilėliai siekė perimti Kuršo gubernijos vakarinės dalies kontrolę, kad galėtų priimti iš Vakarų Europos atgabentus ginklus.
+- susijęs iš Kuršo kraštas (kraštas): Narbutas Kuršo krašto pavadinimą siejo su forma Kur-zeeme, lenkišku Kuronska ziemia ir vokišku Kuhrland.
+- susijęs iš Kuršo pasienis: Generolams sutarus perskirti jėgas, Dembinskis turėjo eiti į Kuršo pasienį.
+- susijęs iš Kuršo Šventoji: Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios.
+- susijęs iš Kuršo žemė: 1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo žemės dalį, grobdami, degindami ir išsivesdami belaisvius.
+- susijęs iš Lamata: Lamata buvo į šiaurę nuo Nemuno žemupio, tikriausiai tarp Skalvos ir Kuršo.
+- susijęs iš Lietuva: Lietuvos politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose bei dalį Kuršo.
+- susijęs iš Nemunas: Nemunas prasideda Rusios valdose, prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.
+- susijęs iš Palanga: Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios.
+- susijęs iš Piltenė: Piltene vadintos buvusios Kuršo vyskupystės žemės.
+- susijęs iš Rusios žemė: Nemunas prasidėjo Rusios valdose ir skyrė Prūsiją nuo Rusios, Lietuvos bei Kuršo.
+- susijęs iš [[objektai/zodynas/etnografinė siena.md#claim-t-72691|etnografinė siena]]: Pradinė Lietuvos ir Latvijos siena laikyta buvusia Kuršo gubernijos siena, tačiau ji nesutapo su etnografine lietuvių siena.
+- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.
+- susijęs iš Eilėtoji Livonijos kronika: Eiliuotoji Livonijos kronika prie Skuodo mūšio mini žemaičius, o Durbės mūšio išvakarėse ir mūšyje - lietuvius arba pagonis.
+- susijęs iš [[objektai/asmenys/Bazilijus Lopacinskis.md#claim-t-87631|Bazilijus Lopacinskis]]: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
+- susijęs iš [[objektai/asmenys/Engelbertas.md#claim-t-80713|Engelbertas]]: Kuršo vyskupas Engelbertas buvo išnaikintas kartu su tos bažnyčios dvasininkais ir tikinčiųjų tauta.
+- susijęs iš [[objektai/asmenys/Fridrichas Ketleris.md#claim-t-40109|Fridrichas Ketleris]]: Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, matydamas besirikiuojančius lietuvius, savo 300 raitelių įsakė persikelti į dešinįjį krantą.
+- susijęs iš [[objektai/asmenys/Fridrichas Ketleris.md#claim-t-40110|Fridrichas Ketleris]]: Lietuvos kariuomenės vadovybės vaizde Fridrichas Ketleris nurodytas J. K. Chodkevičiui iš kairės.
+- susijęs iš [[objektai/asmenys/Hartmanas iš Grumbacho.md#claim-t-60300|Hartmanas iš Grumbacho]]: Hartmanas iš Grumbacho buvo penktasis Prūsijos žemės magistras ir vadovavo trejus metus.
+- susijęs iš [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.).md#claim-t-40177|Jaroslavas (rusų kunigaikštis, 1234 m.)]]: 1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.
+- susijęs iš [[objektai/asmenys/Jurgis Šaulys.md#claim-t-19033|Jurgis Šaulys]]: Jurgis Šaulys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
+- susijęs iš [[objektai/asmenys/Laurynas Goslickis.md#claim-t-87538|Laurynas Goslickis]]: 1581 m. Steponas Batoras iš Vilniaus per Lauryną Goslickį išsiuntė svarbią pasiuntinybę į Švediją.
+- susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-188582|Manvydas]]: Narbutas Manvydą laiko Gedimino ir Vidos sūnumi, gimusiu 1276 metais, o jo vardą aiškina kaip „Vidos pasaulis“.
+- susijęs iš [[objektai/asmenys/Mata.md#claim-t-60056|Mata]]: Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113967|Steponas Batoras]]: Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, o pats karalius čia dažnai būdavo.
+- susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
+- susijęs iš [[objektai/asmenys/T. Lackis.md#claim-t-40456|T. Lackis]]: Rotmistro T. Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į švedų raitelių kairįjį sparną.
+- susijęs iš [[objektai/asmenys/Volkvinas.md#claim-t-39676|Volkvinas]]: Magistras Volkvinas su kariuomene žygiavo į lietuvių kraštą ir Saulės žemėje buvo lietuvių užmuštas.
+- susijęs iš [[objektai/autoriai/Augustas Liudvigas Šleceris.md#claim-t-184465|Augustas Liudvigas Šleceris]]: Augustas Liudvigas Šleceris 1776 m. išleido veikalą apie Lietuvą kaip buvusią savarankišką valstybę.
+- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-00061|Motiejus Valančius]]: Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas.
+- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-179553|Motiejus Valančius]]: Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu.
+- susijęs iš [[objektai/autoriai/Rimbertas.md#claim-t-30954|Rimbertas]]: Rimbertas apie 875 m. parašė šv. Ansgaro gyvenimą, kuriame nušviečiami Baltijos pajūrio kariniai santykiai.
+- susijęs iš [[objektai/autoriai/Rimberto, Rimbertas.md#claim-t-30958|Rimberto, Rimbertas]]: Rimbertas apie 875 m. parašė šv. Ansgaro gyvenimą, kuriame nušviečiami Baltijos pajūrio kariniai santykiai.
+- susijęs iš [[objektai/autoriai/prof. Simpsonas.md#claim-t-01171|prof. Simpsonas]]: Škotas prof. Simpsonas tarpininkavo komisijų konferencijose, kurios išvedė sieną nedaug nutoldamos nuo buvusios gubernijos sienos.
+- susijęs iš [[objektai/grupes/Chlapovskio kariuomenė.md#claim-t-168145|Chlapovskio kariuomenė]]: Chlapovskio vadovaujama kariuomenė nekovojo su rusais ir, prieš pereidama Prūsijos sieną, padėjo ginklus.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178839|Kryžiuočių ordinas]]: Klaipėdos pilis beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178928|Kryžiuočių ordinas]]: Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
+- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-182741|Lietuvos kariuomenė]]: Karolis Chodkevičius išvedė Lietuvos kariuomenę į mūšio lauką, kai priešo kariai jau buvo išsirikiavę.
+- susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78385|Livonijos kunigaikštystė]]: Steponas Batoras ir Mikalojus Radvila Rudasis laikė būtina atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus.
+- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96811|Lybiai]]: Vokiečių pirkliai ir misionieriai, pradėję lankytis lybių gyvenamuose kraštuose, pirmiausia susidūrė su lybiais.
+- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96813|Lybiai]]: Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176116|Žemaičiai]]: Zenonas Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir Mindaugo karines pajėgas prieš Ordiną.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176149|Žemaičiai]]: Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o prieš Durbės mūšį ir jame mini lietuvius arba pagonis.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176157|Žemaičiai]]: Z. Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir karaliaus Mindaugo karines pajėgas prieš Ordiną.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184593|Žemaičiai]]: Utenio sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus ir privertė priešą ginti savo kraštą.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89351|Žiemgaliai]]: 1263-1270 m. Livonijoje prieš kryžiuočius buvo sukilę estai, kuršiai ir žiemgaliai.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89354|Žiemgaliai]]: 1263-1270 m. Livonijoje prieš kryžiuočius buvo sukilę estai, kuršiai ir žiemgaliai.
+- susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66527|Durbės mūšis (1260 m.)]]: Durbės mūšyje 1260 m. liepos 13 d. žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 brolių.
+- susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66529|Durbės mūšis (1260 m.)]]: 1260 m. Livonijos ir Prūsijos broliai su stipriomis kariuomenėmis susirinko nugabenti maisto Švento Jurgio pilies broliams.
+- susijęs iš [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.).md#claim-t-34527|Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]: Žemaičių arba Medininkų vyskupija buvo įkurta 1417 m. spalio 24 d. kaip antroji Lietuvos vyskupija.
+- susijęs iš [[objektai/posakiai/„Lithuania Propria“.md#claim-t-67315|„Lithuania Propria“]]: 1917 m. Berno konferencijoje būsimos Lietuvos teritoriją siūlyta formuoti etnografiniu principu „Lithuania Propria“ ribose.
+- susijęs iš Eilėtoji Livonijos kronika: Eiliuotoji Livonijos kronika prie Skuodo mūšio mini žemaičius, o Durbės mūšio išvakarėse ir mūšyje - lietuvius arba pagonis.
+- susijęs iš Eilėtoji Livonijos kronika: Tautvilas, remiamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką.
+- susijęs iš Livonijos kronika: Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam kraštui, smarkiai sumušė riterių magistras.
+- susijęs iš Aizkrauklė: XII–XIII a. sąvartoje latvių gyvenama sritis dešiniajame Dauguvos krante driekėsi nuo Aizkrauklės iki Burtnieko ežero.
+- susijęs iš Alsunga: Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos tarme, gautą iš tenykščio klebono.
+- susijęs iš Burtnieko ežeras: XII–XIII a. sandūroje latvių gyvenama rytinė Vidžemės dalis siekė Burtnieko ežerą.
+- susijęs iš Ceklis: Mindaugo karūnavimo metais per Ceklio dalybas Livonijos ordinui atiteko daug Žemaitijos ploto žemių.
+- susijęs iš Durbė: Eiliuota Livonijos kronika Durbės mūšio išvakarėse ir pačiame mūšyje mini lietuvius arba „pagonis“.
+- susijęs iš Embutė: Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis puolė Ordino valdytą Embutės pilį, bet jos neužėmė.
+- susijęs iš Gardinas: 1801 m. Lietuvos gubernija padalyta į Lietuvos Vilniaus ir Lietuvos Gardino gubernijas.
+- susijęs iš Gardinas: 1917 m. Berno konferencijoje Lietuvos teritorijai siūlyta priskirti Balstogės, Gardino, Slanimo ir Valkavisko apskritis.
+- susijęs iš Gardinas: Užsienio lietuvių atstovai siūlė į „Lithuania Propria“ ribas įtraukti Gardino apskritį.
+- susijęs iš Gardino gubernija: Gardino gubernijos šiaurinis pakraštys istoriniu etnografiniu požiūriu buvo laikomas lietuvišku.
+- susijęs iš Heilsbergas: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
+- susijęs iš Jelgava: Iš Kuršo ir Žiemgalos sudaryta kunigaikštystė turėjo sostinę Jelgavoje, dar vadintoje Mintauja.
+- susijęs iš Karaliaučius: Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas.
+- susijęs iš Karšuva: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
+- susijęs iš Kauno gubernija: 1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.
+- susijęs iš Klaipėda: Klaipėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
+- susijęs iš Klaipėda: Žemaičiai, laikydami savo įtakoje pajūrio plotą, netrukus ėmė puldinėti Klaipėdą.
+- susijęs iš Latgalija: XII–XIII a. sandūroje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemę.
+- susijęs iš Liepoja: 1917 m. lapkričio 2–10 d. Berno konferencijoje lietuvių atstovai numatė reikalauti Liepojos uosto.
+- susijęs iš Livonija: Didžiausioji Livonijos dalis teko Lietuvai.
+- susijęs iš Livonija: Tragiškomis aplinkybėmis Livonijos ordinui buvo suduotas lemiamas smūgis, kartu paveikęs ir Vokiečių-kryžiuočių ordiną.
+- susijęs iš Livonija: Utenis perkėlė karą iš Kuršo į Livoniją, kur kuršių ir žemaičių kariuomenė nusiaubė didelius plotus.
+- susijęs iš Palanga: Sukilėliai planavo užimti Palangos ir Liepojos uostus.
+- susijęs iš Palangos pajūris: Palangos pajūris nuo Šventosios buvo priskirtas prie Lietuvos.
+- susijęs iš Prūsija: Sudeginus Karšuvos ir Heilsbergo pilis Kurše, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
+- susijęs iš Rusija: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
+- susijęs iš Rusija: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
+- susijęs iš Ryga: 1989 m. rugpjūčio 23 d. Baltijos kelias buvo rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.
+- susijęs iš Saremos: Danams atiteko Saremos, arba Eželio, vyskupystė.
+- susijęs iš Saremos: Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.
+- susijęs iš Semba: Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas.
+- susijęs iš Slanimas: 1917 m. Berno konferencijoje Slanimo apskritis įtraukta į etnografiniu principu siūlytą Lietuvos teritoriją.
+- susijęs iš Tartai: Tuo metu Maskva buvo užgrobusi Tartų, dar vadintų Dorpatu, vyskupystę.
+- susijęs iš Valkaviskas: Valkavisko apskritis buvo įtraukta į Lietuvos teritorijos projektą, grindžiamą „Lithuania Propria“ ribomis.
+- susijęs iš Valkaviskas: 1917 m. Berno konferencijoje Valkavisko apskritis buvo priskirta planuotos Lietuvos teritorijai „Lithuania Propria“ ribose.
+- susijęs iš Vidžemė: XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį.
+- susijęs iš Vilniaus gubernija: 1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis.
+- susijęs iš Vilniaus turgus: 1580 m. birželio 18 d. Vilniaus turguje už klastą ir tėvynės išdavystę buvo nukirsdintas Jurgis Astikas.
+- susijęs iš Vilnius: 1801 m. Vilniuje pradėjusi veikti generalgubernatoriaus institucija valdė Lietuvos Vilniaus ir Lietuvos Gardino gubernijas.
+- susijęs iš Švedija: 1581 m. Steponas Batoras iš Vilniaus išsiuntė pasiuntinybę į Švediją per Lauryną Goslickį.
+- susijęs iš Švedija: 1581 metais iš Vilniaus buvo išsiųsta pasiuntinybė į Švediją per Lauryną Goslickį.
+- susijęs iš Švento Jurgio pilis (pilis, XIII a.): 1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams.
+- susijęs iš Žemaitija: Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
+- susijęs iš Žemaičių vyskupystė: Žemaičių vyskupystė 1849 m. buvo padidinta, prie jos prijungus 93 Vilniaus vyskupystės parapijas.
+- susijęs iš [[objektai/zodynas/atskalūnybė atskalūnai.md#claim-t-58806|atskalūnybė atskalūnai]]: Dusburgietis atskalūnybių antkrytį aiškino kaip Kristaus leistą išbandymą tikėjimo ištikimybei grūdinti.
+- susijęs iš [[objektai/zodynas/dezertyrai.md#claim-t-183412|dezertyrai]]: Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės ir buvo oficialiai ieškomi kaip dezertyrai.
+- susijęs iš [[objektai/zodynas/dezertyrai.md#claim-t-22116|dezertyrai]]: Pradėjus mobilizaciją į SSRS kariuomenę, lietuviai dezertyrai vengė tarnybos Raudonojoje armijoje.
+- susijęs iš [[objektai/zodynas/etnografinė siena.md#claim-t-72689|etnografinė siena]]: Pradinė Latvijos ir Lietuvos siena nesutapo su etnografine lietuvių siena, todėl pradžioje kildavo nesusipratimų.
+- susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101582|etnografinės ribos etnografinis principas]]: 1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.
+- susijęs iš [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas.md#claim-t-101614|tautų apsisprendimo teisė tautų apsisprendimo principas]]: Radikalioji ir konservatyvioji lietuvių politinės visuomenės grupuotės pritarė tautų apsisprendimo principui.
+- susijęs iš [[objektai/zodynas/tuteišiai.md#claim-t-45859|tuteišiai]]: Rytiniuose ir pietrytiniuose lietuviško ploto pakraščiuose dalis gyventojų save laikė čiabuviais, arba tuteišiais.
+- susijęs iš [[objektai/asmenys/Henrikas Botelis.md#claim-t-116281|Henrikas Botelis]]: Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.
+- susijęs iš Durbė: Eiliuota Livonijos kronika Durbės mūšio išvakarėse ir pačiame mūšyje mini lietuvius arba „pagonis“.
+- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96813|Lybiai]]: Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.
+- susijęs iš Alūkšta: 1917 m. Berno konferencijoje Alūkštos apskritį Kurše iki Dauguvos upės numatyta įtraukti į būsimos Lietuvos teritoriją.
+- susijęs iš Prūsija: Sudeginus Karšuvos ir Heilsbergo pilis Kurše, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
+- susijęs iš Livonija: Tragiškomis aplinkybėmis Livonijos ordinui buvo suduotas lemiamas smūgis, kartu paveikęs ir Vokiečių-kryžiuočių ordiną.
+- susijęs iš [[objektai/autoriai/Brantas.md#claim-t-190418|Brantas]]: Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latvišką maldos „Tėve mūsų“ tekstą.
+- susijęs iš [[objektai/asmenys/Vidmantas iš Kuršo.md#claim-t-190218|Vidmantas iš Kuršo]]: Narbutas Vidmantą iš Kuršo mini kaip švedų kilmės bartininką ir Gedimino žmonos Vidos tėvą.
 - susijęs iš Karšuva: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
 - susijęs iš Mindaugo dovanojimo raštas Livonijos ordinui: 1252 m. Mindaugas pasiuntinybės akivaizdoje priėmė krikščionybę ir raštu pripažino amžiams dovanojęs Jotvingijos, Žemaitijos, Kuršo ir Veizių kraštus.
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -872,6 +1038,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] surenge_zygi_i Kuršas
 - [[objektai/asmenys/Burchardas iš Hornhauzeno]] mire Kuršas
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Kuršas
+- [[objektai/vietos/Alsunga]] priklause Kuršas
 - [[objektai/grupes/Lietuviai]] puole Kuršas
 - [[objektai/asmenys/Fridrichas Ketleris]] buvo_valdovas Kuršas
 - [[objektai/vietos/Piltenė]] priklause Kuršas
@@ -881,4 +1048,5 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] uzeme Kuršas
 - [[objektai/vietos/Heilsbergas]] priklause Kuršas
 - [[objektai/vietos/Karšuva]] priklause Kuršas
+- [[objektai/asmenys/Vidmantas iš Kuršo]] gyveno Kuršas
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] valde Kuršas

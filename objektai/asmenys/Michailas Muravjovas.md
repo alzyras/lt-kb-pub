@@ -113,8 +113,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - c-004
 - susijęs iš [[objektai/asmenys/M. Muravjovas.md#claim-t-78023|M. Muravjovas]]: Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas gavo caro įgaliojimus ir ėmėsi demonstratyvaus žiaurumo bei teroro priemonių.
 - susijęs iš [[objektai/asmenys/Pranciškus Narbutas.md#claim-t-187904|Pranciškus Narbutas]]: 1863 m. sukilime Pranciškus Narbutas išėjo į miškus, o vėliau spėjo pasitraukti į užsienį.
+- susijęs iš [[objektai/daiktai/Šaurų dvaro muziejaus eksponatai.md#claim-t-189705|Šaurų dvaro muziejaus eksponatai]]: Rusijos valdžiai sekvestravus Šaurų dvarą, jo muziejaus eksponatai, knygos ir archyvai buvo suvežti į vieną Vilniaus bažnyčią.
 - susijęs iš [[objektai/ivykiai/Narbutų šeimos represavimas po 1863 m. sukilimo.md#claim-t-187970|Narbutų šeimos represavimas po 1863 m. sukilimo (sukilimas, XIX a.)]]: Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią.
-- susijęs iš Šaurų dvaras: Rusijos valdžia sekvestravo Šaurų dvarą, o jo knygas, archyvus ir muziejaus eksponatus suvežė į vieną Vilniaus bažnyčią.
 ## Reikšmingi paminėjimai
 
 - c-001

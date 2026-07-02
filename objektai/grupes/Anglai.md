@@ -191,7 +191,6 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - susijęs iš [[objektai/asmenys/Kiršenšteinas.md#claim-t-87913|Kiršenšteinas]]: Prūsijoje lietuvių paimtos karo belaisvės sūnus buvo vadinamas Kiršenšteinu, o jo giminė vėliau valdė Raudonės pilį.
 - susijęs iš [[objektai/asmenys/Konradas Ciolneris Rotenšteinas.md#claim-t-87440|Konradas Ciolneris Rotenšteinas]]: Konradas Ciolneris negalėjo vadovauti žygiui, nes tuo metu sirgo sunkia liga.
 - susijęs iš [[objektai/asmenys/Laurynas Goslickis.md#claim-t-87539|Laurynas Goslickis]]: Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau Poznanės vyskupas ir lotyniškos knygos „De optimo Senatore“ autorius.
-- susijęs iš [[objektai/autoriai/Ignacas Onacevičius.md#claim-t-81904|Ignacas Onacevičius]]: Ignacas Onacevičius pateikė pastabų, kuriomis M. Balinskis rėmėsi taisydamas žygio į Vilnių aprašymą.
 - susijęs iš [[objektai/autoriai/Ossoliński.md#claim-t-88048|Ossoliński]]: Mokslininkas Ossolińskis aprašė Lauryno Goslickio gyvenimą.
 - susijęs iš [[objektai/autoriai/Walsinghamas.md#claim-t-88085|Walsinghamas]]: Walsinghamas savo kronikoje 1390 m. Vilniaus užėmimo garbę priskyrė Derbio grafui ir nurodė apie 4 000 užmuštų bei sužeistų lietuvių.
 - susijęs iš [[objektai/autoriai/Wulfstanas.md#claim-t-97235|Wulfstanas]]: Wulfstanas buvo jūrininkas, lankęsis Baltijos jūros pakraščių kraštuose ir perdavęs žinių karaliui Alfredui Didžiajam.

@@ -78,6 +78,8 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - susijęs iš [[objektai/grupes/Saulė.md#claim-t-168658|Saulė]]: „Saulė“ buvo viena iš trijų ypatingos reikšmės švietimo draugijų greta Vilniaus „Ryto“ ir Marijampolės „Žiburio“.
 - susijęs iš Kučinskas A. Kęstutis lietuvių tautos gynėjas: A. Kučinsko „Kęstutis lietuvių tautos gynėjas“ išleista Marijampolėje 1938 m.
 - susijęs iš Kšivickis L. Žemaičių senovė: L. Kšivickio „Žemaičių senovė“ išleista Kaune ir Marijampolėje 1928 m.
+- susijęs iš Marijampolės apskritis: 1809 m. Lokaičių kaime Marijampolės apskrityje kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų.
+- susijęs iš [[objektai/asmenys/Daujotas.md#claim-t-190141|Daujotas]]: Narbutas rašo, kad 1813 m. Lokaičių palivarko nuomotojas Daujotas jam pasakojo gavęs varinį žiedą iš Lokaičiuose rastų daiktų.
 - susijęs iš [[objektai/asmenys/E. Adamkavičius.md#claim-t-40092|E. Adamkavičius]]: Plk. ltn. E. Adamkavičius vadovavo Kauno batalionui Varnionių-Daugėlaičių-Šiaulėnų atkarpoje.
 - susijęs iš [[objektai/daiktai/Mauser 98 šautuvas.md#claim-t-40742|Mauser 98 šautuvas]]: Atskirojo Marijampolės bataliono kariai ties Arnenhofu buvo ginkluoti šautuvais Mauser 98 su užmautais durtuvais.
 - susijęs iš [[objektai/grupes/11 brigada.md#claim-t-183651|11 brigada]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
@@ -90,6 +92,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - susijęs iš P. Šležas Kauno pilies išgriovimas: P. Šležo „Kauno pilies išgriovimas“ paskelbtas „Židinyje“ 1932 m. Nr. 10, p. 271 ir toliau.
 - susijęs iš Salys, A. Kęstučio vardas: A. Salio straipsnis „Kęstučio vardas“ paskelbtas „Lietuvių enciklopedijos“ 11 tome, 405-407 puslapiuose.
 - susijęs iš Berezina: Po žiauraus mūšio prie Berezinos Napoleonas pavedė kariuomenę maršalui Miuratui ir parskubėjo į Paryžių rinkti naujų jėgų.
+- susijęs iš Lokaičiai: 1809 m. Lokaičių kaime kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų.
 - susijęs iš Suvalkai: Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 - susijęs iš [[objektai/asmenys/Petras Kriaučiūnas.md#claim-t-75997|Petras Kriaučiūnas]]: Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.
 ## Reikšmingi paminėjimai

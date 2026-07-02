@@ -70,11 +70,9 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 - susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188052|Norbertas Vėlius]]: Norbertas Vėlius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
 - susijęs iš [[objektai/autoriai/V. Visockas.md#claim-t-187944|V. Visockas]]: V. Visockas buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
 - susijęs iš [[objektai/autoriai/Z. Kiaupa.md#claim-t-187794|Z. Kiaupa]]: Z. Kiaupa buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
-- susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius – įvedamųjų straipsnių autoriais.
+- susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.
 - susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188050|Norbertas Vėlius]]: Norbertas Vėlius nurodytas kaip vieno šio leidinio įvedamojo straipsnio autorius.
 - susijęs iš Mykolas Balinskis kova dėl istorijos: Reda Griškaitė pastebėjo, kad ankstyvoji Mykolo Balinskio kūryba turėjo romantinės istoriografijos bruožų, o vėliau jis stengėsi rašyti nauja maniera.
-- susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188050|Norbertas Vėlius]]: Norbertas Vėlius nurodytas kaip vieno šio leidinio įvedamojo straipsnio autorius.
-- susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188052|Norbertas Vėlius]]: Norbertas Vėlius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
 ## Reikšmingi paminėjimai
 
 - c-001

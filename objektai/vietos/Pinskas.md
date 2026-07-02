@@ -210,7 +210,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - susijęs iš Bobruiskas: Bobruiske atsirado jėzuitų kolegija, įkurta Triznos fundacijos pagrindu.
 - susijęs iš Brasta: Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.
 - susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
-- susijęs iš Gardinas: Gardine atsirado jėzuitų kolegija, funduota Smolensko vyskupo Isaikovskio ir kitų rėmėjų.
 - susijęs iš Kijevo Rusia: Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms.
 - susijęs iš Kijevo Rusia: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas perėjo Algirdui.
 - susijęs iš Krasnyj Gorod: Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.

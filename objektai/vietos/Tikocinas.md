@@ -151,9 +151,6 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 - susijęs iš Lenkija: Tikocine nukaldinti lenkiški grašiai turėjo būti priimami Lenkijoje ir Lietuvoje pagal lenkiškų grašių kainą.
 - susijęs iš Lenkijos karalystė: Lenkijos Karalystėje esantys pabūklai, arkebuzos, muškietos ir kita karo amunicija buvo atiduoti Karalystei.
 - susijęs iš Lenkijos karalystė: Testamente nurodyta, kad Lenkijos Karalystėje esantys pabūklai, muškietos ir kita karo amunicija atiduodami Karalystei.
-- susijęs iš Lietuva: Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.
-- susijęs iš Lietuva: Tačiau lietuviai visą laiką reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pasienyje.
-- susijęs iš Lietuva: Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.
 - susijęs iš Palenkė: Goštautui išvykus į Tikociną Palenkėje, apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną.
 - susijęs iš Palenkė: Apie 1345 m. Goštautas šalies reikalais išvyko į Tikociną Palenkėje.
 - susijęs iš Poleksija: Goštautui išvykus į Tikociną Palenkėje, arba Poleksijoje, Vilniuje minia nužudė krikščionių tikėjimo skelbėjus.

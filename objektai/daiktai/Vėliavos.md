@@ -461,34 +461,45 @@ Nenurodyta
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėliavos" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/B. P. Sapiega.md#claim-t-40057|B. P. Sapiega]]: Iždininkas B. P. Sapiega pasitraukė kartu su maršalu A. P. Sapiega ir totorių vėliavomis.
 - susijęs iš [[objektai/asmenys/H. Brantas.md#claim-t-40129|H. Brantas]]: H. Brantas buvo generolas, kurio kavaleriją sumušė J. P. Sapiegos, M. Vielamovskio ir M. Giedraičio vėliavos, priversdamos ją trauktis.
+- susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190008|Henenbergeris]]: Narbutas nurodo, kad Henenbergeris ir Hartknochas vėliavos su nežinomų raidžių užrašu aprašymą perėmė iš Grunau.
 - susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53890|J. P. Sapiega]]: Maršalas A. P. Sapiega pasitraukė kartu su B. P. Sapiega ir totorių vėliavomis.
 - susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53892|J. P. Sapiega]]: J. P. Sapiegos vėliavos kartu su M. Vielamovskio ir M. Giedraičio vėliavomis sumušė generolo H. Branto kavaleriją.
 - susijęs iš [[objektai/asmenys/Jeronimas.md#claim-t-60150|Jeronimas]]: Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos.
 - susijęs iš [[objektai/asmenys/Jonas Lonei.md#claim-t-80718|Jonas Lonei]]: Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.
 - susijęs iš [[objektai/asmenys/Mykolas Kiełbasa.md#claim-t-34820|Mykolas Kiełbasa]]: Mykolas Kiełbasa, artimiausios vėliavos vadas, atsakė, kad tuo metu ne laikas gelbėti karalių.
+- susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-188613|Simonas Grunau]]: Narbutas nurodė, kad Henenbergeris ir Hartknochas iš Grunau perėmė žinią apie ypatingą senovės prūsų vėliavos užrašą nežinomomis raidėmis.
 - susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40452|T. Dambrava]]: T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.
 - susijęs iš [[objektai/asmenys/Ulrichas von Jungingenas.md#claim-t-184285|Ulrichas von Jungingenas]]: Didysis magistras Ulrichas von Jungingenas jojo šešiolikos į kovos lauką slenkančių kryžiuočių vėliavų priešakyje.
+- susijęs iš [[objektai/asmenys/Vaidevutis.md#claim-t-190030|Vaidevutis]]: Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs runų užrašas buvo skirtas vėliavai, ar herbui.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176863|Zbignievas Olesnickis]]: Zbignievas Olesnickis buvo pasiųstas į mūšio lauką parūpinti kelias vėliavas Jogailos apsaugai.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172961|Mykolas Lietuvis]]: Mykolas Lietuvis liudijo, kad Vilniaus katedroje saugotos trofėjinės vėliavos sudegė per 1530 m. gaisrą.
+- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190287|Tadas Volianskis]]: Narbutas pagal Volianskio šifruotę runų užrašą siejo su Vaivedučio vardu, bet nežinojo, ar jis skirtas vėliavai, ar herbui.
 - susijęs iš [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos.md#claim-t-186825|Kryžiuočių kariuomenės dalių vėliavos]]: Jogaila paimtas vėliavas nugabeno į Krokuvą, į Vavelio pilį.
 - susijęs iš [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos.md#claim-t-186826|Kryžiuočių kariuomenės dalių vėliavos]]: Prie šio rinkinio vėliau buvo pridėtos dar penkios kituose mūšiuose paimtos vėliavos.
 - susijęs iš [[objektai/daiktai/Lietuvos valstybės vėliava.md#claim-t-77928|Lietuvos valstybės vėliava]]: 1922 m. Lietuvos Valstybės Konstitucijoje valstybės vėliavos spalvos buvo geltona, žalia ir raudona.
 - susijęs iš [[objektai/daiktai/Panevėžio bataliono vėliava.md#claim-t-80694|Panevėžio bataliono vėliava]]: Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą.
 - susijęs iš [[objektai/daiktai/Riterių vėliava.md#claim-t-179491|Riterių vėliava]]: Viduriniais amžiais riterių vėliavos netekimas kovoje laikytas didele nelaime.
+- susijęs iš [[objektai/daiktai/Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais.md#claim-t-189766|Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais]]: Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus.
+- susijęs iš [[objektai/daiktai/Senovės prūsų vėliava.md#claim-t-189714|Senovės prūsų vėliava]]: Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus.
 - susijęs iš [[objektai/daiktai/Valstybiniai ženklai ir vėliava.md#claim-t-26413|Valstybiniai ženklai ir vėliava]]: 1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas numatė bausti už valstybinių ženklų ir vėliavos niekinimą ar įžeidinėjimą.
 - susijęs iš [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys.md#claim-t-40977|LDK tribunolo vengrų vėliavos dalinys]]: Vilniaus puolime balandžio 23 d. dalyvavo 50 LDK tribunolo vengrų vėliavos dalinio karių.
 - susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78380|Lietuvos totoriai]]: Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką.
 - susijęs iš [[objektai/grupes/Panevėžio batalionas.md#claim-t-80657|Panevėžio batalionas]]: 1919 m. kovo 25 d. Panevėžio batalionui buvo įteikta Panevėžio ir jo apylinkių gyventojų vėliava.
 - susijęs iš [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija.md#claim-t-80658|Panevėžio lietuvių katalikių moterų draugija]]: Panevėžio lietuvių katalikių moterų draugija 1919 m. kovo 25 d. įteikė vėliavą Panevėžio batalionui.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188304|Prūsai]]: Narbutas Perkūno, Patelo ir Atrimpo atvaizdus sieja su senovės prūsų vėliava.
 - susijęs iš [[objektai/grupes/Smolenskiečiai.md#claim-t-34366|Smolenskiečiai]]: Smolenskiečių vėliavos Žalgirio mūšyje liko kairiajame sparne arčiau lenkų ir narsiai kovėsi.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186607|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad po pergalės prie Dubrovnos vokiečių vėliavos ir nuo magistro bei komtūrų nuplėštos barzdos padalytos Lenkijai ir Lietuvai.
 - susijęs iš [[objektai/ivykiai/Oršos mūšis (1514 m.).md#claim-t-54179|Oršos mūšis (1514 m.)]]: Po Oršos mūšio Vilniuje buvo surengtos triumfo iškilmės, vedami belaisviai ir pakabintos trofėjinės vėliavos.
 - susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10285|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango.
 - susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71802|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.
 - susijęs iš [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje.md#claim-t-78729|Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]: Vilniuje per triumfo iškilmes eisenoje buvo vedami Maskvos belaisviai karvedžiai ir kariai, o katedroje pakabintos trofėjinės vėliavos.
+- susijęs iš Revelis: Narbutas Revelio šv. Olafo bažnyčioje matė vėliavos liekaną su žalvariniu gaidžiu, laikytą pagonybės laikų vėliava iš Latvijos.
 - susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49286|petihorai]]: J. P. Sapiegos husarų ir petihorų vėliavos atlaikė pagrindinį Švedijos kariuomenės smūgį prie lietuvių dešiniojo sparno.
 - susijęs iš [[objektai/zodynas/vyskupo teisėjas.md#claim-t-42524|vyskupo teisėjas]]: Sembos vyskupo teisėjui Jonui Lonei buvo atimta gyvybė kartu su Gdansko komtūru ir penkiomis dešimtimis prie vėliavos nukautųjų.
 - susijęs iš [[objektai/zodynas/vėliava.md#claim-t-78912|vėliava]]: Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos.
+- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189984|Kristoforas Hartknochas]]: Narbutas nurodė, kad pasakojimą apie ypatingą vėliavos užrašą iš Grunau perėmė Henenbergeris ir Hartknochas.
+- susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-189990|Tadas Volianskis]]: Narbutas nurodo, kad pagal Tado Volianskio šifruotę runų užrašas piešinyje reiškė Vaivedučio vardą.
+- susijęs iš [[objektai/autoriai/Prūsijos vyskupas Kristijonas.md#claim-t-190450|Prūsijos vyskupas Kristijonas]]: Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas iš dingusios Prūsijos vyskupo Kristijono kronikos.
 - susijęs iš [[objektai/daiktai/Lietuvos herbas Vytis.md#claim-t-77927|Lietuvos herbas Vytis]]: 1922 m. Lietuvos Valstybės Konstitucijoje herbu liko baltas Vytis raudoname fone.
 - susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-183980|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
 - susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-59696|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
@@ -505,6 +516,8 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje.md#claim-t-183695|Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]: Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.
 - susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ pasakoja, kad 1649 m. priešai staiga užpuolė prie stovyklos buvusius pašarininkus.
 - susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ šiame veikale cituojamas kaip atskiras šaltinis.
+- susijęs iš Teodoro Narbuto „Naujosios mitologijos“ rankraštis: Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė akivaizdžiu įrodymu, kad lietuviai turėjo stabus.
+- susijęs iš Vyskupo Kristijono kronika: Narbutas spėja, kad prūsų tautinės vėliavos runų užrašas galėjo būti senovinis dingusios vyskupo Kristijono kronikos užrašo vertimas.
 - susijęs iš Chotinas: 1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.
 - susijęs iš Vilnius: Sapiegų etmonas, pamatęs supamą kariuomenę ir respublikonų užimtą gurguolę, nusprendė trauktis į Vilnių.
 - susijęs iš Vilnius: Septynios paimtos livoniečių vėliavos buvo nugabentos į Vilniaus Šv. Stanislovo katedrą kaip pergalės simbolis.
@@ -872,6 +885,7 @@ Nenurodyta
     - t-023
 
 ## Ryšiai
+- Vėliavos priklause [[objektai/grupes/Prūsai]]
 - Vėliavos priklause [[objektai/grupes/Vokiečiai]]
 - Vėliavos priklause [[objektai/vietos/Lenkija]]
 - Vėliavos priklause [[objektai/vietos/Lietuva]]

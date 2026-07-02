@@ -52,6 +52,7 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
 - susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176555|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Vyskupas Motiejus 1430 m. spalio 27 d. užmerkė Vytautui akis ir jo kūną nulydėjo į Vytauto pastatytą katedrą.
 - susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176557|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Motiejus buvo pirmasis Žemaičių ir vėliau Vilniaus vyskupas, paskirtas Vytautui jį rekomendavus.
 - susijęs iš [[objektai/asmenys/Motiejus iš Blonios.md#claim-t-87794|Motiejus iš Blonios]]: Motiejus iš Blonios, Gniezno kanauninkas ir rūmų daktaras, iš Krokuvos atvyko gydyti sergančio Aleksandro.
+- susijęs iš [[objektai/autoriai/Motiejus iš Mechovo.md#claim-t-190355|Motiejus iš Mechovo]]: Motiejus iš Mechovo citatoje įvardijamas kaip Miechowita, Mechovita, gyvenęs 1456-1523 m.
 - susijęs iš Krokuva: Aleksandrui sergant, iš Krokuvos atvyko gydymo meną išmanę Motiejus iš Blonios ir Aleksandras Balinskis.
 - susijęs iš Krokuva: Aleksandrui sunkiai sergant, iš Krokuvos atvyko gydymą išmanę Motiejus iš Blonios ir Aleksandras Balinskis.
 - susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-173118|Aleksandras Balinskis]]: Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro.

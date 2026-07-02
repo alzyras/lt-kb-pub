@@ -10,14 +10,14 @@ date_start: '1390'
 date_end: '1431'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - vyskupas
 amziai:
   - 'XIV'
   - 'XV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - vyskupas
 ---
 # Teodosijus
 
@@ -26,7 +26,6 @@ periodo_grupes:
 Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo pastangų pravesti Lietuvos stačiatikių metropolitu Polocko vyskupą Teodosijų.
 
 ## Teiginiai
-
 <a id="claim-t-30394"></a>
 - t-001
   global_id: t-30394
@@ -47,7 +46,6 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   ryšio_paaiskinimas: Vytautas tiesiogiai siekė iškelti Teodosijų į metropolitus, todėl palaikymo ryšys pagrįstas.
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

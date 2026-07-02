@@ -313,6 +313,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - susijęs iš Podolė: 1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį.
 - susijęs iš Polockas: 1411 m. pavasarį Vytautui vykstant pro Polocką iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą.
 - susijęs iš Polockas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.
+- susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
 - susijęs iš Pskovas: 1411 metų pavasarį Polocke Pskovo pasiuntiniai atvyko pas Vytautą ir užmezgė taikingus santykius.
 - susijęs iš Pskovas: Polocke pas Vytautą atvykę Pskovo pasiuntiniai užmezgė su juo taikingus santykius.
 - susijęs iš Sluckas: Valdymo pabaigoje Slucke liko atskira kunigaikštystė, bet jos pilį valdė didžiojo kunigaikščio vietininkai.
@@ -328,7 +329,6 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-182991|vietininkas]]: Kazimiero valdymo pabaigoje likusių kunigaikštysčių pilis valdė didžiojo kunigaikščio vietininkai.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-187533|vietininkas]]: Lietuvos metraščio pasakojime Vytautas Pskove vietininku pasodino Pinsko kunigaikštį Jurijų, pramintą Nosimi.
 - susijęs iš Naugardas Sieverskas: Po sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Naugardo Sieversko bei kelias kitas sritis.
-- susijęs iš Polockas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.
 - susijęs iš Polockas: Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
 ## Reikšmingi paminėjimai
 

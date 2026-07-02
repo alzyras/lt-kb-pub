@@ -9,10 +9,10 @@ date_start: '1795'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - grupe
 amziai:
   - 'XVIII'
+tags:
+  - grupe
 ---
 # Lenkijos-Lietuvos valstybė
 
@@ -29,24 +29,26 @@ Lenkijos-Lietuvos valstybė įvadiniame straipsnyje minima kaip politinis dariny
 Politinė valstybė / politinis darinys.
 
 ## Teiginiai
-
-<a id="claim-t-188043"></a>
-- t-001
-  global_id: t-188043
+- t-002
   teiginys: 'Įvadiniame straipsnyje Lenkijos-Lietuvos valstybė apibūdinama kaip po trečiojo padalijimo 1795 m. netekusi nepriklausomybės ir atsidūrusi Rusijos, Prūsijos bei Austrijos imperijų valdžioje.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys gramatiškai pilnas ir tiksliai perteikia citatos faktą apie 1795 m. padalijimo pasekmes. Nepridėta papildomos politinės interpretacijos.'
-  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Prūsija; mentioned_place: Europa; llm_object: Austrija; llm_object: Prūsija'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkijos-Lietuvos valstybė|Lenkijos-Lietuvos valstybė]] priklausė Prūsija; [[objektai/grupes/Lenkijos-Lietuvos valstybė|Lenkijos-Lietuvos valstybė]] priklausė Austrija'
-  temporaliniai_duomenys: 'priklausymo laikotarpis: 1795 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lenkijos-Lietuvos valstybė priklausė Austrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lenkijos-Lietuvos valstybė priklausė Prūsija“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai pilnas ir tiksliai perteikia citatos faktą apie 1795 m. padalijimo pasekmes. Nepridėta papildomos politinės interpretacijos.'
   pagrindžia:
     - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 23698-24530; hash=2f6422996678704454dc7b16fa1ea1c0afc980921ffbd9153457d07661e6a511; match=exact
+  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lenkijos-Lietuvos valstybė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=137
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos-Lietuvos valstybė" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.).md#claim-t-187974|Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.)]]: Po trečiojo padalijimo 1795 m. Lenkijos-Lietuvos valstybė visiškai neteko nepriklausomybės.
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Įvadiniame straipsnyje Lenkijos-Lietuvos valstybė apibūdinama kaip po trečiojo padalijimo 1795 m. netekusi nepriklausomybės ir atsidūrusi Rusijos, Prūsijos bei Austrijos imperijų valdžioje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Gilinantis į tau­
@@ -64,14 +66,10 @@ Politinė valstybė / politinis darinys.
     tuvos valstybės, kuri po trečiojo padalijimo (1795 m.) visiškai
     neteko nepriklausomybės ir priklausė Rusijos, Prūsijos ir Aust­
     rijos imperijoms.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-
-## Ryšiai
-- Lenkijos-Lietuvos valstybė priklause [[objektai/vietos/Austrija]]
-- Lenkijos-Lietuvos valstybė priklause [[objektai/vietos/Prūsija]]
+    - t-002
