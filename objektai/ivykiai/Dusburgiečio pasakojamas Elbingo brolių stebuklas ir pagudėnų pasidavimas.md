@@ -77,7 +77,7 @@ Nenurodyta
   global_id: t-89364
   teiginys: 'Elbingo broliai su nedidele ginklanešių palyda vijosi didelę prūsų kariuomenę, prisiplėšusią grobio jų valdomose apygardose.'
   sudarymo_pagrindimas: 'Pašalinta perteklinė autorystės formulė ir sakinys sutrumpintas į aiškų faktą.'
-  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Elbingas; mentioned_place: Viena'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -105,20 +105,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 259188-259710; hash=b528e5d934ad73a797ec0d1e01ec16e46caa2e70e68490c3e19728f1cdb7bdd3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pagudėnai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pagudėnai: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas" parinktas kaip owner_note_path. Targetas "Pagudėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
-
 - c-002
   santrauka: 'Elbingo broliai su nedidele ginklanešių palyda vijosi didelę prūsų kariuomenę, prisiplėšusią grobio jų valdomose apygardose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -133,25 +124,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 258740-259362; hash=2a552cc3faa84fde83448f357fa8dee185c9904a963c478a33d28a498ad0cd9b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 259188-259710; hash=b528e5d934ad73a797ec0d1e01ec16e46caa2e70e68490c3e19728f1cdb7bdd3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pagudėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pagudėnai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas" parinktas kaip owner_note_path. Targetas "Pagudėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

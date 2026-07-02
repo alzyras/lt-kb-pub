@@ -63,18 +63,10 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7dfe92031dad160858d36c6fb6e874aec2df669196dbc6a7894c93b3363caa61; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Šnikenbergas: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hertvigas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Šnikenbergas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Hertvigas buvo įkurdintas Šnikenbergo pilyje.
 
 ## Ryšiai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] buvo_sunus Hertvigas

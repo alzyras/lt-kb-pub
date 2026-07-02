@@ -79,15 +79,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=164662194d0ed42459da53e2c4af0859ab0ae811d15457455d0740faf80911f2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Jogailos veiksmas Lietuvos mastu rodo valdovo galią Lietuvos atžvilgiu, nors pats ryšys nėra suformuluotas žodžiu „valdė“.

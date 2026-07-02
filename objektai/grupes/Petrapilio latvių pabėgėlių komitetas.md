@@ -50,18 +50,10 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d30341cde354d1ede06555870d7b4ef3cedc0ddc5578019904b60437ac532235; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Tautos taryba (institucija): 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petrapilio latvių pabėgėlių komitetas (institucija): llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Tautos taryba (institucija): llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tautos Taryba ir Petrapilio latvių pabėgėlių komitetas tiesiogiai nurodyti kartu rūpinęsi nepriklausomos Latvijos sukūrimu.
 
 ## Ryšiai
 - Petrapilio latvių pabėgėlių komitetas (institucija) buvo_sajungininkas_su [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]

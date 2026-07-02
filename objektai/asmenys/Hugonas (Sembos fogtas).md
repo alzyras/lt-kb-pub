@@ -64,18 +64,10 @@ Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f04973f27e96d082c2d8566480be957f0412255b9f389a9e9169579056b3c739; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Medininkai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hugonas (Sembos fogtas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Medininkai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata aprašo karinį Hugono žygį link Medininkų valsčiaus.
 
 ## Ryšiai
 - Hugonas (Sembos fogtas) surenge_zygi_i [[objektai/vietos/Medininkai]]

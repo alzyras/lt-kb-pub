@@ -134,9 +134,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -149,9 +150,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
 - c-003
   santrauka: 'Ordino riterius, šarvuotus metaliniais šarvais, atvirame lauke kepino karšta liepos mėnesio saulė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -166,19 +168,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 211431-211718; hash=4be875f0f08f5558cdc79872d567935d80c2e8c7b463205599fad544d598ee02; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lankai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šarvai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lankai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvai" parinktas kaip owner_note_path. Targetas "Lankai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
-
 - c-004
   santrauka: 'Pasimeldęs Jogaila, Vytauto ir lenkų riterių raginamas, užsidėjo šarvus ir nuvyko prie kariuomenės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -192,18 +185,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 211031-211430; hash=6081c82babb59ce20be8bd74375d1f59a4ca4863915a6b4babf993e7bb8698ad; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šarvai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvai" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
 - Šarvai priklause [[objektai/asmenys/Mikalojus Radvila Juodasis]]

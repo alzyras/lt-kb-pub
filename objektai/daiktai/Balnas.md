@@ -4,6 +4,10 @@ pavadinimas: 'Balnas'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+aliases:
+  - 'objektai/daiktai/Balnai'
+variantai:
+  - 'Balnai'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -66,8 +70,9 @@ Nenurodyta
     giškai prikišo husitų nenorą taikytis su Roma^21.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -77,5 +82,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001

@@ -75,10 +75,11 @@ Sudegė abiejų pilių papiliai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -92,8 +93,9 @@ Sudegė abiejų pilių papiliai.
     graudą»^26.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -108,4 +110,6 @@ Sudegė abiejų pilių papiliai.
     stovie ») sritis^27.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified

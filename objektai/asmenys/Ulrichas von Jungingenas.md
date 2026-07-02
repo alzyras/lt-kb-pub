@@ -95,9 +95,10 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Didysis magistras Ulrichas von Jungingenas jojo šešiolikos į kovos lauką slenkančių kryžiuočių vėliavų priešakyje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -110,9 +111,10 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Ulrichas von Jungingenas nukrito nuo arklio ir mirė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -126,6 +128,8 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 

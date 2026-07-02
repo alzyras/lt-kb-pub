@@ -45,8 +45,7 @@ Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 730304-730852; hash=30bd95d51eada09785d897a47244153792d0e895224ff2aae75da3fc6b2f3e83; match=exact
-  sprendimo_priezastis: auto

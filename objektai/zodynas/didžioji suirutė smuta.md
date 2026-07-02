@@ -97,6 +97,9 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
     nebe puolančioji, bet puolamoji.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
@@ -111,18 +114,11 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1a482fbe99c4e85bed650fe1d9e7454f8b6f8f25aa9ea05d47e8979a2c570cf8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: didžioji suirutė smuta: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "didžioji suirutė smuta" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -137,26 +133,9 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
     jokio pavojaus Lietuvai.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c2a819faffd8ac0da6f908f44a6968ea1239b5d5370a2629b8133e220e3a70cc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> didžioji suirutė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: didžioji suirutė smuta: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: didžioji suirutė: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "didžioji suirutė smuta" parinktas kaip owner_note_path. Targetas "didžioji suirutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 594255-594573; hash=ecf2e20357e36979f1a4f2d270a6c9eb8e98ebf7a74cf677313ba44436834b19; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> didžioji suirutė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: didžioji suirutė smuta: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: didžioji suirutė: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "didžioji suirutė smuta" parinktas kaip owner_note_path. Targetas "didžioji suirutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

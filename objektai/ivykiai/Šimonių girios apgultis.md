@@ -110,9 +110,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -132,28 +133,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1013097-1013547; hash=48916be0f3d09c5cf882bd74c8da5d1194de3acb580101ac8da3f040be663ba5; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Šimonių girios apgultis: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: NKVD: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Šimonių girios apgultis: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Citatoje NKVD įvardyta susirėmimo Šimonių girioje kontekste.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1004148-1004362; hash=ced267a7ffc0123256a09e64a36b42cb6fcfa57107eb427152e76445d7e03d68; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Svėdasai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šimonių girios apgultis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Svėdasai: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šimonių girios apgultis" parinktas kaip owner_note_path. Targetas "Svėdasai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/grupes/NKVD]] dalyvavo_musyje Šimonių girios apgultis

@@ -71,6 +71,9 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
     šinomis sunaikina Piltenės pilį.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -83,6 +86,9 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
     puolimą. [...] Nuniokojęs kraštą jis [Gediminas] grįžo atgal.“
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
@@ -116,17 +122,10 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
     Karuzo šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 126406-126521; hash=480e36717688079a536cb8308e6c72d714b860524dfc1a9c1dea92f6a83abb09; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Piltenė: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Piltenė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad lietuviai sunaikino Piltenės pilį naudodami apgulimo mašinas.
     - t-003

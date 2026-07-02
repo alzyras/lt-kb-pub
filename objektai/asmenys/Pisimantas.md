@@ -93,9 +93,10 @@ atnaujinta: ''
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -129,28 +130,10 @@ atnaujinta: ''
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 146112-146615; hash=9fec8544a784a1ee05ed4986200b63cffd6d4c9a3bbf99354622cb930e30292d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Liubartas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pisimantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Liubartas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Formuluotė tiesiogiai nurodo Liubartą ir Pisimantą kaip brolius.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 148569-149254; hash=fbf0a96e461b5b7fb26ad46264a9dd59ac160482f3efedb725de75525b8ab38f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Treniota: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pisimantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Treniota: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata Pisimantą ir Liubartą vadina Treniotos broliais.
 
 ## Ryšiai
 - [[objektai/asmenys/Skirmantas]] buvo_sunus Pisimantas

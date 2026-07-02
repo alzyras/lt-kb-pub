@@ -55,18 +55,10 @@ Kita kryžiuočių pilis, vadinta Fridbergu (taikos kalnas), pastatyta tuo pat m
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 229783-230214; hash=16a3cb491627a0558f9e71b214967595988c3d86356f81b2606dd234ed21f382; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Fridbergas Vytėnai: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Pilis tiesiogiai apibūdinama kaip kryžiuočių pilis, todėl siejama su Kryžiuočių ordinu.
 
 ## Ryšiai
 - Fridbergas Vytėnai priklause [[objektai/grupes/Kryžiuočių ordinas]]

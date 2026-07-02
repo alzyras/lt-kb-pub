@@ -44,6 +44,9 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
     patikimesnė 35 šovinių lenkta dėtuvė.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -66,12 +69,9 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
     Šovinys -7,62x25mm TT.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9bb08e415a53268886eaeb615fc301580ddb64e093b29a50fc2d44c0ee9d120a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 923215-923539; hash=307a45897fe1c8c2006905832a377ac4fda468d55ff14d7fae4a9d23009c1987; match=exact
-  sprendimo_priezastis: auto

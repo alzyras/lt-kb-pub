@@ -57,15 +57,7 @@ Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė n
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6897a4ac2a81d9046ecebb6c2039216ecc27942ca09d35274634124be95256b8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: prekiavo_su -> Lenkija: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste tiesiogiai minimas Lietuvos ir Lenkijos santykių užmezgimas prekybos kontekste, tačiau tai yra pageidavimas, todėl pasitikėjimas vidutinis.

@@ -62,18 +62,10 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 954150-954344; hash=3c666355bcddeaa1656ae84c6600846307ea5aca94e73a2ea7df486bc6544b19; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Konstanca: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mikalojus Sepienskis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Konstanca: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Jis vadovavo į Konstancą atsiųstiems bajorams, todėl ryšys su kelione į Konstancą yra tiesiogiai paremtas, nors formuluotė netiesioginė.
 
 ## Ryšiai
 - Mikalojus Sepienskis keliavo_i [[objektai/vietos/Konstanca]]

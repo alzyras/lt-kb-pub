@@ -4,6 +4,12 @@ pavadinimas: 'Juodoji jūra'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+aliases:
+  - 'objektai/vietos/Uksinė jūra'
+  - 'objektai/vietos/Uksinė marė'
+variantai:
+  - 'Uksinė jūra'
+  - 'Uksinė marė'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -75,9 +81,10 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Uksinė jūra Daukanto tekste tapatinama su Juodąja jūra.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -88,9 +95,10 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -105,9 +113,10 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
 - c-004
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -126,4 +135,6 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
         o nuo tenai gabeno sau skaninius ir gražinius.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified

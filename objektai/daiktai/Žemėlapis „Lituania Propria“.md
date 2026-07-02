@@ -101,18 +101,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ec9f6b8acfe08e339463368958f4ebeb82acd57655879fed949e4ad3278572a8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Paryžius: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žemėlapis „Lituania Propria“: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Paryžius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys nurodo, kad knyga, kurioje pateiktas žemėlapis, išleista Paryžiuje.
 
 ## Ryšiai
 - Žemėlapis „Lituania Propria“ priklause [[objektai/vietos/Paryžius]]

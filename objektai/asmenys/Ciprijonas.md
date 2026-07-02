@@ -56,18 +56,10 @@ Tai buvo bulgaras Ciprijonas, kurį Algirdas per didelius vargus buvo išgavęs 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=22b8f14ebb3df6ab7ecae60e66546198053473192f4d7e95e95a4335623623a5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Maskva: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ciprijonas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Ciprijonas persikėlė į Maskvą, todėl ryšys su gyvenimo vieta pagrįstas.
 
 ## Ryšiai
 - Ciprijonas gyveno [[objektai/vietos/Maskva]]

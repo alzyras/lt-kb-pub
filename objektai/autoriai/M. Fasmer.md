@@ -47,8 +47,7 @@ Fasmer : Otryvki V.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=eb9dc7d047e8d8a8ca4428e98bd7721ae0171db0f23f07f105ce634e198f2ebd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

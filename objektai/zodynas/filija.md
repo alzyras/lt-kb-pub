@@ -53,8 +53,7 @@ Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbatio
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 495340-495946; hash=5d6bd39275fa13b76f76b7ad5ae3db252503ff6371635fc6ca16033eea54136f; match=exact
-  sprendimo_priezastis: auto

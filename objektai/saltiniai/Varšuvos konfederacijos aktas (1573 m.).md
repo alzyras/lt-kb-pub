@@ -78,10 +78,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9bae07b86b6dbaf293010251ff94241d2fb12235c6f1d34d69a5638d1fcdea9c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c72e5e2fa4c98c0a4c65bd897c3e7af474bae126a2c991b53bd952482ec7a000; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

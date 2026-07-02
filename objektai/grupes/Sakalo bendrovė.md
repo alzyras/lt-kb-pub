@@ -53,15 +53,7 @@ Sležas ##### KAUNAS, 1930 — VYTAUTO DIDŽIOJO — METAI ###### „SAKALO“ B
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 727930-728178; hash=e490a3f6286cc10906e2f54e133bc2d168d505f0d9854c84bdf98a265ae1aeda; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Alekna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sakalo bendrovė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: A. Alekna: mention_match, author, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sakalo bendrovė" parinktas kaip owner_note_path. Targetas "A. Alekna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

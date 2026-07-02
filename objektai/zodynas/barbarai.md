@@ -61,8 +61,7 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 175198-175861; hash=c11d73520b825df088114c8f3e65ac42235df12fbee3d6ed4af9ff51a4030596; match=exact
-  sprendimo_priezastis: auto

@@ -92,9 +92,10 @@ periodo_grupes: []
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '1632 m. sausio 2 d. Akademijos rektorius Pilypas Frizijus nupirko mūrinį namą ir Valerijono bursai mokėjo 400 auksinų činšo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -115,28 +116,10 @@ periodo_grupes: []
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0e73fc04509c705f0e3af1bb71a8100bd48c1e33bf1a63a88d94b3224dca22cc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Pilypas Frizijus: 0.74
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vilniaus kapitula: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Pilypas Frizijus: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Vilniaus kapitula tiesiogiai davė pinigų Pilypui Frizijui.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 397770-398432; hash=f6ce3f15879818086ced3de4afdc614385514ebfaec238510afc27ed4acc68ff; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Namas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilypas Frizijus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilypas Frizijus" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/grupes/Vilniaus kapitula]] reme Pilypas Frizijus

@@ -44,8 +44,7 @@ Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 359779-360268; hash=7f4ef8ce3bfc4ad1dd6645a0caf3542be0e268b5c1673fe10166a1d32a6ce211; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto

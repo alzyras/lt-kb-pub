@@ -104,29 +104,11 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7c9ed9def7262ce087eb5e500c02b5f44915119af048cf0a5be197594ea5d728; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Jogailaičiai: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Motiejus Huniadis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jogailaičiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginyje Huniadis tiesiogiai apibūdintas kaip priešiškas Jogailaičiams.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7c9ed9def7262ce087eb5e500c02b5f44915119af048cf0a5be197594ea5d728; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Jogailaičiai: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Motiejus Huniadis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jogailaičiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Motiejus Huniadis buvo priešiškas Jogailaičiams.
 
 ## Ryšiai
 - Motiejus Huniadis buvo_priesas [[objektai/grupes/Jogailaičiai]]

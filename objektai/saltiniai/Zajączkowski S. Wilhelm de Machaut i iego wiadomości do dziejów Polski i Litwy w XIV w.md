@@ -49,8 +49,7 @@ Dusburgietis teigia, kad zajączkowski S.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1ffaef9d9585c94207708388df17bc6f30a3b8635131fbb16817034e1789cffc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

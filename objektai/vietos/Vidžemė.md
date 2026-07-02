@@ -87,9 +87,10 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -104,18 +105,10 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8e57347f367b7ee0f46d4ffc600e7754aa73f5d500d799f77a005d431fbdccd0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Dauguva: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Latviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Įsikūrimas Dauguvos krante tiesiogiai rodo gyvenamąją vietą.
 
 ## Ryšiai
 - [[objektai/grupes/Latviai]] gyveno Vidžemė

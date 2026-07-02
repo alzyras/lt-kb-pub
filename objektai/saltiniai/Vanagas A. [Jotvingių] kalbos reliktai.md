@@ -46,8 +46,7 @@ Dusburgietis teigia, kad vanagas A.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 801565-801632; hash=f1da11f6fc05d4d9b6d44ec4c0e2dbe12ece26c15d02ed663748263a98ffebc6; match=exact
-  sprendimo_priezastis: auto

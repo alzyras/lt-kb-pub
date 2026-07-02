@@ -60,15 +60,7 @@ Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę (1388.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 261601-261928; hash=d6b440e81efd86cc20c97802c8c79285eabf51d572b3f783708f28768ea3160e; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Dobrogostas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Urbonas VI: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Dobrogostas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Popiežius Urbonas VI tiesiogiai įgaliojo Dobrogostą tvarkyti bažnytinius reikalus.

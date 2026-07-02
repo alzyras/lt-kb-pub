@@ -98,29 +98,11 @@ Bychovco kronikos rankraštis buvo aptiktas Aleksandro Bychovco Mogiliovcų dvar
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e3012c3dc5cbdca4485641019eb6f8462a3795e635d99117c52eb0887df639e8; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: keliavo_i -> Mogiliovcai: 0.55
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mogiliovcai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Rankraščio aptikimas Mogiliovcų dvaro bibliotekoje leidžia tik netiesiogiai sieti Klimaševskį su šia vieta.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e3012c3dc5cbdca4485641019eb6f8462a3795e635d99117c52eb0887df639e8; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: keliavo_i -> Mogiliovcai: 0.55
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mogiliovcai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Rankraščio aptikimas Mogiliovcų dvaro bibliotekoje leidžia tik netiesiogiai sieti Klimaševskį su šia vieta.
 
 ## Ryšiai
 - [[objektai/daiktai/Bychovco kronikos rankraštis]] priklause Mogiliovcai

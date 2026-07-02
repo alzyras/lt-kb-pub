@@ -56,7 +56,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   global_id: t-176866
   teiginys: 'Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims per karą, kuriame buvo nuniokoti Prūsai.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nesako „kare prieš Prūsus“, todėl formuluotę reikia priderinti prie šaltinio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Zakračimas; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Zakračimas; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
   semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] buvo sąjungininkas su [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
@@ -125,9 +125,10 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -141,19 +142,10 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fef0c59f90cd2aba6d4c49d52410a5fad134007ff4219c27d24fdb227468e201; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Čekija: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigmantas Kaributas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Čekija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kaributas išvyko į Čekiją.
     - t-003
-
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -169,30 +161,11 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 474023-474313; hash=9e4af4c6d51ab817f24390238a300e8a572b345ffa91897d2ac131932707ec5d; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Lenkai: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigmantas Kaributas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Vadovavimas lenkų kariuomenės dalims rodo tiesioginį karinį veikimą kartu su lenkais.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=336b07f1c09d2de673e671255099925a6f95cae7229c2e708e15839084634892; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Čekija: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigmantas Kaributas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Čekija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Zigmantas Kaributas buvo pasiųstas į Čekiją.
     - t-004
-
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -206,19 +179,10 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1be3137e4aa8ad3c6a2b10b1fd76f1283015654196c4d577093f0607cf98f102; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Praha: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigmantas Kaributas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Praha: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Kaributo pasiuntimą į Pragą.
     - t-005
-
 - c-005
   santrauka: 'Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -233,28 +197,10 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1be3137e4aa8ad3c6a2b10b1fd76f1283015654196c4d577093f0607cf98f102; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Praha: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigmantas Kaributas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Praha: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Kaributo pasiuntimą į Pragą.
     - t-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 481372-481711; hash=7015bec4f9e3ab2735f5ec42252c4fc297ac68338adf27c228c412646499226e; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Praha: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigmantas Kaributas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Praha: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Kaributo pasiuntimą į Pragą.
 
 ## Ryšiai
 - Zigmantas Kaributas keliavo_i [[objektai/vietos/Čekija]]

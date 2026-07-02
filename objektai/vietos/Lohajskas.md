@@ -57,18 +57,10 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 355318-355663; hash=e0ae94ad44117edcbf61fa152b782ead01fced4fcaa319de631c7b49f146650f; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Slavai: 0.77
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lohajskas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Slavai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Lohajskas įvardytas tarp paskutinių rytinių slavų pilių.
 
 ## Ryšiai
 - Lohajskas priklause [[objektai/grupes/Slavai]]

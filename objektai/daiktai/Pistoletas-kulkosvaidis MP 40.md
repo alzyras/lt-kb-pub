@@ -78,18 +78,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 927399-928029; hash=14aca0dcd82bbcbe3920c913762635aff089379139a0827edab2165b77aadea2; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vokiečiai: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pistoletas-kulkosvaidis MP 40: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad MP 40 buvo vokiečių kariuomenės vadų ginklas.
 
 ## Ryšiai
 - Pistoletas-kulkosvaidis MP 40 priklause [[objektai/grupes/Vokiečiai]]

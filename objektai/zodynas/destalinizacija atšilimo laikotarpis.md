@@ -48,5 +48,7 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001

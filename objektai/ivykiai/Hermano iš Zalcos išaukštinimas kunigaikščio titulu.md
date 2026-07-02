@@ -75,9 +75,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui iš Zalcos ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -96,25 +97,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 127168-127953; hash=7270ac482c87f5abb4fc9abf7ff876f7f50023d67a6ed9087f2541245c114c25; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Popiežius Honorijus III: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Popiežius suteikė Hermanui titulą, todėl ryšys artimas paskyrimui.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 127168-127953; hash=7270ac482c87f5abb4fc9abf7ff876f7f50023d67a6ed9087f2541245c114c25; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Popiežius Honorijus III: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Popiežius suteikė Hermanui titulą, todėl ryšys artimas paskyrimui.

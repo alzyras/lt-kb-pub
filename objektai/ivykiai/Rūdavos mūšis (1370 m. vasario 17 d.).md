@@ -135,9 +135,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -152,28 +153,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 46442-46694; hash=d808a20451771d8257ec08ecc11f508b3bd95bdd7571643366deed443db6f32b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Rūdavos mūšis (1370 m. vasario 17 d.): 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rūdavos mūšis (1370 m. vasario 17 d.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Claimas tiesiogiai nurodo Vytauto dalyvavimą Rūdavos mūšyje.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 46442-46694; hash=d808a20451771d8257ec08ecc11f508b3bd95bdd7571643366deed443db6f32b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Rūdavos mūšis (1370 m. vasario 17 d.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rūdavos mūšis (1370 m. vasario 17 d.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad Vytautas dalyvavo Rūdavos mūšyje.
 
 ## Ryšiai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] dalyvavo_musyje Rūdavos mūšis (1370 m. vasario 17 d.)

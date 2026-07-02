@@ -70,9 +70,10 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Kryžiuočiai prie Nemuno, beveik priešais Kauną, pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -91,18 +92,10 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 434559-434906; hash=a6ed14e04b749e8a4b507ef7a7e0d493e2ba0a41c07f267a8cfbaa81dbda4d53; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Gotesverderis: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Gotesverderis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai nurodyti kaip tvirtovės, pavadintos Gotesverderiu, statytojai.
 
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] pastate Gotesverderis

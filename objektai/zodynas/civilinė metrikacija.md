@@ -58,8 +58,7 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 312095-312725; hash=5b16c5aae214e66c565542c53b3105376c220b9245433793d51774e1d50bf39b; match=whitespace_regex
-  sprendimo_priezastis: auto

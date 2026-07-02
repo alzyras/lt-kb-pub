@@ -43,9 +43,9 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
     kas informatorius.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 41234-41550; hash=a23806a8eb48ebe9e9fa791fa14068fb4bacb05e37ffbca5b714dd36b2b4a78f; match=whitespace_regex
-  sprendimo_priezastis: auto

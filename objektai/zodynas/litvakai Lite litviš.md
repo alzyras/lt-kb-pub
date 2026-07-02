@@ -69,6 +69,9 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     nigaikštija.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-003
@@ -82,6 +85,9 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     ilgainiui būtent litviš tarmė tapo norminės jidiš kalbos pagrindu.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -102,6 +108,9 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-004

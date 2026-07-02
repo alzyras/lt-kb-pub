@@ -54,18 +54,10 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 749880-749970; hash=8627f6e29b985fe2bcdae46cfa514f0686fd0dcb6253311fdb4e5d2ee9ecdc61; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Svėdasai: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: P. Genys: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Svėdasai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad P. Genys užėmė Svėdasus.
 
 ## Ryšiai
 - [[objektai/asmenys/P. Genys]] uzeme Antalieptė

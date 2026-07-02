@@ -95,9 +95,10 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti veiksmus Rygos miesto blokadai panaikinti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -115,19 +116,10 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 451893-452273; hash=648ec9dc4e8e26ee58b463525e790650e6933163fb351ba004130fcfea587c25; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Piarnu: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Piarnu: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad LDK kariuomenė pasiekė Piarnu.
     - t-002
-
 - c-003
   santrauka: 'Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti veiksmus Rygos miesto blokadai panaikinti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -148,28 +140,10 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fb45e7970a5617232e6dfef1529507b2e3dff7af3ec5b26300e28d6abcba2bee; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Piarnu: 0.80
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Piarnu: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Piarnu užėmimas pateikiamas kaip lietuviams naudingas karinis rezultatas.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 452843-453240; hash=55ee44c43b2a14d6fd2dea58376006515b00df4e3844e1f3c17e0b3b35a0a45c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Piarnu: 0.80
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Piarnu: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Piarnu užėmimas aiškiai siejamas su lietuvių karo padėtimi.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuvos kariuomenė]] keliavo_i Piarnu

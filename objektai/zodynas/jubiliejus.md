@@ -48,8 +48,7 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6f8fff7fde76cbd9e48db07cb24616b28fe2743409d5bd72ba381c1454538b40; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

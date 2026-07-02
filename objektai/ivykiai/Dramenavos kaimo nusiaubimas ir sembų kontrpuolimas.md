@@ -110,9 +110,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -128,39 +129,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6d68037e7ef13f1cceb03896f1134f777fd5e94dbde82f5c4fe2cec3dfb47b6c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Claim_text ir citata tiesiogiai nurodo sembų kontrpuolimą prieš grįžtančius brolius.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6d68037e7ef13f1cceb03896f1134f777fd5e94dbde82f5c4fe2cec3dfb47b6c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Sembai teiginyje įvardyti kaip kontrpuolimo vykdytojai.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2f7b9d75ab637e942de771d64476006255618b85a5eead0fcc511ee8c7329f94; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sembai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas: owner_note_path, event
-  ryšio_targeto_parinkimas: Sembai: mention_match, group, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas" parinktas kaip owner_note_path. Targetas "Sembai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/grupes/Sembai]] puole Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas

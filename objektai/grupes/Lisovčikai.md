@@ -54,18 +54,10 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=282c7053d6fac8ffdcdff5e360401ccab73844be9b02c0df60c53584a633d1f4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Janičarai: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lisovčikai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Janičarai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys tiesiogiai sieja lisovčikų vėliavų kontrataką su janičarais.
 
 ## Ryšiai
 - Lisovčikai puole [[objektai/grupes/Janičarai]]

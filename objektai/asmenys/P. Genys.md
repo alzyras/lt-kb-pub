@@ -51,18 +51,10 @@ Birželio 3 d. P. Genys užima Svėdasus. | O po to Užpalius ir birželio 5 d. 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 749880-749970; hash=8627f6e29b985fe2bcdae46cfa514f0686fd0dcb6253311fdb4e5d2ee9ecdc61; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Antalieptė: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: P. Genys: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Antalieptė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad P. Genys birželio 5 d. užėmė Antalieptę.
 
 ## Ryšiai
 - P. Genys uzeme [[objektai/vietos/Svėdasai]]

@@ -56,15 +56,7 @@ Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 445151-445550; hash=33fddcbfc7d15453df5f98b672a8ff654859e2e16de7e62221de1d896fbc8793; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Švitrigaila: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Moldovos kunigaikščiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata nurodo, kad Švitrigailos šalininkai buvo remiami Moldovos kunigaikščių; objektas apibendrinamas per Švitrigailą.

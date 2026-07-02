@@ -43,8 +43,7 @@ Nešiojamosios radijo stotelės perimtos iš buvusios DOSAAF (jomis buvo sukurta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5647ae039282cf19de31aa949e4a8f62bc99edce84f0bda0554c4584da9bfa18; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

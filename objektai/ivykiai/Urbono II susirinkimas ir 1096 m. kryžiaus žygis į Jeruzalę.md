@@ -126,20 +126,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7f62a1f9dc99189c70a7af11dd0b6459a76571342cbde4754c2dde02f4b4c9f5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Jeruzalė: 0.63
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Jeruzalė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vokiečiai buvo tarp žygio dalyvių, kurio galutinis objektas buvo Jeruzalė.
     - t-003
-
 - c-002
   santrauka: 'Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -165,25 +156,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7f62a1f9dc99189c70a7af11dd0b6459a76571342cbde4754c2dde02f4b4c9f5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Jeruzalė: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Jeruzalė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje vokiečiai minimi kaip Petro žygio dalyviai, kurie užėmė ir Jeruzalės miestą.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 724162-725587; hash=ba1bcb94bfcfc36e69f7001a3886a7ce1c5a0a171a521396acd030d424fef9ba; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Jeruzalė: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Simeonas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jeruzalė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Laiškai buvo Simeono ir kitų Jeruzalėje gyvenančių tikinčiųjų; formuluotė netiesiogiai sieja Simeoną su Jeruzale.

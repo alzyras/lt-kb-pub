@@ -54,18 +54,10 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b9a956f468f5689586b0779c79eadd17b4f7347032f6de8c9753cee940688624; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Divanas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Arnoldas Krofas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Divanas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai aprašo Arnoldo Krofo puolimą prieš Divaną.
 
 ## Ryšiai
 - Arnoldas Krofas puole [[objektai/asmenys/Divanas]]

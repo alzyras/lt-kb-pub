@@ -47,8 +47,7 @@ NoPL = Novgorodskaja pervaja letopis’ staršego i mladšego izvodov, išl.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 38180-38288; hash=dad71027aaf2ee09bd54fe198ea1c0aa69f212a4e6cda8ec45587523936b2307; match=exact
-  sprendimo_priezastis: auto

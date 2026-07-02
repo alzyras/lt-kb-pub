@@ -61,7 +61,7 @@ Nenurodyta
   teiginys: 'Prūsai beveik trejus metus laikė apsupę Vizenburgo pilį ir trimis apgulos mašinomis kasdien ją puolė.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys per ilgas, nutrūkęs ir turi antraštės triukšmo.'
-  susije_objektai: 'mentioned_place: Vizenburgas; mentioned_place: Mazovija; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Vizenburgas; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Mazovija; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-002
@@ -92,9 +92,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -110,30 +111,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e5b66ccc339ccdd8ec9f9c0876f7aa4b7f55b3c305ade0b034c94f2480bea80d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vizenburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vizenburgo pilies kautynės ir apleidimas (1263 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vizenburgas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vizenburgo pilies kautynės ir apleidimas (1263 m.)" parinktas kaip owner_note_path. Targetas "Vizenburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e5b66ccc339ccdd8ec9f9c0876f7aa4b7f55b3c305ade0b034c94f2480bea80d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vizenburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vizenburgo pilies kautynės ir apleidimas (1263 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vizenburgas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vizenburgo pilies kautynės ir apleidimas (1263 m.)" parinktas kaip owner_note_path. Targetas "Vizenburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-
 - c-003
   santrauka: '1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -149,9 +131,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-004
   santrauka: 'Vizenburgo pilies kautynėse prūsai prie Vangrapės įveikė brolius ir nukovė dvidešimt brolių bei visą jų kariuomenę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -163,4 +146,6 @@ Nenurodyta
     leidus, prūsai galop paėmė viršų ir nukovė dvidešimt brolių bei visą jų kariuomenę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified

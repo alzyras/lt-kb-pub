@@ -61,18 +61,10 @@ Jakovas Zachariničius kartu su Andrejumi Možaiskiu ir Andrejumi Šemiačičium
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 991855-992314; hash=1b226cdc1fcdb1a32e6d12f0abe5ec23122f6308c2b4889e4ad28b32966b29c4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Severskas: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jakovas Zachariničius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Severskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jakovo Zachariničiaus vedamos priešo jėgos patraukė į Severską.
 
 ## Ryšiai
 - Jakovas Zachariničius surenge_zygi_i [[objektai/vietos/Severskas]]

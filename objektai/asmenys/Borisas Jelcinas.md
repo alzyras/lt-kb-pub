@@ -124,9 +124,10 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: '1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -142,19 +143,10 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1067829-1068235; hash=34eaa65b542de53b29c5ffc88639b83fb1fbf41c770c9d8cc3908f8540b8a292; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Rusija: 0.58
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Borisas Jelcinas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas rodo Jelcino veikimą Rusijos žmonių ir demokratijos gynybos kontekste, bet ryšys su Rusija kaip objektu nėra visiškai tiesioginis.
     - t-001
-
 - c-003
   santrauka: 'Borisas Jelcinas vadovavo kovai prieš komunistinius perversmininkus ir privertė kapituliuoti Maskvos pučistus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -171,28 +163,10 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8da777c948c5a66a76fafb41778bc3a745e9fea0abbfe3385704910f64bb7673; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Lietuviai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Borisas Jelcinas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai sieja demokratinę Rusiją ir kontekstualiai Jelciną su lietuvių kovos rėmimu.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f65014b63600bc2df5b422e849b90ae97fcd1fe614d53477bd5b4d794ea09b51; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Vytautas Landsbergis: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Borisas Jelcinas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vytautas Landsbergis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Sutarties pasirašymas abiejų šalių vadovų tiesiogiai palaiko sutarties ryšį tarp Jelcino ir Landsbergio.
 
 ## Ryšiai
 - Borisas Jelcinas sudare_sutarti_su [[objektai/asmenys/Vytautas Landsbergis]]

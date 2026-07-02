@@ -65,18 +65,10 @@ periodo_grupes:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 357393-357850; hash=05c66765dd9278a2c1846cdafbcedf1b72f3b8ea79f61c0905b767729ac28d2c; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Odojevas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Chudandachas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Odojevas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Chudandacho vedami totoriai užpuolė Odojevo kunigaikščius.
 
 ## Ryšiai
 - Chudandachas puole [[objektai/vietos/Odojevas]]

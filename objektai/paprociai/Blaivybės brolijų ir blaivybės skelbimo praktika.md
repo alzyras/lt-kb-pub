@@ -110,10 +110,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 985742-986285; hash=53abf0e8a224b365ca73d1c75ede3adfd23ba69c378754a53c963784ce66f606; match=exact
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 988771-989287; hash=897bfa2b74db1acff9bd063920feaf494b82977c8e6df8b59bb2569e268009d1; match=exact
-  sprendimo_priezastis: auto

@@ -62,18 +62,10 @@ Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vlad
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 269032-269575; hash=4f49f63e0e872b08dec70e281e7b6c20005f4870a16b9334eaa3250e147322b2; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Gostininas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Gostininas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad lietuviai atėmė Gostininą.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] uzeme Gostininas

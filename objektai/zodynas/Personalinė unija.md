@@ -119,6 +119,9 @@ Nenurodyta
     tomasi tik su vienu dviejų jungtinių valstybių sostu.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-005
@@ -140,11 +143,11 @@ Nenurodyta
     čių puolimai.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 529317-529643; hash=19502c9ae915b9b31452b87674d2ddda6351f9093ed6bb76edf2721f8244c990; match=whitespace_regex
-  sprendimo_priezastis: auto
     - t-002
 
 - c-003
@@ -164,6 +167,9 @@ Nenurodyta
     lemta valstybių sąveika naikino Lietuvos valstybingumą.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-003
@@ -180,6 +186,9 @@ Nenurodyta
     Lenkija, nors valstybės buvo atskiros.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -198,6 +207,9 @@ Nenurodyta
     tuviai.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-004

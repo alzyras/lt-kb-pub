@@ -54,18 +54,10 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=de6f745677eb55705b32ce396ea5640705bcb61ea26a39064e02a37663f16c28; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Rudamina: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Charitonas Charotičius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rudamina: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Patvirtinimas apima ir Rudaminos pavietą, todėl rodo teises į šią teritoriją.
 
 ## Ryšiai
 - Charitonas Charotičius valde_teritorija [[objektai/vietos/Rudamina]]

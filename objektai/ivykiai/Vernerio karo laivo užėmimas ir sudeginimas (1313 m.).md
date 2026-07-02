@@ -101,29 +101,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=230f369982e2f045d97469b854e7a8d9e69b3e278046a2f2ccb9886178fb1e3d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Surminas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skaldonis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Surminas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citatoje Skaldonis tiesiogiai pavadintas Surmino broliu.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=230f369982e2f045d97469b854e7a8d9e69b3e278046a2f2ccb9886178fb1e3d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Vernerio karo laivo užėmimas ir sudeginimas (1313 m.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Surminas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vernerio karo laivo užėmimas ir sudeginimas (1313 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Surminas buvo pasiųstas vykdyti karo laivo sunaikinimo veiksmą.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] puole Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)

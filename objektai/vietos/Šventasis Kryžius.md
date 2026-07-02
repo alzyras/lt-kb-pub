@@ -110,41 +110,14 @@ J. Dlugošo pasakojime Sandomiro kraštas niokojamas iki Šventojo Kryžiaus vie
     sidabriniuose apsoduose.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8c06893b3e608a029eb8b61bed23ed357cd0a715093a16a35c562c40b1a5ad05; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: priklause -> Lenkija: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šventasis Kryžius: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Šventasis Kryžius aprašomas kaip viršūnė Lenkijos Kielcų vaivadijoje, todėl palaikomas priskyrimas Lenkijai.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8c06893b3e608a029eb8b61bed23ed357cd0a715093a16a35c562c40b1a5ad05; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: priklause -> Lenkija: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šventasis Kryžius: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo Šventąjį Kryžių Lenkijos Kielcų vaivadijos kontekste.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8c06893b3e608a029eb8b61bed23ed357cd0a715093a16a35c562c40b1a5ad05; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lenkija: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šventasis Kryžius: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Šventasis Kryžius yra Lenkijos Kielcų vaivadijoje.
 
 ## Ryšiai
 - Šventasis Kryžius priklause [[objektai/vietos/Lenkija]]

@@ -70,15 +70,7 @@ Dalyvavusio sprendime raštininko Stanislo­ vo Veeno ranka.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 702461-703101; hash=d1728b25036afa5f8b720183f011e0668e42089cec15d74ad29917a58dea0d63; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bełskas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stanislovas Veenas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bełskas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Veenas" parinktas kaip owner_note_path. Targetas "Bełskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

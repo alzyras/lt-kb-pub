@@ -93,15 +93,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=32ee2cc67c28586572f3f12eba546d8d294abb4b612a2c48b62328a92dd2b0b6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gime -> Šiauliai: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Victor David Brenner: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Šiauliai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė „kilęs iš Šiaulių“ pagrindžia asmens kilmės vietą, tačiau ne visiškai tiesiogiai pasako gimimą.

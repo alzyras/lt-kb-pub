@@ -44,8 +44,7 @@ p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1083055-1083139; hash=28c095b09752dc4632aaa1151b2dc0c0f38af14d46032e02e7b71e186a154cf9; match=exact
-  sprendimo_priezastis: auto

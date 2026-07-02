@@ -52,18 +52,10 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 859413-859582; hash=a07a37dd097b8fdf902482b0654235be318b05d328495d9329e6d4a807bcde6f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Balnininkai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Balnininkai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lenkų pajėgos buvo nukreiptos Balnininkų link.
 
 ## Ryšiai
 - [[objektai/grupes/Lenkai]] keliavo_i Balnininkai

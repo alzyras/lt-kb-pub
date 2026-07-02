@@ -65,18 +65,10 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0386feb1bc51e38d0b7eaada2a5c02c4646e460e27d746b5c84869b36668efd5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Lietuvių informacijos biuras Lozanoje: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: JAV lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuvių informacijos biuras Lozanoje: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad JAV lietuviai finansiškai rėmė biuro veiklą.
 
 ## Ryšiai
 - [[objektai/grupes/JAV lietuviai]] reme Lietuvių informacijos biuras Lozanoje

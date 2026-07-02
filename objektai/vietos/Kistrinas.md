@@ -82,18 +82,10 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 432231-432846; hash=4416f3d914f534dc91bf813ba0f3c4b13348d90fb6bfcd779d8413337aded579; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Kistrinas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kistrinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Švitrigaila prašė palydėti Konradą į Kistriną; adresatas nėra tinkamas objektas, todėl ryšys su vieta išreikštas atsargiai.
 
 ## Ryšiai
 - [[objektai/asmenys/Švitrigaila]] siunte_i Kistrinas

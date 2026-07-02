@@ -75,18 +75,10 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 575057-575833; hash=35e13cf05d4a1abf96770288bbb251999aeee3905ce28e2644301326855c5c0d; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gime -> Aragonas: 0.89
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras Roizijus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Aragonas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Roizijaus gimimą Aragone.
 
 ## Ryšiai
 - Petras Roizijus gime [[objektai/vietos/Aragonas]]

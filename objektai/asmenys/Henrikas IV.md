@@ -67,18 +67,10 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0740a3c71e087e08ba7771ad846db318a310309664aa730216653085f102c291; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Anglija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas IV: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Anglija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Henrikas IV aiškiai įvardijamas kaip būsimasis Anglijos karalius.
 
 ## Ryšiai
 - Henrikas IV buvo_valdovas [[objektai/vietos/Anglija]]

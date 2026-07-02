@@ -105,26 +105,8 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1d65ecd5fe821af5539b3476a4d914d8d9864a6c26e28f2e3d6b09ae1d39456b; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: puole -> Podolė: 0.81
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Krymo totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Krymo totorių vykdytą Podolės niokojimą.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1d65ecd5fe821af5539b3476a4d914d8d9864a6c26e28f2e3d6b09ae1d39456b; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: puole -> Podolė: 0.81
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Krymo totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sieja Krymo totorius su Podolės niokojimu.

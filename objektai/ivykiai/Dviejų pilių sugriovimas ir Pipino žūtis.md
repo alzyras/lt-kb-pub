@@ -55,7 +55,7 @@ Nenurodyta
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Prūsai: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Dviejų pilių sugriovimas ir Pipino žūtis: owner_note_path, event
   ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=1
@@ -66,7 +66,7 @@ Nenurodyta
   global_id: t-66534
   teiginys: 'Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.'
   sudarymo_pagrindimas: 'Sakinys sutvarkytas iš antraštinio fragmento į aiškų faktą apie dvi pilis.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Torunė; mentioned_place: Viena; mentioned_place: Vysla; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Drevanta; mentioned_place: Kaimas; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Pilėnai; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Torunė; mentioned_place: Viena; mentioned_place: Vysla; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Drevanta; mentioned_place: Kaimas; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Pilėnai; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1231 m.; įvykio data: apie 1231 m.; įvykio data: 1292 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutvarkytas iš antraštinio fragmento į aiškų faktą apie dvi pilis.'
@@ -128,19 +128,12 @@ Nenurodyta
     ir ten po medžiu pakorė221.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b11e62bdb00011aa4ba6aeb8a40145f4b5538986c5cf7d61bc6dc6d6f3309e7d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pipinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dviejų pilių sugriovimas ir Pipino žūtis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pipinas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dviejų pilių sugriovimas ir Pipino žūtis" parinktas kaip owner_note_path. Targetas "Pipinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-002
@@ -151,26 +144,9 @@ Nenurodyta
       222  Žr. D. III. 84.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 237841-240616; hash=be0e6c40b7e051b5606fd65188b672c0207774d4f6677dbd8335cfcf9dd4182c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dviejų pilių sugriovimas ir Pipino žūtis: owner_note_path, event
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dviejų pilių sugriovimas ir Pipino žūtis" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 237841-240616; hash=be0e6c40b7e051b5606fd65188b672c0207774d4f6677dbd8335cfcf9dd4182c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dviejų pilių sugriovimas ir Pipino žūtis: owner_note_path, event
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dviejų pilių sugriovimas ir Pipino žūtis" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

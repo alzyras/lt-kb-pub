@@ -10,6 +10,10 @@ datos:
   - '1882 m.'
 date_start: '1376'
 date_end: '1882'
+aliases:
+  - 'objektai/saltiniai/Codex ep. Vitoldi'
+variantai:
+  - 'Codex ep. Vitoldi'
 sukurta: ''
 atnaujinta: ''
 tags: []
@@ -45,8 +49,9 @@ amziai:
     1430), išl. A. Prochaska (rink. MoMP, t. 6) 1882.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -57,9 +62,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -70,4 +76,6 @@ amziai:
     (^13) **KolLJ, I, 51 p.**
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified

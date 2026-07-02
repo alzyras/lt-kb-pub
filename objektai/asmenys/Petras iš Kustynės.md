@@ -83,9 +83,10 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -102,28 +103,10 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fd9bf44b0460baa38e88795b212a140836fa1846ce6fc7a135d2bfba2e770d89; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.55
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras iš Kustynės: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vilniaus vyskupo pareigos tiesiogiai sieja Petrą su Vilniumi, nors tai nėra aiškus gyvenimo teiginys.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 278056-278263; hash=d25020b0798e91f69934d828b208770fef47a1ef217927811bc545e8021b683e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Konstancija: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras iš Kustynės: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Konstancija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Petras buvo delegacijos narys, išsiųstas į Konstanciją.
 
 ## Ryšiai
 - Petras iš Kustynės keliavo_i [[objektai/vietos/Konstancija]]

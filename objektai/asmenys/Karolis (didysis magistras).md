@@ -88,19 +88,12 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
                  4.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=920db58fb0831e33d3bcb86a87c835b627b52981a1d1958d0ab0d6003c1595b0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kristmemelis: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Karolis (didysis magistras): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kristmemelis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad po veiksmų Junigedoje jie nuvyko į Kristmemelio pilį.
     - t-004
 
 - c-002
@@ -116,40 +109,13 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
     nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 745436-745773; hash=f9c657ebb0f941a45d14e457025e8e4475e1b5e37c23032711d07a754aca4478; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Kristmemelis: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Karolis (didysis magistras): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kristmemelis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kristmemelio pilį pastatė magistras Karolis.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=920db58fb0831e33d3bcb86a87c835b627b52981a1d1958d0ab0d6003c1595b0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Junigeda: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Karolis (didysis magistras): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Junigeda: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad Karolis telkė kariuomenę Junigedos piliai vaduoti.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 745436-745773; hash=f9c657ebb0f941a45d14e457025e8e4475e1b5e37c23032711d07a754aca4478; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Kristmemelis: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Karolis (didysis magistras): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kristmemelis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Kristmemelio pilis buvo pastatyta brolio Karolio.
 
 ## Ryšiai
 - Karolis (didysis magistras) pastate [[objektai/vietos/Kristmemelis]]

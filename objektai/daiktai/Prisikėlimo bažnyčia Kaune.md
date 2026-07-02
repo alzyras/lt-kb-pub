@@ -71,18 +71,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 349329-349572; hash=bc4374ad8ca1203ec26e7dc7211e2f318e95499d458c92dea16a374f969179d5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kaunas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Prisikėlimo bažnyčia Kaune: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Prisikėlimo bažnyčią sumanyta pastatyti Kaune.
 
 ## Ryšiai
 - Prisikėlimo bažnyčia Kaune priklause [[objektai/vietos/Kaunas]]

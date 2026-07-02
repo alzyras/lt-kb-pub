@@ -111,9 +111,10 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: '1570 m. nuostolių sąraše nurodyta, kad už talerius, Lenkijoje vertintus po 30 grašių, Lietuvoje mokėta po 25 lietuviškus grašius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -139,19 +140,10 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 829701-829925; hash=647320c5426e998ec092c6c337098d36e68c5a69419f49138cf0686cabbed5aa; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sąrašas visų nuostolių Lietuvos monetas keičiant į lenkiškus pinigus (1570 m.): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sąrašas visų nuostolių Lietuvos monetas keičiant į lenkiškus pinigus (1570 m.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
-
 - c-003
   santrauka: '1571 m. rugpjūčio 18 d. Vilniuje 666 kapoms lietuviškomis monetomis nurodytos 91 florino, 19 grašių ir 6 lietuviškų denarų išlaidos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -164,25 +156,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 830363-830870; hash=0a5c88b9a17f7b38338c93337f1216dfb424e2f87ec95459654b58e835070536; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Monetos: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sąrašas visų nuostolių Lietuvos monetas keičiant į lenkiškus pinigus (1570 m.): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Monetos: mention_match, thing, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sąrašas visų nuostolių Lietuvos monetas keičiant į lenkiškus pinigus (1570 m.)" parinktas kaip owner_note_path. Targetas "Monetos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 824718-825344; hash=a1da82912c98c423ddda9be52b3915f0acf8c9b03723de18ea0635f11d86444e; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sąrašas visų nuostolių Lietuvos monetas keičiant į lenkiškus pinigus (1570 m.): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sąrašas visų nuostolių Lietuvos monetas keičiant į lenkiškus pinigus (1570 m.)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

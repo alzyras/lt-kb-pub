@@ -54,30 +54,13 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     krypti į Baltijos jūrą.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 345857-346263; hash=c70f9ad6e48fbc1a38d033e7b71178cb83bde2a72f15489973d5a3b38d85ddb4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Šiaurės jūra: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hanza: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Šiaurės jūra: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Hanzos įsigalėjimas Šiaurės ir Baltijos jūrose remia valdymo ar dominavimo santykį.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 345857-346263; hash=c70f9ad6e48fbc1a38d033e7b71178cb83bde2a72f15489973d5a3b38d85ddb4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Šiaurės jūra: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hanza: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Šiaurės jūra: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Hanzos įsigalėjimas Šiaurės ir Baltijos jūrose remia valdymo ar dominavimo santykį.
 
 ## Ryšiai
 - [[objektai/grupes/Hanza]] valde Šiaurės jūra

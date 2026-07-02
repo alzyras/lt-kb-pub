@@ -77,18 +77,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=de2dce7c59393ee1d39a0e4d6efd9ddc754bf8c3bfba2dbf1dd59b114e5d00e5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.): 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad kryžiuočiai vykdė Junigėdos puolimą, kurį reprezentuoja savininko įvykis.
 
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] puole Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)

@@ -57,9 +57,10 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Vilnijoje lietuvių Vietinės rinktinės daliniai susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -74,28 +75,10 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d8b318bcd07c81b5a70bef645b18ca4efb0b178d1607287679384af4810f26de; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnija: 0.78
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių dalinių pasiuntimą į Vilniją.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 418143-418628; hash=70692141743b4b76c9373e7e45081c3ba24fbf6f34a86408c18695b197f40c61; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnija: 0.78
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių dalinių pasiuntimą į Vilniją.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] kariavo_pries Armija Krajova

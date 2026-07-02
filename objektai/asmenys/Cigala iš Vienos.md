@@ -79,19 +79,12 @@ Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius,
     piežiaus sutikimo ir žinios pakelti ką į karalius.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 742005-742577; hash=8d49880fbfe5a6e37ad6585f8efb5cb7c03886fe7492e94b6ecf8e5c34b1a195; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Cigala iš Vienos: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas Čarnkovskis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Cigala iš Vienos: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Cigalos suėmimas tiesiogiai rodo priešišką Jono Čarnkovskio veiksmą jo atžvilgiu.
 
 ## Ryšiai
 - [[objektai/asmenys/Jonas Čarnkovskis]] buvo_priesas Cigala iš Vienos

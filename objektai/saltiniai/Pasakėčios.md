@@ -49,8 +49,7 @@ Rygiškių Jono redaguotos „PASAKĖČIOS”.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 735616-735788; hash=60e634500ad6af1270f75574de0b7084655153085c5015f65c8658a43e259d5d; match=exact
-  sprendimo_priezastis: auto

@@ -64,19 +64,12 @@ Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė prieši
     buvo nuvesta į Vitebską.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 605040-605851; hash=5909b1f12e6bda188fe032e11b1ca84ddc87603cbc990d5539f04fc92d603ad4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Smolenskas: 0.89
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurijus Sviatoslavovičius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Jurijus Sviatoslavovičius tiesiogiai vadinamas Smolensko valdovu.
 
 ## Ryšiai
 - Jurijus Sviatoslavovičius valde [[objektai/vietos/Smolenskas]]

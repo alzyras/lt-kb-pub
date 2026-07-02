@@ -50,8 +50,7 @@ Raulinaitis (Pedag.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6bc9df40682335dadddfefb15df99cd6399c59b3cb200d44304ec63bdb54ef63; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

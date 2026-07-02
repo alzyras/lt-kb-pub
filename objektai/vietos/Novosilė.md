@@ -73,29 +73,11 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a7dcb473aba8ab7ff633427c1f66d774cb6f716edb49be880ae8c93d98b793e0; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: priklause -> Černigovas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Novosilė: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Černigovas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Novosilę kaip buvusį Černigovo kunigaikštystės miestą.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a7dcb473aba8ab7ff633427c1f66d774cb6f716edb49be880ae8c93d98b793e0; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: priklause -> Lietuva: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Novosilė: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata lokalizuoja Novosilę LDK pakraštyje; leidžiamas kandidatas LDK vietai yra Lietuva.
 
 ## Ryšiai
 - Novosilė priklause [[objektai/vietos/Černigovas]]

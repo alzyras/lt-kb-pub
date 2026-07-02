@@ -56,18 +56,10 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8e9fc40fd0a8864fecddbe5988f7069b8b0937992f52b891fcdd4a94d81f98a5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Madykas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sivindukas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Madykas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai vadina Sivinduką Madyko sūnumi.
 
 ## Ryšiai
 - Sivindukas buvo_sunus [[objektai/asmenys/Madykas]]

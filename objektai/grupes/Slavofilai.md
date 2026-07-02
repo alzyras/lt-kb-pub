@@ -98,9 +98,10 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -115,23 +116,11 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fde31a778647b973c4a9f7015b150658926493cd74fee0064ee2d2cb73f3fabb; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Petrapilis: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Slavofilai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Petrapilis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Slavofilai susiorganizavo Petrapilyje, todėl vietos ryšys pagrįstas, nors tai organizavimosi, o ne gyvenimo teiginys.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ea7954a1088a9930c685e0f314b9ddbb1c98220a8acfab822879db1f8e8bde02; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
-
 - c-003
   santrauka: 'Slavofilai reikalavo pakeisti visą Vilniaus apygardos švietimo sistemą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -146,21 +135,10 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fde31a778647b973c4a9f7015b150658926493cd74fee0064ee2d2cb73f3fabb; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 909995-910396; hash=a570180b602247e311e08a0ade62d19dbbb2020ce3173010309c270f1a2f1db1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Slavofilai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Slavofilai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Slavofilai gyveno [[objektai/vietos/Petrapilis]]

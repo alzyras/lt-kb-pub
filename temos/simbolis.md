@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 25.
+Objektų skaičius: 26.
 
 ## Kaip naudoti
 
@@ -35,6 +35,7 @@ Objektų skaičius: 25.
 - [[objektai/daiktai/Lenino paminklas Vilniuje]]
 - [[objektai/daiktai/Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas „Žaliukas“]]
 - [[objektai/daiktai/Lietuvos trispalvė]]
+- [[objektai/daiktai/Masonų apeigų taurė]]
 - [[objektai/daiktai/Olimpiniai medaliai]]
 - [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
 - [[objektai/daiktai/Riterių vėliava]]
@@ -43,4 +44,4 @@ Objektų skaičius: 25.
 - [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/daiktai/Vytauto ženklas]]
 - [[objektai/daiktai/Vėliavos]]
-- [[objektai/daiktai/Šv. Vaclovo karūna]]
+- [Šv. Vaclovo karūna](../objektai/daiktai/%C5%A0v.%20Vaclovo%20kar%C5%ABna)

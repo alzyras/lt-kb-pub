@@ -91,9 +91,10 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '1300 m. rudenį 75 lietuviai netikėtai įsibrovė į Varmės vyskupystės Glotavos valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -109,28 +110,10 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=eedcc2e248446215a2aaad5ccb11d1fd0ee495beacea910b25021e1c43fa1d67; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Glotava: 0.89
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Glotava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Netikėtas įsibrovimas į Glotavos valsčių yra tiesioginis puolimo veiksmas.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 605221-605681; hash=8765b9b38206c62989cb5b3ea3e88f0dfd546ab4600e1fee8aa40b3677860b05; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Pagudė: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Glotava: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Pagudė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Glotava tiesiogiai apibūdinta kaip Pagudės valsčius.
 
 ## Ryšiai
 - Glotava priklause [[objektai/vietos/Pagudė]]

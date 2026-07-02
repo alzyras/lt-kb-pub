@@ -51,8 +51,7 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 767395-767540; hash=e0331692e1f01cbfc598a9ac91a18c9726da893830807afa6b69827f8a7dd07e; match=exact
-  sprendimo_priezastis: auto

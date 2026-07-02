@@ -62,18 +62,10 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=17beeddaafb9995e4a9d4f11b2fae7abdc4dd47ff8b735292d638d904e981bfe; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Romanas (Briansko kunigaikštis): 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Olegas (Romano sūnus): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Romanas (Briansko kunigaikštis): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginyje Olegas tiesiogiai įvardytas kaip Romano sūnus.
 
 ## Ryšiai
 - Olegas (Romano sūnus) buvo_sunus [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]

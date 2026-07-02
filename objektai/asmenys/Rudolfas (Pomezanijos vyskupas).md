@@ -68,18 +68,10 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Elbliongas: 0.64
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rudolfas (Pomezanijos vyskupas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Elbliongas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Rudolfas su kitais vyskupais tiesiogiai siejamas su pasitarimo surengimu Elblionge.
 
 ## Ryšiai
 - Rudolfas (Pomezanijos vyskupas) keliavo_i [[objektai/vietos/Elbliongas]]

@@ -60,19 +60,12 @@ Kambarinis Slavka savo kūnu bandė užstoti leisgyvį valdovą nuo smūgių, be
     jų neįsileido.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 813472-814018; hash=0c4c3d4d951278d188cc2da466b2ddac4ad5f6960e63affe4d2ad3b456124fd5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Slavka: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Slavka: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Jonas fiziškai smurtavo prieš Slavką, todėl puolimo ryšys tiesiogiai pagrįstas.
 
 ## Ryšiai
 - [[objektai/asmenys/Jonas]] puole Slavka

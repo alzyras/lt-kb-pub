@@ -32,16 +32,16 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   global_id: t-63619
   teiginys: 'Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.'
   sudarymo_pagrindimas: 'Reikia išskleisti kontekstinį „pavojaus metu“ ir aiškiau suformuluoti sakinį.'
-  susije_objektai: 'llm_object: Prūsai; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Prūsai; mentioned_place: Rittersverderis; mentioned_person: [[objektai/asmenys/Mozūrų kunigaikštis Henrikas|Mozūrų kunigaikštis Henrikas]]; mentioned_place: Lenkija; llm_object: Rittersverderis'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] keliavo į Prūsai; [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] keliavo į Rittersverderis'
+  susije_objektai: 'llm_object: Prūsų žemė; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Prūsų žemė; mentioned_place: Rittersverderis; mentioned_person: [[objektai/asmenys/Mozūrų kunigaikštis Henrikas|Mozūrų kunigaikštis Henrikas]]; mentioned_place: Lenkija; llm_object: Rittersverderis'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] keliavo į Prūsų žemė; [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] keliavo į Rittersverderis'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c666ae47326f4afb86f81f289469362f8494b3cf1922da97b01ce4d79c2ebf67; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsai: 0.89
+  ryšio_patikimumas: keliavo_i -> Prūsų žemė: 0.89
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_patikimumo_priezastys: deterministic_validation_passed; llm_structured_decision; prusai_place_context
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Henrikas (Mozūrų kunigaikštis): llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
@@ -61,9 +61,10 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -77,19 +78,11 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c666ae47326f4afb86f81f289469362f8494b3cf1922da97b01ce4d79c2ebf67; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsai: 0.89
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas (Mozūrų kunigaikštis): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Henriko išvykimą į Prūsus.
     - t-001
 
 ## Ryšiai
-- Henrikas (Mozūrų kunigaikštis) keliavo_i [[objektai/vietos/Prūsai]]
+- Henrikas (Mozūrų kunigaikštis) keliavo_i [[objektai/vietos/Prūsų žemė]]
 - Henrikas (Mozūrų kunigaikštis) keliavo_i [[objektai/vietos/Rittersverderis]]

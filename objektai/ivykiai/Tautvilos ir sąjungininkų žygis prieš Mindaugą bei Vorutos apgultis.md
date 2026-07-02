@@ -124,20 +124,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6ecf9cdbb89b43f46939a147f16bc467f218c80fd74cf9599e85a1e3ea692de2; match=fallback; occurrences=0
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Namas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -152,36 +143,8 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4de2416f251aa70d2a530e3e6438d3156ec76ec597db0df1e48f4c57b9c3680b; match=fallback; occurrences=0
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Voruta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Voruta: mention_match, place, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis" parinktas kaip owner_note_path. Targetas "Voruta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6ecf9cdbb89b43f46939a147f16bc467f218c80fd74cf9599e85a1e3ea692de2; match=fallback; occurrences=0
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: kariavo_pries -> Vokiečiai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Mindaugo kariai išjojo prieš vokiečius, todėl santykis priskirtinas Mindaugui kaip jų vadui.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4de2416f251aa70d2a530e3e6438d3156ec76ec597db0df1e48f4c57b9c3680b; match=fallback; occurrences=0
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Tautvilas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Tautvilas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis" parinktas kaip owner_note_path. Targetas "Tautvilas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

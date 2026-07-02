@@ -89,9 +89,10 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -113,28 +114,10 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=21d030a1ef20d7829708d55c2e7ec14170242194e9d44f9a964b158cad26b9e3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Marienverderis: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hermanas (Ordino magistras): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Marienverderis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata aiškiai sieja magistrą Hermaną ir brolius su Marienverderio pilies pastatymu.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 241752-241940; hash=c37d7fc44ff60ad61de2100dad95f63d01feb84b2aa160d1d1e7b59001a553a5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Kulmas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hermanas (Ordino magistras): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Hermanas pastatė Kulmo pilį ir miestą.
 
 ## Ryšiai
 - Hermanas (Ordino magistras) pastate [[objektai/vietos/Kulmas]]

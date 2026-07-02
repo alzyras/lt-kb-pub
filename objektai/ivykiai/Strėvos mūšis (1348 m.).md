@@ -8,6 +8,10 @@ datos:
   - '1348 m.'
 date_start: '1348'
 date_end: ''
+aliases:
+  - 'objektai/ivykiai/Strėvos mūšis'
+variantai:
+  - 'Strėvos mūšis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-1348 m. ordinas surengė didelį žygį į Lietuvą, o grįžtančiai jo kariuomenei prie Strėvos upės kelią pastojo [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)|Algirdas]] su [[Kęstutis|Kęstučiu]]. Ordinas vėliau išgarsino šį susidūrimą kaip nepaprastai didelę pergalę, tačiau šaltinis pabrėžia, kad toks laimėjimo vaizdas buvo išpūstas.
+1348 m. ordinas surengė didelį žygį į Lietuvą, o grįžtančiai jo kariuomenei prie Strėvos upės kelią pastojo [[objektai/asmenys/Algirdas|Algirdas]] su [[Kęstutis|Kęstučiu]]. Ordinas vėliau išgarsino šį susidūrimą kaip nepaprastai didelę pergalę, tačiau šaltinis pabrėžia, kad toks laimėjimo vaizdas buvo išpūstas.
 
 ## Laikotarpis ir datos
 
@@ -32,13 +36,13 @@ amziai:
 
 ## Dalyviai ir vaidmenys
 
-- [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)|Algirdas]] ir [[Kęstutis]]: lietuvių kariuomenės vadai
+- [[objektai/asmenys/Algirdas|Algirdas]] ir [[Kęstutis]]: lietuvių kariuomenės vadai
 - ordinas: surengė žygį į Lietuvą
 - kryžiuočiai: traukdamiesi susikovė prie Strėvos upės
 
 ## Eiga
 
-Atsilygindamas už ankstesnius puolimus, ordinas surengė didelį žygį į Lietuvą, niokojo kraštą ir pasiekė Žiežmarius. Grįžtančiai kariuomenei prie Strėvos upės kelią pastojo [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)|Algirdas]] su [[Kęstutis|Kęstučiu]].
+Atsilygindamas už ankstesnius puolimus, ordinas surengė didelį žygį į Lietuvą, niokojo kraštą ir pasiekė Žiežmarius. Grįžtančiai kariuomenei prie Strėvos upės kelią pastojo [[objektai/asmenys/Algirdas|Algirdas]] su [[Kęstutis|Kęstučiu]].
 
 ## Rezultatas
 
@@ -119,9 +123,10 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -138,9 +143,10 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -155,9 +161,10 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -175,28 +182,10 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bbc11b9fe0baf1bf397f7ac3edd2b98604ff4b05fb60de92146264212d3aff95; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Strėva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Strėvos mūšis (1348 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Strėva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Strėvos mūšis (1348 m.)" parinktas kaip owner_note_path. Targetas "Strėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4ba1c3d0ccc1043f76b4917ff1b9dc2783e8ff074c612eda5abb1114e1b3b444; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Strėvos mūšis (1348 m.): 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Strėvos mūšis (1348 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Citata nurodo lietuvių veikimą pačiame mūšyje.
 
 ## Ryšiai
 - [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo) dalyvavo_musyje Strėvos mūšis (1348 m.)

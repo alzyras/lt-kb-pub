@@ -116,9 +116,10 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -137,25 +138,7 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 215774-216239; hash=a3b76ace67123a4f8040db1c45774a1eb3638593075b75b539ec3026a6f86cbf; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Tochtamišas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Timūr-Kutlukas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tochtamišas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citatoje Tochtamišas tiesiogiai įvardytas kaip Timūr-Kutluko priešas.
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 215774-216239; hash=a3b76ace67123a4f8040db1c45774a1eb3638593075b75b539ec3026a6f86cbf; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Tochtamišas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Timūr-Kutlukas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tochtamišas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citatoje Tochtamišas tiesiogiai įvardytas kaip Timūr-Kutluko priešas.

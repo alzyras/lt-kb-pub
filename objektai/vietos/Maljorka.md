@@ -71,29 +71,11 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 697330-697549; hash=68786e33ae08cb01861f3cba719a2231aca8c06a79259fa9c4051cc9c01e9377; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Maljorka: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Saracėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Maljorka: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys nurodo, kad Maljorka anksčiau buvo valdoma saracėnų.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 697330-697549; hash=68786e33ae08cb01861f3cba719a2231aca8c06a79259fa9c4051cc9c01e9377; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Maljorka: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Saracėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Maljorka: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys nurodo, kad Maljorka anksčiau buvo valdoma saracėnų.
 
 ## Ryšiai
 - [[objektai/grupes/Saracėnai]] uzeme Maljorka

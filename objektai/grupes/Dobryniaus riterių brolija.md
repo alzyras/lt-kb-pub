@@ -56,15 +56,7 @@ Bet jam nesisekė, ir jo įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 465078-465316; hash=b01946de41923e1e6582e37eb22392767d859d727bae881ff9ff30db8cba0872; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobryniaus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobryniaus riterių brolija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dobryniaus: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobryniaus riterių brolija" parinktas kaip owner_note_path. Targetas "Dobryniaus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -48,7 +48,7 @@ Nenurodyta
   teiginys: 'Prūsai kelis kartus su gausybe ginkluotų vyrų puolė Dobrynės pilį ir privertė brolius vengti rodytis už pilies sienų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys turi perteklinę įžangą ir nuorodos liekaną, citata pagrindžia aiškų faktą.'
-  susije_objektai: 'mentioned_place: Dobrynė; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Dobrynė; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -78,15 +78,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5a5df958070ee88502e84aba36fbefb3dd05e8381099b847e107a6fe4bfd737b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsų puolimai prieš Dobrynės pilį (pilis, XIII a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsų puolimai prieš Dobrynės pilį (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

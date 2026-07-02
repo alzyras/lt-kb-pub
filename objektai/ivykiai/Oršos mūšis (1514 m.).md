@@ -8,6 +8,12 @@ datos:
   - '1530 m.'
 date_start: '1514'
 date_end: '1530'
+aliases:
+  - 'objektai/ivykiai/Oršos mūšis (1514 m. rugsėjo 8 d.)'
+  - 'objektai/ivykiai/Oršos mūšis'
+variantai:
+  - 'Oršos mūšis (1514 m. rugsėjo 8 d.)'
+  - 'Oršos mūšis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -96,9 +102,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -112,9 +119,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -129,5 +137,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001

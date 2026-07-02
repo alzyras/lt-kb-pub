@@ -93,26 +93,8 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 5088-5615; hash=f2db24c9ff2aff47f3f3b0149361a6fd1aa8fcf1987b5acc198e6f36951fa456; match=whitespace_regex
-  sprendimo_priezastis: gap::customs
-  ryšio_patikimumas: susije_su -> Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šubravcų elgesio kodekso normos ir saviugdos reikalavimai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): mention_match, event, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų elgesio kodekso normos ir saviugdos reikalavimai" parinktas kaip owner_note_path. Targetas "Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 5088-5615; hash=f2db24c9ff2aff47f3f3b0149361a6fd1aa8fcf1987b5acc198e6f36951fa456; match=whitespace_regex
-  sprendimo_priezastis: gap::customs
-  ryšio_patikimumas: susije_su -> Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šubravcų elgesio kodekso normos ir saviugdos reikalavimai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): mention_match, event, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų elgesio kodekso normos ir saviugdos reikalavimai" parinktas kaip owner_note_path. Targetas "Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

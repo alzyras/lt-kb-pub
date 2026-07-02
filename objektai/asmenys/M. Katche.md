@@ -40,8 +40,7 @@ Katche.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 735317-735445; hash=00362462d58b1aba332587a05121ad164d2c41171835c2d83b77dc32715c8de9; match=whitespace_regex
-  sprendimo_priezastis: auto

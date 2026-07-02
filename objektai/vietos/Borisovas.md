@@ -135,9 +135,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -178,30 +179,11 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 273301-273860; hash=7968aeb67cb6f12d54193bb1b204494388dfabc75da91c697ca41e42e931e850; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Borisovas: 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totorių pajėgos: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Borisovas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Borisovas tiesiogiai įvardytas tarp totorių pajėgų užimtų vietų.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 273301-273860; hash=7968aeb67cb6f12d54193bb1b204494388dfabc75da91c697ca41e42e931e850; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Borisovas: 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totorių pajėgos: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Borisovas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Borisovas tiesiogiai įvardytas tarp totorių pajėgų užimtų vietų.
     - t-002
-
 - c-003
   santrauka: 'Glinskis, nutraukęs Minsko apgulą, su savo kariais pirmiausia nužygiavo į Borisovą, o iš ten į Oršą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -221,28 +203,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3d9d1515875fd840f416490bca928dfa0e35f231810ee9a30913043682940325; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Aleksandras Jogailaitis: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Malūnas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Formuluotė „savo malūną“ rodo, kad malūnas priklausė karaliui Aleksandrui.
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1068751-1069325; hash=01c615fc9c165b1ba4b7ad8f9c81432c7075f1bcb94993311b76f7d22e85cebc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Borisovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Borisovas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/grupes/Totorių pajėgos]] uzeme Borisovas

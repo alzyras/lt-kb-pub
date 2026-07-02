@@ -74,10 +74,4 @@ Jungtinėse Amerikos Valstijose smulkios lietuvių draugijos dažniausiai rėmė
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=79db3cbd211a8a3c724a93ce5f844e1128d0d71d04a54d121fdb1158a6c7c876; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e499f7c737af2f5c7bc06ba1e87d1aefdc85f91644809040005d97bbe291a425; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

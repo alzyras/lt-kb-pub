@@ -54,18 +54,10 @@ Dusburgietis teigia, kad tuo tarpu lietuviai savo dievams kaip auką sudegino br
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0df4611191eea5ed10b2d3798227ca84eb552b8c6395b133bdf1b2581d0c8d5b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Gerhardas, pravarde Rudė: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Gerhardas, pravarde Rudė: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo lietuvių smurtinį veiksmą prieš Gerhardą Rudę.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] puole Gerhardas, pravarde Rudė

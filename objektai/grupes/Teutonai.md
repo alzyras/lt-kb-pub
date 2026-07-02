@@ -426,9 +426,10 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -438,6 +439,8 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
@@ -453,7 +456,7 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - Teutonai pastate [[objektai/daiktai/Kuoras aukštai ąžuole]]
 - Teutonai puole [[objektai/vietos/Dramenava]]
 - Teutonai uzeme [[objektai/vietos/Partigala]]
-- Teutonai uzkariavo [[objektai/vietos/Prūsai]]
+- Teutonai uzkariavo [[objektai/grupes/Prūsai]]
 - [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]] reme Teutonai
 - [[objektai/grupes/Lietuvos luomai]] gyne Teutonai
 - [[objektai/vietos/Diunamiundė]] priklause Teutonai

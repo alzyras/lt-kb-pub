@@ -95,20 +95,11 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 604408-604797; hash=e41cf767ee9812494b40de509bdaec81c00501f82f060a1f80ab50f6f744d226; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Aukaimis: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas iš Dobino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Aukaimis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Henrikas iš Dobino su vyrais įsiveržė į Aukaimio pilies apylinkes.
     - t-004
-
 - c-002
   santrauka: 'Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -129,39 +120,11 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 604408-604797; hash=e41cf767ee9812494b40de509bdaec81c00501f82f060a1f80ab50f6f744d226; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Aukaimis: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas iš Dobino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Aukaimis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Henrikas iš Dobino su vyrais įsiveržė į Aukaimio pilies apylinkes.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 559031-559608; hash=5934d1180cb8a7d2690e64a5b6f80fa19b28ea9a37825be16dcf402746496631; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lietuviai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas iš Dobino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Henrikas iš Dobino su būriu tiesiogiai nukovė 80 lietuvių.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 559031-559608; hash=5934d1180cb8a7d2690e64a5b6f80fa19b28ea9a37825be16dcf402746496631; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lietuviai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas iš Dobino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Henrikas iš Dobino su būriu tiesiogiai nukovė 80 lietuvių.
 
 ## Ryšiai
 - Henrikas iš Dobino kariavo_pries [[objektai/grupes/Lietuviai]]

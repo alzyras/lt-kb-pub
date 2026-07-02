@@ -121,9 +121,10 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
   citata_rodoma: ''
   teiginio_tipas: interpretacija
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -148,28 +149,10 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
   citata_rodoma: ''
   teiginio_tipas: interpretacija
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 82826-83480; hash=b55d5bf3c6125ae5f2bef244ed869b15c11be7358fbcd4bcb1db121d42d0590a; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: puole -> Pranciškonų ordinas: 0.73
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vilniaus prastuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekstas prastuomenę sieja su smurtiniu pranciškonų vienuolyno užėmimu ir vienuolių nužudymu; objektas apibendrintas iki ordino.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 84887-85481; hash=4cfcd4f7d0ef06a9971b12d1708d6ce6405693abb8b057ed68e59e9d5b6ec592; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: puole -> Pranciškonų ordinas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Pasakojime totoriai tiesiogiai įvardyti kaip sukurstyti pulti pranciškonus.
 
 ## Ryšiai
 - Vilniaus prastuomenė puole [[objektai/grupes/Pranciškonų ordinas]]

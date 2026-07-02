@@ -83,9 +83,10 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -100,28 +101,10 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=99c008e52d14dbc158964e9b90423a6368fc6ad335859f484c1fbd4f497e46d5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.): 0.82
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: J. Mikoliūnas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: J. Mikoliūnas minimas Kėdainių gynybos kontekste, kuris atitinka kandidatuose pateiktą Kėdainių-Šėtos kautynių įvykį.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f751834ad4529c18237bf2f2e36be121de4f7befa501a8e4be0d23aaf31d6b5c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: J. Mikoliūnas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Mikoliūnas" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - J. Mikoliūnas gyne [[objektai/vietos/Kėdainiai]]

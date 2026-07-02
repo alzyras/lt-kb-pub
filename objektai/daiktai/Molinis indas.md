@@ -58,12 +58,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 345292-345665; hash=0dc4fd90745d68616a7b9cd2f4b0e7a44e7c3f1a9ab20e7cd300564e90775ad2; match=exact
-  sprendimo_priezastis: auto
-
 ## Pastabos
 
 - kartu minimos ir neprietelių kaukolės ant grandies, bet kandidato ašį palieku pagal molinį indą kaip laidojimo daiktą.

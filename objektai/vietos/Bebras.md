@@ -51,8 +51,7 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 841086-841172; hash=5dc4e6ba2cdf5d4df953e604c527665962d1b0a3c505481874d9326de1e04e39; match=exact
-  sprendimo_priezastis: auto

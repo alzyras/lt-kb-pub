@@ -64,18 +64,10 @@ Tuoj pat sušauktas lietuvių ku­ nigaikščių ir bajorų visuotinis seimas pa
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8a4b234ed3b1fab76f5bc28ac152d7a6eb1ba9692b1e96e477a10f7e986bee5f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.66
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvių kunigaikščių ir bajorų visuotinis seimas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatos kontekste seimas sušauktas Vilniuje, nors vieta išreikšta per sostinę ir ankstesnį sakinį.
 
 ## Ryšiai
 - Lietuvių kunigaikščių ir bajorų visuotinis seimas gyveno [[objektai/vietos/Vilnius]]

@@ -60,15 +60,7 @@ Agilulfui viešpataujant, 591 m. daugelis buvusių arijonų kartu su stabmeldži
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 88963-89307; hash=487837007b774dd44f7eedefff54d7b1baf285db9a3282d9a64a651e3efc0fe2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Italija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Arijonai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Italija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Arijonai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

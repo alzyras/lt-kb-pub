@@ -52,8 +52,7 @@ Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kron
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b269c29ae6d853aef106c3c39079050125ebdf7156602487fae9d5b8bac6db02; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md

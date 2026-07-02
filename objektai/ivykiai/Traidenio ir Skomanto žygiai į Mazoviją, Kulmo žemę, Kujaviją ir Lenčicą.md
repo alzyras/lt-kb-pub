@@ -90,6 +90,9 @@ Nenurodyta
     vė pilį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -108,26 +111,9 @@ Nenurodyta
     miestus ir nusiaubė visą Kujaviją.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 224162-224754; hash=c384f623f7d5d7934c662a25864dfaeecf2e1e428b244cf249e63212e21eb841; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kulmas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Traidenis puolė Kulmo žemę.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 224658-225052; hash=a0cc75f046eedb96ccff121203b26f2f8012867df4e2b91eb502a745eebe69aa; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kujavija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kujavijos nusiaubimas tiesiogiai pagrindžia puolimo santykį.

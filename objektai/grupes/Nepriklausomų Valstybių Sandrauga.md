@@ -63,18 +63,10 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f68ea1ed43d33a7718e5e987fe4b0b346ef0919440edd955568fef781535a465; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: prekiavo_su -> Nepriklausomų Valstybių Sandrauga: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Nepriklausomų Valstybių Sandrauga: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Claim tiesiogiai nurodo lietuviškų prekių kryptį į NVS, tai atitinka prekybos ryšį.
 
 ## Ryšiai
 - [[objektai/vietos/Lietuva]] prekiavo_su Nepriklausomų Valstybių Sandrauga

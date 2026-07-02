@@ -105,6 +105,9 @@ Nenurodyta
     patys pasidavė.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -122,26 +125,9 @@ Nenurodyta
     jos.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 938853-939392; hash=936bae9ae3d6f5c084164580015a778c1e8133bed75e695011cfe1d2cff75064; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajazitas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bajazitas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)" parinktas kaip owner_note_path. Targetas "Bajazitas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 939393-939681; hash=1ca5cbdd77a4124ddc79529862c9d42355b51c26b63598d8760aed12b0a055d6; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Valachija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Valachija: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)" parinktas kaip owner_note_path. Targetas "Valachija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

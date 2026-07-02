@@ -86,9 +86,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: '1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -101,19 +102,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bb2bde047471632c14943cb07472f2c28ee17f1d5d9a333667040939a3ca6552; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Liublinas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Liublinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas tiesiogiai nurodo lietuvių puolimą Liublino žemėse.
     - t-001
-
 - c-003
   santrauka: '1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -125,28 +117,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 606328-606593; hash=0ce4db425bfcf5a7cd227c61810d5526f4d17fbee490a864d332a52fbc402a1b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kujavija: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad lietuviai įsiveržė į Kujavijos žemes.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 606237-606479; hash=850ac9efc9557b51efe7276c2d17b3c9c004d68cf1e943f9399a9a46a7e7b071; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kujavija: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad lietuviai įsiveržė į Kujavijos žemes.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] puole Sandomierius

@@ -85,18 +85,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bd8c8757b21eb21f1ef0a2f550a597bd7621bda7ed80569b18a7aedd6586e366; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Vytenio užimta Karkuso pilis (1298 m.): 0.65
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vytenio užimta Karkuso pilis (1298 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Tekstas tiesiogiai mini Vytenio Karkuso pilies užėmimą, bet atskiro Karkuso objekto kandidatuose nėra.
 
 ## Ryšiai
 - [[objektai/asmenys/Vytenis]] uzeme Vytenio užimta Karkuso pilis (1298 m.)

@@ -60,18 +60,10 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 606138-606823; hash=3551af8edc11c4a9ca57312cbd7b095c285310941c3fdf6230b83bdfb7da2069; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Marienburgas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Heinemanas (Marienburgo brolis): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Heinemanas gyveno Marienburgo pilyje.
 
 ## Ryšiai
 - Heinemanas (Marienburgo brolis) gyveno [[objektai/vietos/Marienburgas]]

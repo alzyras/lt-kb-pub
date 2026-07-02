@@ -27,7 +27,7 @@ Dusburgietis teigia, kad kazlauskas J.
   global_id: t-61097
   teiginys: 'J. Kazlausko straipsnis „Prūsai ir jų raštai“ paskelbtas 1967 m. žurnalo „Pergalė“ ketvirtame numeryje.'
   sudarymo_pagrindimas: 'Citata pagrindžia straipsnio autorių, pavadinimą, leidinį, metus ir numerį.'
-  susije_objektai: 'mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   temporaliniai_duomenys: 'įvykio data: 1967 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia straipsnio autorių, pavadinimą, leidinį, metus ir numerį.'
@@ -38,7 +38,7 @@ Dusburgietis teigia, kad kazlauskas J.
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Prūsai: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Kazlauskas J. Prūsai ir jų raštai: owner_note_path, source, gap=0
   ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=25
@@ -54,15 +54,7 @@ Dusburgietis teigia, kad kazlauskas J.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 778831-778900; hash=d5d6b9f8c38fa9946270d3aaecf5189f205b7cef89db32b59bb1fcc67d87c015; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazlauskas J. Prūsai ir jų raštai: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazlauskas J. Prūsai ir jų raštai" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

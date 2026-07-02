@@ -46,18 +46,10 @@ Joną Algimantaitį (Alšėniškį)^3 ).
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 696786-696918; hash=a0874a10ff12af7a119e3c19f258a8d1953f045e29b9eac9d7848182e510a18c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Kijevas: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas Algimantaitis (Alšėniškis): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vietininko paskyrimas Kijeve tiesiogiai rodo jo valdžios funkciją tame mieste.
 
 ## Ryšiai
 - Jonas Algimantaitis (Alšėniškis) valde_miesta [[objektai/vietos/Kijevas]]

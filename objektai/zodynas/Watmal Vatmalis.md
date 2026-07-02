@@ -50,15 +50,7 @@ Dusburgietis teigia, kad jis buvo pramintas Vatmaliu nuo vilnonių drabužių, v
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 363010-363345; hash=86e8cd4da7f6ac4bf750c128eb50c20e4b4583ab9d0e0e97bef2e90328e8a2a1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Prūsija: 0.63
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hartmanas iš Grumbacho: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Hartmanas įvardytas Prūsijos žemės magistru, todėl ryšys su valdymu yra tiesiogiai numanomas iš pareigų.

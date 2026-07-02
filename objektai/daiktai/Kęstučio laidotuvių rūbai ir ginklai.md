@@ -96,15 +96,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 108315-109446; hash=f0b2037a20bb555b6be6b7f317d702e4d5e8fc9c473550408ce0570a65b80a91; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Vilnius: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Kęstučio laidotuves Vilniuje; tai pakankamai pagrindžia palaidojimo ar laidojimo vietos ryšį.

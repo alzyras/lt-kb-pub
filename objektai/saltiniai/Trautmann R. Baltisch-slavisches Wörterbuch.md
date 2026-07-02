@@ -46,8 +46,7 @@ Dusburgietis teigia, kad trautmann R.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 800320-800382; hash=0878595bf48b09cc0986c329620b6a2d8a99cd9a39c32a340dadf7d5fdaadbdb; match=exact
-  sprendimo_priezastis: auto

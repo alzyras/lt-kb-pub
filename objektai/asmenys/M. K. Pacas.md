@@ -63,18 +63,10 @@ M. K. Pacas žuvo 1665 metais prie Mogiliavo, kai miestą buvo apgulę lauko etm
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=186b289a37eaa387edcb8c0777143c7b5276b28b2aac302863f9ed1db76fee90; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Mogiliavas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: M. K. Pacas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mogiliavas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sieja M. K. Paco karius su Mogiliavo apgultimi.
 
 ## Ryšiai
 - M. K. Pacas apgule [[objektai/vietos/Mogiliavas]]

@@ -50,8 +50,7 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, suėmimą ir turtų iššva
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f5c43af674243791c29f4d26421af1e08974d17b750771a6e03a077bd7280b3a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

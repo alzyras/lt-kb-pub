@@ -37,8 +37,7 @@ Jonas Kraucevičius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 829555-829614; hash=5172b24c8287efadf44721299f94bbce71022780aac19d22592eced8a82caaf7; match=exact
-  sprendimo_priezastis: auto

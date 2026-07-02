@@ -67,18 +67,10 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 698099-698773; hash=4645fd625cded60e05c79b29c0c50b212f3fce370c72de716856a956bf1872d5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Adomas (auksakalys): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Toledas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Adomas (auksakalys): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Toledas" parinktas kaip owner_note_path. Targetas "Adomas (auksakalys)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
 - Toledas priklause [[objektai/vietos/Ispanija]]

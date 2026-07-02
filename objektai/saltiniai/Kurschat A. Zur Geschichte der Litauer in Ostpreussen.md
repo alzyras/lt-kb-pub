@@ -29,7 +29,7 @@ Dusburgietis teigia, kad kurschat A.
   global_id: t-61112
   teiginys: 'A. Kurschato „Zur Geschichte der Litauer in Ostpreussen“ paskelbta 1893 m. Heidelberge, „Mitteilungen der Litauischen litterarischen Gesellschaft“ 18 sąsiuvinyje.'
   sudarymo_pagrindimas: 'Citata pateikia bibliografinį įrašo faktą, o pradinis teiginys neturi predikato.'
-  susije_objektai: 'mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   temporaliniai_duomenys: 'įvykio data: 1893 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį įrašo faktą, o pradinis teiginys neturi predikato.'
@@ -40,7 +40,7 @@ Dusburgietis teigia, kad kurschat A.
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Prūsai: 0.83
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Kurschat A. Zur Geschichte der Litauer in Ostpreussen: owner_note_path, source, gap=0
   ryšio_targeto_parinkimas: Prūsai: mention_match, place
@@ -58,15 +58,7 @@ Dusburgietis teigia, kad kurschat A.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a210649bb6a41c4256fcc4d60eb69a2a9b66bf431659a75f99af74a9dadae5d7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kurschat A. Zur Geschichte der Litauer in Ostpreussen: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kurschat A. Zur Geschichte der Litauer in Ostpreussen" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

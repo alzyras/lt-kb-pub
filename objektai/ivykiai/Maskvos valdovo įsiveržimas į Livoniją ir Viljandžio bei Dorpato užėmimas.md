@@ -96,6 +96,9 @@ Nenurodyta
     Augustas pirmas neužimtų šio krašto.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -114,26 +117,9 @@ Nenurodyta
     kų kolegiją.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1246565-1247289; hash=c713d8b8c2b022e231530fcf2c8b80d8f27b61b0dd6f6d2d56f717a27aaa5917; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Livonija: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ivanas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Ivano įsiveržimą į Livoniją.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1247390-1247761; hash=b69fb1503738c0654262bac87d7ba30f36aba107fcedad505bfd1b27910dc862; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Dorpatas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dorpatas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Dorpatą tarp maskvėnų užimtų vietų.

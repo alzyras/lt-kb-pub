@@ -124,20 +124,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 88552-89066; hash=2b3252ec669d75d08ac948f1eb49641a74bcbaecf060ab93b3d57f4dc5665ba3; match=whitespace_regex
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vinrichas Kniprodė: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Vinricho Kniprodės karinį įsiveržimą į Lietuvą.
     - t-002
-
 - c-002
   santrauka: 'Keturių Butauto tarnų perbėgimas į Vilnių suardė Vinricho Kniprodės planus ir privertė jį nutraukti apgultį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -186,25 +177,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 88552-89066; hash=2b3252ec669d75d08ac948f1eb49641a74bcbaecf060ab93b3d57f4dc5665ba3; match=whitespace_regex
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vinrichas Kniprodė: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas aiškiai sako, kad Vinrichas Kniprodė su kariuomene įsiveržė į Lietuvą.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 89067-90448; hash=e0919009750d0afb7f9414ba87dba3e2047314c344c9da6872bff5a41591efda; match=ocr_normalized_gapped
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=2
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

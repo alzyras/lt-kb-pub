@@ -89,7 +89,7 @@ Nenurodyta
   global_id: t-66807
   teiginys: 'Čekijos karalius su kariuomene įsiveržė į Sembą prie Medenavos, degino vietovę, ėmė žmones į nelaisvę ir juos žudė.'
   sudarymo_pagrindimas: 'Citata tiesiogiai remia puolimą, bet pradinė formuluotė turi nereikalingą atribuciją ir šaltinio fragmentų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Medenava; mentioned_place: Semba; mentioned_place: Prūsai; mentioned_place: Rudava; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Medenava; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Rudava; mentioned_place: Čekija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -162,9 +162,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
 - c-002
   santrauka: 'Po kariuomenės susitaikymo Čekijos karalius nuvedė ją iki Baigos pilies, kur broliai surado Sembos karių galią žinojusį Gedūną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -183,19 +184,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 346112-348699; hash=666a87226860c0126b80d91f8c0d9dadfe1541d2b57a7de690848ebd9b2650bc; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medenava: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Medenava: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)" parinktas kaip owner_note_path. Targetas "Medenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
-
 - c-003
   santrauka: 'Čekijos karalius su kariuomene įsiveržė į Sembą prie Medenavos, degino vietovę, ėmė žmones į nelaisvę ir juos žudė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -237,19 +229,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 348700-349105; hash=e901adb725ebc44434a4b961ccf27fec1540659b75181e37a20f5fec2f7e29f0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Čekija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Čekija: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)" parinktas kaip owner_note_path. Targetas "Čekija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
-
 - c-004
   santrauka: 'Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -263,19 +246,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9c974b2ddcaee997854033ec1e54c091f66e964e560f234f70080b27edda5d37; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-
 - c-005
   santrauka: 'Otokaras II, Otonas Brandenburgietis, vyskupai ir kiti kilmingieji dalyvavo žygyje sembams pavergti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -293,28 +267,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 172864-173293; hash=260a76c0cf196eba93dcd227cec047fe0f94932613282c0ded863f5b7d38e5a9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.): 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai paminėti kaip puolimo dalyviai.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 343014-343685; hash=e006847e5d0cfa349b4736498f579c2b1e0b49deffd4dd100aad1485edd494de; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sembai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Sembai: mention_match, group, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)" parinktas kaip owner_note_path. Targetas "Sembai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)

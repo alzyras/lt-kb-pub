@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 18.
+Objektų skaičius: 17.
 
 ## Kaip naudoti
 
@@ -31,7 +31,6 @@ Objektų skaičius: 18.
 - [[objektai/autoriai/M. Szameitat]]
 - [[objektai/autoriai/P. Rėklaitis]]
 - [[objektai/autoriai/S. Baltramaitis]]
-- [[objektai/autoriai/Vėlius N]]
 
 ### Žodynas
 - [[objektai/zodynas/bibliografijos tąsa]]

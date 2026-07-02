@@ -100,6 +100,9 @@ Nenurodyta
     gultųjų padėtis darėsi visai beviltiška.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -118,29 +121,12 @@ Nenurodyta
     siaubė kryžiuočių žemes.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 330198-330751; hash=848989981fec65ca073cbeef7bc603ddc900638c802e63d2914a157478eceaa7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.): 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Kryžiuočių kariai tiesiogiai nuvesti pulti Christmemelio pilies; konkretaus pilies objekto kandidatuose nėra, todėl siejama su įvykiu.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 330947-331342; hash=af0c05918feaeb8a1fd6a631be448c9aef0c22b2163a8feed08345b96ff0254e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Prūsija: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytenis kitais keliais pasuko į Prūsiją keršto žygiui.
 
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] puole Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)

@@ -77,9 +77,10 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Vokietijos ir Lenkijos karo metu Šaulių sąjunga kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -92,28 +93,10 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6f58a36e10bb64d80db741656db6a78f2820d68458b5ea9a0b1e93cacba19e23; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Jaunieji tautininkai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šaulių sąjunga: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Jaunieji tautininkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Abi grupės citatoje veikia kartu tame pačiame politiniame raginime.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 369858-370222; hash=22a99ca604907ce5b95a996511958979f30411348873c89775eb16ebbbddd2d0; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Jaunieji tautininkai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šaulių sąjunga: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Jaunieji tautininkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Šaulių sąjunga ir jaunieji tautininkai nurodyti kartu kaip vienodai veikę tame pačiame raginime.
 
 ## Ryšiai
 - [[objektai/grupes/Voldemarininkai]] buvo_sajungininkas_su Šaulių sąjunga

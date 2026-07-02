@@ -71,9 +71,10 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -83,9 +84,10 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -99,9 +101,10 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   citata_rodoma: ''
   teiginio_tipas: interpretacija
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -110,8 +113,9 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     giellonów,_ I, 1930, 11-51 p. — Kutrzeba, St.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -122,7 +126,6 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     Wł. Semkowicz ir kt. straipsniais). — Kryczyński, St.: _Tatarzy litewscy.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 8698-8847; hash=a162c31893a315a67af29cbccf08ef1a6abd8206b66ecda35c9fe77846c6a6fa; match=exact
-  sprendimo_priezastis: auto

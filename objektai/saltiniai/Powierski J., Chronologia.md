@@ -53,8 +53,7 @@ Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyt
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 525107-525321; hash=044d22276408f2bf5849ae303d6d3658ee9653f716f1cdf4f086f8e8402419bc; match=exact
-  sprendimo_priezastis: auto

@@ -78,19 +78,12 @@ Nenurodyta
     grobiu buvo išgabentos į Karaliaučių.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 272140-272708; hash=2ceab6dcabeffbab609f9732b4472c85d2ed715977516a29a31f2a007bd3b62d; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Pelužio antpuolis per Lietuvos didikų puotą (1286 m.): 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pelužis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pelužio antpuolis per Lietuvos didikų puotą (1286 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Įvykis tiesiogiai įvardytas kaip Pelužio antpuolis.
 
 ## Ryšiai
 - [[objektai/asmenys/Pelužis]] puole Pelužio antpuolis per Lietuvos didikų puotą (1286 m.)

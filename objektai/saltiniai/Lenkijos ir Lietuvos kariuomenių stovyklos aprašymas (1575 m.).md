@@ -90,16 +90,8 @@ Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=dbd96b91edbff9c2202e858ba1bf06341f0f3d92895a2bf7b470bc4c52818d6e; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
-  ryšio_patikimumas: susije_su -> Girolamo Lippomano: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Girolamo Lippomano: mention_match, author, gap=87
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)" parinktas kaip owner_note_path. Targetas "Girolamo Lippomano" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

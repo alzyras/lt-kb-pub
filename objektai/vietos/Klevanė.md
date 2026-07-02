@@ -72,9 +72,10 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Voluinėje Čartoriskiai sukūrė tėvoniją Klevanėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -95,28 +96,10 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c9302fe593d57dc48e2a927d98afd8fc86ec89ce6dd12878cb373b4fcd14a15e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Klevanė: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Čartoriskiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Klevanė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tėvonijos sukūrimas Klevanėje rodo Čartoriskių valdomą teritorinę atramą, nors santykis išreikštas netiesiogiai.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b2b71025f4ae7a5478bbe67d16681ba03846bf2a0861550b621e85ff24acdac3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Klevanė: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Čartoriskiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Klevanė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje Čartoriskiai siejami su Klevane kaip tėvonijos vieta.
 
 ## Ryšiai
 - [[objektai/grupes/Čartoriskiai]] valde_teritorija Klevanė

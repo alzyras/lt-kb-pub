@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-59705
   teiginys: 'Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.'
   sudarymo_pagrindimas: 'Pradinė formuluotė per ilga, su neaiškiais įvardžiais ir nutrūkusia pabaiga.'
-  susije_objektai: 'llm_object: Kaimas; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Kaimas; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Viena; llm_object: Sūduva'
+  susije_objektai: 'llm_object: Kaimas; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Kaimas; mentioned_place: Prūsų žemė; mentioned_place: Sūduva; mentioned_place: Viena; llm_object: Sūduva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -76,6 +76,9 @@ Nenurodyta
     grobiu bei šių netikėlių ginklais ir kitais daiktais.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -94,26 +97,9 @@ Nenurodyta
     kiti išbėgiojo palikę visus turimus ginklus bei visą maistą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 515861-516794; hash=d531f07dd26661bd7d783bb757abf22099ee5eb48843e96a3df07183c768f2e6; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Kaimas: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Martynas iš Golino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kaimas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Martynas užgrobė kaimą.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 515608-516275; hash=022b22cc1e283e9f8f1f21db98d94916e002c002d35d04708db1cc312c7558d2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Kaimas: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Martynas iš Golino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kaimas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Martynas užgrobė kaimą.

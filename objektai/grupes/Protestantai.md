@@ -97,9 +97,10 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Protestantų mokyklas steigė protestantų didikai, o kai kur ir miestiečiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -114,14 +115,10 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b8a7978759ebed469b1260e947d22c7ccacd31a2ebad5996fdab0fed6fbc6ab4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 695213-695421; hash=6a52b7d41b5d6ae6b47894e70088a0663c1b82aa81248ee88b3b812f16c3d62b; match=exact
-  sprendimo_priezastis: auto
 
 ## Ryšiai
 - [[objektai/grupes/Katalikų Bažnyčia]] buvo_priesas Protestantai

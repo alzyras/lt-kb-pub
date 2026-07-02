@@ -27,7 +27,7 @@ Dusburgietis teigia, kad wiliński K.
   global_id: t-61368
   teiginys: 'K. Wilińskio straipsnis apie lenkų ir prūsų kovas X-XIII a. paskelbtas 1984 m. Lodzės universiteto istorijos leidinyje.'
   sudarymo_pagrindimas: 'Citata pagrindžia autorių, temą, leidinį, vietą ir metus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsų žemė'
   temporaliniai_duomenys: 'įvykio data: 1984 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, temą, leidinį, vietą ir metus.'
@@ -55,15 +55,7 @@ Dusburgietis teigia, kad wiliński K.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 819044-819148; hash=8671ccafa94e1315823ab10391c424d72e1a1b208b2a67c6f8158bf77336aad2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Wiliński K. Walki polsko-pruskie w X—XIII w: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Wiliński K. Walki polsko-pruskie w X—XIII w" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

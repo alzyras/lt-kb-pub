@@ -48,18 +48,10 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 815582-815754; hash=277fb32a143d5ecd04764f7f4a9e7eeb47cdf2488e77312d0e8f70b32077a8f5; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lenkai: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šidiškis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Šidiškis kartu su Cipkevičiumi prašė leidimo pulti lenkus; veiksmas nurodytas kaip ketinimas.
 
 ## Ryšiai
 - Cipkevičius puole [[objektai/grupes/Lenkai]]

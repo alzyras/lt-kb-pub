@@ -66,15 +66,7 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 146519-147456; hash=a779f3f4a599111cfce879be66fce126039fd8499340e13f036d47de1336b778; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Teutonai: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Grigalius IX: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Popiežius patvirtino susitarimą su Teutonų ordino broliais ir ragino juos kovai, todėl palaikymo ryšys pagrįstas.

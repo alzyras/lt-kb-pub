@@ -132,40 +132,12 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5f96adbdbe1d5e0b77791124cdce0de10da29ff5fd9447a4b35a79c97249aa57; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Sirija: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Sirija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai mini totorių-mongolų žygius prieš Siriją.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5f96adbdbe1d5e0b77791124cdce0de10da29ff5fd9447a4b35a79c97249aa57; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Sirija: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Sirija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo totorių žygius prieš Siriją.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5f96adbdbe1d5e0b77791124cdce0de10da29ff5fd9447a4b35a79c97249aa57; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Sirija: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Sirija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo totorių žygius prieš Siriją.
 
 ## Ryšiai
 - [[objektai/grupes/Totoriai]] surenge_zygi_i Sirija

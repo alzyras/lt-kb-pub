@@ -59,18 +59,10 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4d4dd76906617eae5566669197dc8c56474cfe3294d469b974d1ca2f1c3ef041; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Danuta: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mozūrijos kunigaikštis Jonušas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Danuta: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Jonušas vedė Danutą.
 
 ## Ryšiai
 - Mozūrijos kunigaikštis Jonušas vede [[objektai/asmenys/Danuta]]

@@ -42,8 +42,7 @@ Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 910604-910871; hash=00fd30dad1701345fa0a07ac64a4f1c1cb4cc543595bb5cf652c5d443f914faa; match=exact
-  sprendimo_priezastis: auto

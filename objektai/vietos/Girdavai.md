@@ -75,9 +75,10 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Girdavas Bartos žemėje turėjo pilį, nuo jo vardo pavadintą Girdavais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -93,21 +94,10 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 403562-403697; hash=582b2008c3ef47c7174cf334afef6604a1946858f09e90e66aff0bbd2945c579; match=exact
-  sprendimo_priezastis: auto
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=965a192702f9702f4bcbf9f2dccaba33f98ce30083e222324426db221b98e65b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Barta: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Girdavai: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Barta: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Girdavų pilis lokalizuota Bartos žemėje, todėl ryšys interpretuojamas kaip priklausymas teritorijai.
 
 ## Ryšiai
 - [[objektai/asmenys/Henrikas iš Izenbergo]] pastate Girdavai

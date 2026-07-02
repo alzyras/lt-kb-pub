@@ -73,18 +73,10 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bb9d2ade3f0a7e704a8586f1f7107a60bd7d064f9f911a5e1c5ed6def65699d4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Kijevo Rusia: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kijevo Rusia: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai įvardija Jaroslavą Kijevo Rusios valdovu.
 
 ## Ryšiai
 - Jaroslavas surenge_zygi_i [[objektai/vietos/Lietuva]]

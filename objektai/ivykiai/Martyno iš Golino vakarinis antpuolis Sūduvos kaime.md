@@ -70,27 +70,10 @@ Nenurodyta
                          200 (195).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Sūduva: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Martynas iš Golino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sūduva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Martynas užpuolė kaimą Sūduvos žemėje; objektas suvedamas į Sūduvą, nes konkretaus kaimo kandidato nėra.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Sūduva: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Martynas iš Golino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sūduva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Martynas užpuolė kaimą Sūduvos žemėje; objektas suvedamas į Sūduvą, nes konkretaus kaimo kandidato nėra.

@@ -99,18 +99,10 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 228092-229548; hash=63933eec68aa6d4f267e517b699298c36c6f1f051f90aae44ad5165d47ae6fdc; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Raudonė: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kiršenšteinai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Raudonė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kiršenšteinų giminė kelis šimtmečius valdė Raudonės pilį.
 
 ## Ryšiai
 - Kiršenšteinai valde [[objektai/vietos/Raudonė]]

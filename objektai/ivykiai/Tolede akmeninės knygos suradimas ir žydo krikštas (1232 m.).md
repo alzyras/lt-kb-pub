@@ -79,15 +79,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 698099-698773; hash=4645fd625cded60e05c79b29c0c50b212f3fce370c72de716856a956bf1872d5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Toledas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Toledas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.)" parinktas kaip owner_note_path. Targetas "Toledas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

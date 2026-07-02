@@ -47,8 +47,7 @@ Dusburgietis teigia, kad tautavičius A.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 799491-799558; hash=f79d46f01a3d8002099581343902057526219109382d6c4ffe54972e5461c2bb; match=exact
-  sprendimo_priezastis: auto

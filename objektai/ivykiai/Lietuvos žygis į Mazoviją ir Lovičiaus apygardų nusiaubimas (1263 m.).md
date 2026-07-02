@@ -78,16 +78,9 @@ Nenurodyta
     ju.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 179120-179599; hash=6271e6f035a600fec87e6e1a30e903f0440ef540e4c7d28a7f36559ac763929d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lovičius: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lovičius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje Mindaugo kariuomenė siejama su Lovičiaus apygardų nusiaubimu.

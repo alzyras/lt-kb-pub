@@ -29,4 +29,6 @@ Dusburgietis teigia, kad apie vieną stebuklą Šioje kariuomenėje buvo vienas 
     Jeigu nepasitrauksi, žinok, kad netrukus susilauksi nelaimingos mirties”.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified

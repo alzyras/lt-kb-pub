@@ -88,18 +88,10 @@ periodo_grupes:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6e23d8f2dcd723181766ef5400683bdd8cce437f63e38f9dfdbc4fd519b1996d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Cvinglis: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Cvinglis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Palaikytas mokslas tiesiogiai siejamas ir su Cvingliu.
     - t-001
 
 ## Ryšiai

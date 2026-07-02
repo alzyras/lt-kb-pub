@@ -51,8 +51,7 @@ IL 4U 326 ## Puslapis 343 IV KNYGA tautoms, kurios paprastai patenka jų globai,
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 639461-639800; hash=b46470533976ce440e44e53f91298f33e1f1284b66722dc66fec796e1b49fa46; match=whitespace_regex
-  sprendimo_priezastis: auto

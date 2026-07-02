@@ -110,29 +110,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 232629-233205; hash=64d32c3c316031b445cd1858908db0b23a49155692b4da0b105d5a75292f4068; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kražiai: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kražiai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo kazokų puolimą Kražiuose.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 232629-233205; hash=64d32c3c316031b445cd1858908db0b23a49155692b4da0b105d5a75292f4068; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kražiai: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kražiai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kazokai šturmavo Kražių bažnyčią.
 
 ## Ryšiai
 - [[objektai/grupes/Kazokai]] dalyvavo_musyje Kražių įvykiai

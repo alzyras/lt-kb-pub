@@ -46,8 +46,7 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ccdffeac314cffe07d8fdbe7dd448f34539e0378bd00c548d52629a2247496e8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

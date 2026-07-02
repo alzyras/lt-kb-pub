@@ -75,18 +75,10 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=31147ad856378d84d2e1aa7af46149bab7d1822555dcaed50cc31d48756e3044; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Ryga: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Baltramiejus (Aleto vyskupas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Baltramiejaus atvykimą į Rygą kaip vieno iš dviejų legatų.
 
 ## Ryšiai
 - Baltramiejus (Aleto vyskupas) keliavo_i [[objektai/vietos/Ryga]]

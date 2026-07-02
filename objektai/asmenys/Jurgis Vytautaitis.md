@@ -69,18 +69,10 @@ Kare su švedais Naugardui padėjo Pskovas, kur buvo lietuvių vietininkas Jurgi
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 146044-146400; hash=02d6cb265b96de22267f91f222eda9a55acdb2f76cc4b0180bb1faccb4334ecb; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Pskovas: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurgis Vytautaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Jurgis Vytautaitis įvardytas lietuvių vietininku Pskove, todėl galima sieti jį su miesto valdymu.
 
 ## Ryšiai
 - Jurgis Vytautaitis valde_miesta [[objektai/vietos/Pskovas]]

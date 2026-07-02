@@ -154,9 +154,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -168,12 +169,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 390557-391224; hash=8181aaf90e051fcd16fb9bb15e5fd1f5c509576e3d050dbbc522fc398d8ace49; match=whitespace_regex
-  sprendimo_priezastis: gap::items
     - t-003
-
 - c-003
   santrauka: '1780 m. vaistinė kelių vaistininkų dėka buvo išsiplėtusi ir pasiekusi klestintį būvį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -199,13 +198,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 392872-393148; hash=306daf91536960187edbe796172cba1781ff39c7bb153227ccaa64f477eab120; match=whitespace_regex
-  sprendimo_priezastis: gap::items
     - t-005
     - t-002
-
 - c-004
   santrauka: 'Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -235,12 +232,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 390649-391594; hash=ed7add2ecff483487a2cac3380a7990153f416cf02c715c265bc626c1310268f; match=whitespace_regex
-  sprendimo_priezastis: gap::items
     - t-006
-
 - c-005
   santrauka: 'Didžioji iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -261,8 +256,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 390649-391594; hash=ed7add2ecff483487a2cac3380a7990153f416cf02c715c265bc626c1310268f; match=whitespace_regex
-  sprendimo_priezastis: gap::items

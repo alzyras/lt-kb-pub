@@ -109,9 +109,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -130,25 +131,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 395715-396422; hash=b4676b4a1a1ce346ca70e368c95b0384cc354a6296e5ff184293846422305375; match=whitespace_regex
-  sprendimo_priezastis: gap::items
-  ryšio_patikimumas: susije_su -> Duona: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Akademijos observatorijos prietaisai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Duona: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akademijos observatorijos prietaisai" parinktas kaip owner_note_path. Targetas "Duona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2594e217468a6141142f105f39c6d698d5b0d52aef1e691628c545e280661b35; match=fallback; occurrences=0
-  sprendimo_priezastis: gap::items
-  ryšio_patikimumas: susije_su -> Akademijos aikštė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Akademijos observatorijos prietaisai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Akademijos aikštė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akademijos observatorijos prietaisai" parinktas kaip owner_note_path. Targetas "Akademijos aikštė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

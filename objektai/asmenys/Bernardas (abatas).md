@@ -66,18 +66,10 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f7768b33ad985c4622de79cd1f3f17b5cdefa3582fe04564ac7bce73ffff6226; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Avinjonas: 0.64
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bernardas (abatas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Avinjonas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Frazė nurodo kelionės kilmę iš Avinjono, bet allowed relation turi kryptį į vietą, todėl ryšys nėra idealus.
 
 ## Ryšiai
 - Bernardas (abatas) keliavo_i [[objektai/vietos/Avinjonas]]

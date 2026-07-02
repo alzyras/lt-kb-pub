@@ -97,29 +97,11 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=07f6c576a85895871a04e8c491abf3d6e0f9c8c9c36fe4d3c169494faf6db975; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Chosrovas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Heraklijus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Chosrovas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Heraklijaus karą prieš Chosrovą.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=07f6c576a85895871a04e8c491abf3d6e0f9c8c9c36fe4d3c169494faf6db975; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Chosrovas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Heraklijus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Chosrovas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Heraklijaus karą prieš Chosrovą.
 
 ## Ryšiai
 - Heraklijus kariavo_pries [[objektai/asmenys/Chosrovas]]

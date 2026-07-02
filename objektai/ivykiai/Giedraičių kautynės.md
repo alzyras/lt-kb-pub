@@ -89,18 +89,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 868528-868967; hash=57de510eb5e146d2cafe86d9debb2d20f4e87b4d41ef2ab67819adc1bdff7630; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Giedraičių kautynės: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Giedraičių kautynės: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Nuostolių nurodymas prie Giedraičių tiesiogiai rodo lietuvių dalyvavimą kautynėse.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] dalyvavo_musyje Giedraičių kautynės

@@ -65,18 +65,10 @@ Po susitikimo Paryžiuje su Lenkijos užsienio reikalų ministru Augustu Zaleski
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a48392c0f1d3b6410772d015496da94ce355e46ceed12a0bffa2dbe1772e3750; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Paryžius: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Augustas Zaleskis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Paryžius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Zaleskis dalyvavo susitikime Paryžiuje, todėl vietos ryšys pagrįstas.
 
 ## Ryšiai
 - Augustas Zaleskis keliavo_i [[objektai/vietos/Paryžius]]

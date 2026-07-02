@@ -55,15 +55,7 @@ Dusburgietis teigia, kad vanagas A.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 801697-801805; hash=622714ec5bee085bd2d27aaf573c3e3cee6f1a2e75a43e4b26a30d999db10089; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Būgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vanagas A. K. Būga — lietuvių onomastikos pradininkas: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Būgas: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vanagas A. K. Būga — lietuvių onomastikos pradininkas" parinktas kaip owner_note_path. Targetas "Būgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

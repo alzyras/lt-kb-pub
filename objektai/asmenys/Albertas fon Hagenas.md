@@ -55,19 +55,12 @@ Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį b
     regėta audra.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 314133-314628; hash=0887eabfb6cd43d0933024f3bbf92af532b8871ea25b79c3bb5b0771289be194; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Gardinas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Albertas fon Hagenas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Konradas įsakė Albertui Hagenui užpulti Gardino pilį ir miestą, todėl tiesiogiai pagrįstas puolimo ryšys į Gardiną.
 
 ## Ryšiai
 - Albertas fon Hagenas puole [[objektai/vietos/Gardinas]]

@@ -31,6 +31,8 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Mamoničių giminė.md#claim-t-86746|Mamoničių giminė]]: Mamoničių namai, anot citatos, veikiausiai stovėjo ten, kur vėliau buvo Sledzinskio namai Nr. 203.
+- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188015|Bazilijonų ordinas]]: Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.
+- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188016|Bazilijonų ordinas]]: Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,5 +48,7 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001

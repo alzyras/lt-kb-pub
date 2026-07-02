@@ -61,15 +61,7 @@ Dusburgietis teigia, kad 1-os pusės dokumentuose vadinama Rommowe, Romaynis; te
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 210933-211291; hash=bc5bb7523e0019e7c4f0340d7d184ecb087fd2723608d32e30816c971806e13e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Semba: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Romehnen: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai lokalizuoja Romehnen Semboje.

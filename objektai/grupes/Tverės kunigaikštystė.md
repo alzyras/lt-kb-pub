@@ -59,18 +59,10 @@ Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo (Aleksandro sūnau
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=387c5c1e388af5fd46aa826effc980e1653c39ecdaf8375a4e1174651351dcec; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Tverės kunigaikštystė: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tverės kunigaikštystė: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Algirdas tiesiogiai ginė Tverės kunigaikščio Mykolo teises; objektas apibendrintas į Tverės kunigaikštystę, nes Mykolo kandidato nėra.
 
 ## Ryšiai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] gyne Tverės kunigaikštystė

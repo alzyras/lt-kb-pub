@@ -51,8 +51,7 @@ Weise : Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Eu
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=20eb1272804f70a8dd8b1a6ad01f55fe63986dbb9666f2183e1f7d5b1bc91f6c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

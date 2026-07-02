@@ -74,9 +74,10 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -89,28 +90,10 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1d3787dfab498716d260c033a75911c6a7fc58bc131ff0b2807385fcf5730b9d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Karšuva: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Putvė: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Putvė buvo Karšuvos srityje.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 610023-610465; hash=fb12a3f0088e4e2bf300004ccbe51063cc7d4e6258207e5ff1bbad292bb1a4dc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Putvė: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Putvė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata kalba apie Putvės pilies paėmimą kryžiuočių veiksmų kontekste.
 
 ## Ryšiai
 - Putvė priklause [[objektai/vietos/Karšuva]]

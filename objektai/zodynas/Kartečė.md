@@ -92,9 +92,10 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -109,16 +110,11 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=72e26683e19cee2f90cedf27722ba30968744052885e6d70fc7dddd3a30b8386; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 622944-623211; hash=06666d3cb8349977d3da8d58ffa2a914424f680f5ebd195d040342d547f1593b; match=whitespace_regex
-  sprendimo_priezastis: auto
     - t-005
-
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -142,12 +138,10 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f076b348bc969a151ec87a5d55a7c64c924bf04d395742e2fbfe635e7c2be61e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
-
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -161,8 +155,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4fa622d4a1e9cad482ec43595779f10660afef043e0349bac1d45a1b0f7567a1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-001

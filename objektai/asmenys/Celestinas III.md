@@ -88,9 +88,10 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Celestinas III Jeruzalėje įkūrė ir pašventino Šv. Marijos Teutonų ordino vienuolių ligoninę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -106,28 +107,10 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e89ca5c0d803544e3cca59a576fee7330eee3b5a20ce209c3919c935841cd262; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Jeruzalė: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Celestinas III: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jeruzalė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata teigia, kad Celestinas III Jeruzalėje įkūrė ligoninę; konkrečios ligoninės objekto nėra, todėl fiksuojama vieta.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 108711-109300; hash=86106ea03a5ed1aa0c7d12f7c82ca468b866b2a9e097a5b762409f618cb56d2f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Jeruzalė: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Celestinas III: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jeruzalė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai sieja Celestiną III su namų arba ligoninės įkūrimu Jeruzalėje.
 
 ## Ryšiai
 - Celestinas III pastate [[objektai/daiktai/Namas]]

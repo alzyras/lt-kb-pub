@@ -48,6 +48,3 @@ Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje, to
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5f8bfff7d44077539d3cc27a374f860c3c6f8aae313aceb9378321f98038bf9f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

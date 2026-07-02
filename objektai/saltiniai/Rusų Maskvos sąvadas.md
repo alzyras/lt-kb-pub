@@ -76,6 +76,9 @@ Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokieči
     voje su totoriais.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -96,26 +99,9 @@ Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokieči
     tuo metu kontroliuojamos Viznos apylinkes prie Narevo.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 215035-215479; hash=c5f2921530e6fb3345f81c31af93b5df3ba7e19405ec3bf4949bcd759d427aee; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Vizna: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vizna: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje teigiama, kad lietuviai atakavo kryžiuočių kontroliuojamas Viznos apylinkes.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 214880-215416; hash=02375191bad510f97836cd0cc41cbde0e38386d083491adc5fdc35330dbcf01b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Vizna: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vizna: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje nurodoma lietuvių ataka prieš kryžiuočių kontroliuojamas Viznos apylinkes.

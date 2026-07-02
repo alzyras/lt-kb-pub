@@ -117,31 +117,12 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 467787-468554; hash=2d9d9a6dc512d84b08c9423866998ea9defd2afc5605565233b4428a78ef1873; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Elbingo miestiečiai: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Elbingo miestiečiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Pagudėnai iš pasalos užkirto kelią miestiečiams, tai tiesioginis karinis puolimo veiksmas.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 467787-468554; hash=2d9d9a6dc512d84b08c9423866998ea9defd2afc5605565233b4428a78ef1873; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Pagudėnai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Elbingo miestiečiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Pagudėnai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Miestiečių persekiojimas ir nukovimas rodo tiesioginį karinį veiksmą prieš pagudėnų raitelius.
     - t-003
-
 - c-002
   santrauka: 'Pagudėnų persekiojami Elbingo miestiečiai pasitraukė į Liefardo malūną, kuris buvo įtvirtintas tarsi pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -153,28 +134,10 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 467787-468554; hash=2d9d9a6dc512d84b08c9423866998ea9defd2afc5605565233b4428a78ef1873; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Elbingo miestiečiai: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Elbingo miestiečiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys tiesiogiai apibūdina pagudėnų pasalos veiksmą prieš Elbingo miestiečius.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 467787-468554; hash=2d9d9a6dc512d84b08c9423866998ea9defd2afc5605565233b4428a78ef1873; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Pagudėnai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Elbingo miestiečiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Pagudėnai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Miestiečių persekiojimas ir nukovimas rodo tiesioginį karinį veiksmą prieš pagudėnų raitelius.
 
 ## Ryšiai
 - [[objektai/grupes/Pagudėnai]] puole Elbingo miestiečiai

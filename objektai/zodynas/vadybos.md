@@ -54,15 +54,7 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=68772b9c458b46a8897f64ef77f956f40f8f2aec063ab90f2ccdc64682793c15; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.68
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Nacių okupacijos metais vokiečių valdžia veikė Lietuvoje ir skyrė administracijos vadovus, todėl rodomas valdymo santykis.

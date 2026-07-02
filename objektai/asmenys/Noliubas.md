@@ -83,9 +83,10 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -99,25 +100,11 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8eb2a1d9d8bcde23a8ddef675f1f995a1431def2c7fb4c12a9c92c4eec7c3f74; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kvedenava: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Noliubas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kvedenava: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Noliubas" parinktas kaip owner_note_path. Targetas "Kvedenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 389207-389680; hash=8bc5aeffc64b7196cc9ce18fa095a1c9f005cf8cc57ac2c8646faacd9260a8ed; match=exact
-  sprendimo_priezastis: auto
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 389207-389680; hash=8bc5aeffc64b7196cc9ce18fa095a1c9f005cf8cc57ac2c8646faacd9260a8ed; match=exact
-  sprendimo_priezastis: auto
 
 ## Ryšiai
 - Noliubas buvo_sunus [[objektai/asmenys/Sklodas iš Kvedenavos]]

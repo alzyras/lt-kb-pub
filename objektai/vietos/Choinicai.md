@@ -62,8 +62,7 @@ Choinicams kritus, popiežiaus pasiuntinys Rudolfas pasistengė, kad būtų suda
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 909545-910038; hash=dea42209758c796568ad2b2cdd2fd456c2ce809eb9c5c64a3c0da0e56ebc191c; match=exact
-  sprendimo_priezastis: auto

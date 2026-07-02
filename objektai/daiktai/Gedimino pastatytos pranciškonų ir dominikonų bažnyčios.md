@@ -84,18 +84,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 149631-150520; hash=f3e36cc25177b11f2ccbf6754a82001d59728d53eeb0b896fa1222e29902bef8; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Gedimino pastatytos pranciškonų ir dominikonų bažnyčios: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Gedimino pastatytos pranciškonų ir dominikonų bažnyčios: llm_allowed_candidate, thing
-  ryšio_paaiskinimas: Citatoje Gediminas savo vardu nurodo pastatęs bažnyčias.
 
 ## Ryšiai
 - [[objektai/asmenys/Gediminas]] pastate Gedimino pastatytos pranciškonų ir dominikonų bažnyčios

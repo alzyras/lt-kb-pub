@@ -86,15 +86,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f1cccb3b1ba736973b9dffb28c69cf46426563763db5554f8ac4be14253d8363; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas Žemaitis-Vytautas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jonas Žemaitis-Vytautas: mention_match, person, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.)" parinktas kaip owner_note_path. Targetas "Jonas Žemaitis-Vytautas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

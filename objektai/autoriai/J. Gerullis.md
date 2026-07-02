@@ -48,8 +48,7 @@ Gerullis, J.: Zur Sprache der Sudauer-Jätwinger, Festschrift für Ad. Bezzenber
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f3811f282fd68c61ce76ea10dc2b69befb7b7d5ab78e4474309642a6af7ac66e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

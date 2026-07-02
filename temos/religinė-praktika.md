@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 6.
+Objektų skaičius: 11.
 
 ## Kaip naudoti
 
@@ -19,9 +19,14 @@ Objektų skaičius: 6.
 ## Susiję objektai
 
 ### Papročiai
+- [[objektai/paprociai/Amžinosios ugnies saugojimas ir ligonių likimo būrimas iš šešėlio]]
 - [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]
+- [[objektai/paprociai/Apeiginis vanduo iš šventųjų šaltinių ir šulinių]]
+- [[objektai/paprociai/Apidomės šaukimasis ir namo perkėlimas po blogo ženklo]]
 - [[objektai/paprociai/Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas]]
+- [[objektai/paprociai/Gabijos maldelė jaujoje džiovinant javus]]
 - [[objektai/paprociai/Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika]]
+- [[objektai/paprociai/Lados laikotarpio baltų gaidžių aukos, viešos puotos, šokiai ir dainos]]
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/paprociai/Specialių brolijų maldininkams globoti steigimas]]
 - [[objektai/paprociai/Šventųjų žalčių laikymas namuose]]

@@ -39,8 +39,7 @@ Dusburgietis teigia, kad 14 Mažiulis V.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4edfb583d5cbc225a64e8f49f25b1e30e8ee5f2d6dec0598fec83ec000086ea5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

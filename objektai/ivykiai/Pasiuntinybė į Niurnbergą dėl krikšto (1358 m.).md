@@ -57,7 +57,7 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   global_id: t-66817
   teiginys: '1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko.'
   sudarymo_pagrindimas: 'Reikia tiksliau įvardyti Niurnbergo seimą ir pašalinti neaiškų junginį.'
-  susije_objektai: 'mentioned_place: Niurnbergas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Niurnbergas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Prūsų žemė; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1358 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia tiksliau įvardyti Niurnbergo seimą ir pašalinti neaiškų junginį.'
@@ -81,9 +81,10 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -101,5 +102,7 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002

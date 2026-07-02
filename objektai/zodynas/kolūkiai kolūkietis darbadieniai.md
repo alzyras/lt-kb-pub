@@ -80,6 +80,9 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
     ėmė laistyti degtine.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
@@ -97,16 +100,10 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
     3/4 savo pajamų.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ec8946ce3f2ae6dfa607bcc4768264cb91d8c527cb8af906d6f51d33fa12729b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 439158-439601; hash=e683a3624f27c51177c37de011f3d3c553ee16f9f06f65b9da88086fda3288c4; match=whitespace_regex
-  sprendimo_priezastis: auto
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 439158-439601; hash=e683a3624f27c51177c37de011f3d3c553ee16f9f06f65b9da88086fda3288c4; match=whitespace_regex
-  sprendimo_priezastis: auto

@@ -62,18 +62,10 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=325fa4a45b83d0cdf459dd5ed099f3d4beecc97f85bb429d126971023d21e254; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Amerikos lietuvių taryba (institucija): 0.75
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pasaulio lietuvių bendruomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Amerikos lietuvių taryba (institucija): llm_allowed_candidate, group
-  ryšio_paaiskinimas: PLB ir ALT minimos tarp organizacijų, kurios siekė veikti išvien, todėl ryšys atitinka bendradarbiavimo ar sąjungininkystės prasmę.
 
 ## Ryšiai
 - Pasaulio lietuvių bendruomenė buvo_sajungininkas_su [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba (institucija)]]

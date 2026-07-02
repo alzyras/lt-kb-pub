@@ -33,7 +33,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   global_id: t-60188
   teiginys: '1266 m. Brandenburgo markgrafas Otonas su sūnumi ir broliu patraukė į Prūsiją tramdyti prūsų sukilimo.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Prūsija; mentioned_person: [[objektai/asmenys/Otonas|Otonas]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Vokietija; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_person: [[objektai/asmenys/Otonas|Otonas]]; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Vokietija; mentioned_place: Čekija'
   semantiniai_rysiai: '[[objektai/asmenys/Otonas (Brandenburgo markgrafas)|Otonas (Brandenburgo markgrafas)]] surengė žygį į Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1266 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
@@ -63,6 +63,8 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 

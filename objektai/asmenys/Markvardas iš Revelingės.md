@@ -61,18 +61,10 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=84bdcf4a9f311cf0b1f06d8499d32c8b02f0826ce9a566d967965fc11834c310; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Liudvikas iš Libencelės: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Markvardas iš Revelingės: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Liudvikas iš Libencelės: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Abu asmenys kartu vykdė tą patį puolimą, todėl sąjunginis veiksmas tiesiogiai pagrįstas.
 
 ## Ryšiai
 - Markvardas iš Revelingės puole [[objektai/grupes/Lietuviai]]

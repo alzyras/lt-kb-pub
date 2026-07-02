@@ -67,9 +67,10 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Estijoje veikė Lietuvių Draugija Estijoje, vienijusi vietos lietuvių bendruomenę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -82,28 +83,10 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=46d006d3d6a2473df2f96c4405c28960c790890c66963f65b140a7f2b110572f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Estija: 0.71
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvių Draugija Estijoje: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Estija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Lietuvių Draugija Estijoje yra Estijoje.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3ad645c3ec2550ad99ff34af37da99cf102325ce34c24c040a30fe301198f585; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Estija: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Estija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Estijoje buvo keli šimtai lietuvių.
 
 ## Ryšiai
 - Lietuvių Draugija Estijoje gyveno [[objektai/vietos/Estija]]

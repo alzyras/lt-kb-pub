@@ -62,9 +62,10 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -85,28 +86,10 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 212560-213057; hash=e46449861f1ecde745e46cd8752b1ac5033d12d59c3ecfa9d5ed75fe7399ebb4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Smolenskas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sofija Vytautaitė: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lankymasis Smolenske tiesiogiai pagrindžia Sofijos kelionės ryšį su Smolensku.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 212705-213113; hash=4c1eab6b15bd9aa31cfbdb56a1d85245b1ff12152e07861d4e0887dfb123148a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Smolenskas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sofija Vytautaitė: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lankymasis Smolenske tiesiogiai pagrindžia Sofijos kelionės ryšį su Smolensku.
 
 ## Ryšiai
 - Sofija Vytautaitė keliavo_i [[objektai/vietos/Smolenskas]]

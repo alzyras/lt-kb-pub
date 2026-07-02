@@ -47,8 +47,7 @@ Dusburgietis teigia, kad kosman M.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 779447-779566; hash=5500fb129ae61cf946853045788e71c67963e123bdab0a4d34939e709af256a8; match=exact
-  sprendimo_priezastis: auto

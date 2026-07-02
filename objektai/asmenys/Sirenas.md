@@ -76,6 +76,9 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
     vaikų, šie vaikai subėgo į pilį ir išvengė amžinos vergovės.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -93,29 +96,12 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
     trukdė priešams į ją įsibrauti, kol neuždarė pilies vartų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 440119-440634; hash=f97bad08a82e6930b3219cc5f829d7edbbba88de9a9760bbedba67c0573c5fb8; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Kristburgas: 0.68
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sirenas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Sirenas nurodytas kaip tuo metu buvęs Kristburgo pilyje; tai trumpalaikė buvimo vieta, todėl ne visiškai tvirta gyvenimo relacija.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 439866-440453; hash=b262b7894536877cdecafd3598bf481fc7aac4026367a92154069d0f6e540ce0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Kristburgas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sirenas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Sirenas tiesiogiai trukdė priešams įsibrauti į pilį, todėl gynė Kristburgą.
 
 ## Ryšiai
 - Sirenas gyne [[objektai/vietos/Kristburgas]]

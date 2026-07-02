@@ -86,18 +86,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6fc9c1e0e761856d71d369daf878816d3749fc74cc5d5918a439e0c417ee6a03; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Berlynas: 0.76
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Prūsijos žemės kronikos nuorašai: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Berlynas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai mini Berlyno nuorašus kaip dalį kronikos nuorašų.
 
 ## Ryšiai
 - Prūsijos žemės kronikos nuorašai priklause [[objektai/vietos/Berlynas]]

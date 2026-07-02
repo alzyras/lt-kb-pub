@@ -51,18 +51,10 @@ Vytautas Žukas pasakoja apie AT gynybos principus. Vytautas Žukas buvo numatyt
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ac5bc049b251c9273a74ac218f121f55839a74309895c3c7e6e3a0c1a9369649; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Aukščiausiosios Tarybos rūmai (institucija): 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas Žukas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vytautas Žukas tiesiogiai vadinamas AT gynėju.
 
 ## Ryšiai
 - Vytautas Žukas gyne [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]

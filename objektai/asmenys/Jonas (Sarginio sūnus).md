@@ -56,18 +56,10 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b75184dc6f79f0cc753efab3debfd57726810d9d60441ab31a3301a9bd1e649e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Jonas (Sarginio sūnus): 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Belichovas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Jonas (Sarginio sūnus): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Belichovo pilis priklausė Jonui, Sarginio sūnui.
 
 ## Ryšiai
 - [[objektai/vietos/Belichovas]] priklause Jonas (Sarginio sūnus)

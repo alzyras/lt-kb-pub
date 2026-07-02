@@ -101,9 +101,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Bartų puolimas prieš Senenzės pilį įvyko apie 1272 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -114,25 +115,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 462040-462854; hash=eff2ff4406554397fb91e9a05f7da4446fc25f12408b6d0d892eba26aa071d0d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Senenzė: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Divanas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Senenzė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Divanas apsiautė Senenzės pilį.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 464042-464280; hash=0c96acbf942717aea7b199272edfa3a3605913db381b6271fe5025a76546907b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Senenzė: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Senenzė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys aiškiai įvardija bartų puolimą prieš Senenzės pilį.

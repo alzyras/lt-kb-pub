@@ -108,6 +108,9 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     palankumą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -132,18 +135,11 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     tebelaikė, šiam nė nežinant, ar liks gyvas, ar ne.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 493642-494342; hash=46fd26c6c203eab58899248e9d542a72b8ba041fd67fe9f2c0d4971564cb5427; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Trubčevskas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Andrius Vingaudas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Trubčevskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Andrius tiesiogiai įvardytas Trubčevsko kunigaikščiu.
     - t-002
 
 - c-003
@@ -161,29 +157,12 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     sunkiai išprašė Andriui gyvybę, laisvę bei valdų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 578860-579448; hash=fab26cc1a0f9e37ec28604edeff1b5312710cff577445610e1abff0eadfb6a38; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Andrius Vingaudas: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Andrius Vingaudas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Andrius siekė valdžios su kryžiuočių pagalba.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 579245-579727; hash=49212767145cd4c913f37d37358c4e0dcee72dcc508c6fce35fee9a8a7e841a0; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Andrius Vingaudas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Andrius Vingaudas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Tekstas tiesiogiai sieja Andriaus valdžios siekį su kryžiuočių pagalba.
 
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] reme Andrius Vingaudas

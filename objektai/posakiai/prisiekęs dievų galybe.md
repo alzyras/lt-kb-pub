@@ -56,9 +56,10 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Vadas Surminas, palikęs pilį, prisiekė dievų galybe ateityje nelaukti brolių antpuolio prieš pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -70,25 +71,7 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 560427-560615; hash=8855c890319b1dc76dfefe14220c287081347b0e015dace5f53c485c46475b4e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Surminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: prisiekęs dievų galybe: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Surminas: mention_match, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "prisiekęs dievų galybe" parinktas kaip owner_note_path. Targetas "Surminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 560348-560590; hash=ec72e8f401d70ca49c62fa86d998f89b7da94062b46d2f09eb1455c8880af66c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Surminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: prisiekęs dievų galybe: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Surminas: mention_match, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "prisiekęs dievų galybe" parinktas kaip owner_note_path. Targetas "Surminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

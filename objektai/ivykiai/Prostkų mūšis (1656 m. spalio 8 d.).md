@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-78632
   teiginys: 'Prostkų mūšyje Švedijos ir Brandenburgo pajėgas pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujama kariuomenė.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir aiškiau susiejant faktą su mūšiu.'
-  susije_objektai: 'llm_object: [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)|Prostkų mūšis (1656 m. spalio 8 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Prostkai; mentioned_place: Švedija; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Walenrodto|Walenrodto]]; mentioned_place: Krymas; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)|Prostkų mūšis (1656 m. spalio 8 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Prostkai; mentioned_place: Švedija; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Walenrodto|Walenrodto]]; mentioned_place: Krymas; mentioned_place: Prūsų žemė'
   semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)|Prostkų mūšis (1656 m. spalio 8 d.)]]'
   pagrindžia:
     - c-001
@@ -76,7 +76,7 @@ Nenurodyta
 - t-004
   global_id: t-78635
   teiginys: '1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Prostkai; mentioned_place: Švedija; llm_object: [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)|Prostkų mūšis (1656 m. spalio 8 d.)]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Walenrodto|Walenrodto]]; mentioned_place: Krymas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Prostkai; mentioned_place: Švedija; llm_object: [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)|Prostkų mūšis (1656 m. spalio 8 d.)]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Walenrodto|Walenrodto]]; mentioned_place: Krymas; mentioned_place: Prūsų žemė'
   semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)|Prostkų mūšis (1656 m. spalio 8 d.)]]'
   temporaliniai_duomenys: 'įvykio data: 1656 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
@@ -149,10 +149,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-004
     - t-001
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -163,9 +164,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Prostkų mūšyje pagrindinės V. Gosievskio pajėgos užpuolė ir sumušė brandenburgiečius, o Boguslavas Radvila pateko į nelaisvę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -186,9 +188,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-006
-
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -211,29 +214,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=09e0bf23603af01ca34de5dce141486b337f5e37daf5d1b329e52062608492f1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Prostkų mūšis (1656 m. spalio 8 d.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Prostkų mūšis (1656 m. spalio 8 d.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvių veikimą Prostkų mūšyje.
     - t-003
     - t-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=34e543edae94fb9306133a3c0884fa81a592b577ce39f3ec1b1d8fc6237dc384; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Prostkų mūšis (1656 m. spalio 8 d.): 0.85
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Prostkų mūšis (1656 m. spalio 8 d.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Teiginys apie Lietuvos pajėgų veiksmą tiesiogiai priklauso Prostkų mūšio kontekstui.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] dalyvavo_musyje Prostkų mūšis (1656 m. spalio 8 d.)

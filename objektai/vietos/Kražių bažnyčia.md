@@ -61,6 +61,9 @@ amziai:
     kę miestelio gyventojai.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -76,29 +79,12 @@ amziai:
     rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a9b8a3e57445ff7b2ea644bf548dff2f08b521340a1eb1785cbee25d179d137a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kražių bažnyčia: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kražių bažnyčia: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad kazokai šturmavo Kražių bažnyčią.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 232629-232959; hash=e2c4b8462b12c859d34f828c5a6513e25ff1d98e81bef0937e19bec78e58efca; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kražių bažnyčia: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kražių bažnyčia: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad kazokai šturmavo Kražių bažnyčią.
 
 ## Ryšiai
 - [[objektai/grupes/Kazokai]] puole Kražių bažnyčia

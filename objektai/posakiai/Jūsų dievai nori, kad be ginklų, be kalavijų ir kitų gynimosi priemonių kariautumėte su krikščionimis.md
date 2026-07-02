@@ -61,16 +61,8 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 208929-209548; hash=0bd5c086339f22b767af62be776680bc4c073203289a53b66c5054be8066b6cd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Galinda: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Galinda: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad sūduviai įsibrovė į Galindos žemę.
     - t-001

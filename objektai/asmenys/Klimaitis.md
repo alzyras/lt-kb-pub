@@ -38,8 +38,7 @@ Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 793332-793588; hash=09b557ebd8daac5e1671e83842368338611f7d7442c81cf4f3cd8a3f11b19018; match=exact
-  sprendimo_priezastis: auto

@@ -66,18 +66,10 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=63a4c047b67e5dc34a3037a2b105e39bf548a639357b8c49e8786c9f65b6ef5a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vilniaus rusų vienuoliai „čiornai“: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė tiesiogiai sieja rusų vienuolius su Vilniumi.
 
 ## Ryšiai
 - Vilniaus rusų vienuoliai „čiornai“ gyveno [[objektai/vietos/Vilnius]]

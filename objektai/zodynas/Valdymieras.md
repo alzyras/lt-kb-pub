@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'valdymieras'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+aliases:
+  - 'objektai/zodynas/valdymierai'
+variantai:
+  - 'valdymierai'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -54,9 +58,10 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -64,6 +69,8 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-003

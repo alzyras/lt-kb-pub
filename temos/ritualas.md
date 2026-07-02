@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 31.
+Objektų skaičius: 38.
 
 ## Kaip naudoti
 
@@ -44,14 +44,21 @@ Objektų skaičius: 31.
 
 ### Papročiai
 - [[objektai/paprociai/Amžinosios Gabijos ugnies ir Perkūno kulto apeigos Šventaragio slėnyje]]
+- [[objektai/paprociai/Apeiginis vanduo iš šventųjų šaltinių ir šulinių]]
+- [[objektai/paprociai/Apžado auka iš karo grobio]]
+- [[objektai/paprociai/Arklio auka ir švento plauko arklių perdavimas žyniui]]
+- [[objektai/paprociai/Auka už mirusiuosius ir mirusiųjų minėjimo atnašos]]
+- [[objektai/paprociai/Gabijos maldelė jaujoje džiovinant javus]]
 - [[objektai/paprociai/Krikščioniškų laidojimo apeigų įsigalėjimas po Lietuvos krikšto]]
+- [[objektai/paprociai/Lados laikotarpio baltų gaidžių aukos, viešos puotos, šokiai ir dainos]]
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
-- [[objektai/paprociai/Pagoniškosios Lietuvos tikybinės apeigos]]
-- [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]
-- [[objektai/paprociai/Religijų laisvas išpažinimas ir krikščioniškų apeigų atlikimas Algirdo Vilniuje]]
-- [[objektai/paprociai/Romos katalikų miestiečių atleidimas nuo duoklių pagal Vytauto privilegijas]]
-- [[objektai/paprociai/Teutonų namų ordino įvilktuvių apeiga]]
-- [[objektai/paprociai/Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią]]
+- [Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje](../objektai/paprociai/Mason%C5%B3%20lo%C5%BEi%C5%B3%20ir%20student%C5%B3%20organizacij%C5%B3%20kult%C5%ABrinis%20bei%20dorovinis%20lavinimasis%20Vilniuje)
+- [Pagoniškosios Lietuvos tikybinės apeigos](../objektai/paprociai/Pagoni%C5%A1kosios%20Lietuvos%20tikybin%C4%97s%20apeigos)
+- [Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos](../objektai/paprociai/Prezidento%20A.%20Smetonos%20i%C5%A1kilmingos%20kelion%C4%97s%20po%20miestelius%20ir%20sutikimo%20vart%C5%B3%20ceremonijos)
+- [Religijų laisvas išpažinimas ir krikščioniškų apeigų atlikimas Algirdo Vilniuje](../objektai/paprociai/Religij%C5%B3%20laisvas%20i%C5%A1pa%C5%BEinimas%20ir%20krik%C5%A1%C4%8Dioni%C5%A1k%C5%B3%20apeig%C5%B3%20atlikimas%20Algirdo%20Vilniuje)
+- [Romos katalikų miestiečių atleidimas nuo duoklių pagal Vytauto privilegijas](../objektai/paprociai/Romos%20katalik%C5%B3%20miestie%C4%8Di%C5%B3%20atleidimas%20nuo%20duokli%C5%B3%20pagal%20Vytauto%20privilegijas)
+- [Teutonų namų ordino įvilktuvių apeiga](../objektai/paprociai/Teuton%C5%B3%20nam%C5%B3%20ordino%20%C4%AFvilktuvi%C5%B3%20apeiga)
+- [Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią](../objektai/paprociai/Vilniaus%20vyskupo%20ba%C5%BEnytini%C5%B3%20cenz%C5%ABr%C5%B3%20vykdymas%20pasitelkiant%20pasaulietin%C4%99%20vald%C5%BEi%C4%85)
 
 ### Įvykiai
 - [Kėdainių-Šėtos kautynės](../objektai/ivykiai/K%C4%97daini%C5%B3-%C5%A0%C4%97tos%20kautyn%C4%97s)

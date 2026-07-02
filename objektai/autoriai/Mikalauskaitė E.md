@@ -25,4 +25,6 @@ Dusburgietis teigia, kad mikalauskaitė E.
     philologicum, K., 1938, kn. 7, p. 102— 106.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified

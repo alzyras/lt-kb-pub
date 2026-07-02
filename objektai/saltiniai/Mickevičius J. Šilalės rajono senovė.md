@@ -46,8 +46,7 @@ Dusburgietis teigia, kad mickevičius J.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 786471-786530; hash=466db2e8789c8d68c52793f8785c69a90c96b943193c60e9acecfa26b81eb4b2; match=exact
-  sprendimo_priezastis: auto

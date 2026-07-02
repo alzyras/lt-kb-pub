@@ -51,15 +51,7 @@ Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c536d593d806137130309a776f284d49146c17866517ab5f17358b8728f601b6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Desna: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Desna: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad rytų baltų gyventas plotas siekė dešinįjį Desnos krantą.

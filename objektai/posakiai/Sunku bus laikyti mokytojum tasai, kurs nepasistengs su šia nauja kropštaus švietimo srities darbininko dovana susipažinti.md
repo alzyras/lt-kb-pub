@@ -39,8 +39,7 @@ Lazauskas ra­ šo: „Sunku bus laikyti mokytojum tasai, kurs nepasistengs su �
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 738440-738631; hash=73181d3d719141857b4f3e2edc436db3ec9240e42fddcade01ba040ddd09c81d; match=exact
-  sprendimo_priezastis: auto

@@ -60,15 +60,7 @@ Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė s
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 282237-282933; hash=a6ea472be431b5864e1aa692f502654b3f9c123710462fca4b02ae2ff07df1e2; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Sluckas: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Sluckas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Rusai buvo tarp dvarionių, išsiųstų į pagalbą Slucko kunigaikščiui; vieta išvesta iš Slucko konteksto.

@@ -48,18 +48,10 @@ Butkievičiaus kavalerijos brigada ir iki dienos pabaigos ji pasiekia Videniški
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=27fa3d3d20821a987d3e595d73fd2ab312d6fbfd5512de6dab41e2d86c5e9fd8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Videniškis: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: M. Butkievičiaus kavalerijos brigada: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Videniškis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Brigada judėjo ir pasiekė Videniškio rajoną.
 
 ## Ryšiai
 - M. Butkievičiaus kavalerijos brigada keliavo_i [[objektai/vietos/Videniškis]]

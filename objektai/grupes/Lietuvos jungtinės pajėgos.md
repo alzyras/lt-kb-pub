@@ -100,29 +100,11 @@ Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaik�
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 216686-217194; hash=879b26dc78df149ce0be060661c4aae8d9bb98fec5d72bb5ae5b3ab8b2412226; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuvos jungtinės pajėgos: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuvos jungtinės pajėgos: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys tiesiogiai įtraukia Tochtamyšo totorius į Lietuvos jungtinių pajėgų sudėtį.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 216686-217194; hash=879b26dc78df149ce0be060661c4aae8d9bb98fec5d72bb5ae5b3ab8b2412226; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuvos jungtinės pajėgos: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuvos jungtinės pajėgos: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys nurodo, kad Tochtamyšo totoriai buvo Lietuvos jungtinių pajėgų sudėtyje.
 
 ## Ryšiai
 - [[objektai/grupes/Totoriai]] priklause Lietuvos jungtinės pajėgos

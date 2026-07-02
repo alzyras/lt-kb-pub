@@ -92,9 +92,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -128,17 +129,9 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1013097-1013802; hash=29a9f329219cbdddc25eca140ea15d298c3d01d247f3fc16e683905a6a7527ba; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Šimonių girios apgultis: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algimanto apygarda: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Šimonių girios apgultis: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Claimas nurodo, kad per Šimonių girios apgultį žuvo apygardos vadovybė, todėl apygarda tiesiogiai siejama su šiuo įvykiu.
     - t-001
 
 ## Ryšiai

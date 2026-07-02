@@ -142,15 +142,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 287229-289843; hash=b6102d80596f4c1e2b816ef90a474211776c36a4c5e884b494da44baf1c47fb0; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Škotai: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Anglai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Škotai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekstas tiesiogiai mini anglų vaidus su škotais.

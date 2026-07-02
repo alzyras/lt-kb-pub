@@ -64,18 +64,10 @@ Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan V
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 692145-692419; hash=b2d514fba27d68486021c24e0b6a3fb943bca14a9e0197ab7d7942f4c46ed39b; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Kipčakas: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Didysis Machmetas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kipčakas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Atsisėdimas į Kipčako sostą reiškia valdžios perėmimą Kipčake.
 
 ## Ryšiai
 - Didysis Machmetas valde [[objektai/vietos/Kipčakas]]

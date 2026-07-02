@@ -61,18 +61,10 @@ VIII amž. pusėje jie randami Sauslauke (prie Durbės).
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 303199-303484; hash=d7077c0a5802364935c62cea0a66a07b8386d7cbf3763c19d4f26ec9ed027821; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Sauslaukė: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Sauslaukė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Švedai aptinkami Sauslaukėje, todėl jų buvimas šioje vietoje palaikomas.
 
 ## Ryšiai
 - [[objektai/grupes/Švedai]] gyveno Sauslaukė

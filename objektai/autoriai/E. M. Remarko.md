@@ -49,8 +49,7 @@ Remarko „VAKARŲ FRONTE NIEKO NAUJO“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 728722-728855; hash=63536ce1465d5c2459414b428b9f2172774fcead88e270aee42132879b5fed67; match=exact
-  sprendimo_priezastis: auto

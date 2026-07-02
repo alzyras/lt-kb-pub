@@ -58,18 +58,10 @@ Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė T
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 432012-432516; hash=3d1f8e1ea51d06b65ed39a8be5fefd00bf72d7e16da8b314e31f944ea965f3e5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Prūsija: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste Algirdas kartu su Aleksandru įvardytas kaip Prūsijos vietų niokojimo veikėjas.
 
 ## Ryšiai
 - Aleksandras Karijotaitis puole [[objektai/vietos/Skalvos žemė]]

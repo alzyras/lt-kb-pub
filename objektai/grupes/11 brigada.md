@@ -76,6 +76,9 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
     „Po kaštanais mes persiskyrėme į dvi grupes po šešiolika vyrų.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -94,18 +97,11 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
     niją ir veržtis toliau Daugpilio kryptimi.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 762207-762601; hash=42dfef300e193c98396060266428a6f1f1a0a553430f00137bdbaa78396e2cc5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> 11 brigada: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Marijampolės batalionas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: 11 brigada: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Marijampolės batalionas veikė 11 brigadoje.
     - t-002
 
 - c-003
@@ -122,29 +118,12 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
     vykdžiusi I brigada.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 768351-768562; hash=70925cc55258a877279c0f6e29860e9e29024c0d6ed7422d64d43bc487d05739; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Lietuva: 0.56
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: 11 brigada: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Brigados dalys veikė Lietuvos teritorijos dalyje; tai atsargus teritorinio veikimo ryšys.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 762133-762537; hash=4f65241941b5b1ace581ec499ac2cc8ce780e81a248e811d2e0e03accf25e0ac; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> 11 brigada: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Marijampolės batalionas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: 11 brigada: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo bataliono veikimą 11 brigadoje.
 
 ## Ryšiai
 - [[objektai/grupes/Marijampolės batalionas]] priklause 11 brigada

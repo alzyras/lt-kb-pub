@@ -53,18 +53,10 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=433e0dd1b2904ce9b86be6a88b6c197ed29c24312c50288bf90a2b4e11b5e189; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Manuelis: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas Paleologas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Manuelis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Jonas Paleologas buvo Manuelio sūnus.
 
 ## Ryšiai
 - Jonas Paleologas buvo_sunus [[objektai/asmenys/Manuelis]]

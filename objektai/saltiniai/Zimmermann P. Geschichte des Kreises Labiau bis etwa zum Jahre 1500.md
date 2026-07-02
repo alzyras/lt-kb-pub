@@ -49,8 +49,7 @@ Dusburgietis teigia, kad zimmermann P.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 805740-805823; hash=462dbfbb9fdfacf885e9f660136f31652466afb1f95b3009aecde9775172d74e; match=exact
-  sprendimo_priezastis: auto

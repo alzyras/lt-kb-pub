@@ -55,8 +55,7 @@ Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=abd4d443d07d2fcef4dea9bc7241b51bf7a4a0a7e00b2cec2d4cea061a3737a9; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

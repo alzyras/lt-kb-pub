@@ -106,9 +106,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Gabrielis Bekešas Skornatas buvo Stepono Batoro vengrų pulkų vadas ir ištikimai tarnavo valdovui bei Respublikai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -133,28 +134,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 794685-795604; hash=bc4918eeab85a4ba83a22fb171dd38c8a6e7e4fcb2b857881467eba130c64e24; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Abiejų Tautų Respublika: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gabrielius Bekešas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad jis rėmė Respubliką savo lėšomis ir tarnyba.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 795944-797749; hash=a1ef25ed07e3f97988db3a52b6688c0dff28f8489844b47899db12f6ab6f618e; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Velikije Lūki: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Stepono Batoro vengrų kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Velikije Lūki: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vengrų kariuomenės riteriai veikė žygyje ties Velikije Lūki.
 
 ## Ryšiai
 - Stepono Batoro vengrų kariuomenė surenge_zygi_i [[objektai/vietos/Velikije Lūki]]

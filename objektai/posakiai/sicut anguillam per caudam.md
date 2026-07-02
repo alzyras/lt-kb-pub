@@ -58,6 +58,9 @@ Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už
     per caudam »)^52.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -73,26 +76,9 @@ Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už
     kryžiuočių užvaldymo Žemaičiuose buvo daug nepasitenkinimo^53.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c4b8a811a705dae9b83d25cdcf93dee7a6f0c92a46282ee065eb5f93d5c18010; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstanca: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: sicut anguillam per caudam: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Konstanca: mention_match, place, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "sicut anguillam per caudam" parinktas kaip owner_note_path. Targetas "Konstanca" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 911040-911343; hash=7ef8a346611fcc795fc24a18789c69fd8048843e098f32fbd6c921546b3899a2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstanca: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: sicut anguillam per caudam: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Konstanca: mention_match, place, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "sicut anguillam per caudam" parinktas kaip owner_note_path. Targetas "Konstanca" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

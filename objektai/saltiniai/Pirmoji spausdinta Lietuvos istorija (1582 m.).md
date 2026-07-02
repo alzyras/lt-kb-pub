@@ -8,6 +8,10 @@ datos:
   - '1582 m.'
 date_start: '1326'
 date_end: '1582'
+aliases:
+  - 'objektai/saltiniai/Pirmoji spausdinta Lietuvos istorija'
+variantai:
+  - 'Pirmoji spausdinta Lietuvos istorija'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -57,5 +61,7 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001

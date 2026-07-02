@@ -50,8 +50,7 @@ Dusburgietis teigia, kad zurkalowski E.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 806069-806194; hash=a256b91910b0b5b50f478686e4e02f919681e85e44574be99c9a9e446a4f8dd9; match=exact
-  sprendimo_priezastis: auto

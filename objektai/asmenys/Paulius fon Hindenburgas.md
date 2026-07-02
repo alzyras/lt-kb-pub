@@ -69,18 +69,10 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=907a91567aa06294555901eb95758dc858156a308d82edf71b0949d3899ae3c0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Ėrichas Liudendorfas: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Paulius fon Hindenburgas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Ėrichas Liudendorfas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Abu generolai kartu vadovavo Oberostui, todėl tiesiogiai palaikomas bendro veikimo ryšys.
 
 ## Ryšiai
 - Paulius fon Hindenburgas buvo_sajungininkas_su [[objektai/asmenys/Ėrichas Liudendorfas]]

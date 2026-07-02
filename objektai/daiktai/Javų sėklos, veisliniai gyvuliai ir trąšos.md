@@ -89,16 +89,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 300250-300706; hash=50a54e3aff6ee35f9d77e03097d636e2fe3178bc6396f57bde787ca941bd9680; match=exact
-  sprendimo_priezastis: auto
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 300250-300706; hash=50a54e3aff6ee35f9d77e03097d636e2fe3178bc6396f57bde787ca941bd9680; match=exact
-  sprendimo_priezastis: auto
-
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

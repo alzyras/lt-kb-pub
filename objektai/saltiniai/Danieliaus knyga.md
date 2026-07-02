@@ -40,8 +40,7 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 97521-97706; hash=58f55d1456ebea553c6f86b3d3d9ad147e5bfe6049f5ec62b7d879c5333e7971; match=exact
-  sprendimo_priezastis: auto

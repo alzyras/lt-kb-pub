@@ -53,18 +53,10 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 863626-863863; hash=7501e1d8ea2e51ef5f23c039584d32acdcf8c86229c45d8bc4232df6f2d8cdbc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Lietuviai: 0.58
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Philippe de Mezières: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Philippe de Mezières siūlė įtraukti lietuvius į kryžiaus žygį, taigi palaikė jų dalyvavimą.
 
 ## Ryšiai
 - Philippe de Mezières reme [[objektai/grupes/Lietuviai]]

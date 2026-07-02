@@ -102,20 +102,11 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bbfe904e0eb3a7b47dda5632425a503b538aa0f728648922b2ab8e465eaa4a6a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzkariavo -> Kijevas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mongolų imperija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė apie Kijevo Rusios sudaužymą tiesiogiai nurodo Mongolų imperijos karinį pajungimą; leidžiamas artimiausias objektas yra Kijevas.
     - t-002
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -129,19 +120,10 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=df24fb275a35aa8855e73ec67f7abca4b352a87ef15fa5f7ef414b69e4011dfc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Mongolų imperija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Auksinė Orda: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Mongolų imperija: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Aukso ordą kaip suskilusios Mongolų imperijos dalį.
     - t-001
-
 - c-003
   santrauka: 'Rusų kunigaikštijos buvo patekusios į Aukso ordos, suskilusios Mongolų imperijos dalies, valdžią ir mokėjo jai duoklę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -156,28 +138,10 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bbfe904e0eb3a7b47dda5632425a503b538aa0f728648922b2ab8e465eaa4a6a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzkariavo -> Kijevas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mongolų imperija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė apie Kijevo Rusios sudaužymą tiesiogiai nurodo Mongolų imperijos karinį pajungimą; leidžiamas artimiausias objektas yra Kijevas.
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 61725-62142; hash=7cb032fdaa69c2470a12dba820134a408c3d0afe2624c97b07f77ecf481095a1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Mongolų imperija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Auksinė Orda: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Mongolų imperija: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Aukso ordą kaip suskilusios Mongolų imperijos dalį.
 
 ## Ryšiai
 - [[objektai/grupes/Auksinė Orda]] priklause Mongolų imperija

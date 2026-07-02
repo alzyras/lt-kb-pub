@@ -72,15 +72,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 121628-121853; hash=88753605960b4489f83f14c90f379f8a93e496b1b1d4005a42ea481c271e1d88; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzkariavo -> Lietuva: 0.82
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Okupavimas tiesiogiai nurodo rusų veiksmą prieš Lietuvą; ryšys normalizuotas kaip užkariavimas.

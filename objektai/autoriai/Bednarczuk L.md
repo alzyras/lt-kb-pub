@@ -48,15 +48,7 @@ Dusburgietis teigia, kad antikinių šaltinių tyrimas rodo, kad lotyniškoji fo
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 170513-170813; hash=dad225a420f1d65f1a618fc1f341b14c4574f93fbc100336ecfd70cd079f0bbf; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vysla: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vysla: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata teigia baltų buvimą prie Vyslos žiočių, todėl atsargiai laikytina gyvenimo ar buvimo vietos ryšiu.

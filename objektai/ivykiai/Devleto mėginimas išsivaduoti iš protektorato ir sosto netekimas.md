@@ -74,15 +74,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 691899-692144; hash=ebdd9870c3283c721d5dc9f5b4e6750ee38bfd88e1b489859e22666368d28f90; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Konstantinopolis: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Devletas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Konstantinopolis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata rodo, kad Devletas 1426 m. buvo Konstantinopolyje, iš kur rašė Vytautui.

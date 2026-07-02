@@ -60,8 +60,7 @@ Labai stipraus laukimo ar troškimo palyginimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=533ef41a87656e40ce64a2ea7415e0c2e02d23949cffee43e87a3f725ed1e4d8; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md

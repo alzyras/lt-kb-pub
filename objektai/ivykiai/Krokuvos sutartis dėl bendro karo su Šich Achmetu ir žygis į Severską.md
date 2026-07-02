@@ -95,6 +95,9 @@ Nenurodyta
     būriais.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -130,26 +133,9 @@ Nenurodyta
     ką.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1002274-1003052; hash=e9c088b1d3fcbfeb6bfc8744227c01117bd38e6710ef7ce80bca3be43f20f551; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Severskas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šich Achmetas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Severskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Šich Achmeto puolimą prieš Seversko žemę.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1002771-1003611; hash=1d2b10a03be3f5e47874d2d3e5fd92a850e03868178e060a0425c13800c675c7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Naugardas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šich Achmetas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Šich Achmetas užėmė Seversko Naugardą.

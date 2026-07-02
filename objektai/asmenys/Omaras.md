@@ -56,18 +56,10 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d66b93419f6235e4e80c3cd17bd80207eb0d649ef314a041caa7323ae94609ad; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Jeruzalė: 0.60
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Omaras: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jeruzalė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje nurodyta, kad Omaras užėmė Šventąją žemę; leistinas artimiausias konkretus vietos kandidatas yra Jeruzalė, minima citatoje kaip Šventosios žemės miestas.
 
 ## Ryšiai
 - Omaras uzeme [[objektai/vietos/Jeruzalė]]

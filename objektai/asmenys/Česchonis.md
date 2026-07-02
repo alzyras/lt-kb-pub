@@ -75,18 +75,10 @@ dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 244809-245790; hash=a37b28ef4ca8d153cfb4f184ea24f28811820613e95c918e3500350b05323555; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Česchonis: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Česchonis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai mini Česchonio namą, todėl namas priklausė Česchoniui.
 
 ## Ryšiai
 - [[objektai/daiktai/Namas]] priklause Česchonis

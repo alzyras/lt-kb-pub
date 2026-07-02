@@ -259,20 +259,11 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 804933-806343; hash=d9f4e3eb7ac4b94c3bf32c83f58ead4fb13e7b4eca5545e5b5ef93da1bbf1417; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: reme -> Vilniaus vyskupijos klierikų kolegija: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilniaus vyskupijos klierikų kolegija: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citatoje Jurgis Radvila kalba apie klierikų kolegijos fundavimą.
     - t-008
-
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -306,19 +297,10 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 804933-806343; hash=d9f4e3eb7ac4b94c3bf32c83f58ead4fb13e7b4eca5545e5b5ef93da1bbf1417; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: reme -> Vilniaus vyskupijos klierikų kolegija: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilniaus vyskupijos klierikų kolegija: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Kolegijos fundavimas tiesiogiai reiškia Jurgio Radvilos paramą šiai kolegijai.
     - t-004
-
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -342,30 +324,11 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 808477-810007; hash=eb08666a94720c2b6dc385f2386e3f0a00b632ea58e658c323d2e846c43a1fd9; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: susije_su -> Vilnius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus vyskupijos klierikų kolegija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus vyskupijos klierikų kolegija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 813016-813960; hash=013d839cb78b001a882657aab83a7a32de8afdb239615a3cbe1413719ed0d322; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus vyskupijos klierikų kolegija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus vyskupijos klierikų kolegija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
-
 - c-004
   santrauka: 'Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -396,50 +359,12 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 813016-813960; hash=013d839cb78b001a882657aab83a7a32de8afdb239615a3cbe1413719ed0d322; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus vyskupijos klierikų kolegija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus vyskupijos klierikų kolegija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 804419-805458; hash=17ec13ca39271f621552403c096235ce63370427be0b0c934dde79bffec3da0a; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: reme -> Vilniaus vyskupijos klierikų kolegija: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilniaus vyskupijos klierikų kolegija: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Jurgio Radvilos sprendimą funduoti kolegiją.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 804419-805458; hash=17ec13ca39271f621552403c096235ce63370427be0b0c934dde79bffec3da0a; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: reme -> Vilniaus vyskupijos klierikų kolegija: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilniaus vyskupijos klierikų kolegija: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Frazė apie kolegijos fundavimą tiesiogiai pagrindžia Jurgio Radvilos paramą kolegijai.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 804419-805458; hash=17ec13ca39271f621552403c096235ce63370427be0b0c934dde79bffec3da0a; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus vyskupijos klierikų kolegija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus vyskupijos klierikų kolegija" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]] reme Vilniaus vyskupijos klierikų kolegija

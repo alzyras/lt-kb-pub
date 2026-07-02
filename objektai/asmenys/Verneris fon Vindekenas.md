@@ -53,19 +53,12 @@ Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomi
     laisvę, kiti kariai pasileido bėgti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 426510-426902; hash=d375d74455efd9c0d3bf5f73373310002fa973d5e9fae6dc92540ec63977dd82; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Verneris fon Vindekenas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Verneris fon Vindekenas numetė Kęstutį nuo arklio.
 
 ## Ryšiai
 - Verneris fon Vindekenas puole [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

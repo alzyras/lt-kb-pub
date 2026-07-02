@@ -67,18 +67,10 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1069397-1069714; hash=5f1183cc4dcb181292112aa75877e4ad46ec65fff302d59a67862e024799f994; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Lietuviai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija): llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Lietuvių komitetas organizavo tremtinių šelpimą ir mokymą, remdamas lietuvių tremtinius.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] gyveno Voronežas

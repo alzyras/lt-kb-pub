@@ -50,4 +50,6 @@ Dusburgietis teigia, kad reinoldas sušakosiąs ir ateityje duosiąs gausybę va
     popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified

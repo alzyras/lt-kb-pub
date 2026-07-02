@@ -80,9 +80,10 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '1298 m. Vytenis, Rygos miestiečių pakviestas, užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -101,28 +102,10 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bd8c8757b21eb21f1ef0a2f550a597bd7621bda7ed80569b18a7aedd6586e366; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Karkuso pilis (pilis, XIII a.): 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Karkuso pilis (pilis, XIII a.): llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad lietuvių karalius Vytenis užėmė Karkuso pilį; Vytenio kandidato nėra, todėl vartojamas tiesiogiai minimas lietuvių grupės kandidatas.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 600872-601052; hash=b9a6d71a514eba8257580d92154f8a40ab0b410d519c84a51faf483189f1b968; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Livonija: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Karkuso pilis (pilis, XIII a.): llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai lokalizuoja Karkuso pilį Livonijoje.
 
 ## Ryšiai
 - Karkuso pilis (pilis, XIII a.) priklause [[objektai/vietos/Livonija]]

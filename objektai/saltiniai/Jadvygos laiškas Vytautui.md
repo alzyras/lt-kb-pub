@@ -121,15 +121,7 @@ Gana grėsmingai įsiliepsnojo pirmieji nesuta­ rimai tarp abiejų tautų (1398
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 318598-320917; hash=0dac7fd359be718eca782e548dddc6927982c683dd2649d925385eda98008aec; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Jadvyga Jogailienė: 0.68
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Jadvyga Jogailienė: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys nurodo Jadvygos prašymą dėl činšo, kuris esą jai priklausė iš Lietuvos.

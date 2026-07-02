@@ -60,15 +60,7 @@ Nutarta užimti gynybines pozicijas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 824188-824621; hash=bd6302727390a836e91313e88456e71753fb4108d1f95dbda15a8678643925d1; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga): 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Citatos antraštė ir kontekstas tiesiogiai įvardija lenkų puolimą, susietą su leidžiamu operacijos įvykio kandidatu.

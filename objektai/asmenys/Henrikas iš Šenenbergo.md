@@ -60,18 +60,10 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4ace6ce01c4ceb6d91d8d5cb3a2fc4c0ad4e4837252bab4daaa405ccc400d55e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Herkus Mantas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas iš Šenenbergo: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Henrikas iš Šenenbergo su kitais užtiko Herkų Mantą ir dalyvavo jo nužudyme.
 
 ## Ryšiai
 - Henrikas iš Šenenbergo puole [[objektai/asmenys/Herkus Mantas]]

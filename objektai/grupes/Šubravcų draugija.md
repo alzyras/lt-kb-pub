@@ -3,8 +3,11 @@ tipas: grupe
 pavadinimas: 'Šubravcų draugija'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - grupe
 ---
 # Šubravcų draugija
 
@@ -42,6 +45,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - t-001
   global_id: t-55109
   teiginys: 'Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.'
+  teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Šubravcų draugijos sudėtį.'
   susije_objektai: 'llm_object: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] gyveno Vilnius'
@@ -49,7 +53,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  sprendimo_priezastis: gap::groups
   ryšio_patikimumas: gyveno -> Vilnius: 0.84
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
@@ -62,6 +66,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - t-002
   global_id: t-55110
   teiginys: 'Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.'
+  teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiesiogiai paremtas citata.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] gyveno Vilnius'
@@ -69,7 +74,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  sprendimo_priezastis: gap::groups
   ryšio_patikimumas: gyveno -> Vilnius: 0.84
   ryšio_patikimumo_lygis: aukstas
   ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
@@ -82,13 +87,14 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - t-003
   global_id: t-55111
   teiginys: 'Šubravcų draugijos kodekse buvo suformuluotos nuo įprastų aukštuomenės normų besiskyrusios narių elgesio ir veiklos normos.'
+  teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos informaciją apie draugijos kodeksą.'
   susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 5088-5615; hash=f2db24c9ff2aff47f3f3b0149361a6fd1aa8fcf1987b5acc198e6f36951fa456; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  sprendimo_priezastis: gap::groups
   ryšio_patikimumas: susije_su -> Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
@@ -101,47 +107,32 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - t-004
   global_id: t-55112
   teiginys: 'Šubravcų draugijos humoristinis laikraštis Wiadomości brukowe išgarsino draugiją net už Lietuvos ribų.'
+  teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Perrašyta pašalinant netinkamą žymėjimą ir įtraukiant citatoje nurodytą laikraščio pobūdį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Anglija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 5616-6007; hash=13668e364b532385c9a9a236c5e8d9c72be74a4b533ab09731a92eb23f2324cc; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šubravcų draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų draugija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  sprendimo_priezastis: gap::groups
 
-<a id="claim-t-81752"></a>
+<a id="claim-t-188020"></a>
 - t-005
-  global_id: t-81752
+  global_id: t-188020
   teiginys: 'Vilniuje veikusiai Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.'
+  teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia pašalinti OCR triukšmą ir sutvarkyti sakinį.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] gyveno Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: gyveno -> Vilnius: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šubravcų draugija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Šubravcų draugiją kaip veikusią Vilniuje.
+  sprendimo_priezastis: gap::groups
 - susijęs iš [[objektai/asmenys/Janas Chodzka.md#claim-t-87698|Janas Chodzka]]: Janas Chodzka priklausė Vilniaus šubravcų draugijai ir joje pasivadino Vaižgantu.
 - susijęs iš [[objektai/asmenys/Jokūbas Šimkevičius.md#claim-t-87709|Jokūbas Šimkevičius]]: Jokūbas Šimkevičius, Vilniaus šubravcų draugijos narys, pasivadino Perkūnu.
 - susijęs iš [[objektai/asmenys/Kazimieras Kontrimas.md#claim-t-87751|Kazimieras Kontrimas]]: Kazimieras Kontrimas, priklausęs Vilniaus šubravcų draugijai, pasirinko senovės lietuvių dievybės Pokliaus vardą.
 - susijęs iš [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai.md#claim-t-54737|Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]: Šubravcų kodeksas smerkė girtavimą ir azartinius žaidimus, o XII straipsnis reikalavo, kad narys kauptų nuosavą biblioteką.
 - susijęs iš [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai.md#claim-t-54738|Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]: Šubravcų draugijos kodekse narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų.
+- susijęs iš [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais.md#claim-t-187830|Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]: Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus.
 - susijęs iš [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais.md#claim-t-55171|Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]: Išstudijavę Jano Lasickio knygą, Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.
-- susijęs iš [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais.md#claim-t-81873|Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]: Vilniuje veikusi šubravcų draugija išgarsėjo, o jos nariai pasivadino senovės lietuvių dievybių vardais.
 - susijęs iš [[objektai/paprociai/Šubravcų satyrinė spaudos kritika.md#claim-t-54739|Šubravcų satyrinė spaudos kritika]]: Šubravcų laikraštis Wiadomości brukowe satyriškai vaizdavo kilmingųjų kasdienybę, kritikavo baudžiavą, obskurantizmą ir tradicionalizmą.
 - susijęs iš [[objektai/paprociai/Šubravcų satyrinė spaudos kritika.md#claim-t-54740|Šubravcų satyrinė spaudos kritika]]: Šubravcų draugijos nariai leido humoristinį laikraštį Wiadomości brukowe, kuriame aktyviai bendradarbiavo ir M. Balinskis.
 - susijęs iš Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus: Išstudijavę Jano Lasickio knygą apie dievus, šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.
@@ -174,31 +165,12 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: gyveno -> Vilnius: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šubravcų draugija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Šubravcų draugija veikė Vilniuje.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: gyveno -> Vilnius: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šubravcų draugija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatos kontekste draugija tiesiogiai apibūdinta kaip veikusi Vilniuje.
     - t-005
-
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -214,21 +186,11 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: gyveno -> Vilnius: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šubravcų draugija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Šubravcų draugiją kaip veikusią Vilniuje.
     - t-003
-
 - c-003
-  santrauka: 'Šubravcų draugijos humoristinis laikraštis Wiadomości brukowe išgarsino draugiją net už Lietuvos ribų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Draugijos narių leidžiamas
@@ -241,28 +203,10 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 5088-5615; hash=f2db24c9ff2aff47f3f3b0149361a6fd1aa8fcf1987b5acc198e6f36951fa456; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šubravcų draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): mention_match, event, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų draugija" parinktas kaip owner_note_path. Targetas "Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 5616-6007; hash=13668e364b532385c9a9a236c5e8d9c72be74a4b533ab09731a92eb23f2324cc; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šubravcų draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų draugija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Šubravcų draugija gyveno [[objektai/vietos/Vilnius]]

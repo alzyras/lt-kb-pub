@@ -65,18 +65,10 @@ kelio iki AT) 107-oji motošaulių divizija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4b1d973a3fd862598eb51a37a447ca6e240d6cbb2f5bfc59c08021961d4e72d0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.76
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: 107-oji motošaulių divizija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Divizija tiesiogiai nurodyta kaip dislokuota Vilniuje.
 
 ## Ryšiai
 - 107-oji motošaulių divizija gyveno [[objektai/vietos/Vilnius]]

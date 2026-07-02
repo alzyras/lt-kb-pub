@@ -52,9 +52,10 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -66,11 +67,7 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=60d7ed6b0ad77d7b5d7e20f0a908cec65f7e0a816762a8d16c70f6c8e9d8fa0c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b24787e181b74e8cf962f6dec8c5d5fe30cdd150c4c2161a63dfb39977125cf6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

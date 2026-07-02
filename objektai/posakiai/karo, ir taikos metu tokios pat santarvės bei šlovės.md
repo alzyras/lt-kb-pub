@@ -57,16 +57,9 @@ Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarv
     lią žiūrėti valstybės reikalų ir viduje, ir svetur.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 222578-223114; hash=24f7d0a031b9a02e4b0c031fb89e8800d4a0fa09219a2f41e76a15fea2f51aaa; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Germantas: 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Giliginas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Germantas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai įvardija Giliginą Germanto vyresniuoju sūnumi.

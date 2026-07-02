@@ -46,8 +46,7 @@ Dusburgietis teigia, kad 2: Niemiecko-polska.— Wrocław—Warszawa, 1951.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 795719-795785; hash=56e18f96be4c782d817e99dfeafce731d7b52969a5a5cd01ed35648d05579a1b; match=exact
-  sprendimo_priezastis: auto

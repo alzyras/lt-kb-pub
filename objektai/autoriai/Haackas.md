@@ -38,8 +38,7 @@ Fr. Haacko žodynas datuojamas 1730 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1223844-1223871; hash=eff843469bcc1f68e55fae97858f50338053e56905c8c7e344b14fc4261f2696; match=exact
-  sprendimo_priezastis: auto

@@ -80,19 +80,12 @@ Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę i
     tės teisėmis iš motinos.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 399078-399957; hash=5ac19210cd7c6461155e3fce08c277fb74fb566c9119241f5b87efb62f797a16; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Podolė: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Nestanas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Nestanas valdė Podolę Teodoro vardu.
 
 ## Ryšiai
 - Nestanas valde [[objektai/vietos/Podolė]]

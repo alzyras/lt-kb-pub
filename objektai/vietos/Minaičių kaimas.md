@@ -82,18 +82,10 @@ Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakel
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8881c03a2234973243c3fb329c72f2aa26c19d58619cc3f48246f669584a1f9a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Minaičių kaimas: 0.58
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vakarų Lietuvos (Jūros) sritis: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Minaičių kaimas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Vakarų Lietuvos partizanų atstovai ir vadai susitiko Minaičių kaime pakeliui į suvažiavimą.
 
 ## Ryšiai
 - [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]] keliavo_i Minaičių kaimas

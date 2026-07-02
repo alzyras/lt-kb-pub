@@ -68,18 +68,10 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 223656-223991; hash=a267a3569b6e8c9cd25e09f284dda9581f3b4eb685360f0de57b86886918849a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> įpėdinis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Giliginas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: įpėdinis: mention_match, thing, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Giliginas" parinktas kaip owner_note_path. Targetas "įpėdinis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Giliginas buvo_sunus [[objektai/asmenys/Germantas]]

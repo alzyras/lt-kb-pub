@@ -47,8 +47,7 @@ Dusburgietis teigia, kad labuda G.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 781446-781594; hash=1affae681c823e0314a1781f7ef7dd5233f604c5b756df47d948a18fdcd8c1be; match=exact
-  sprendimo_priezastis: auto

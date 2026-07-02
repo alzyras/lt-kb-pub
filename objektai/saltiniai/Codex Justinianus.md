@@ -38,8 +38,7 @@ Dusburgietis teigia, kad codex Justinianus (VI a.) terrula (demin.) — žemės 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 178814-178890; hash=217ab03acdbeceecd5ea942b78eb1b13e63ac81d3a8fcd20f11f022879532413; match=exact
-  sprendimo_priezastis: auto

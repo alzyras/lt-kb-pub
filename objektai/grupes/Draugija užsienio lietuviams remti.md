@@ -70,18 +70,10 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 353497-354179; hash=49d9f47cefa5bbc4a0cbf9b373f4907bddb772639eea02cb158f2b3c3f92d6bf; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Lietuviai: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Draugija užsienio lietuviams remti: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad draugija sukurta padėti užsienio lietuviams.
 
 ## Ryšiai
 - Draugija užsienio lietuviams remti reme [[objektai/grupes/Lietuviai]]

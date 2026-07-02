@@ -96,15 +96,7 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 696768-697004; hash=dcac8d0b01703f30a79ee462436a39b5100f748ba387f5c01ea425f1f0b09d72; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Jerim Berdis: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kerim Berdis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jerim Berdis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Kerim Berdis užpuolė brolį Jerim Berdį.

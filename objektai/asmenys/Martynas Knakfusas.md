@@ -65,18 +65,10 @@ periodo_grupes: []
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=300f122724a4c4574ca4b58ace01a15af973861b3eb14daf2796962517fafb1e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Verkiai: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Martynas Knakfusas (vyskupas, XVIII–XIX a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Verkiai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai mini Knakfuso pradėtą statybą Verkiuose, nors objektas yra rūmai, o kandidatuose yra vieta.
 
 ## Ryšiai
 - Martynas Knakfusas (vyskupas, XVIII–XIX a.) pastate [[objektai/vietos/Verkiai]]

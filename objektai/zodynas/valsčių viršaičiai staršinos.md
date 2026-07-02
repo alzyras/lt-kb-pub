@@ -69,13 +69,10 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
     buvo atstatyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 963309-963619; hash=21261998df4fc5c96cd9162b8e8f151096dbcb92795935ef74df314855600c53; match=exact
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 963309-963619; hash=21261998df4fc5c96cd9162b8e8f151096dbcb92795935ef74df314855600c53; match=exact
-  sprendimo_priezastis: auto

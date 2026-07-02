@@ -56,18 +56,10 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fa319cf4ce071fafa99d29482fedf6a241166d8af701f7db642ee75a03053e47; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vitchendorfas: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas iš Ceico: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vitchendorfas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Asmens apibūdinimas nurodo jo kilmę ar buvimą iš Vitchendorfo kaimo.
 
 ## Ryšiai
 - Henrikas iš Ceico gyveno [[objektai/vietos/Vitchendorfas]]

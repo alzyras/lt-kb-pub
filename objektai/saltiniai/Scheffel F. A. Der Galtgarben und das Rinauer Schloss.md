@@ -47,8 +47,7 @@ Dusburgietis teigia, kad scheffel F.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 796494-796637; hash=583b6ec92799366ec5897b88bd88198eb0a8022e92298eb4d1ef3747e9ddc04c; match=exact
-  sprendimo_priezastis: auto

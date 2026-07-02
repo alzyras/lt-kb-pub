@@ -47,8 +47,7 @@ Dusburgietis teigia, kad тихвинский C.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 815534-815636; hash=204df0a1cd35cfe94e64de59531ccfe1c7d8a6ab784f54ef6968a42ce4e9ec10; match=exact
-  sprendimo_priezastis: auto

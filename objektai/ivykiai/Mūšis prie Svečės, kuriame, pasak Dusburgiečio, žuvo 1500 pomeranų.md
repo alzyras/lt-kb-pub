@@ -109,9 +109,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Komentare nurodoma, kad mūšis prie Svečės vyko 1244 m. arba 1245 m. pradžioje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -121,25 +122,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 313401-314348; hash=3fb15bd64f7ba2ca88b4acb71048ddc1b1efa1fb07897d627edc36246952f23e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Svečė: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Svečė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Sventopelkas su kariuomene stovėjo prie Svečės pilies ir ją stiprino, todėl ryšys su Svečės gynimu pagrįstas, bet netiesioginis.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 315741-315902; hash=924f0121de737998a33ce34121fc5b9fbf3e79cf29d0eaca74536e9db79c613c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Svečė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Svečė: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)" parinktas kaip owner_note_path. Targetas "Svečė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

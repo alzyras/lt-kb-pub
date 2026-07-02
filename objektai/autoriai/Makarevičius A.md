@@ -50,15 +50,7 @@ Dusburgietis teigia, kad iII, 347; Zajączkowski S., Studya..., p. 40—41; SZM,
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 570064-570450; hash=36d2a04a148b052ad1ff929215022eff758f49f93f99930f57d6263f3f26f972; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Nemunas: 0.60
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Paštuvos valsčius: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Nemunas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata lokalizuoja Paštuvos valsčių Nemuno krante; ryšys traktuojamas kaip teritorinė priklausomybė prie vietos.

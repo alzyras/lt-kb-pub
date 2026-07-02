@@ -38,7 +38,7 @@ Vartojamos formos: `aukos`, `aukas`.
   pagrindžia:
     - c-001
     - c-002
-
+- susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-187907|Gerimantas]]: Narbutas perteikia metraščio pasakojimą, kad kunigaikštis Gerimantas sumanė statyti šventyklą, o jo tėvas Šventaragis 1263 m. siuntė pasiuntinius klausti orakulo dėl jos ateities.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,9 +48,10 @@ Vartojamos formos: `aukos`, `aukas`.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -58,6 +59,8 @@ Vartojamos formos: `aukos`, `aukas`.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001

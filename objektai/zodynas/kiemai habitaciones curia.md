@@ -43,7 +43,7 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
   global_id: t-58851
   teiginys: 'Kiemai buvo didelės, turtingos ir daugiau ar mažiau įtvirtintos sodybos, bet ne pilys.'
   sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatoje pateiktą kiemų apibūdinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -95,6 +95,9 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
     V., Lietuvos..., p. 155, 329; Jurginis J., Baudžiavos..., p. 93, 101).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
@@ -113,18 +116,11 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
     nelaisvę ir išžudęs, ten pat ir pernakvojo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 347005-347683; hash=cb0eccf66aa96b15796766032e1ca839e9639fdc2cc22e87409b344956df8c37; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pilys: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: kiemai habitaciones curia: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Pilys: mention_match, thing, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kiemai habitaciones curia" parinktas kaip owner_note_path. Targetas "Pilys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -143,26 +139,9 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
     ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 345672-346325; hash=4fda609748dd71beb6fcc9e1bd7e6f31c523ba2a6b57accffe605a13abe241cd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: kiemai habitaciones curia: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kiemai habitaciones curia" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 345255-346111; hash=2bc16829a1587fb3f1a3c99cf138ee41ff6e72a166ce1e4a1d2516f548bebd4f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ringėlas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: kiemai habitaciones curia: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ringėlas: mention_match, person, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kiemai habitaciones curia" parinktas kaip owner_note_path. Targetas "Ringėlas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

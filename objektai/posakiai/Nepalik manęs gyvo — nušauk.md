@@ -38,8 +38,7 @@ Pakilau perbėgti tolyn ir matau - greta manęs buvęs Mingilas krinta apsipylę
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 995872-996037; hash=e6b35ed2bac1fe536cc9b47b72345113f046ba41036965f570280cf9f4519723; match=exact
-  sprendimo_priezastis: auto

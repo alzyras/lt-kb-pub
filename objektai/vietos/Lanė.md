@@ -82,16 +82,9 @@ Lanė prasideda apie 15 km į šiaurės rytus nuo Klecko. Lanė teka pro Klecką
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b2b95afae3debf8371383db5eaaca983acb54e0ca4e2c6b9961572e74477790e; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b2b95afae3debf8371383db5eaaca983acb54e0ca4e2c6b9961572e74477790e; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b2b95afae3debf8371383db5eaaca983acb54e0ca4e2c6b9961572e74477790e; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md

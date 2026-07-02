@@ -23,7 +23,7 @@ Dusburgietis teigia, kad pastarojo pasakojimo pradžioje kronikininkas pažymi, 
   global_id: t-59113
   teiginys: 'Antrojo prūsų sukilimo karai aprašyti ne visada chronologine seka, nes daugelio įvykių laikas išblėso iš gyvųjų atminties.'
   sudarymo_pagrindimas: 'Citata pagrindžia chronologijos paaiškinimą ir leidžia pašalinti nutrūkusį tekstą.'
-  susije_objektai: 'mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -31,7 +31,7 @@ Dusburgietis teigia, kad pastarojo pasakojimo pradžioje kronikininkas pažymi, 
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Prūsai: 0.83
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: karų neras aprašytų tokia seka, kokia jie yra vykę: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=53
@@ -52,15 +52,7 @@ Dusburgietis teigia, kad pastarojo pasakojimo pradžioje kronikininkas pažymi, 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 75620-76017; hash=4743ef072b699e95728a9d0eb62a27d3cd2ac3bfe5abf4658f98694b4a9b5aff; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: karų neras aprašytų tokia seka, kokia jie yra vykę: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "karų neras aprašytų tokia seka, kokia jie yra vykę" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

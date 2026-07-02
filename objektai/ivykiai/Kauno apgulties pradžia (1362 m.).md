@@ -84,19 +84,12 @@ Nenurodyta
     nelaimėjo ir buvo atstumtas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 427228-427832; hash=fe6267312f778c4f6a2bb137819101c18e22b9e486a82d1d1c5e08263f746b8f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Kauno apgulties pradžia (1362 m.): 0.75
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kauno apgulties pradžia (1362 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Citata aprašo kryžiuočių žygį, kuris virsta Kauno apgulties pradžia.
 
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] apgule Kauno apgulties pradžia (1362 m.)

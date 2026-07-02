@@ -93,16 +93,9 @@ Nenurodyta
     tučio sūnumi, gyvi pakliuvo į nelaisvę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 427592-428447; hash=d4a001c76641eef579dd56c011a46613ee700e8061632e0b53eba29d378edfd9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kaunas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje kryžiuočiai apibūdinami kaip užgriuvę Kauną, todėl palaikomas puolimo ryšys.

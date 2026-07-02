@@ -51,6 +51,9 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
     linių įvedimo į Ruro kraštą.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -67,29 +70,12 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
     ravo.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=76130ddf4674e10874d13a313e152ab112b37d855459776331ee695325029470; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Ruro kraštas (kraštas): 0.80
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Prancūzai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Ruro kraštas (kraštas): llm_allowed_candidate, place
-  ryšio_paaiskinimas: Dalinių įvedimas į Ruro kraštą tiesiogiai rodo prancūzų karinį nukreipimą į šią vietą.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 306908-307244; hash=2a4197201d24c8bfcc3f0eec3259c1b158bad0c13330e956e433ac309e15b7e1; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Ruro kraštas (kraštas): 0.80
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Prancūzai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Ruro kraštas (kraštas): llm_allowed_candidate, place
-  ryšio_paaiskinimas: Prancūzų dalinių įvedimas į Ruro kraštą pagrindžia karinį siuntimo į vietą santykį.
 
 ## Ryšiai
 - [[objektai/grupes/Prancūzai]] siunte_i Ruro kraštas (kraštas)

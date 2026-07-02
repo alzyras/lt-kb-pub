@@ -51,15 +51,7 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 473390-473884; hash=f1b86bf0d628d9eb975782533133629cd8b4aec3d7f0b443329c082103cc7109; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Bysleida: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Nadruviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Bysleida: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Nadruviai įvardyti tarp grupių, kurios apsiautė Bysleidos pilį.

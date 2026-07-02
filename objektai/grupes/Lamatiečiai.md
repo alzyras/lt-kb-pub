@@ -51,18 +51,10 @@ Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gy
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 171114-171425; hash=742209a01cb347039e77322499734830e260d6b36585ccdab991ec5ad17a9179; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Minija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lamatiečiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Minija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lamatiečių gyvenamoji vieta tiesiogiai nurodyta Minijos žemupyje.
 
 ## Ryšiai
 - Lamatiečiai gyveno [[objektai/vietos/Minija]]

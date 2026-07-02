@@ -98,6 +98,9 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
     bei Šuiskiui tuščius globėjų vardus.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -121,26 +124,9 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
     vaikus bei senelius.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1180193-1180835; hash=c3dc49127604b19ec4203b1f93e5e71f664d4f654e59dacb9c12c0eb56d2bb5e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lietuva: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo maskvėnų pradėtą karą prieš Lietuvą.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1180427-1181092; hash=5686e30e37c72cc1cea6113a175866274ee0cd0ea62b31bd77d8bb609640298f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lietuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad maskvėnai nusiaubė Lietuvą.

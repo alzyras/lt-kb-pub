@@ -112,9 +112,10 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -136,28 +137,10 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 88370-89045; hash=70396e8e5157800185d346bb219847fbee6ce93ba3fc884452e148522ae60622; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Italija: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Langobardai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys aprašo langobardų judėjimą, kuris baigiasi įsiveržimu į Italiją.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 89308-89628; hash=60b7eeb663d739248562ccac2091b96469b87cf913ed83f726967c45476014af; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Romėnai: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Langobardai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Romėnai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Taikos sudarymas su romėnais yra tiesioginis sutarties santykis.
 
 ## Ryšiai
 - Langobardai sudare_sutarti_su [[objektai/grupes/Romėnai]]

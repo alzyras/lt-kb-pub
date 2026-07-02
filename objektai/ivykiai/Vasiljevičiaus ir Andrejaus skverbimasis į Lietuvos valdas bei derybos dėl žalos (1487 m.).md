@@ -82,16 +82,9 @@ Nenurodyta
     apie smulkesnius išpuolius.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 940943-941493; hash=65b1b3e649479f1f21f8b942576bf7be0f7882ac5947f4d624510a2f4a327341; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viazma: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vasiljevičiaus ir Andrejaus skverbimasis į Lietuvos valdas bei derybos dėl žalos (1487 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Viazma: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vasiljevičiaus ir Andrejaus skverbimasis į Lietuvos valdas bei derybos dėl žalos (1487 m.)" parinktas kaip owner_note_path. Targetas "Viazma" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

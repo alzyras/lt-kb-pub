@@ -78,15 +78,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 764524-765113; hash=7b4107611d4632a6404cbcb938433925cf9273d7afc07297f30e03088fa8ba5c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Trakai: 0.75
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata sieja kryžiuočių įgulą Trakuose su vėlesne Trakų apgultimi.

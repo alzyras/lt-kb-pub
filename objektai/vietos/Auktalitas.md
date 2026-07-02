@@ -68,9 +68,10 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '1256 m. Karaliaučiaus komtūras Vonsdorfo žemėje apsupo, užėmė ir iki pamatų sudegino Auktalito pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -84,21 +85,10 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4d9ecf4a2caa3b582932442526b1dda8a33d8793498b8def154ccac84099f153; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vonsdorfas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Auktalitas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Vonsdorfas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys rodo, kad Auktalito pilis buvo Vonsdorfo žemėje.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 357749-357910; hash=676ffc92ad8dbab8e1f701afac7f66e119d8cb83b88536d221b5eddcc4a3f9c0; match=exact
-  sprendimo_priezastis: auto
 
 ## Ryšiai
 - Auktalitas priklause [[objektai/vietos/Vonsdorfas]]

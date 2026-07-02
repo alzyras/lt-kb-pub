@@ -93,27 +93,10 @@ Nenurodyta
                            198 (193).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 514148-514656; hash=ecf3dfabea8c58a5228d9ca66fe68ff72a5c557789257367cd6da354a0e6cfb0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Sūduva: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sūduva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Konrado įsiveržimą į Sūduvos valsčių.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 514148-514656; hash=ecf3dfabea8c58a5228d9ca66fe68ff72a5c557789257367cd6da354a0e6cfb0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Sūduva: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sūduva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sieja Konradą su įsiveržimu į Sūduvos valsčių.

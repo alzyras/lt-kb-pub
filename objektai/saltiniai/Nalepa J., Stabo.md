@@ -57,15 +57,7 @@ Dusburgietis teigia, kad stabo — dab.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 540808-541083; hash=bac7a1cf8fac9bf9852da8d9d4c4e59cd498d49d56b7c12294c91777917449e4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Suvalkai: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jotvingiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Suvalkai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo jotvingių išlikimą regione prie Suvalkų, todėl palaiko gyvenimo vietos ryšį tik apytikriai.

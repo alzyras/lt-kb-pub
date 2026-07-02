@@ -108,9 +108,10 @@ periodo_grupes:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -129,19 +130,10 @@ periodo_grupes:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 756079-756283; hash=9dfcb618c93e0e414fbd0cc25d9a9a19af805280ac948d1a9cb8a8432ded49e1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Utena: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: K. Ladyga: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Utena: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad K. Ladyga su likusiais vyko į Uteną.
     - t-002
-
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -155,28 +147,10 @@ periodo_grupes:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 766699-767148; hash=7b8c1cac7f8b6cea91b95b4e0500b6c1686ff5b6f6ff97ee7ecb3391eb1b6d8d; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> brigada: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Ladyga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: brigada: mention_match, group, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Ladyga" parinktas kaip owner_note_path. Targetas "brigada" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 770150-770438; hash=b0402c7a83f9ff9c7bae65bcccadfbd2dab1a6da937b0e1a8c70fc5d80e1e254; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Zarasai: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: K. Ladyga: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Zarasai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: K. Ladygos įsakytas puolimas buvo nukreiptas Zarasų kryptimi.
 
 ## Ryšiai
 - K. Ladyga keliavo_i [[objektai/vietos/Utena]]

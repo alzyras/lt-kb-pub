@@ -96,6 +96,9 @@ Nenurodyta
     simboliu, senosios Lietuvos valstybės likimo ženklu.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -115,26 +118,9 @@ Nenurodyta
     kultūra kartais apibūdinama kaip raštinių kultūra.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=55bf5adf49422aa73b566fdbedef166beed3527326be46e00ebe9abeb0411b45; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika: owner_note_path, thing
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 105484-106037; hash=f7b9f32de0391f3efa6afcacc1227777b418e7144913c0e68407535fb92f8aaf; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> raštinių kultūra: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: raštinių kultūra: mention_match, thing, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika" parinktas kaip owner_note_path. Targetas "raštinių kultūra" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

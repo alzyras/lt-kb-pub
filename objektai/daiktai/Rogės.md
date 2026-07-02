@@ -4,6 +4,10 @@ pavadinimas: 'Rogės'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+aliases:
+  - 'objektai/daiktai/Rogelės'
+variantai:
+  - 'Rogelės'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -66,9 +70,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Lietuvos metraščio pasakojime Moldavijos vaivada Steponas, skaudant kojai, įsakė vežti save rogėse ir atvyko su savo žmonėmis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -92,8 +97,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 70662-70887; hash=b3b7870ed51e26bc74586b1a6c4ba0750c4a2952d039950b80a8605e5ba7140f; match=exact
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
     - t-002

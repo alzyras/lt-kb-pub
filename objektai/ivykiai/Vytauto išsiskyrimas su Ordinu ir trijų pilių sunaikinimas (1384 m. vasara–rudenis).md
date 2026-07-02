@@ -83,15 +83,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 96018-96941; hash=882d418ff39cabb808cd58a80d2cf51ada67ded2f70784787e11e3077a8e781f; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Jurbarkas: 0.57
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jurbarkas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Toliau citatoje nurodoma pilies gynėjų paėmimas ir pilies sudeginimas, bet objektas yra tik Jurbarkas kaip vieta.

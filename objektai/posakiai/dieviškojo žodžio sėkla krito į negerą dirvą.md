@@ -24,7 +24,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   global_id: t-59090
   teiginys: 'Vyskupas Kristijonas dažnai ragino prūsus atsisakyti stabų, tačiau dieviškojo žodžio sėkla tarp jų krito į negerą dirvą.'
   sudarymo_pagrindimas: 'Citata leidžia aiškiai susieti posakį su Kristijono nesėkmingu prūsų raginimu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija; llm_object: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; llm_object: Prūsija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -56,15 +56,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 128510-129107; hash=3598b8239dd2170c359181ceb0a57130e86d7a9cf098f6ca82ca5c195eb28bb8; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Prūsija: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kristijonas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kristijonas gyveno kaip Prūsijos vyskupas.

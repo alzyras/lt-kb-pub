@@ -37,8 +37,7 @@ Jie arba išmovė pas Abraomą, arba išbaigė šovinius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1010698-1010838; hash=9fa221ceb08d65e4caf89adaf1b1c209c0f911c9e4c9b3995951c276bc213aca; match=exact
-  sprendimo_priezastis: auto

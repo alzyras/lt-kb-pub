@@ -50,4 +50,6 @@ Dusburgietis teigia, kad rudolfas (Tiberiados valdovas) sušakosiąs ir ateityje
     popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified

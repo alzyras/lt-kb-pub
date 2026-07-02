@@ -70,19 +70,12 @@ Nenurodyta
     gavę į priešo žemę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 280011-280647; hash=2106ce63d58d4851decbd75fa2aab6357feba175e5c87f7a94f132c6c7c01c2a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Nodamas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Kryžiuočiai yra tiesioginiai Nodamo klastos ir puolimo taikiniai.
 
 ## Ryšiai
 - [[objektai/asmenys/Nodamas]] uzeme Karine klasta paimamas kryžiuočių laivas

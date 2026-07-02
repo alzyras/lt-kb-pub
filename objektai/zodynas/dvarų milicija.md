@@ -69,6 +69,9 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
     samdytos kariuomenės — savo dvarų milicijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -85,26 +88,9 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
     Sapiegos.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fb85dad6838bd4d87db127139f9cdcbbe8422486e0f1d8207136d555d0a64b0b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Sapiegų kariuomenė: 0.78
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos bajorija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Sapiegų kariuomenė: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekstas aiškiai apibūdina prieš Sapiegas susirinkusią Lietuvos bajoriją kaip Sapiegų priešininkų jėgas.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 764674-764964; hash=740d013a44cb6a1add53111bf27b65ddfee49722103a99be1b52c96812413785; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Sapiegos: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos bajorija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Sapiegos: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Lietuvos bajorija buvo susirinkusi prieš Sapiegas.

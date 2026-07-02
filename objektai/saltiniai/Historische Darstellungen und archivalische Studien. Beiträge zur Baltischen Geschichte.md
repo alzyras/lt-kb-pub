@@ -50,8 +50,7 @@ Schie­ mann, be kitko, išsp. Historische Darstellungen und archivalische Studi
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 250783-250948; hash=ba8f366accd968f4c8175335b285b63578427332a67ac14383911a8dc876fd75; match=exact
-  sprendimo_priezastis: auto

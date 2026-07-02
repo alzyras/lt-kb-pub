@@ -48,6 +48,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8019da291b972904739b04a767ded0ae9e146fc7c74c60f8575dc5f21c3940da; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

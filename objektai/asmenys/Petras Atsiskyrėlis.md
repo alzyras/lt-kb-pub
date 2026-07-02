@@ -117,9 +117,10 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-
 - c-002
   santrauka: 'Petras Atsiskyrėlis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -140,19 +141,10 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 723861-724793; hash=64c7e33e68f62ac43575e272e8eb6a2179954d73cc5c31bf9bbb0d7d085781f6; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Italija: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Petro judėjimą per Italiją.
     - t-001
-
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -172,30 +164,11 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 723052-723860; hash=e4cfc8289ef487dc6df535260fa1ddac875be9326339b03b25610203ca670f57; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Prancūzija: 0.78
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prancūzija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Petras apibūdintas kaip žmogus iš Prancūzijos karalystės, todėl vietos ryšys tiesiogiai palaikomas.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 723861-724793; hash=64c7e33e68f62ac43575e272e8eb6a2179954d73cc5c31bf9bbb0d7d085781f6; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Italija: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata aiškiai sako, kad Petras pervažiavo Italiją.
     - t-002
-
 - c-004
   santrauka: 'Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -214,28 +187,10 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0159d9ed81282646381521ab6aef9795dc0df20fb80c79af0159c313aafcf80e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Atsiskyrėlis" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 722637-723378; hash=87719c6e390e8ac38b6a871234f0097bf1de38a8894c4baa6eb4823cc6a37700; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Prancūzija: 0.77
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prancūzija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Petras nurodytas kaip kilęs iš Prancūzijos karalystės.
 
 ## Ryšiai
 - Petras Atsiskyrėlis keliavo_i [[objektai/vietos/Italija]]

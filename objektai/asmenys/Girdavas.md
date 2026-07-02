@@ -67,18 +67,10 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=965a192702f9702f4bcbf9f2dccaba33f98ce30083e222324426db221b98e65b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Girdavas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Girdavai: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Girdavas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Girdavų pilis aprašyta kaip Girdavo turėta pilis.
 
 ## Ryšiai
 - [[objektai/vietos/Girdavai]] priklause Girdavas

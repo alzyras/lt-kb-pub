@@ -77,9 +77,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Kalno griūtis užslinko ant Manvydo rūmų, pridarė daug nuostolių, užpylė jo tarnus ir užvertė brangenybes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -94,28 +95,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 363456-363837; hash=c0c0184650fbd43f7f55dac91b3b160000e50a53523915014da418bf36fc99b8; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Manvydas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Manvydo rūmai: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Manvydas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Formuluotė „Manvydo rūmo“ tiesiogiai susieja rūmus su Manvydu.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=282144c9cb555e836c792f1e9fa4f2de59e84171331bfb4d197fcd124fc479e8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Manvydas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Manvydo rūmai: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Manvydas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Kilmininko forma rodo, kad rūmai siejami su Manvydu kaip savininku ar valdovu.
 
 ## Ryšiai
 - Manvydo rūmai priklause [[objektai/asmenys/Manvydas]]

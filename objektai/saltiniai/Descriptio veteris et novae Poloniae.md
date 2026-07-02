@@ -48,8 +48,7 @@ Kai kurie mūsų senieji autoriai taip pat rašo - Vigilia, užuot rašę Vilija
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 57582-57765; hash=f287d55539f8ddb542fccbff3f8f5d74cfe6512f5e6e09aa80e0b09acaeb44b2; match=whitespace_regex
-  sprendimo_priezastis: auto

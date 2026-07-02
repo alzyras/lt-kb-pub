@@ -82,27 +82,10 @@ Nenurodyta
       1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 743648-744224; hash=18987f70c55186ca544f721ec8fb154feef73dd821f6fc6a96256e06c49f8869; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Italija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Daugelio tūkstančių gvelfų žūtis Italijoje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Italija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugelio tūkstančių gvelfų žūtis Italijoje" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 743648-744224; hash=18987f70c55186ca544f721ec8fb154feef73dd821f6fc6a96256e06c49f8869; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Italija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Daugelio tūkstančių gvelfų žūtis Italijoje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Italija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugelio tūkstančių gvelfų žūtis Italijoje" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

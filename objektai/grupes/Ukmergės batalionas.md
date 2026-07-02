@@ -52,18 +52,10 @@ Kubiliaus vadovaujamas Ukmergės batalionas, nepaisydamas smarkios priešo ugnie
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 768885-769203; hash=d1081d5a5bd7618929a14b49144f1ec70ef5c028d7b085fc842400af74afa408; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Rusai: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ukmergės batalionas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Ukmergės bataliono kariai tiesiogiai aprašyti kaip išstūmę rusus iš pozicijų.
 
 ## Ryšiai
 - Ukmergės batalionas kariavo_pries [[objektai/grupes/Rusai]]

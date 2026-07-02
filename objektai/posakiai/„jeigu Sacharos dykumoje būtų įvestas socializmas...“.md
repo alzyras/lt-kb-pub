@@ -69,26 +69,8 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 442742-443269; hash=25ad6e3236a8a2dccfbbf95a5a7d904423615e82de12f3f92743f70fa5b8c11f; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vaistinės prekės, vaistai ir gydomieji gėrimai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „jeigu Sacharos dykumoje būtų įvestas socializmas...“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vaistinės prekės, vaistai ir gydomieji gėrimai: mention_match, thing, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„jeigu Sacharos dykumoje būtų įvestas socializmas...“" parinktas kaip owner_note_path. Targetas "Vaistinės prekės, vaistai ir gydomieji gėrimai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 442742-443269; hash=25ad6e3236a8a2dccfbbf95a5a7d904423615e82de12f3f92743f70fa5b8c11f; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> SSRS: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „jeigu Sacharos dykumoje būtų įvestas socializmas...“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: SSRS: mention_match, place, gap=89
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„jeigu Sacharos dykumoje būtų įvestas socializmas...“" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

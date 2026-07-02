@@ -36,8 +36,7 @@ Be to, įdėta prof. Brenderio, prof. PutinoMykolaičio, Dr. Putino - Mykolaiči
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 741072-741137; hash=910500dc0c9b6a384e00647a5dac9444fed560d7e001f369e9e3b053a03f9088; match=exact
-  sprendimo_priezastis: auto

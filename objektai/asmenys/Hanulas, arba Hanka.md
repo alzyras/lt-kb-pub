@@ -71,18 +71,10 @@ Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo �
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 104153-104614; hash=559f78fd6abaaedf69a1f8ad4b1f6a18396d22c8791dd8c2eefffb193d2af664; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Vilnius: 0.73
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hanulas, arba Hanka: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vilniaus seniūno pareigos pagrindžia valdymo ryšį su Vilniumi, nors tai pareiginė formuluotė.
 
 ## Ryšiai
 - Hanulas, arba Hanka valde_miesta [[objektai/vietos/Vilnius]]

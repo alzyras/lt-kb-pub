@@ -124,9 +124,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -139,30 +140,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 399219-399560; hash=aba4a5826407cee0c832a0f9e5f1e9727674425d667b25975972e1b471bf8281; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Fišhauzenas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Fišhauzenas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claim tiesiogiai nurodo Rinavos sembų mėginimą pulti Fišhauzeno pilį.
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1819da0ec44cd88af108468be134080fa199e3ee08440746e5a8603c2abc8570; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Rinava: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Rinava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo sembų gyvenimą Rinavos valsčiuje.
     - t-001
-
 - c-003
   santrauka: 'Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -181,25 +163,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1819da0ec44cd88af108468be134080fa199e3ee08440746e5a8603c2abc8570; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Rinava: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Rinava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad sembai gyveno Rinavos valsčiuje.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a89fed938e30e95955fe8fa465a21488b65b08ece35374bd007ecfc54a334762; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Rinava: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Rinava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių; iš leistinų kandidatų veikėjas yra sembai.

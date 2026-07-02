@@ -43,8 +43,7 @@ Dusburgietis teigia, kad apie Joną XXI, popiežių, ir karalių Rudolfą, Romos
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 716332-716564; hash=b22bb06ecf04c20405c83970bcb32e4a01647f8ca2937374aa882e62198b38c2; match=exact
-  sprendimo_priezastis: auto

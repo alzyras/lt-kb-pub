@@ -84,26 +84,8 @@ Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas p
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 326136-327510; hash=7cf5b22df82392bcefe2d66349b2d4d1f6786356fee7e9872e812f98fa34c2e6; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kulmas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas iš Lichtenšteino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Henriko vykimą į Kulmo miestą.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 326136-327510; hash=7cf5b22df82392bcefe2d66349b2d4d1f6786356fee7e9872e812f98fa34c2e6; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kulmas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas iš Lichtenšteino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Henrikas buvo išleistas į Kulmo miestą.

@@ -14,6 +14,10 @@ datos:
   - '2026 m.'
 date_start: '1247'
 date_end: '2026'
+aliases:
+  - 'objektai/saltiniai/Livonijos Eiliuotinė kronika'
+variantai:
+  - 'Livonijos Eiliuotinė kronika'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -119,6 +123,9 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     čionims ėjo ir žygiuodama vis didėjo“.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-003
@@ -147,6 +154,9 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     Gotesverderio pilį prie Nemuno.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-005
@@ -174,6 +184,9 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     nukreiptas prieš Ordiną.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
@@ -189,6 +202,9 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -217,6 +233,9 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     čiai buvo smarkiai sumušti riterių magistro.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-006
@@ -237,6 +256,9 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     ir žuvo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-007

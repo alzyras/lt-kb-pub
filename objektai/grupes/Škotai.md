@@ -127,18 +127,10 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 287229-289327; hash=28abb5bc03bb266e56436ba0f84b5163500a0fa508e0032137f2d7821ecc41cb; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Vokiečiai: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Škotai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Škotų savanoriai papildė vokiečių riterių būrius, todėl tai yra karinė parama.
 
 ## Ryšiai
 - [[objektai/grupes/Anglai]] buvo_priesas Škotai

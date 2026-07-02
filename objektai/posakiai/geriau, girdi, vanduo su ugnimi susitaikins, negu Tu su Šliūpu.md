@@ -40,8 +40,7 @@ Gerai man vienas inteligentas sakė, kai ketinau važiuoti į Ameriką: geriau, 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=06d6e4d0850e936ae1c98cd627e661009331b666cab6062bfac0bcf883670293; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

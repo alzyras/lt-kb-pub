@@ -68,15 +68,7 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6cccff0639ba29f107a3fe3fc58e23a7a8c825723b40d2364131354bacd8120b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Stasys Antanas Bačkis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: primus inter pares: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Stasys Antanas Bačkis: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "primus inter pares" parinktas kaip owner_note_path. Targetas "Stasys Antanas Bačkis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -67,15 +67,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 204879-205135; hash=e5c37e0abe22d2def923bb60b8636d30bf5b083a405dcdaafff0200c8fd23b96; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Laužas: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Laužas: llm_allowed_candidate, thing
-  ryšio_paaiskinimas: Laidojimo apeigos tiesiogiai aprašomos kaip sudeginimas ant laužo.

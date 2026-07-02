@@ -63,18 +63,10 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 418454-418751; hash=1239f109f3198a527957e8200b5acbf25c1114426edd844bc39191b0f4b0f962; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Ašmena: 0.64
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mangaila iš Ašmenos: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Ašmena: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vietovardinis įvardijimas tiesiogiai sieja Mangailą su Ašmena, nors tai gali reikšti kilmę ar rezidenciją.
 
 ## Ryšiai
 - Mangaila iš Ašmenos gyveno [[objektai/vietos/Ašmena]]

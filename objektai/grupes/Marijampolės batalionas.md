@@ -81,9 +81,10 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Atskirojo Marijampolės bataliono viršila Antanas Šukys aprašė naktinę žvalgybinę-diversinę operaciją į bolševikų divizijos štabą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -99,28 +100,10 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 762133-762537; hash=4f65241941b5b1ace581ec499ac2cc8ce780e81a248e811d2e0e03accf25e0ac; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Antanas Šukys: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marijampolės batalionas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Antanas Šukys: mention_match, person, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marijampolės batalionas" parinktas kaip owner_note_path. Targetas "Antanas Šukys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 762207-762601; hash=42dfef300e193c98396060266428a6f1f1a0a553430f00137bdbaa78396e2cc5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> brigada: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Marijampolės batalionas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: brigada: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekstas nurodo, kad Marijampolės batalionas veikė brigadoje.
 
 ## Ryšiai
 - Marijampolės batalionas priklause [[objektai/grupes/11 brigada]]

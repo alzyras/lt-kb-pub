@@ -84,6 +84,9 @@ Nenurodyta
     jūčio viduryje užpuolė Slucką.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -107,26 +110,9 @@ Nenurodyta
     skitai, smarkiai jų sumušti, turėjo pasitraukti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1033069-1033323; hash=dea588a1097097e76105625cbdb3895a9c5f0ce774f21ac791c9d2b765151824; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Sluckas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Burnaš Girėjus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sluckas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Burnaš Girėjų kaip vieną iš Slucko puolėjų.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1033190-1033687; hash=325df9a2adaf87dd616435a14af79e09ca222395b2b487b65dbb4590e143e94f; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Sluckas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Burnaš Girėjus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sluckas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Burnaš Girėjus užpuolė Slucką.

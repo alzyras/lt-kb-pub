@@ -62,15 +62,7 @@ Rusijos caras Aleksandras 11 1856 m. paskelbė politinę amnestiją 1831 m. suki
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 650747-651003; hash=59404f51a889b52215b78538e9192f6be03487d0c8d8067fe555dcea5ce659ad; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras II: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Politinė amnestija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Aleksandras II: mention_match, person, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Politinė amnestija" parinktas kaip owner_note_path. Targetas "Aleksandras II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

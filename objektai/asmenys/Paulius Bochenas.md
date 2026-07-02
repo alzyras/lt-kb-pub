@@ -77,18 +77,10 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=20a7bcd1dd68a2293a71cdb307f096ad2074be566c8acca279ebc509f82adc36; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Paulius Bochenas: 0.65
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Paulius Bochenas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Bochenas pardavė mūrinį namą, tad tekstas palaiko, kad namas buvo jo disponuojamas turtas.
 
 ## Ryšiai
 - [[objektai/daiktai/Namas]] priklause Paulius Bochenas

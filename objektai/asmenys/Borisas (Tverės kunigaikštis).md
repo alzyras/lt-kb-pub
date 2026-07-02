@@ -116,9 +116,10 @@ periodo_grupes:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -142,28 +143,10 @@ periodo_grupes:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 353800-354387; hash=80241a6f40b222991985bb644f0e450da93ac650aa50d0b0aee2903d8303f944; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Tverė: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tverė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Titulas tiesiogiai sieja Borisą su Tverės valdymu.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7237c0ed25b833bef2ce5c57e839f92fb56c54ecd1a42614a7a9cc9b9b1325c7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Tverė: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tverė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė aiškiai vadina Borisą Tverės kunigaikščiu.
 
 ## Ryšiai
 - [[objektai/asmenys/Sofija (Švitrigailos žmona)]] buvo_dukte Borisas (Tverės kunigaikštis)

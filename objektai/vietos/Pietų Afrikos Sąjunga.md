@@ -49,29 +49,11 @@ sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=52b89ebe50d19f675586485d7c3d5a40ecc50de435e018b5b0c216d90700d5e1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Pietų Afrikos Sąjunga: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Pietų Afrikos Sąjunga: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai pagrindžia žydų vykimą į Pietų Afrikos Sąjungą.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=52b89ebe50d19f675586485d7c3d5a40ecc50de435e018b5b0c216d90700d5e1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Pietų Afrikos Sąjunga: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Pietų Afrikos Sąjunga: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo žydų emigracijos kryptį į Pietų Afrikos Sąjungą.
 
 ## Ryšiai
 - [[objektai/grupes/Žydai]] keliavo_i Pietų Afrikos Sąjunga

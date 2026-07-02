@@ -67,18 +67,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8616a3b3f91807bf1bd5522ac2584a650eec5ecee34cc3577ccceff0e32240c2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Nemuno-Dauguvos-Dniepro plotas: 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Nemuno-Dauguvos-Dniepro plotas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad baltai pasiliko gyventi Nemuno-Dauguvos-Dniepro plote.
 
 ## Ryšiai
 - [[objektai/grupes/Baltai]] gyveno Nemuno-Dauguvos-Dniepro plotas

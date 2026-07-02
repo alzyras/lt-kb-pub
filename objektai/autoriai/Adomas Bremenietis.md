@@ -30,7 +30,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   global_id: t-30554
   teiginys: 'Adomas Bremenietis 1072-1076 m. veikalo „Gesta Hammaburgensis ecclesiae pontificum“ ketvirtoje knygoje pateikė žinių apie prūsus.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje pateiktą informaciją apie autorių ir veikalą.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_object: [[objektai/posakiai/homines humanissimi|homines humanissimi]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Skandinavija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_object: [[objektai/posakiai/homines humanissimi|homines humanissimi]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Skandinavija'
   temporaliniai_duomenys: 'įvykio data: 1072-1076; įvykio data: 1076 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje pateiktą informaciją apie autorių ir veikalą.'
@@ -41,7 +41,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Prūsai: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Adomas Bremenietis: owner_note_path, author, gap=0
   ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=122
@@ -66,15 +66,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b72614796632f393a6602c626bd1f5115c3de33207e84fe40686f52cf7b848ee; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Adomas Bremenietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=122
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adomas Bremenietis" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -23,8 +23,8 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
   global_id: t-60469
   teiginys: 'Volradas Nuostabusis, Notangos ir Varmės fogtas, Lencenbergo pilyje sudegino prūsų kilminguosius ir visą pilį.'
   sudarymo_pagrindimas: 'Sutvarkyta į pilną sakinį apie asmenį ir jo veiksmą.'
-  susije_objektai: 'mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Varmė; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; llm_object: Prūsai'
-  semantiniai_rysiai: '[[objektai/asmenys/Volradas Nuostabusis|Volradas Nuostabusis]] puolė Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Notanga; mentioned_place: Varmė; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; llm_object: [[objektai/grupes/Prūsai|Prūsai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Volradas Nuostabusis|Volradas Nuostabusis]] puolė [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -32,7 +32,7 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
   sprendimo_priezastis: auto
   ryšio_patikimumas: puole -> Prūsai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_patikimumo_priezastys: deterministic_validation_passed; llm_structured_decision; prusai_group_context
   ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_subjekto_parinkimas: Volradas Nuostabusis: llm_allowed_candidate, person
   ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
@@ -58,18 +58,10 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 373297-374110; hash=f4e2ab62cbe0724113d6edbf404f9161e8bc851c2e1d4c4c23ed632b4392a6b9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Prūsai: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Volradas Nuostabusis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Volradas sudegino prūsų kilminguosius; kandidatas „Prūsai“ pateiktas kaip vieta, todėl ryšys paliekamas atsargiai.
 
 ## Ryšiai
-- Volradas Nuostabusis puole [[objektai/vietos/Prūsai]]
+- Volradas Nuostabusis puole [[objektai/grupes/Prūsai]]

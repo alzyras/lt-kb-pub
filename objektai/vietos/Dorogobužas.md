@@ -55,8 +55,7 @@ Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1072888-1073350; hash=69fcad0b2a2343cb6209da4bdd08f6f9192dee2e705a3e5a9cfc537e9a3ec06d; match=exact
-  sprendimo_priezastis: auto

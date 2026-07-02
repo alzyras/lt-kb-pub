@@ -38,8 +38,7 @@ Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 55984-56158; hash=112260bbbb765c6d3b7c313b149bcfb7bde581d1dd4fabe4e88df413be3a81fb; match=exact
-  sprendimo_priezastis: auto

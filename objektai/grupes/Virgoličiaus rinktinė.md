@@ -67,18 +67,10 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 784695-784939; hash=d33d3fb7e8cf1d5fc2eeaade37dedde94e7db5bc6470773b51735f8add8c1a72; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Šiauliai: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Virgoličiaus rinktinė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Šiauliai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas tiesiogiai nurodo rinktinės persikėlimą į Šiaulius.
 
 ## Ryšiai
 - Virgoličiaus rinktinė keliavo_i [[objektai/vietos/Šiauliai]]

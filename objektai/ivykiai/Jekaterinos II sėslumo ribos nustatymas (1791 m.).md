@@ -105,27 +105,10 @@ Nenurodyta
     vos, Baltarusijos, Ukrainos ir Lenkijos – žydai.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 26553-27180; hash=66ce66e218a3e5d213f94c7f5114e589a2a3a668648812d0f06c4ff3661dfb30; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Rusija: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad žydai galėjo gyventi Rusijos imperijos erdvėje tik nustatytoje zonoje.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 26553-27180; hash=66ce66e218a3e5d213f94c7f5114e589a2a3a668648812d0f06c4ff3661dfb30; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jekaterina II: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jekaterinos II sėslumo ribos nustatymas (1791 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jekaterina II: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jekaterinos II sėslumo ribos nustatymas (1791 m.)" parinktas kaip owner_note_path. Targetas "Jekaterina II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -102,20 +102,11 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
   citata_rodoma: ''
   teiginio_tipas: interpretacija
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 28362-28871; hash=c5064cb4c5f297b46b82057d01ef54d9753d8b9099b98f457e2c141fd4e69e53; match=whitespace_regex
-  sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: susije_su -> luomas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Riterių luomas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: luomas: mention_match, thing, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Riterių luomas" parinktas kaip owner_note_path. Targetas "luomas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-
 - c-002
   santrauka: 'Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -131,25 +122,7 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 28362-28871; hash=c5064cb4c5f297b46b82057d01ef54d9753d8b9099b98f457e2c141fd4e69e53; match=whitespace_regex
-  sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: susije_su -> luomas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Riterių luomas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: luomas: mention_match, thing, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Riterių luomas" parinktas kaip owner_note_path. Targetas "luomas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 28544-28954; hash=e4f489ec1daeef192cb449cb36f99b7b69592116fe7e1a6f617ac799ddee7b19; match=whitespace_regex
-  sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: susije_su -> luomas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Riterių luomas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: luomas: mention_match, thing, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Riterių luomas" parinktas kaip owner_note_path. Targetas "luomas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -82,9 +82,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Vilniaus katedra iškilmingu aktu buvo aprūpinta kunigaikštiška Tauragnų pilimi su visu pavietu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -118,28 +119,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 260211-260484; hash=8107b7719aaa0d13bc9fc0390831f5042a36c3a3632ba8bb8a136d9b54a0b8c1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tauragnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tauragnų pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Tauragnai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tauragnų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Tauragnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 242726-243574; hash=ba3145fcabbeaf8ad8b097e8c251783b20e5e8c7ee8aa9fa75b1e098fdaf3e85; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vilniaus katedra: 0.85
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Tauragnų pilis (pilis): llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Vilniaus katedra: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tauragnų pilis nurodyta kaip dovanojama Vilniaus katedros aprūpinimui.
 
 ## Ryšiai
 - Tauragnų pilis (pilis) priklause [[objektai/vietos/Vilniaus katedra]]

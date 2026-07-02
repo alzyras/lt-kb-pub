@@ -72,15 +72,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 456820-457408; hash=9dce7b960cc19e623319fb6f41e664e65b305bb2b51673de594dbfa1dc1cf2b3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Birgelava: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Birgelava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Treniota ir jo pajėgos paėmė Birgelavos pilį.

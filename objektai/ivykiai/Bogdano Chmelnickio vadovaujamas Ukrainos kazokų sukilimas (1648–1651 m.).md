@@ -99,9 +99,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -123,25 +124,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 488226-488604; hash=001dc95090dd46b5092f0dd7fe265e89982e2531d63f090e9e67e47c98a0424b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Mozyrius: 0.76
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Mozyrius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo kazokus siautėjus Mozyriaus apylinkėse.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 489218-489707; hash=a3a3c51ab385c8035ad3d39214d586c21e2080e70a59c29aeac5fe32a57152fc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lojevas: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lojevas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kazokų pajėgų priartėjimas prie Lojevo tiesiogiai remia judėjimo į Lojevą ryšį.

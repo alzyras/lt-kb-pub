@@ -47,8 +47,7 @@ Dusburgietis teigia, kad mažiulis V.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 785715-785815; hash=a1a1bd1a0c103952900bc099d29500bd1106c950a0896249277212212f7d1dfd; match=exact
-  sprendimo_priezastis: auto

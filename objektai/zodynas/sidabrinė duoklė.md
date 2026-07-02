@@ -59,16 +59,8 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 604828-605154; hash=11f042f37abbf9962ae5ddb616c8d95367ecf1c8766507395b40f80a33ad3a99; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> duoklė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: sidabrinė duoklė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: duoklė: mention_match, thing, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "sidabrinė duoklė" parinktas kaip owner_note_path. Targetas "duoklė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

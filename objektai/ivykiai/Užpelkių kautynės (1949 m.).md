@@ -83,18 +83,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 999970-1000475; hash=6a581e3148eaaf41f576c1acac1d58d597fa5a26455a760d856b11b1ac16c51e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Užpelkių kautynės (1949 m.): 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras Bartkus-Žadgaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Užpelkių kautynės (1949 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Petras Bartkus-Žadgaila nurodytas tarp šiame įvykyje žuvusių LLKS narių.
 
 ## Ryšiai
 - [[objektai/asmenys/Petras Bartkus-Žadgaila]] dalyvavo_musyje Užpelkių kautynės (1949 m.)

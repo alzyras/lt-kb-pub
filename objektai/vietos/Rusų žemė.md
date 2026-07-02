@@ -127,30 +127,13 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
     čiu Zigmantu — į Liubliną 5 .
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c5d2d996013017798f53f6f929d39be53824932a3be709beb8b3cead07f07415; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: keliavo_i -> Rusų žemė: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rusų žemė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Aleksandro vykimą apžiūrėti Rusų žemės.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=64db1ab14348a4aaf41e09346fcc94b60bbbff6ba0932bd7eebb1503805df7cf; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: valde_teritorija -> Rusų žemė: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rusų žemė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas nurodo, kad Rusų žemė buvo Vytautui duota ir jis siekė ją pasilaikyti.
     - t-004
 
 - c-002
@@ -167,29 +150,12 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
     kad aš ją galėčiau pasilaikyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c5d2d996013017798f53f6f929d39be53824932a3be709beb8b3cead07f07415; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Rusų žemė: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rusų žemė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Aleksandro vykimą apžiūrėti Rusų žemės.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c5d2d996013017798f53f6f929d39be53824932a3be709beb8b3cead07f07415; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: keliavo_i -> Rusų žemė: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rusų žemė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Aleksandro vykimą apžiūrėti Rusų žemės.
 
 ## Ryšiai
 - [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Rusų žemė

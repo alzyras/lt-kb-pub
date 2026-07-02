@@ -59,18 +59,10 @@ Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 215424-216217; hash=ab8d4dbf8f487a1a3dbe7b416e9b5927adab75ee325c3e19dbe4a860468c1fd5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Panemunė: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rambynas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Panemunė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys lokalizuoja Rambyną Panemunėje.
 
 ## Ryšiai
 - Rambynas priklause [[objektai/vietos/Panemunė]]

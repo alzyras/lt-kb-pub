@@ -75,18 +75,10 @@ Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą A
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 439771-440386; hash=de550e602af6324d6076927af3a729ce08e21cc62a16d3d0d08501de7b5869a9; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Borisas (Tverės kunigaikštis): 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sofija (Švitrigailos žmona): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Borisas (Tverės kunigaikštis): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Sofija tiesiogiai įvardyta Boriso dukterimi.
 
 ## Ryšiai
 - Sofija (Švitrigailos žmona) buvo_dukte [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]

@@ -55,18 +55,10 @@ Virgoličiaus pajėgos turėjo užimti Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 774625-775056; hash=2fd2397622b82dc2d175146282a78fe6dadfbc5ab7cc59e872538843ea55964b; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Lietuva: 0.82
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: P. Virgoličius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata patvirtina, kad Virgoličius kontroliavo didelę Lietuvos teritorijos dalį; tai artima užėmimo ryšiui.
 
 ## Ryšiai
 - P. Virgoličius uzeme [[objektai/vietos/Lietuva]]

@@ -51,9 +51,10 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Lebedis skolas mokėjo lietuviškomis monetomis, prie kurių buvo pridėta 69 florinai, 4 grašiai ir 9 denarai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -63,11 +64,7 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c93360a491c33e88c25ca6d6bf8a699c87a70bdc7de1256fb4070da4ec3adb02; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 829190-829277; hash=b192519e555ac925f9ce4ccacde409c4589821ffe635be8ec1318a580050c66f; match=whitespace_regex
-  sprendimo_priezastis: auto

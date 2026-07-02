@@ -87,16 +87,9 @@ Nenurodyta
     kus, nes jis mat nepritarė nė vienam jų sumanymui.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 862289-863105; hash=f1ed393802b703327d7d44692362a7c732be0f02630019716a52e5aa9a5a042a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Braclavas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurga (pasienio seniūnas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Braclavas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Jurga apsaugojo Braclavo žemę nuo antpuolių.

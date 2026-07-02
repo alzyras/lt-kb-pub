@@ -81,18 +81,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1053566-1053793; hash=eaf1468417fdcf40127193e3151e5502545a66f7a532690372ad9e947e8dbb8a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Savadarbis lygiavamzdis šautuvas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: I. Drakša: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Savadarbis lygiavamzdis šautuvas: llm_allowed_candidate, thing
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad šautuvas pagamintas I. Drakšos.
 
 ## Ryšiai
 - [[objektai/asmenys/I. Drakša]] pastate Savadarbis lygiavamzdis šautuvas

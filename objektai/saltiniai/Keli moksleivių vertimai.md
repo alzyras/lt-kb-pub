@@ -46,8 +46,7 @@ KELI MOKSLEIVIU VERTIMAI. „Šie moksleivau vertimai (rašo pats Rygiškiu Jona
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e76a3263b77c950264ecbcc8863d0aa3fcbec8a3a238521542d69b3e469b7ca2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

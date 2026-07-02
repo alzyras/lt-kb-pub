@@ -53,16 +53,9 @@ Albertas Vijūkas-Kojelavičius sekė antikiniais istorikais, ypač Titu Livijum
     skaityti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 37236-37652; hash=db01f824f4f4ad52d5a79d9dd3dc0491828ea16ef30585f64e9fa8635ecfac9c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albertas Vijūkas-Kojelavičius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Titas Livijus: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Albertas Vijūkas-Kojelavičius: mention_match, author, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Titas Livijus" parinktas kaip owner_note_path. Targetas "Albertas Vijūkas-Kojelavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

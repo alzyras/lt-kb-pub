@@ -79,18 +79,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 38495-38907; hash=afba9277c3869b3cc4c0da2a0b3eb30fc66209c4c6906688a10033d6855af931; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Survila: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Butautas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Survila: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Survila aiškiai įvardytas Butauto draugu ir bendru bėgimo dalyviu.
 
 ## Ryšiai
 - [[objektai/asmenys/Butautas]] keliavo_i Butauto bėgimas į Karaliaučių ir apsikrikštijimas

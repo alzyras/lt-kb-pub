@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-35892
   teiginys: '1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Butautas|Butautas]]; llm_object: Prūsai; mentioned_person: [[objektai/asmenys/Vaidotas|Vaidotas]]; mentioned_person: [[objektai/asmenys/Vaidotas (Butauto sūnus)|Vaidotas (Butauto sūnus)]]; mentioned_place: Prūsai; mentioned_person: [[objektai/asmenys/Butautas|Butautas]]; mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Butautas|Butautas]]; llm_object: Prūsų žemė; mentioned_person: [[objektai/asmenys/Vaidotas|Vaidotas]]; mentioned_person: [[objektai/asmenys/Vaidotas (Butauto sūnus)|Vaidotas (Butauto sūnus)]]; mentioned_place: Prūsų žemė; mentioned_person: [[objektai/asmenys/Butautas|Butautas]]; mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   temporaliniai_duomenys: 'įvykio data: 1381 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
@@ -77,15 +77,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=52ea98fc3e6a18e543ec69777536c66fa6b2b33a73b19cca38222c5c9a6418c5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Butautas: 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vaidotas (Butauto sūnus): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Butautas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Vaidotas buvo Butauto sūnus.

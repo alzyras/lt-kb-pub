@@ -98,10 +98,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=20d0a2c0f84df5db8aa1d99b3c3030d7a9dab7e0b71838ff12b2a8a2e25c1d41; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5a39a193964e1f627ba3d4019cd5b0aab010d3013dbc79a5715783572e2416ed; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

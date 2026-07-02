@@ -21,7 +21,7 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
 - t-001
   global_id: t-40541
   teiginys: 'Walenrodtas vadovavo 2000 pėstininkų jungtinėje G. F. Valdeko vadovaujamoje kariuomenėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Krymas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Krymas; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -82,9 +82,10 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -100,28 +101,10 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 524256-524841; hash=30a6f80b60990280340ccbbb2ec7e9c2b7a96a25a59825caea97f9bcf5536541; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Walenrodto: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Walenrodto: llm_allowed_candidate, person
-  ryšio_paaiskinimas: V. Gosievskio pajėgos toliau įvardijamos kaip lietuvių pajėgos, kurios smogė priešo likučiams; objektas susietas su Walenrodto vadovautais brandenburgiečiais.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1417ba942ebc0bdcea4f255ef901a25520bb61421ddb58d6ad48c068c9244569; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krymas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Walenrodto: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krymas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Walenrodto" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] puole Walenrodto

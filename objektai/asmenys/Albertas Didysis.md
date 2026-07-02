@@ -90,51 +90,13 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 708658-709083; hash=fbb187081b24f9b8df26f73255951620d0db08545f358abf6922cd648a957305; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gime -> Vokietija: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Albertas Didysis (pamokslininkų ordino kunigas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vokietija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Albertas Didysis gimė Vokietijoje.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 708658-709083; hash=fbb187081b24f9b8df26f73255951620d0db08545f358abf6922cd648a957305; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Kelnas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Albertas Didysis (pamokslininkų ordino kunigas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kelnas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Albertas Didysis palaidotas Kelne.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 708658-709083; hash=fbb187081b24f9b8df26f73255951620d0db08545f358abf6922cd648a957305; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gime -> Vokietija: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Albertas Didysis (pamokslininkų ordino kunigas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vokietija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Albertas Didysis gimė Vokietijoje.
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 708658-709083; hash=fbb187081b24f9b8df26f73255951620d0db08545f358abf6922cd648a957305; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gime -> Vokietija: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Albertas Didysis (pamokslininkų ordino kunigas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vokietija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Albertas Didysis gimė Vokietijoje.
 
 ## Ryšiai
 - Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) mire [[objektai/vietos/Kelnas]]

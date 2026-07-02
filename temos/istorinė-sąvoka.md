@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 17.
+Objektų skaičius: 18.
 
 ## Kaip naudoti
 
@@ -31,6 +31,7 @@ Objektų skaičius: 17.
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
+- [[objektai/zodynas/prigimtinė religija]]
 - [[objektai/zodynas/proistorė]]
 - [[objektai/zodynas/tautinis atgimimas]]
 - [[objektai/zodynas/tautinė sąmonė]]

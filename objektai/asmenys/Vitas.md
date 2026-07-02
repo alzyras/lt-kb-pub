@@ -82,18 +82,10 @@ periodo_grupes: []
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 400314-401110; hash=2ce213aa1f83f61c4fefa1729e64dc32ec0e9cc1c2a269fa59e5c4bd511ce356; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Vitas: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pelka: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vitas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Pelkos įšventinimas Vito vyskupu atitinka paskyrimo į pareigas semantiką.
 
 ## Ryšiai
 - [[objektai/asmenys/Pelka]] paskyre Vitas

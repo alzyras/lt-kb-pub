@@ -54,18 +54,10 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cc7e9907045ddcf76cec6fa419ae609342a6fb98ea49aa476fdf42ed7c6472b3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Rusėnai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Tiškevičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Rusėnai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata Tiškevičius priskiria rusėnų giminių grupei.
 
 ## Ryšiai
 - Tiškevičiai priklause [[objektai/grupes/Rusėnai]]

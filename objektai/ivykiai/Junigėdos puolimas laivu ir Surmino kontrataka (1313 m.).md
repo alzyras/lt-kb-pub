@@ -77,15 +77,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d5dd257b83cf488eb728bc86839f9789d3daa9a8b328dba09520845f2efbdfdd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Surminas: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Surminas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Vytenis tiesiogiai siunčia Surminą atlikti karinės užduoties; „paskyre“ tiksliausiai perteikia pavedimą asmeniui.

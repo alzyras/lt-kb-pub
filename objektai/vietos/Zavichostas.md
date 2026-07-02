@@ -93,9 +93,10 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Lietuvių kariai, primetę į miestą pagalių, sudegino visą Zavichostą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -112,28 +113,10 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 482264-482971; hash=46561665ab86133af1e23faea97f6860d4ef2afac6a117cc5111f3a10362cc3a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Zavichostas: 0.66
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Zavichostas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lietuvių kariams buvo įsakyta traukti į stovyklą netoli Zavichosto, todėl kryptis siejama su Zavichostu.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 149528-149839; hash=c0d7004b14d27f41590ccfbf5f40f3b97dfa6fa9068c473791eb711a6022f417; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Zavichostas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Zavichostas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Zavichosto sudeginimas lietuvių karių veiksmais tiesiogiai rodo miesto puolimą.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] puole Zavichostas

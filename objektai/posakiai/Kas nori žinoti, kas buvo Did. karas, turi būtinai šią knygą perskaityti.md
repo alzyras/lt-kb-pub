@@ -53,9 +53,10 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -68,11 +69,7 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=19715b7224023c995d842a09955ac0dd4e584f52b828ec723afc25827a598f10; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8795fcaa2d9ce65e268f330e2baec75237532094987e300391e7b069aba91267; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

@@ -61,12 +61,8 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3eb70c49dfe2d02b701f243aeb29c56b95810d6e6230f2ce018ab8160ebf4987; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3eb70c49dfe2d02b701f243aeb29c56b95810d6e6230f2ce018ab8160ebf4987; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

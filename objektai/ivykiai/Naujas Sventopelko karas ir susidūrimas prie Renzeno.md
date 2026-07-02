@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-59381
   teiginys: 'Per susidūrimą prūsai nužudė naująjį maršalą Berleviną, visus brolius ir 400 vyrų, išskyrus 10 pabėgusiųjų.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi neaiškių įvardžių.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Kulmas; mentioned_place: Torunė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Kulmas; mentioned_place: Torunė; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -63,8 +63,9 @@ Nenurodyta
     pelkės, vardu Renzenas279, kur naktį ilsėjosi.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-
 - c-002
   santrauka: 'Per susidūrimą prūsai nužudė naująjį maršalą Berleviną, visus brolius ir 400 vyrų, išskyrus 10 pabėgusiųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -86,5 +87,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001

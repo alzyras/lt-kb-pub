@@ -78,9 +78,10 @@ Tos vė­ liavos buvusios smolenskiečių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Smolenskiečiai Oršoje pasitiko kunigaikštį Mykolą ir pasidavė didžiajam kunigaikščiui Žygimantui bei jo sūnui Mykolui.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -100,28 +101,10 @@ Tos vė­ liavos buvusios smolenskiečių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 232871-233049; hash=52c97eaf9188291cce52aaba1727fc02545b0443dce20e0ffee0f62203c76ac0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Smolenskiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smolenskiečiai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 208726-209305; hash=37ed5b78b586220aa9ba205e8b85f446a5afa577f488067d3a1ae3d387afee37; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Žygimantas: 0.68
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Smolenskiečiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Žygimantas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Pasidavimas Žygimantui rodo politinį perėjimą į jo pusę, bet tai nėra tiesioginis paramos veiksmažodis.
 
 ## Ryšiai
 - [[objektai/asmenys/Andrius Sakavičius]] kariavo_pries Smolenskiečiai

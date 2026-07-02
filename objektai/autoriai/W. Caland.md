@@ -50,8 +50,7 @@ Caland, W.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=dfcc593fab10f08f169ca131195d21312f51fb27828e0884d8454eadfae10e32; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

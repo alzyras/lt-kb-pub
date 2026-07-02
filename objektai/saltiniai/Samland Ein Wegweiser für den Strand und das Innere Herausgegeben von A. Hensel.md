@@ -50,8 +50,7 @@ Dusburgietis teigia, kad samland: Ein Wegweiser für den Strand und das Innere/ 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 796117-796217; hash=983f113e0d2d217bdeb27f36a6052d128fb39c371df40ff680f579651ce2bd3c; match=exact
-  sprendimo_priezastis: auto

@@ -63,15 +63,7 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 139284-139862; hash=e4463264f9500a2a0a64aa37ac9e0c11129517f33d675d44ea1c978882113dad; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ignas Danilavičius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: regestas regestai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ignas Danilavičius: mention_match, author, gap=115
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "regestas regestai" parinktas kaip owner_note_path. Targetas "Ignas Danilavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

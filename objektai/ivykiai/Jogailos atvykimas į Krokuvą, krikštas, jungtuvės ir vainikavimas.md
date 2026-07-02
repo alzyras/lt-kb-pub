@@ -134,37 +134,9 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d36dd720cc27d06e43e0d90423c67be1cc12bb8d18e72e0367902bd39f828992; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: keliavo_i -> Krokuva: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys ir citata tiesiogiai nurodo, kad Jogaila važiavo į Krokuvą.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d36dd720cc27d06e43e0d90423c67be1cc12bb8d18e72e0367902bd39f828992; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: vede -> Jadvyga: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jadvyga: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Jungtuvės su Jadvyga tiesiogiai nusako santuoką.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d36dd720cc27d06e43e0d90423c67be1cc12bb8d18e72e0367902bd39f828992; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: vede -> Jadvyga: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jadvyga: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Jungtuvės su Jadvyga tiesiogiai pagrindžia Jogailos santuokos ryšį.

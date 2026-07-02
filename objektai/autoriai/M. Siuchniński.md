@@ -37,8 +37,7 @@ Siuchniński.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=19e5db6e416bda9032e805c12c505b544b2741bea71b72fc8eba4e0834daa97c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

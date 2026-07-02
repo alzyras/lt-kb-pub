@@ -60,19 +60,12 @@ Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykus
     tautą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 424664-425394; hash=b80eb5be4f3dcd664e8784eb93c5e79fda7b6a4f0dbf0de6ee03770e2b331a4a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Mazovija: 0.66
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Danutė: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Danutė įvardyta Mazovijos kunigaikščio žmona ir atpažįsta tėvą Mazovijoje, bet gyvenimas ten išvedamas netiesiogiai.
 
 ## Ryšiai
 - Danutė gyveno [[objektai/vietos/Mazovija]]

@@ -7,6 +7,10 @@ datos:
   - '890 m.'
 date_start: '890'
 date_end: ''
+aliases:
+  - 'objektai/saltiniai/Wulfstano pasakojimai'
+variantai:
+  - 'Wulfstano pasakojimai'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -80,9 +84,10 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Vulfstano pasakojime Aismarės vadinamos Estmere.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -101,25 +106,7 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 254626-255033; hash=83c46e0f45a6c10c3715be9d0fd339dca018cfb2cdac5b1f945334501b9af233; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aistmarios: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vulfstano pasakojimas: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Aistmarios: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vulfstano pasakojimas" parinktas kaip owner_note_path. Targetas "Aistmarios" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 256881-257570; hash=b1396a2793793a300cf0518d1d161928e529e06e5f656e48c004d714af5484f5; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aismares: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vulfstano pasakojimas: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Aismares: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vulfstano pasakojimas" parinktas kaip owner_note_path. Targetas "Aismares" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

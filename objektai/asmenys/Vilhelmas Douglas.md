@@ -59,18 +59,10 @@ Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 288836-289457; hash=eed984e6341323e92c12c8723db14aa7fdfd4a9d6ec99413eaa0ac5f2d56003b; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Anglai: 0.58
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vilhelmas Douglas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Anglai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Vilhelmas Douglas įvardytas kaip škotas, žuvęs anglų ir škotų vaidų kontekste.
 
 ## Ryšiai
 - Vilhelmas Douglas buvo_priesas [[objektai/grupes/Anglai]]

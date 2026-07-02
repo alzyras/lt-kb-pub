@@ -90,6 +90,9 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
       369 1262—1263 m.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -105,22 +108,12 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
     pavakarę, jie atvyko į Karaliaučiaus pilį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 385193-386441; hash=2f0df8e6cda8f3714b1d2e5e08cdb2494866a67a61b4910c8b40c03a82afdca0; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Sembai: 0.69
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Engelbertas I: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sembai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citatos kontekste Markos grafas Engelbertas puola sembų pajėgas.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 385070-385405; hash=09102e0b65688b222b16d851b1694554290390e05bb91c1ba089f6669636d15d; match=exact
-  sprendimo_priezastis: auto
 
 ## Ryšiai
 - Engelbertas I puole [[objektai/grupes/Sembai]]

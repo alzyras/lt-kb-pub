@@ -234,9 +234,10 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -274,19 +275,10 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 795605-796416; hash=72126e4ab2af47df0c53b068f70461ff22fe699f93ae95fa7b435834db7296e6; match=whitespace_regex
-  sprendimo_priezastis: gap::people
-  ryšio_patikimumas: paskyre -> Vengrai: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gabrielius Bekešas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vengrai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Bekešas buvo paskirtas vadovauti vengrų kariuomenės riteriams.
     - t-003
-
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -326,19 +318,10 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 795961-797749; hash=f273d3db4df3f23dd82469582c83e85a1078e0ea86300ad1d25500229c754d3f; match=whitespace_regex
-  sprendimo_priezastis: gap::people
-  ryšio_patikimumas: priklause -> Gabrielius Bekešas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Alanta: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Gabrielius Bekešas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Alantos dvaras perduotas Gabrieliui Bekešui.
     - t-004
-
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -366,19 +349,10 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 798092-799986; hash=5b33f053d6c8264d35deaf307d5e778cd53a5b3b03ea7b6926e79269d072bf99; match=whitespace_regex
-  sprendimo_priezastis: gap::people
-  ryšio_patikimumas: priklause -> Gabrielius Bekešas: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Alanta: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Gabrielius Bekešas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Tekstas kalba apie Bekešui ir jo paveldėtojams leidžiamą turėti Alantos valdą.
     - t-005
-
 - c-005
   santrauka: 'Gabrieliui Bekešui ir jo palikuonims buvo leista valdose naudoti derlių, statyti bažnyčias, mokyklas, smukles ir malūnus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -404,19 +378,10 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 800471-801665; hash=8a17d1bade4920434662362d6506b441bea5dc5ea0ddbde9b0ca8936da0a5f99; match=whitespace_regex
-  sprendimo_priezastis: gap::people
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gabrielius Bekešas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gabrielius Bekešas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-007
-
 - c-006
   santrauka: 'Gabrieliui Bekešui po Astiko Varšuvos seime pagal paveldėjimo teisę buvo atiduotas Alantos dvaras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -439,19 +404,10 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 794738-795934; hash=e60fef0846c964300e7a0c95bd4ad46ec6214402537563970d2d67a87edbfcc3; match=whitespace_regex
-  sprendimo_priezastis: gap::people
-  ryšio_patikimumas: buvo_valdovas -> Vengrai: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gabrielius Bekešas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vengrai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai įvardija Bekešą vengrų pulkų vadu.
     - t-006
-
 - c-007
   santrauka: 'Gabrielius Bekešas Skornatas vadovavo karaliaus vengrų pulkams ir buvo įvertintas už ištikimą, drąsią bei pasiaukojamą tarnybą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -481,32 +437,11 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 588451-588868; hash=272dc4c996b50cbe277e4c6446be3795008e3f6119164a0af1274986ac9e36fe; match=exact
-  sprendimo_priezastis: gap::people
-  ryšio_patikimumas: susije_su -> Alanta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gabrielius Bekešas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Alanta: mention_match, place, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gabrielius Bekešas" parinktas kaip owner_note_path. Targetas "Alanta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 800085-801123; hash=d2cc9fc13d1ff2f25dc4584419b60e7276eeb565e02300eebddde7fbb70fc994; match=whitespace_regex
-  sprendimo_priezastis: gap::people
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 794738-795934; hash=e60fef0846c964300e7a0c95bd4ad46ec6214402537563970d2d67a87edbfcc3; match=whitespace_regex
-  sprendimo_priezastis: gap::people
-  ryšio_patikimumas: buvo_valdovas -> Vengrai: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gabrielius Bekešas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vengrai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai įvardija Bekešą vengrų pulkų vadu.
 
 ## Ryšiai
 - [[objektai/vietos/Alanta]] priklause Gabrielius Bekešas

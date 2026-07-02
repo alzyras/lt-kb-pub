@@ -47,8 +47,7 @@ Semkowicz, W.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=25a16e6b1872dce8d28ea4661f4f80a4ac6955261224d54287c1cf9ee4b42fbe; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

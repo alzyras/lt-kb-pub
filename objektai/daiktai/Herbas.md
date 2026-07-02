@@ -126,15 +126,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 465839-466211; hash=b65bcc691d8dbffda915c94a9eacccf20de04657636e50f4a9ddae839cbcea51; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lenkai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Herbai apibūdinami kaip lenkų bajorų herbai.

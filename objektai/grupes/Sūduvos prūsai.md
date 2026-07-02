@@ -22,7 +22,7 @@ Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia konkrečius Sūduvos prūsų veiksmus be OCR triukšmo.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Liubava; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; llm_object: Liubava'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Kulmas; mentioned_place: Liubava; mentioned_place: Sūduva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; llm_object: Liubava'
   semantiniai_rysiai: '[[objektai/grupes/Sūduvos prūsai|Sūduvos prūsai]] keliavo į Liubava'
   pagrindžia:
     - c-001
@@ -73,18 +73,10 @@ Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 220201-221033; hash=a8199fd25bd4a62db0b93c24db2f17a3c3a68625628fcd5449610f6ca05dd389; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Liubava: 0.75
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sūduvos prūsai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Liubava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas nurodo, kad Sūduvos prūsai su žemaičiais sustojo prie Liubavos.
 
 ## Ryšiai
 - Sūduvos prūsai puole [[objektai/vietos/Kulmas]]

@@ -3,6 +3,7 @@ tipas: grupe
 pavadinimas: 'Baltarusiai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,36 +20,52 @@ tags:
 
 ## Teiginiai
 
-<a id="claim-t-65082"></a>
+<a id="claim-t-187870"></a>
 - t-001
-  global_id: t-65082
-  teiginys: 'Kraštiečių demokratų srovė autonominę Lietuvą LDK ribose įsivaizdavo kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų darinį.'
-  sudarymo_pagrindimas: 'Įvardytas neaiškus įvardis ir sakinys susietas su baltarusių paminėjimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-183123"></a>
-- t-002
-  global_id: t-183123
+  global_id: t-187870
   teiginys: 'Kraštiečių demokratų srovė siūlė, kad autonominėje Lietuvoje LDK ribose lietuvių, lenkų ir baltarusių kalbos turėtų valstybinį statusą.'
   teiginio_tipas: 'faktas'
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Įvardytas subjektas ir išlaikytas citatos teiginys apie baltarusių kalbos statusą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  pagrindžia:
+    - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f608f6d9f44657fe4f6a6f0315e4270a0563ccff4747d9cf6e634774cfd0b29b; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+
+<a id="claim-t-187871"></a>
+- t-002
+  global_id: t-187871
+  teiginys: 'Kraštiečių demokratų srovė autonominę Lietuvą LDK ribose įsivaizdavo kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų darinį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Įvardytas neaiškus įvardis ir sakinys susietas su baltarusių paminėjimu.'
+  pagrindžia:
+    - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 240774-241473; hash=4be84b667bf7f583276f2aac105548caaa13f4a6d6ef510900c2e08249e0c530; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+
+<a id="claim-t-187872"></a>
+- t-003
+  global_id: t-187872
+  teiginys: 'Įvadiniame straipsnyje baltarusiai priskiriami Lietuvos Didžiosios Kunigaikštystės politinio, socialinio ir kultūrinio paveldo arealui.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Subjektas susietas su LDK paveldo arealu, kaip tiesiogiai nurodo citata. Nepridėta platesnių teiginių apie baltarusių vaidmenį ar tapatybę.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Aušrininkai|Aušrininkai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Baltarusiai|Baltarusiai]] priklausė Lietuva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f608f6d9f44657fe4f6a6f0315e4270a0563ccff4747d9cf6e634774cfd0b29b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  saltinio_vieta: 2605-3074; hash=a128300b4d7629bf2389c1341e5def6cae04c8636e560291d37df73c1e2891b2; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  ryšio_patikimumas: priklause -> Lietuva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baltarusiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltarusiai" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Baltarusiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Baltarusiai įtraukiami į istorinės Lietuvos paveldo arealą, todėl ryšys su Lietuva pagrįstas, bet apibūdinimas konceptualus.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169696|Lietuvos Didžioji Kunigaikštija]]: Po antrojo Abiejų Tautų Respublikos padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74906|Rusėnai]]: LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.
 - susijęs iš [[objektai/ivykiai/Antrasis LLV padalijimas.md#claim-t-20165|Antrasis LLV padalijimas]]: Po antrojo LLV padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
@@ -117,7 +134,45 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kraštiečių demokratų srovė autonominę Lietuvą LDK ribose įsivaizdavo kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų darinį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
+    riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
+    besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
+    las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
+    tiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės
+    Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
+    baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
+    tautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma
+    valstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-
+    ti su Lenkija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Įvadiniame straipsnyje baltarusiai priskiriami Lietuvos Didžiosios Kunigaikštystės politinio, socialinio ir kultūrinio paveldo arealui.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata
+    trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie­
+    tuvos palikimą. Juk Lietuvos istorija -  tai ne vien pagoniškas
+    tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
+    jorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė
+    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,
+    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
+    tūrinio paveldo arealas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-
@@ -136,38 +191,11 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kraštiečių demokratų srovė siūlė, kad autonominėje Lietuvoje LDK ribose lietuvių, lenkų ir baltarusių kalbos turėtų valstybinį statusą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
-    riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
-    besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
-    las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
-    tiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės
-    Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
-    baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
-    tautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma
-    valstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-
-    ti su Lenkija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f608f6d9f44657fe4f6a6f0315e4270a0563ccff4747d9cf6e634774cfd0b29b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žydai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baltarusiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltarusiai" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Baltarusiai gyveno [[objektai/vietos/Polesė]]
+- Baltarusiai priklause [[objektai/vietos/Lietuva]]

@@ -65,18 +65,10 @@ Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=15b5a213f71e33f7a8f3bcaae11dd9831930691d585d420b4a015757955abd7f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Štagelis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Štagelis minimas Vilniaus auksakalių kontekste; tai palaiko jo veikimą ar buvimą Vilniuje, bet ne aiškiai gyvenimą.
 
 ## Ryšiai
 - Štagelis gyveno [[objektai/vietos/Vilnius]]

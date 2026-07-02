@@ -43,7 +43,7 @@ Nenurodyta
   teiginys: '214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-002
 
@@ -61,8 +61,9 @@ Nenurodyta
     pirties tiesiog kęste nekenčia.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-
 - c-002
   santrauka: '214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -73,5 +74,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001

@@ -47,18 +47,10 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 845407-845582; hash=40ed929ca244f27bfd4e3d24947c32524f8ca12098eebc6f0d4acc725b6271c7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Ukmergė: 0.74
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: 13-asis ulonų pulkas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Ukmergė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pulkas prasiveržė iki Ukmergės prieigų, todėl karinis judėjimas į vietą tiesiogiai paremtas.
 
 ## Ryšiai
 - 13-asis ulonų pulkas surenge_zygi_i [[objektai/vietos/Ukmergė]]

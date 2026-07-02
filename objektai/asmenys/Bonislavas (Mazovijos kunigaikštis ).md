@@ -70,18 +70,10 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=70a64932d19776a6b83f8593211ea86f63868f19d8b318aec65db7ef74595be3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Mazovija: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bonislavas (Mazovijos kunigaikštis ): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Titulinė formuluotė vadina Bonislovą Mazovijos kunigaikščiu, bet pats tekstas pabrėžia šio identifikavimo abejotinumą.
 
 ## Ryšiai
 - Bonislavas (Mazovijos kunigaikštis ) valde [[objektai/vietos/Mazovija]]

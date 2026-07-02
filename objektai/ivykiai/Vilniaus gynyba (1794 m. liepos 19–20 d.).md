@@ -106,18 +106,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 617995-619030; hash=ed92aa8cfdf80085b8fffae4b13a520d6cae8940505ca830444916770485bfdb; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.66
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys nurodo, kad Rusijos kariuomenės korpusas pasiekė Vilnių; kandidatas „Rusai“ vartojamas kaip artimiausias grupinis šios kariuomenės atitikmuo.
 
 ## Ryšiai
 - [[objektai/grupes/Rusijos kariuomenės korpusas]] dalyvavo_musyje Vilniaus gynyba (1794 m. liepos 19–20 d.)

@@ -66,13 +66,10 @@ Nenurodyta
     29.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 699754-699937; hash=2b297b1010bbe9f5f746b8fb8d7c983457cc783048225cfaef1fb7c74d623bb4; match=exact
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 699754-699937; hash=2b297b1010bbe9f5f746b8fb8d7c983457cc783048225cfaef1fb7c74d623bb4; match=exact
-  sprendimo_priezastis: auto

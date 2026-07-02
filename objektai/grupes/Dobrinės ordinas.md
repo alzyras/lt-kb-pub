@@ -64,18 +64,10 @@ Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal s
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=285335da8f14c928e26a88a6d8dcffba5052630e5c0c8f9ee82f76311af5341b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kristijonas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Dobrinės ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kristijonas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Dobrinės ordinas apibūdintas kaip vyskupui priklausantis; kontekste minimas vyskupas Kristijonas.
 
 ## Ryšiai
 - Dobrinės ordinas priklause [[objektai/asmenys/Kristijonas]]

@@ -63,18 +63,10 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e5d2333bdab4ae779ddbf901464c02086a59b25ef72c6932ad6c4ba00be309ce; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Suvalkų gubernija: 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos Užnemunė: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Suvalkų gubernija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Lietuvos Užnemunės priklausymą Suvalkų gubernijai.
 
 ## Ryšiai
 - [[objektai/vietos/Lietuvos Užnemunė]] priklause Suvalkų gubernija

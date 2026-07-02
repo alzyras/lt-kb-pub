@@ -59,7 +59,7 @@ Nenurodyta
   global_id: t-66500
   teiginys: 'Kita kariuomenės dalis nusiaubė Bisenės pilies apylinkes ugnimi ir su dideliu grobiu sugrįžo atgal.'
   sudarymo_pagrindimas: 'Išplėsta neaiški nuoroda į Bisenės pilį ir paliktas citatos remiamas faktas.'
-  susije_objektai: 'mentioned_place: Bisenė; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Bisenė; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -91,9 +91,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Konradas iš Tirbergo su didele kariuomene perėjo užšalusį Nemuną, puolė Bisenės pilį, įsiveržė į ją ir sudegino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -109,25 +110,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 543632-543984; hash=92d5d0053d7fabf9820235e7f735dbc3f025e494b89d22de67d4b12e33785212; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenės pilies užkariavimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenės pilies užkariavimas" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2e76f8ba36b1887ce259c7f3443d4e886a3946ade044c19705433ff96cb52a51; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Bisenė: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Konradas su kariuomene tiesiogiai nurodytas puolęs Bisenę.

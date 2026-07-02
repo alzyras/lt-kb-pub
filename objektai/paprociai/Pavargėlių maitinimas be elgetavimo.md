@@ -43,7 +43,7 @@ Nenurodyta
   teiginys: 'Prūsų krašte nebuvo leidžiama elgetauti, o pavargėliai galėjo vaikščioti nuo namo prie namo ir valgyti kada tinkami.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys iš esmės pagrįstas, bet reikia aiškiai įvardyti prūsus vietoje įvardžio.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-001
     - c-002
@@ -73,9 +73,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Prūsų krašte nebuvo leidžiama elgetauti, o pavargėliai galėjo vaikščioti nuo namo prie namo ir valgyti kada tinkami.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -89,25 +90,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b0565fb1c6cdaeab1e391a558102c785aa9feb81a50d0f84797b7a9d0588c9cb; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Namas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pavargėlių maitinimas be elgetavimo: owner_note_path, thing
-  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pavargėlių maitinimas be elgetavimo" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b0565fb1c6cdaeab1e391a558102c785aa9feb81a50d0f84797b7a9d0588c9cb; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Namas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pavargėlių maitinimas be elgetavimo: owner_note_path, thing
-  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pavargėlių maitinimas be elgetavimo" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

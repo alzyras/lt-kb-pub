@@ -82,16 +82,9 @@ Nenurodyta
     antpuoliu.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 273216-273866; hash=a02a155bd4ef38bdf11210a833c59f4a23a6a4deae1d18c9da6ff6b628dd7415; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Dobrynė: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dobrynė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lietuviams pavyko užimti Dobrynės miestą.

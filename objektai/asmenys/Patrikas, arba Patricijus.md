@@ -73,18 +73,10 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e7133d3e86f66734b69a9eef28a64b4a2dddeb9c0fe2efac0985d84a99860754; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Narimantas (Pinsko kunigaikštis): 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Patrikas, arba Patricijus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Patriką kaip Narimanto sūnų.
 
 ## Ryšiai
 - Patrikas, arba Patricijus buvo_sunus [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]

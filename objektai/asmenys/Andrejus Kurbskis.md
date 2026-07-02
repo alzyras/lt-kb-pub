@@ -83,9 +83,10 @@ Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurb
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Lietuvos pusės kunigaikščius su šeimomis ir tėvonijomis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -114,25 +115,7 @@ Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurb
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1327312-1328109; hash=ff9a88fa246b5b6fa4848c1791d1edca7dcef8469abbb9d191f930bfe4fd522b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Eustachijus Valavičius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrejus Kurbskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Eustachijus Valavičius: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrejus Kurbskis" parinktas kaip owner_note_path. Targetas "Eustachijus Valavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1328856-1329453; hash=be318f0a907dacd1a43a724d6385643400c0f0e415a40c8fcd37f54d99194ca8; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ivanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrejus Kurbskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ivanas: mention_match, person, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrejus Kurbskis" parinktas kaip owner_note_path. Targetas "Ivanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

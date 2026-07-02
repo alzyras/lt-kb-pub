@@ -55,18 +55,10 @@ Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 2
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 794417-794696; hash=46c3981d8ac1e1d73c3951d3314407e34b143b3e95f947311210a7ce51e7faea; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Bermontininkai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Panevėžio batalionas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Bermontininkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Karinis bermontininkų išmušimas tiesiogiai rodo kovą prieš juos.
 
 ## Ryšiai
 - [[objektai/grupes/Panevėžio batalionas]] uzeme Meškuičiai

@@ -91,29 +91,11 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=92873a23c7a188396ace65cd413e183030cb49e2ba786cbca57a142b8de17208; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: keliavo_i -> Braclavas: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Braclavas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Aleksandro planuotas žygis turėjo eiti per Braclavą.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=92873a23c7a188396ace65cd413e183030cb49e2ba786cbca57a142b8de17208; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: keliavo_i -> Soroka: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Soroka: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Soroka minima kaip žygio krypties orientyras, todėl ryšys yra kryptinis, bet ne galutinės paskirties.
 
 ## Ryšiai
 - [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Soroka

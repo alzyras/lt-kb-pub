@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'rėda'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+aliases:
+  - 'objektai/zodynas/ūkės rėda'
+variantai:
+  - 'ūkės rėda'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -52,10 +56,11 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
-
 - c-002
   santrauka: 'Rėda citatoje siejama su tautos tvarka, kuri, pasak Daukanto, kilo nuo kunigų kaip Dievo ir pasaulio tarpininkų.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -64,5 +69,7 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001

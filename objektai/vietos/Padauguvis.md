@@ -10,6 +10,10 @@ datos:
   - '2026 m.'
 date_start: '1180'
 date_end: '2026'
+aliases:
+  - 'objektai/vietos/Padaugavys'
+variantai:
+  - 'Padaugavys'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -83,9 +87,10 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -101,6 +106,8 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 

@@ -114,6 +114,9 @@ Nenurodyta
     Livoniją apie Pernu.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -138,26 +141,9 @@ Nenurodyta
     jį patį neatsigręžtų nusikaltimai, jo padaryti kitiems.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 182638-183421; hash=e4f137ce70d40c30b884915d05457ca6c987314998961b677fa9dbe8fcf0d13c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Mazovija: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Mazovijos niokojimas tiesiogiai pagrindžia Treniotos puolimą.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 182934-183561; hash=007e43557d9a7a05a6de085dbfeaa3df14830a52acbd2ad855c038abd7912276; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Mazovija: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas aiškiai nusako Treniotos Mazovijos niokojimą.

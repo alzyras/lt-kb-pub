@@ -50,8 +50,7 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=09e68bf97171d5b36a1877e5b65d850eafaea847641dcf4e5652e0e52d719484; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

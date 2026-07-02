@@ -85,15 +85,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 390019-391028; hash=7c92ebb1c98a8f102f6d3ea6aadf704493bf7ee6692d6f4fa99f9217a52ecd60; match=ocr_normalized_gapped
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: sudare_sutarti_su -> Dimitrijus: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Dimitrijus: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Algirdo ir Dimitrijaus susitarimą sudaryti taiką.

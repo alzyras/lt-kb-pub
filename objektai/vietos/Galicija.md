@@ -54,18 +54,10 @@ Galicijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=83ac1890c30b40a82e506eb9971fce0e466c990f8e073dcca8c5258720cf962d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Austrija: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Galicija: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Austrija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Galicija po padalinimo buvo patekusi Austrijai.
 
 ## Ryšiai
 - [[objektai/asmenys/Vladislovas iš Opolės]] valde Galicija

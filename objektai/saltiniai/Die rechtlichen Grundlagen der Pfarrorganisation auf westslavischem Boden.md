@@ -63,8 +63,7 @@ Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 4
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=79915244a033048135d030fdde197de09dfac880f158147fde8b680e3d23204b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

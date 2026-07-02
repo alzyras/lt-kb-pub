@@ -57,15 +57,7 @@ Pūtvės pilies seniūnas Spūdas išdavė pilį ir su tėvu, vaikais bei visa �
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 319724-320192; hash=a47a945c8f71803255cff9414d32fe092ecbe7815751b2c3be46bf65dcd53229; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Spūdas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Spūdas" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -53,6 +53,3 @@ Tautų Sąjunga paskelbė paskutinį Hymanso projektą galutine rekomendacija ko
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=75408b54c6735ef90be0db58ac688094c705544d96cb8b82c1d554e9d35460c4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

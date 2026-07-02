@@ -47,8 +47,7 @@ Dusburgietis teigia, kad schall H.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 796366-796491; hash=33fa806459d21ee61bef57203971f55df5c727ada2785c2800828ed135eef80e; match=exact
-  sprendimo_priezastis: auto

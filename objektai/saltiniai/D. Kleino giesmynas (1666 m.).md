@@ -71,10 +71,4 @@ D. Kleino giesmynas datuojamas 1666 metais. 1666 m. D. Kleinas išleido dvi gies
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=080156330fffa534577d6491b3048f8b1cfa4cb02feca114edc00df1bd31840f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1218455-1218483; hash=bd624caf22e8f4c2e5e148cff577af0980056640e09e42f08844b0bdb4f2e82e; match=exact
-  sprendimo_priezastis: auto

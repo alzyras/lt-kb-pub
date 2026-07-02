@@ -66,8 +66,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fc7ca4644485d8fdd522ebefab87998cafc7ec20a79cf1a3984a9e899b081e07; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

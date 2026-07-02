@@ -103,9 +103,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 985742-986285; hash=53abf0e8a224b365ca73d1c75ede3adfd23ba69c378754a53c963784ce66f606; match=exact
-  sprendimo_priezastis: auto
     - t-002
 - c-003
   santrauka: 'Kai kuriose parapijose blaivybės brolijų nariais tapo net 97 procentai gyventojų, todėl sumažėjo iždo degtinės pajamos.'
@@ -124,10 +121,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b5c65ae2f8c3a6e6aa647e5b9e6acb37029da590a5a5d9e5914581ded5711e78; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 986479-986907; hash=6dc93f7002027b0687959b36588375fd4066e544cca61c393596aa3c474cf0a2; match=exact
-  sprendimo_priezastis: auto

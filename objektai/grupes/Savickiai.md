@@ -65,18 +65,10 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 386277-386559; hash=4459e4c69159bbaf2d913b2b98d49195f231a00e4953c7940dfec9949d05a31f; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Savickiai: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Savickiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad namas atiteko Savickiams.
 
 ## Ryšiai
 - [[objektai/daiktai/Namas]] priklause Savickiai

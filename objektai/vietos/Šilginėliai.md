@@ -70,18 +70,10 @@ Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7bbe80654403421ccdef118a08753b8932fade85744b63bb0e60500f6c7f9575; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Šilginėliai: 0.60
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Šilginėliai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lietuvių sargyba buvo Šilginėliuose ir gynėsi nuo puolimo.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] gyne Šilginėliai

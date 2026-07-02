@@ -42,8 +42,7 @@ Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 740563-740826; hash=0ded2c07460c673981b72d271f1ec6354add6e1b67cb7754bca44828920469fe; match=exact
-  sprendimo_priezastis: auto

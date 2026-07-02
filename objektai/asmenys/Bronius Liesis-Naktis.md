@@ -64,18 +64,10 @@ periodo_grupes:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 999970-1000288; hash=c515eaff31bd826d6ab4f3fa56239c3ad1ddeae1bc4bb11cff31f9c011abf28b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Užpelkiai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bronius Liesis-Naktis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Užpelkiai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Bronius Liesis-Naktis žuvo sunaikinant štabą Užpelkių miške.
 
 ## Ryšiai
 - Bronius Liesis-Naktis mire [[objektai/vietos/Užpelkiai]]

@@ -73,7 +73,7 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   global_id: t-89879
   teiginys: 'Jėzus Kristus įvardijamas kaip pagalbininkas Teutonų ordino broliams per 53 metus palaužiant prūsus.'
   sudarymo_pagrindimas: 'Citata sieja prūsų palaužimą su Viešpaties Jėzaus Kristaus pagalba.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsai; mentioned_place: Kulmas; llm_object: [[objektai/grupes/Teutonai|Teutonai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; llm_object: [[objektai/grupes/Teutonai|Teutonai]]'
   semantiniai_rysiai: '[[objektai/asmenys/Jėzus Kristus|Jėzus Kristus]] rėmė [[objektai/grupes/Teutonai|Teutonai]]'
   pagrindžia:
     - c-003
@@ -102,9 +102,10 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -125,23 +126,11 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=704cc0403dea77825af458410964d3cf5ec9be42d8104de4cea2259f30342431; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 96214-96884; hash=21e8961d4f9c397e49314f97f9bb7228a7cd8b77d426a463f4b86909b379b851; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> apreikšti dievo darbus yra šlovinga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jėzus Kristus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: apreikšti dievo darbus yra šlovinga: mention_match, thing, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzus Kristus" parinktas kaip owner_note_path. Targetas "apreikšti dievo darbus yra šlovinga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
-
 - c-003
   santrauka: 'Jėzus Kristus įvardijamas kaip pagalbininkas Teutonų ordino broliams per 53 metus palaužiant prūsus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -161,28 +150,10 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=83cbc8ceab2bd2e29d52b1b1688218edefacee2146bc221ad85ff1fb29d7ef79; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Teutonai: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jėzus Kristus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata teigia, kad Teutonų ordino broliams palaužiant pagonis padėjo Jėzus Kristus.
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 96214-96884; hash=21e8961d4f9c397e49314f97f9bb7228a7cd8b77d426a463f4b86909b379b851; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> apreikšti dievo darbus yra šlovinga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jėzus Kristus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: apreikšti dievo darbus yra šlovinga: mention_match, thing, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzus Kristus" parinktas kaip owner_note_path. Targetas "apreikšti dievo darbus yra šlovinga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Jėzus Kristus reme [[objektai/grupes/Teutonai]]

@@ -47,8 +47,7 @@ Dusburgietis teigia, kad nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod re
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 788007-788135; hash=26d010eb4f91ac7373325b491fa0bff272ab7994474ea90a091d04b82a1e3549; match=exact
-  sprendimo_priezastis: auto

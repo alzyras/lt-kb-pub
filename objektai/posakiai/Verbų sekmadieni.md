@@ -79,15 +79,7 @@ Bažnytinio kalendoriaus data nusakanti formulė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b320ea4b1afe05d3192951f0a311435d981aa50dc7a175bdd96bd3c769182c71; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md
-  ryšio_patikimumas: susije_su -> Haličas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Verbų sekmadieni: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Haličas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verbų sekmadieni" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

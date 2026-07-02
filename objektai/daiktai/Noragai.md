@@ -56,12 +56,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 149046-149661; hash=f217932a7baf780f7eb8d532741e90439aba8a8530d5df8fee6203250faed3ab; match=exact
-  sprendimo_priezastis: auto
-
 ## Pastabos
 
 - čia daiktas aprašytas kartu su žemdirbystės įpročiu, bet pats norago tipas aiškiai materiališkas.

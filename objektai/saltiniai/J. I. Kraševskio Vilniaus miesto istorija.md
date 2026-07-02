@@ -65,15 +65,7 @@ Nepaisant gana kritiško požiūrio į istorijos šaltinius, M. Tačiau jaučiam
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 15871-16263; hash=a3e6108b1d0fbddca6a7ec43a28cd2f77d5e1878a497d5065031f1055e1a8f92; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Juozapas Ignas Kraševskis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: J. I. Kraševskio Vilniaus miesto istorija: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Juozapas Ignas Kraševskis: mention_match, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. I. Kraševskio Vilniaus miesto istorija" parinktas kaip owner_note_path. Targetas "Juozapas Ignas Kraševskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

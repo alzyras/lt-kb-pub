@@ -73,10 +73,4 @@ Po Vosyliaus III mirties Maskvos kunigaikščiu tapus mažamečiam Jonui IV Žia
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=618c8eb2a7c653675d5bc0ab86c954b56bf6cc7ab627763066a6c393c3910981; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3eb6688bd231fc7d81be57733c8725a1bc46f9b787b83107b5911d8b97bcd1cf; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

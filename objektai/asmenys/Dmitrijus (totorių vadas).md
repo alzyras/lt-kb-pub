@@ -80,9 +80,10 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -100,28 +101,10 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 179377-179766; hash=edba60c60025d92b03d28b6d49651e950057a4d7b0efdc80cfc5d4e62c61edd7; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Lietuvos kariuomenė: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Dmitrijus (totorių vadas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata rodo, kad Dmitrijaus kariuomenė susirėmė su Lietuvos kariuomene.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a7e702c788d2c8b2fe1ef21e749f55a0ace6cc5c9601d55c3604705ce0eefd56; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Mėlynųjų Vandenų mūšis (1362 m.): 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Dmitrijus (totorių vadas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mėlynųjų Vandenų mūšis (1362 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Ištrauka sieja Dmitrijaus totorių kariuomenę su Mėlynųjų Vandenų susirėmimu, bet dalyvavimas išreikštas per grupės kariuomenę.
 
 ## Ryšiai
 - Dmitrijus (totorių vadas) kariavo_pries [[objektai/grupes/Lietuvos kariuomenė]]

@@ -32,7 +32,7 @@ Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos,
   global_id: t-60283
   teiginys: 'Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą.'
   sudarymo_pagrindimas: 'Teiginys yra užbaigtas faktinis sakinys apie Gebhardą ir atitinka citatą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Prūsai; mentioned_place: Saksonija; llm_object: Saksonija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Prūsų žemė; mentioned_place: Saksonija; llm_object: Saksonija'
   semantiniai_rysiai: '[[objektai/asmenys/Gebhardas|Gebhardas]] gimė Saksonija'
   temporaliniai_duomenys: 'įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
@@ -76,18 +76,10 @@ Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos,
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 391850-392628; hash=52c727d25338a6f5b9316590274b73f3a6333d4680cb61506d2bc3060807aec8; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gime -> Saksonija: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gebhardas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Saksonija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo Gebhardo kilmę iš Saksonijos; tai artimiausia gimimo ar kilmės vietos relacija.
 
 ## Ryšiai
 - Gebhardas gime [[objektai/vietos/Saksonija]]

@@ -101,10 +101,11 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
-
 - c-002
   santrauka: '1859 m. išleistame vadove po Vilnių Adomas Honorijus Kirkoras pažymėjo, kad Vilnius jau turi savo istorikus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -118,25 +119,7 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 17383-17865; hash=94229c78522cf907bd104f6c55ec2bc3e9b4acddc518c50ccfa92acd35888967; match=whitespace_regex
-  sprendimo_priezastis: gap::authors
-  ryšio_patikimumas: susije_su -> Vilniaus Senienų muziejus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Adomas Honorijus Kirkoras: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Vilniaus Senienų muziejus: mention_match, group, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adomas Honorijus Kirkoras" parinktas kaip owner_note_path. Targetas "Vilniaus Senienų muziejus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 17383-17865; hash=94229c78522cf907bd104f6c55ec2bc3e9b4acddc518c50ccfa92acd35888967; match=whitespace_regex
-  sprendimo_priezastis: gap::authors
-  ryšio_patikimumas: susije_su -> Vilniaus Senienų muziejus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Adomas Honorijus Kirkoras: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Vilniaus Senienų muziejus: mention_match, group, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adomas Honorijus Kirkoras" parinktas kaip owner_note_path. Targetas "Vilniaus Senienų muziejus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

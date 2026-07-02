@@ -155,20 +155,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=974b6c702f5e614e05c0954cb30342f7594a85897313aa2bf3e3d8a1f3ee652c; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: keliavo_i -> Mazovija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurgis Nosuta: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Jurgio Nosutos pabėgimą į Mazoviją.
     - t-002
-
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -192,50 +183,12 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=346a0029df3ffce215dc4503460a9e197ac66a048ec35a21323f0bf9114bd150; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: valde_miesta -> Drohičinas: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurgis Nosuta: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Drohičinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jurgį Nosutą kaip Drohičino seniūną.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=974b6c702f5e614e05c0954cb30342f7594a85897313aa2bf3e3d8a1f3ee652c; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: siunte_i -> Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ponų taryba (institucija): llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Ponų Taryba tiesiogiai minima kaip siuntusi Goštautą su kariuomene atsakomajam žygiui.
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=974b6c702f5e614e05c0954cb30342f7594a85897313aa2bf3e3d8a1f3ee652c; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Goštauto grįžimą į Vilnių.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=346a0029df3ffce215dc4503460a9e197ac66a048ec35a21323f0bf9114bd150; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: valde_miesta -> Drohičinas: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurgis Nosuta: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Drohičinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Jurgis Nosuta įvardytas Drohičino seniūnu, todėl turėjo administracinę valdžią mieste.
 
 ## Ryšiai
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]] siunte_i Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis

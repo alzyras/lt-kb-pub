@@ -48,8 +48,7 @@ Dusburgietis teigia, kad voigt J.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 804013-804063; hash=9c3552e0780bd53ce5abe91c2725e184552c8ba568c62ef332feb9b5da449c40; match=exact
-  sprendimo_priezastis: auto

@@ -64,15 +64,7 @@ Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 166228-166627; hash=27722730ce88c0f3361ef73339aec42212f37d3dd5c67f78f47a5c6cc3c7f892; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Torunė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lisske: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Torunė: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lisske" parinktas kaip owner_note_path. Targetas "Torunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -63,8 +63,7 @@ Gókski, K.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2762f915cab502ec40a78b47bc73d3423c8b89193d728d7386a96e6acd6a8c5a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

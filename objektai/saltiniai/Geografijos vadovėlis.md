@@ -37,8 +37,7 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 739687-739810; hash=2b28a4d3e007971bdfb0e4ea7416ef3ec383fcf7c2a358789c72b02230cf620f; match=exact
-  sprendimo_priezastis: auto

@@ -57,19 +57,12 @@ Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno t
     gaikštis Mikalojus Radvila.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1229631-1230051; hash=7fbe37fb7b7f4a07918e7996b13deb8abd3b54da18bade1af30d3b7809add28c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_vyras -> Kotryna: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pranciškus Gonzaga: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kotryna: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Kotryna vadinama Pranciškaus Gonzagos našle, todėl jis buvo jos vyras.
 
 ## Ryšiai
 - Pranciškus Gonzaga buvo_vyras [[objektai/asmenys/Kotryna]]

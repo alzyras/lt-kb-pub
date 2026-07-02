@@ -160,21 +160,12 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=79a52546458d7e239a45b58dfb20f158d49e14d9dda2c9d7ce86779c4c13c27f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žuvintas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Žuvintas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)" parinktas kaip owner_note_path. Targetas "Žuvintas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -190,30 +181,12 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=79a52546458d7e239a45b58dfb20f158d49e14d9dda2c9d7ce86779c4c13c27f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alytus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): owner_note_path, event
-  ryšio_targeto_parinkimas: Alytus: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)" parinktas kaip owner_note_path. Targetas "Alytus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
     - t-003
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1632fd15e04fd43c0ad0664aa728d06ec84c2d58946205daad1697dfbb4fd4e4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: NKVD: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Enkavėdistai tiesiogiai minimi kaip mūšio prieš partizanus pusė.
 
 ## Ryšiai
 - [[objektai/grupes/NKVD]] dalyvavo_musyje Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)

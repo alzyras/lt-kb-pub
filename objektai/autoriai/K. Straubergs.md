@@ -49,8 +49,7 @@ Straubergs, K.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=296b4d82581b4d2b063435b2d07d45a6a4179b5d3beab891d88de01dc13b5fdc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

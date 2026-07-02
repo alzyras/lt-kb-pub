@@ -76,15 +76,7 @@ Chronikinė datavimo formulė, rodanti trečią vasarą ar trečius metus įvyki
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=51ecaef0c14b6be9f87aad6d99e389eb5b53cf316949716f929c96345ad52422; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md
-  ryšio_patikimumas: puole -> Upytė: 0.77
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Upytė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai mini Livonijos kryžiuočių dalinį, įsibrovusį į Upytės pavietą.

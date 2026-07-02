@@ -76,13 +76,11 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=55c88d4a63f470f441724e517ed35860c314d8d02916e275f216521e21fe00ba; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-001
-
 - c-002
   santrauka: 'Jungtinėse Amerikos Valstybėse susibūrusiems lietuvių išeiviams grėsė rimtas nutautimo pavojus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -99,18 +97,7 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=51c9f792995d6b132f3ef13e045462a187d746b5e1a0697a82a82ef01e3f2146; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=51c9f792995d6b132f3ef13e045462a187d746b5e1a0697a82a82ef01e3f2146; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> SSRS: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: SSRS: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata kalba apie SSRS lietuvių būklę, todėl remia lietuvių gyvenimą ar buvimą SSRS erdvėje.

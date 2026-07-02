@@ -52,18 +52,10 @@ Iš to susidarė dvi partijos: karo ir taikos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 176139-176367; hash=dbdddaef1014a5938914db27647c901f6c55cfcf81d19db3846d054f6f7a4a22; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Karo partija: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Karo partija: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Bendra pozicija dėl mūšio rodo sąjunginį veikimą tarp Vytauto ir karo partijos.
 
 ## Ryšiai
 - Karo partija buvo_sajungininkas_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

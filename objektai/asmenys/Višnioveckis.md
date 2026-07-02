@@ -69,19 +69,12 @@ Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir iš
     tis susitarti dėl pastovios taikos.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1210590-1211322; hash=efcfb9a2fd33db534fd159b93cfb9b0e65a26f91c528f237048b0b927e59c2f4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Skitija: 0.83
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Višnioveckis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Skitija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kunigaikštis Višnioveckis buvo išvežtas į Skitiją.
 
 ## Ryšiai
 - Višnioveckis keliavo_i [[objektai/vietos/Skitija]]

@@ -53,8 +53,7 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 202917-203531; hash=711ef331c0238c6fa8835cd002bdf2bdb9988a31aafb15a249e619988f5f6d19; match=exact
-  sprendimo_priezastis: auto

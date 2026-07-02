@@ -59,18 +59,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d3e2f1afd5d7afc2f3db8512dde62f3a6f1d6cd5b592ff2d050ee37903f1bf22; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuvos laisvės kovos sąjūdis: 0.58
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: LLKS gynybos pajėgos: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuvos laisvės kovos sąjūdis: llm_allowed_candidate, group
-  ryšio_paaiskinimas: LLKS gynybos pajėgos tekste siejamos su Lietuvos laisvės kovos sąjūdžiu, tačiau priklausomybė išvedama iš pavadinimo ir pareigų konteksto.
 
 ## Ryšiai
 - LLKS gynybos pajėgos priklause [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]

@@ -78,16 +78,9 @@ Nenurodyta
     sprukti ir iš kovos lauko, ir iš stovyklos.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 134874-135431; hash=f22851e17f9874b164d275e7885fb637507bf815ffc30a5266ef130c66a2356e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Polockiečiai: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mingaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Polockiečiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekstas tiesiogiai rodo Mingailos karinį konfliktą su polockiečiais.

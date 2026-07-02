@@ -59,18 +59,10 @@ Jie buvo pasiekę Nalšėnų žemę^144.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1264131f041c04991c202c4a2e8a8958dc3c3df0f04cca2ea7f68a66aa86cffa; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Aukštaitija: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Burundajus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Aukštaitija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Burundajų kaip Aukštaitijos nusiaubimo dalyvį.
 
 ## Ryšiai
 - [[objektai/asmenys/Burundajus]] keliavo_i Nalšėnų žemė

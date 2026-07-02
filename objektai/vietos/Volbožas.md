@@ -75,9 +75,10 @@ Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­ ską išvyko
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Jogaila paliepė Mažosios Lenkijos ir Volynės kariams rinktis į Volbožą, o Didžiosios Lenkijos kariams - į Lenčicą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -91,28 +92,10 @@ Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­ ską išvyko
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=eadd2dbc54d3de2d3f2fec6c6759789ddf9f1607816620673f3533e024c06c31; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Volbožas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkijos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Volbožas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kariuomenės susirinkimas į Volbožą tiesiogiai rodo judėjimą į šią vietą.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 651241-651513; hash=8fa8b45ed2afad7498736c8f6eb0354e10467aef0a450bcb6f53d6ffbb839734; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Volbožas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Volbožas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Jogaila paliepė kariams rinktis į Volbožą, todėl ryšys su siuntimu į vietą yra tiesiogiai pagrįstas.
 
 ## Ryšiai
 - [[objektai/grupes/Lenkijos kariuomenė]] keliavo_i Volbožas

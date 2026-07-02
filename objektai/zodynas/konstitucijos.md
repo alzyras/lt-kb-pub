@@ -149,8 +149,7 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 559601-559757; hash=e4ae056184644fd71f8fd7588c88f4f0ab4fd43a1454872f83ae365c672646dd; match=exact
-  sprendimo_priezastis: auto

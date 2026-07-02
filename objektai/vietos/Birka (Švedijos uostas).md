@@ -53,18 +53,10 @@ Su Švedijos uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laiva
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 326214-326747; hash=13a9aede9eec7c03b71af86a6ec9fd6ac53aad28cbca20917e92a85aa8ff11af; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Birka (Švedijos uostas): 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Birka (Švedijos uostas): llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad sembai patys nuplaukdavo į Birką.
 
 ## Ryšiai
 - [[objektai/grupes/Sembai]] keliavo_i Birka (Švedijos uostas)

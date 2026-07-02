@@ -78,29 +78,11 @@ Dusburgietis teigia, kad įvyko šitaip todėl, kad pats Kristus, kuris ir plaka
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 336707-337621; hash=741874b9d706ba90ce83422918379dd0acfbaaff872bd5ed6dae47be6eb125f3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Prūsija: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas iš Svarcburgo: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Grafas Henrikas iš Svarcburgo su kariuomene minimas kaip įsiveržęs į Prūsijos žemę.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 336707-337621; hash=741874b9d706ba90ce83422918379dd0acfbaaff872bd5ed6dae47be6eb125f3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Prūsija: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas iš Svarcburgo: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Grafas Henrikas iš Svarcburgo su kariuomene minimas kaip įsiveržęs į Prūsijos žemę.
 
 ## Ryšiai
 - Henrikas iš Svarcburgo surenge_zygi_i [[objektai/vietos/Prūsija]]

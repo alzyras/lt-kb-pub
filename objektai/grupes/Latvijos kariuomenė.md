@@ -58,18 +58,10 @@ ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūm�
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 779557-779718; hash=b50b56faa082f7335256a7241f078f1a605a62012974bf432693f10a4627159f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Daugpilis: 0.78
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Latvijos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Daugpilis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Raudonosios armijos išstūmimas iš Daugpilio rodo miesto perėmimą kariniu veiksmu.
 
 ## Ryšiai
 - Latvijos kariuomenė uzeme [[objektai/vietos/Daugpilis]]

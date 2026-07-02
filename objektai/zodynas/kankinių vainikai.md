@@ -29,7 +29,7 @@ Dusburgietis teigia, kad sielos „esančios išganytos“ (III, 92), o žuvę g
   global_id: t-58936
   teiginys: 'Petras iš Dusburgo teigė, kad Prūsijoje kritusių krikščionių sielos išganytos, o žuvusieji gauna kankinių vainikus.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Prūsija; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -67,15 +67,7 @@ Dusburgietis teigia, kad sielos „esančios išganytos“ (III, 92), o žuvę g
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 89539-90491; hash=1ec38c470220882424553ad2a4417ad5a140e20f7f2da0f2ca9f67293623f854; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: kankinių vainikai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=87
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kankinių vainikai" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

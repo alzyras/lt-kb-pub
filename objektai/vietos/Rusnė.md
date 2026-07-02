@@ -56,18 +56,10 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=87bfc5b5699a5cdabf9168e981e8c811a645e5622d9c3a652a7f9b52de08f85c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Klaipėda: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys nurodo, kad Klaipėda buvo palikta Ordinui.
 
 ## Ryšiai
 - Rusnė priklause [[objektai/grupes/Kryžiuočių ordinas]]

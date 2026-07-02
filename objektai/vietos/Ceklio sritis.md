@@ -50,18 +50,10 @@ Vadinamoji Ceklio sritis, kuri priskiriama Kuršiams, siekė ir dešinįjį Vent
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f74ca317e75ad5db673781943576bf2bd44fadd252296d761505bcf6ed5c2add; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kuršiai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ceklio sritis: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Kuršiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Ceklio sritis tiesiogiai pasakyta kaip priskiriama Kuršiams.
 
 ## Ryšiai
 - Ceklio sritis priklause [[objektai/grupes/Kuršiai]]

@@ -80,18 +80,10 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu. 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=00abc9fb8d36106fca97b2133c441d3409b2b3752e27984061bd98b382619ad4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Vakarų Lietuvos (Jūros) sritis: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pietų Lietuvos sritis: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vakarų Lietuvos (Jūros) sritis: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Abiejų sričių partizanų atstovai ir vadai kartu vyko į suvažiavimą ir susitiko bendrame Lietuvos partizanų kontekste.
 
 ## Ryšiai
 - Pietų Lietuvos sritis buvo_sajungininkas_su [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]

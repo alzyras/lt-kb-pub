@@ -94,19 +94,12 @@ Magistras paskyrė Prūsijos maršalą Zigfridą fon Dahenfeldą kariuomenės va
     niokodami kaimus, kiemus ir žudydami žemdirbius.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 420058-421029; hash=ba66981703cd9983472791b5d86326d41a501e7652c7d2008118c305e20adf9e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigfridas fon Dahenfeldas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Zigfridas buvo paskirtas kariuomenės vadu, o žygio kryptis tiesiogiai nurodyta į Lietuvą.
 
 ## Ryšiai
 - Zigfridas fon Dahenfeldas surenge_zygi_i [[objektai/vietos/Lietuva]]

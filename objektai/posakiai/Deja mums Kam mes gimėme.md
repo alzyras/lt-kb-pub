@@ -43,8 +43,7 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 295873-296208; hash=5db2649f40f6e8f0c617f0d615ba11bc9057496c7e2f0bb8c08f415254d5ff3b; match=exact
-  sprendimo_priezastis: auto

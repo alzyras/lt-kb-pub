@@ -69,18 +69,10 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b17850dd9682c4105e8364c31b628dd10e147b997edb9215ae5211bbb383228f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Aragonas: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Alkanisas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Aragonas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Alkanisas tiesiogiai lokalizuotas Aragone.
 
 ## Ryšiai
 - Alkanisas priklause [[objektai/vietos/Aragonas]]

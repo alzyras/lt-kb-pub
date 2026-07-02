@@ -60,15 +60,7 @@ Pasiruošimas operacijai Įvertinusi situaciją vyriausioji Lietuvos karinė vad
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 766514-766768; hash=ac7a3e91bb467e5355b72fda18fc658ff961bf7bcb84493b83ca1c971fefdff3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> K. Ladyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vyriausioji Lietuvos karinė vadovybė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: K. Ladyga: mention_match, person, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyriausioji Lietuvos karinė vadovybė" parinktas kaip owner_note_path. Targetas "K. Ladyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

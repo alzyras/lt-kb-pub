@@ -126,6 +126,9 @@ Nenurodyta
     pasisekė nei prieš metus.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -156,18 +159,11 @@ Nenurodyta
     dūrė su stipria vengrų kariuomene.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 946830-947280; hash=66c1d0c65776afba108cf3681fa6b132c31c2d88c7c8a8e75ed770b094e4eba0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas Olbrachtas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jonas Olbrachtas: mention_match, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)" parinktas kaip owner_note_path. Targetas "Jonas Olbrachtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -183,26 +179,9 @@ Nenurodyta
     tarvės sudarymo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 947131-947672; hash=68895c244400fdeb58acbfd055051046c103b78a7129a7623687c01dfdbaff02; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Namas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 947582-947927; hash=8a80ff7f1f67b4c7cff3c24cc46abed6ef4ee54c7fbbf0160ff2de8e9aea146f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Vengrai: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas Olbrachtas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vengrai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Jono Olbrachto susidūrimą su stipria vengrų kariuomene.

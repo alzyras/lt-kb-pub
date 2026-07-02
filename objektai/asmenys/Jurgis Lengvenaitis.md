@@ -56,18 +56,10 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 446784-447149; hash=a4d5391b4bfa259931e0f471b52946ee9c84e820892ab503a8ba0deacd4d1c1b; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Švitrigaila: 0.55
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurgis Lengvenaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata rodo, kad Jurgis buvo kartu su Švitrigaila po pralaimėjimo; tai atsargiai palaiko jų sąjungininkystę, nors tikslus politinis ryšys neįvardytas.
 
 ## Ryšiai
 - Jurgis Lengvenaitis keliavo_i [[objektai/vietos/Naugardas]]

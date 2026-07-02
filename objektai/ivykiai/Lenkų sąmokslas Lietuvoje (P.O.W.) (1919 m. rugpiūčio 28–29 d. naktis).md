@@ -79,9 +79,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: '1919 m. rugpjūčio 28–29 d. naktį Lietuvos saugumo organai atliko kratą P.O.W. centre Kaune, areštavo vadus ir sužlugdė sukilimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -95,12 +96,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f697bf105ed4fdb2b2588073d8e25d8b17e00202ab7b5db74924fd9c421a0acc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-001
-
 - c-003
   santrauka: 'Po P.O.W. sąmokslo Lietuvoje 117 sąmokslininkų 1920 m. gruodžio 11–24 d. buvo teisti kariuomenės teismo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -114,11 +113,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1110658-1111034; hash=e3bc8b56e085cfa34a1788b561e020f47f7de6bcbd6370fc4aa9b13cd671f19d; match=exact
-  sprendimo_priezastis: auto
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9d6f9eb6ced06c93296612e7d1bb51123b2c07e51b37dda344136b5537523b52; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

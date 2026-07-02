@@ -53,16 +53,9 @@ Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus n
     neįprastą vietą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1231996-1232409; hash=d859f85973d236df30c28759c4f7ef42e960075b87273e79708cc6fbdd0495a8; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Simeonas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gurka: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Simeonas: mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gurka" parinktas kaip owner_note_path. Targetas "Simeonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

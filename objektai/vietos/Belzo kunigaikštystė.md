@@ -56,16 +56,9 @@ Mazovijos valdovas Kazimieras su savo kariais žiauriai nuniokojo Belzo kunigaik
     leslovo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 760303-760753; hash=5682549fa2b1cc6867497e40d61df352e53172187ca0e72dffb0503999856757; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Belzas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Belzo kunigaikštystė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Belzas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Belzo kunigaikštystė" parinktas kaip owner_note_path. Targetas "Belzas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

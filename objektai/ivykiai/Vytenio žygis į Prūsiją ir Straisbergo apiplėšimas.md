@@ -66,16 +66,9 @@ Nenurodyta
     komtūras Konradas Žakas juos visus ligi vieno išžudė.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 304352-304865; hash=f53170af1caf352a024c7b7fa5b52e504cc135f099ccad3f758224c4b5c9df43; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Straisbergas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Straisbergas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Straisbergo apiplėšimas tiesiogiai priskirtas lietuviams.

@@ -48,8 +48,7 @@ Srokowski, St.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cc30a9c986e347fefc4a96a607def0ef7dd56ef0bf3a62e355923b320d708837; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

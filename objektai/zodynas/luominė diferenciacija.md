@@ -56,8 +56,7 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 419799-420314; hash=9e47cf7653e65a9eba1f71cda9d8154303bb6579126b178d422349d570239cef; match=exact
-  sprendimo_priezastis: auto

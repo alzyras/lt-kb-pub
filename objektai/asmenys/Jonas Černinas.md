@@ -52,19 +52,12 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
     gaišo pakelėje beplėšikaudama.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 993263-993569; hash=d9a6c54fbb36f5dc18aa4ed3a6ce95c4280f1fffaa9513a101879a377edafd00; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Jonas Černinas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jonas Černinas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Pavedimas atlikti užduotį tiesiogiai rodo Aleksandro paskyrimą Jonui Černinui.
 
 ## Ryšiai
 - [[objektai/asmenys/Aleksandras]] paskyre Jonas Černinas

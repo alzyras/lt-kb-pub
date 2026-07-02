@@ -70,18 +70,10 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=533c49e7029787d8c9d7071aad8547eeae09fce57dd08a197bd550196f1c738a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Kuoknesė: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švedijos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kuoknesė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Švedijos kariuomenė tiesiogiai nurodyta kaip užėmusi Kuoknesės miestą.
 
 ## Ryšiai
 - [[objektai/grupes/Švedijos kariuomenė]] apgule Kuoknesės pilis (pilis)

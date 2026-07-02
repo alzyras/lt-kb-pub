@@ -40,8 +40,7 @@ Marija Lastauskienė - Lazdynų Pelėda.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 741138-741399; hash=7d65448a5ca62468a7ce78d12a6731e34a226f0f7b988511d0e3d6ec09e63deb; match=exact
-  sprendimo_priezastis: auto

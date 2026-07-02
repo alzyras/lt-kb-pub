@@ -77,27 +77,10 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
     pranašumą sąlygojo jų lengvoji kavalerija.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 302438-302926; hash=6ce7675b951a214c490fd2250f58242467da328755bef6f5573ff9abad05bdde; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Krymas: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Krymo pusiasalis nurodytas kaip pagrindinė totorių buveinė.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 302438-302926; hash=6ce7675b951a214c490fd2250f58242467da328755bef6f5573ff9abad05bdde; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Krymas: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje Krymo pusiasalis apibūdinamas kaip pagrindinė totorių buveinė.

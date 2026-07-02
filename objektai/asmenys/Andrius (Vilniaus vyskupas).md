@@ -60,19 +60,12 @@ Vilniaus vyskupas Andrius buvo kilęs iš Vilniaus ir garsėjo šventųjų moksl
     Vaitiekus Taboras.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 953360-953765; hash=37334d3f16256282aab04efac03902c8bd8022812b3c2477b3161adbeb3a4275; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gime -> Vilnius: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Andrius (Vilniaus vyskupas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė „kilęs iš Vilniaus“ tiesiogiai pagrindžia kilmės/gimimo vietos ryšį.
 
 ## Ryšiai
 - Andrius (Vilniaus vyskupas) gime [[objektai/vietos/Vilnius]]

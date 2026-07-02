@@ -22,7 +22,7 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
   global_id: t-60414
   teiginys: 'Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir negramatiškas.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Notangai|Notangai]]; llm_object: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_person: [[objektai/asmenys/Gerhardas iš Reino|Gerhardas iš Reino]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Reinas; llm_object: Baiga'
+  susije_objektai: 'llm_object: [[objektai/grupes/Notangai|Notangai]]; llm_object: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_person: [[objektai/asmenys/Gerhardas iš Reino|Gerhardas iš Reino]]; mentioned_place: Baiga; mentioned_place: Prūsų žemė; mentioned_place: Reinas; llm_object: Baiga'
   semantiniai_rysiai: '[[objektai/asmenys/Pobravas|Pobravas]] buvo sąjungininkas su [[objektai/grupes/Notangai|Notangai]]; [[objektai/asmenys/Pobravas|Pobravas]] buvo sąjungininkas su [[objektai/grupes/Varmiai|Varmiai]]; [[objektai/asmenys/Pobravas|Pobravas]] siuntė į Baiga'
   pagrindžia:
     - c-001
@@ -69,29 +69,11 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 432538-433093; hash=b9ef49b779a76b3c200fdeb39347f1a660a9577790f8d1772c127b29e44a432c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Notangai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pobravas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Notangai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys nurodo Pobravą veikus kartu su notangais.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 432538-433093; hash=b9ef49b779a76b3c200fdeb39347f1a660a9577790f8d1772c127b29e44a432c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Notangai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pobravas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Notangai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys nurodo Pobravą veikus kartu su notangais.
 
 ## Ryšiai
 - Pobravas buvo_sajungininkas_su [[objektai/grupes/Notangai]]

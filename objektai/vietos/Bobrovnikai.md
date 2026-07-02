@@ -57,15 +57,7 @@ Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 651103-651346; hash=6e5d0e7c98d30a3fce5aa2d487a8ab75606f8649aeb1b34dde85aa7ade279bfe; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Zlotorija: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Zlotorija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Zlotorijos užėmimas tiesiogiai minimas, o subjektas siejamas su tame pačiame sakinyne įvardyta kryžiuočių sėkme.

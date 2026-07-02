@@ -99,18 +99,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Gedimino žūtis Bajerburgo mūšyje (1337 m.): 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Gedimino žūtis Bajerburgo mūšyje (1337 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Teiginys sieja Gediminą su mūšiu prie Bajerburgo.
 
 ## Ryšiai
 - [[objektai/asmenys/Gediminas]] dalyvavo_musyje Gedimino žūtis Bajerburgo mūšyje (1337 m.)

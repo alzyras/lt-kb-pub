@@ -60,15 +60,7 @@ Bžostovskio įkurta Paulavos respublika.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 162808-163176; hash=a2a387a40de05c589083faf635994821471004af3ba9a4d8ee322fde3c4e069c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Paulava: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Povilas Ksaveras Bžostovskis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Paulava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė tiesiogiai nurodo, kad P. K. Bžostovskis įkūrė Paulavos respubliką; artimiausias leidžiamas santykis yra pastatė/įkūrė vietą.

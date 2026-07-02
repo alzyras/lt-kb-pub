@@ -137,40 +137,12 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 34660-35059; hash=18094be263f39d9e6643d51d9c2c52082a339e6c5ae0535da59aea7abd23ed5e; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: prekiavo_su -> Pamaris: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bremeno pirkliai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Pamaris: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai mini prekybinių ryšių užmezgimą su pamariu.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 34660-35059; hash=18094be263f39d9e6643d51d9c2c52082a339e6c5ae0535da59aea7abd23ed5e; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: susije_su -> Bremenas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bremeno pirkliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bremenas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bremeno pirkliai" parinktas kaip owner_note_path. Targetas "Bremenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 34660-35059; hash=18094be263f39d9e6643d51d9c2c52082a339e6c5ae0535da59aea7abd23ed5e; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: prekiavo_su -> Pamaris: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bremeno pirkliai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Pamaris: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai mini prekybinių ryšių užmezgimą su pamariu.
 
 ## Ryšiai
 - Bremeno pirkliai prekiavo_su [[objektai/vietos/Pamaris]]

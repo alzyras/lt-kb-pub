@@ -64,18 +64,10 @@ Lietuvių pajėgos Veikiančioji Lietuvos kariuomenė buvo pertvarkyta į dvi br
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e3a639145482f747c4df2c39ef41dba3d99f2b960e2b1cc3a30bafd020c25dd4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Naujasodė: 0.77
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: I brigada: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Naujasodė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: I brigados puolimo uždavinys tiesiogiai siejamas su gynybos pralaužimu Naujasodės linijoje.
 
 ## Ryšiai
 - I brigada puole [[objektai/vietos/Naujasodė]]

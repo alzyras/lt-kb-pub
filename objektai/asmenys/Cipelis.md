@@ -45,8 +45,7 @@ Dusburgietis teigia, kad po to veržliai ir žiauriai užgriuvo kito vasalo, rit
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5073e23cf6ff598c9640807ebd88b42f13e4a69ff76648bc64132329d0a72d18; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

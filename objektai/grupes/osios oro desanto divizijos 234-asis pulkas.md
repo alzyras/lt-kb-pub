@@ -63,18 +63,10 @@ Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a16ada2c5e1803aa48861a2d0e34c58aa0020387050a1843d28494747a5020be; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: osios oro desanto divizijos 234-asis pulkas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kariai iš šio pulko buvo perdislokuoti į Lietuvą, todėl kryptis į Lietuvą tiesiogiai pagrįsta.
 
 ## Ryšiai
 - osios oro desanto divizijos 234-asis pulkas keliavo_i [[objektai/vietos/Lietuva]]

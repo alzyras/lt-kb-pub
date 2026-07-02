@@ -69,12 +69,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 142312-142549; hash=6b85e707bd9cc998737418231e7e61dc422d0f980d745bbcefad54ad6523d2c3; match=exact
-  sprendimo_priezastis: auto
-
 ## Pastabos
 
 - šiame fragmente daiktas glaudžiai siejamas su jaunuomenės ir piemenų linksmynėmis, bet materiali forma aiški.

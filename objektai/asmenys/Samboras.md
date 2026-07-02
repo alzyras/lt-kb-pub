@@ -29,7 +29,7 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
   global_id: t-60201
   teiginys: 'Samboras su Pomeranijos kunigaikščiu ir ginklanešiais užstojo kelius prūsams, kad šie negalėtų pasprukti.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet turi šaltinio boilerplate ir vertinamųjų fragmentų.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Pomeranija; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   semantiniai_rysiai: '[[objektai/asmenys/Samboras|Samboras]] buvo brolis [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   pagrindžia:
     - c-001
@@ -49,7 +49,7 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
   global_id: t-60202
   teiginys: 'Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.'
   sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata pagrindžia Samboro dalyvavimą žygyje ir pilies sustiprinimą.'
-  susije_objektai: 'mentioned_place: Marienverderis; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla; llm_object: Prūsija; llm_object: Marienverderis'
+  susije_objektai: 'mentioned_place: Marienverderis; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla; llm_object: Prūsija; llm_object: Marienverderis'
   semantiniai_rysiai: '[[objektai/asmenys/Samboras|Samboras]] keliavo į Prūsija; [[objektai/asmenys/Samboras|Samboras]] pastatė Marienverderis'
   temporaliniai_duomenys: 'kelionės data: 1217 m.; kelionės data: 1232 m.; kelionės data: 1234 m.; kelionės data: apie 1234 m.; kelionės data: 1347 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Samboras keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
@@ -84,9 +84,10 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -128,28 +129,10 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 244197-246508; hash=b4c854d76a2174c3fd3ef91f95b03823a719fcc03c617810a1b07b27909d7ecd; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.83
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Samboras: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatos kontekste Samboras su kitais atvyko į Prūsiją.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=182c70a66d551343436744bf5233258405606512a243ee793e3920b6c710c9e7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Sventopelkas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Samboras: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai vadina Samborą Pomeranijos kunigaikščio broliu.
 
 ## Ryšiai
 - Samboras buvo_brolis [[objektai/asmenys/Sventopelkas]]

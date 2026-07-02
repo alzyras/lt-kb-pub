@@ -48,8 +48,7 @@ Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=63a8d6ca4020abcaa0199abfb576302118938abd1e80e86d49b6664f34bf4953; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

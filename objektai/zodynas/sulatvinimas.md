@@ -44,6 +44,3 @@ Lietuvių sulatvinimas vyko per latviškas mokyklas ir kitais būdais.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=127fbc56c59508488ac3c08897dcbe8cb2ab81db7127addbbae65bccb6523c35; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

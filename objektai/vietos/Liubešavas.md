@@ -53,18 +53,10 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a411b58d54838643a813c044d7ce2e9d02a5f6f69a8df6921c46771cbc33d2ed; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Brasta: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Liubešavas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Brasta: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Liubešavas pateiktas Brastos apygardos mokyklų sąraše, todėl vieta priskiriama Brastos apygardai.
 
 ## Ryšiai
 - Liubešavas priklause [[objektai/vietos/Brasta]]

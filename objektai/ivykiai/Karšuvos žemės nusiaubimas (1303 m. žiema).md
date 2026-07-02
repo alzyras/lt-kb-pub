@@ -75,6 +75,9 @@ Nenurodyta
     nenuskendo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
 
 - c-002
@@ -89,17 +92,10 @@ Nenurodyta
     traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 614777-615240; hash=60e17d8f594d98e653625f721e8bf8abf6d383f2196fae7013ccc1663babaabe; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Karšuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Konradas su kariuomene tiesiogiai įsiveržė į Karšuvos žemę.
     - t-002

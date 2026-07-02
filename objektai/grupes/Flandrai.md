@@ -92,9 +92,10 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -110,28 +111,10 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b568929cf4a762d074d06c3710493862051a8b914cb04039413934d38c844db7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Prancūzai: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Flandrai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Prancūzai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Kautynės tarp prancūzų ir flandrų tiesiogiai pagrindžia tarpusavio karinį konfliktą.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b765cd7c005df636b8bd338bfe30ff7e9ac1fe785203e84905c1cbe224e61f27; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Prancūzai: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Flandrai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Prancūzai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Flandrijos gyventojų sukilimas ir prancūzų kilmingųjų nukovimas tiesiogiai rodo karinį konfliktą su prancūzais.
 
 ## Ryšiai
 - Flandrai kariavo_pries [[objektai/grupes/Prancūzai]]

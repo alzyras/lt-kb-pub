@@ -49,8 +49,7 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1111371-1111863; hash=9b4fa83a5d5e27c3b40f18971a8be853e770806ded6208bce378422add21bf8a; match=exact
-  sprendimo_priezastis: auto

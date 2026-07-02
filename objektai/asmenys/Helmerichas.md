@@ -71,7 +71,7 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   global_id: t-89796
   teiginys: 'Lubavos žemėje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs, o citata remia išbaigtą faktą apie Helmericho žūtį.'
-  susije_objektai: 'llm_object: Lubava; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Lubava; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsija; mentioned_place: Prūsų žemė'
   semantiniai_rysiai: '[[objektai/asmenys/Helmerichas|Helmerichas]] mirė Lubava'
   pagrindžia:
     - c-002
@@ -103,9 +103,10 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -128,39 +129,11 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6880d217528626dcca2cfbeaa8f33c3ed4e17a2e043aab6d30b1a484d3ddad51; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Kulmenzė: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Helmerichas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmenzė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Helmericho palaidojimo vietą.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 413932-415254; hash=c1cd7468e87287d40614f6ac93ec5c6c75a746186eaf9a12134cfbb4b7a5d10e; match=word_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Lubava: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Helmerichas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Helmericho žūties vietą Lubavos žemėje.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 413932-415254; hash=c1cd7468e87287d40614f6ac93ec5c6c75a746186eaf9a12134cfbb4b7a5d10e; match=word_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kulmas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Herkus Mantas su kariuomene įsiveržė į Kulmo žemę.
 
 ## Ryšiai
 - Helmerichas buvo_palaidotas [[objektai/vietos/Kulmenzė]]

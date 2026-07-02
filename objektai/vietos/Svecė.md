@@ -52,18 +52,10 @@ Prie Bidgoščiaus kariuomenė gavo žinią, kad kryžiuočių pulkai artėja pr
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 651447-651691; hash=b21c84d3dd6eae57be8d2bc7eca876da5cf6b90720178c04295bbce6a43085e5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Svecė: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Svecė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Artėjimas prie Svecės rodo kryžiuočių pulkų judėjimą šios vietos link.
 
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Svecė

@@ -58,18 +58,10 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 179377-179766; hash=edba60c60025d92b03d28b6d49651e950057a4d7b0efdc80cfc5d4e62c61edd7; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Lietuvos kariuomenė: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Chadžibėjus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Chadžibėjaus kariuomenė susirėmė su Lietuvos kariuomene.
 
 ## Ryšiai
 - Chadžibėjus kariavo_pries [[objektai/grupes/Lietuvos kariuomenė]]

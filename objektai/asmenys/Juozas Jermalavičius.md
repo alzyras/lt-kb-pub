@@ -42,8 +42,7 @@ Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komitet
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=45cf2f4140c0e0c5ff9adcc62fc22a2287998e264dad43a3d09aee782ecc469b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

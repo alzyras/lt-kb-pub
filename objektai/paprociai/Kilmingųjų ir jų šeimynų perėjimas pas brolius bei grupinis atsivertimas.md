@@ -73,9 +73,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Daug galingų ir kilmingų Nadruvos vyrų su šeimynomis atėjo pas brolius, priėmė krikštą, išsižadėjo stabų ir ėmė tarnauti Kristui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -98,4 +99,6 @@ Nenurodyta
           176 (171).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified

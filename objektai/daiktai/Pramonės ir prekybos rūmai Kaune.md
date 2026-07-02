@@ -84,18 +84,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e0bfda05783496f7a5d64d034562e922d4f5d3765a3c5b1dbdd4757e8b024ba1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kaunas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pramonės ir prekybos rūmai Kaune: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Objektas tiesiogiai įvardytas kaip esantis Kaune.
 
 ## Ryšiai
 - Pramonės ir prekybos rūmai Kaune priklause [[objektai/vietos/Kaunas]]

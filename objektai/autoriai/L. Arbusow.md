@@ -61,12 +61,8 @@ Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos);
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6deef7733c6abc63969ec0080d74f5f9347b34d4f55f4f5610a065f9beb329d6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6deef7733c6abc63969ec0080d74f5f9347b34d4f55f4f5610a065f9beb329d6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

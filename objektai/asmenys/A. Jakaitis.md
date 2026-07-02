@@ -58,18 +58,10 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=aa0579e5fa9b1b7b5689d09aa8f5b59006e54cb817d81232bf8d8395c67a0af6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Augustavas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: A. Jakaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Augustavas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas nurodo A. Jakaičio vadovaujamo pulko numatytą žygį į Augustavą.
 
 ## Ryšiai
 - A. Jakaitis keliavo_i [[objektai/vietos/Augustavas]]

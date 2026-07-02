@@ -47,8 +47,7 @@ Dusburgietis teigia, kad wunder H.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 804850-804960; hash=db6d04a950344c4f79df51a405d61bb1b371d9a18b524ab2bdf829f52f87a7d0; match=exact
-  sprendimo_priezastis: auto

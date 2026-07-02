@@ -37,8 +37,7 @@ Ruzgo GAMTOS METODIKOS PAGRINDAI. Gamtos moky­ tojas d-ras C.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 737758-737891; hash=a0ace994add5c8044dd7ac84db35009e00c9dc2987789e0c16d1ac65e48096ad; match=exact
-  sprendimo_priezastis: auto

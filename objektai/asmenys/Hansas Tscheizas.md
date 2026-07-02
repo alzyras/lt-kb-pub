@@ -56,18 +56,10 @@ Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui i
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=05c7189edf10dc248b3539a40317a34524ddbefe8f84ee35aae754e1e7af1a0d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Silezija: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hansas Tscheizas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Silezija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Hansas Tscheizas įtrauktas į asmenis, vykstančius į Sileziją.
 
 ## Ryšiai
 - Hansas Tscheizas keliavo_i [[objektai/vietos/Silezija]]

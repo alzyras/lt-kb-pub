@@ -24,7 +24,7 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
   global_id: t-64603
   teiginys: 'C. Hennenbergerio „Erclerung“ cituojamas prie pasakojimo apie Galtgarbių kalne buvusią Samo pilį ir prūsų uždegamus pavojų skelbiančius laužus.'
   sudarymo_pagrindimas: 'Pirminis teiginys klaidingai priskiria pasakojimą Dusburgiečiui ir turi bibliografinio triukšmo.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Baltija; mentioned_place: Rinava; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Baltija; mentioned_place: Rinava; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 117 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys klaidingai priskiria pasakojimą Dusburgiečiui ir turi bibliografinio triukšmo.'
@@ -35,7 +35,7 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Prūsai: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Hennenberger C: owner_note_path, author, gap=0
   ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=100
@@ -78,9 +78,10 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'C. Hennenbergerio „Erclerung“ cituojamas prie pasakojimo apie Galtgarbių kalne buvusią Samo pilį ir prūsų uždegamus pavojų skelbiančius laužus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -99,25 +100,7 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 419966-420475; hash=d98ef297297aebc0acd9fc4a056033622f0964ef04d6b3e215507948403779d2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brandenburgo pilis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hennenberger C: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Brandenburgo pilis: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hennenberger C" parinktas kaip owner_note_path. Targetas "Brandenburgo pilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 399566-400434; hash=5058b5a13171dde1a77848e22a9c49dec2ec1300e06e590953f96dce738f46f6; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hennenberger C: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=100
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hennenberger C" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

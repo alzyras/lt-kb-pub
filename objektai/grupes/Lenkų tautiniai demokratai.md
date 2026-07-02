@@ -56,18 +56,10 @@ Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organiz
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 243866-244368; hash=9a6a744c6704c20c312b06b41bad5ff0ca81411bdb16d6f8e3844424c529aae9; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Lietuva: 0.56
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkų tautiniai demokratai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas nurodo, kad ši politinė jėga veikė Lietuvos teritorijoje; leistinas artimiausias vietos ryšys yra gyveno.
 
 ## Ryšiai
 - Lenkų tautiniai demokratai gyveno [[objektai/vietos/Lietuva]]

@@ -60,18 +60,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 138042-138305; hash=a9ef7d565b2e51a89ea91a456cfa2c4eba53858a26d4e18d709bf48fcf275fc3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Mežuotnės pilis (pilis): 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Mežuotnės pilis (pilis): llm_allowed_candidate, place
-  ryšio_paaiskinimas: Mežuotnės pilies sunaikinimas tiesiogiai rodo lietuvių karinį puolimą prieš pilį.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] puole Mežuotnės pilis (pilis)

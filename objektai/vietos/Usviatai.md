@@ -65,18 +65,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3ebcdfed22aa219fa5a13ea7d1d87fedb92b356e321fb7a593b6585da661858b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Usviatai: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kristupas Radvila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Usviatai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Kristupo Radvilos dalyvavimą paimant Usviatų tvirtovę.
 
 ## Ryšiai
 - [[objektai/asmenys/Kristupas Radvila]] uzeme Usviatai

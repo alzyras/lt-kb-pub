@@ -75,18 +75,10 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 818368-818899; hash=bb7e2b19c0aa3ecceecb969fcf43eab1011006de5166449c076bc512ac810ccf; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Manvydas: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Astikas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Manvydas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai mini Manvydo susitarimą su Astiku; kryptis parinkta pagal leidžiamą Astiko kandidato porą.
 
 ## Ryšiai
 - [[objektai/asmenys/Manvydas]] buvo_sajungininkas_su Astikas

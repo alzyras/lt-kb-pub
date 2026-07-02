@@ -55,18 +55,10 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3c0c8fe0285aaada4729a8fe14a4b8b5bca6d64df24ebafbc4a334f8a10ab526; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Augustas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Karalaičio Jokūbo partija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Augustas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Partijos šalininkai perėjo į Augusto pusę, todėl tai tiesiogiai rodo Augusto rėmimą.
 
 ## Ryšiai
 - Karalaičio Jokūbo partija reme [[objektai/asmenys/Augustas]]

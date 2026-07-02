@@ -50,8 +50,7 @@ Dusburgietis teigia, kad mannhardt M.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a250c7b69313e6251138616c85b335fc2126dbba21e6a9181b0cd6ff43c569ef; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

@@ -57,15 +57,7 @@ Dusburgietis teigia, kad labuda G.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 781797-781996; hash=e2bcea789139069c20ffe2d62fdbacfb52c2e1c8b66aca237f73cc105792fef4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vysla: 0.73
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vysla: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys apie baltų gyventojų apgyvendinimą žemutinės Vyslos krante leidžia sieti baltų gyvenimą su Vyslos vietove, nors objektas apibendrintas iki Vyslos.

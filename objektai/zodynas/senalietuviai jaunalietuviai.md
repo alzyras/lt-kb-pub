@@ -7,6 +7,10 @@ datos:
   - '1920 m.'
 date_start: '1920'
 date_end: ''
+aliases:
+  - 'objektai/zodynas/litvinai'
+variantai:
+  - 'litvinai'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -59,9 +63,10 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino litvinais arba senalietuviais, bet dauguma jų integravosi į lenkų tautą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -75,5 +80,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002

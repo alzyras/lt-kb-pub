@@ -23,7 +23,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   global_id: t-58642
   teiginys: 'Pamedės žemėje buvusią Spitenbergo pilį broliai sudegino ir paliko per antrąją atskalūnybę.'
   sudarymo_pagrindimas: 'Citata pagrindžia pilies vietą, sudeginimą ir palikimą.'
-  susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Prūsai; llm_object: Pamedė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Pamedė; llm_object: Pamedė'
   semantiniai_rysiai: 'Spitenbergas priklausė Pamedė'
   pagrindžia:
     - c-002
@@ -77,9 +77,10 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -97,39 +98,11 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 450373-450585; hash=ce6c2c903bc3420f12edf8d9a6144fb1ec2aaaa3a7b232519386154337c0c87b; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Spitenbergas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Formuluotė „kryžiuočių pilis“ tiesiogiai rodo pilies priklausymą kryžiuočiams.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 449034-449446; hash=d9c00ec7e2f8f151548fc410494eafb53621c30a1fd6bfb3a0c93ff017ed0196; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Pamedė: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Spitenbergas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Pamedė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai lokalizuoja Spitenbergą Pamedės žemėje; tai leidžia atsargiai žymėti priklausymą Pamedės teritorijai.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 449034-449446; hash=d9c00ec7e2f8f151548fc410494eafb53621c30a1fd6bfb3a0c93ff017ed0196; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Pamedė: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Spitenbergas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Pamedė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Spitenbergas tiesiogiai nurodytas kaip pilis Pamedės žemėje.
 
 ## Ryšiai
 - Spitenbergas priklause [[objektai/vietos/Pamedė]]

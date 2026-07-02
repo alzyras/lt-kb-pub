@@ -56,15 +56,7 @@ Kurklių vlsč.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 987863-988074; hash=e9be7d627ac9992ff269999ee4142616562cc68de62bb59b26e4de7abdf8c813; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Trakiniai: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: NKVD: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Trakiniai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: NKVD puolimas vyko Trakinių kaimo apylinkėse; tikrasis būrio objektas nėra kandidatuose.

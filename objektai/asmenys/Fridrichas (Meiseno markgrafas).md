@@ -45,9 +45,9 @@ Fridrichas buvo Meiseno markgrafas, kurio šeimos vyrai, pasak Kojelavičiaus, n
     ralių, paaukojo gyvybę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 581437-581776; hash=f7f8eececb6f21f3cfee3694247f24ecece4255f780cd621cb28885834a0ad3a; match=exact
-  sprendimo_priezastis: auto

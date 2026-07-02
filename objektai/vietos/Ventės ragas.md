@@ -86,29 +86,11 @@ kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį S
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=519121c8e9f6d61654d81d6b6a7f00b0d80ac556e14c3701aa38eda88188e233; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Veliuona: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai mini Ordino kariuomenės puolimą prieš Veliuonos pilį.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=519121c8e9f6d61654d81d6b6a7f00b0d80ac556e14c3701aa38eda88188e233; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Veliuona: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Toje pačioje citatoje tiesiogiai nurodyta, kad Ordino kariuomenė puolė Veliuonos pilį.
 
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] pastate Ventės ragas

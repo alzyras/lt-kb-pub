@@ -105,9 +105,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4ae56b15d89bcf0e8009dc35179b8950ca04c0b8900ed7bbbbc2d1e3a8dd5546; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-001
 - c-003
   santrauka: 'Seimas būdavo baigiamas atsisveikinimu su karaliumi, per kurį visi vėl bučiuodavo jam ranką.'
@@ -133,10 +130,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=73381c8d6366aba61203c6e5f3bd931c0c5b8b89f7451d0ef09f59ca5fb5cee2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e8a502420e59635b930af52f81edee527fa314a2fd692845ae749ced9da939f0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

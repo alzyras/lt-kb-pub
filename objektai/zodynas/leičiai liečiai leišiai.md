@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'leičiai / liečiai / leišiai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'objektai/zodynas/leičiai'
+variantai:
+  - 'leičiai'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -65,6 +69,8 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002

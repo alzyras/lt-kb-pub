@@ -3,6 +3,10 @@ tipas: vieta
 pavadinimas: 'Isteris'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+aliases:
+  - 'objektai/vietos/Dunojus'
+variantai:
+  - 'Dunojus'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -66,6 +70,8 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 

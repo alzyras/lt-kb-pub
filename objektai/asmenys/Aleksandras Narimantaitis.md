@@ -75,19 +75,12 @@ Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukšči
     pasiplėšti grobio.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 433378-434140; hash=ef8e1b29cf88b34244905de805b1da79f65acef52c3e76041ab75c99169e100b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Volynė: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aleksandras Narimantaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Volynė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Volynės perdavimą Aleksandrui Narimantaičiui.
 
 ## Ryšiai
 - Aleksandras Narimantaitis valde [[objektai/vietos/Volynė]]

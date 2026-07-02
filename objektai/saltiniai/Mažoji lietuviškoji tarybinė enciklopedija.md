@@ -48,8 +48,7 @@ Dusburgietis teigia, kad mažoji lietuviškoji tarybinė enciklopedija.—T.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 786127-786200; hash=b3ea7d7365c7d18e6e045254ad7cf632f2435017a42958c12ff319c330e4f285; match=exact
-  sprendimo_priezastis: auto

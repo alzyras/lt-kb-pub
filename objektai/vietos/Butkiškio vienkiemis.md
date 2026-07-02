@@ -67,18 +67,10 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fe57a9b5e785bc242da79ea043e2977fe1f95aaa52dd43d324ea5dfac981ecf9; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Butkiškio vienkiemis: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Alfonsas Vildžiūnas-Vijoklis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Butkiškio vienkiemis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Alfonsas Vildžiūnas-Vijoklis kartu atvedė čekistus į vietą prie bunkerio Butkiškio vienkiemyje.
 
 ## Ryšiai
 - [[objektai/asmenys/Albinas Kubilius-Rūgštymas]] keliavo_i Butkiškio vienkiemis

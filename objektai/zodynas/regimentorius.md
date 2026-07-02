@@ -70,6 +70,9 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
     Čia jis uždarė belaisvį pranciškonų vienuolyno celėje, greta savęs.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -89,26 +92,9 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
     Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b888a96438430cf03125d13bcb6d45887b345ac29743b34266c4c6fea67f93ac; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kardas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: regimentorius: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kardas: mention_match, thing, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "regimentorius" parinktas kaip owner_note_path. Targetas "Kardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 765424-765872; hash=27f1b29d8859b5575633ca5d9f7d1ff5fad5c4b1352185d3bb918eed4b2c8544; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Valkininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: regimentorius: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Valkininkai: mention_match, place, gap=90
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "regimentorius" parinktas kaip owner_note_path. Targetas "Valkininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

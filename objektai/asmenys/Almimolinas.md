@@ -55,18 +55,10 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 694037-694443; hash=a9378459d9bdf4c7e70585e496075215b76fb9a7bd77fcc009abc4674ab167eb; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Ispanija: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Almimolinas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Ispanija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Almimolino atvykimą į Ispaniją su kariuomene.
 
 ## Ryšiai
 - Almimolinas buvo_valdovas [[objektai/grupes/Saracėnai]]

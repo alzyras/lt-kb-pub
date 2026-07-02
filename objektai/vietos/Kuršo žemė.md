@@ -81,18 +81,10 @@ Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 1
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 364483-365805; hash=d189ffefbaea1ad559bed6e6ddf4834eb60e3d50572166303d33273aa067e140; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kuršo žemė: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kuršo žemė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lietuviai tiesiogiai įvardyti kaip nuniokoję Kuršo žemės dalį, todėl tai karinis puolimas.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] puole Kuršo žemė

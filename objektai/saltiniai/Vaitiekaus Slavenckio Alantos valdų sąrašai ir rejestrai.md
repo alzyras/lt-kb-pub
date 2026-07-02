@@ -108,6 +108,9 @@ Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams pav
     nui Bekešui.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -159,26 +162,9 @@ Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams pav
     ir nebūtų įtraukta ar aprašyta.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=15c85efffe7e001fe5d80981c675f6c1edeb9a718c8f58d5ad76a0c35aacd32f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Gabrielius Bekešas: 0.78
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Alanta: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Gabrielius Bekešas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata perduoda Alantos dvarą ir priklausinius Gabrieliui Bekešui naudoti ir turėti.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 798382-800470; hash=4153b58bd9ab22eb427b4e40f1a873210649fcd2022e1ad7fa068188e4ef0f85; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Gabrielius Bekešas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bajorai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Gabrielius Bekešas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad rejestruose išvardyti bajorai ir kiti žmonės yra Gabrielio Bekešo tėvoniškiai.

@@ -91,29 +91,11 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 719988-720400; hash=c44af7674fb407d977f1259c1e71d1f5cee1880f5daf0360b1b26313f0ba4cb4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Paryžius: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Egidijus (arkivyskupas, XIV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Paryžius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Egidijaus palaidojimo vietą Paryžiuje.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 719988-720400; hash=c44af7674fb407d977f1259c1e71d1f5cee1880f5daf0360b1b26313f0ba4cb4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Paryžius: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Egidijus (arkivyskupas, XIV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Paryžius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Egidijus buvo palaidotas Paryžiuje.
 
 ## Ryšiai
 - Egidijus (arkivyskupas, XIV a.) buvo_palaidotas [[objektai/vietos/Paryžius]]

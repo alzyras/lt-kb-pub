@@ -171,9 +171,10 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -210,30 +211,11 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 781952-783260; hash=98ff647f3b3d0ddb45e9c5f51a79d10a02d8ea3c5d91bc8c9f135029340983a5; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: susije_su -> bursa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijono Bursos studentų bendrija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: bursa: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijono Bursos studentų bendrija" parinktas kaip owner_note_path. Targetas "bursa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 785327-787057; hash=499c25d2e56427e7d8a603f09b3983f2eb6492a6642fc6e544f6681065319848; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: susije_su -> Valerijono bursos: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijono Bursos studentų bendrija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Valerijono bursos: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijono Bursos studentų bendrija" parinktas kaip owner_note_path. Targetas "Valerijono bursos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
-
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -250,30 +232,11 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 785327-787057; hash=499c25d2e56427e7d8a603f09b3983f2eb6492a6642fc6e544f6681065319848; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: susije_su -> Namas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijono Bursos studentų bendrija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Namas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijono Bursos studentų bendrija" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 789264-789757; hash=fc6eaf8059ff42dbb929da255fcae6c6d6950471ce1f88f29e81e5d0b3c34590; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: susije_su -> Namas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijono Bursos studentų bendrija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijono Bursos studentų bendrija" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
-
 - c-004
   santrauka: 'Valerijono Bursa buvo skirta laisvam studentų gyvenimui, nepriklausomai nuo jų tautybės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -316,25 +279,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 789264-789757; hash=fc6eaf8059ff42dbb929da255fcae6c6d6950471ce1f88f29e81e5d0b3c34590; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: susije_su -> Valerijono Bursa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijono Bursos studentų bendrija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Valerijono Bursa: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijono Bursos studentų bendrija" parinktas kaip owner_note_path. Targetas "Valerijono Bursa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f3c68122c7d58edfe06c205b36c1c4639ec26d07d86418b2fc9fcee60a39264c; match=fallback; occurrences=0
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: susije_su -> Valerijono Bursa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijono Bursos studentų bendrija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Valerijono Bursa: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijono Bursos studentų bendrija" parinktas kaip owner_note_path. Targetas "Valerijono Bursa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

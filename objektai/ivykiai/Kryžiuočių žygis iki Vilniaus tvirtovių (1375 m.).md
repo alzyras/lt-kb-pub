@@ -118,9 +118,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -138,19 +139,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 90395-90784; hash=69b15d91562b22c992a02f6c713870c90c1a17a8bed4f3b96d18483b62915e46; match=whitespace_regex
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-
 - c-003
   santrauka: 'Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet miesto staiga neužėmė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -168,25 +160,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 90449-91040; hash=7c99cb02808678bcac2f235645346e330b879d36249974bae430965458945dd1; match=whitespace_regex
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: surenge_zygi_i -> Vilnius: 0.82
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gotfridas Lindenas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Gotfrido žygio kryptis tiesiogiai nurodyta iki Vilniaus tvirtovių, nors miesto užimti nepavyko.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 90537-91126; hash=facd02716fa375a21dea19d7d77201448e02c180b9e504d566dc348b05d14a15; match=whitespace_regex
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: surenge_zygi_i -> Vilnius: 0.82
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gotfridas Lindenas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Gotfridas Lindenas tiesiogiai siejamas su žygiu iki Vilniaus tvirtovių.

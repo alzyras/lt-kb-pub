@@ -76,27 +76,10 @@ Nenurodyta
       593 D.— Says, Jer.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=00d79a7cedb04f0bd53b970dca509221b983602fc51d26e37d550f0633e3b66b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Lunenburgas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lunenburgas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje tiesiogiai nurodyta, kad Ditrichas iš Altenburgo pastatė Lunenburgo pilį.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=00d79a7cedb04f0bd53b970dca509221b983602fc51d26e37d550f0633e3b66b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Lunenburgas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lunenburgas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje tiesiogiai nurodyta, kad Ditrichas iš Altenburgo pastatė Lunenburgo pilį.

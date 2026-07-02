@@ -57,8 +57,7 @@ periodo_grupes:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 805405-805545; hash=636e9e84e4b97417e81aa9e1026ff79f4ab98be0798054c47dff464afb0bdd58; match=whitespace_regex
-  sprendimo_priezastis: auto

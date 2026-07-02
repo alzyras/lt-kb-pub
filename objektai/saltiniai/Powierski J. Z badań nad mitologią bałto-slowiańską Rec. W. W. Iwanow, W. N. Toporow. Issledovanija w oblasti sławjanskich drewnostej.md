@@ -48,8 +48,7 @@ Dusburgietis teigia, kad powierski J.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 792897-793093; hash=ba4adfb29218851e78ac511d693cbd2d4071f4c1ab213610744eb6a701f8f84a; match=exact
-  sprendimo_priezastis: auto

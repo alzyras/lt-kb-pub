@@ -72,18 +72,10 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=42ecce83ecea30d983f9d10913d9e9fd98fa6a32302b1b4e87e5d15d42cefa5d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Svėdasai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Svėdasai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Sierakauskas tiesiogiai nurodytas išskubėjęs Svėdasų kryptimi.
 
 ## Ryšiai
 - [[objektai/asmenys/P. Genys]] uzeme Svėdasai

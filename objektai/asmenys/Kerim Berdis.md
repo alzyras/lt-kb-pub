@@ -101,9 +101,10 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Kerim Berdis sutelkė stiprią kariuomenę, mūšyje išsklaidė Tochtamyšo dalinius ir nužudė brolį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -124,12 +125,10 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 694443-694944; hash=2d0f20a1b2a106e18cb982a16de07a960e7f676bb7babb94a393d9be4b58fa9f; match=exact
-  sprendimo_priezastis: auto
     - t-002
-
 - c-003
   santrauka: 'Kerim Berdis, padrąsintas ankstesnės pergalės, ryžtingai su kariuomene užpuolė brolį netoli Volgos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -141,21 +140,10 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 695511-695962; hash=9d174d4c5c54ed641f4ff9f99fa9adc5515ab434c60c7a270fa0d19aa54bfe37; match=exact
-  sprendimo_priezastis: auto
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 696741-696925; hash=3ee6f25740569b31dad1fa8c3eedcaf7499d641f69d2d07c1288cb37ef257d08; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Volga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kerim Berdis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Volga: mention_match, place, gap=92
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kerim Berdis" parinktas kaip owner_note_path. Targetas "Volga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Kerim Berdis puole [[objektai/asmenys/Tochtamyšas]]

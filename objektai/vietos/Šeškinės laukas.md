@@ -63,18 +63,10 @@ Skirgaila persikėlęs per Nerį apsistojo Šeškinės lauke.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=774e38d166edf6586d8771d81f07487ee5cba40b70aeaed29ba42e4257828998; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: keliavo_i -> Šeškinės laukas: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Šeškinės laukas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai rodo Skirgailos persikėlimą ir apsistojimą Šeškinės lauke.
 
 ## Ryšiai
 - [[objektai/asmenys/Skirgaila]] keliavo_i Šeškinės laukas

@@ -99,6 +99,9 @@ Nenurodyta
     užkariauta, o įtvirtinimai iš pamatų sugriauti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -127,29 +130,12 @@ Nenurodyta
     ir žygiuoti prie artimiausio miško.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 437223-437773; hash=9b84ad589392eabeeeaf848542e3d5a8d72bd32d6f5690ae350b9aeef142d175; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Semba: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kęstutis vadovauja kariuomenei ir nusprendžia žygio tikslą Sembą.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 438452-439353; hash=7cdee5613249dcf4054422bfa2ec87dcfae126cb5d3c8de0ae4990cf87da77ab; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.): 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Kryžiuočių nuostoliai mūšyje tiesiogiai rodo jų dalyvavimą šiame mūšyje.
 
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)

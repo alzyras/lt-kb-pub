@@ -38,8 +38,7 @@ Skardžiaus. Skardžiaus, Dr.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 740481-740562; hash=14a71b02299ad95138fb0f9f2e1d605b19576607c15320dfdf530159ac166682; match=exact
-  sprendimo_priezastis: auto

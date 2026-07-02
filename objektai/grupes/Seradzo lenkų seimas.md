@@ -61,19 +61,12 @@ Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją 
     sušaukė Seradze lenkų seimą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 769437-770076; hash=4fcb8f2184932756c0b2a859e1b6a27757fdc7497e3909df05e6a8eb6e5b2b92; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lenkai: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Seradzo lenkų seimas (seimas): llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Pavadinimas „lenkų seimas“ tiesiogiai sieja Seradzo seimą su lenkais.
 
 ## Ryšiai
 - Seradzo lenkų seimas (seimas) priklause [[objektai/grupes/Lenkai]]

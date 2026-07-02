@@ -47,8 +47,7 @@ Dusburgietis teigia, kad schmid B.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 796753-796865; hash=9f1bdb54f58f9feb0463e03314c4932e02c9ccfa008de742d009c0deb97a76f5; match=exact
-  sprendimo_priezastis: auto

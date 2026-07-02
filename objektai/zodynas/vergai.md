@@ -63,12 +63,8 @@ Tai buvo vergai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 81003-81149; hash=9dc1ccbc7acd947a22a8c9865607c81c498cdc08f5339a4bce8f7478968c83e3; match=exact
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 81003-81149; hash=9dc1ccbc7acd947a22a8c9865607c81c498cdc08f5339a4bce8f7478968c83e3; match=exact
-  sprendimo_priezastis: auto

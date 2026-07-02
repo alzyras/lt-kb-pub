@@ -49,8 +49,7 @@ Dusburgietis teigia, kad zweck A.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 806197-806343; hash=52851e44eb58b9180f9f41e90bdd5cc6fc1ad8975106a948de4830441a29b7b5; match=exact
-  sprendimo_priezastis: auto

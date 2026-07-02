@@ -81,16 +81,9 @@ Nenurodyta
     vietininkai.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 433193-433871; hash=d9eb0736f3513af741610875ba8d9c93834d803b78c51209eb4244106d515b24; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Volynė: 0.63
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Volynė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pasakojime Kazimieras, Lenkijos karalius, perima rusų valdas; Volynė minima kaip perduota jo tvarkoma žemė.

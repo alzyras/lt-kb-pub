@@ -58,6 +58,7 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Prūsiją ir Straisbergo apiplėšimas.md#claim-t-185791|Vytenio žygis į Prūsiją ir Straisbergo apiplėšimas]]: Per žygį į Prūsiją lietuviai rugsėjo pabaigoje per šv. Mykolą apiplėšė Straisbergo miestą, kur žuvo daug bažnyčiose susirinkusių žmonių.
 - susijęs iš [[objektai/ivykiai/Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema).md#claim-t-183976|Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)]]: 1317 m. žiemą žygis prieš Vaikių valsčių nutrūko, kai audra išblaškė daugiau nei penkis šimtus kariuomenės arklių.
 - susijęs iš [[objektai/ivykiai/Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema).md#claim-t-62960|Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)]]: 1317 m. žiemą žygis prieš Vaikių valsčių nutrūko, kai audra išblaškė daugiau nei penkis šimtus kariuomenės arklių.
+- susijęs iš [[objektai/paprociai/Arklio auka ir švento plauko arklių perdavimas žyniui.md#claim-t-187997|Arklio auka ir švento plauko arklių perdavimas žyniui]]: Narbutas arklio auką sieja su sėkmingu grobiamuoju žygiu ir trečdalio grobio skyrimu dievams.
 - susijęs iš [[objektai/paprociai/Sezoniniai ordino žygiai į Lietuvą.md#claim-t-05364|Sezoniniai ordino žygiai į Lietuvą]]: Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.
 - susijęs iš [[objektai/paprociai/Sezoniniai ordino žygiai į Lietuvą.md#claim-t-97140|Sezoniniai ordino žygiai į Lietuvą]]: Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.
 - susijęs iš Guillaume de Machaut Confort d’Ami: Guillaume de Machaut 1357 m. veikale „Confort d’Ami“ paminėjo žygį, kuriame dalyvavo svečių net iš Anglijos.
@@ -206,9 +207,10 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -225,18 +227,7 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0ba42621f917daffdcfee579713fc1235bb115807d24173e11a6bd886b66f7f9; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 172428-172924; hash=4d615fbbc87d835fe920c2fd62c842e6a6037e54ecc9f9e34d15112720dfbaaa; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kryžiuočių ordinas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad lietuviai tykodavo užpulti kryžiuočius.

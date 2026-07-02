@@ -85,9 +85,10 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui, taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -101,39 +102,11 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 597407-598298; hash=8ef8cb042905dd3dd38c51659774cfb966997da75a739f202a7507d1df41d22e; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jerošinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kimelis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jerošinas: mention_match, author, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kimelis" parinktas kaip owner_note_path. Targetas "Jerošinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 596076-596537; hash=f183c4964afbdabff9f34f48c34ded607c86b0ecadcebd30f2fd9fc8122b9acf; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kimelis: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kimelis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kryžiuočių ordino broliai tiesiogiai įvardyti kaip įsiveržę į Kimelio pilį.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 596076-596537; hash=f183c4964afbdabff9f34f48c34ded607c86b0ecadcebd30f2fd9fc8122b9acf; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kimelis: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kimelis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kryžiuočių ordino broliai tiesiogiai įvardyti kaip įsiveržę į Kimelio pilį.
 
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] puole Kimelis

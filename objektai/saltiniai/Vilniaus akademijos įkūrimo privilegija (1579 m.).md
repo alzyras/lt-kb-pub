@@ -75,10 +75,4 @@ Vilniaus akademijos privilegiją karalius iš pradžių davė jėzuitams būdama
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f6579aa428fdf75f1678e22c84bf93c434a18e219fde9bcdd161c18984185654; match=normalized; occurrences=1
-  sprendimo_priezastis: auto
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 599605-599892; hash=41a2f2029ff0e89de674895df86ebc4591f0b267b7d1d04305533ea33a922ff5; match=exact
-  sprendimo_priezastis: auto

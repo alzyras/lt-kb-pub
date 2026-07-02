@@ -64,30 +64,13 @@ Dusburgietis teigia, kad apie vieną brolių karo laivą Po to brolis Verneris, 
     mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 645551-645992; hash=6e500b04e05862ac24f1389e799e39eb148c05b0ee7c5c1bda9a7bf66d1cb9ad; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Laivai: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Verneris (Ragainės komtūras): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Laivai: llm_allowed_candidate, thing
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Verneris pasistatydino karo laivą ir kitų laivų.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 645551-645992; hash=6e500b04e05862ac24f1389e799e39eb148c05b0ee7c5c1bda9a7bf66d1cb9ad; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Laivai: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Verneris (Ragainės komtūras): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Laivai: llm_allowed_candidate, thing
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Verneris pasistatydino karo laivą ir kitų laivų.
 
 ## Ryšiai
 - Verneris (Ragainės komtūras) pastate [[objektai/daiktai/Laivai]]

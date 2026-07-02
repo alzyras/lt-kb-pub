@@ -81,9 +81,10 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -98,11 +99,7 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 686779-687157; hash=694570918da39c1f8ae66d80a8ca423df4490aee64eb51ceb0e8d2acf45a23ff; match=exact
-  sprendimo_priezastis: auto
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2258c90b5612c9b41039e052e852f3b27f4fcafb0c3a566908a32f5b512968ea; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

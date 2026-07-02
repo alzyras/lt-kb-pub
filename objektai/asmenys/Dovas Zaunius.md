@@ -71,18 +71,10 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5010259d8d2540bd83398b4f81b12056d60cb4f13ac25ade4186bc6aac6a3c7c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Ženeva: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Dovas Zaunius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Ženeva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Nuotraukos aprašas tiesiogiai rodo Dovą Zaunių Lietuvos delegacijoje Ženevoje.
 
 ## Ryšiai
 - Dovas Zaunius keliavo_i [[objektai/vietos/Ženeva]]

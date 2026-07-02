@@ -82,15 +82,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 645087-645550; hash=298c92f63ba4de3bc66a3e378b4c793a7071fb5afb5433f136d800d9ac0c91c7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Bisenė: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas iš Plockės: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claim_text tiesiogiai nurodo Henriką iš Plockės puolus Bisenės pilį.

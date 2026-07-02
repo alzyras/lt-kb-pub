@@ -93,6 +93,9 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     1500 krikščionių.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -112,29 +115,12 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     džiusi po kaimus.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bd8c8757b21eb21f1ef0a2f550a597bd7621bda7ed80569b18a7aedd6586e366; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Treiderės upė: 0.54
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Treiderės upė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Brunonas buvo Teutonų ordino brolis, tačiau pats Brunonas nėra allowed_candidates sąraše, todėl ryšys su grupe yra netiesioginis.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 301942-302385; hash=df56b39730b2ccd724ee136328794075a38f2e30f965511bd3469e62c66b1e58; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Treiderės upė: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Brunonas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Treiderės upė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Brunono puolimo vieta tiesiogiai nurodyta prie Treiderės upės.
 
 ## Ryšiai
 - [[objektai/asmenys/Brunonas]] puole Treiderės upė

@@ -71,9 +71,10 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Pamedėnų pilis stovėjo vietoje, kuri Petro Dusburgiečio kronikoje vadinama Senuoju Kristburgu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -91,28 +92,10 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 325156-325411; hash=5866372262b2204d215d697baeed15ec8360e79ea96adfc8ed0d7d4f2a03501e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Pamedėnai: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Senasis Kristburgas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Pamedėnai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Senasis Kristburgas tiesiogiai apibūdinamas kaip pamedėnų centras.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1d8a6f93736101e2b21b5b1b4fc6688818a3d862dd3c1449e4eaed38b7f4cb5c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Senasis Kristburgas: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pamedėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Senasis Kristburgas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pamedėnų pilis nurodyta stovėjusi vietoje, vadinamoje Senuoju Kristburgu; tai rodo pamedėnų vietinį ryšį su ta vieta.
 
 ## Ryšiai
 - Senasis Kristburgas priklause [[objektai/grupes/Pamedėnai]]

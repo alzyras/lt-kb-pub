@@ -64,18 +64,10 @@ Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitan
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 984986-985501; hash=21117368fa4028359702c0b0a90f7eb488d7005b2051e52528ae779be1e495d3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Seversko žemė: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rylskas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Seversko žemė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Rylskas išvardytas kaip Seversko žemės dalis.
 
 ## Ryšiai
 - Rylskas priklause [[objektai/vietos/Seversko žemė]]

@@ -41,8 +41,7 @@ Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsiv
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 527067-527437; hash=74e731106e11d7a0c7e7dd89f23f1279493c4bdc26f42ae856465cf22d6950e1; match=exact
-  sprendimo_priezastis: auto

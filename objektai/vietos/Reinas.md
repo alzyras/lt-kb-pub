@@ -133,8 +133,7 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=aca02f7e6d8702a65502819c0e244dc301fa6895ce00d1a4ee351e5260c98200; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

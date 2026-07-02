@@ -39,7 +39,7 @@ Tai pilis, minima kaip vienas reprezentacinių Vytauto statinių.
 
 - tipas: pilis
 - regionas: Trakai, Galvės ežeras
-- susiję žmonės: [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)|Vytautas]]
+- susiję žmonės: [[objektai/asmenys/Vytautas|Vytautas]]
 - susiję įvykiai:
 - susijusios grupės:
 
@@ -119,29 +119,11 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=088eddaf5b1ed279f89ea5c1ee9131b67b407b48c87207a5a7f905431da5b81f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Galvės ežero salos pilis (pilis): 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ghillebert de Lannoy: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Galvės ežero salos pilis (pilis): llm_allowed_candidate, place
-  ryšio_paaiskinimas: Apsilankymas pilyje tiesiogiai rodo Ghillebert de Lannoy kelionę į šią vietą.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=088eddaf5b1ed279f89ea5c1ee9131b67b407b48c87207a5a7f905431da5b81f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Salos: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Galvės ežero salos pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Salos: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Galvės ežero salos pilis (pilis)" parinktas kaip owner_note_path. Targetas "Salos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/asmenys/Ghillebert de Lannoy]] keliavo_i Galvės ežero salos pilis (pilis)

@@ -59,19 +59,12 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
     jo niokoti Romos ir popiežiaus valdas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 89527-89876; hash=81c33185e69d9df88205e7baa1b804b0ee687ff61915a7732fb3db358f2676af; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Italija: 0.73
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Deziderijus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata sieja Deziderijaus veiksmus su Italijos niokojimu; tikslesni Romos ar popiežiaus valdų objektai nepateikti.
 
 ## Ryšiai
 - Deziderijus puole [[objektai/vietos/Italija]]

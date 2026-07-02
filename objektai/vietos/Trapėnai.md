@@ -67,18 +67,10 @@ Sužinoję apie Naujojo Kauno statybą, Ordino magistras su kariuomene 1363 m. b
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5a88899dacfa4f49763ea990667f20c9941bad66c158f5250241456ff0add981; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Trapėnai: 0.78
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Trapėnai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Ordino kariuomenės atvykimas į Trapėnus tiesiogiai nurodytas citatoje.
 
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Trapėnai

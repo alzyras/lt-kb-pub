@@ -85,9 +85,6 @@ Augusto III valdymo pabaigoje Čartoriskiai pasiuntė Stanislovą Augustą Ponia
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b643ab16eb682a401fab193fe795fa09f0f17856ffbfacab04d1aa95dd03b6fe; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
 - c-003
   santrauka: 'Rusų kariuomenei parėmus, Stanislovas Augustas buvo išrinktas karaliumi.'
@@ -106,10 +103,4 @@ Augusto III valdymo pabaigoje Čartoriskiai pasiuntė Stanislovą Augustą Ponia
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a6705a490a320a86081aa8ed81016edfa1f1697bf702194ceaf1611d4f60eee3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=58449ffefac94a3472e8ac9e9df99c2de138062faa850302d5062422e2905675; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

@@ -55,8 +55,7 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 499475-500242; hash=8a21890b0199f1c9da3f33ac89f0633cc188d3839aedfd205cfb6c217ccf59b6; match=whitespace_regex
-  sprendimo_priezastis: auto

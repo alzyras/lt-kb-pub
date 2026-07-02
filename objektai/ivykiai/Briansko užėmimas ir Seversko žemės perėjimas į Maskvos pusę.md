@@ -71,16 +71,9 @@ Nenurodyta
     Ivanu, reikalaudami atlyginti skriaudas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 985138-985696; hash=06ad58f3408c1be1e1836600811ab35317f84df82c71fe8df41de9526672e04b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Brianskas: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Brianskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Rusų išdavystė tiesiogiai siejama su Briansko užėmimu, bet rusai veikiau išdavikai nei pagrindiniai užėmėjai.

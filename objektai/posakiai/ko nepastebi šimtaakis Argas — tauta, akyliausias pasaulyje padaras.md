@@ -43,9 +43,9 @@ Kojelavičius tautą vadino šimtaakiu Argu ir akyliausiu pasaulyje padaru, past
     tuometinį jo susigraužimą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 713980-714313; hash=3ade36b24477a05cde54fda8c1fdf314f046a795c7ad129be306253dc6146466; match=exact
-  sprendimo_priezastis: auto

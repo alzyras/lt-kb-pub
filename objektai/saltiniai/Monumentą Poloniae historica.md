@@ -61,15 +61,7 @@ Dusburgietis teigia, kad monumentą Poloniae historica.—T.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 786976-787058; hash=d7478d484fe898ef95f9394bac8eda718a0d6eedb4fc43ac55be1c5d91248f60; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lvovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Monumentą Poloniae historica: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lvovas: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Monumentą Poloniae historica" parinktas kaip owner_note_path. Targetas "Lvovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

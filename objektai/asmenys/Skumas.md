@@ -21,7 +21,7 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
   global_id: t-60435
   teiginys: 'Skumas ir Stucė su didele kariuomene patraukė prie Baigos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai remiasi citata.'
-  susije_objektai: 'llm_object: Baiga; mentioned_person: [[objektai/asmenys/Stucė|Stucė]]; mentioned_place: Baiga; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Baiga; mentioned_person: [[objektai/asmenys/Stucė|Stucė]]; mentioned_place: Baiga; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   semantiniai_rysiai: '[[objektai/asmenys/Skumas|Skumas]] surengė žygį į Baiga'
   pagrindžia:
     - c-001
@@ -52,18 +52,10 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a47355eec1f908b633856997d767e83c115ca4fb04ca8058e8f30acab0baf962; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Baiga: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skumas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Skumas su kariuomene patraukė prie Baigos, tai tiesioginis karinio žygio ryšys.
 
 ## Ryšiai
 - Skumas surenge_zygi_i [[objektai/vietos/Baiga]]

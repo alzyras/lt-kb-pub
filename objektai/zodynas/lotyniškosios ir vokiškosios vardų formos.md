@@ -43,8 +43,7 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 820259-820543; hash=873f012e18dbd50da6b1ede685dc2b505cdb1554cdac024e8e0b4810394453ff; match=exact
-  sprendimo_priezastis: auto

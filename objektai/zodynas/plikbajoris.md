@@ -81,6 +81,9 @@ tags:
     vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-003
@@ -97,15 +100,12 @@ tags:
     alkani ir tikrai sočiai pavalgydavo tik seimelio metu.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=06407505620489f80d3b824e10e1c31374ce84006dc35931d99aa3e283667a14; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1e39db8b062f7f703fa3a7f2940579e7f529692703ca85465c8596b9df9d6a8c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
 
 - c-003
@@ -122,12 +122,9 @@ tags:
     seimeliai buvo nuolatinių muštynių vieta.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=06407505620489f80d3b824e10e1c31374ce84006dc35931d99aa3e283667a14; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 811352-811827; hash=d604c55fd29bbec3fc0015b9558cdcbff59317cb4772461f3d3f94cf62f9fe97; match=whitespace_regex
-  sprendimo_priezastis: auto

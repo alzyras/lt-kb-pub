@@ -8,6 +8,10 @@ datos:
   - '1859 m.'
 date_start: '1857'
 date_end: '1859'
+aliases:
+  - 'objektai/asmenys/Mikalojus Akelaitis'
+variantai:
+  - 'Mikalojus Akelaitis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -60,5 +64,7 @@ periodo_grupes:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001

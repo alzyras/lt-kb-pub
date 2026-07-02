@@ -51,18 +51,10 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fef47ae4215e55e70602f3abf72e35d617c91096eb9a5508efe183cdc66a0586; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Karolis IX: 0.75
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas Vrede: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Karolis IX: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Henrikas Vrede atidavė žirgą karaliui, todėl Karolis IX išsigelbėjo; tai palaiko gynimo ar gelbėjimo santykį.
 
 ## Ryšiai
 - Henrikas Vrede gyne [[objektai/asmenys/Karolis IX]]

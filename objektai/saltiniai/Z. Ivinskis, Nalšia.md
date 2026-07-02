@@ -58,15 +58,7 @@ Ivinskis, Nalšia , LE XIX, 1959, 490- 491 ; Z.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 558194-558456; hash=df77345680854420e75e256313db370d5f7063d922c08d173de1f96c901485d8; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nalšia: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Z. Ivinskis, Nalšia: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Nalšia: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Z. Ivinskis, Nalšia" parinktas kaip owner_note_path. Targetas "Nalšia" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

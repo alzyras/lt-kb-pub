@@ -103,29 +103,11 @@ Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 130
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 608615-609416; hash=053bb09ddd9200a38a13b4258a8bb2323921ccf4ba51abcc37a902cab7da8c07; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gundramas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Kova su lietuviais tiesiogiai matoma iš aprašymo apie jų išžudymą po susirėmimo.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 608615-609416; hash=053bb09ddd9200a38a13b4258a8bb2323921ccf4ba51abcc37a902cab7da8c07; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.79
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gundramas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Gundramas vijosi lietuvių plėšikautojus karinio susidūrimo kontekste.
 
 ## Ryšiai
 - Gundramas kariavo_pries [[objektai/grupes/Lietuviai]]

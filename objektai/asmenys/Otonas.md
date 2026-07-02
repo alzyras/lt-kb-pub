@@ -85,9 +85,10 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Livonijos magistras Otonas žuvo prie Eželio ant ledo kovodamas su žemaičiais ir lietuviais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -105,28 +106,10 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=52fb4ae3758c9c074695315750b1f9e0e6d5f54a51adadee1dc603b2767a4634; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Akonas: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Otonas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Akonas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje tiesiogiai sakoma, kad Otonas palaidotas Akone.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 222075-222523; hash=54155089b400be3583fb01996c89a39721a9941fec554487ed67037304651624; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Otonas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citatoje lietuviai ir žemaičiai kovojo su Otonu; kryptis iš Otono į lietuvius pagrįsta kaip karo priešprieša.
 
 ## Ryšiai
 - Otonas buvo_palaidotas [[objektai/vietos/Akonas]]

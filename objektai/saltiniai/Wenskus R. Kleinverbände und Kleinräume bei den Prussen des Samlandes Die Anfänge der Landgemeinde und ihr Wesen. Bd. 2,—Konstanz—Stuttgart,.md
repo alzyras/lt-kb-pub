@@ -48,8 +48,7 @@ Dusburgietis teigia, kad wenskus R.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 802818-803011; hash=3039910378108afd80bc9471366bc007b5436d6787a1a33a78fcd5936c12d3ae; match=exact
-  sprendimo_priezastis: auto

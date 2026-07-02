@@ -75,16 +75,9 @@ Nenurodyta
     plėšusią kariuomenę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 612542-613369; hash=e11285e90014eeb5a5990146e702e2eb47e57c48541d510f6d3b3d69640e3bcd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Riazanė: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Simonas Lengvenis (valdovas, XIV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Riazanė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Simonui Lengveniui įsakyta pulti Riazanės kunigaikštį.

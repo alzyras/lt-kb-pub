@@ -86,29 +86,11 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 610160-610804; hash=2f784e84aa1ebade4391331fe098ab931a3f4b53575f4cd3b86ff3ab27ec31b0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Venecija: 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigfridas iš Foichtvangeno: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Venecija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo kelionę į Veneciją.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 610160-610804; hash=2f784e84aa1ebade4391331fe098ab931a3f4b53575f4cd3b86ff3ab27ec31b0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Venecija: 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigfridas iš Foichtvangeno: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Venecija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Zigfridas iš Foichtvangeno iškeliavo į Veneciją.
 
 ## Ryšiai
 - [[objektai/asmenys/Zigfridas iš Foichtvangeno]] keliavo_i Venecija

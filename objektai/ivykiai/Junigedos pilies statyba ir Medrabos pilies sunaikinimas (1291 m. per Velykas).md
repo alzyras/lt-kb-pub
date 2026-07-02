@@ -103,6 +103,9 @@ Nenurodyta
     pavadino tuo pačiu vardu.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
@@ -125,37 +128,10 @@ Nenurodyta
                      245 (238).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 567315-567799; hash=76e8bee7be7da94dae5261dd4e9eff86e40bcfeec260b2b55a50cff480081f7c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Medraba: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bertoldas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Medraba: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Bertoldas su vyrais po antpuolio sudegino Medrabos pilį, todėl puolimo ryšys tiesiogiai pagrįstas.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 567315-567799; hash=76e8bee7be7da94dae5261dd4e9eff86e40bcfeec260b2b55a50cff480081f7c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Medraba: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bertoldas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Medraba: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Bertoldas su vyrais po stipraus antpuolio sudegino Medrabos pilį.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 566566-567383; hash=f9892132a4a1bb352b23d856a5653034c074e19d88a7bcbe44447591780f6356; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Junigeda: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Junigeda: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claim_text ir citata tiesiogiai nurodo, kad lietuviai pastatė pilį Junigedos valsčiuje.

@@ -53,18 +53,10 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c4acf23847fa4e16ed003e88ca582ef0197c72731862f23846f04ec5d550028a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Antiochas Eupatoras: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Judas Makabėjus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Antiochas Eupatoras: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Judas Makabėjus kovojo su Antiochu Eupatoru.
 
 ## Ryšiai
 - [[objektai/asmenys/Judas Makabėjus]] kariavo_pries Antiochas Eupatoras

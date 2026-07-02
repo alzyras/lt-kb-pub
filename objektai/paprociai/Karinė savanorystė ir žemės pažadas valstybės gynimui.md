@@ -90,9 +90,10 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -109,9 +110,10 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

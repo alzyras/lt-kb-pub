@@ -50,18 +50,10 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. A. Žemaičio vadovaujamą
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=82b86a641f2889653a1386f3290e2b519357ee5f4b90735e2c97e828560d3080; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prienai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: A. Žemaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prienai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad po susitikimo visi kartu grįžo į Prienus.
 
 ## Ryšiai
 - A. Žemaitis keliavo_i [[objektai/vietos/Prienai]]

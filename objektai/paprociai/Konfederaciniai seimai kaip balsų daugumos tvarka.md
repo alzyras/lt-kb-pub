@@ -78,10 +78,4 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b5e13e99261da695b7db148f3364271d07b3e5ea19685553061681759aab8c46; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b5e13e99261da695b7db148f3364271d07b3e5ea19685553061681759aab8c46; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

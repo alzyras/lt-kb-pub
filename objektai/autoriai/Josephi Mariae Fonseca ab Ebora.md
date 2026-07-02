@@ -56,8 +56,7 @@ opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora etc.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 84596-84886; hash=b8c311f3750eb18df7df5c4a911082103ea6f89c77fe00ed1b58182462aca3e6; match=whitespace_regex
-  sprendimo_priezastis: auto

@@ -47,8 +47,7 @@ Dusburgietis teigia, kad strikowski M.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=930f8e09dd168f8678c4bdb4159751052ad8d8b54e7453c6c89547a840d79ba9; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

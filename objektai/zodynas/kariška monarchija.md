@@ -44,8 +44,7 @@ Kariška monarchija, jeigu taip trum­ pai galima išsireikšti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=521aa3f32e8642d69d58e8503213e382b5df7e60331907921b90dd8814deb707; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

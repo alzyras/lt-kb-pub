@@ -61,18 +61,10 @@ Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 386277-386475; hash=511524ad19c70c584c320b95141aff3cde1a200bbc2f21b816954f495e9f3a38; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Cimermanas: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Cimermanas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Tekstas tiesiogiai rodo, kad namas ir sklypas buvo perduoti Cimermanui.
 
 ## Ryšiai
 - [[objektai/daiktai/Namas]] priklause Cimermanas

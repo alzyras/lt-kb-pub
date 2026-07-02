@@ -71,16 +71,9 @@ Nenurodyta
     taus žodį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 392310-393048; hash=109c2a52c7682fbcf5d8afaf0787f1a634ec13c82a77548479efbcd7d1919c58; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Tikocinas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tikocinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Goštauto kelionę į Tikociną.

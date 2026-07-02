@@ -76,18 +76,10 @@ Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respub
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ef8650e99931b4d20c092dcef2a457e765f25746403ef76cf46706ea02580952; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Bačkis minimas lydėjęs popiežių vizito į Lietuvą metu, todėl galima atsargiai sieti jį su kelione į Lietuvą.
 
 ## Ryšiai
 - Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas) keliavo_i [[objektai/vietos/Lietuva]]

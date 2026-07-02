@@ -45,8 +45,7 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f1e0d3573f15b67670084a0c74f16027f7af6ba3cd66f16e15def28199abc0ba; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

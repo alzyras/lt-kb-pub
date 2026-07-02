@@ -64,18 +64,10 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7696d40bac907905a1eff6e72834d1865005470a2351e17fafd35d05ea3a7b84; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Suchodolskis: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Karolis Jastržembskis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Suchodolskis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Karolio Jastržembskio vadovaujamas būrys susikovė su Suchodolskio daliniu.
 
 ## Ryšiai
 - Karolis Jastržembskis kariavo_pries [[objektai/asmenys/Suchodolskis]]

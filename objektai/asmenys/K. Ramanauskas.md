@@ -58,18 +58,10 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=aa0579e5fa9b1b7b5689d09aa8f5b59006e54cb817d81232bf8d8395c67a0af6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Seinai: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: K. Ramanauskas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Seinai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: K. Ramanausko grupės žygio maršrute tiesiogiai nurodyti Seinai.
 
 ## Ryšiai
 - K. Ramanauskas surenge_zygi_i [[objektai/vietos/Seinai]]

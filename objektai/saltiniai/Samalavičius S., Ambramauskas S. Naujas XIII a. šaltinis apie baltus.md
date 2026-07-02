@@ -50,8 +50,7 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 796005-796114; hash=814188706f3de93896ee245f422963a142b70e55e6ce9f9ec11b3913d6e0e42d; match=exact
-  sprendimo_priezastis: auto

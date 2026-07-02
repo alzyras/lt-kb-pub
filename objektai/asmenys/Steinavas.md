@@ -71,9 +71,10 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Dusburgietis teigia, kad tuo tarpu Steinavas nuvyko pas Karaliaučiaus komtūrą ir išdavė šią paslaptį, patardamas šiam traukti su savo kariuomene drauge su juo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -88,39 +89,11 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=eb22f442a6008d0f191e60839fa5e6dfa2c423f1e007819273a98131a814793f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Glapas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Steinavas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Glapas: mention_match, person, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steinavas" parinktas kaip owner_note_path. Targetas "Glapas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 429701-430118; hash=71cceea3e5abf31de519c00c6de387fe1b9280a48b3ec77a7dafc12b95f591af; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Glapas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Steinavas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Glapas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Steinavas išdavė Glapo paslaptį ir padėjo priešams jį užklupti, todėl konfliktinis ryšys tiesiogiai pagrįstas.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 429701-430118; hash=71cceea3e5abf31de519c00c6de387fe1b9280a48b3ec77a7dafc12b95f591af; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Glapas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Steinavas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Glapas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Steinavas išdavė Glapo paslaptį ir padėjo priešams jį užklupti, todėl konfliktinis ryšys tiesiogiai pagrįstas.
 
 ## Ryšiai
 - Steinavas buvo_priesas [[objektai/asmenys/Glapas]]

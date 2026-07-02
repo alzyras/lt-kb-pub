@@ -93,17 +93,10 @@ Nenurodyta
     vyrų, tinkamai parinktų ir įgudusių kovoti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Karšuva: 0.60
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Burchardas iš Hornhauzeno: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Burchardas nurodė pastatyti pilį Karšuvoje, tačiau leidžiamuose objektuose nėra pačios pilies, todėl ryšys vedamas į vietą.
     - t-002

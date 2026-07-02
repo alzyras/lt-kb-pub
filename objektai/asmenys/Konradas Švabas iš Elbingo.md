@@ -65,26 +65,8 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 446079-446879; hash=6315e4739bf866355d4139e21c77c2c874c54c2524a41b1d5fdf4d00d74a2001; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Belichovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konradas Švabas iš Elbingo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Belichovas: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas Švabas iš Elbingo" parinktas kaip owner_note_path. Targetas "Belichovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 446079-446879; hash=6315e4739bf866355d4139e21c77c2c874c54c2524a41b1d5fdf4d00d74a2001; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Belichovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konradas Švabas iš Elbingo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Belichovas: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas Švabas iš Elbingo" parinktas kaip owner_note_path. Targetas "Belichovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

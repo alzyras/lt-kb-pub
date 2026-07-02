@@ -70,6 +70,9 @@ periodo_grupes:
     1368 m. rudenį ryžosi smogti Maskvai.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -96,29 +99,12 @@ periodo_grupes:
     bos ir apginti“, kvietė žygiuoti į Maskvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1d24448638edbba9090f17153ac84cce014e4ef215e972bcfa56a0e7b1636390; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Tverė: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Dmitrijus Ivanovičius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tverė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claim ir citata tiesiogiai nurodo, kad Dmitrijus Ivanovičius puolė Tverę.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 183641-184145; hash=e5529cb0a173bad2e4fae628de21ffb34866666f07d2376139b47016625b2583; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Tverė: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Dmitrijus Ivanovičius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tverė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claim ir citata tiesiogiai nurodo, kad Dmitrijus Ivanovičius puolė Tverę.
 
 ## Ryšiai
 - Dmitrijus Ivanovičius puole [[objektai/vietos/Tverė]]

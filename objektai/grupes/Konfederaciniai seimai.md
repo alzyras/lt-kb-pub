@@ -56,12 +56,8 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 559144-559547; hash=6b0dcc50496cba68cb114a5dde8bf18c27c3f069bf47fcfc95dccced7ca67e7e; match=exact
-  sprendimo_priezastis: auto
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 559144-559547; hash=6b0dcc50496cba68cb114a5dde8bf18c27c3f069bf47fcfc95dccced7ca67e7e; match=exact
-  sprendimo_priezastis: auto

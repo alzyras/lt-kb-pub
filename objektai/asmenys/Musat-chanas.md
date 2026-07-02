@@ -85,30 +85,13 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
     Vasilijaus neutralumą.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 212360-212895; hash=afa0cb36755fc24b63c383b25b606a8af1ddb99b232879430fc4f5280a771d7d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuva: 0.80
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kafa: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo Kafos apylinkių perėjimą į Lietuvos kontrolę.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 212360-212895; hash=afa0cb36755fc24b63c383b25b606a8af1ddb99b232879430fc4f5280a771d7d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Kafa: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Musat-chanas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kafa: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Musat-chanui pavesta valdyti Kafos apylinkes.
 
 ## Ryšiai
 - Musat-chanas valde [[objektai/vietos/Kafa]]

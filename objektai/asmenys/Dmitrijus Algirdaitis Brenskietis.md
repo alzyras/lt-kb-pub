@@ -96,27 +96,10 @@ Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaik
     lietuviai, Jonas ir Tomas Survilos.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 221750-222354; hash=a6ac6d80d1927554fe5138281b3e574745dbacb60ba34c6a436f58130becc2eb; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Andrius Algirdaitis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dmitrijus Algirdaitis Brenskietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Andrius Algirdaitis: mention_match, person, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dmitrijus Algirdaitis Brenskietis" parinktas kaip owner_note_path. Targetas "Andrius Algirdaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 221750-222354; hash=a6ac6d80d1927554fe5138281b3e574745dbacb60ba34c6a436f58130becc2eb; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Andrius Algirdaitis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dmitrijus Algirdaitis Brenskietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Andrius Algirdaitis: mention_match, person, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dmitrijus Algirdaitis Brenskietis" parinktas kaip owner_note_path. Targetas "Andrius Algirdaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

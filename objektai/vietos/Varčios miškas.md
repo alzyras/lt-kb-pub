@@ -60,15 +60,7 @@ Varčios miške, tarp Alovės ir Daugų mstl.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 986703-987006; hash=28398619e430225b1c4a85f557468e70692a2567e8f76f79e11275ce8c214241; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alovė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Varčios miškas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Alovė: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varčios miškas" parinktas kaip owner_note_path. Targetas "Alovė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

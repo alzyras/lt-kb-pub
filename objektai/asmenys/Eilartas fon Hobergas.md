@@ -91,30 +91,13 @@ tags:
     sumušti priešą dalimis.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 119617-120142; hash=9b251e93fba012dfe59ade5a222b807e75c042ad505e4aa56588f93b4eee651c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Talinas: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Eilartas fon Hobergas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Talinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Eilartas apibūdintas kaip vietininkas Taline, tad santykis su miesto valdymu yra pagrįstas.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 119617-120142; hash=9b251e93fba012dfe59ade5a222b807e75c042ad505e4aa56588f93b4eee651c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Talinas: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Eilartas fon Hobergas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Talinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Eilartas įvardytas danų vietininku Taline, todėl valdžios ryšys su miestu yra tiesiogiai numanomas.
 
 ## Ryšiai
 - Eilartas fon Hobergas valde_miesta [[objektai/vietos/Talinas]]

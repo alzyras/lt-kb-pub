@@ -48,8 +48,7 @@ Semkowicz, Wb.: Hanul, namiestnik wileński i jego ród , AW, t.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8d1f3a569b0cc07503517a3b3f82b95d0c7f6f43fb5bfdbdd4da102cc4a261e4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

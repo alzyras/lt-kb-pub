@@ -69,29 +69,11 @@ susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=40c6c72526459a5955df1a4ca2f654d3c73a23093815f63bfc8f56377d9a4421; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kaunas: 0.73
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydų Hapoelio klubas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Klubo sportininkų žygiavimas Kauno gatve pagrindžia judėjimą Kauno vietoje.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=40c6c72526459a5955df1a4ca2f654d3c73a23093815f63bfc8f56377d9a4421; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kaunas: 0.73
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydų Hapoelio klubas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Klubo sportininkų žygiavimas Kauno gatve pagrindžia judėjimą Kauno vietoje.
 
 ## Ryšiai
 - Žydų Hapoelio klubas keliavo_i [[objektai/vietos/Kaunas]]

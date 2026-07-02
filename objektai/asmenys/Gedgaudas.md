@@ -62,18 +62,10 @@ Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogail�
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 545502-545790; hash=98b7e9d04f61620815787b5893dc222ec7b68588b989e6bd7b6cb67ee1a89330; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lenčica: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gedgaudas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lenčica: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Gedgaudas buvo vienas iš delegatų, kurie atvyko į Lenčicą.
 
 ## Ryšiai
 - Gedgaudas keliavo_i [[objektai/vietos/Lenčica]]

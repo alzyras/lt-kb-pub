@@ -66,15 +66,7 @@ APŠAUDYMAS ŠRAPNELE Viršila Antanas Šukys pasakoja apie lenkų | artilerijos
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=89d330556baf1468bb32c52b38923520ade307b39fe66cbcafff3e1f73b2d254; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.68
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Antanas Šukys: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys sieja Antano Šukio vadovaujamą kuopą su kontrataka prieš lenkų pajėgas; subjektas išvedamas per jo kuopą.

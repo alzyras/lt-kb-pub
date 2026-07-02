@@ -70,18 +70,10 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b5658823dea3a1500ac81fc85091b5676430a556a3ceda796ec84ec26a7ff547; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Ašmenos pavietas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vileika: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Ašmenos pavietas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vileikos apylinkės tiesiogiai lokalizuotos Ašmenos paviete.
 
 ## Ryšiai
 - [[objektai/vietos/Vileika]] priklause Ašmenos pavietas

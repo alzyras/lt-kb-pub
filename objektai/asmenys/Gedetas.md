@@ -59,29 +59,11 @@ Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 539209-539938; hash=939ba74f0ca114f18055646da18e7b3f9f705f10b11f40d780cd552966984fa5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Kimenava: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gedetas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kimenava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kadangi Gedetas vadinamas Kimenavos sūduvių vadu, tai rodo jo valdžią Kimenavoje.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 539209-539938; hash=939ba74f0ca114f18055646da18e7b3f9f705f10b11f40d780cd552966984fa5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Kimenava: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gedetas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kimenava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kadangi Gedetas vadinamas Kimenavos sūduvių vadu, tai rodo jo valdžią Kimenavoje.
 
 ## Ryšiai
 - Gedetas valde [[objektai/vietos/Kimenava]]

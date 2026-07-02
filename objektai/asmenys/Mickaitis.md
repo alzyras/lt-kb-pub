@@ -36,8 +36,7 @@ Pulko vadas pasigedo 1 bataliono karininkų: ltn. Baniulio, ltn. Raibikio, ltn. 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b569a1c947241e2388ced8a353ecc93141f7d77867fb6ff36ff30743026001ed; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

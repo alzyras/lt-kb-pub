@@ -64,18 +64,10 @@ Burnaš Girėjus su Biti Girėjumi rugpjūčio viduryje užpuolė Slucką po Sim
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1033102-1033569; hash=adc84330b24b1770719cb8dd4a5f7ab87f92a31408938a19c3e629d56f8e4fef; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Sluckas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Burnaš Girėjus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sluckas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Burnaš Girėjus užpuolė Slucką.
 
 ## Ryšiai
 - Burnaš Girėjus puole [[objektai/vietos/Sluckas]]

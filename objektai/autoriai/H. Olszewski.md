@@ -38,8 +38,7 @@ Olszewski.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=61113a0d797dce546b8f7357ad5e7771a4cf46d369e8917f0d15f82532fa9b77; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

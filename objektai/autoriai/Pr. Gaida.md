@@ -37,8 +37,7 @@ Gaida, Arkiv.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1111081-1111148; hash=50c44c4e8d3000966bc50c9fc5b316b76026144d866983177aa3bd765e17d599; match=exact
-  sprendimo_priezastis: auto

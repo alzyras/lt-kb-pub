@@ -3,8 +3,10 @@ tipas: paprotys
 pavadinimas: 'Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+tags: []
 ---
 # Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais
 
@@ -42,13 +44,14 @@ Nenurodyta
 - t-001
   global_id: t-55171
   teiginys: 'Išstudijavę Jano Lasickio knygą, Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.'
+  teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
-  sprendimo_priezastis: gap::customs
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair
   ryšio_patikimumas: susije_su -> Lietuviai: 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
@@ -57,24 +60,37 @@ Nenurodyta
   ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=45
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
-<a id="claim-t-81873"></a>
+<a id="claim-t-187829"></a>
 - t-002
-  global_id: t-81873
+  global_id: t-187829
   teiginys: 'Vilniuje veikusi šubravcų draugija išgarsėjo, o jos nariai pasivadino senovės lietuvių dievybių vardais.'
+  teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, pilnas ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
-  sprendimo_priezastis: gap::customs
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair
+
+<a id="claim-t-187830"></a>
+- t-003
+  global_id: t-187830
+  teiginys: 'Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys sutelktas į note objektą: narių pseudonimus ir pareigą rinkti medžiagą. 1816–1822 m. palikti nuošalyje, nes citatoje jie tiesiogiai siejami su laikraščiu, ne visa praktika.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Raseiniai'
+  pagrindžia:
+    - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 25989-26719; hash=f241da58c7a8e6261a5140cce66342cad8c933f31ac72abe009e7a4dc7461fc3; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair
+  ryšio_patikimumas: susije_su -> Šubravcų draugija: 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_targeto_parinkimas: Šubravcų draugija: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais" parinktas kaip owner_note_path. Targetas "Šubravcų draugija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -96,26 +112,31 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
-  sprendimo_priezastis: gap::customs
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
-  sprendimo_priezastis: gap::customs
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- c-002
+  santrauka: 'Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lietuvių mitologija šiuo metu domėjosi ne tik mokslininkai,
+    rašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­
+    nimas. Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towar-
+    zystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais
+    personažais. Šios masoniškos draugijos, susispietusios apie sa­
+    tyrinį laikraštį „Wiadomošci Brukowe“ (1816-1822), nariai bu­
+    vo pasirinkę pseudonimus iš senovės lietuvių mitologijos (pvz.,
+    Perkūnas, Poklus, Wajžgantos) ir privalėjo rinkti medžiagą apie
+    mitinius personažus, kurių vardais buvo pasivadinę, kad tuo
+    prisidėtų prie sudarymo lietuvių mitologijos, kuri su laiku ga­
+    lėtų būti draugijos išleista4. Mitinio personažo Palemono var­
+    du buvo pasivadinusi Raseinių masonų lošė5.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003

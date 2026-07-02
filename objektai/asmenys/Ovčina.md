@@ -56,15 +56,7 @@ Pasak Kojelavičiaus, Ovčina ėjo tokias pat pareigas kaip Glinskis ir gyveno s
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1117344-1117822; hash=687cadbe4f2ed47ad4997d11d57f6d0bc49c30e4fb25ccff98c7e78354b7e439; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vasilijus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ovčina: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vasilijus: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ovčina" parinktas kaip owner_note_path. Targetas "Vasilijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

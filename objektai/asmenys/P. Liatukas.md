@@ -74,9 +74,10 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -93,28 +94,10 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 714057-714265; hash=1d76a58f9ad7bfb98d8c95d78b7289af7cb3f9006d8b47547ce3f2d272bb3f37; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Prienai: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: P. Liatukas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prienai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: P. Liatukas įsakė atsiųsti kareivių būrį į Prienus.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 715152-715422; hash=5679cc204ea6709b02dee352f880fee544789b6bb957c5d688aa6004579b25d3; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Prienai: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: P. Liatukas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prienai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo P. Liatuko įsakymą išsiųsti rinktinę į Prienus.
 
 ## Ryšiai
 - P. Liatukas siunte_i [[objektai/vietos/Prienai]]

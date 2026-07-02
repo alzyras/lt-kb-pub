@@ -59,6 +59,9 @@ amziai:
     Maskvą, S. Žolkievskis.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -78,26 +81,9 @@ amziai:
     riuomenės.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1f15b65dbaa016ca911479c360cb2f9c3826fa86bdf5d9c5f0e07b5d5b01e0c6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Valakija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkijos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Valakija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kariuomenės įžengimas į Valakiją tiesiogiai palaiko judėjimo į vietą ryšį.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 458336-458616; hash=e2a173624ccc560e28167186e5e1f4952079f6fcfd63b490f58fdf2c4ae183f2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Valakija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkijos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Valakija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kariuomenės įžengimas į Valakiją tiesiogiai palaiko judėjimo į vietą ryšį.

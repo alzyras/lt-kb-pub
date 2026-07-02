@@ -48,18 +48,10 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fa20d201a8d9876c32a1094ebc1ab43145d975e253b5e145e1fee32d45f43177; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> NKVD: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Naikintojų batalionai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: NKVD: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Formuluotė 'prie NKVD įkūrė' rodo naikintojų batalionų institucinį susiejimą su NKVD.
 
 ## Ryšiai
 - Naikintojų batalionai priklause [[objektai/grupes/NKVD]]

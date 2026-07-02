@@ -64,18 +64,10 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 824422-824869; hash=42ff24bb4d4985aace0e3e9095afce9955d92ebf1da2c270f0afca14ed40b41b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Palenkė: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurgis Nosuta: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Palenkė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys ir citata tiesiogiai sako, kad Jurgis Nosuta užėmė Palenkę.
 
 ## Ryšiai
 - Jurgis Nosuta uzeme [[objektai/vietos/Palenkė]]

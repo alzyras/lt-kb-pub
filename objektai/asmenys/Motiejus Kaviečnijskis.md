@@ -62,18 +62,10 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 825064-825495; hash=4050c798f5201fd63a29ab8052b34e5ff0876d68a9f72de2385110b05e9bdaa1; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Varšuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Motiejus Kaviečnijskis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Motiejus Kaviečnijskis atsiuntė talerių į Varšuvą.
 
 ## Ryšiai
 - Motiejus Kaviečnijskis siunte_i [[objektai/vietos/Varšuva]]

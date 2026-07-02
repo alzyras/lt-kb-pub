@@ -87,20 +87,11 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 145857-146190; hash=0988aabe91c2acef40d93605399f646258e345f029e13428314f41989997798f; match=whitespace_regex
-  sprendimo_priezastis: gap::sayings
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Net nė šuo iš jūsų pusės su padėka neatsiliepė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=89
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Net nė šuo iš jūsų pusės su padėka neatsiliepė" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
-
 - c-002
   santrauka: 'Posakis „net nė šuo iš jūsų pusės su padėka neatsiliepė“ pavartotas priekaištaujant, kad adresatai neatsakė į pasiūlymus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -124,11 +115,7 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 145857-146190; hash=0988aabe91c2acef40d93605399f646258e345f029e13428314f41989997798f; match=whitespace_regex
-  sprendimo_priezastis: gap::sayings
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 145525-146143; hash=3d42716d357015cf5a57109d2ad1e1454da6f7a94e2f8fa748e48c247a62a46a; match=whitespace_regex
-  sprendimo_priezastis: gap::sayings

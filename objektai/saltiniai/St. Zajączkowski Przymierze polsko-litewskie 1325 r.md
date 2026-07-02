@@ -49,8 +49,7 @@ Zajączkowski, St.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=46e644be5086bb4c786716d93330550edbb695fc2d15382bbaa4bcfcdcf0d351; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

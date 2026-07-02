@@ -78,19 +78,12 @@ periodo_grupes:
     ėmė pulti Veliuoną, prie Nemuno stovinčią pilį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 396806-397426; hash=0a33e8ffe19208a1587a5282520e157066c87059a0b3ee138aa6c7f75e0f41da; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Veliuona: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ditrichas fon Altenburgas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Ditrichas fon Altenburgas su kariuomene puolė Veliuoną.
 
 ## Ryšiai
 - Ditrichas fon Altenburgas puole [[objektai/vietos/Veliuona]]

@@ -65,18 +65,10 @@ as Šia 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę, sugriovė „
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=75e999121046b37a093ebed464d15194a3fcea189d35c42d9fc8bc87d17edc5a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Šiaulių žemė: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Šiaulių žemė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Livonijos ordinas įsiveržė į Šiaulių žemę.
 
 ## Ryšiai
 - [[objektai/grupes/Livonijos ordinas]] puole Šiaulių žemė

@@ -62,16 +62,9 @@ Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasev
     neturi užmiršti caro titulo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1227619-1228224; hash=8c0f42434ce6189c77920fdebfbc252b6fe7f25e2c4cbf37cb269933087fc2ee; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Liuteronai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijonas Suškovskis Protasevičius (vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Liuteronai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijonas Suškovskis Protasevičius (vyskupas)" parinktas kaip owner_note_path. Targetas "Liuteronai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

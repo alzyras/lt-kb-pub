@@ -75,26 +75,8 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bb18203ea4639e9f72b399bce05ee52da99f2caa1992fa16e5ce0ea7fb85b210; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Padauguvis: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Padauguvis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai mini vokiečių atsikraustymą į Padauguvį.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bb18203ea4639e9f72b399bce05ee52da99f2caa1992fa16e5ce0ea7fb85b210; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Padauguvis: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Padauguvis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad dalis vokiečių atsikraustė į Padauguvį.

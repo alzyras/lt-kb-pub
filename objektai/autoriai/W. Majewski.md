@@ -50,8 +50,7 @@ Majewski, W.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d6b8f8e0f54b9382a62c47c51a5e16276888e7943c0b3a23827a65cc24fac054; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

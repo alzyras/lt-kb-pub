@@ -77,18 +77,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 172864-173293; hash=260a76c0cf196eba93dcd227cec047fe0f94932613282c0ded863f5b7d38e5a9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.): 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Otokaras II: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Otokaro II dalyvavimą puolime prieš Sembą.
 
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)

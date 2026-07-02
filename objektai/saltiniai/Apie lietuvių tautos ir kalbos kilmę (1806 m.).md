@@ -75,10 +75,4 @@ Ks. Bauža 1806 m. išleido knygą „Apie lietuvių tautos ir kalbos kilmę“,
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 912899-913134; hash=75890c2c46ae1809b397effecc31bfb0134109e565336c8d010c5a2a1c4db979; match=exact
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=72e4843424355a0963035d0a65eba911ac964049eba13297b0c7a82fb9651a4f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

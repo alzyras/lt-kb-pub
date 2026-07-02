@@ -64,18 +64,10 @@ Lenkų ir lietuvių seimai po ilgų ginčų nutarė susitikti Lomžoje, pusiauke
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 904236-904875; hash=abee78d98668e518cec58f7e0b9fc49eba26043b8795f2f6b593b5342d6c2140; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lomža: 0.75
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lomža: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lenkų seimas nutarė susitikti Lomžoje.
 
 ## Ryšiai
 - [[objektai/grupes/Lenkai]] keliavo_i Lomža

@@ -60,18 +60,10 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=dfb201cddc4185849340926630380a24bb2c6c1139622b3bec96400e3b7e0457; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Zaberezinskis: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Zaberezinskis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Totoriai tiesiogiai atmušė į priekį išsiveržusius Zaberezinskio karius; objektas siejamas su jų vadu.
 
 ## Ryšiai
 - [[objektai/grupes/Totoriai]] puole Zaberezinskis

@@ -3,6 +3,10 @@ tipas: posakis
 pavadinimas: 'Vyrai, susikibkim rankom'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+aliases:
+  - 'objektai/posakiai/Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!'
+variantai:
+  - 'Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -44,5 +48,7 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001

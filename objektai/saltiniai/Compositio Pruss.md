@@ -46,8 +46,7 @@ Compositio Pruss., p. 35, parašyta: Tandem Christianissimum principem dominum C
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 273450-273787; hash=2bd896df12471fdac669abb61e021c2972b197bd2697759dc30080c2a8cafe55; match=whitespace_regex
-  sprendimo_priezastis: auto

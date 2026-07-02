@@ -105,37 +105,9 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=763f23a1591af67afa95ebd49f89c6e03ba2f3434314ad9fa3f452a7d12991b6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> ponų įsigalėjimo laikotarpis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pereinamasis laikotarpis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: ponų įsigalėjimo laikotarpis: mention_match, thing, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pereinamasis laikotarpis" parinktas kaip owner_note_path. Targetas "ponų įsigalėjimo laikotarpis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=763f23a1591af67afa95ebd49f89c6e03ba2f3434314ad9fa3f452a7d12991b6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> ponų įsigalėjimo laikotarpis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pereinamasis laikotarpis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: ponų įsigalėjimo laikotarpis: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pereinamasis laikotarpis" parinktas kaip owner_note_path. Targetas "ponų įsigalėjimo laikotarpis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=763f23a1591af67afa95ebd49f89c6e03ba2f3434314ad9fa3f452a7d12991b6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> ponų įsigalėjimo laikotarpis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pereinamasis laikotarpis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: ponų įsigalėjimo laikotarpis: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pereinamasis laikotarpis" parinktas kaip owner_note_path. Targetas "ponų įsigalėjimo laikotarpis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

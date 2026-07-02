@@ -46,8 +46,7 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 551622-551892; hash=23403c3142e409cccb65c236029e5d699d37641d3b59715de3239c42c6c2f7bc; match=exact
-  sprendimo_priezastis: auto

@@ -48,8 +48,7 @@ Dusburgietis teigia, kad remeika J.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 795145-795248; hash=d3d53cc7bd0dc1b26b0dafbbcd1c1c294ac92f41670475a4126711f2b70a059f; match=exact
-  sprendimo_priezastis: auto

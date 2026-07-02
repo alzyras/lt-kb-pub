@@ -48,18 +48,10 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 930937-931129; hash=90a73d12facd141b0067cfb54b540a148b57964ba179c4ef5b88384de4bb10b5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Lengvenis: 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurgis (Lengvenio sūnus): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lengvenis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Jurgį kaip Lengvenio sūnų.
 
 ## Ryšiai
 - Jurgis (Lengvenio sūnus) buvo_sunus [[objektai/asmenys/Lengvenis]]

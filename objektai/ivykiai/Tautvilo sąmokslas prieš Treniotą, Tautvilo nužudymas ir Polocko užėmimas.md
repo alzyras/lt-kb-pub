@@ -75,16 +75,9 @@ Nenurodyta
     ir valdovas kuo skubiausiai jį užgniaužė.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 185337-185948; hash=0e40ad46352ecdbab0062c7aeb8a880147121a8890ba3e924eb7601f034f96c4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Treniota: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Tautvilas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Treniota: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Sąmokslas prieš Treniotą tiesiogiai pagrindžia Tautvilo priešiškumą Treniotai.

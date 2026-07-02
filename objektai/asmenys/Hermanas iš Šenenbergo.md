@@ -33,7 +33,7 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
   global_id: t-60327
   teiginys: 'Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.'
   sudarymo_pagrindimas: 'Nutrūkęs fragmentas perrašytas į pilną faktinį sakinį apie asmenį.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Bertoldas iš Nordhauzeno|Bertoldas iš Nordhauzeno]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Prūsija; llm_object: Kulmas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Bertoldas iš Nordhauzeno|Bertoldas iš Nordhauzeno]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Baiga; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; llm_object: Kulmas'
   semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo]] kariavo prieš [[objektai/grupes/Sūduviai|Sūduviai]]; [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo]] gynė Kulmas'
   temporaliniai_duomenys: 'įvykio data: iki 1277 m.; įvykio data: po 1262 m.; įvykio data: 1262 m.; įvykio data: apie 1262 m.; įvykio data: po 1276 m.; įvykio data: 1276 m.; įvykio data: po 1277 m.; įvykio data: 1277 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
@@ -80,18 +80,10 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 505397-506829; hash=be639b61db90dcd5ba4d774c298c286817a4610e009343559534f2f9bbc91d79; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Sūduviai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hermanas iš Šenenbergo (karvedys, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sūduviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata aprašo Hermano kovas su į Kulmo žemę įsibrovusiais sūduviais.
 
 ## Ryšiai
 - Hermanas iš Šenenbergo (karvedys, XIII a.) kariavo_pries [[objektai/grupes/Sūduviai]]

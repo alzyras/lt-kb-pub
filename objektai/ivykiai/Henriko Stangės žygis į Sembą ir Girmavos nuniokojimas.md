@@ -89,7 +89,7 @@ Nenurodyta
   global_id: t-66562
   teiginys: 'Kristburgo komtūras Henrikas Stangė žiemą įsiveržė į Sembą, niokojo kraštą iki Girmavos kaimo ir nukovė arba paėmė į nelaisvę daug žmonių.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas, nutrūkęs ir turi išnašų triukšmo; citata pagrindžia veikėją, vietą ir žygio rezultatą.'
-  susije_objektai: 'mentioned_place: Girmava; mentioned_place: Kaimas; mentioned_place: Semba; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Kristburgas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Girmava; mentioned_place: Kaimas; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Kristburgas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -120,9 +120,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: 'Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -140,19 +141,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 340379-340597; hash=35022644a4905c1bb8bc82fb11359eb811e430b4ee5794b25784b34585791ea6; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-
 - c-003
   santrauka: 'Sembos puolimas datuojamas arba 1252–1253 m. žiema, arba 1253–1254 m. žiema, tiksliau 1254 m. pradžia.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -163,28 +155,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 339024-339626; hash=0a4c6b4a48d0f4d2b5cc2eb250e8d9e1bd5705c71b89ba3dfeffbbfa72a5c337; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Girmava: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Girmava: mention_match, place, gap=59
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas" parinktas kaip owner_note_path. Targetas "Girmava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 339627-339992; hash=5545166c916cf75c127e374fedb7651195272e59da48a621e49be79641913c58; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hermanas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Hermano stojimą į kovą tame įvykyje.
 
 ## Ryšiai
 - [[objektai/asmenys/Hermanas]] dalyvavo_musyje Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas

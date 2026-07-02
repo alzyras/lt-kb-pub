@@ -57,6 +57,9 @@ Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Feder
     buvo užmegzti diplomatiniai santykiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001

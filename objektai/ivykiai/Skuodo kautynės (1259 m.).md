@@ -71,18 +71,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 518464-518686; hash=0f7d6a09148023f6388fc7e29e4437abed4293f262bfd477d9eab6fc0b384dd6; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Skuodo kautynės (1259 m.): 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Skuodo kautynės (1259 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Citata tiesiogiai sieja žemaičius su kautynėmis Skuodo laukuose.
 
 ## Ryšiai
 - [[objektai/grupes/Žemaičiai]] dalyvavo_musyje Skuodo kautynės (1259 m.)

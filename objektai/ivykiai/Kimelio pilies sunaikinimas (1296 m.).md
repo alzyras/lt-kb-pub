@@ -83,15 +83,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 595635-596537; hash=f2fa9211dd336ae0d7d1173e83c9fe7c6b05eca334e5b27d8ae95fb87780aa56; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kimelis: 0.89
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kimelis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kimetlio pilis buvo tiesiogiai užpulta ir sudeginta Liudviko vadovaujamo žygio metu.

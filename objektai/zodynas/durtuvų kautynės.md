@@ -48,15 +48,7 @@ Jie, susispaude į krūvą, atstatė durtuvus ir laukė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 865621-865832; hash=973c4237914b82d297d883ce90c083033f5fa2fa3c71fe3f8724c4459daedc1e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lietuviai: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Kontekstas nurodo lenkų ataką prieš lietuvių karius, nors citatos veiksmas aprašo pralėkimą pro juos.

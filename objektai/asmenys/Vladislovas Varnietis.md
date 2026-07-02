@@ -65,18 +65,10 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 448930-449428; hash=4e8c2b54eaaa424d853f9409cf51975d6847860215ed1b3013d520c22b256c5f; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Žygimantas: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Varnietis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Žygimantas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Nesipriešinimas teisių patvirtinimui reiškia pasyvią paramą Žygimanto teisių įtvirtinimui.
 
 ## Ryšiai
 - Vladislovas Varnietis reme [[objektai/asmenys/Žygimantas]]

@@ -4,19 +4,11 @@ pavadinimas: 'Lizdeika'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos:
-  - '1832 m.'
-date_start: '1832'
-date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karas
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
 ---
 # Lizdeika
 
@@ -26,35 +18,31 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 
 ## Teiginiai
 
-<a id="claim-t-82548"></a>
+<a id="claim-t-187902"></a>
 - t-001
-  global_id: t-82548
+  global_id: t-187902
   teiginys: 'Lizdeika padavimuose vaizduojamas kaip nuo katedros varpinės Vilniaus pagonims skelbęs geras ar blogas pranašystes.'
+  teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys perrašytas kaip pilnas sakinys, išlaikant padavimų pobūdį.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lietuva'
   pagrindžia:
-    - c-001
+    - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 235389-235987; hash=a3137991c5eb74e04ae8ea8a3af801c1c741c237b973e6f8dc9bdbee9dc6999c; match=whitespace_regex
+  sprendimo_priezastis: gap::people
 
-<a id="claim-t-184779"></a>
+<a id="claim-t-187903"></a>
 - t-002
-  global_id: t-184779
+  global_id: t-187903
   teiginys: 'Lizdeika tuo metu buvo vyriausiasis žynys, tėvų kalba vadintas Krive Krivaičiu.'
   teiginio_tipas: 'faktas'
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko faktą, bet reikia pašalinti nereikalingą autoriaus įvadą.'
   pagrindžia:
-    - c-002
+    - c-001
   irodymo_stiprumas: 0.00
-  saltinio_vieta: 235389-235987; hash=a3137991c5eb74e04ae8ea8a3af801c1c741c237b973e6f8dc9bdbee9dc6999c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lizdeika: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lizdeika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  saltinio_vieta: 353700-354133; hash=26a8ee329d5c4541442fb79619d2814591dc16f9e9688cafc0efcc82c31341fc; match=exact
+  sprendimo_priezastis: gap::people
 - susijęs iš [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims.md#claim-t-183829|Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]: Padavimuose dabartinė katedros varpinė tapatinta su bokštu, iš kurio Lizdeika ir jo pirmtakai Vilniaus pagonims skelbdavo pranašystes.
 - susijęs iš M. Strijkovskio kronika: Vilniaus įkūrimo pasakojime Lizdeika geležinio vilko sapną aiškina kaip būsimos pilies ir Lietuvos sostinės ženklą.
 - susijęs iš Vilnius: Vilniaus sostinės įkūrimo legenda siejama su Gedimino medžiokle ir Lizdeikos išaiškintu sapnu.
@@ -77,7 +65,24 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lizdeika padavimuose vaizduojamas kaip nuo katedros varpinės Vilniaus pagonims skelbęs geras ar blogas pranašystes.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuojau prašyta žynių, kurie netoliese gyveno, at­
+    skleisti paslaptį. Tuo metu Lizdeika buvo vyriausiasis
+    žynys, arba, tėvų kalba, Krivė Krivaitis. Jis, kitados
+    dar kūdikis girioje erelio lizde arba, pasak kitų, lop­
+    šyje, ant medžio pakabintame, paties Vytenio medžio­
+    jant surastas, jo paliepimu dievų tarnybai išauklėtas ir
+    iš mažens šventąsias tėvų paslaptis pažinęs, tuo metu
+    buvo laikomas geriausiu slėpiningų ženklų aiškintoju.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2
@@ -102,33 +107,7 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Lizdeika tuo metu buvo vyriausiasis žynys, tėvų kalba vadintas Krive Krivaičiu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuojau prašyta žynių, kurie netoliese gyveno, at­
-    skleisti paslaptį. Tuo metu Lizdeika buvo vyriausiasis
-    žynys, arba, tėvų kalba, Krivė Krivaitis. Jis, kitados
-    dar kūdikis girioje erelio lizde arba, pasak kitų, lop­
-    šyje, ant medžio pakabintame, paties Vytenio medžio­
-    jant surastas, jo paliepimu dievų tarnybai išauklėtas ir
-    iš mažens šventąsias tėvų paslaptis pažinęs, tuo metu
-    buvo laikomas geriausiu slėpiningų ženklų aiškintoju.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 235389-235987; hash=a3137991c5eb74e04ae8ea8a3af801c1c741c237b973e6f8dc9bdbee9dc6999c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lizdeika: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lizdeika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

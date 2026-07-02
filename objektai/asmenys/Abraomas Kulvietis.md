@@ -8,6 +8,10 @@ datos:
   - '1542 m.'
 date_start: '1539'
 date_end: '1542'
+aliases:
+  - 'objektai/autoriai/Abraomas Kulvietis'
+variantai:
+  - 'Abraomas Kulvietis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -116,9 +120,10 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Karaliaus sprendimu Abraomas Kulvietis turėjo stoti prieš dvasinį teismą, prisipažinti nusikaltęs ir paklusti kanoninei bausmei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -144,6 +149,8 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 

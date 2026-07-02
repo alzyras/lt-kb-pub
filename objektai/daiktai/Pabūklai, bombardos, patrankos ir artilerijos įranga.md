@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-86996
   teiginys: 'Długoszo tekste minima pieva, kurioje buvo sustatytos prūsų bombardos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Długoszo teksto formuluotę ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -139,9 +139,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: '1383 m. puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -157,19 +158,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 271249-272049; hash=68acbb642efa303f7c8c3debc10437ebd1a867fee7226ebcb16d969d7ce58183; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pabūklai, bombardos, patrankos ir artilerijos įranga: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Anglai: mention_match, group, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabūklai, bombardos, patrankos ir artilerijos įranga" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
-
 - c-003
   santrauka: 'Długoszo tekste minima pieva, kurioje buvo sustatytos prūsų bombardos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -186,19 +178,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 280021-280358; hash=db54ed7135b8a3daf8a88f291b76a0258ff90ef1bbd47931ed6cb777494a0931; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bombardos: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pabūklai, bombardos, patrankos ir artilerijos įranga: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bombardos: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabūklai, bombardos, patrankos ir artilerijos įranga" parinktas kaip owner_note_path. Targetas "Bombardos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-
 - c-004
   santrauka: 'Patrankų padariniai kartu su anglų lankininkų veiksmais lėmė didelius Lietuvos patirtus smūgius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -225,25 +208,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 110046-110454; hash=e939faad65c89054ad6c0d343274d0d0c7ce457d3063d9a41933a5229c21ecf4; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Trakai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad kryžiuočių kariauna apsupo Trakų pilį.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 269277-269638; hash=22af16b7ad8e19aef13470074223f3f3ccaff5693c18491ace164f764e70748e; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Vilnius: 0.63
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatos pradžia sako, kad sąjungininkai puolė miestą, o toliau prie jų veiksmų priskiriamas Vytautas su žemaičiais; miestas pagal claim kontekstą yra Vilnius.

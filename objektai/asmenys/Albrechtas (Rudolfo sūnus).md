@@ -76,30 +76,13 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
             64.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 716578-716900; hash=fad42dc315a276de1303990fb63c4eac0a984d890cd3d5a1b847ac76f480b06b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Austrija: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Albrechtas (Rudolfo sūnus): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Austrija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Austrijos kunigaikštystė buvo atiduota Albrechtui, todėl pagrįstas jo valdymo ryšys su Austrija.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 716578-716900; hash=fad42dc315a276de1303990fb63c4eac0a984d890cd3d5a1b847ac76f480b06b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas (Rudolfo sūnus): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas (Rudolfo sūnus)" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Albrechtas (Rudolfo sūnus) valde [[objektai/vietos/Austrija]]

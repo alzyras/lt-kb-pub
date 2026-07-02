@@ -49,8 +49,7 @@ Dąbrowski : Rozbiór krytyczny Anna ­ lium Poloniae Jana Długosza z lat 1385-
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ae3eec4fa348f2b9b88dccb6e89590ffda7a0e162ad71734957ee86360116deb; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

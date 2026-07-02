@@ -54,11 +54,10 @@ Teodosijos, vadinamos Kafa, gyventojai prie Juodosios jūros ieškojo krikščio
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 901892-902359; hash=be30ba39c014eb73b9c0954a27535963110eb968d7e63dcc12e42f73028acdd3; match=exact
-  sprendimo_priezastis: auto
 
 ## Ryšiai
 - [[objektai/grupes/Kafos gyventojai]] gyveno Teodosija (Kafa)

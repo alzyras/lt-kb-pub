@@ -53,6 +53,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - susijęs iš Lietuvos metraštis (Bychovco kronika): Lietuvių kilmės iš romėnų teorija pateko į Lietuvos metraščius, tarp jų ir Bychovco kroniką.
 - susijęs iš [[objektai/zodynas/Rykys.md#claim-t-70043|rykys]]: Decebalas citatoje vadinamas getų rykiu ir vaizduojamas kaip prieš romėnus kovojęs vadas.
 - susijęs iš [[objektai/asmenys/Vilius.md#claim-t-87933|Vilius]]: Pasak Dlugošo, Vilnius vardą gavo nuo vado Viliaus, kuris lietuvių protėvius atvedęs iš Italijos.
+- susijęs iš [[objektai/autoriai/Aleksandras Gvaninis.md#claim-t-187919|Aleksandras Gvaninis]]: Narbutas mini Gvaninį tarp kronikininkų, kurie Ukapirmą lygino su Perkūnu, nes šis laikytas dangaus ir žemės viešpačiu.
 - susijęs iš [[objektai/autoriai/Cornelius Tacitas.md#claim-t-29311|Cornelius Tacitas]]: Romėnų istorikas Cornelius Tacitas apie 98 m. po Kr. savo „Germanijos“ 45 skyriuje patvirtino šį liudijimą.
 - susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-63355|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Tacitas I amžiaus gale veikale „Germania“ pirmasis paminėjo mūsų krašto gyventojus.
 - susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-63356|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Tacitas veikale „Germania“ aisčiams paskyrė skyrelį ir trumpai aprašė jų gyvenimą, tikybą bei gintarą.
@@ -84,18 +85,10 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fecfdc4300ec751fde3d7b5b0b68b65177cc7c64c1f4448672429211cf80c716; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aisčiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Aisčiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romėnai" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/grupes/Langobardai]] sudare_sutarti_su Romėnai

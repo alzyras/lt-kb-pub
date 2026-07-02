@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 27.
+Objektų skaičius: 31.
 
 ## Kaip naudoti
 
@@ -31,25 +31,29 @@ Objektų skaičius: 27.
 - [[objektai/paprociai/Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai]]
 - [[objektai/paprociai/Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio]]
 - [[objektai/paprociai/Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą]]
+- [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]
+- [[objektai/paprociai/Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius]]
 - [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]
 - [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]
 - [[objektai/paprociai/Sąjūdžio masiniai mitingai ir reikalavimų viešinimas]]
+- [[objektai/paprociai/Tautinės kultūros palaikymas per kalbos, papročių, istorijos ir mitologijos tyrimą]]
 - [[objektai/paprociai/Valstybinio turto privatizavimas investiciniais čekiais]]
 - [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]
 - [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]
 - [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]
+- [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]
 - [[objektai/paprociai/Šubravcų satyrinė spaudos kritika]]
 - [[objektai/paprociai/Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde]]
 - [[objektai/paprociai/Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai]]
 - [[objektai/paprociai/Žydų apsauga nuo smurto ir kraujo kaltinimų]]
-- [[objektai/paprociai/Žydų gelbėjimas ir slėpimas rizikuojant gyvybe]]
-- [[objektai/paprociai/Žydų kelionių, laidotuvių lydėjimo, kapinių ir mokyklos apsauga]]
+- [Žydų gelbėjimas ir slėpimas rizikuojant gyvybe](../objektai/paprociai/%C5%BDyd%C5%B3%20gelb%C4%97jimas%20ir%20sl%C4%97pimas%20rizikuojant%20gyvybe)
+- [Žydų kelionių, laidotuvių lydėjimo, kapinių ir mokyklos apsauga](../objektai/paprociai/%C5%BDyd%C5%B3%20kelioni%C5%B3%2C%20laidotuvi%C5%B3%20lyd%C4%97jimo%2C%20kapini%C5%B3%20ir%20mokyklos%20apsauga)
 
 ### Posakiai
-- [[objektai/posakiai/svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki apsvaigimo]]
+- [svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki apsvaigimo](../objektai/posakiai/sve%C4%8Di%C4%85%20b%C5%ABsi%C4%85%20nepakankamai%20pamyl%C4%97j%C4%99%2C%20jeigu%20jis%20negersi%C4%85s%20iki%20apsvaigimo)
 
 ### Įvykiai
-- [[objektai/ivykiai/Liubomirskio seimo išardymas (1639 m.)]]
+- [Liubomirskio seimo išardymas (1639 m.)](../objektai/ivykiai/Liubomirskio%20seimo%20i%C5%A1ardymas%20%281639%20m.%29)
 
 ### Žodynas
 - [bažnytinės cenzūros](../objektai/zodynas/ba%C5%BEnytin%C4%97s%20cenz%C5%ABros)

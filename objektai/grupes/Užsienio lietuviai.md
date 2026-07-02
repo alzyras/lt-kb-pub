@@ -80,9 +80,10 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -96,28 +97,10 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 353497-353933; hash=3ea4e0f5aa911027b40c6b80f63caa336a8ca3e8f048c1c4a25ae42d6cf00042; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Urugvajus: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Urugvajus: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių vykimą į Pietų Amerikos šalis, tarp jų Urugvajų.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 354287-354711; hash=28aafefdbc9f27abc0e576bdddf1184dcfe81e111a8f853290f2fe6119fe60ff; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Pasaulio lietuvių kongresas Kaune (1935 m.): 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Užsienio lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Pasaulio lietuvių kongresas Kaune (1935 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Citata sako, kad į kongresą atvyko delegatai ir svečiai iš 19 valstybių; tai siejasi su užsienio lietuvių atvykimu į renginį.
 
 ## Ryšiai
 - Užsienio lietuviai keliavo_i [[objektai/ivykiai/Pasaulio lietuvių kongresas Kaune (1935 m.)]]

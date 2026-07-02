@@ -59,16 +59,9 @@ Rusų sąmokslininkai nužudė sargybos viršininką Konradą Frankenbergą ir p
     Jogailai, vargais negalais susitaikė su Vytautu.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 692004-692537; hash=7edf1a0f672a5fc9be2414c28486525f2ce1c0a40df47079c7a5dcc90e5f1c55; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kremenecas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konradas Frankenbergas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kremenecas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas Frankenbergas" parinktas kaip owner_note_path. Targetas "Kremenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

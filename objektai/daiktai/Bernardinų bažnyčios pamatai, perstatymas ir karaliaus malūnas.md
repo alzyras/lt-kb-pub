@@ -113,9 +113,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Bernardinų bažnyčia dėl menkų pamatų grėsė griūtimi, todėl buvo iš naujo pamūryta prisidėjus Vilniaus vaivadai Mikalojui Radvilai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -131,25 +132,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3d9d1515875fd840f416490bca928dfa0e35f231810ee9a30913043682940325; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Aleksandras Jogailaitis: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Malūnas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Žodis „savo malūną“ tiesiogiai rodo, kad malūnas priklausė karaliui Aleksandrui.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 479312-479727; hash=0d0ae4c3cfc8ad480c9e3fea303d281819a70ce98279519e5c1c7e1d0fd90d4f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bernardinų bažnyčia Vilniuje: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bernardinų bažnyčia Vilniuje: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas" parinktas kaip owner_note_path. Targetas "Bernardinų bažnyčia Vilniuje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

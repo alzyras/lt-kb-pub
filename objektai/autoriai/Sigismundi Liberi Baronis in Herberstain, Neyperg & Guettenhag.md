@@ -47,8 +47,7 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1082286-1082565; hash=5509863fd4d1dcb78cea6812f4e80a2f3d6895ae4280947cd8dc03fb791f9a69; match=exact
-  sprendimo_priezastis: auto

@@ -70,30 +70,13 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
     metais ji vėl pasidavė tikėjimui bei broliams.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 424250-425428; hash=957551c9d33dabd6773dc59031914c4215e7597a79562bc5cfec80a33b8d99fa; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Pilaitė: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Giunteris iš Regenšteino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Giunteris kartu su kitais sugriovė pilaitę, todėl tai tiesioginis karinis veiksmas prieš ją.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 424250-425428; hash=957551c9d33dabd6773dc59031914c4215e7597a79562bc5cfec80a33b8d99fa; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Pilaitė: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Giunteris iš Regenšteino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Giunteris kartu su kitais sugriovė pilaitę, todėl tai tiesioginis karinis veiksmas prieš ją.
 
 ## Ryšiai
 - Giunteris iš Regenšteino puole [[objektai/vietos/Pilaitė]]

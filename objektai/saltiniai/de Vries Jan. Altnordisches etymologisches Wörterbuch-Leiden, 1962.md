@@ -48,8 +48,7 @@ Dusburgietis teigia, kad de Vries Jan.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=708ef630561689526b9e8be9c2d738ed1b83b52a53839912268f2651bc25b12c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

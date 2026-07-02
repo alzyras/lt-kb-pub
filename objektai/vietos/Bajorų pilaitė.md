@@ -61,19 +61,12 @@ atnaujinta: ''
     puolė.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 435364-435935; hash=7bf168d587a5ab30cbe28067f28342cdd0bd34b1ebe79d04b3541a9bfed9258a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Bajorų pilaitė: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šindekopfas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Bajorų pilaitė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Įvardyta, kad Šindekopfas užgrobė Bajorų pilaitę.
 
 ## Ryšiai
 - [[objektai/asmenys/Šindekopfas]] uzeme Bajorų pilaitė

@@ -53,8 +53,7 @@ Dusburgietis teigia, kad 376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 394807-395042; hash=81139deb8de358b3aff87a4b88147db35c14db2537de4c7da9baf83d984966a9; match=exact
-  sprendimo_priezastis: auto

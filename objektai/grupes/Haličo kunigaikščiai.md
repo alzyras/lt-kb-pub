@@ -113,40 +113,12 @@ Politinė ir karinė kunigaikščių grupė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 41550-42075; hash=a4cae51b54e70bca21067da8e6886a9709499139bef491dac9b7691942e29c60; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: puole -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Haličo kunigaikščiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Haličo kunigaikščiai puolė Lietuvą.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 41550-42075; hash=a4cae51b54e70bca21067da8e6886a9709499139bef491dac9b7691942e29c60; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: puole -> Lietuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Haličo kunigaikščiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Haličo kunigaikščius kaip puolusius Lietuvą.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 41550-42075; hash=a4cae51b54e70bca21067da8e6886a9709499139bef491dac9b7691942e29c60; match=whitespace_regex
-  sprendimo_priezastis: gap::groups
-  ryšio_patikimumas: puole -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Haličo kunigaikščiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Haličo kunigaikščių puolimą prieš Lietuvą.
 
 ## Ryšiai
 - Haličo kunigaikščiai puole [[objektai/vietos/Lietuva]]

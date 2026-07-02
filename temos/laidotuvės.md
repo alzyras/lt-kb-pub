@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 13.
+Objektų skaičius: 14.
 
 ## Kaip naudoti
 
@@ -29,6 +29,7 @@ Objektų skaičius: 13.
 - [[objektai/grupes/Baltų žyniai]]
 
 ### Papročiai
+- [[objektai/paprociai/Auka už mirusiuosius ir mirusiųjų minėjimo atnašos]]
 - [[objektai/paprociai/Maro aukų laidojimas Šv. Roko vienuolių eremitų rankomis]]
 - [[objektai/paprociai/Procesijos ir iškilmingos laidotuvės]]
 - [[objektai/paprociai/Prūsų degintinės laidotuvės su įkapėmis ir palydimaisiais]]

@@ -74,18 +74,10 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5a10e585036c25be7f10395b22e935281ef8dc92e379e880eda0b776974cb5d5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Tryškiai: 0.74
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Davidas Suchetas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tryškiai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Davidas Suchetas aiškiai vaizduojamas vaikštantis Tryškiuose.
 
 ## Ryšiai
 - [[objektai/asmenys/Davidas Suchetas]] keliavo_i Tryškiai

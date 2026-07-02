@@ -51,18 +51,10 @@ Nors ir smarkiai kryžiuočiai buvo perse­ kiojami, vis dėlto jie nuėjo ligi 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1989c9be74616fd9eb4550e34c17dc7bfb0d5a6e53af754480bf874e3e190dfe; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Papartėnai: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Papartėnai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo kryžiuočių judėjimą iki Papartėnų.
 
 ## Ryšiai
 - [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Papartėnai

@@ -82,15 +82,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 732777-733185; hash=ae2b22dda4cb3ba624996a62463e477c9a668bdad7ca2d01e33dd835f6ea18f2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Marija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Perudžos stebuklas su nubausto plėšiko galva (1302 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Marija: mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Perudžos stebuklas su nubausto plėšiko galva (1302 m.)" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

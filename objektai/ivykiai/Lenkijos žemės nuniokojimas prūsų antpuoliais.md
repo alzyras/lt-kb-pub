@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-66655
   teiginys: 'Prūsai kelis kartus didelėmis jėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išsivarė moteris bei vaikus.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi perteklinių fragmentų.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Plockas; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Plockas; mentioned_place: Viena; mentioned_place: Vysla'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -67,7 +67,7 @@ Nenurodyta
   global_id: t-66657
   teiginys: 'Rašydamas apie 250 sudegintų parapinių bažnyčių Konrado valdose, Dusburgietis veikiausiai perdėjo prūsų padarytų nuostolių mastą.'
   sudarymo_pagrindimas: 'Teiginys pagrįstai perteikia citatoje pateiktą vertinimą apie Dusburgiečio perdėjimą.'
-  susije_objektai: 'mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-001
 
@@ -82,6 +82,9 @@ Nenurodyta
     prūsų padarytų nuostolių mastą (PKD, p. 29; Powierski J. Przekaz..., p. 420).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
@@ -104,27 +107,10 @@ Nenurodyta
     ir griežtos klauzūros moterų vienuolynų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 132272-133229; hash=93b31313b07b16fdd94e5ae6caad83945622de3a5ec553259e3a2b09b186d737; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos žemės nuniokojimas prūsų antpuoliais: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos žemės nuniokojimas prūsų antpuoliais" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 135170-135421; hash=e9cce1b3fcd9f9b891194882c3f8e2a53ae487f3daea10e3b5faa6329fd40f32; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos žemės nuniokojimas prūsų antpuoliais: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos žemės nuniokojimas prūsų antpuoliais" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

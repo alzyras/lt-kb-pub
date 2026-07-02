@@ -107,6 +107,9 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
     vadovaujami, jie veikiau triukšmavo, nei rimtai kovojo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -129,18 +132,11 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
     žmonėmis pasitraukė į saugesnę vietą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 827823-828221; hash=4cfba91c38483ba28a88bebc42a1646e0f192784b5befe389d82a24c88a8d58c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Smolenskas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Andrius Sakavičius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Sakavičius paliktas Smolenske vietininku, todėl ryšys su miesto valdymu yra tiesiogiai paremtas.
     - t-002
 
 - c-003
@@ -164,29 +160,12 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
     tystę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 827971-828428; hash=1179cc6871ec3edbf210f1a11a12362ff2ef73554ab1c673aa40a2e2065305fd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Smolenskiečiai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Andrius Sakavičius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Smolenskiečiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Smolenskiečiai aprašyti kaip puolėjai, o Sakavičius atrėmė jų antpuolį.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 830129-830713; hash=b0b393a6b7d34a011da49f3855e530a4526d7cd6a7d584909b9b40d378c94abf; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Smolenskas: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Andrius Sakavičius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Po Smolensko pilies užėmimo Sakavičius paliktas ten vietininku.
 
 ## Ryšiai
 - Andrius Sakavičius valde_miesta [[objektai/vietos/Smolenskas]]

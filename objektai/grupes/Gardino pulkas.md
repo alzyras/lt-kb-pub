@@ -56,18 +56,10 @@ Kaime buvo įsikūręs lenkų brigados ir Gardino pulko štabas, lauko artilerij
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6d1ebd8691543be7e04e7a9d84285d50772f23ffa0eda66e02c141a59b40521a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Kaimas: 0.67
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gardino pulkas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kaimas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Gardino pulko štabas ir vienas batalionas buvo įsikūrę kaime; ryšys taikomas pulkui kaip kariniam vienetui.
 
 ## Ryšiai
 - Gardino pulkas gyveno [[objektai/vietos/Kaimas]]

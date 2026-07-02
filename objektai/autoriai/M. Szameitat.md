@@ -51,8 +51,7 @@ Szameitat : Bibliographie des Memellandes (Ostdeutsche Beiträge aus dem Göttin
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=285496015b456cc97308e4b870a9ddbe9332590e53e9f31b9e3b14fa9bddad66; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

@@ -93,16 +93,9 @@ Nenurodyta
     stybės viduje ir už jos ribų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 815830-816636; hash=78cbeac8a0fdb66e5080f56112d20ce5bfd0bf09f934bb1bd472d705d16c4877; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltarusija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sunkus badas visoje Lietuvoje ir Baltarusijoje (1440 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Baltarusija: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sunkus badas visoje Lietuvoje ir Baltarusijoje (1440 m.)" parinktas kaip owner_note_path. Targetas "Baltarusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

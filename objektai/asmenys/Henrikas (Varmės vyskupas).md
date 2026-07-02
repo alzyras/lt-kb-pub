@@ -63,30 +63,13 @@ Dusburgietis teigia, kad valdovas Henrikas, Varmės vyskupas, vėliau, 1279 vie�
     metus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 434355-434731; hash=2c4bc083d6a697f0cd374b8a45750331b9d11072eaf6475c75d1a2c7e7089933; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Brunsbergas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas (Varmės vyskupas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Brunsbergas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata aiškiai priskiria Brunsbergo miesto ir pilies įkūrimą Varmės vyskupui Henrikui.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 434355-434731; hash=2c4bc083d6a697f0cd374b8a45750331b9d11072eaf6475c75d1a2c7e7089933; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Brunsbergas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas (Varmės vyskupas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Brunsbergas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Henrikas įkūrė Brunsbergo miestą ir pilį.
 
 ## Ryšiai
 - Henrikas (Varmės vyskupas) pastate [[objektai/vietos/Brunsbergas]]

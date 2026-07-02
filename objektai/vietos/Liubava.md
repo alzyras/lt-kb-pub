@@ -72,18 +72,10 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 308509-309006; hash=edf38f24c1a03d5f9c1305aa2381f8ad4b3289b52a0a181f2587457e9192af50; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Liubava: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Liubava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lietuvių būrys tiesiogiai nurodomas apiplėšęs Liubavą, todėl ryšys žymi puolamąjį veiksmą.
 
 ## Ryšiai
 - [[objektai/asmenys/Skomantas]] puole Liubava

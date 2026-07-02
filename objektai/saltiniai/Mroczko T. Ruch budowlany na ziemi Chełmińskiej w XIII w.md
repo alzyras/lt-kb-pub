@@ -47,8 +47,7 @@ Dusburgietis teigia, kad mroczko T.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 787310-787450; hash=e3a37ffeffcf20ac129e3b0bdd4c003d6c9b5f482edf4cf5dd17ddeb96766948; match=exact
-  sprendimo_priezastis: auto

@@ -121,9 +121,10 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Stanislovas Sabina buvo medicinos daktaras ir 1584 m. ėjo Vilniaus vaito pareigas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -138,28 +139,10 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=91ff557d5a7ba3f79d2b98c2ebb711c98a7eb72cd6bf4631bee3c92163a34ff2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Vilnius: 0.60
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Stanislovas Sabina: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vilniaus vaito pareigos susijusios su miesto valdymu, bet formuluotė yra pareiginė, todėl pasitikėjimas vidutinis.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4bc90076e3bf6de88ae51d2e9570cf26aee9ab275a129a2badd4f97948b4f28a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Stanislovas Sabina: 0.67
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vilniaus pirkliai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Stanislovas Sabina: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Apskundimas dėl privilegijų pažeidimo rodo aiškų konfliktą tarp Vilniaus pirklių ir Sabinos.
 
 ## Ryšiai
 - [[objektai/grupes/Vilniaus pirkliai]] buvo_priesas Stanislovas Sabina

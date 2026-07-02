@@ -54,8 +54,7 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 399361-399907; hash=b885d3b8e3e9f026ef672249e1e2d2fe934a2aec801c0f7d2b0b95086a03c2be; match=whitespace_regex
-  sprendimo_priezastis: auto

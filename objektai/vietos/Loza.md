@@ -61,18 +61,10 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=30874b4137e979e65922e9aa28b1555c1d82a7728d172c505def7c122d6b7439; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Loza: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kaimas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Loza: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo Lozos kaimą, tad kaimas tiesiogiai siejamas su Loza.
 
 ## Ryšiai
 - [[objektai/vietos/Kaimas]] priklause Loza

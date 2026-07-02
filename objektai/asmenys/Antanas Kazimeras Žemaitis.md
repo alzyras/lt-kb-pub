@@ -52,18 +52,10 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3203449c340cee00010cedacd446662ee791bbb59966a029ed7a697aa47f1471; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gime -> Londonas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Antanas Kazimeras Žemaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Londonas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Antanas Kazimeras Žemaitis gimė Londone.
 
 ## Ryšiai
 - Antanas Kazimeras Žemaitis gime [[objektai/vietos/Londonas]]

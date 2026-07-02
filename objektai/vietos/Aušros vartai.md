@@ -62,18 +62,10 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 511972-512304; hash=05437d5deefa9e08a370934010f2123fc2eeac1790c793ddd4a6ea5a652ab624; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Aušros vartai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas Landsbergis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Aušros vartai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Landsbergio lankymasis prie Aušros vartų atitinka kryptinį apsilankymo ryšį.
 
 ## Ryšiai
 - [[objektai/asmenys/Vytautas Landsbergis]] keliavo_i Aušros vartai

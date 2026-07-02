@@ -60,18 +60,10 @@ Staliorių, Rugienių X AŠMINTOS SUSISPROGDINIMAS 1947 m. liepos 17 d. Prienų 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 980975-981197; hash=dc7be879abda78caadd3446cb54d4fd71daee0e850b88e2833dbe432a1d6bea1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Prienai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ašminta: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Prienai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Ašmintos kaimas nurodytas Prienų apskrityje.
 
 ## Ryšiai
 - Ašminta priklause [[objektai/vietos/Prienai]]

@@ -93,9 +93,10 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -107,28 +108,10 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=291f2f316912208f25b658a044f8acfbee878919c383ef87c07f581beccd3a61; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Lukomlis: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Andrius Polockietis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lukomlis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Andrius Polockietis užėmė Lukomlį.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5647f72a0be0e13c2928385563db3af32c3fe0889f9d98dc04b77e3c7c283e6c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kijevas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Švitrigailos išvykimą į Kijevą.
 
 ## Ryšiai
 - [[objektai/asmenys/Andrius Polockietis]] uzeme Lukomlis

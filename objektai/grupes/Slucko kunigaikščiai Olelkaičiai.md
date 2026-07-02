@@ -83,6 +83,9 @@ Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o
     nus, Valdė Slucką ir Kopylių, mirė 1505.IX.14.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -101,29 +104,12 @@ Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o
     tautaitės dukterį Oleną Aleksandrą.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 643471-643668; hash=98a8122e62204cba24c94d0a39651ff3a7292be30729a350a3aca4e7dbbe2e88; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Sluckas: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Slucko kunigaikščiai Olelkaičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Sluckas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claim apie Slucko kunigaikštį Olelkaitį tiesiogiai nurodo Slucko valdymą; grupės ryšys su vieta pagrįstas per jos atstovą.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 644447-644945; hash=04edee77bccd6123f2172c9087e0457ce5414ba75d93e55b93e07f9504431245; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pinskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Slucko kunigaikščiai Olelkaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Pinskas: mention_match, place, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Slucko kunigaikščiai Olelkaičiai" parinktas kaip owner_note_path. Targetas "Pinskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Slucko kunigaikščiai Olelkaičiai valde_miesta [[objektai/vietos/Sluckas]]

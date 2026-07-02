@@ -69,9 +69,10 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Pervedus 6-ąjį pėstininkų pulką į lenkų frontą, jo kariai ir vadas Vidugiriuose susitiko su nuo vasaros vidurio kovojusiu I batalionu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -87,28 +88,10 @@ tags:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 846729-846868; hash=5e240f491ce1f318d3f51d23fd6c4afa931faaa975ab9cc2d26cceb59e2e25bd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Aukštadvaris: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: 6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Aukštadvaris: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas sieja batalioną su 6-ojo pulko kontekstu ir nurodo pasiektą vietą.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a02376a102101b6abf8e000707a10b5c323267b8700a7f203a1174ccbaae59ee; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vidugiriai: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: 6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vidugiriai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad pulko kariai pasiekė Vidugirių kaimą.
 
 ## Ryšiai
 - 6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas keliavo_i [[objektai/vietos/Vidugiriai]]

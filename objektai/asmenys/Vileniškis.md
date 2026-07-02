@@ -71,6 +71,9 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
     irgi sėkmingai pasitraukė.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -85,29 +88,12 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
     valandas neleido lenkams prisiartinti prie traukinio.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 831105-831327; hash=538cc2b00f2eb7a070f5855ae95740080091bfc0234a58093483ecc1a9f10159; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Lenkai: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vileniškis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Vileniškis su kulkosvaidininkais gynė traukinį nuo lenkų prisiartinimo; tinkamo traukinio objekto nėra, todėl ryšys su lenkais žymi priešpriešą.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 830943-831264; hash=5ccd7cd583ec31555e40c318b1dbf30e510725c046c590d2d52b2e1099cd4ee3; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Lenkai: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vileniškis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata rodo Vileniškį pridengiantį atsitraukimą ir stabdantį lenkus.
 
 ## Ryšiai
 - Vileniškis gyne [[objektai/grupes/Lenkai]]

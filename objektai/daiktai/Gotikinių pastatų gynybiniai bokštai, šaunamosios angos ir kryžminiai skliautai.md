@@ -89,26 +89,8 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d202681b41e87ac640b6bdafe9e60e403705a1ad37dfd8a12a883475877f8f50; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Pilys: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pilys: llm_allowed_candidate, thing
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas pastatė arba perstatydino mūrines pilis.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d202681b41e87ac640b6bdafe9e60e403705a1ad37dfd8a12a883475877f8f50; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bokštai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bokštai: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai" parinktas kaip owner_note_path. Targetas "Bokštai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

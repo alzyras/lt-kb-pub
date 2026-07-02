@@ -40,8 +40,7 @@ Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove n
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 564500-564804; hash=43753bb10eba9a745b20a201ebb4cacbca00e1033aad910ab77bce37e6c5004a; match=exact
-  sprendimo_priezastis: auto

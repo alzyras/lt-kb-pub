@@ -60,15 +60,7 @@ Varčios miške, tarp Alovės ir Daugų mstl.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 986703-987006; hash=28398619e430225b1c4a85f557468e70692a2567e8f76f79e11275ce8c214241; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Dainavos apygarda: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: NKVD: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dainavos apygarda: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata nurodo NKVD pulko puolimą prieš partizanų būrį; Dainavos apygarda yra leistinas susijęs partizanų grupės kandidatas.

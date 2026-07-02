@@ -62,18 +62,10 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 691899-692144; hash=ebdd9870c3283c721d5dc9f5b4e6750ee38bfd88e1b489859e22666368d28f90; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Konstantinopolis: 0.68
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Devletas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Konstantinopolis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata rodo, kad Devletas buvo Konstantinopolyje, nes iš ten rašė Vytautui.
 
 ## Ryšiai
 - Devletas keliavo_i [[objektai/vietos/Konstantinopolis]]

@@ -59,18 +59,10 @@ Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių O
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1329454-1329965; hash=cb7225da43c5a67dafbeaa1f9f03da6a053afde9d4cb93bdf4ba7550775b2c63; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Maskva: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Stanislovas Pacas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pacas vėliau sumušė Maskvos kunigaikščio pulką, todėl palaikomas puolimo prieš Maskvos politinę-karinę pusę ryšys.
 
 ## Ryšiai
 - Stanislovas Pacas puole [[objektai/vietos/Maskva]]

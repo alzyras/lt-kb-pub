@@ -54,18 +54,10 @@ Gardino žemė su artimiausiomis pilimis buvo pradinis laimikis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0c5a7391ebe2b99f1e80b3c6eee904f50d53e5a1a52af5588cdd1558dfed5f3e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Gardino žemė: 0.79
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Gardino žemė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Gardino žemė įvardyta kaip Mindaugo laimikis, todėl tai remia užėmimo santykį.
 
 ## Ryšiai
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde_teritorija Gardino žemė

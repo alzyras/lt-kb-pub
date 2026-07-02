@@ -87,18 +87,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 111788-112545; hash=b28e48a790b5865116dc216e9fa309f23a7c5dc793985f5f8f266ff738f8f1d6; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.): 0.89
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Jogaila tiesiogiai įvardytas kaip pergalės prieš Ragainės komtūrą dalyvis.
 
 ## Ryšiai
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] dalyvavo_musyje Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)

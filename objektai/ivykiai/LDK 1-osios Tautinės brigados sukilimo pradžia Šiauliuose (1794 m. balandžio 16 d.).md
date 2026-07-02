@@ -80,18 +80,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 613397-613628; hash=681a12b78d99664810512441664de7a9b0bd7e66557b15cf2d6b19ed5a9132c7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.): 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: LDK 1-oji Tautinė brigada: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Brigada tiesiogiai įvardyta kaip sukilimo pradžios veikėja.
 
 ## Ryšiai
 - [[objektai/grupes/LDK 1-oji Tautinė brigada]] dalyvavo_musyje LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.)

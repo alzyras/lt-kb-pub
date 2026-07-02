@@ -55,18 +55,10 @@ Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota va
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 760657-761124; hash=8f5903f74cde8877f03873c83ff5a28195318922f984ce304be538fd00e92531; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Styrė: 0.66
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Styrė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lenkų judėjimą per Styrės upę prie Lucko, nors santykis „keliavo_i“ tik apytikriai perteikia persikėlimą.
 
 ## Ryšiai
 - [[objektai/grupes/Lenkai]] keliavo_i Styrė

@@ -61,15 +61,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a59cbaf031442ea1b58a76976eaac1a1193c98ea9ce88cbb063e11d9477e3b9d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Lėktuvai: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Antanas Gustaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lėktuvai: llm_allowed_candidate, thing
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Antanas Gustaitis sukonstravo lėktuvų seriją.

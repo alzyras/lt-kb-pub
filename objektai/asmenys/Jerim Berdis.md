@@ -46,11 +46,10 @@ atnaujinta: ''
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 695707-696030; hash=1e77aef49e9c823e5e2e9a341d195db898a41a09bf531e7e4cd0ca15deb93946; match=exact
-  sprendimo_priezastis: auto
 
 ## Ryšiai
 - [[objektai/asmenys/Kerim Berdis]] puole Jerim Berdis

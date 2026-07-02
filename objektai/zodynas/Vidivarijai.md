@@ -85,9 +85,10 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -119,25 +120,7 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 49496-50239; hash=56b32bdf27430bb9320a96b12025a83bc3e9d055dff88d8a2ac1b4268647a15e; match=whitespace_regex
-  sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: uzeme -> Baltija: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje tiesiogiai sakoma, kad lietuvių tauta užėmė Baltijos pakrantę.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 50572-51445; hash=dc860b9b062ebdb222d6e9f803d50cd20effcc812cb78e1d785693a6ecb40a8e; match=whitespace_regex
-  sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: gyveno -> Vysla: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vidivarii: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vysla: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata Vidivarii sieja su tauta, įsikūrusia prie Vyslos žiočių.

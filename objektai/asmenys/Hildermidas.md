@@ -42,9 +42,9 @@ Grafas Hildermidas buvo škotas, kurio tėvas paaukojo gyvybę gelbėdamas karal
     sakęs Romos imperijos sosto, į kurį buvo kviečiamas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 581571-581860; hash=8061609617f872a8fa6f0a7d751326924f1583dcdf454b091479d60c78b7ed26; match=exact
-  sprendimo_priezastis: auto

@@ -7,6 +7,10 @@ datos:
   - '1336 m.'
 date_start: '1336'
 date_end: ''
+aliases:
+  - 'objektai/posakiai/bemeilijo žūti ugny, negu pasiduoti vokiečiams'
+variantai:
+  - 'bemeilijo žūti ugny, negu pasiduoti vokiečiams'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -67,15 +71,7 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0a961e65c07e57585ebc3fa47efdf26901fd3d744f94c992128cfc8022f92ef0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Pilėnai: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Pilėnai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai kalba apie Pilėnų pilies gynimą ir nurodo, kad lietuviai didvyriškai gynėsi, todėl ryšys lietuviai gynė Pilėnus yra pagrįstas.

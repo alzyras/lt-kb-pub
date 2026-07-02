@@ -71,18 +71,10 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=110935728f721e253abac819084989a04e5014e5d62f10794d74357b8e89d671; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Urdomas: 0.85
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Radvilos: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Urdomas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Radvilos pajėgos tiesiogiai nurodomos kaip sudeginusios Urdomo miestą.
 
 ## Ryšiai
 - [[objektai/grupes/Radvilos]] puole Urdomas

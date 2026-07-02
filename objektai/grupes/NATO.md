@@ -139,9 +139,10 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Ir dar labai svarbu žinoti – 2004 m. Lietuva tapo ES ir NATO nare.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -154,39 +155,11 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=651ab5311a83519ccc459e1a1bdbfe710164561ecd5705f04c8382bd0131d5fb; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> NATO: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: NATO: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata nurodo Lietuvos tapimą NATO valstybių šeimos nare; tai leidžia fiksuoti priklausymą NATO.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 29292-29526; hash=c09de3311b0fb0a29821f5b5c843d21ab0a1dee44f2f95221c3c3ef17d9bd31f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> NATO: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: NATO: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Lietuva tapo NATO nare.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 29292-29526; hash=c09de3311b0fb0a29821f5b5c843d21ab0a1dee44f2f95221c3c3ef17d9bd31f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> NATO: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: NATO: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Lietuva tapo NATO nare.
 
 ## Ryšiai
 - [[objektai/vietos/Lietuva]] priklause NATO

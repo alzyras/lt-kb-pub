@@ -29,7 +29,7 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   global_id: t-32209
   teiginys: '1259 m. Karšuvos srityje prie Mituvos ir Imsrės žiočių Livonijos ir Prūsų kryžiuočiai statė bendrą Georgenburgo pilį.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir išvalytas nuo perteklinės formuluotės.'
-  susije_objektai: 'llm_object: Georgenburgas; mentioned_place: Georgenburgas; mentioned_place: Imsrė; mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Mituva; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Nemunas; mentioned_place: Viena; llm_object: Karšuvos sritis'
+  susije_objektai: 'llm_object: Georgenburgas; mentioned_place: Georgenburgas; mentioned_place: Imsrė; mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Mituva; mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Nemunas; mentioned_place: Viena; llm_object: Karšuvos sritis'
   semantiniai_rysiai: 'Georgenburgas priklausė Karšuvos sritis'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
@@ -63,18 +63,10 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=18040c02f4fc89266f23ea4665e4f633878b59e220329856bf2ad0289761b7fd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Georgenburgas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Livonijos ir Prūsų kryžiuočiai statė Georgenburgo pilį.
 
 ## Ryšiai
 - [[objektai/vietos/Georgenburgas]] priklause Karšuvos sritis

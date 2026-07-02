@@ -81,18 +81,10 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 143239-144586; hash=392e7c09ceb607309f9501ad0e3f9c838a281592a925aed0557e6befe94e6f24; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Strėva: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas Lonei: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Strėva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Jonas Lonei žuvo Strėvos mūšyje.
 
 ## Ryšiai
 - Jonas Lonei mire [[objektai/vietos/Strėva]]

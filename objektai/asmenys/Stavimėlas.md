@@ -58,18 +58,10 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6ba45d03c3b0e39ae0e473f12aad8f5a48d27a959b0a1cf2468e5bb38f3db587; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Pelužis: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Stavimėlas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pelužis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Stavimėlas priskirtas prie Pelužio bendrų ir kartu su juo išvyko keršyti ginklu.
 
 ## Ryšiai
 - Stavimėlas buvo_sajungininkas_su [[objektai/asmenys/Pelužis]]

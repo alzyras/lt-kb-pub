@@ -49,15 +49,7 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8b21d87cd25bdf170740dcaea72730fa170e0d7ded28c21d2299a4b4e825ad6d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Slanimas: 0.50
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Oginskiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Slanimas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Oginskių dvaras tiesiogiai lokalizuotas Slanime, nors tai nėra tiesioginis gyvenimo teiginys.

@@ -99,9 +99,6 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 248067-248354; hash=7ad09e9828e5303c9ad4a8bc09c803566c681af92f841485fa05113b34da8d12; match=exact
-  sprendimo_priezastis: auto
     - t-002
 - c-003
   santrauka: 'Salyno sutartis buvo sudaryta Vytauto autoritetu, o Jogaila joje nebuvo minimas.'
@@ -122,9 +119,6 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3afd425f32ac131c398de5b13bb57d68d36ba0961b26e7e88af69805c8478f63; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-003
 - c-004
   santrauka: 'Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, todėl Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami.'
@@ -141,10 +135,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=96b86812cb211b6d1aaef827b056bcd20d01ebc1f05e817aaca52d4273ac6a70; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=21a46de3ec56c711275e4024f5cf5f5df12908fef4db0c5fd63503f74bb9fbdd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

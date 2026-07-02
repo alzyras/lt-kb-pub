@@ -55,10 +55,4 @@ Kelionės į aisčių kraštą metu Vysla išplaukęs misionierius pasiekė Prie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b61213398ca7d4e635da07dfd9ae05dc1d3c06656bfa75e7d62d221fe415e0c1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b61213398ca7d4e635da07dfd9ae05dc1d3c06656bfa75e7d62d221fe415e0c1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

@@ -47,8 +47,7 @@ Dusburgietis teigia, kad ochmański J.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 788345-788446; hash=a50920910f3a47f4c3e6ce6edfc6b3486f59d41b53e51d01aa7d042661f385ee; match=exact
-  sprendimo_priezastis: auto

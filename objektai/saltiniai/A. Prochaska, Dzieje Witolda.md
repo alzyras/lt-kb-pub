@@ -56,8 +56,7 @@ Prochaska: Dzieje Witolda, 1914, 306-308 p. (^26) Žr.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0651aaf1d6527f277085c5fbf8c31848d29dd344a88f5804a31d8eda4aab8a31; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

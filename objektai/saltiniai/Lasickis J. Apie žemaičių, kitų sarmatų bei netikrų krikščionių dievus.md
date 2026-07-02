@@ -46,8 +46,7 @@ Dusburgietis teigia, kad lasickis J.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 782000-782081; hash=5707c1a564679662503277a0a8be772b21a157fee1b96fd09e6e221bbdb25e09; match=exact
-  sprendimo_priezastis: auto

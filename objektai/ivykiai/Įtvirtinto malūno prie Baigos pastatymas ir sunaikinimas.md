@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-91921
   teiginys: 'Prie Baigos broliai pastatė prie upės į pilį panašiai sutvirtintą malūną, kurį prūsai netrukus užėmė, gynėjus išžudė ir sudegino.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra OCR fragmentas; citata pagrindžia aiškų sakinį apie malūno pastatymą ir sunaikinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_place: Aistmarios; mentioned_place: Varmė; llm_object: [[objektai/daiktai/Malūnas|Malūnas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Baiga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_place: Aistmarios; mentioned_place: Varmė; llm_object: [[objektai/daiktai/Malūnas|Malūnas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -86,15 +86,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 263547-265223; hash=238b0f500b92dcb6f5e461a3a1806fc82f4f4bc8f0915517049f6583571acf14; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Malūnas: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Malūnas: llm_allowed_candidate, thing
-  ryšio_paaiskinimas: Baigos broliai kryžiuočių kontekste pastatė įtvirtintą malūną.

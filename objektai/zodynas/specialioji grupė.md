@@ -42,8 +42,7 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f19f55c4b65abecb8961fa9ba60eda5eafcd8a193932ec2b8945c6051c2607d7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

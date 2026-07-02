@@ -40,8 +40,7 @@ Dusburgietis teigia, kad abejojama, kad buvusios 4 gentinės jotvingių teritori
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 199144-199371; hash=f2753b951afdf2ef0656e9ef9bb24328198020edcbbdc42a57345c36c2993086; match=exact
-  sprendimo_priezastis: auto

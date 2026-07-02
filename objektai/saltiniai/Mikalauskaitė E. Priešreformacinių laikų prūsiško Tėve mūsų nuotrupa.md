@@ -48,8 +48,7 @@ Dusburgietis teigia, kad mikalauskaitė E.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 786533-786656; hash=ae6d8a2e84bf04e80d368735ab6c8b536759a4e737cd600c584d957514aae145; match=whitespace_regex
-  sprendimo_priezastis: auto

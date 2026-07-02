@@ -77,6 +77,9 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
     zanų puolimo galimybę, kaip neįmanomą.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -95,18 +98,11 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
     sužeisti.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c92f33acc1c603c3876be45056eb66b3a767e343a9865914a5fb27a3af7889b7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Perloja: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Marcinkonių batalionas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Perloja: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Marcinkonių bataliono vyrai tiesiogiai įvardyti kaip puolę Perlojos stribų įgulą.
     - t-002
 
 - c-003
@@ -123,29 +119,12 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
     tas valsčius, dalinai milicija ir paštas.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 954043-954599; hash=f3634b9da420f4076cb45129126878b3dc74dfe17ab498da929241ad5dbfcd24; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Perloja: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Marcinkonių batalionas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Perloja: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Nurodyta, kad Marcinkonių bataliono vyrai Perlojoje nukovė stribus.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 953996-954321; hash=891a38e6868ab843c808845360ecc0e3ed45c497aa7d1a8ad30b44f8f55ab121; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Perloja: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Marcinkonių batalionas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Perloja: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Nurodyta, kad Marcinkonių bataliono vyrai Perlojoje nukovė stribus.
 
 ## Ryšiai
 - Marcinkonių batalionas puole [[objektai/vietos/Perloja]]

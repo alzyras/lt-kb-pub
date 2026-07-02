@@ -82,18 +82,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=90d7a867b4409317a87b75f8f5c5630da783f4d19895562d331d23e6b95e6bf7; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: dalyvavo_musyje -> Varnos mūšis (mūšis, XV a.): 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Varnos mūšis (mūšis, XV a.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Vladislovo žūtis mūšyje tiesiogiai rodo jo dalyvavimą Varnos mūšyje.
 
 ## Ryšiai
 - [[objektai/asmenys/Vladislovas]] dalyvavo_musyje Varnos mūšis (mūšis, XV a.)

@@ -76,15 +76,7 @@ Dembinskio daliniai, kurie turėjo imituoti puolimą per Neries Žaliąjį tilt�
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=30b6efb49341776e1a2d5240b9cf8a88468a1cdcb3cbce4740c419ee41a47f58; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakų sukilėlių daliniai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: H. Dembinskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakų sukilėlių daliniai: mention_match, group, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "H. Dembinskis" parinktas kaip owner_note_path. Targetas "Trakų sukilėlių daliniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

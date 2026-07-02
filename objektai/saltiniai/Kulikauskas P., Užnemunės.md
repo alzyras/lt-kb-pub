@@ -40,8 +40,7 @@ Dusburgietis teigia, kad kapinynų, kai kurių piliakalnių tyrimas rodo, kad U�
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 541084-541229; hash=a7b40ecd97b975fd41a7a10a5575d7cb405980b20353bab0eacc19600c4ed613; match=exact
-  sprendimo_priezastis: auto

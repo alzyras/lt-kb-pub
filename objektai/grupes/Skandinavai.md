@@ -32,7 +32,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   global_id: t-66129
   teiginys: 'Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie skandinavus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_place: Prūsai; mentioned_place: Švedija; llm_object: [[objektai/grupes/Kuršiai|Kuršiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_place: Švedija; llm_object: [[objektai/grupes/Kuršiai|Kuršiai]]'
   semantiniai_rysiai: '[[objektai/grupes/Skandinavai|Skandinavai]] puolė [[objektai/grupes/Kuršiai|Kuršiai]]'
   pagrindžia:
     - c-001
@@ -70,6 +70,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 

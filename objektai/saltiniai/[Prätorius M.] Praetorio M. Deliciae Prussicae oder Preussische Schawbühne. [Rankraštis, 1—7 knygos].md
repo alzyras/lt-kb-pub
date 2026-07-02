@@ -45,8 +45,7 @@ Dusburgietis teigia, kad [Prätorius M.] Praetorio M.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 793274-793419; hash=8df6e98898dc9da60bf67d7d74a4ca85dfc1384fe3e98187b5e930d781c5756a; match=exact
-  sprendimo_priezastis: auto

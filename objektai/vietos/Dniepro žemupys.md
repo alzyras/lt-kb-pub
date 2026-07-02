@@ -53,18 +53,10 @@ iš Dniepro žemupio išjudėjo slavai, siekdami įsikurti pratuštėjusiuose ge
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cf8656ed3235b82c6e4344c6eed86c1762a6cfe7a804f257eba34e23a3f348b7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Dniepro žemupys: 0.83
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Slavai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dniepro žemupys: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo slavų pajudėjimą iš Dniepro žemupio.
 
 ## Ryšiai
 - [[objektai/grupes/Slavai]] keliavo_i Dniepro žemupys

@@ -53,18 +53,10 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=35cfea8b7a5d4056ed049088bafc88d65e0d486c5140b94ec1c62e2037588871; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lukas: 0.71
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Akmenų Brasta: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lukas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Akmenų Brasta lokalizuojama Luko aukštupyje, todėl galima vietos priklausomybė Luko sričiai.
 
 ## Ryšiai
 - Akmenų Brasta priklause [[objektai/vietos/Lukas]]

@@ -71,18 +71,10 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ca5f9c968b5230a3d48e7ecc7f6ab30e7dc89fe0523494bcd874356b9610cc33; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Štetinas: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hanza: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Štetinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų Štetinui.
 
 ## Ryšiai
 - [[objektai/grupes/Hanza]] siunte_i Štetinas

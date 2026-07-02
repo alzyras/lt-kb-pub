@@ -64,16 +64,9 @@ Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą
     dytų savo maištingas sielas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 226202-227044; hash=8b89df1d2b531ea73805c2f0f6d2ccddc5bee12c3ce9c9aa5ec98e5043d62735; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.82
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Trobius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys aptaria Trobiaus valdymą Lietuvoje; nors tai pateikta svarstymo forma, pats valdymo ryšys tekste aiškiai įvardytas.

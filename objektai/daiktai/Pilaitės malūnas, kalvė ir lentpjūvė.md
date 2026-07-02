@@ -76,18 +76,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 136201-136693; hash=73f8b67a120ad366043e6392d716a7eda828d62923e997e07ab98ab4dc44ba6b; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Pilaitė: 0.64
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pilaitės malūnas, kalvė ir lentpjūvė: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claim įvardija Pilaitės kaimą, o citata sako, kad tame kaime buvo malūnas, kalvė ir lentpjūvė.
 
 ## Ryšiai
 - Pilaitės malūnas, kalvė ir lentpjūvė priklause [[objektai/vietos/Pilaitė]]

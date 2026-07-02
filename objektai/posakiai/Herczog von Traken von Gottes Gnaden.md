@@ -50,8 +50,7 @@ amziai:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5dad9ce253bbe5e3b9caf7cfd00417ae300012aebc45f2bc1a3745db35e42b50; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

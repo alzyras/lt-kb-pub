@@ -62,8 +62,7 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cc5d283ed66a129ec9a237420b62d8f8345fa13e552a180f3d20169d9c7b72e2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

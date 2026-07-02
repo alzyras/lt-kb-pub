@@ -65,15 +65,7 @@ Pagamintas parlamento gynėjo, kūrėjo savanorio Vyganto Jociaus 2010 m. Analog
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1035921-1036160; hash=8c46e5a934a7cd619705c2692ab02a47c91109fd59142f08496acb30d5a27d4b; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vygantas Jocius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): mention_match, event
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vygantas Jocius" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

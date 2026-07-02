@@ -119,9 +119,10 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Akademijos visuotinių iškilmių salėje buvo 20 paprastos tapybos portretų ir trimis eilėmis išrikiuoti mediniai suolai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -136,19 +137,10 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 377395-378110; hash=12cc8e651adfc534c0acaa8bcc3a616db6e1ba8f692a84afb0df75fababfbbb4; match=whitespace_regex
-  sprendimo_priezastis: gap::places
-  ryšio_patikimumas: priklause -> Akademijos aikštė: 0.61
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Akademijos visuotinių iškilmių salė: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Akademijos aikštė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Salė aprašoma Akademijos aikštės išplanavimo kontekste ir lokalizuojama prie jos bažnyčios vartų.
     - t-002
-
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -165,19 +157,10 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 380140-380526; hash=c3594e0a9faa32fc1ef0723bf9872dcb59499cdfbb1803359888e8629aba66ae; match=whitespace_regex
-  sprendimo_priezastis: gap::places
-  ryšio_patikimumas: susije_su -> Vilnius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Akademijos visuotinių iškilmių salė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akademijos visuotinių iškilmių salė" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
-
 - c-004
   santrauka: 'Akademijos visuotinių iškilmių salė buvo pailgos formos ir stovėjo kairėje pusėje prie bokšto, įėjus pro didžiuosius bažnyčios vartus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -202,21 +185,10 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 380308-380824; hash=ca67327fe44fcddfeaa78e62178296368abb2fee8e8d36330b41b9ece1a7c67f; match=whitespace_regex
-  sprendimo_priezastis: gap::places
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 377609-378564; hash=4ae93e7d59321fe2cc9b2bf5f76d3b4a6f266f135c55ff6d6ef2e51980cfb6b3; match=whitespace_regex
-  sprendimo_priezastis: gap::places
-  ryšio_patikimumas: priklause -> Akademijos aikštė: 0.61
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Akademijos visuotinių iškilmių salė: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Akademijos aikštė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Salė lokalizuojama Akademijos aikštės išplanavimo aprašyme, todėl ryšys su aikšte pagrįstas.
 
 ## Ryšiai
 - Akademijos visuotinių iškilmių salė priklause [[objektai/vietos/Akademijos aikštė]]

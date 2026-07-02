@@ -78,18 +78,10 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 586556-587255; hash=8ca7376a322fb461b48f9732de2ae08c1a92c56e1361749297a0ab8756472daa; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Vilniaus turgus: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurgis Astikas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilniaus turgus: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jurgis Astikas buvo nukirsdintas Vilniaus turguje, todėl tai yra jo mirties vieta.
 
 ## Ryšiai
 - [[objektai/asmenys/Jurgis Astikas]] mire Vilniaus turgus

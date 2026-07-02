@@ -57,19 +57,12 @@ Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konst
     da, paskirdamas vietininku Goštautą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 858569-859139; hash=dfd4aa7fa86ddde669934611d2bbeb512880b41f566dead658fa6e43f4079961; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Podolė: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Teodoras (Konstantino Karijotaičio brolis): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teodoras buvo paskirtas į Podolės kunigaikščio vietą, todėl ryšys su Podolės valdymu pagrįstas.
 
 ## Ryšiai
 - Teodoras (Konstantino Karijotaičio brolis) valde [[objektai/vietos/Podolė]]

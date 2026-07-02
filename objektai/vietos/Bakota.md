@@ -65,18 +65,10 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e73984ab806815341b25cd59311c950d4a79175587dd941d670143c8679a4475; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Bakota: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Karijotaičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Bakota: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Bakota minima tarp Karijotaičių statytų pilių.
 
 ## Ryšiai
 - [[objektai/grupes/Karijotaičiai]] pastate Bakota

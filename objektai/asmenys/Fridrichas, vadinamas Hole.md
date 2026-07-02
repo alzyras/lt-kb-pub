@@ -75,18 +75,10 @@ Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais p
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 537702-538720; hash=e3a5cc41ec566e47fb213ea964c6761984a83e9ad3476e576f55258e38950660; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kirsnava: 0.68
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Fridrichas, vadinamas Hole: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kirsnava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Grobio paėmimas Kirsnavos valsčiuje rodo karinį antpuolį tame valsčiuje.
 
 ## Ryšiai
 - Fridrichas, vadinamas Hole puole [[objektai/vietos/Kirsnava]]

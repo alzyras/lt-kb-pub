@@ -46,8 +46,7 @@ Dusburgietis teigia, kad wróblewski R.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 804703-804847; hash=2f17bb8b636303fbcfd7e07757d9d54686fe6f9d9a1ea229f265dbb5714c7b94; match=exact
-  sprendimo_priezastis: auto

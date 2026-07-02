@@ -33,7 +33,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   global_id: t-60415
   teiginys: 'Popiežius Honorijus II 1218 m. organizavo didelį kryžiaus žygį į Prūsiją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'llm_object: Prūsija; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_object: [[objektai/zodynas/priešmindauginė Lietuva|priešmindauginė Lietuva]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Volynė'
+  susije_objektai: 'llm_object: Prūsija; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_object: [[objektai/zodynas/priešmindauginė Lietuva|priešmindauginė Lietuva]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Volynė'
   semantiniai_rysiai: '[[objektai/asmenys/Popiežius Honorijus II|Popiežius Honorijus II]] surengė žygį į Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1205 m.; įvykio data: 1210 m.; įvykio data: 1218 m.; įvykio data: 1219 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
@@ -76,18 +76,10 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a2622ff70973dead719138075bc19063621b1f917707da591693e54d375c5ed8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Prūsija: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Popiežius Honorijus II: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Honorijaus II organizuotą žygį į Prūsiją.
 
 ## Ryšiai
 - Popiežius Honorijus II surenge_zygi_i [[objektai/vietos/Prūsija]]

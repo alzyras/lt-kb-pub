@@ -86,6 +86,9 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
     batalionai.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -118,40 +121,13 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
     lajus Repinas.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 609065-609401; hash=6191bee5a77714110e02dca37670b95aaf0fc3b9daf6817c849e2ce58da917b7; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Vilnius: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jono Mejeno divizija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Jono Mejeno divizija gynė Vilnių.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 612671-613189; hash=d1398e80c0192c6e8d132037e5092b5841ca30f9a490b309fc61d52dde73347a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Vilnius: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas Mejenas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vadovavimas Vilniaus gynybai tiesiogiai sieja Joną Mejeną su Vilniaus gynimu.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 612671-613189; hash=d1398e80c0192c6e8d132037e5092b5841ca30f9a490b309fc61d52dde73347a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Vilnius: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas Mejenas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vadovavimas Vilniaus gynybai tiesiogiai sieja Joną Mejeną su Vilniaus gynimu.
 
 ## Ryšiai
 - Jonas Mejenas gyne [[objektai/vietos/Vilnius]]

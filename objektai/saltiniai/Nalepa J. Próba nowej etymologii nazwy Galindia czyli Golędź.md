@@ -47,8 +47,7 @@ Dusburgietis teigia, kad nalepa J.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 787689-787810; hash=3942efe636050e49ab024da814655ac3070937bbab18e11f0f131bf2f50d3ba0; match=exact
-  sprendimo_priezastis: auto

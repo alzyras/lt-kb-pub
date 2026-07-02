@@ -79,12 +79,8 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=50f3b088b4663a14a907c8a708442e172ad67e1e629441e717fa420ddf6e67bc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=50f3b088b4663a14a907c8a708442e172ad67e1e629441e717fa420ddf6e67bc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto

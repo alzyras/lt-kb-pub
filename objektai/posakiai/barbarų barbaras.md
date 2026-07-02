@@ -51,9 +51,9 @@ Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėk
     rį, be abejonės, jam netrukus sukaustytą atvešią.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1118763-1119320; hash=6671334720e9d31cdda5ef7ec6a1aade1b312835c56f6b45767c3dd9be665321; match=exact
-  sprendimo_priezastis: auto

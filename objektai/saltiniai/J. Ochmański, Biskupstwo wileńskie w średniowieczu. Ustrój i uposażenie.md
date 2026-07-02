@@ -55,15 +55,7 @@ Ochmański, J.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e08a5c2473ff24a478388581da75d783163440f6f0429b9984bb8bbe33921d6b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Poznanė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: J. Ochmański, Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Poznanė: mention_match, place, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Ochmański, Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie" parinktas kaip owner_note_path. Targetas "Poznanė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

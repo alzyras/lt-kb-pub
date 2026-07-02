@@ -83,27 +83,10 @@ Nenurodyta
         227 (222).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 548002-548504; hash=64d5d57fd097016e93bb2458ddb3d77dc9a9263dbe2048a2650ef2bcace978c9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Aukaimis: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Girdila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Aukaimis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Girdilos judėjimą prie Aukaimio pilies.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 548002-548504; hash=64d5d57fd097016e93bb2458ddb3d77dc9a9263dbe2048a2650ef2bcace978c9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Aukaimis: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Girdila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Aukaimis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Girdilos judėjimą prie Aukaimio pilies.

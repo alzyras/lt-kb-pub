@@ -81,9 +81,10 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -98,8 +99,7 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=813836aaedd8a960151262ea24ebef284a0b65841a9405fac9d560b84c42d4e9; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-001

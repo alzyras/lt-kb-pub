@@ -69,15 +69,7 @@ Karaliui, turinčiam tokias dide­ les karinės amunicijos atsargas, nesunku buv
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 556940-557534; hash=e193b2f618764a896d8704d6ddfcf2b95adb3c13da641fcc960be07b1c91220d; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Livonija: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Augustas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas nurodo, kad Žygimantui Augustui buvo pripažinta valdžia Livonijoje.

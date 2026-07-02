@@ -95,9 +95,10 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -132,28 +133,10 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c2e5e465ab7d84c01d711206634171618cf017313140cb398fae2bfb6632df89; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kaunas: 0.67
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Boucicaut: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Žygio dalyviai su Boucicaut vadovaujamais kariais susijungė prie Kauno, nors pats jo atvykimas išreikštas netiesiogiai.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 276629-277243; hash=0a936d0f9c5772097d75c1b54e72bd24430433201f30aec128ea12397530f3e7; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Vilniaus prastuomenė: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Boucicaut: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilniaus prastuomenė: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Boucicaut vadovaujami prancūzai žalos pridarė apgultiesiems, kurie citatoje siejami su Vilniaus prastuomene.
 
 ## Ryšiai
 - Boucicaut puole [[objektai/grupes/Vilniaus prastuomenė]]

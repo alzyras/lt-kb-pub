@@ -60,18 +60,10 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 511762-512274; hash=1e2bd4d461212c0b093c7039afc19432bd135ffc0e1269ccd7906f35e9e9b657; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Rūdninkai: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigmantas III: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rūdninkai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas rodo, kad Zigmantas III leisdavo laiką Rūdninkuose; tai pakankama buvimo ar laikino gyvenimo vietos nuoroda.
 
 ## Ryšiai
 - Zigmantas III buvo_valdovas [[objektai/grupes/Abiejų Tautų Respublika]]

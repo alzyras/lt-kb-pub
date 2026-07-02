@@ -76,6 +76,9 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     vadinama r u g o m i s.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -94,11 +97,11 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 548628-548781; hash=8ea28af5b86a3b978eea3d0a7a3b695a6636f0e65616524b654c94eae034261d; match=exact
-  sprendimo_priezastis: auto
     - t-004
 
 - c-003
@@ -110,15 +113,12 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     kurių darbas trukdavo šešetą savaičių.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 548628-548781; hash=8ea28af5b86a3b978eea3d0a7a3b695a6636f0e65616524b654c94eae034261d; match=exact
-  sprendimo_priezastis: auto
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 550084-550286; hash=4ae56b15d89bcf0e8009dc35179b8950ca04c0b8900ed7bbbbc2d1e3a8dd5546; match=exact
-  sprendimo_priezastis: auto
     - t-002
 
 - c-004
@@ -133,12 +133,9 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     pratęstas.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ff917b771f7eccf6f186646e4de68f3ed858aff3e62d506bf74d3810c12c2380; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
     - t-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 548701-548995; hash=7b3ba14efcf9358ef3aa7607c3b465579979dd87ea7cdedb465104c38b02e918; match=exact
-  sprendimo_priezastis: auto

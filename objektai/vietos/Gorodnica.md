@@ -87,29 +87,11 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0c1c47bf197e994227f343f4372445dca959ff43fd7355f010b247c8fcfd8efa; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Gardinas: 0.83
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gorodnica: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Gorodnica apibūdinta kaip Gardine pastatytas priemiestis.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0c1c47bf197e994227f343f4372445dca959ff43fd7355f010b247c8fcfd8efa; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Gardinas: 0.83
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gorodnica: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Gorodnica įvardyta kaip vienas Gardine pastatytų priemiesčių.
 
 ## Ryšiai
 - Gorodnica priklause [[objektai/vietos/Gardinas]]

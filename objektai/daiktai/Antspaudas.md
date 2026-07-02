@@ -62,7 +62,7 @@ Nenurodyta
 - t-002
   global_id: t-64898
   teiginys: 'XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-001
 
@@ -107,6 +107,7 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu.md#claim-t-54746|Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]: Viešiesiems reikalams Vilniaus magistratas galėjo naudoti tik senąjį miesto antspaudą su šv. Kristoforo atvaizdu ant raudono lako.
 - susijęs iš [[objektai/posakiai/Harum Testimonio Literarum.md#claim-t-86846|Harum Testimonio Literarum]]: Formulė „Harum Testimonio Literarum“ vartota dokumente, prie kurio buvo prikabintas Lietuvos Didžiosios Kunigaikštystės antspaudas.
 - susijęs iš [[objektai/posakiai/Sigillum Vitowdi ducis in Tracken.md#claim-t-35981|Sigillum Vitowdi ducis in Tracken]]: Vėlesniame akto nuoraše įrašas „Sigillum Vitowdi ducis in Tracken“ nurodė Vytauto, Trakų kunigaikščio, antspaudą.
+- susijęs iš 1630 m. testamentas su šešiais antspaudais: Narbutas 1630 m. testamentą aprašė kaip dokumentą, prie kurio buvo pridėtas neaiškaus savininko antspaudas ir dar penki antspaudai su lenkiškais herbais.
 - susijęs iš Gedimino laiškai ordinams ir Vokietijos miestams: Trijuose Gedimino laiškuose po antspaudo paaiškinimų pateiktas prakeiksmas tiems, kurie nepatikėtų antspaudo tikrumu.
 - susijęs iš Gedimino laiškai: Trijuose Gedimino laiškuose buvo įrašytas antspaudo tikrumą ginantis prakeiksmas tiems, kurie juo nepatikėtų.
 - susijęs iš Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.): Gedimino laiške antspaudo niekintojai pasmerkiami kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės.
@@ -242,9 +243,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: '1401 m. kovo 11 d. Radome duoto Lenkų karališkosios tarybos dokumento originalas išliko Radvilų archyve su 49 antspaudais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -259,9 +261,10 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: '1649 m. rugpjūčio 25 d. Vilniuje leidimas spausdinti Lietuvos istorijos pirmą dalį buvo paliudytas įprastiniu tarnybos antspaudu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -288,6 +291,8 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 

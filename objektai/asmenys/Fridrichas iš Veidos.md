@@ -55,18 +55,10 @@ Dusburgietis teigia, kad kunigaikščio kariaunos vadas susigrūmė su broliu Fr
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 311743-312317; hash=3812f12d24b2b6e2f3815481004a90fb87f6cd5615482fdaa4a7146a5f86ea0d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Fridrichas iš Veidos: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Fridrichas iš Veidos: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Sventopelkas užpuolė grupę, kuriai vadovavo Fridrichas iš Veidos.
 
 ## Ryšiai
 - [[objektai/asmenys/Sventopelkas]] puole Fridrichas iš Veidos

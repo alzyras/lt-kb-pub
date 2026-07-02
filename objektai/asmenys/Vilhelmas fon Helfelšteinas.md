@@ -61,18 +61,10 @@ periodo_grupes:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 227542-228019; hash=3af79849982166b47fa003bed2df806ce4b98256e838c8df80cd2940c3c5d4fc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Vilnius: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vilhelmas fon Helfelšteinas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vilhelmo fon Helfelšteino vedami kryžiuočiai patraukė į Vilnių.
 
 ## Ryšiai
 - Vilhelmas fon Helfelšteinas surenge_zygi_i [[objektai/vietos/Vilnius]]

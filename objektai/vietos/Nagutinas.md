@@ -62,18 +62,10 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 518416-518937; hash=22bae81f27effc0c5794c5b00e891c7671f652b38fa276aaf83451054d9e94b2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Nagutinas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Nagutinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo Konrado kariuomenės judėjimą per Nagutino ežerą.
 
 ## Ryšiai
 - [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]] keliavo_i Nagutinas

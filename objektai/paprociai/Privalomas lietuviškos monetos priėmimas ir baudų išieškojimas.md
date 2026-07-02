@@ -164,38 +164,11 @@ Nenurodyta
     Asmenišku Jo Didenybės karaliaus įsakymu.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 832380-834712; hash=3d9f350f4dbeac1ffcc150391ce58c2897e42f0f85e9740bbb95f4f2aa4cdbd6; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Valdovo edikte Lietuvos DK pavaldiniai pateikiami kaip jo pavaldiniai.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 832380-834712; hash=3d9f350f4dbeac1ffcc150391ce58c2897e42f0f85e9740bbb95f4f2aa4cdbd6; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Įsakymas kalba apie Lietuvos DK pavaldinius kaip valdovo pavaldinius.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 832380-834712; hash=3d9f350f4dbeac1ffcc150391ce58c2897e42f0f85e9740bbb95f4f2aa4cdbd6; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Įsakyme valdovas Lietuvos DK pavaldinius įvardija kaip savo pavaldinius.

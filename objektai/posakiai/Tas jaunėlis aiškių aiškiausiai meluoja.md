@@ -44,9 +44,9 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
     tęs, nei girdėjęs".
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 674283-674652; hash=9832be2e0d150d9090e92c43195a802e3dd53f27c67a71e1562463927d45c02f; match=exact
-  sprendimo_priezastis: auto

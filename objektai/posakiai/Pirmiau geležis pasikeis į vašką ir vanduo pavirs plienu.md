@@ -117,20 +117,11 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 142132-142818; hash=a5f10f5e159c1fec02b67fcf4d068b6a04bb62edf82d819215209d0873601460; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md
-  ryšio_patikimumas: susije_su -> Vaškas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vaškas: mention_match, thing, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu" parinktas kaip owner_note_path. Targetas "Vaškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-
 - c-002
   santrauka: 'Posakiu „pirma geležis į vašką, o vanduo į plieną pavirs“ 1323 m. laiškuose teigta, kad duotas žodis nebus sulaužytas ar atšauktas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -152,25 +143,7 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 142132-142818; hash=a5f10f5e159c1fec02b67fcf4d068b6a04bb62edf82d819215209d0873601460; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md
-  ryšio_patikimumas: susije_su -> Vaškas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vaškas: mention_match, thing, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu" parinktas kaip owner_note_path. Targetas "Vaškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 173201-173979; hash=825eb1ff4e46f29dc6f0e5f4a2ca8c53a19b4586b1340f2e6cfb3294956e4db2; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md
-  ryšio_patikimumas: susije_su -> Antspaudas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Antspaudas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

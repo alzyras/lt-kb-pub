@@ -97,6 +97,9 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     kad atvykę deramai pataisytų tai, kas atsitiko.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -115,29 +118,12 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     vienuolyno abatas Bernardas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=31147ad856378d84d2e1aa7af46149bab7d1822555dcaed50cc31d48756e3044; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Livonija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bernardas (Šv. Teofrido vienuolyno abatas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Popiežius pasiuntė Bernardą kaip vieną iš legatų į Livoniją.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 363424-363792; hash=cffbebc8a5fa6b4d29cb6972c478995e0eee6741090d0b962da6a46ac69a48ff; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bernardas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bernardas (Šv. Teofrido vienuolyno abatas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bernardas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardas (Šv. Teofrido vienuolyno abatas)" parinktas kaip owner_note_path. Targetas "Bernardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Bernardas (Šv. Teofrido vienuolyno abatas) keliavo_i [[objektai/vietos/Livonija]]

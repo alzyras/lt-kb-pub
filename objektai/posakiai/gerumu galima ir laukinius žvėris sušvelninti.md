@@ -119,9 +119,10 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -139,36 +140,8 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 642882-643474; hash=3f9839a04085de366fd83a7be07cfddc0be322fada9294f1d4de12e6454fef08; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citatoje aiškiai minima Vytauto kova su totoriais.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 642882-643474; hash=3f9839a04085de366fd83a7be07cfddc0be322fada9294f1d4de12e6454fef08; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Lietuva: 0.65
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys apie žemių dalijimą totoriams Lietuvoje pagrindžia jų ryšį su gyvenimu ar įkurdinimu Lietuvoje.
     - t-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 642882-643474; hash=3f9839a04085de366fd83a7be07cfddc0be322fada9294f1d4de12e6454fef08; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citatoje tiesiogiai minima Vytauto kova su totoriais.

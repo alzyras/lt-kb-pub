@@ -71,18 +71,10 @@ periodo_grupes:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 547466-548070; hash=e451c8035cb8c4e9598e5fc148264484f9de3b1797f551a30766c69497c578d2; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_vyras -> Barbora Radvilaitė: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Goštautas (Trakų vaivada, Barboros vyras): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Goštautas buvo Barboros Radvilaitės vyras.
 
 ## Ryšiai
 - Goštautas (Trakų vaivada, Barboros vyras) buvo_vyras [[objektai/asmenys/Barbora Radvilaitė]]

@@ -83,9 +83,10 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Polockiečiai su kariuomene patraukė iki Gorodeco miesto, bet Mingaila juos užpuolė ir privertė sprukti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -109,28 +110,10 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 355318-355663; hash=e0ae94ad44117edcbf61fa152b782ead01fced4fcaa319de631c7b49f146650f; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Slavai: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gorodecas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Slavai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Gorodecas įvardytas kaip viena rytinių slavų pilių.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 134874-135431; hash=f22851e17f9874b164d275e7885fb637507bf815ffc30a5266ef130c66a2356e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Gorodecas: 0.85
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Polockiečiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Gorodecas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Polockiečių kariuomenės judėjimas iki Gorodeco miesto nurodytas tiesiogiai.
 
 ## Ryšiai
 - [[objektai/grupes/Polockiečiai]] surenge_zygi_i Gorodecas

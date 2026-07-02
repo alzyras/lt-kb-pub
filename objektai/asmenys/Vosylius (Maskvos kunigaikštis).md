@@ -71,18 +71,10 @@ Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškė
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=14985233120d8449aa3c075f4db6f17c6d2e90b0f4597f9186b3e4dd149f8958; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Vosylius (Maskvos kunigaikštis): 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vosylius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vosylius (Maskvos kunigaikštis): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad jaunesnysis Vosylius buvo Maskvos kunigaikščio Vosyliaus sūnus.
 
 ## Ryšiai
 - [[objektai/asmenys/Vosylius]] buvo_sunus Vosylius (Maskvos kunigaikštis)

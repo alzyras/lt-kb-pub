@@ -49,8 +49,7 @@ Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vi
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 300065-300547; hash=48b9ed9994775098442aa811aff114f24cc27fc63908e3dcc8f21244579305bb; match=whitespace_regex
-  sprendimo_priezastis: auto

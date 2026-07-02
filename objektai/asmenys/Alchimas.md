@@ -56,18 +56,10 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f7ac35adafe18eea54ed3750e7db783ba4e67f59014990af5c083adda5667b47; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Alchimas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Judas Makabėjus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Alchimas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Judas Makabėjus kovojo su Alchimu.
 
 ## Ryšiai
 - [[objektai/asmenys/Judas Makabėjus]] kariavo_pries Alchimas

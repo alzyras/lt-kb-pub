@@ -81,18 +81,10 @@ periodo_grupes:
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 460666-461300; hash=cf4e545a52cb56586e51dafb8540929f39b80861ffa5eaf67294dca82659fabf; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.65
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas Plauenas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Henrikas Plauenas aprašomas veikiantis Vilniuje, todėl remiamas atvykimo ar buvimo vietos santykis.
 
 ## Ryšiai
 - Henrikas Plauenas keliavo_i [[objektai/vietos/Vilnius]]

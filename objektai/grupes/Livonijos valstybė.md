@@ -61,18 +61,10 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 439987-440455; hash=b0ffb268b4a71849369bb5f18ff668fe9e7a8c2dc5f349e892ecd9f0eaa75629; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Maskva: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Livonijos valstybė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Livonijos valstybės vadams reikėjo gintis nuo Maskvos grėsmės.
 
 ## Ryšiai
 - Livonijos valstybė gyne [[objektai/vietos/Maskva]]

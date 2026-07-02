@@ -93,6 +93,9 @@ Nenurodyta
     nusiaubdami.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
@@ -115,29 +118,12 @@ Nenurodyta
     čiuosius ir juos žudė.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1078201-1078703; hash=f9295a19efaca835e9d76f1ed2413c2748312151e14e3be812c44d25d99d5900; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krymas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skitų sumušimas Volynėje ir prie Slučės: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=107
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skitų sumušimas Volynėje ir prie Slučės" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1078524-1079094; hash=b55f3c9b319261f631f750d641110e2caf27bbc5d96fc7309fcaf8dfd953f65b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Skitų sumušimas Volynėje ir prie Slučės: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lukošius Moravecas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Skitų sumušimas Volynėje ir prie Slučės: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Citata nurodo, kad Lukošius Moravecas užpuolė priešą ir jį sumušė šiame įvykyje.
 
 ## Ryšiai
 - [[objektai/asmenys/Lukošius Moravecas]] dalyvavo_musyje Skitų sumušimas Volynėje ir prie Slučės

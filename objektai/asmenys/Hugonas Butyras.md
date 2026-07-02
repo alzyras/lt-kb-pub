@@ -42,9 +42,9 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   irodymo_stiprumas: 0.00
   saltinio_vieta: 149291-149946; hash=9eaeb2ad3553d660c5423be0370a3746202e94c9eb47660dc3865ef38a310517; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumas: susije_su -> Prūsų žemė: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Hugonas Butyras: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=57
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   global_id: t-60146
   teiginys: 'Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškesnį teiginį apie asmenį, išlaikant šaltinio priskyrimą.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Dobrynė; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Dobrynė; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -81,9 +81,10 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -102,28 +103,10 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 149291-149946; hash=9eaeb2ad3553d660c5423be0370a3746202e94c9eb47660dc3865ef38a310517; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hugonas Butyras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hugonas Butyras" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 153306-153504; hash=d312295f4fb45c7fc5e6442785a4291cf0f3b2cd2fd6df89d302e1454f0cec45; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gime -> Olandija: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hugonas Butyras: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Olandija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė „kilęs iš Olandijos“ pagrindžia kilmės arba gimimo vietos ryšį, bet nėra visiškai pažodinė gimimo nuoroda.
 
 ## Ryšiai
 - Hugonas Butyras gime [[objektai/vietos/Olandija]]

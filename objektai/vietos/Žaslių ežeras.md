@@ -73,26 +73,8 @@ Pajautos stabas buvo pastatytas ties Žaslių ežeru. Žaslių ežeras kronikoje
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5eda1d6740e357e98e8e540f5bdc88ddf1e5c234ec203d7d9d47b8dcad653d3e; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Pajauta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žaslių ežeras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pajauta: mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žaslių ežeras" parinktas kaip owner_note_path. Targetas "Pajauta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5eda1d6740e357e98e8e540f5bdc88ddf1e5c234ec203d7d9d47b8dcad653d3e; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: buvo_sunus -> Pajauta: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kukovaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pajauta: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Formuluotė aiškiai nurodo, kad Pajauta buvo Kukovaičio motina, todėl Kukovaitis yra jos sūnus.

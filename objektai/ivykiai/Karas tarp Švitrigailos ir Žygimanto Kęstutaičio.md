@@ -67,19 +67,12 @@ Nenurodyta
     talikais bei Lenkijos ponais.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 17262-17703; hash=ecf0e58e1818b386969179d470ec60c48947d26d5a6d7c01bd78b78952f55ded; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Karas tarp Švitrigailos ir Žygimanto Kęstutaičio: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Karas tarp Švitrigailos ir Žygimanto Kęstutaičio: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Karas tiesiogiai įvardytas kaip vykęs tarp Švitrigailos ir Žygimanto Kęstutaičio.
 
 ## Ryšiai
 - [[objektai/asmenys/Švitrigaila]] dalyvavo_musyje Karas tarp Švitrigailos ir Žygimanto Kęstutaičio

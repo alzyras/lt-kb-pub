@@ -75,18 +75,10 @@ periodo_grupes: []
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b165420dd50e9f13fc9e983aa17d496bb9e8c6fe6b65b4a55a2f178d6a42d0cf; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Vitas: 0.82
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pelka: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vitas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Pelka tiesiogiai įšventino Vitą vyskupu; artimiausias leistinas santykis yra paskyrimas.
 
 ## Ryšiai
 - Pelka paskyre [[objektai/asmenys/Vitas]]
