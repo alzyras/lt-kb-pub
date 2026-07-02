@@ -15,6 +15,11 @@ datos:
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
+description: 'Vorskla – Dniepro intakas, prie kurio 1399 m. Vytauto žygis prieš Timūr-Kutluko kariuomenę baigėsi pralaimėjimu.'
+socialDescription: 'Prie Vorsklos 1399 m. Vytauto jungtinės pajėgos susitiko su Aukso ordos chano Timūr-Kutluko kariuomene ir patyrė pralaimėjimą.'
+seo_atnaujinta: '2026-07-02T23:12:35.450924+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,7 +35,7 @@ amziai:
 
 ## Santrauka
 
-Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiartino prie Vorsklos upės kranto, tuoj ten atvyko ir vienas Timur-Kotlogo vadas Edyga ir laukė atei­ nant paties Kotlogo. Bet deja, jam tokiu iš jo grįžti neteko: didelių užsimojimų žygis buvo prie Vorsklos pralaimėtas.
+Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Lietuvos jungtinės pajėgos susitiko su Aukso ordos chano Timūr-Kutluko kariuomene. Žygis prie Vorsklos baigėsi pralaimėjimu, o šis pralaimėjimas sulėtino Lietuvos plėtrą rytuose. Prie Vorsklos 1399 m. žuvo ir Algirdo sūnus Andrius.
 
 ## Teiginiai
 

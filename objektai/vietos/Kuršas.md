@@ -24,12 +24,17 @@ atnaujinta: ''
 amziai:
   - 'VII'
   - 'XXI'
+description: 'Kuršas – kuršių kraštas, minimas Rimberto ir Hervararsagoje, siejamas su švedų žygiais, Mindaugo 1244 m. puolimu ir žemaičių kovomis.'
+socialDescription: 'Kuršas siejamas su kuršiais, švedų valdovų siekiais, Mindaugo 1244 m. žygiu ir žemaičių kovomis prieš Livoniją.'
+seo_atnaujinta: '2026-07-02T23:12:35.261230+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 ---
 # Kuršas
 
 ## Santrauka
 
-Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos ginti, o įsibrovė naikinti ordino valdomojo Kuršo. Kraštas tarp Ventos ir Daugavos iki šiol vadinamas Kuršu. Kuršas minimas kaip viena iš vietų, kur tikrieji lietuviai tebgyvena atsikieminėję vienkiemiuose.
+Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Hervararsagoje, kur jo užvaldymas siejamas su švedų karaliumi Ivaru apie 675 m. Vėliau švedų karalius Olafas siekė iš naujo užvaldyti Kuršą, o XIII a. čia vyko Mindaugo ir Ordino kovos, įskaitant 1244 m. žygį prie Ambotės ir nesėkmingą Embutės pilies puolimą. Kuršas taip pat minimas žemaičių žygių kontekste: po paliaubų jie puolė kraštą, laimėjo Skuodo laukuose, o 1435 m. sudegino Durbės pilį.
 
 ## Pavadinimai šaltiniuose
 

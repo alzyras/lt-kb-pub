@@ -28,6 +28,11 @@ atnaujinta: ''
 amziai:
   - 'XI'
   - 'XX'
+description: 'Lenkija Lietuvos istorijoje: lietuvių žygiai, Jogailos ir Vytauto laikų sąjunga, kultūrinė įtaka ir Vilniaus krašto klausimas.'
+socialDescription: 'Lenkijos ir Lietuvos ryšiai: nuo lietuvių žygių bei unijų iki kultūrinės įtakos, religinės tolerancijos ir Vilniaus krašto klausimo.'
+seo_atnaujinta: '2026-07-02T23:12:34.998655+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - bajorija
   - miestas
@@ -38,7 +43,7 @@ tags:
 
 ## Santrauka
 
-Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pietų Lietuvos prekių ėmė plaukti per Lenkiją, — kai su šia prasidėjo Lietuvos santykiai. Tad Zigmantui nebeliko kito sąjungininko, kaip tik Lenkija, kuri jam padėjo net ruošiant sąmokslą. Senieji aktai, kuriais ji buvo surišta su Lenkija, jau nebegaliojo.
+Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valstybė, su kuria Lietuvą siejo kariniai žygiai, prekybos kryptys, unijos ir politinės sąjungos. Po 1183 m. lietuvių žygiai dažnėjo ir pasiekė Lenkiją, o Jogailos ir Vytauto laikais Lietuvos ir Lenkijos ryšiai tapo svarbia valdžios bei gynybos dalimi. Vėlesniuose kontekstuose Lenkija minima dėl kultūrinės įtakos, religinės tolerancijos, Vilniaus krašto klausimo ir Lietuvos nepriklausomybės sampratos.
 
 ## Teiginiai
 <a id="claim-t-177338"></a>

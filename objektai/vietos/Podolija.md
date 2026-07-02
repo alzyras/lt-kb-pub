@@ -11,6 +11,11 @@ datos:
   - '2026 m.'
 date_start: '1362'
 date_end: '2026'
+description: 'Podolija – Lietuvos valstybės pietinė sritis, po 1362 m. susijusi su Karijotais, Vytauto kovomis ir Kamieniecu.'
+socialDescription: 'Podolija – svarbi Lietuvos valstybės pietinė sritis, siejama su Mėlynųjų Vandenų mūšiu, Karijotais ir Vytauto politinėmis kovomis.'
+seo_atnaujinta: '2026-07-02T23:12:35.474958+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje.
+Podolija Lietuvos istorijos žinių bazėje siejama su Lietuvos valstybės pietine erdve, nusitęsusia link Juodosios jūros srities stepių. Po 1362 m. Mėlynųjų Vandenų mūšio čia įsigalėjo Algirdo giminaičiai Karijotai. Vytautui dėl Podolijos teko ilgai kovoti su vengrų, totorių ir lenkų pretenzijomis, o po Torno taikos Jogaila jam lėno teisėmis davė vakarinę Podolijos dalį su Kamieniecu.
 
 ## Teiginiai
 

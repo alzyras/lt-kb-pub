@@ -11,6 +11,11 @@ sukurta: ''
 atnaujinta: ''
 amziai: []
 periodo_grupes: []
+description: 'Mykolas Balinskis – kruopštus istorikas, Vilniaus miesto istorijos autorius, rašęs apie Vilniaus akademiją ir LDK miestų aprašymus.'
+socialDescription: 'Mykolas Balinskis – istorikas, kurio darbai apėmė Vilniaus miesto, Vilniaus akademijos ir LDK istorinės topografijos temas.'
+seo_atnaujinta: '2026-07-02T23:12:35.422461+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - autorius
   - mokslininkas
@@ -19,7 +24,7 @@ tags:
 
 ## Santrauka
 
-Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Vilniaus miesto istorija“, pirmą kartą lietuviškai išleista 2007 m. Jo darbai apėmė Vilniaus akademijos istoriją, „Senovės Lenkiją“, biografijas, istorinius leidinius ir publicistiką. „Vilniaus miesto istorijos“ rengimas rėmėsi kronikomis, archyviniais rankraščiais, dokumentų paieška ir pagalbininkų teikta medžiaga.
+Mykolas Balinskis buvo kruopštus, pedantiškas istorikas, siejamas su „Vilniaus miesto istorija“, kurios pirmoji dalis pasirodė 1836 m. Jis rinko su Vilniaus istorija susijusius dokumentus, rėmėsi kronikomis, archyvine medžiaga ir pagalbininkų išrašais iš Lietuvos Metrikos. Balinskis taip pat paliko darbų apie Vilniaus akademiją, rengė „Senovės Lenkiją“, biografijas, istorinius leidinius ir publicistiką.
 
 ## Laikotarpis ir datos
 

@@ -13,6 +13,11 @@ sukurta: ''
 atnaujinta: ''
 amziai: []
 periodo_grupes: []
+description: 'Motiejus Strijkovskis – kronikininkas, kurio kronika minima kalbant apie Vilniaus šventoves, Gedimino žygį ir Mėlynuosius Vandenis.'
+socialDescription: 'Motiejus Strijkovskis minimas kaip kronikininkas, kurio tekstai liudija Lietuvos istorinę tradiciją apie Vilnių, Gediminą ir Algirdą.'
+seo_atnaujinta: '2026-07-02T23:12:35.061087+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - autorius
 ---
@@ -20,7 +25,7 @@ tags:
 
 ## Santrauka
 
-M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio kronika naudojama aiškinant Gedimino žygį bei Algirdo pergalę prie Mėlynųjų Vandenų. Vienoje citatoje jis dar apibūdinamas kaip XVI a. LDK karininkas ir diplomatas.
+Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kurio kronika pasitelkiama aiškinant Lietuvos istorijos tradiciją. Jo vardas siejamas su pasakojimais apie Šv. Martyno bažnyčią, Antakalnio šventovę, Gedimino žygį ir Algirdo pergalę prie Mėlynųjų Vandenų. Šaltiniuose taip pat minima, kad Strijkovskis naudojo Dusburgiečio nuorašą 1582 m. Karaliaučiuje išspausdintoje Kronikoje ir kai kur pateikė klaidingų detalių.
 
 ## Darbai
 

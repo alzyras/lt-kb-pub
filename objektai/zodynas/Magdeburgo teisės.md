@@ -21,6 +21,11 @@ aliases:
   - 'objektai/zodynas/magdeburginės teisės'
 variantai:
   - 'magdeburginės teisės'
+description: 'Magdeburgo teisės žymi miestų savivaldos pradžią Lietuvoje: nuo Vilniaus 1387 m. iki Vytauto privilegijų Brastai ir Kaunui.'
+socialDescription: 'Vilnius 1387 m. pirmasis gavo Magdeburgo teises, o Vytauto laikais jos plito į Brastą, Kauną ir kitus miestus.'
+seo_atnaujinta: '2026-07-02T23:12:35.302249+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -31,7 +36,7 @@ amziai:
 
 ## Santrauka
 
-Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pirmas Magdeburgo teises gavo Vilnius (1387 m.), vėliau Brasta (1390 m.), Gardinas (1391 m.), o dar vėliau Kaunas ir kt.
+Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios magdeburgijos, suteikimą. Pirmuoju tokiu miestu laikomas Vilnius, 1387 m. gavęs teises iš Vladislovo Jogailos. Vytautas vėliau Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.
 
 ## Teiginiai
 

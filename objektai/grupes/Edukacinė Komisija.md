@@ -12,6 +12,11 @@ datos:
   - '2026 m.'
 date_start: '1579'
 date_end: '2026'
+description: 'Bendra Lietuvos ir Lenkijos Edukacinė Komisija nuo 1773 m. prižiūrėjo švietimą, mokyklas, vadovėlius ir modernino mokymą.'
+socialDescription: 'Edukacinė Komisija nuo 1773 m. tvarkė Lietuvos ir Lenkijos švietimą, perėmė mokyklų priežiūrą ir modernino mokymo programas.'
+seo_atnaujinta: '2026-07-02T23:12:35.411032+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,7 +32,7 @@ amziai:
 
 ## Santrauka
 
-Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos buvo panaikintos, ir visi turtai pavesti Edukacinei Komisijai. Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati valstybė.
+Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 1773 m. Ji rūpinosi mokymu, vadovėliais, mokyklų priežiūra ir lėšų naudojimu, o 1776 m. jai perduoti panaikintų Dalomųjų Komisijų turtai. Komisija laikyta pirmu Europoje atveju, kai švietimą perėmė valstybė, ir siejama su mokymo programų moderninimu bei supasaulietinimu.
 
 ## Teiginiai
 

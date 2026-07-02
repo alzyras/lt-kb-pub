@@ -6,6 +6,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+description: 'Lietuvos istorikų ir socialinės istorijos tyrėjų darbai apie kovas, sukilimus, švietimą, ūkį ir spaudos draudimą.'
+socialDescription: 'Lietuvos istorikų darbų apžvalga: nuo kovų su ordinais iki sukilimų, švietimo reformų, ūkio istorijos ir spaudos draudimo tyrimų.'
+seo_atnaujinta: '2026-07-02T23:12:35.420755+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +25,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip R. , 57-74 p. (^105) Parašė, be kitko : Lietuvių kova prieš kalavijuočius (1945), Kry­ žiuočių valstybės santvarkos bruožai (1948) ; vienašališkai poleminė yra jo knyga Popiežiai lietuvių tautos priešai (1948).
+Įrašas apžvelgia Lietuvos istorikus ir socialinės istorijos tyrėjus, rašiusius apie Lietuvos istorijos, teisės, ūkio, švietimo ir spaudos draudimo temas. Minimi P. Pakarklis, R. Jasas, M. Jučas, R. Vėbra, A. Šidlauskas, P. Dundulienė, R. Marčėnas, A. Makarevičius ir kiti autoriai. Tekste išryškinami darbai apie kovas su kryžiuočiais ir kalavijuočiais, 1831 m. ir 1863 m. sukilimus, 1905-1907 m. revoliuciją, Prūsijos lietuvių vokietinimą bei XIX a. spaudos draudimą.
 
 ## Teiginiai
 

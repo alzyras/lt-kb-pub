@@ -8,6 +8,11 @@ datos:
   - '1396 m.'
 date_start: '1382'
 date_end: '1396'
+description: 'M. Strijkovskis minimas kaip kronikininkas, kurio pasakojimai apie Vilnių, Antakalnį ir XIV a. įvykius vertinami kritiškai.'
+socialDescription: 'Kronikininko M. Strijkovskio liudijimai apie Vilnių, Antakalnį, Švitrigailą ir XIV a. įvykius Lietuvos istorijos šaltiniuose.'
+seo_atnaujinta: '2026-07-02T23:12:35.244313+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ periodo_grupes:
 
 ## Santrauka
 
-7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn. Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk. 31 Strijkovskis, 1.465, o juo sekda­ mas ir K o j e 1 a v i č i u s, p. 361, plačiai aprašo, kokių gudrybių tą­ kart ėmėsi Kęstutis, puldamas Vilnių.
+M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Vilnių, Antakalnį ir XIV a. politinius įvykius. Šaltiniuose minimi jo pasakojimai apie Antakalnyje buvusią šventovę, Šv. Martyno bažnyčios būklę ir Švitrigailos pilies užėmimo aiškinimą. Kartu pabrėžiama, kad kai kurie Strijkovskio teiginiai vertinami kritiškai, ypač dėl Lukiškių vardo kilmės ir Konrado Valenrodo pareigų.
 
 ## Teiginiai
 

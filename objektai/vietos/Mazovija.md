@@ -19,6 +19,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XV'
+description: 'Mazovija XIII–XV a. šaltiniuose: Kulmo žemė, Gedimino laiškų kelias, lietuvių antpuoliai ir ryšiai su Ordinu.'
+socialDescription: 'Mazovija Lietuvos istorijos šaltiniuose minima kaip kaimyninė kunigaikštystė, susijusi su Kulmo žeme, Gedimino laiškais, lietuvių žygiais ir Vokiečių ordino pasakojimais.'
+seo_atnaujinta: '2026-07-02T23:12:35.427470+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - kunigaikštis
   - ordinas
@@ -29,7 +34,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. Dusburgietis teigia, kad „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas, o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą, apie. Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja iš visų pusių Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
+Mazovija žinių bazėje siejama su Lietuvos ir kaimyninių kunigaikštysčių santykiais XIII–XV a. Šaltiniuose minima Kulmo žemė, Mazovijos kunigaikščių valdos, saugus kelias į Lietuvą per Boleslavo kunigaikštystę 1323 m. ir lietuvių antpuoliai. Taip pat aptariami Vokiečių ordino įkurdinimo pasakojimai, Prūsijos ribos bei vėlesni konfliktai su Mazovijos kunigaikščiais.
 
 ## Teiginiai
 <a id="claim-t-182832"></a>

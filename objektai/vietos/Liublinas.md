@@ -19,6 +19,11 @@ datos:
   - '2026 m.'
 date_start: '1251'
 date_end: '2026'
+description: 'Liublinas siejamas su Jogailos išrinkimu 1386 m., 1569 m. Liublino seimu ir Lietuvos bei Lenkijos valstybinių santykių nustatymu.'
+socialDescription: 'Liublinas žinių bazėje minimas kaip 1386 m. Jogailos išrinkimo Lenkijos karaliumi vieta ir 1569 m. seimo erdvė, kur spręsti Lietuvos bei Lenkijos valstybiniai santykiai.'
+seo_atnaujinta: '2026-07-02T23:12:35.349331+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +36,7 @@ amziai:
 
 ## Santrauka
 
-Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos karaliumi vieta, ir kaip 1569 m. erdvė, kur galutinai nustatyti abiejų tautų valstybiniai santykiai. Šiame šaltinyje Liublino unija taip pat žymi naujo Lietuvos istorijos laikotarpio pradžią.
+Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių sprendimų vieta. 1386 m. čia Jogaila buvo išrinktas Lenkijos karaliumi, o 1569 m. Liubline galutinai nustatyti Lietuvos ir Lenkijos valstybiniai santykiai. Šaltiniuose miestas siejamas ir su derybomis, seimu, Liublino unijos vertinimais bei platesniu Lietuvos valstybingumo klausimu.
 
 ## Teiginiai
 

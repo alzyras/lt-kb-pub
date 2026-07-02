@@ -28,6 +28,11 @@ atnaujinta: ''
 amziai:
   - 'XII'
   - 'XVI'
+description: 'Livonija – nevienalytė valstybė, svarbi Lietuvos karų, prekybos ir politikos erdvė nuo Gedimino sutarties iki kovų su Švedija.'
+socialDescription: 'Livonija Lietuvos istorijoje siejama su lietuvių žygiais, Gedimino prekybine sutartimi, Ryga ir vėlesnėmis kovomis dėl šios teritorijos.'
+seo_atnaujinta: '2026-07-02T23:12:35.010835+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - kunigaikštis
   - ordinas
@@ -38,7 +43,7 @@ tags:
 
 ## Santrauka
 
-Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros jungtinės valstybės: 4 vyskupystės, ordinas ir Rygos miestas. Po ilgų derybų buvo sudaryta sutartis (1561 m.), kuria Livonija pasidavė Zigmantui Augustui, kaip didžiajam Lietuvos kunigaikščiui; nustatyti ryšį su Lenkija buvo palikta vėlesniam laikui.
+Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas ir Rygos miestas, kurio pradžia siejama su 1201 m. pastatyta Rygos pilimi. Lietuvos istorijoje Livonija iškyla kaip karinių žygių, prekybos ir diplomatijos kryptis: lietuviai rengė žygius į Livoniją, o Gediminas 1338 m. sudarė su ja prekybinę sutartį. Vėliau Livonija tapo ATR ir Švedijos kovų objektu; 1629 m. Altmarko paliaubomis Livonija anapus Dauguvos su Ryga buvo palikta švedams.
 
 ## Teiginiai
 <a id="claim-t-180202"></a>

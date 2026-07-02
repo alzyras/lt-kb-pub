@@ -14,6 +14,11 @@ datos:
   - '1466 m.'
 date_start: '1237'
 date_end: '1466'
+description: 'Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pilis, karo, aprūpinimo ir kronikos tradicijos vieta.'
+socialDescription: 'Elbingas šiame įraše atsiskleidžia kaip Ordino pilis ir miestas prie Gėlo vandens marių, susijęs su karais, pasalomis, kronikos nuorašais ir Elbingo kapitula.'
+seo_atnaujinta: '2026-07-02T23:12:35.232352+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų: jis minimas kaip 1237 m. prie Gėlo vandens marių įkurta pilis, karo ir aprūpinimo mazgas, puolimo taikinys ir vieta, kur 1303 m. didysis magistras Gotfridas atsisakė pareigų.
+Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pilis, vėliau susijusi su aplink išaugusiu miestu. Įraše jis iškyla kaip karo ir aprūpinimo mazgas: čia minimi laivai, Elbingo broliai, Sventopelko puolimas ir 1273 m. pagudėnų pasala netoli miesto. Elbingas taip pat siejamas su Dusburgiečio kronikos tradicija ir 1303 m. didžiojo magistro Gotfrido atsistatydinimu Elbingo kapituloje.
 
 ## Teiginiai
 

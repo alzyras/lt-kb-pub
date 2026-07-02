@@ -8,6 +8,11 @@ datos:
   - '1274 m.'
 date_start: '1273'
 date_end: '1274'
+description: 'Nadruviai – Nadruvoje gyvenę vakariniai baltai, priskiriami prie prūsų, XIII a. minimi kovose su Ordinu, Semba ir Barta.'
+socialDescription: 'Nadruviai – Nadruvos vakarinių baltų grupė, XIII a. šaltiniuose minima kartu su skalviais ir sūduviais kovų su Ordinu aplinkoje.'
+seo_atnaujinta: '2026-07-02T23:12:35.425087+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai ir kt.
+Nadruviai buvo Nadruvoje gyvenusi vakarinių baltų grupė, kalbos požiūriu priskiriama prie prūsų. XIII a. šaltiniuose Nadruva siejama su teritorija į rytus ir pietryčius nuo Sembos, o XIII a. viduryje ji, atrodo, priklausė Mindaugo Lietuvai. 1273–1274 m. nadruviai kartu su skalviais ir sūduviais dalyvavo karo žygiuose prieš Sembą ir Bysleidos pilį, vėliau Nadruvą siaubė Ordino kariuomenė.
 
 ## Teiginiai
 

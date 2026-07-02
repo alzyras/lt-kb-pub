@@ -14,6 +14,11 @@ datos:
   - '1991 m.'
 date_start: '1909'
 date_end: '1991'
+description: 'Lietuvos Persitvarkymo Sąjūdis – 1988 m. Vilniuje pradėtas tautinis judėjimas, telkęs visuomenę nepriklausomybės atkūrimui.'
+socialDescription: '1988 m. Vilniuje įkurtas Lietuvos Persitvarkymo Sąjūdis telkė plačius visuomenės sluoksnius ir tapo svarbia nepriklausomybės atkūrimo jėga.'
+seo_atnaujinta: '2026-07-02T23:12:35.187474+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -23,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos Persitvarkymo Sąjūdis buvo tautinis politinis judėjimas, 1988 m. birželio 3 d. pradėtas LPS iniciatyvinės grupės įsteigimu Vilniuje. Jis sutelkė plačius Lietuvos visuomenės sluoksnius, plėtėsi per iniciatyvines grupes, mitingus ir spaudą, o 1988 m. spalio 22-23 d. surengė steigiamąjį suvažiavimą. 1989-1990 m. LPS tapo viena svarbiausių politinių jėgų, siekusių Lietuvos nepriklausomybės atkūrimo parlamentiniu būdu.
+Lietuvos Persitvarkymo Sąjūdis buvo tautinis politinis judėjimas, 1988 m. birželio 3 d. pradėtas LPS iniciatyvinės grupės įsteigimu Vilniuje. Jis telkė plačius Lietuvos visuomenės sluoksnius, kūrėsi per vietos iniciatyvines grupes, mitingus ir steigiamąjį suvažiavimą 1988 m. spalio 22–23 d. 1989–1990 m. Sąjūdis tapo viena svarbiausių politinių jėgų, siekusių Lietuvos nepriklausomybės atkūrimo parlamentiniu keliu.
 
 ## Pavadinimai šaltiniuose
 

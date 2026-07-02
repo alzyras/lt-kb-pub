@@ -14,6 +14,11 @@ datos:
   - '1989 m.'
 date_start: '1323'
 date_end: '1989'
+description: 'Ryga – svarbus Lietuvos prekybos ir diplomatijos taškas, minimas nuo Gedimino laikų iki 1989 m. Baltijos kelio.'
+socialDescription: 'Ryga Lietuvos istorijoje siejama su prekyba Dauguvos keliu, 1323 m. taikos sutartimi, 1621 m. prekybos pokyčiais ir Baltijos keliu.'
+seo_atnaujinta: '2026-07-02T23:12:35.476175+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu. Ryga: tė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu. Ryga: pas ir miestiečiai buvo priversti padaryti taiką su ordinu ir nu- traukti sąjungą su Vyteniu.
+Ryga Lietuvos istorijoje minima kaip svarbus prekybos centras prie Dauguvos kelio, ypač XIII–XIV a. ryšiuose su Lietuvos valstybe. 1323 m. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu ir Ryga. 1621 m. Rygai atitekus švedams, Lietuvos laisvoji prekyba Dauguvos keliu per Rygą nutrūko. 1989 m. Ryga tapo Baltijos kelio grandinės Vilnius–Ryga–Talinas dalimi.
 
 ## Teiginiai
 

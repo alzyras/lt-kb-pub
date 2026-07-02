@@ -30,6 +30,11 @@ atnaujinta: ''
 amziai:
   - 'XII'
   - 'XVI'
+description: 'Polockas – LDK istorijoje svarbi Dauguvos prekybos ir politinių kovų vieta, siejama su Mindaugu, Algirdu, Skirgaila ir Švitrigaila.'
+socialDescription: 'Polockas siejamas su Dauguvos prekyba, LDK rytinėmis žemėmis ir valdovų kovomis nuo Mindaugo iki Švitrigailos laikų.'
+seo_atnaujinta: '2026-07-02T23:12:35.041238+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - karalius
   - kraštas
@@ -40,7 +45,7 @@ tags:
 
 ## Santrauka
 
-Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis artino į aisčių kraštą. Todėl prie Dauguvos iškilo didelis prekybos centras Polockas, o prie Nemuno — Kaunas. Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos.
+Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Dauguvos prekybos kelio, siejusi LDK sritis su Vitebsku ir Ryga. Šaltiniuose jis minimas Mindaugo, Algirdo, Skirgailos ir Švitrigailos veiklos kontekste. Polockas taip pat buvo karinių ir politinių įtampų erdvė: čia veikė Andrius Polockietis, o Švitrigaila kūrė atramos vietą pilietiniam karui.
 
 ## Teiginiai
 <a id="claim-t-180424"></a>

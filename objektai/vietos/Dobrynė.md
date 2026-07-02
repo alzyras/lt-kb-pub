@@ -11,6 +11,11 @@ datos:
   - '1300 m.'
 date_start: '1224'
 date_end: '1300'
+description: 'Dobrynė – žemė ir pilis dešiniajame Vyslos krante, siejama su Dobrynės broliais, prūsų puolimais ir ginčais Lenkijoje.'
+socialDescription: 'Dobrynė Lietuvos istorijos šaltiniuose iškyla kaip Vyslos pakrantės žemė, susijusi su Dobrynės broliais, prūsų antpuoliais ir vėlesniais politiniais ginčais.'
+seo_atnaujinta: '2026-07-02T23:12:35.399042+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atiduos Žemaičius ir Dobrynę. Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža. Lenkijoj ėjo nuo seniau ginčas dėl Dobrynės žemės.
+Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko. XIII a. pradžioje Dobrynės pilis siejama su Dobrynės broliais ir prūsų puolimais, galėjusiais vykti 1224–1225 m. Vėliau Dobrynės žemė minima Lenkijos ginčuose, Vygunto valdose iki gyvos galvos ir Vytauto bei Jogailos taikos sąlygose Ordinui.
 
 ## Teiginiai
 

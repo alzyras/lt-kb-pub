@@ -12,6 +12,11 @@ datos:
   - '1966 m.'
 date_start: '1323'
 date_end: '1966'
+description: 'Gedimino laiškai liudija 1323 m. Vilnių, kvietimus Vakarų pirkliams ir autentiškumo ginčą dėl Rygos arkivyskupo vaidmens.'
+socialDescription: '1323 m. Gedimino laiškai atskleidžia Vilniaus kaip karališkojo miesto vaizdinį, kvietimus Vakarų pirkliams ir vėlesnį autentiškumo ginčą.'
+seo_atnaujinta: '2026-07-02T23:12:35.210556+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -22,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominikonams, Mažesniesiems broliams ir pajūrio miestams. Balińskio pasakojime jie yra svarbūs Vilniaus miesto ir Gedimino sostinės paliudijimui, bet kartu pateikiamas Foigto autentiškumo ginčas, laiškus siejęs su Rygos arkivyskupo klastote.
+Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominikonams, Mažesniesiems broliams, pajūrio miestams ir Vakarų šalims. Laiškuose Vilnius vadinamas karališkuoju miestu, kviečiami pirkliai bei amatininkai, o pats šaltinis laikomas reikšmingu Gedimino politikos atspindžiu. Balińskis juos siejo su Vilniaus kaip miesto ir Gedimino sostinės liudijimu, nors Foigtas ginčijo autentiškumą ir laiškus priskyrė Rygos arkivyskupui.
 
 ## Bibliografiniai duomenys
 

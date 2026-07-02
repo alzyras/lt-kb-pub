@@ -18,6 +18,11 @@ datos:
   - '2026 m.'
 date_start: '1044'
 date_end: '2026'
+description: 'Naugardukas – su Jaroslavu, Mindaugu, Vaišvilku ir Gediminu siejama LDK vieta, minima karuose, bažnyčių ir prekybos istorijoje.'
+socialDescription: 'Naugardukas Lietuvos istorijoje iškyla kaip ankstyvųjų žygių, Mindaugo ir Vaišvilko laikų, Gedimino religinės politikos bei LDK karų vieta.'
+seo_atnaujinta: '2026-07-02T23:12:35.137511+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,7 +38,7 @@ amziai:
 
 ## Santrauka
 
-38 psl.) lietuviškąsias Gardino, Naugarduko, Slanimo ir Volkovisko sritis. Gedimino laikais Vilniuje ir Naugarduke, o gal net ir kitur buvo katalikų bažnyčių. Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr.
+Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minimas 1044 m. Jaroslavo žygyje „na Litvu“ ir miesto įkūrimo pasakojime. XIII a. jis siejamas su Mindaugo valdžia ir Vaišvilku, o Gedimino laikais čia minimos bažnyčios bei Lietuvos stačiatikių arkivyskupija. Vėlesniuose įvykiuose Naugardukas pasirodo kaip puolimų, prekybos privilegijų ir LDK gynybos erdvės dalis.
 
 ## Teiginiai
 

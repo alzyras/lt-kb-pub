@@ -6,6 +6,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+description: 'Karolis Zikaras - Lietuvos karybos ir valstybingumo istorija besidomintis istorikas, leidinyje rengęs įvadus, tekstus ir blokus.'
+socialDescription: 'Karolis Zikaras šiame leidinyje minimas kaip istorikas, skyrių įvadų autorius, iliustracijų rinkėjas ir kelių tekstų bei informacinių blokų autorius.'
+seo_atnaujinta: '2026-07-02T23:12:35.356199+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,7 +22,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudarytojas, skyrių įvadų autorius ir kelių straipsnių bei informacinių blokų autorius. Autorių sąraše jis apibūdinamas kaip Lietuvos karybos istorija, jos didaktika ir valstybingumo istorija besidomintis istorikas.
+Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuvos įvairių laikotarpių karybos istorija, jos didaktika ir valstybingumo istorija. Jis nurodomas kaip skyrių įvadų autorius, iliustracijų bei istorijos šaltinių citatų rinkėjas. Leidinyje Karoliui Zikarui priskiriami keli tekstai ir informaciniai blokai, tarp jų „Leičiai - valdovo valios įgyvendintojai“, „Kryžiuočiai prieš Lietuvą XIV a.“ ir „Partizanų bunkeriai“.
 
 ## Darbai
 

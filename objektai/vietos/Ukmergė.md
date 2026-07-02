@@ -22,6 +22,11 @@ atnaujinta: ''
 amziai:
   - 'XII'
   - 'XXI'
+description: 'Ukmergė siejama su 1435 m. mūšiu, 1919 m. kovomis su bolševikais ir tarpukario lenkų švietimo institucijomis.'
+socialDescription: 'Ukmergė Lietuvos istorijoje minima nuo 1435 m. mūšio aplinkybių iki 1919 m. karinių veiksmų ir tarpukario švietimo.'
+seo_atnaujinta: '2026-07-02T23:12:35.218436+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - kunigaikštis
   - mūšis
@@ -32,7 +37,7 @@ tags:
 
 ## Santrauka
 
-Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Ukmergės mūšis (1435 m.).
+Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu prie kelio į Vilnių ir kovomis ties Pabaisku prie Šventosios. 1919 m. Ukmergės rinktinė veikė Ukmergės, Utenos ir Zarasų kryptimi, o gegužės 3 d. Panevėžio batalionas su saksų savanoriais išvadavo Ukmergę iš bolševikų. Tarpukariu Ukmergėje veikė Lietuvos vyriausybės finansiškai remta lenkų gimnazija.
 
 ## Teiginiai
 <a id="claim-t-180705"></a>

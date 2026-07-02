@@ -16,6 +16,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XVIII'
+description: '1569 m. Liublino unija sukūrė Abiejų Tautų Respubliką ir tapo skaudžiu, bet ilgalaikiu LDK ir Lenkijos kompromisu.'
+socialDescription: 'Liublino unija 1569 m. sujungė LDK ir Lenkiją į Abiejų Tautų Respubliką, bet jos kaina buvo spaudimas, teritorijų netektys ir kova dėl valstybingumo.'
+seo_atnaujinta: '2026-07-02T23:12:35.379903+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - bajorija
   - diplomatas
@@ -26,7 +31,7 @@ tags:
 
 ## Santrauka
 
-1569 Liublino unija. „Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką. Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos, kartu unijos.
+1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką. Ji kilo iš ilgalaikio Lietuvos ir Lenkijos suartėjimo, prasidėjusio 1386 m. Jogailos ir Jadvygos vedybomis. LDK atstovams tai buvo skaudus kompromisas: derybose patirtas spaudimas, teritorijų prijungimas prie Lenkijos ir grėsmė Lietuvos valstybingumui. Vis dėlto J. J. Chodkevičiaus pastangos dėl LDK antspaudų paliko galimybę išsaugoti Lietuvos valstybingumą.
 
 ## Laikotarpis ir datos
 

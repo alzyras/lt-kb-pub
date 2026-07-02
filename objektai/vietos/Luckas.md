@@ -19,6 +19,11 @@ datos:
   - '2026 m.'
 date_start: '1384'
 date_end: '2026'
+description: 'Luckas siejamas su Vytauto valdžia Volinijoje, Ostrovo taika, 1429 m. suvažiavimu, Magdeburgo teise ir Švitrigailos mirtimi.'
+socialDescription: 'Luckas Lietuvos istorijos šaltiniuose minimas kaip Vytauto valdžios, 1429 m. suvažiavimo ir Švitrigailos mirties vieta.'
+seo_atnaujinta: '2026-07-02T23:12:35.089877+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų suvažiavimo ir kunigaikštiško titulo vieta. Šiame šaltinyje Luckas taip pat siejamas su karaimų apgyvendinimu ir Lucko suvažiavimu 1429 m. 1434 m. Jurša gynė Lucko pilį nuo lenkų. 1504 m. į Lucko pilį artinosi platburniai.
+Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko ir Vladimiro pilys, Trakų ir Lucko kunigaikščio titulas bei Ostrovo taikos sprendimai. Miestas taip pat iškyla kaip 1429 m. Lucko suvažiavimo vieta, siejama su valdovų ir kunigaikščių politiniais svarstymais. Vėlesniuose įrašuose Luckas minimas dėl 1432 m. Magdeburgo teisės, prekybos privilegijų ir Švitrigailos mirties 1452 m.
 
 ## Pavadinimai šaltiniuose
 

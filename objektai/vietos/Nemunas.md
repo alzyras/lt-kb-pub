@@ -27,6 +27,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XXI'
+description: 'Nemunas siejamas su Lietuvos pilių tinklu, Žemaitijos sienomis, Ordino žygiais, Kauno pilies griūtimi ir 1413 m. kelione.'
+socialDescription: 'Nemunas Lietuvos istorijoje iškyla kaip pilių, sienų ginčų, kryžiuočių žygių ir Žemaitijos krikšto kelionių kryptis.'
+seo_atnaujinta: '2026-07-02T23:12:34.982124+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - vieta
 ---
@@ -34,7 +39,7 @@ tags:
 
 ## Santrauka
 
-Nemunas šiame šaltinyje aprašomas kaip svarbiausia Lietuvos vakarų gynybos, karo žygių ir prekybos ašis, pagal kurią ėjo pilys, sienų ginčai ir žemaičių kovos.
+Nemunas šioje žinių bazėje atsiskleidžia kaip erdvė, pagal kurią apibrėžiamos ankstyvosios Lietuvos žemės, Žemaitijos ribos ir Vakarų Lietuvos gynybinė linija. Prie jo minimos Veliuona, galimai Gedimino pilis, Rittersverderio statyba bei 1362 m. Prūsų kryžiuočių sugriauta Kauno pilis Nemuno ir Neries santakoje. Šaltiniai taip pat sieja Nemuną su Vytauto ir Jogailos 1413 m. kelione į Žemaitiją bei 1914 m. Gintarine deklaracija apie abiejų Lietuvų prie Nemuno sujungimą.
 
 ## Pavadinimai šaltiniuose
 

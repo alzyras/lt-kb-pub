@@ -15,6 +15,11 @@ datos:
   - '2026 m.'
 date_start: '1342'
 date_end: '2026'
+description: 'Krėva minima kaip Algirdo valdyta vieta, prekybos punktas ir 1382 m. Kęstučio bei Vytauto įkalinimo vieta.'
+socialDescription: 'Krėva Lietuvos istorijoje siejama su Algirdu, vokiečių pirkliais, Kęstučio žūtimi ir Vytauto įkalinimu po 1382 m. įvykių.'
+seo_atnaujinta: '2026-07-02T23:12:35.435992+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,7 +33,7 @@ amziai:
 
 ## Santrauka
 
-Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus išvežė į Krėvos pilį, o Vytautą paliko Vilniuje.
+Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Algirdo valdymu, prekybos keliais ir XIV a. politinėmis kovomis. 1382 m. į Krėvą buvo pervežtas ir pilies bokšte įkalintas Kęstutis, kuris ten netrukus buvo pasmaugtas. Po Kęstučio mirties į Krėvą buvo pervežtas ir įkalintas Vytautas, o vėlesniuose pasakojimuose vietovė minima ir totorių kariuomenės žygio kontekste.
 
 ## Teiginiai
 

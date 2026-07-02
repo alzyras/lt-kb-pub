@@ -17,6 +17,11 @@ aliases:
   - 'objektai/daiktai/Sieliai'
 variantai:
   - 'Sieliai'
+description: 'Laivai minimi kaip karo žygių, puolimų ir kelionių Nemunu priemonė nuo aisčių bei skandinavų laikų iki Vytenio ir Kęstučio žygių.'
+socialDescription: 'Laivai Lietuvos istorijos šaltiniuose pasirodo kaip karo, puolimų ir judėjimo Nemunu priemonė.'
+seo_atnaujinta: '2026-07-02T23:12:35.451472+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-Laivai šiame šaltinyje minimi kaip karo transporto ir puolimo priemonė. Kryžiuočiai plaukė su karo laivu ir kitais laivais, Vytenis atsakė pasiųsdamas 100 laivų, o rygiečiai bei Livonijos kariuomenė taip pat judėjo laivais.
+Laivai šaltiniuose siejami su karo žygiais, puolimais ir judėjimu Nemunu bei Baltijos pakrantėmis. 1313 m. kryžiuočiai Junigėdai pulti pasistatė karo laivą ir kitų laivų, o Vytenis atsakė pasiųsdamas Surminą su 100 laivų. 1382 m. Kęstutis laivais nuplaukė į Ordino sritį ties Jurbarku, o 1383 m. Ordino viršininkas laivu pasiekė Christmemelio salą.
 
 ## Pavadinimai šaltiniuose
 

@@ -11,6 +11,11 @@ datos:
   - '1541 m.'
 date_start: '1490'
 date_end: '1541'
+description: 'Rusėnai LDK formavosi atskirai nuo Maskvos rusų, kūrė rašto kalbą ir davė Lietuvai pirmąjį spaustuvininką Pranciškų Skoriną.'
+socialDescription: 'Kas buvo LDK rusėnai, kaip formavosi jų rašto kalba ir kodėl Pranciškus Skorina svarbus Lietuvos kultūrai?'
+seo_atnaujinta: '2026-07-02T23:12:35.452157+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos. Jose pamažu formavosi atskira nuo Maskvos rusų LDK slavų – rusėnų tauta, iš kurios vėliau ir atsiras šiuolaikinės baltarusių ir ukrainiečių tautos. Vienuolynuose rašoma bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.
+Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemėse atskirai nuo Maskvos rusų. LDK raštinėje formavosi rusėnų kalba, kuria buvo surašyti svarbūs raštijos paminklai, tarp jų Lietuvos Metrika, metraščiai ir Statutai. Iš rusėnų kultūrinės aplinkos kilo Pranciškus Skorina, 1522 m. Vilniuje įkūręs spaustuvę.
 
 ## Teiginiai
 

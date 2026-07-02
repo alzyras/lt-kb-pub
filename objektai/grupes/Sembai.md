@@ -19,6 +19,11 @@ datos:
   - '2026 m.'
 date_start: '1073'
 date_end: '2026'
+description: 'Sembai – vakarų baltų prūsų gentis Sembos žemėje, minima kovų su Teutonų ordinu, krikšto ir sembų-notangų kultūros kontekste.'
+socialDescription: 'Sembai buvo prūsų gentis Sembos žemėje, šaltiniuose minima dėl kovų su Teutonų ordinu, krikšto ir atskalūnybių.'
+seo_atnaujinta: '2026-07-02T23:12:35.116590+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +36,7 @@ amziai:
 
 ## Santrauka
 
-Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai ir kt. Iš XI-XII amž. danų šaltinių (Genealogia regum Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai protarpiais esą mokėję duoklę ir danams.
+Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-notangų kultūrine grupe. Šaltiniuose Semba apibūdinama kaip turtinga ir tankiai gyvenama žemė, galėjusi sutelkti dideles karines pajėgas. Kryžiuočių karo pasakojimuose sembai minimi kovose su Teutonų ordinu, pasidavimuose krikštui ir vėlesnėse atskalūnybėse, įskaitant Rinavos valsčiaus puolimą prieš Fišhauzeno pilį.
 
 ## Teiginiai
 

@@ -10,6 +10,11 @@ datos:
   - '2026 m.'
 date_start: '1390'
 date_end: '2026'
+description: 'Paneriai – vieta prie Vilniaus, minima 1390 m. Jogailos privilegijoje; siejama su Neries vardu ir Ypatinguoju SD būriu.'
+socialDescription: 'Paneriai siejami su 1390 m. Jogailos privilegija Vilniaus kapitulai, Neries vardo aiškinimu ir Ypatingojo SD būrio veikla.'
+seo_atnaujinta: '2026-07-02T23:12:35.484911+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD būrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann) „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vietoves ir ten šaudęs (jo pagrindą.
+Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoje dovanota Vilniaus kapitulai. Balińskis pavadinimą siejo su Neries vardu, žodžiu „Panerta“ ir įspūdžiu, kad tarp aukštų kalnų tekanti Neris atrodo panirusi. Šaltiniuose Paneriai taip pat minimi Sapiegų pajėgų žygio pro Vokę Valkininkų kryptimi ir Ypatingojo SD būrio veiklos kontekstuose.
 
 ## Teiginiai
 

@@ -14,6 +14,11 @@ datos:
   - '2026 m.'
 date_start: '1128'
 date_end: '2026'
+description: 'Vietininkas LDK buvo valdovo paskirtas pareigūnas: valdė dvarus, prižiūrėjo pilis, sprendė bylas ir stiprino centro valdžią.'
+socialDescription: 'Kas buvo vietininkas LDK? Tai valdovo atstovas, prižiūrėjęs dvarus, pilis ir teismus, o Vytauto laikais padėjęs telkti valdžią centre.'
+seo_atnaujinta: '2026-07-02T23:12:35.234234+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -24,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenorėjo gadinti santykių su Jogaila ir Lenkija. Tačiau Vytautas, paėmęs Lietuvą valdyti, kaip Jogailos vietininkas, labai greit pasidarė tikruoju Lietuvos valdovu ir net įgijo Lenkuose įtakos; pavyzdžiui, vieno ginčo su ordinu metu Lenkų ponai Jogailai su Vytautu pasakė: „Jūs abudu esate mūsų valdovai, ir. Tačiau jose esančias pilis valdė didžiojo kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos valstybės vieningumui.
+Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas pareigūnas, priklausomas nuo didžiojo kunigaikščio valdžios. Šaltiniuose vietininkai minimi kaip dvarų valdytojai, pilių prižiūrėtojai ir teisėjai, taip pat kaip valdovo atstovai svarbiose srityse. Vytauto laikais vietininkų skyrimas siejamas su sričių kunigaikštijų naikinimu ir valstybės centralizavimu.
 
 ## Pastabos
 

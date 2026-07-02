@@ -16,6 +16,11 @@ datos:
   - '2026 m.'
 date_start: '1236'
 date_end: '2026'
+description: 'Lietuvos kariuomenės raida nuo Gedimino laikų tarnybininkų iki LDK pergalių, 1939 m. mobilizacijos ir Liaudies kariuomenės.'
+socialDescription: 'Lietuvos kariuomenės istorija per tarnybą, bajorų šaukimą, LDK vadus, Salaspilio ir Kirchholmo pergales bei XX a. lūžius.'
+seo_atnaujinta: '2026-07-02T23:12:35.345653+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,7 +33,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, kaip Algirdo vedama kariuomenė prie Mėlynųjų Vandenų, kaip XV a. pabaigos - XVI a. pradžios kilmingųjų pašauktinė raitelių kariuomenė ir kaip aktyvi kovos jėga Klecko bei Kuoknesės kampanijose. Šiame šaltinyje ji apibūdinama ir per savo sandarą, ginkluotę, samdinių naudojimą, žygio tempą bei vadovavimą.
+Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavusių karo tarnybininkų iki LDK mūšių ir XX a. pertvarkų. Akcentuojami pilėnai, raiteliai, bajorų pašauktinė kariuomenė, Kristupo Radvilos Perkūno ir Jono Karolio Chodkevičiaus vadovavimas. Įrašas sieja kariuomenę su Mėlynųjų Vandenų, Salaspilio ir Kirchholmo mūšiais, Klaipėdos žygiu, 1939 m. mobilizacija ir virtimu Liaudies kariuomene.
 
 ## Teiginiai
 

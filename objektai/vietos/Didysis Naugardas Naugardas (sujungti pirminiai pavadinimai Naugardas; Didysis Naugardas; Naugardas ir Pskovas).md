@@ -10,6 +10,11 @@ datos:
   - '1500 m.'
 date_start: '1241'
 date_end: '1500'
+description: 'Didysis Naugardas minimas kaip Rusios prekybos centras, siejęs Vilnių su Pskovu, Maskva, Ryga ir Tvere.'
+socialDescription: 'Didysis Naugardas Lietuvos istorijoje iškyla per prekybos ryšius su Vilniumi, Pskovu, Ryga, Maskva ir Tvere bei Vytauto laikų konfliktus.'
+seo_atnaujinta: '2026-07-02T23:12:35.470709+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė D ## Puslapis 22 ĮVADAS Krokuva, Kališas ir Naugardas. Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi. Be to, Rusios miestai, būtent Pskovas ir Didysis Naugardas, atsidūrė kitokiose aplinkybėse.
+Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip senas Rusios miestas, kartu su Pskovu garsėjęs prekyba, mūrais ir savivalda. Su Naugardu siejami Vilniaus prekybiniai ryšiai Algirdo, Vytauto ir Aleksandro laikais, apėmę Pskovo, Rygos, Maskvos ir Tverės pirklius. Šaltiniai taip pat mini Vytauto žygius prieš Pskovą ir Naugardą bei Naugardo bojarinų sutartį su Švitrigaila dėl saugumo ir prekybos laisvės.
 
 ## Teiginiai
 

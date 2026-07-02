@@ -23,6 +23,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+description: 'Merkinė minima Jogailos krikšto kelionėse, 1413 m. Vytauto ir Jogailos kelyje Nemunu bei 1945 m. partizanų puolime.'
+socialDescription: 'Merkinė: nuo Jogailos krikšto kelionių ir kelio Nemunu į Kauną iki 1945 m. partizanų puolimo.'
+seo_atnaujinta: '2026-07-02T23:12:35.378536+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - sutartis
   - vieta
@@ -31,7 +36,7 @@ tags:
 
 ## Santrauka
 
-Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir kaip žygio Nemunu į Kauną pradžios taškas.
+Merkinė šioje žinių bazėje atsiskleidžia kaip svarbus Lietuvos istorijos taškas nuo Jogailos krikšto kelionių iki XX a. kovų. Prieš Vilniaus vyskupijos įkūrimą Jogaila čia mokė ir krikštijo vietinius bei apylinkių žmones, o 1413 m. Vytautas ir Jogaila iš Merkinės Nemunu keliavo į Kauną. 1503 m. dokumente Jonas iš Zabrežjės minimas kaip Merkinės laikytojas, o 1945 m. Merkinė tapo partizanų puolimo vieta.
 
 ## Teiginiai
 <a id="claim-t-180304"></a>

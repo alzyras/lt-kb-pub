@@ -22,6 +22,11 @@ atnaujinta: ''
 amziai:
   - 'XII'
   - 'XXI'
+description: 'Veliuona – Nemuno pakrantės pilis ir piliavietė, siejama su kryžiuočių puolimais, Vytautu ir 1418 m. Žemaitijos sienų derybomis.'
+socialDescription: 'Veliuona Lietuvos istorijoje iškyla kaip Nemuno gynybos punktas, susijęs su kryžiuočių puolimais, Vytauto pilimi ir Žemaitijos sienų klausimu.'
+seo_atnaujinta: '2026-07-02T23:12:35.204677+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - vieta
 ---
@@ -29,7 +34,7 @@ tags:
 
 ## Santrauka
 
-saugoti Dubysos upyną.
+Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsauga nuo kryžiuočių puldinėjimų. Šaltiniuose minima senoji piliavietė prie Nemuno, Vytauto pastatyta tvirta Veliuonos pilis ir 1360 m. kryžiuočių puolimai. Su Veliuona taip pat siejamos diskusijos dėl Gedimino žūties aiškinimo ir 1418 m. derybos dėl Žemaitijos sienų.
 
 ## Teiginiai
 <a id="claim-t-180736"></a>

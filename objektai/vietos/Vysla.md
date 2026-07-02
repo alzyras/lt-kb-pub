@@ -23,6 +23,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XXI'
+description: 'Vysla Lietuvos istorijos kontekste siejama su baltų žemėmis, Prūsijos užkariavimu, Ordino žygiais ir keliais link Nemuno.'
+socialDescription: 'Vysla šaltiniuose iškyla kaip riba ir kelias: nuo baltų genčių erdvės iki Kryžiuočių ordino veiksmų Prūsuose bei maršrutų link Nemuno.'
+seo_atnaujinta: '2026-07-02T23:12:35.178817+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - vieta
 ---
@@ -30,7 +35,7 @@ tags:
 
 ## Santrauka
 
-Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos).
+Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, kuri šaltiniuose nusakoma nuo Vyslos ir Dauguvos žemupių iki dabartinės Maskvos. 1231 m. Ordino magistras iš kairiojo Vyslos kranto persikėlė į Kulmo žemę, pastatė Torunės pilį ir pradėjo agresiją prieš prūsus. Vysla minima ir pasakojimuose apie žygius, laivybos kelius iš Marienburgo link Nemuno bei žemaičių pasiektas Prūsijos ribas.
 
 ## Teiginiai
 <a id="claim-t-181211"></a>

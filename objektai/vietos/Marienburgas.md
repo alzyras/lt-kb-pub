@@ -22,6 +22,11 @@ datos:
   - '2026 m.'
 date_start: '1272'
 date_end: '2026'
+description: 'Marienburgas – Vokiečių ordino centras prie Nogato, siejamas su pilies statyba, Santyro perkėlimu ir žygiais į Lietuvą.'
+socialDescription: 'Marienburgas – Ordino centras, iš kurio planuoti žygiai, telktos pajėgos ir vyko derybos, palikusios pėdsaką Lietuvos istorijoje.'
+seo_atnaujinta: '2026-07-02T23:12:35.282800+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -34,7 +39,7 @@ amziai:
 
 ## Santrauka
 
-rijenburgas.
+Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m. tapęs svarbia Ordino veiklos vieta. Šaltiniuose jis siejamas su pilimi Nogato dešiniajame krante: jos statyba datuojama 1272 ar 1274 m., Aukštutinė pilis pradėta 1275 m., o 1280 m. perkeltas Santyras pavadintas Marienburgu. Lietuvos istorijos kontekste Marienburgas iškyla kaip karinių žygių, diplomatinių kelionių ir Ordino sprendimų vieta.
 
 ## Teiginiai
 

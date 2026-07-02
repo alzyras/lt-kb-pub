@@ -21,6 +21,11 @@ datos:
   - '1550 m.'
 date_start: '1160'
 date_end: '1550'
+description: 'Krokuva minima kaip Lenkijos valdžios, derybų, prekybos, amatų ir studijų centras, susietas su Jogaila, Jadvyga, Vytautu ir Vilniumi.'
+socialDescription: 'Krokuva šiame kontekste sieja Jogailos, Jadvygos ir Vytauto politinius sprendimus su prekybos, amatų ir studijų ryšiais, dariusiais įtaką Lietuvai ir Vilniui.'
+seo_atnaujinta: '2026-07-02T23:12:35.034050+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -36,7 +41,7 @@ amziai:
 
 ## Santrauka
 
-Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pralaimėjimo vyko Vytautas, ir kaip vienas iš prekybos mazgų, susietų su Kijevu, Voluine ir Podole.
+Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios centras, susijęs su Jogailos, Jadvygos ir Vytauto veikla. Čia vyko derybos prieš Kriavo aktą, buvo karūnuojami valdovai, o po pralaimėjimo į miestą vyko Vytautas. Krokuva taip pat minima kaip prekybos, amatų ir studijų ryšių vieta, dariusi įtaką Vilniui ir Lietuvos europinei kultūrai.
 
 ## Teiginiai
 

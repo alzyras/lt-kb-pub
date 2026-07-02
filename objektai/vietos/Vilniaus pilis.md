@@ -10,6 +10,11 @@ datos:
   - '1581 m.'
 date_start: '1345'
 date_end: '1581'
+description: 'Vilniaus pilis siejama su valdovų buveine, 1345 m. Kęstučio puolimu, karalienės Elenos statybomis ir miesto gynyba.'
+socialDescription: 'Vilniaus pilis: valdovų buveinė, Kęstučio 1345 m. puolimas, karalienės Elenos statybos ir Žemutinės pilies istorija.'
+seo_atnaujinta: '2026-07-02T23:12:35.404177+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-- • - 19 ## Puslapis 36 VILNIAUS MIESTO ISTORIJA / TOMAS užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­ tinto, Vilnelės bei. Pagaliau nemažai įvairių tenykš­ čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­ globsčio prie Vilniaus pilies. Kęstutis iš Trakų, savo valdos sostinės, turėjęs geriausių galimybių stebėti visus brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­ riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­ nigaikščio buveinę.
+Vilniaus pilis minima kaip valdovų buveinė ir gynybinis centras Vilnelės ir Vilijos santakoje, kur prie pilies glaudėsi nuo kryžiuočių besisaugantys gyventojai. 1345 m. lapkričio 22 d. Kęstutis užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę. XVI a. pradžioje su pilimi siejami karalienės Elenos namai Maskvos bojarinams ir pasiuntiniams, Žemutinės pilies sienų taisymas bei karaliaus Aleksandro mirtis 1506 m. rugpjūčio 10 d. naktį.
 
 ## Teiginiai
 

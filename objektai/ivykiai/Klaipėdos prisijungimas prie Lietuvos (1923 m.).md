@@ -9,6 +9,11 @@ datos:
   - '1924 m.'
 date_start: '1922'
 date_end: '1924'
+description: '1923 m. Klaipėdos kraštas Lietuvos kontroliuotas per sukilimo scenarijų, o Ambasadorių konferencija perleido teises Lietuvai.'
+socialDescription: 'Kaip 1923 m. sukilimo scenarijus, VMLGK sprendimas ir Ambasadorių konferencijos nutarimas atvedė Klaipėdą į Lietuvos sudėtį.'
+seo_atnaujinta: '2026-07-02T23:12:35.446373+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags: []
@@ -19,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Klaipėdos prisijungimas vyko kaip Lietuvos suplanuota karinė ir politinė akcija: siekta faktinės kontrolės, organizuotas vietinio sukilimo scenarijus, o 1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.
+Klaipėdos prisijungimas prie Lietuvos 1923 m. buvo Lietuvos suplanuota karinė ir politinė akcija, Kauno pristatyta kaip vietinis sukilimas. Ernestas Galvanauskas siekė faktinės krašto kontrolės, nes nemanė, kad Klaipėda bus gauta per Tautų Sąjungą ar Ambasadorių konferenciją. 1923 m. sausio 17 d. VMLGK paskelbė sprendimą jungtis prie Lietuvos autonominėmis teisėmis, o vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.
 
 ## Laikotarpis ir datos
 

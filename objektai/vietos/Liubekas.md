@@ -14,6 +14,11 @@ datos:
   - '2026 m.'
 date_start: '1190'
 date_end: '2026'
+description: 'Liubekas siejamas su Gedimino laiškais, Hanzos miestų amatininkais Vilniuje ir Livonijos ordino pagalbos prašymu 1261 m.'
+socialDescription: 'Liubekas čia atsiskleidžia per Gedimino laiškus, Rygos tarėjų veiksmus ir Hanzos miestų ryšius su Vilniumi.'
+seo_atnaujinta: '2026-07-02T23:12:35.487172+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-1261 m. balandžio 27 d. Livonijos ordino vicemagistras maldavo pagalbos iš Liubeko miesto, skųsdamasis, jog ordinas turėjęs daug nuostolių arkliais, ginklais ir kitokiomis gėrybėmis^174.
+Liubekas Lietuvos istorijos šaltiniuose iškyla kaip Hanzos miestų ir Baltijos politinių ryšių taškas. 1261 m. Livonijos ordino vicemagistras iš Liubeko prašė pagalbos po nuostolių, o 1323 m. miesto rotušėje Rygos tarėjai įteikė dominikonams tariamus Gedimino laiškus. Gedimino laiške Liubekui ir kitiems miestams skelbta, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto civiline teise.
 
 ## Teiginiai
 

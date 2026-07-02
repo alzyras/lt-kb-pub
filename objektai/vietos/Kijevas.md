@@ -26,6 +26,11 @@ atnaujinta: ''
 amziai:
   - 'XII'
   - 'XVI'
+description: 'Kijevas LDK istorijoje: Gedimino, Algirdo ir Vytauto įtaka, prekyba Dniepru, bažnytinė reikšmė ir Liublino unijos padariniai.'
+socialDescription: 'Kijevas čia atsiskleidžia kaip svarbus LDK politinės įtakos, Vytauto veiksmų, prekybos, bažnytinių ryšių ir teritorinių lūžių taškas.'
+seo_atnaujinta: '2026-07-02T23:12:35.080627+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - karalius
   - unija
@@ -36,7 +41,7 @@ tags:
 
 ## Santrauka
 
-Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykstantiems kryžeiviams paruoštus stalus. Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos. Tiesa, totoriai dažnai nusiaubdavo Kijevo apylinkes, tačiau pačios Lietuvos niekas nepalietė.
+Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusios erdvėje: Gedimino ar Algirdo laikais miestas buvo Lietuvos priklausomybėje, o Algirdas ten pasodino savo sūnų Vladimirą. Vytauto laikais Kijevas minimas kaip strateginė vieta kariuomenei telkti, prekybai Dniepro kryptimi remti ir santykiams su Skirgaila spręsti. Vėliau Kijevo vardas iškyla bažnytinės organizacijos, totorių grėsmės ir Liublino unijos kontekstuose.
 
 ## Teiginiai
 <a id="claim-t-180000"></a>

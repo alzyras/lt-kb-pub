@@ -11,6 +11,11 @@ datos:
   - '1324 m.'
 date_start: '1277'
 date_end: '1324'
+description: 'Papilys – pilies prieigų ar gyvenvietės dalis, šaltiniuose minima prie Junigedos, Gardino ir Gedimino pilies puolimų.'
+socialDescription: 'Kas buvo papilys ir kodėl jis nuolat minimas Ordino bei Lietuvos pilių puolimų aprašymuose?'
+seo_atnaujinta: '2026-07-02T23:12:35.284293+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai jį užpuolė, visiškai sugriovė pamedėnų gyvenvietę bei pilį424 ir brolių papilį, vienus paimdami į nelaisvę, kitus išžudydami, išskyrus tuos, kurie suskubo pasprukti į brolių pilį. Dusburgietis teigia, kad bežglovas (Bierzglowo), gyvenvietė į šiaurės vakarus nuo Torunės; mūrinė (vėlesnė) kryžiuočių pilis su papiliu atstatyta po 1277 m. Dusburgietis teigia, kad paskui patraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu vienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado.
+Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirtinta gyvenvietės dalis, dažnai tapdavusi karo veiksmų taikiniu. Šaltiniai sieja papilius su Junigeda, Pieštve, Gardinu, Gedimino pilimi ir Bežglovu, kur jie buvo deginami, niokojami ar atstatomi. 1293 m., 1296 m. ir 1324 m. įvykiai rodo, kad papiliai turėjo karinę ir ūkinę reikšmę, juose buvo karių, gyventojų ar sukauptų grūdų.
 
 ## Teiginiai
 

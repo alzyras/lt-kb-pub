@@ -14,6 +14,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVI'
+description: 'Vilnia, arba Vilnelė, siejama su Vilniaus vardo kilme, ankstyvąja gyvenviete, Šventaragio slėniu ir miesto malūnais.'
+socialDescription: 'Vilnia, arba Vilnelė, atsiskleidžia kaip svarbi ankstyvojo Vilniaus topografijos ir miesto vardo kilmės dalis.'
+seo_atnaujinta: '2026-07-02T23:12:35.248600+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - karalius
   - kunigaikštis
@@ -24,7 +29,7 @@ tags:
 
 ## Santrauka
 
-Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­ sėjus ten būta medinių namų gyvenvietės4. 17 ## Puslapis 34 VILNIAUS MIESTO ISTORIJA I TOMAS Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse įkurdavo savo valdžios. Bet labai tikėtina, kad nuo seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­ kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų, supančių Vilnios srovę, būta medinės tvirtovės6.
+Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenviete ir miesto vardo kilme. Balińskis Vilniaus vardą kildino ne iš Vilijos, o iš Vilnios, todėl pirmykštę gyvenvietę lokalizavo prie šios upės. Šaltiniuose Vilnelė minima ir kaip svarbi miesto topografijos dalis: prie jos siejami Šventaragio slėnis, pilies aplinka, malūnai ir Markučiai.
 
 ## Teiginiai
 <a id="claim-t-174190"></a>

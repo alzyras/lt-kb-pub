@@ -16,6 +16,11 @@ datos:
   - '2026 m.'
 date_start: '1237'
 date_end: '2026'
+description: 'Černigovas Lietuvos istorijoje siejamas su Mindaugo žygiais, Vytauto kelione į Kijevą, Švitrigailos valdžia ir vyskupais.'
+socialDescription: 'Černigovas iškyla kaip Lietuvos rytinių ryšių vieta: nuo Mindaugo ir Vytauto politikos iki Švitrigailos valdžios bei prekybos privilegijų.'
+seo_atnaujinta: '2026-07-02T23:12:35.406244+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +36,7 @@ amziai:
 
 ## Santrauka
 
-Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos.
+Černigovas Lietuvos istorijos šaltiniuose minimas kaip rytinių žemių ir kunigaikštijų erdvė, susijusi su Mindaugo, Vytauto ir Švitrigailos politika. Apie 1255 m. Mindaugas užėmė žemių Černigovo ir Briansko kunigaikštijose, o 1411 m. pro Černigovą į Kijevą keliavusiam Vytautui pakluso vietos kunigaikščiai. Černigovas taip pat siejamas su stačiatikių vyskupų susirinkimais ir Vilniaus miestiečių prekybos privilegijomis.
 
 ## Teiginiai
 

@@ -23,6 +23,11 @@ aliases:
   - 'objektai/vietos/Klaipeda'
 variantai:
   - 'Klaipėda'
+description: 'Klaipėda – sena pajūrio vieta, kur 1252 m. Ordinas statė Memelio pilį, vėliau tapusi ginčų dėl Žemaitijos ir Lietuvos išėjimo į jūrą mazgu.'
+socialDescription: 'Klaipėdos istorija sieja Ordino pilį, Žemaitijos kovas, Lietuvos išėjimą į jūrą ir 1939 m. krašto perdavimą Vokietijai.'
+seo_atnaujinta: '2026-07-02T23:12:35.111695+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -35,7 +40,7 @@ amziai:
 
 ## Santrauka
 
-Klaipėda šiame šaltinyje minima kaip sena vietos sodyba, kurioje 1252 m. Ordinas pastatė pilį ir pavadino ją Memeliu, o vėliau miestas tapo svarbiu ginčų dėl Žemaitijos ir pajūrio punktu.
+Klaipėda minima kaip sena pajūrio sodyba, kurioje 1252 m. Livonijos ordinas pradėjo statyti pilį ir pavadino ją Memeliu. 1253–1254 m. pastatyta Klaipėdos pilis tapo strategiškai svarbiu Ordino punktu, ribojusiu Lietuvos išėjimą į jūrą ir susijusiu su kovomis dėl Žemaitijos. Vėlesniais laikais Klaipėda išliko svarbi Lietuvos politinių ir ekonominių ginčų vieta, o 1939 m. kovo 23 d. buvo perduota Vokietijai.
 
 ## Pavadinimai šaltiniuose
 

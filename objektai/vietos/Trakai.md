@@ -20,6 +20,11 @@ datos:
   - '1586 m.'
 date_start: '1000'
 date_end: '1586'
+description: 'Trakai aprašomi kaip svarbus Lietuvos valdžios ir karo centras, siejamas su Gediminu, Kęstučiu, Vytautu ir Trakų pilimi.'
+socialDescription: 'Trakai Lietuvos istorijos šaltiniuose minimi kaip valdovų, pilių, derybų ir karinių susidūrimų vieta nuo Gedimino iki Vytauto laikų.'
+seo_atnaujinta: '2026-07-02T23:12:34.970095+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,7 +38,7 @@ amziai:
 
 ## Santrauka
 
-Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio valdų vieta ir viena iš tankiau apgyventų bei valdovo būstinei artimų žemių.
+Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo veiksmų vieta. Čia siejami Gediminas, Kęstutis, Vytautas, Jogaila, Skirgaila ir Žygimantas Kęstutaitis, o Trakų pilis minima apgulčių, pasidavimų ir valdžios kaitos kontekstuose. Šaltiniai taip pat pabrėžia Trakų ir Vilniaus žemių artumą didžiojo kunigaikščio būstinei bei jų didesnį apgyvendinimą.
 
 ## Teiginiai
 

@@ -11,6 +11,11 @@ datos:
   - '1950 m.'
 date_start: '1936'
 date_end: '1950'
+description: 'SSRS vaidmuo Lietuvos okupacijoje: 1939 m. įtakos sfera, 1940 m. ultimatumas, sovietinis valdymo modelis ir priklausoma pramonė.'
+socialDescription: 'Kaip SSRS įtakos sfera, ultimatumas ir sovietinis valdymo modelis keitė Lietuvos valstybę, aukštąjį mokslą ir pramonę.'
+seo_atnaujinta: '2026-07-02T23:12:35.364879+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą. Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė. Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
+SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, po kurio Lietuvos teritorija pateko į SSRS įtakos sferą. 1940 m. Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad SSRS kariuomenė vis tiek įžygiuos į Lietuvą, o pavertus Lietuvą SSRS dalimi valdymas pertvarkytas pagal Sovietų Sąjungos modelį. Sovietinė sistema palietė represijas, aukštąjį mokslą ir pramonę, kuri tapo priklausoma nuo kitų SSRS regionų.
 
 ## Teiginiai
 

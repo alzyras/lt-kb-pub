@@ -15,6 +15,11 @@ datos:
   - '2026 m.'
 date_start: '1505'
 date_end: '2026'
+description: 'Sluckas siejamas su 1506 m. totorių žygiais, nepasidavimu maišto metu, protestantų mokykla ir jėzuitų kolegija.'
+socialDescription: 'Sluckas LDK istorijoje: totorių žygiai, maišto epizodai, protestantų mokykla ir jėzuitų kolegija.'
+seo_atnaujinta: '2026-07-02T23:12:35.312275+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,7 +35,7 @@ amziai:
 
 ## Santrauka
 
-Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny. Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė. Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
+Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žygiai Slucko ir Minsko apylinkėse. Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti. Mieste veikė protestantų mokykla, vėliau Slucke buvo įkurta ir jėzuitų kolegija.
 
 ## Teiginiai
 

@@ -15,6 +15,11 @@ sukurta: ''
 atnaujinta: ''
 amziai: []
 periodo_grupes: []
+description: 'Jonas Lasickis – traktato apie žemaičių ir kitų sarmatų dievus autorius, Narbuto naudotas ir Stanevičiaus kritikuotas šaltinis.'
+socialDescription: 'Jonas Lasickis pristatomas kaip žemaičių dievų traktato autorius, kurio mitologijos vertimu rėmėsi Narbutas, o kritiškai vertino Stanevičius.'
+seo_atnaujinta: '2026-07-02T23:12:35.419940+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - autorius
   - mokslininkas
@@ -23,7 +28,7 @@ tags:
 
 ## Santrauka
 
-Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodžiai esą padaryti dievų vardais^41.
+Jonas Lasickis parašė traktatą „Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus“. Narbutas naudojosi 1823 m. Vilniaus periodikoje išspausdintu lenkišku Lasickio mitologijos vertimu ir citavo jo žinias apie apeigas, šventes bei dievybes. S. Stanevičius Lasickio knygutę kritikavo kaip abejotinos vertės šaltinį, kuriame paprasti kalbos žodžiai esą paversti dievų vardais.
 
 ## Teiginiai
 <a id="claim-t-30684"></a>

@@ -17,6 +17,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XVI'
+description: 'Prūsai – vakarų baltų genčių grupė, čia aprašoma per kalbinę priklausomybę ir Narbuto liudijimus apie religiją bei vietovardžius.'
+socialDescription: 'Prūsai žinių bazėje siejami su vakarų baltų tarmių regionu, Narbuto aprašyta religija, šventaisiais medžiais ir prūsiškais vietovardžiais.'
+seo_atnaujinta: '2026-07-02T23:12:35.121655+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - grupe
   - tauta
@@ -25,7 +30,7 @@ tags:
 
 ## Santrauka
 
-Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmonių grupei, o teritorinė reikšmė atskirta į Prūsų žemė ir Prūsija.
+Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar genčių grupė. Žinių bazėje jie siejami su Narbuto pateiktais pasakojimais apie senovės prūsų religiją: Perkūno šauksmą, Atrimpą, Giltinę, Melitelę, Romovės ąžuolą ir šventuosius medžius. Objektas skirtas žmonių grupei, o teritorinės reikšmės atskiriamos į Prūsų žemę ir Prūsiją.
 
 ## Teiginiai
 <a id="claim-t-187788"></a>

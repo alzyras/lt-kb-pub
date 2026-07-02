@@ -23,6 +23,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XXI'
+description: 'Dubysa minima kaip Nemuno kelio į Žemaitiją tąsa, pilių ir gynybos orientyras bei 1382 m. Jogailos paliaubų su kryžiuočiais vieta.'
+socialDescription: 'Dubysa Lietuvos istorijos šaltiniuose siejama su Žemaitijos keliais, Nemuno pilių juosta, Vytauto veikla ir 1382 m. susitarimais su kryžiuočiais.'
+seo_atnaujinta: '2026-07-02T23:12:35.268550+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - ordinas
   - vieta
@@ -31,7 +36,7 @@ tags:
 
 ## Santrauka
 
-Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pilių juostos orientyras ir 1382 m. sutartyje apibrėžta riba.
+Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orientyras. Ji minima žygiuose į Žemaitiją, gynybos planuose, pilių juostoje prie Nemuno ir 1382 m. Jogailos paliaubose su kryžiuočiais Dubysos salelėje.
 
 ## Teiginiai
 <a id="claim-t-179804"></a>

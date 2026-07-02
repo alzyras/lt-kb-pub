@@ -17,6 +17,11 @@ datos:
   - '1966 m.'
 date_start: '1205'
 date_end: '1966'
+description: 'Sūduviai-jotvingiai XIII a. šaltiniuose vaizduojami kaip karinga vakarinių baltų grupė, veikusi su prūsais ir lietuviais.'
+socialDescription: 'Sūduviai-jotvingiai: Sūduvos krašto žmonės, Dusburgiečio pasakojimuose kovoję su Ordinu ir veikę drauge su prūsais bei lietuviais.'
+seo_atnaujinta: '2026-07-02T23:12:35.123260+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,7 +35,7 @@ amziai:
 
 ## Santrauka
 
-Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių baltų gentis, veikianti tiek savarankiškai, tiek drauge su lietuviais ir prūsais. Šiame šaltinyje Sūduvos vardas tiesiogiai siejamas su sūduvių, arba jotvingių, kraštu.
+Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų grupė, siejama su Sūduvos kraštu. Dusburgiečio pasakojimuose jie veikia savarankiškai ir kartu su prūsais bei lietuviais, puola Kulmo, Notangos, Sembos žemes ir dalyvauja Vėluvos pilies apgultyje. Šaltiniuose išsiskiria sūduvių vadas Skomantas, o Kazys Būga jotvingių kalbą siejo su prūsų kalbos tarme.
 
 ## Teiginiai
 

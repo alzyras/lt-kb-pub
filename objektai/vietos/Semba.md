@@ -18,6 +18,11 @@ datos:
   - '2026 m.'
 date_start: '1073'
 date_end: '2026'
+description: 'Semba pristatoma kaip Prūsijos žemė, minima Ordino, sembų, sūduvių ir lietuvių karo žygių bei Baigos pilies kontekste.'
+socialDescription: 'Semba - Prūsijos žemė, kurioje šaltiniai fiksuoja sembų, sūduvių, lietuvių ir Ordino susidūrimus nuo Baigos iki Gedimino pilies puolimo.'
+seo_atnaujinta: '2026-07-02T23:12:35.296935+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,7 +35,7 @@ amziai:
 
 ## Santrauka
 
-Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių marių ir Aistmarių, nuolat tapęs Ordino ir lietuvių karo veiksmų erdve. Dusburgiečio leidime ji apibrėžiama ir teritoriniu požiūriu, ir konkrečių žygių, pilių bei perkeltų gyventojų kontekste.
+Semba šiame įraše iškyla kaip Prūsijos žemė, susijusi su Ordino, sembų, sūduvių ir lietuvių karo veiksmais. Šaltiniai ją mini 1254 m. pavergimo žygyje, Baigos pilies epizode ir lietuvių įsiveržimuose į priešo teritoriją. Atskiri pasakojimai sieja Sembos ir Natangos žmones su 1324 m. Gedimino pilies papilio puolimu bei Vėluvos apylinkių niokojimu.
 
 ## Teiginiai
 

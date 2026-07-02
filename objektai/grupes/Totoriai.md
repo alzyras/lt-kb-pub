@@ -22,6 +22,11 @@ datos:
   - '2026 m.'
 date_start: '1202'
 date_end: '2026'
+description: 'Totoriai LDK istorijoje siejami su Vytauto kovomis, Kijevo ir Podolės puldinėjimais, įkurdinimu Lietuvoje ir Klecko mūšio aplinka.'
+socialDescription: 'Totoriai čia atsiskleidžia kaip LDK kaimynai, priešininkai ir naujakuriai: nuo Vytauto kovų bei 1414–1416 m. antpuolių iki įkurdinimo Lietuvoje ir Klecko epizodų.'
+seo_atnaujinta: '2026-07-02T23:12:35.026645+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -36,7 +41,7 @@ amziai:
 
 ## Santrauka
 
-Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko. Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią.
+Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jėga, valdžiusi daugelį rusų žemių, bet Vytauto laikais išgyvenusi krizę ir vidaus kovas. Algirdas, pasinaudojęs chanų vaidais, atėmė iš jų Kijevą ir Podoliją, o Vytautas, plėsdamas valdžią į rusų kraštus, susidūrė su klausimu, kas valdys Rusijos žemes. Šaltiniuose taip pat minimas totorių įkurdinimas Lietuvoje, jų pasiuntiniai Vilniuje, 1414–1416 m. Kijevo ir Lucko puldinėjimai bei totorių kariuomenė prie Klecko apie 1506 m. liepos 20–22 d.
 
 ## Teiginiai
 

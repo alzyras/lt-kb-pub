@@ -20,6 +20,11 @@ datos:
   - '2026 m.'
 date_start: '1180'
 date_end: '2026'
+description: 'Kalavijuočių ordinas – 1202–1203 m. Livonijoje įkurtas karinis ordinas, kovojęs su baltais ir vėliau prijungtas prie Kryžiuočių ordino.'
+socialDescription: 'Kalavijuočių ordinas veikė Padauguvyje, kovojo su baltais ir po Saulės mūšio buvo prijungtas prie Kryžiuočių ordino.'
+seo_atnaujinta: '2026-07-02T23:12:35.161862+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,7 +38,7 @@ amziai:
 
 ## Santrauka
 
-Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino vardas ir paprastasis pavadinimas pagal raudoną kalaviją. Šiame šaltinyje ordinas papildomai siejamas su stiprėjimu prie Dauguvos, steigimu pagal templininkų statutą ir nuolatiniu prieauglių didinimu iš Vokietijos kryžininkų.
+Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įkurtas Kristaus karių ordinas Livonijoje. Jis veikė Padauguvyje, siekė nukariauti ir jėga pakrikštyti pagonis baltus, o jo nariai ant balto apsiausto nešiojo raudoną kryžių ir kalaviją. Po pralaimėjimo Saulės mūšyje kalavijuočių likučiai buvo prijungti prie Kryžiuočių ordino, nors Livonijos ordinas išlaikė atskirus valdžios organus.
 
 ## Teiginiai
 

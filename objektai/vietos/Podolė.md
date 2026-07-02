@@ -23,6 +23,11 @@ datos:
   - '2026 m.'
 date_start: '1320'
 date_end: '2026'
+description: 'Podolė – istorinė teritorija, dėl kurios XIV–XV a. varžėsi Lietuvos ir Lenkijos valdžia, minima Algirdo, Vytauto ir Švitrigailos laikais.'
+socialDescription: 'Podolė Lietuvos istorijoje siejama su Algirdo pergale, Vytauto valdžia ir Lietuvos bei Lenkijos ginčais dėl šios teritorijos.'
+seo_atnaujinta: '2026-07-02T23:12:35.071984+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -33,7 +38,7 @@ amziai:
 
 ## Santrauka
 
-Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladimiras, o iš Karijoto sūnaus, Teodoro, — Podolė. Iš visų čia suminėtų sričių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji iš seno buvo glaudžiai susijusi su Lenkija. Ir tikrai, tuojau kilo su ja konfliktas dėl Podolės žemių. Šiame pasakojime Podolija pateikiama kaip kraštas, kur anksčiau buvo jūra. Podolė šiame fragmente veikia kaip istorinė teritorija.
+Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susijusi su Algirdo, Vytauto ir Švitrigailos politika. Po 1362 m. Mėlynųjų Vandenų pergalės ji siejama su Algirdo laimėjimais, o Vytauto laikais – su vietininkų valdžia ir pilimis. XV a. Podolė tapo Lietuvos ir Lenkijos ginčų objektu, ypač dėl Kameneco ir kitų pilių.
 
 ## Pavadinimai šaltiniuose
 

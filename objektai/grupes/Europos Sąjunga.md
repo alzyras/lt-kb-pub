@@ -11,6 +11,11 @@ datos:
   - '2004 m.'
 date_start: '1990'
 date_end: '2004'
+description: 'Lietuvos kelias į Europos Sąjungą: nuo strateginio tikslo ir asociacijos sutarčių iki 2003 m. Atėnų sutarties ir 2004 m. narystės.'
+socialDescription: '2004 m. gegužės 1 d. Lietuva tapo Europos Sąjungos nare ir kartu su kitomis demokratinėmis valstybėmis įgijo teisę kurti žemyno ateitį.'
+seo_atnaujinta: '2026-07-02T23:12:35.423457+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui. Lietuvos aukštosios moky- 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 255 klos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų programose. 1991 m. rugsėjo 17 d. Lietuva priimta į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuotas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą.
+Integracija į Europos Sąjungą buvo vienas svarbiausių atsikūrusios Lietuvos užsienio politikos tikslų. Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, o 2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į ES sutartį. 2004 m. gegužės 1 d. Lietuva įstojo į Europos Sąjungą, įgijo teisę dalyvauti sprendžiant žemyno ateitį ir Briuselyje reikšti savo poziciją.
 
 ## Teiginiai
 

@@ -30,6 +30,11 @@ atnaujinta: ''
 amziai:
   - 'XII'
   - 'XVI'
+description: 'Kryžiuočių ordinas Lietuvos istorijoje: prūsų pavergimas, kova dėl Žemaitijos, konfliktai su Gediminu, Jogaila ir Vytautu.'
+socialDescription: 'Kryžiuočių ordinas Lietuvos istorijoje siejamas su prūsų pavergimu, kliūtimis Lietuvos krikštui, kovomis dėl Žemaitijos ir Žalgirio mūšiu.'
+seo_atnaujinta: '2026-07-02T23:12:34.832651+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - grupe
   - ordinas
@@ -39,7 +44,7 @@ tags:
 
 ## Santrauka
 
-Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių ordinas susiejamas su Marijos Mergelės ordino vardu ir kryžiaus karų tradicija.
+Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus karų tradicija, Marijos Mergelės ordino vardu ir vokiečių valdovų parama. Šaltiniuose jis iškyla kaip Lietuvos krikšto ir Bažnyčios pripažinimo kliūtis, taip pat kaip jėga, su kuria konfliktavo Gediminas, Jogaila ir Vytautas. Ordino galybės lūžis siejamas su 1410 m. Žalgirio mūšiu ir Žemaitijos laisvės atkūrimu.
 
 ## Teiginiai
 <a id="claim-t-178788"></a>

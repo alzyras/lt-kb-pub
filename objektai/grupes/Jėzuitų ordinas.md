@@ -20,6 +20,11 @@ atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XXI'
+description: 'Jėzuitų ordinas Lietuvoje siejamas su Valerijonu Protasevičiumi, Vilniaus universitetu, spauda ir švietimo sistemos kaita.'
+socialDescription: '1569 m. į Vilnių pakviesti jėzuitai tapo reikšminga Lietuvos švietimo, spaudos ir Baroko epochos kultūros jėga.'
+seo_atnaujinta: '2026-07-02T23:12:35.145882+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - grupe
   - kunigas
@@ -30,7 +35,7 @@ tags:
 
 ## Santrauka
 
-Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kovai su plintančiu protestantizmu. Be to, vienas iš didžiausių jėzuitų nuopelnų buvo tas, kad jie pirmieji susirūpino liaudimi. Vilniaus vyskupas Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo ir rūpindamasis kovoti su protestantais, atsikvietė į Vilnių jėzuitų; jie čia įkūrė pirmą aukštesniąją mokyklą Lietuvoje, vadinamą kolegija (žiūr.
+Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir švietimo jėga. 1569 m. Valerijonas Protasevičius pakvietė jėzuitus į Vilnių, o 1579 m. jie įkūrė Vilniaus universitetą. Su jėzuitais siejama ir spaudos plėtra: 1575 m. Mikalojus Kristupas Radvila-Našlaitėlis perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui. 1773 m. Edukacinė komisija perėmė panaikinto ordino švietimo sistemą.
 
 ## Teiginiai
 <a id="claim-t-172107"></a>

@@ -16,6 +16,11 @@ datos:
   - '2026 m.'
 date_start: '1211'
 date_end: '2026'
+description: 'Vengrija Lietuvos istorijoje minima dėl ordino išvarymo, totorių antpuolių, Mohačo mūšio ir 1579 m. samdytų karių.'
+socialDescription: 'Vengrijos ryšiai su Lietuvos istorija: ordinas, totoriai, Jogailaičių Europa, Mohačo mūšis ir 1579 m. karo žygio rengimas.'
+seo_atnaujinta: '2026-07-02T23:12:35.374443+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +36,7 @@ amziai:
 
 ## Santrauka
 
-Į Vengriją ordinas buvo pakviestas kariauti su ją puolančiais pagonimis kumanais. Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),. Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai.
+Vengrija Lietuvos istorijos šaltiniuose minima kaip Vidurio Europos karalystė, patyrusi totorių antpuolius ir kovas su kitomis jėgomis. 1224 m. Vengrijos karalius išvijo ordiną, pamatęs jo siekį kurti savą valstybę. Vengrija taip pat siejama su Jogailaičių epocha, 1526 m. Mohačo katastrofa ir 1579 m. karių samdymu žygiui prieš caro kariuomenę.
 
 ## Teiginiai
 

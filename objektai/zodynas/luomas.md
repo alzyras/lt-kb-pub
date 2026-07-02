@@ -11,6 +11,11 @@ datos:
   - '2026 m.'
 date_start: '1387'
 date_end: '2026'
+description: 'Luomas Lietuvos istorijoje: nuo Vytauto laikų bajorijos savimonės iki miestiečių ir luomų savivaldos vietiniame valdyme.'
+socialDescription: 'Kas buvo luomas Lietuvos istorijoje? Sąvoka sieja bajoriją, miestiečius, žydus, valstybės sprendimus ir vietinio valdymo institucijas.'
+seo_atnaujinta: '2026-07-02T23:12:35.338837+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,9 +31,7 @@ amziai:
 
 ## Santrauka
 
-Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, dauguma jų – mažažemiai ir bežemiai bajorai, kalbėję daugiausia lenkų kalba ir puoselėję buvusio valstybingumo atminimą ir tradicijas. Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų, savivalda.
-
-Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestiečių socialinę padėtį: miestiečių luomas pristatomas kaip vėlai susiformavęs, silpnai įsitvirtinęs ir tik atskirais laikotarpiais įgijęs platesnes politines teises.
+Luomas žymi socialinę ir teisinę visuomenės grupę, kurios vaidmuo Lietuvos istorijos šaltiniuose siejamas su bajorija, miestiečiais ir žydais. Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu, o prekybos ir ūkinio gyvenimo kontekste minimi žydai ir miestelėnų luomas. Vėliau luomai veikė ir politinėje bei administracinėje kalboje: svarbūs valstybės sprendimai sieti su luomų pritarimu, o nuo Jekaterinos II laikų luomų savivaldos institucijos buvo įtrauktos…
 
 ## Teiginiai
 

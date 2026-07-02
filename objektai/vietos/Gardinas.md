@@ -29,6 +29,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XVI'
+description: 'Gardinas siejamas su Vytauto valdomis, Dovydiškių sutarties aplinka, katalikų fundacijomis ir vėlesniais Lietuvos sienų projektais.'
+socialDescription: 'Gardinas Lietuvos istorijoje iškyla kaip Vytauto valdų, religinių fundacijų ir vėlesnių Lietuvos teritorinių svarstymų vieta.'
+seo_atnaujinta: '2026-07-02T23:12:35.019523+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - karalius
   - kunigaikštis
@@ -39,7 +44,7 @@ tags:
 
 ## Santrauka
 
-Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo religinių fundacijų ir 1429 m. politinių derybų centras.
+Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Skirgailai jam galėjo likti Gardinas su Palenke. Miestas minimas ir religinių fundacijų kontekste, nes Vytautas Gardine rėmė dominikonus bei pranciškonus. Vėliau Gardinas pasirodo Lietuvos administracinių padalijimų ir teritorinių projektų istorijoje.
 
 ## Teiginiai
 <a id="claim-t-12484"></a>

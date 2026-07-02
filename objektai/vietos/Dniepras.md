@@ -14,6 +14,11 @@ datos:
   - '2026 m.'
 date_start: '1357'
 date_end: '2026'
+description: 'Dniepras siejamas su Algirdo ekspansija, Mėlynųjų Vandenų pergale, Podolija, Kijevu ir Lietuvos ryšiais su Juodąja jūra.'
+socialDescription: 'Dniepras Lietuvos istorijoje iškyla kaip Algirdo rytinės plėtros, Mėlynųjų Vandenų pergalės ir Vytauto laikų prekybos kelio į Juodąją jūrą ašis.'
+seo_atnaujinta: '2026-07-02T23:12:35.276924+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo rytinės ekspansijos ir Lietuvos valstybės plėtros į pietus bei rytus ašis. Šiame šaltinyje Dniepras siejamas ir su Dniepro kaire pakrante, ir su žemupiu, kurį Lietuva pasiekė po Mėlynųjų Vandenų mūšio.
+Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietus ir rytus nuo Algirdo laikų. Nuo 1357 m. Algirdas įsitvirtino Dniepro kairėje, o po 1362 m. Mėlynųjų Vandenų mūšio laimėjo Podoliją ir Dniepro žemupį. Vytauto laikais Dniepro baseinas jungė Lietuvos valstybę su Juodąja jūra ir buvo svarbus prekybos ryšiams per Kijevą.
 
 ## Teiginiai
 

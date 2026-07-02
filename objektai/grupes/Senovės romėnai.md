@@ -5,12 +5,17 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+description: 'Narbutas romėnus sieja su Lacijumi, antikinėmis religinėmis paslaptimis, Kabirais ir kronikų pasakojimais apie atvykimą į Lietuvą.'
+socialDescription: 'Senovės romėnai Narbuto pasakojime: Lacijus, Kabirai, religinės apeigos ir kronikų versijos apie ryšius su Lietuva.'
+seo_atnaujinta: '2026-07-02T23:12:35.426812+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 ---
 # Senovės romėnai
 
 ## Santrauka
 
-Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuriai buvo lemta tapti pasaulio valdymo pavyzdžiu. Narbutas rašo, kad romėnai Kabirus vadino Diipotentes, Dii socii arba Anactes, tai yra monarchais. Narbutas mano, kad religinių paslapčių požiūriu graikai ir romėnai pamėgdžiojo egiptiečius.
+Narbutas senovės romėnus vaizduoja kaip Lacijuje iškilusią tautą, kuriai buvo lemta tapti pasaulio valdymo pavyzdžiu. Jo pasakojime romėnai siejami su Kabirais, religinėmis paslaptimis, apeigomis ir antikinių tautų papročių paralelėmis. Atskirai minimos kronikų versijos apie romėnų ar į juos panašių žmonių atvykimą į Lietuvą.
 
 ## Teiginiai
 <a id="claim-t-189364"></a>

@@ -12,6 +12,11 @@ datos:
   - '1317 m.'
 date_start: '1216'
 date_end: '1317'
+description: 'Martyno iš Opavos kronika apie popiežius, imperatorius ir XIII a. įvykius: ordinų pradžią, stebuklus, nelaimes bei valdovų ginčus.'
+socialDescription: 'Šaltinis apie Martyno iš Opavos popiežių ir imperatorių istoriją, XIII a. įvykius, stebuklus, nelaimes ir valdovų konfliktus.'
+seo_atnaujinta: '2026-07-02T23:12:35.463948+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,7 +32,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje, po to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl „Polonus“), bet mirė ten nenuvykęs. Dusburgietis teigia, kad apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius Po to viešpatavo Inocentas III, popiežius, ir Otonas IV bei Fridrichas II, imperatoriai (Ptol. Dusburgietis teigia, kad apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).
+Martyno iš Opavos popiežių ir imperatorių istorija yra šaltinis apie Romos popiežius, imperatorius ir XIII a. įvykius. Joje minimi Inocentas III, Otonas IV, Fridrichas II, Honorijus III, Bonifacas, Prancūzijos karalius Pilypas, taip pat 1216 m. ir 1223 m. datuojami ordinai. Pasakojimuose aprašomi stebuklai, nelaimės ir politiniai konfliktai, įskaitant įvykius Briksijoje, Tolede, Burgundijoje ir prie Liono.
 
 ## Teiginiai
 

@@ -17,6 +17,11 @@ datos:
   - '2026 m.'
 date_start: '1198'
 date_end: '2026'
+description: 'Poznanė siejama su Didžiąja Lenkija, vokiečių miestų teisėmis nuo 1253 m., vyskupais ir 1925 m. istorikų suvažiavimu.'
+socialDescription: 'Poznanė Lietuvos istorijos kontekste minima kaip Didžiosios Lenkijos centras, 1253 m. priėmęs vokiečių miestų teises, ir su vyskupais bei istorikų suvažiavimu susijusi vieta.'
+seo_atnaujinta: '2026-07-02T23:12:35.440211+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,7 +35,7 @@ amziai:
 
 ## Santrauka
 
-Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
+Poznanė žinių bazėje siejama su Didžiąja Lenkija, viena iš dviejų Lenkijos provincijų. Šaltiniuose minima, kad 1253 m. miestas ėmė tvarkytis pagal vokiečių miestų teises. Poznanė taip pat pasirodo pasakojimuose apie Poznanės vyskupus, Godzislovą Baško ir 1925 m. Lenkijos istorikų suvažiavimą.
 
 ## Teiginiai
 

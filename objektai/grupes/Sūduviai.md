@@ -17,6 +17,11 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIII'
+description: 'Sūduviai XIII a. kovojo su kryžiuočiais, puolė Ordino pilis ir Kulmo žemę, o patys patyrė žygius į Kimenavą.'
+socialDescription: 'XIII a. sūduviai šaltiniuose iškyla kaip karinga gentis: puolė kryžiuočių pilis, siaubė Kulmo žemę ir veikė kartu su kaimynais.'
+seo_atnaujinta: '2026-07-02T23:12:35.224616+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - grupe
   - kunigaikštis
@@ -27,7 +32,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai sutriuškino kryžiuočius mūšio lauke. Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo (III, 192). Dusburgietis teigia, kad vieną sekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris ir vaikus išsivarė į nelaisvę.
+Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryžiuočiais. Jie veikė kartu su prūsais, lietuviais, nadruviais ir skalviais, puolė Vėluvą, Bysleidą, Bartenšteiną ir Kulmo žemę. Šaltiniuose taip pat aprašomi Ordino žygiai į Sūduvą, ypač Kimenavos valsčių, bei Skomanto vadovaujami sūduvių veiksmai.
 
 ## Teiginiai
 <a id="claim-t-89233"></a>

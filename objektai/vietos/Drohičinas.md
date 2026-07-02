@@ -14,6 +14,11 @@ datos:
   - '2026 m.'
 date_start: '1394'
 date_end: '2026'
+description: 'Drohičinas Lietuvos istorijoje minimas kaip Palenkės vieta, dėl kurios kovota, kurią valdovai jungė prie Lietuvos ir skyrė Vilniaus katedrai.'
+socialDescription: 'Drohičinas siejamas su Lietuvos plėtra Palenkėje, Vytenio prijungtomis žemėmis, kovomis su Mozūrų ir Mazovijos kunigaikščiais bei Vilniaus katedros valdomis.'
+seo_atnaujinta: '2026-07-02T23:12:35.412859+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,7 +32,7 @@ amziai:
 
 ## Santrauka
 
-Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną. Vladislovui 1444 m. žuvus, po trejų metų derybų, lenkai išsirinko tą patį Kazimierą ir savo karalium. O tų 7 metų būvyje Lietuva buvo net pradėjusi su Lenkijos lenininku, Mozūrų kunigaikščiu, karą dėl Drohičino, kurį šis po Zigmanto mirties buvo užėmęs.
+Drohičinas Lietuvos istorijos šaltiniuose minimas kaip svarbi Palenkės vieta, susijusi su Lietuvos plėtra ir kovomis dėl pasienio žemių. Vytenis prijungė Drohičiną ir Brastą prie Lietuvos, o vėliau dėl Drohičino kilo konfliktai su Mozūrų kunigaikščiu bei Mazovijos valdovais. Miestas taip pat siejamas su Vytauto išvykimu į Drohičiną, Švitrigailos ir kryžiuočių antpuoliu bei Vilniaus katedrai skirtomis valdomis Drohičino paviete.
 
 ## Teiginiai
 

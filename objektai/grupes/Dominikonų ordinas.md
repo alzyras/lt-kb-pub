@@ -10,6 +10,11 @@ datos:
   - '1536 m.'
 date_start: '1254'
 date_end: '1536'
+description: 'Dominikonų ordinas Lietuvos šaltiniuose siejamas su vyskupu Vitu, Gedimino laiškais ir Vilniaus Šv. Dvasios vienuolyno istorija.'
+socialDescription: 'Dominikonų ordino pėdsakai Lietuvoje: nuo vyskupo Vito ir Gedimino laiškų iki Šv. Dvasios vienuolyno Vilniuje.'
+seo_atnaujinta: '2026-07-02T23:12:35.322728+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominikonams, prie Vilniaus pilies pastatydino jiems vienuolynus ir bažnyčias, o kad krašte plistų amatai, leido naujai įkurtame mieste apsigyventi gausiems atėjū­ nams iš Vokietijos ir. Il Gedimino laiškuose, rašytuose do­ minikonų ir Mažesniųjų brolių, ar­ ba pranciškonų, ordinams bei Han­ zos miestams, kurių autentiškas 1323 metais notaro parengtas doku­ mentas yra Karaliaučiaus Slaptaja- - • - 20 ## Puslapis 37 I KNYGA gumą nuo Rusios ir. Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA 1) Gediminas, dievo malone lietuvių ir rusų karalius, Žemgalijos valdovas ir kunigaikštis, mokytiems ir pamal­ diems vyrams, bet kurios dominikonų provincijos magist­ rams ir.
+Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo Vito, dominikono, dalyvavimo Šv. Stanislovo kanonizavimo paskelbime 1254 m. Gedimino laiškuose dominikonai siejami su krikščionių apeigų laisve ir pažadu skirti jiems bažnyčią, nors Michałas Balińskis šiuos laiškus laikė Rygos arkivyskupo klastote. Vilniuje ordino padėtis sustiprėjo 1501 m., kai Aleksandras pakvietė dominikonus, perdavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui.
 
 ## Teiginiai
 

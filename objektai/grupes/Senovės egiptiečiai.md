@@ -11,12 +11,17 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XX'
+description: 'Senovės egiptiečiai Narbuto pasakojime siejami su religinėmis paslaptimis, dangaus kūnų, žalčių, ugnies ir šventyklų kultais.'
+socialDescription: 'Narbuto tekstuose senovės egiptiečiai iškyla kaip antikinė tauta, siejama su religinių paslapčių, šventyklų, aukurų ir dievų kultais.'
+seo_atnaujinta: '2026-07-02T23:12:35.463398+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 ---
 # Senovės egiptiečiai
 
 ## Santrauka
 
-Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniais Europos pakraščiais, rado kitokių polinkių žmones. Narbutas teigė, kad egiptiečiai prie iš chaldėjų perimto dangaus kūnų garbinimo pridėjo nemirtingais laikytų asmenų dievinimą. Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su į pragarą pagrobtos deivės dukterimi.
+Senovės egiptiečiai Narbuto pasakojime minimi kaip viena svarbių antikinių tautų, siejama su dangaus kūnų garbinimu, asmenų dievinimu ir religinėmis paslaptimis. Jis rašė, kad apie 2000 m. pr. Kr. egiptiečiai bendravo su pietiniais Europos pakraščiais. Egiptiečiai taip pat aptariami greta finikiečių, graikų, romėnų ir kitų tautų kalbant apie šventyklas, aukurus, žalčių bei ugnies garbinimą.
 
 ## Teiginiai
 <a id="claim-t-189415"></a>

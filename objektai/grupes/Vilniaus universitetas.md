@@ -23,12 +23,17 @@ atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XIX'
+description: 'Vilniaus universitetas – viena seniausių Vidurio Europos aukštųjų mokyklų, iki 1832 m. buvusi Lietuvos mokslo ir kultūros centru.'
+socialDescription: 'Vilniaus universitetas – nuo jėzuitų akademijos iki svarbiausio Lietuvos mokslo ir kultūros centro, veikusio iki uždarymo po 1830–1831 m. sukilimo.'
+seo_atnaujinta: '2026-07-02T23:12:35.307512+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 ---
 # Vilniaus universitetas
 
 ## Santrauka
 
-Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu patvirtinta akademija ir universitetas. Iki 1832 m. uždarymo jis buvo pagrindinė Lietuvos mokykla, svarbus kultūros centras ir Rusijos imperijos laikotarpiu Vilniaus švietimo apygardos centras.
+Vilniaus universitetas išaugo iš Vilniaus jėzuitų akademijos ir universiteto, o šaltinyje pristatomas kaip vienas seniausių Vidurio Europos universitetų. Iki uždarymo 1832 m. jis buvo pagrindinė Lietuvos mokykla, svarbiausias kultūros centras ir istorinės Lietuvos žemių visuomeninio gyvenimo centras. XIX a. pradžioje universitetas tapo Vilniaus švietimo apygardos centru, o jo aplinkoje būrėsi lietuvių ir žemaičių kalba aukštąją kultūrą plėtoti siekę inteligentai.
 
 ## Pavadinimai šaltiniuose
 

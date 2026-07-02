@@ -13,6 +13,11 @@ datos:
   - '1864 m.'
 date_start: '1788'
 date_end: '1864'
+description: 'Bajorai buvo privilegijuotas Lietuvos luomas, turėjęs politines teises, savivaldą ir svarbų vaidmenį valstybės atkūrimo bandymuose.'
+socialDescription: 'Kas buvo Lietuvos bajorai: politinės teisės, luominė savivalda, dvilypis lietuvių ir lenkų tapatumas bei sukilimų epocha.'
+seo_atnaujinta: '2026-07-02T23:12:35.414967+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,7 +33,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau politinėmis teisėmis naudojosi tik bajorų luomas (bet net XIX a. Prieš tai Seimas ėmėsi labai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą.
+Bajorai buvo vienintelis privilegijuotas Lietuvos visuomenės luomas, turėjęs politines teises ir siuntęs atstovus į Seimą. Lenkijoje ir Lietuvoje jie sudarė apie 6,5 proc. gyventojų, tačiau tik ketvirtadalis buvo dvarininkai, o dauguma – mažažemiai ir bežemiai bajorai. Po valstybės praradimo bajorai gavo rusų bajorų teises, išlaikė dalį savivaldos, o radikalesnė jų dalis mėgino atkurti valstybingumą per 1830–1831 m. ir 1863–1864 m. sukilimus.
 
 ## Teiginiai
 

@@ -12,6 +12,11 @@ datos:
   - '1945 m.'
 date_start: '1918'
 date_end: '1945'
+description: 'Raudonoji armija Lietuvos istorijoje siejama su 1918 m. bolševikų veiksmais, 1939 m. įgulomis ir 1940 m. kariuomenės pertvarka.'
+socialDescription: 'Raudonoji armija Lietuvos istorijoje: nuo 1918 m. bolševikų planų ir Sovietų Lietuvos deklaravimo iki 1939–1940 m. įgulų bei kariuomenės pertvarkos.'
+seo_atnaujinta: '2026-07-02T23:12:35.445461+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliucijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių kariuomenę. Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą. Tik Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai „sukilimą“ atšaukė.
+Raudonoji armija Lietuvos istorijoje minima kaip jėga, kuria rėmėsi Rusijos bolševikų revoliucijos eksportas po 1918 m. Remdamiesi jos daliniais lietuvių bolševikai 1918 m. gruodžio 16 d. deklaravo Sovietų Lietuvą, o pralaimėjimas prie Varšuvos privertė atšaukti Lietuvoje rengtą sukilimą. 1939–1940 m. Raudonosios armijos buvimas Lietuvoje veikė politines nuostatas, kariuomenės pertvarką ir sovietinę Lietuvos istorijos interpretaciją.
 
 ## Teiginiai
 

@@ -11,6 +11,11 @@ datos:
   - '1305 m.'
 date_start: '1291'
 date_end: '1305'
+description: 'Aukaimio pilis minima 1291–1305 m. kovose su kryžiuočiais: jos apylinkės niokotos, o atstatyta pilis išduota ir sugriauta.'
+socialDescription: 'Aukaimio pilies istorija – kryžiuočių antpuoliai, sudeginti kaimai, belaisviai ir du išdavimai, pasibaigę pilies sugriovimu 1305 m.'
+seo_atnaujinta: '2026-07-02T23:12:35.468792+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24. Aukaimį vėl atstačius, už trejų metų įvyko naujas išdavimas.
+Aukaimio pilis minima 1291–1305 m. kryžiuočių žygių kontekste. Jos apylinkės buvo niokojamos deginant, plėšiant, žudant gyventojus ir imant belaisvius. Šaltiniuose išskiriami Draikos ir Svirtilos išdavimai, po kurių pilis ir papilys buvo sudeginti ar sugriauti iki pamatų.
 
 ## Teiginiai
 

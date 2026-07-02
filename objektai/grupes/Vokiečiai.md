@@ -19,6 +19,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XXI'
+description: 'Vokiečiai Lietuvos istorijoje: Rygos pirkliai, Prūsų mobilizacija, Vytauto tarnyba ir leidimas keltis į miestus.'
+socialDescription: 'Vokiečiai čia matomi kaip pirkliai, kariai, diplomatiniai partneriai ir Vytauto miestų bei tarnybos svetimšaliai.'
+seo_atnaujinta: '2026-07-02T23:12:35.271520+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - grupe
   - kraštas
@@ -28,7 +33,7 @@ tags:
 
 ## Santrauka
 
-Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, ir kaip prekybą bei pilis Baltijos pakrantėje valdanti jėga. Jiems šiame šaltinyje siejama Mindaugo 1253 m. prekybos privilegija, žemaičių spaudimas per jūros užrakinimą ir 1300 m. draudimai lietuviams, kalnėnams bei žemaičiams gyventi ir dirbti pilyse.
+Šioje žinių bazėje vokiečiai minimi kaip Lietuvos politinių, karinių ir ūkinių santykių dalyviai. Jie siejami su Rygos pirklių įtaka Jogailos kontrrevoliucijai, Prūsų krašto mobilizacija prieš lietuvių įsiveržimą ir atskiromis Naugardo taikos sutartimis. Vytauto laikais vokiečiai taip pat pasirodo kaip svetimšaliai jo tarnyboje ir miestų kolonizacijos dalis, vertinta dėl ūkinės naudos.
 
 ## Teiginiai
 <a id="claim-t-117306"></a>

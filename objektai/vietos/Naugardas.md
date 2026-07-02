@@ -24,6 +24,11 @@ atnaujinta: ''
 amziai:
   - 'X'
   - 'XV'
+description: 'Naugardas Lietuvos istorijoje siejamas su Vytauto žygiais, 1428 m. kontribucija ir Vilniaus prekybos ryšiais su Rytų miestais.'
+socialDescription: 'Naugardas atsiskleidžia per Vytauto karinius žygius, 1428 m. kontribuciją ir Vilniaus prekybos ryšius su Rusios miestais.'
+seo_atnaujinta: '2026-07-02T23:12:35.182188+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - karalius
   - kunigaikštis
@@ -34,7 +39,7 @@ tags:
 
 ## Santrauka
 
-Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes. Livonijos Ordinas padarė prieš Vytautą nukreiptą taiką su Pskovu (1417) ir Naugardu (1421), kas Bažnyčių unijai dar labiau pakenkė.
+Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Kunigaikštystės ryšiais su Rusios miestais. Vytauto laikais minimi žygiai į Pskovą ir Naugardą, o 1428 m. Naugardas ir Porchovas sumokėjo Vytautui 10 000 rublių kontribuciją. Šaltiniuose Naugardas taip pat pasirodo kaip svarbus Vilniaus prekybos partneris greta Pskovo, Maskvos, Rygos, Prūsijos ir Livonijos miestų.
 
 ## Teiginiai
 <a id="claim-t-94761"></a>

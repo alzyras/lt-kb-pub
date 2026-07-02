@@ -5,12 +5,17 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+description: 'Šaltinis apie J. Lasickio aprašytus žemaičių dievus, Narbuto pastabas apie Dugną, Raganas, Datoną, Varpelį ir kaukus.'
+socialDescription: 'J. Lasickio liudijimai apie žemaičių dievus Narbuto interpretacijoje: nuo Dugnės ir Raganų iki kaukų, Markopolių ir Ragutienės apeigų.'
+seo_atnaujinta: '2026-07-02T23:12:35.396043+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 ---
 # J. Lasickio veikalas apie žemaičių dievus
 
 ## Santrauka
 
-Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pats tai laikė nepanašu į tiesą. Narbutas nurodo, kad Lasickis ir liaudies padavimai Raganomis vadino deives, globojusias tam tikrus medžius. Narbutas nurodo, kad Lasickis Datoną aprašė tik kaip dievaitį, dalijusį žemes arba visokį turtą.
+J. Lasickio veikalas apie žemaičių dievus čia atsiskleidžia per Narbuto pateiktas pastabas apie Dugną, Raganas, Datoną, Varpelį, Markopolius ir kaukus. Šaltinis sieja Lasickio liudijimus su žemaičių dievybėmis, apeigų slėpimu nuo krikščionių ir alaus statinės pradėjimo apeigomis Ragutienės garbei.
 
 ## Teiginiai
 <a id="claim-t-190465"></a>

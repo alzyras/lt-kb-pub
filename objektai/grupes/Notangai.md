@@ -15,6 +15,11 @@ datos:
   - '1317 m.'
 date_start: '1246'
 date_end: '1317'
+description: 'Notangai – Notangos prie Aismarių gyventojai, XIII a. minimi Prūsijos sukilimuose, Kroicburgo apgultyje ir Ordino žygiuose.'
+socialDescription: 'Notangai – Notangos gyventojai, šaltiniuose minimi Ordino karuose, Prūsijos sukilimuose, Pokarvių puolime ir Kroicburgo apgultyje.'
+seo_atnaujinta: '2026-07-02T23:12:35.255437+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat kuršiai, estai ir kt.), iš.
+Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei Aismares nuo Elbingo. XIII a. jie minimi tarp Ordino pavaldžių prūsų žemių karių, 1260 m. Klaipėdoje telktų prieš Lietuvą. Šaltiniuose notangai siejami su sukilimais, Herkumi Mantu, Pokarvių puolimu ir Kroicburgo pilies apgultimi.
 
 ## Teiginiai
 

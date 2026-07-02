@@ -14,6 +14,11 @@ datos:
   - '2026 m.'
 date_start: '1421'
 date_end: '2026'
+description: 'Husitai kvietė Vytautą tapti jų karaliumi, naudojosi jo globa, o popiežius dėl Kaributo ir ryšių grasino Lietuvai kryžiaus žygiu.'
+socialDescription: '1421 m. husitai Varėnoje kvietė Vytautą tapti jų karaliumi. Jo globa ir Kaributo siuntimas į Čekiją sukėlė popiežiaus spaudimą Lietuvai.'
+seo_atnaujinta: '2026-07-02T23:12:35.417045+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,7 +32,7 @@ amziai:
 
 ## Santrauka
 
-Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karaliumi, šis davė aiškių vilčių. Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
+Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, sulaukė dėmesio Lenkijoje ir Lietuvoje, bet čia kilo ir opozicija jų mokymui. 1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą tapti jų karaliumi ir gavo iš jo vilčių. Vytautas kišosi į Čekijos reikalus, siuntė Zigmantą Kaributą ir oficialiai teigė siekiantis sutaikyti husitus su Roma, tačiau popiežius grasino Lietuvai kryžiaus žygiu.
 
 ## Teiginiai
 

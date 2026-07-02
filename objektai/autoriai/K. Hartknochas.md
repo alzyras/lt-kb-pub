@@ -15,6 +15,11 @@ sukurta: ''
 atnaujinta: ''
 amziai: []
 periodo_grupes: []
+description: 'Kristupas Hartknochas – pirmasis Dusburgiečio kronikos leidėjas, siejamas su 1679 m. Karaliaučiaus leidimu ir Narbuto šaltiniais.'
+socialDescription: 'Kristupas Hartknochas – Dusburgiečio kronikos leidėjas, kurio pastabomis Narbutas rėmėsi aiškindamas Lietuvos ir Prūsijos religinius vaizdinius.'
+seo_atnaujinta: '2026-07-02T23:12:35.209461+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - autorius
   - kunigaikštis
@@ -23,7 +28,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis teigia, kad 82 De Dusburg Petri [...] Chronłcon Prussiae / Auctore et collectore Christophoro Hartknoch. Dusburgietis teigia, kad hartknochas, pirmas D.
+Kristupas Hartknochas siejamas su pirmuoju Petro Dusburgiečio „Prūsijos kronikos“ leidimu, išleistu Karaliaučiuje 1679 m. Šaltiniuose jis minimas kaip Dusburgiečio kronikos leidėjas, autorius ir rinkėjas, taip pat pateikęs nuomonę apie rutėnų tapatinimą su Riugeno salos gyventojais. Narbutas remiasi Hartknochu kalbėdamas apie Žemininko ir prūsų Kurko tapatinimą, šventąsias ugnis, Romutą arba Ruombotą ir šventuosius miškus.
 
 ## Teiginiai
 <a id="claim-t-64673"></a>

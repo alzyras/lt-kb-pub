@@ -17,12 +17,17 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+description: 'M. Strijkovskio kronika sieja Vilniaus įkūrimą su Gediminu, Šventaragio slėniu ir geležinio vilko sapnu, bet turi klaidų.'
+socialDescription: 'Šaltinis apie M. Strijkovskio kronikos pasakojimus: Vilniaus įkūrimą, Gediminą, Lizdeiką, Kęstučio puolimą ir vėliau pastebėtas klaidas.'
+seo_atnaujinta: '2026-07-02T23:12:35.165795+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 ---
 # M. Strijkovskio kronika
 
 ## Santrauka
 
-Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XVI a. antrojoje pusėje) papildė, kad mūšyje vykstant atkakliai kovai, Gediminas su dalimi karių smogė rusams iš šono, jų rikiuotę pralaužė ir priešą sumušė, priešas buvo priverstas bėgti.
+M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajorijos knyga. Joje Vilniaus įkūrimas priskiriamas Gediminui ir siejamas su medžiokle Šventaragio slėnyje bei Lizdeikos aiškintu geležinio vilko sapnu. Kronikoje taip pat pasakojama apie Kęstučio gudrybes puolant Vilnių, tačiau minimos datavimo, tapatybių ir įvykių sutapatinimo klaidos.
 
 ## Bibliografiniai duomenys
 

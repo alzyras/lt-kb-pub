@@ -13,6 +13,11 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+description: 'Vilnia siejama su ankstyvąja Vilniaus gyvenviete, medine tvirtove prie upės ir 1469 m. bernardinų slėniu prie Karališkojo malūno.'
+socialDescription: 'Vilnia Lietuvos istorijos šaltiniuose iškyla kaip upė, prie kurios sieta pirmykštė Vilniaus gyvenvietė, medinė tvirtovė ir vėlesni miesto religiniai objektai.'
+seo_atnaujinta: '2026-07-02T23:12:35.369587+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - karalius
   - kunigaikštis
@@ -23,7 +28,7 @@ tags:
 
 ## Santrauka
 
-Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­ sėjus ten būta medinių namų gyvenvietės4. 17 ## Puslapis 34 VILNIAUS MIESTO ISTORIJA I TOMAS Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse įkurdavo savo valdžios. Bet labai tikėtina, kad nuo seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­ kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų, supančių Vilnios srovę, būta medinės tvirtovės6.
+Vilnia siejama su ankstyvąja Vilniaus gyvenviete: Balińskis miesto vardą kildino iš Vilnios, o ne Vilijos, ir manė, kad pirmykštė gyvenvietė buvo prie šios upės. Pasakojimuose vietovė prie Vilijos ir Vilnios santakos žinoma jau XII amžiuje, o iki Gedimino ant Vilnios srovę supančių kalvų galėjusi stovėti medinė tvirtovė. Vilnios pakrantė minima ir vėlesniuose Vilniaus istorijos epizoduose, pavyzdžiui, 1469 m. bernardinams skirtame slėnyje prie Karališkojo malūno.
 
 ## Teiginiai
 <a id="claim-t-174175"></a>

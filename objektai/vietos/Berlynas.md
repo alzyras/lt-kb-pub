@@ -16,6 +16,11 @@ datos:
   - '2026 m.'
 date_start: '1385'
 date_end: '2026'
+description: 'Berlynas siejamas su Lietuvos istorikų darbais, 1918 m. diplomatija, LAF vadovybės suvaržymu ir sporto atmintimi.'
+socialDescription: 'Berlynas Lietuvos istorijos žinių bazėje jungia istorikų darbus, 1918 m. diplomatiją, LAF istoriją, rankraščius ir Franko Lubino pergalę.'
+seo_atnaujinta: '2026-07-02T23:12:35.281654+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,7 +33,7 @@ amziai:
 
 ## Santrauka
 
-Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Brandenburgo elektoriaus Berlyne.
+Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos ir politinių lūžių vieta. Čia disertacijas ar studijas rengė Zenonas Ivinskis, Konstantinas Avižonis ir Juozas Jakštas, o 1918 m. A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui. Miestas taip pat siejamas su LAF vado Kazio Škirpos sulaikymu, Franko Lubino olimpiniu čempionatu ir Berlyno teksto reikšme kronikų rankraščių tradicijoje.
 
 ## Teiginiai
 

@@ -12,6 +12,11 @@ datos:
   - '2026 m.'
 date_start: '400'
 date_end: '2026'
+description: 'Baltai – rytinio Baltijos jūros pakraščio indoeuropiečių tautų grupė, siejama kalbų, kultūros, religijos ir teritorijos bendrumu.'
+socialDescription: 'Kas buvo baltai: rytinio Baltijos jūros pakraščio indoeuropiečių tautų grupė, jų kalbinis ir kultūrinis bendrumas, arealas bei politiniai ryšiai.'
+seo_atnaujinta: '2026-07-02T23:12:35.357876+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis kalbomis, kurios sudaro atskirą indoeuropiečių kalbų šeimos šaką. Baltų gentys pradėjo formuotis III tūkstantmečio pr.
+Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis. Šaltiniuose prūsai, lietuviai ir latviai siejami kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumu. Viduriniame geležies amžiuje baltai daugiausia liko Nemuno, Dauguvos ir Dniepro plote, o XIII a. Mindaugas siekė telkti šiaurines ir pietvakarines baltų žemes.
 
 ## Teiginiai
 

@@ -5,12 +5,17 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+description: 'Frydrichas Stenderis: Narbuto kritikuotos latvių mitologijos etimologijos, dievybių aiškinimai ir pastabos apie Lajmą bei žynius.'
+socialDescription: 'Frydricho Stenderio latvių mitologijos aiškinimai, Narbuto kritika ir pastabos apie Lajmą, Dyžą, Brehkiną bei žynius.'
+seo_atnaujinta: '2026-07-02T23:12:35.391880+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 ---
 # Frydrichas Stenderis
 
 ## Santrauka
 
-Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klaidingas ir pernelyg grindžiamas vietinių žodžių paieška. Narbutas nesutiko su Stenderio siejimu Tiimpus su Atrimpos ir vadino Tiimpus paprastu girtuoklių globėjo epitetu. Stenderio nuomone, latvių mitologijoje kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja lytimis.
+Frydrichas Stenderis Lietuvos istorijos žinių bazėje pristatomas per Narbuto polemiką su jo latvių mitologijos aiškinimais. Narbutas kritikavo Stenderio etimologijas, Tiimpus siejimą su Atrimpos ir kai kurias išvadas apie latvių dievybes. Kartu fiksuojamos Stenderio pastabos apie Lajmą, Dyžą, barstukų vardo kilmę, Brehkiną ir latvių žynius.
 
 ## Teiginiai
 <a id="claim-t-190265"></a>

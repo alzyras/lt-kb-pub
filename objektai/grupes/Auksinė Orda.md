@@ -14,6 +14,11 @@ datos:
   - '1503 m.'
 date_start: '1360'
 date_end: '1503'
+description: 'Auksinė Orda – silpnėjusi totorių valstybė, susijusi su Vytauto bandymu grąžinti Tochtamišą ir Jono III sąjunga.'
+socialDescription: 'Auksinė Orda Lietuvos istorijos pasakojime siejama su Vytauto politika, Tochtamišo sugrąžinimo planu ir Jono III sąjunga su Perekopo chanu.'
+seo_atnaujinta: '2026-07-02T23:12:35.394696+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiame šaltinyje Auksinė Orda taip pat tiesiogiai įvardijama kaip silpnėjanti totorių valstybė, į kurios valdžią Vytautas siekė grąžinti Tochtamišą.
+Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi totorių valstybė, XIV amžiaus pabaigoje pradėjusi silpti. Vytautas siekė į jos valdžią grąžinti Tochtamišą, tačiau lemiamas žygis baigėsi nesėkme. Vėlesniame pasakojime Jonas III, sudaręs sąjungą su Perekopo chanu, sunaikino Auksinę Ordą.
 
 ## Teiginiai
 

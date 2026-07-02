@@ -10,6 +10,11 @@ datos:
   - '1274 m.'
 date_start: '1253'
 date_end: '1274'
+description: 'Nadruva – Prūsijos žemė, 1253–1259 m. siejama su Mindaugo valdomis, o 1274 m. tapusi Ordino puolimo taikiniu.'
+socialDescription: 'Nadruva šaltiniuose iškyla kaip Prūsijos žemė, siejama su Mindaugo laikų Lietuvos valdovo interesais ir 1274 m. Ordino karu prieš nadruvius.'
+seo_atnaujinta: '2026-07-02T23:12:35.438209+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-Vištyčio ruožo, šaltinio komentaruose siejama su Lietuvos valdovo valdomis, o 1274 m. kronikoje paversta Ordino puolimo taikiniu.
+Nadruva aprašoma kaip viena iš Prūsijos žemių, šaltiniuose minima greta Sembos, Skalvos, Sūduvos ir kitų baltų kraštų. 1253–1259 m. Mindaugo dokumentų komentaruose ji laikoma Lietuvos valdovo žeme tarptautinėje plotmėje. 1274 m. Petro iš Dusburgo kronikoje Nadruva tapo Ordino puolimo taikiniu, o dalis kilmingų šios žemės vyrų su šeimynomis priėmė krikštą.
 
 ## Teiginiai
 

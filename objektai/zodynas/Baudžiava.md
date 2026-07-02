@@ -15,6 +15,11 @@ datos:
   - '2026 m.'
 date_start: '1447'
 date_end: '2026'
+description: 'Baudžiava Lietuvoje stiprėjo po 1447 m. privilegijos, o Rusijos imperijoje panaikinta 1861 m. manifestu.'
+socialDescription: 'Baudžiava Lietuvoje stiprėjo po 1447 m. privilegijos; 1861 m. manifestas ją panaikino Rusijos imperijoje ir numatė žemės išpirką.'
+seo_atnaujinta: '2026-07-02T23:12:35.492090+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -22,6 +27,9 @@ amziai:
   - 'XXI'
 ---
 # Baudžiava
+
+## Santrauka
+Baudžiava – valstiečių priklausomybės dvarininkams sistema, Lietuvoje stiprėjusi po 1447 m. privilegijos, kai valstiečiai vis labiau apkrauti mokesčiais ir darbais. 1831 m. sukilimo atsišaukimuose jau keltas reikalavimas paleisti valstiečius iš baudžiavos. Rusijos imperijoje baudžiava panaikinta 1861 m. vasario 19 d. manifestu, o valstiečiams numatyta teisė per 49 metus išsipirkti žemę.
 
 ## Žodis ir formos
 

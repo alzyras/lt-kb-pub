@@ -24,6 +24,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XX'
+description: 'Rusija Lietuvos istorijoje: karai su LDK ir ATR, imperinis rusinimas, sėslumo riba, Kaliningrado siena ir 1998–1999 m. krizė.'
+socialDescription: 'Rusija Lietuvos istorijoje atsiskleidžia per karus su LDK ir ATR, imperinį rusinimą, sėslumo ribą, Kaliningrado sritį ir ekonominius išbandymus.'
+seo_atnaujinta: '2026-07-02T23:12:35.220934+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - karas
   - miestas
@@ -34,7 +39,7 @@ tags:
 
 ## Santrauka
 
-Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė. Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų.
+Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais dėl rytinių teritorijų, 1654–1667 m. invazija ir vėlesniu kišimusi į Abiejų Tautų Respublikos vidaus reikalus. Po valstybės sunaikinimo Rusijos imperijos valdžia vykdė rusinimą, keitė Lietuvos vardą „Šiaurės Vakarų kraštu“ ir nustatė žydų sėslumo ribą. XX a. kontekste minima Lietuvos siena su Kaliningrado sritimi ir 1998–1999 m. Rusijos finansų krizės poveikis Lietuvos ekonomikai.
 
 ## Teiginiai
 <a id="claim-t-180505"></a>

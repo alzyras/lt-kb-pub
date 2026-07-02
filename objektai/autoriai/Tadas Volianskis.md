@@ -10,12 +10,17 @@ sukurta: ''
 atnaujinta: ''
 amziai: []
 periodo_grupes: []
+description: 'Tadas Volianskis Narbuto pastabose siejamas su LTI papildymais, Santvaro atvaizdu, Lietuvoje rasta moneta ir runų užrašais.'
+socialDescription: 'Tadas Volianskis Narbuto tekstuose iškyla per LTI papildymus, Santvaro atvaizdo aiškinimą, Lietuvoje rastą monetą ir runų užrašų interpretacijas.'
+seo_atnaujinta: '2026-07-02T23:12:35.462518+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 ---
 # Tadas Volianskis
 
 ## Santrauka
 
-Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, ypač pirmąjį tomą. Narbutas nurodė, kad priekaištą dėl barzdoto senio su žibintu atvaizdo išsakė Tadas Volianskis. Narbutas rašė, kad Tadas Volianskis Santvaro atvaizde matė ragus ir dėl nuogumo laikė jį pragaro dievybe.
+Tadas Volianskis minimas kaip autorius, kurio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, ypač pirmąjį tomą. Narbutas perteikė Volianskio pastabas apie barzdoto senio su žibintu atvaizdą, Santvaro interpretaciją, Lietuvoje rastą monetą ir runų užrašų skaitymus. Šaltiniuose Volianskis siejamas ir su 1844 m. sausio 17 d. laišku iš Bidgoščiaus, Henenbergerio užrašo aiškinimu bei Bartoševičiaus 1603 m. antspaudu.
 
 ## Teiginiai
 <a id="claim-t-190282"></a>

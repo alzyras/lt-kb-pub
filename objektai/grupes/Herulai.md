@@ -16,6 +16,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XVI'
+description: 'Herulai Lietuvos istorijos tekstuose: kilmės aiškinimai, migracijos, ryšiai su gotais, Bizantija, Narbuto ir Kojelavičiaus interpretacijos.'
+socialDescription: 'Kas buvo herulai Lietuvos istorijos pasakojimuose? Santrauka apie jų vardą, keliones, karinius ryšius ir Narbuto bei Kojelavičiaus interpretacijas.'
+seo_atnaujinta: '2026-07-02T23:12:35.424626+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - grupe
   - kraštas
@@ -26,7 +31,7 @@ tags:
 
 ## Santrauka
 
-Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­ vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje Lietuvos vardu tapo žinoma Europai1.
+Herulai žinių bazėje pristatomi per Lietuvos kilmės, migracijų ir istoriografinių aiškinimų temas. Šaltiniuose jie siejami su skyrų ir vidivarijų vardais, Teodoriko, Bizantijos imperatoriaus, Belizarijaus ir Narseso kariuomenėmis, taip pat su Narbuto svarstymais apie gotus, obotritus, religiją ir lietuvių tautų elementus. Kojelavičius herulus mini kaip galimus taikos ieškojusius ateivius, o Narbutas jų pėdsakų ieško upėvardžiuose, Prilvico stabuose ir heruliškoje maldoje „Tėve mūsų“.
 
 ## Teiginiai
 <a id="claim-t-86794"></a>

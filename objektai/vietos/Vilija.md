@@ -13,6 +13,11 @@ datos:
   - '1557 m.'
 date_start: '1398'
 date_end: '1557'
+description: 'Vilija siejama su Vilniaus pilių aplinka, Lukiškėmis, laivyba į Kauną ir 1536 m. tilto per upę statyba vietoj perkėlos.'
+socialDescription: 'Vilija Vilniaus istorijoje: pilių prieigos, Lukiškės, Vingriai, laivyba į Kauną, Hozijaus tiltas ir Radvilos Juodojo dvaras.'
+seo_atnaujinta: '2026-07-02T23:12:35.402216+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,7 +33,7 @@ amziai:
 
 ## Santrauka
 
-Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­ dangino su visu guotu į Šventaragio slėnį, už keturių mylių nuo Trakų, kur Vilnios upė įteka į Viliją. Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­ nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją, buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­ ta, saugoma aukštų sienų ir trijų bokštų.
+Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: prie jos minimi Barboros rūmai, Lukiškės, Antakalnio užuomazgos, Vingrių šaltinio ir upokšnio įtekėjimas. 1492 m. Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal, o 1536 m. Žygimantas Senasis suteikė Ulrikui Hozijui teisę statyti tiltą vietoje nepatogios perkėlos. XVI a. prie Vilijos taip pat minimi Paleckio liejyklai skirtas sklypas ir Mikalojaus Radvilos Juodojo dvaras Lukiškėse…
 
 ## Teiginiai
 

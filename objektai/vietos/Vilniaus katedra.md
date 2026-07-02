@@ -22,6 +22,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+description: 'Vilniaus katedra: nuo 1389 m. katedros statuso ir Vytauto palaidojimo iki XVI a. gaisrų, kapitulai dovanotų valdų ir valdovų antkapių.'
+socialDescription: 'Vilniaus katedros istorija apima 1389 m. katedros statusą, Vytauto kapą, 1396 m. dovaną kapitulai, XVI a. gaisrus ir valdovų atminimo ženklus.'
+seo_atnaujinta: '2026-07-02T23:12:35.259314+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - pilis
   - valdovas
@@ -31,7 +36,7 @@ tags:
 
 ## Santrauka
 
-Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas katedros rūsyje, po šv. Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą; bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas. Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo 1610 m. gaisro.
+Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyčia, siejama su Jogailos fundacija ir vėlesne Vytauto gotikine katedra. Jos istorijoje išsiskiria Vytauto palaidojimas rūsyje po Šv. Mykolo Arkangelo altoriumi, 1396 m. Cudzeniškių valdos dovanojimas kapitulai ir XVI a. gaisrų padariniai. Katedra taip pat siejama su valdovų atminimu, Elžbietos ir Barboros antkapiais bei 1784–1787 m. fasado skulptūromis, žyminčiomis baroko epochos Lietuvoje pabaigą.
 
 ## Teiginiai
 <a id="claim-t-110146"></a>

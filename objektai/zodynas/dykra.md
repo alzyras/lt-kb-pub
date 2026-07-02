@@ -11,6 +11,11 @@ datos:
   - '2026 m.'
 date_start: '1298'
 date_end: '2026'
+description: 'Dykra – negyvenamas pasienio plotas tarp ribų, miškų ir gyvenviečių, minimas Melno sienų bei karo persekiojimų kontekstuose.'
+socialDescription: 'Dykra Lietuvos istorijos šaltiniuose žymi negyvenamus pasienio plotus, svarbius Melno sienų aprašymui ir karo žygių pasakojimams.'
+seo_atnaujinta: '2026-07-02T23:12:35.432800+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -21,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Pasienio neapgyventa, dykai likusi teritorija; žemė tarp ribų, miškų ir gyvenviečių. Terminas šiame įraše vartojamas ir Melno taikos ribų, ir ankstesnių karo persekiojimo erdvių kontekstuose.
+Dykra – neapgyventa, dykai likusi pasienio teritorija, dažnai siejama su miškais, ribomis ir gyvenviečių stoka. Įraše terminas vartojamas Melno dokumento sienų aprašymo kontekste, kur ribas buvo sunku tiksliai išvesti per dykras ir miškų plotus. Jis taip pat minimas 1298 m. ir 1302 m. karo persekiojimų bei plėšikautojų žygių erdvėse.
 
 ## Žodis ir formos
 

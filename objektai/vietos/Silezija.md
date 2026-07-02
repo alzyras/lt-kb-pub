@@ -11,6 +11,11 @@ datos:
   - '2026 m.'
 date_start: '1432'
 date_end: '2026'
+description: 'Silezija minima kaip Vilniaus prekybos ir migracijos kryptis: 1432 m. Vroclavo pirkliai vyko į Lietuvą, o amatininkai kūrėsi Vilniuje.'
+socialDescription: 'Silezija Lietuvos istorijoje siejama su Vilniaus prekyba, Vroclavo pirkliais, iš Vokietijos žemių atvykusiais amatininkais ir Byčinos mūšiu.'
+seo_atnaujinta: '2026-07-02T23:12:35.449263+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo priverstas atsisakyti nuo sosto.
+Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ryšių kryptis, pasiekta Vytauto ir Švitrigailos laikais. 1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis. Iš Silezijos ir kitų Vokietijos žemių į Vilnių kėlėsi amatininkai, o ties Byčina Maksimilijonas pralaimėjo mūšį ir pateko į Zamoiskio nelaisvę.
 
 ## Teiginiai
 

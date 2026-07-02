@@ -11,6 +11,11 @@ datos:
   - '1791 m.'
 date_start: '1401'
 date_end: '1791'
+description: 'Herbai Lietuvos istorijoje siejami su Horodlės unija, bajorų luomo teisėmis, Vyties vaizdavimu ir kilmės ginčais su lenkais.'
+socialDescription: 'Kaip herbai siejo Lietuvos bajorus su Horodlės unija, luomo teisėmis, Vyčiu ir ginčais dėl kilmės?'
+seo_atnaujinta: '2026-07-02T23:12:35.413576+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Tuo tarpu Lietuvos istorikai ėmė teigti, kad lenkai herbus pasisavinę iš čekų, o šie savo rėžtu — iš romėnų; tuo būdu jie padarė išvadą, kad iš romėnų kilę lietuviai esą kilnesni už lenkus. Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lietuvai vakarų Europos kultūrą, o bajorijai davę savo herbus.
+Herbai Lietuvos istorijoje siejami su Vytauto laikų bajorijos savivoka ir Horodlės unija. 1413 m. 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai, o tai suartino abiejų valstybių aukštąjį luomą. Vėliau herbai tapo ir kilmės ginčų dalimi: Lietuvos istorikai teigė, kad lenkai juos perėmė iš čekų, o šie – iš romėnų.
 
 ## Pavadinimai šaltiniuose
 

@@ -9,6 +9,11 @@ datos:
   - '1906 m.'
 date_start: '1864'
 date_end: '1906'
+description: 'Lenkijos Karalystė minima per valdovų testamentus, Švitrigailos veiksmus, Lietuvos ryšius ir Užnemunės autonomijos klausimą.'
+socialDescription: 'Lenkijos Karalystės pėdsakai Lietuvos istorijoje: nuo valdovų testamentų ir LDK ryšių iki Užnemunės autonomijos svarstymų.'
+seo_atnaujinta: '2026-07-02T23:12:35.456409+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta. Svarstant Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikėjai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviškąją dalį, t.
+Lenkijos Karalystė Lietuvos istorijos kontekste minima kaip politinė erdvė, susijusi su valdovų testamentais, Lietuvos Didžiąja Kunigaikštyste ir unijos idėja. Šaltiniuose ji siejama su Švitrigailos atsisakytais Podolės miestais bei karo amunicijos paskirstymu tarp Karalystės ir Lietuvos. XX a. pradžios politiniuose svarstymuose Lenkijos karalystei priklausiusi Užnemunė, arba Suvalkija, buvo įvardyta kaip lietuviškos autonomijos teritorijos dalis.
 
 ## Teiginiai
 

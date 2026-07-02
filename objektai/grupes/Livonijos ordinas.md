@@ -23,6 +23,11 @@ datos:
   - '1430 m.'
 date_start: '1237'
 date_end: '1430'
+description: 'Livonijos ordinas – nuo 1237 m. kryžiuočių ordino šaka, veikusi prieš Lietuvą, siekusi Žemaitijos ir dalyvavusi kovose.'
+socialDescription: 'Livonijos ordinas Lietuvos istorijoje iškyla kaip kryžiuočių ordino šaka, susijusi su Mindaugu, Žemaitija ir kovomis dėl Lietuvos.'
+seo_atnaujinta: '2026-07-02T23:12:35.023638+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -37,7 +42,7 @@ amziai:
 
 ## Santrauka
 
-Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įvardijamas kaip Nemuną pasiekusi ir iš Žemaitijos išvesta ordino šaka.
+Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savarankiškai ir vykdė atskirą politiką. Lietuvos istorijoje jis siejamas su Mindaugo krikštu, Žemaitijos perleidimu ir ordinų keliama grėsme. Vėlesniuose šaltiniuose Livonijos ordinas minimas kaip Lietuvos puolimų, paliaubų su Jogaila ir Vytauto kovų dėl Žemaitijos konteksto dalyvis.
 
 ## Teiginiai
 

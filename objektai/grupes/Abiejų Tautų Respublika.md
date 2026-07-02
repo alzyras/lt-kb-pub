@@ -17,6 +17,11 @@ datos:
   - '2026 m.'
 date_start: '1386'
 date_end: '2026'
+description: 'Abiejų Tautų Respublika – Liublino unijos sukurta Lietuvos ir Lenkijos valstybė, siejama su bajoriškąja demokratija ir padalijimais.'
+socialDescription: '1569 m. Liublino unija sukūrė Abiejų Tautų Respubliką – Lietuvos ir Lenkijos jungtinę valstybę, siejamą su tolerancija, demokratija, konstitucija ir XVIII a. pabaigos padalijimais.'
+seo_atnaujinta: '2026-07-02T23:12:35.352102+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -27,7 +32,7 @@ amziai:
 
 ## Santrauka
 
-Abiejų Tautų Respublika buvo Liublino unijos sukurta Lenkijos ir Lietuvos jungtinė valstybė. Jos politinė sandara šaltinyje apibūdinama kaip teoriškai federacinė, realiai konfederacinė sąjunga, kurioje LDK išsaugojo dalį atskirų institucijų. XVIII a. pabaigoje valstybė buvo sunaikinta padalijimais, o 1797 m. Peterburgo konvencija panaikino jos valstybingumo likučius.
+Abiejų Tautų Respublika buvo 1569 m. Liublino unijos sukurta jungtinė Lietuvos ir Lenkijos valstybė. Ji siejama su bajoriškąja demokratija, religine tolerancija, Lietuvos Statutais, 1791 m. konstitucija ir Vilniaus baroku. XVIII a. pabaigoje Respubliką sunaikino trys padalijimai, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
 
 ## Pavadinimai šaltiniuose
 

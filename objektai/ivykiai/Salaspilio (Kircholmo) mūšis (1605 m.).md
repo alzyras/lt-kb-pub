@@ -13,6 +13,11 @@ aliases:
   - 'objektai/ivykiai/Salaspilio (Kirkcholmo) mūšis'
 variantai:
   - 'Salaspilio (Kirkcholmo) mūšis'
+description: '1605 m. prie Salaspilio J. K. Chodkevičiaus vadovaujama LDK kariuomenė išprovokavo švedų puolimą ir juos sutriuškino.'
+socialDescription: 'Salaspilio mūšyje J. K. Chodkevičiaus vadovaujama LDK kariuomenė pasinaudojo švedų rikiuotės suirimu ir privertė jų pajėgas bėgti.'
+seo_atnaujinta: '2026-07-02T23:12:35.453842+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Šiame gabale aprašomas Salaspilio (Kirkcholmo) mūšio antrasis etapas: kariuomenių išsirikiavimas, apgaulingas Lietuvos kariuomenės atsitraukimas, švedų puolimas, rikiuotės suirimas ir galutinis bėgimas iš mūšio lauko. Tekste kartojami keli mūšio dalyviai ir akcentuojami atskiri taktiniai smūgiai bei žūtys. 1605 m. rugsėjo 27 d. ties Salaspiliu (Kirkholmu) Karolis IX išrikiavo savo kariuomenę, o J. K. Chodkevičius liepė Lietuvos kariuomenei pasiruošti mūšiui; prie didžiojo etmono prisijungė ir Kuršo kunigaikštis Fridrichas Ketleris Švedų ir Lietuvos kariuomenės nepajudėjusios išstovėjo iki vidudienio, nes švedai buvo išsirikiavę ant aukšto upelio kranto, o lietuviai mėgino juos išprovokuoti pulti pirmuosius.
+1605 m. prie Salaspilio, arba Kirchholmo, J. K. Chodkevičiaus vadovaujama LDK kariuomenė susikovė su Karolio IX švedų pajėgomis. Lietuviai mėgino išprovokuoti švedus pulti pirmuosius, o vėliau pasinaudojo jų rikiuotės suirimu. T. Lackio husarai, T. Dambravos reitarai, J. P. Sapiegos raiteliai ir kitos pajėgos smogė švedų kavalerijai bei pėstininkams, priversdami švedus bėgti iš mūšio lauko.
 
 ## Laikotarpis ir datos
 

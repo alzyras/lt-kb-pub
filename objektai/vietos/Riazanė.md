@@ -15,6 +15,11 @@ datos:
   - '2026 m.'
 date_start: '1389'
 date_end: '2026'
+description: 'Riazanė Lietuvos istorijoje minima kaip Vytauto rytų politikos taikinys, susijęs su Smolensku, Maskva, Trakais ir Vilniumi.'
+socialDescription: 'Riazanė Vytauto laikais buvo svarbi rytų politikos kryptis: čia susikirto Lietuvos, Maskvos, Tverės ir vietos kunigaikščių interesai.'
+seo_atnaujinta: '2026-07-02T23:12:35.408504+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,7 +35,7 @@ amziai:
 
 ## Santrauka
 
-Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė. Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų. Riazanei buvo palikta teisė pačiai pasirinkti sau globą.
+Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vytautas siekė valdžios arba stiprios politinės įtakos. Šaltiniuose ji siejama su Vytauto žygiais iš Smolensko, konfliktu su Riazanės kunigaikščiu Olegu ir Maskvos valdovo slapta sąjunga prieš Vytautą. 1430 m. Riazanės kunigaikščiai minimi tarp atvykusių į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
 
 ## Teiginiai
 

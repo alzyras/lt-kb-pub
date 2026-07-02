@@ -19,6 +19,11 @@ datos:
   - '2026 m.'
 date_start: '1330'
 date_end: '2026'
+description: 'Katalikų Bažnyčia Lietuvos istorijoje siejama su krikštu, Vytauto bažnytine politika, reformacija ir valdžių spaudimu.'
+socialDescription: 'Katalikų Bažnyčios vaidmuo Lietuvos istorijoje: nuo krikšto ir ryšių su Roma iki reformacijos, caro valdžios ir sovietmečio spaudimo.'
+seo_atnaujinta: '2026-07-02T23:12:35.207718+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +36,7 @@ amziai:
 
 ## Santrauka
 
-Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo su juo kovą.
+Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinimu, valstybės santykiais su Roma ir konfesinėmis įtampomis. Nuo Mindaugo politikos ir 1387 m. katalikiškos LDK iki Vytauto bandymų stiprinti bažnytinę struktūrą ji veikė kaip svarbus politinis ir kultūrinis veiksnys. Vėliau jos įtaką keitė reformacija, caro valdžios spaudimas ir sovietmečio persekiojimas.
 
 ## Teiginiai
 

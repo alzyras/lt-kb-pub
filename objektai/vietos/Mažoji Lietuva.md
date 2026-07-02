@@ -14,6 +14,11 @@ datos:
   - '1970 m.'
 date_start: '1422'
 date_end: '1970'
+description: 'Mažoji Lietuva – Prūsų Lietuva, lietuvininkų kraštas, svarbus lietuviškai raštijai, Donelaičio „Metams“ ir 1914 m. Lietuvos planams.'
+socialDescription: 'Mažoji Lietuva – lietuvininkų kraštas Prūsijoje, svarbus lietuviškai raštijai, Donelaičio „Metams“ ir modernios Lietuvos idėjai.'
+seo_atnaujinta: '2026-07-02T23:12:35.353536+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,7 +32,7 @@ amziai:
 
 ## Santrauka
 
-Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius. Tuo pat metu protestantizmas labai uoliai buvo platinamas ir Mažojoje Lietuvoje. Lietuviškai protestantizmas tebuvo skelbiamas žmonių, atėjusių iš Mažosios Lietuvos; bet tas judėjimas buvo labai silpnas ir trumpas.
+Mažoji Lietuva – Prūsų Lietuva, kur Vokiečių ordino valstybėje gyvenę lietuviai ilgainiui vadinti lietuvininkais. Čia buvo gausi lietuviška raštija, iškilo Kristijono Donelaičio „Metai“, o XIX–XX a. pradžios lietuvių veikėjai šį kraštą siejo su modernia Lietuvos samprata. 1914 m. Gintarinėje deklaracijoje siekta sujungti Didžiąją ir Mažąją Lietuvą, tačiau 1921 m. Steigiamojo Seimo rinkimai čia nevyko, nes Lietuva teritorijos nekontroliavo.
 
 ## Teiginiai
 

@@ -7,6 +7,11 @@ datos:
   - '1289 m.'
 date_start: '1289'
 date_end: ''
+description: 'Skalviai – Nemuno žemupio baltų gentis, XIII a. minima kovose su Ordinu, Ragainės, Labguvos ir Skalvių pilių aplinkoje.'
+socialDescription: 'Skalviai gyveno Nemuno žemupyje ir XIII a. šaltiniuose iškyla per kovas su Ordinu, Ragainės bei Labguvos pilių istoriją.'
+seo_atnaujinta: '2026-07-02T23:12:35.331057+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai ir kt.
+Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos centru XIII a. laikyta Ragainė. Šaltiniuose jie minimi kovų su Ordinu kontekste: skalviai puolė Labguvos pilį, o Ordino broliai įsiveržė į Skalvą ir statė Ragainės bei Skalvių pilis. Archeologijos duomenimis, skalvių gentinė kultūra Nemuno ir Jūros santakos rajone buvo ryški nuo mūsų eros pradžios.
 
 ## Teiginiai
 

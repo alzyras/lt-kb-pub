@@ -14,6 +14,11 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIII'
+description: 'Pamedėnai – Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų, pilių puolimų ir 1260 m. Klaipėdos telkimo kontekste.'
+socialDescription: 'Kas buvo pamedėnai? XIII a. šaltiniuose jie minimi Pamedėje, Ordino kovose, atsimetimuose ir 1260 m. Klaipėdos žygyje prieš Lietuvą.'
+seo_atnaujinta: '2026-07-02T23:12:35.366785+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - grupe
   - kunigaikštis
@@ -23,7 +28,7 @@ tags:
 
 ## Santrauka
 
-Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat kuršiai, estai ir kt.), iš.
+Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų ir Prūsijos žemių konfliktų kontekste. Šaltiniuose jie pasirodo kaip Ordino spaudžiami, kartais jam ištikimi ar iš naujo pasiduodantys žmonės, susiję su pilimis, badu ir atsimetimais nuo krikščionybės. 1260 m. Klaipėdoje pamedėnai minimi tarp Ordino pavaldžių užgrobtų žemių karių, prievarta telktų prieš Lietuvą.
 
 ## Teiginiai
 <a id="claim-t-78414"></a>

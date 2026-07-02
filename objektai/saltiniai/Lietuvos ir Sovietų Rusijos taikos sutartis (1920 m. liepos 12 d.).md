@@ -7,6 +7,11 @@ datos:
   - '1920 m.'
 date_start: '1920'
 date_end: ''
+description: '1920 m. liepos 12 d. sutartis su Sovietų Rusija pripažino Lietuvos suverenumą, bet turėjo slaptą papildymą dėl Rusijos dalinių.'
+socialDescription: '1920 m. taikos sutartis su Sovietų Rusija sustiprino Lietuvos tarptautinį pripažinimą, tačiau paliko rizikingą slaptą išlygą.'
+seo_atnaujinta: '2026-07-02T23:12:35.497148+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-1920 m. pradžioje Lietuva sutiko pradėti derybas. Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą. Semaško) argumentus, lietuviai patenkino dar vieną A.
+1920 m. liepos 12 d. Lietuvos ir Sovietų Rusijos taikos sutartimi Rusija atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę bei suverenumą. Istorikų vertinimu, tai buvo svarbus Lietuvos diplomatijos laimėjimas, reikšmingas ir santykiams su Lenkija. Vis dėlto sutartis turėjo silpną vietą: prie 2 straipsnio sovietai įtraukė slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu.
 
 ## Teiginiai
 

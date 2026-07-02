@@ -13,6 +13,11 @@ datos:
   - '2026 m.'
 date_start: '1241'
 date_end: '2026'
+description: 'Hanza – vokiečių miestų pirklių sąjunga, veikusi Lietuvos prekybą per Baltijos jūrą, Kauną, Polocką ir Gedimino ryšius.'
+socialDescription: 'Hanza Lietuvos istorijoje siejama su Baltijos prekyba, Kauno ir Polocko kontoromis, Gedimino kvietimais bei Vytauto laikų ryšiais.'
+seo_atnaujinta: '2026-07-02T23:12:35.415620+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos kontekste minimos vokiečių prekyvietės Baltijos pajūryje. Šiame šaltinyje ji papildomai rodoma kaip jūros keliu atvykusių piligrimų tinklas ir kaip vienas Gedimino laiškų adresatų.
+Hanza buvo vokiečių miestų pirklių sąjunga, XIII amžiuje įsigalėjusi Šiaurės ir Baltijos jūrų prekyboje. Lietuvos istorijos kontekste ji siejama su prekybos kryptimi į Baltijos jūrą, Hanzos kontoromis Kaune ir Polocke bei Vytauto laikų prekybiniais ryšiais. Gediminas per rygiečius kreipėsi į Hanzos miestus, kviesdamas į Lietuvą amatininkus, pirklius, žemdirbius ir riterius.
 
 ## Teiginiai
 

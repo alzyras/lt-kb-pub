@@ -26,6 +26,11 @@ atnaujinta: ''
 amziai:
   - 'X'
   - 'XXI'
+description: 'Didysis Naugardas Lietuvos istorijoje siejamas su Mindaugo sąjunga, Vytauto 1428 m. žygiu ir vėlesne Maskvos įtaka.'
+socialDescription: 'Didžiojo Naugardo ryšiai su Lietuva: Mindaugo sąjunga, Vytauto žygis ir Kazimiero laikų įtakos pasidalijimas.'
+seo_atnaujinta: '2026-07-02T23:12:35.198042+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - kunigaikštis
   - miestas
@@ -35,7 +40,7 @@ tags:
 
 ## Santrauka
 
-Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas. Naugardą.
+Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų respublika, kurią pasiekdavo lietuvių kunigaikščių kariniai būriai. Su juo siejamas Mindaugo susitarimas su Aleksandru Nevskiu, taip pat Vytauto 1428 m. žygis, po kurio Naugardas ir Porchovas sumokėjo 10 000 rublių kontribuciją. Kazimiero laikais Didysis Naugardas kartu su Pskovu buvo paliktas Maskvos įtakos sričiai.
 
 ## Teiginiai
 <a id="claim-t-179774"></a>

@@ -18,6 +18,11 @@ datos:
   - '1786 m.'
 date_start: '1330'
 date_end: '1786'
+description: 'Vilniaus magistratas: Magdeburgo teisės, miesto tvarka, špitolės pajamos ir teisiniai ginčai XVI-XVIII a. Vilniuje.'
+socialDescription: 'Vilniaus magistrato istorija atskleidžia miesto savivaldos, Magdeburgo teisių, prieglaudos pajamų ir ginčų su bažnytinėmis institucijomis raidą.'
+seo_atnaujinta: '2026-07-02T23:12:35.262902+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,7 +38,7 @@ amziai:
 
 ## Santrauka
 
-O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar­ kiams, įvairius savo reikalavimus ir sumetimus išsakydamas, užtat 1667 metų balandžio 4 dieną Vilniaus magistratas stojo į teismą su Šv. Jus Patronatus [teises], garbiosios Vilniaus kapitulos perleistas Rektoriams, apaštališkasis nun­ cijus Bretanės vyskupas Jonas Andrius Apaštališkojo Sosto valia patvirtino, o 1651 metais gruodžio 21 dieną Vilniaus vys­ kupas Jurgis Tiškevičius tą. 1577 metų gruodžio 19 dienos, o pirmesne 1539 metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­ fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­ piežius Inocentas X irgi patvirtino.
+Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo teisių patvirtinimu, miesto tvarka ir viešųjų pajamų administravimu. Šaltiniuose minimi jo konfliktai su bendruomene, vaitu, Vilniaus kapitula ir Šv. Jono bažnyčia. Magistratui buvo patikėtas Švč. Trejybės prieglaudos pajamų valdymas, o jo knygos ir privilegijos naudotos teismuose bei komisijose.
 
 ## Teiginiai
 

@@ -20,6 +20,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XXI'
+description: 'Latviai – baltų tauta, II tūkstantmečio pradžioje formavusis Latgalijoje ir rytinėje Vidžemėje, vėliau asimiliavusi dalį kuršių, žiemgalių ir sėlių.'
+socialDescription: 'Latviai aprašomi kaip baltų tauta, susiformavusi II tūkstantmečio pradžioje ir siejama su Latgalija, rytine Vidžeme bei Lethigalli vardu.'
+seo_atnaujinta: '2026-07-02T23:12:35.094236+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - grupe
   - ordinas
@@ -29,7 +34,7 @@ tags:
 
 ## Santrauka
 
-Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo latvių tauta.
+Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pradžia ir rytinių baltų raida. XII–XIII a. sandūroje tikrieji latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje. Šaltiniuose jie siejami su Liet’gola ir Lethigalli vardais, o vėliau asimiliavo dalį kuršių, žiemgalių ir sėlių teritorijų.
 
 ## Teiginiai
 <a id="claim-t-169584"></a>

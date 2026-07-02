@@ -20,6 +20,11 @@ datos:
   - '2026 m.'
 date_start: '1328'
 date_end: '2026'
+description: 'Tverė – Rusios kunigaikštija, svarbi Lietuvos ir Maskvos varžybose dėl įtakos Algirdo, Vytauto ir Kazimiero laikais.'
+socialDescription: 'Tverė buvo viena svarbiausių Rusios kunigaikštijų Lietuvos rytų politikoje: čia susikirto Algirdo, Vytauto, Švitrigailos ir Maskvos interesai.'
+seo_atnaujinta: '2026-07-02T23:12:35.200529+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -35,7 +40,7 @@ amziai:
 
 ## Santrauka
 
-Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kunigaikščio savo dukterį. Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną. Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų.
+Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kunigaikštija, dėl kurios įtakos varžėsi Lietuva ir Maskva. Algirdas gynė Tverės kunigaikščio Mykolo teises, o Vytautas siekė išlaikyti įtaką Tverėje savo rytų politikoje. 1430 m. Tverės kunigaikščiai dalyvavo Vytauto suvažiavime Trakuose ir Vilniuje, o 1449 m. Tverė liko Lietuvos įtakos srityje.
 
 ## Teiginiai
 

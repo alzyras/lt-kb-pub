@@ -22,6 +22,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XXI'
+description: 'Baltijos jūra Lietuvos istorijoje: nuo genčių ir kryžiuočių pakrančių iki Klaipėdos klausimo Versalyje bei pajūrio padavimų.'
+socialDescription: 'Baltijos jūra čia atsiskleidžia kaip Lietuvos genčių, kryžiuočių miestų, Klaipėdos siekio ir pajūrio padavimų erdvė.'
+seo_atnaujinta: '2026-07-02T23:12:35.396833+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - karas
   - miestas
@@ -32,7 +37,7 @@ tags:
 
 ## Santrauka
 
-Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Hanza. Pasibaigus karams su vokiečių ordinu, atsidarė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba.
+Baltijos jūra Lietuvos istorijos šaltiniuose iškyla kaip pakrantė, siejama su lietuvių tautos atšakomis, Žemaitija, prūsais, kuršiais ir kitomis gentimis. XIII amžiaus viduryje Lietuva valdė nedidelį, uostų stokojantį Baltijos pakrantės ruožą, o Teutonų ordinas pakrantėse pagausino miestų ir pilių. Versalyje Lietuvos delegacija kėlė išėjimo į Baltijos jūrą per Klaipėdą klausimą, o Narbuto pasakojimuose pajūris siejamas su Palanga, gintaro rūmais ir jūros nimfomis.
 
 ## Teiginiai
 <a id="claim-t-182818"></a>

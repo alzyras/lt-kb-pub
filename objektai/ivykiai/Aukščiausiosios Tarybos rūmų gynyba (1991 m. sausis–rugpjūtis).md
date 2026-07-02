@@ -9,6 +9,11 @@ datos:
   - '2026 m.'
 date_start: '1940'
 date_end: '2026'
+description: '1991 m. Aukščiausiosios Tarybos rūmų gynyba: Sausio 13-oji, barikados, fortifikacijos ir pasirengimas rugpjūčio pučui.'
+socialDescription: 'Aukščiausiosios Tarybos rūmų gynyba 1991 m. jungė karinį pasirengimą, barikadas ir pilietinį nesmurtinį pasipriešinimą.'
+seo_atnaujinta: '2026-07-02T23:12:35.441420+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Šiame gabale gynyba aprašoma kaip nuoseklus AT rūmų, jų prieigų ir visuomenės pasipriešinimo organizavimas nuo sausio dienų iki rugpjūčio pučo. Tekste aiškiai siejami Sausio 13-osios nakties įvykiai, vėlesni fortifikavimo darbai ir rugpjūčio mėnesio įtampos eskalacija. Pirmosiomis sausio dienomis gynėjai buvo išdėstyti ginti rūmus, jų išorinį perimetrą ir atakuoti sovietų pajėgas iš nugaros Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės.
+Aukščiausiosios Tarybos rūmų gynyba 1991 m. sausį–rugpjūtį apėmė rūmų vidaus, išorinio perimetro ir tolimųjų prieigų saugojimą. Sausio 13-osios naktį sovietų užpuolimas buvo įvardytas kaip karinė agresija, žuvo 14 laisvės gynėjų, tačiau Parlamento šturmas neįvyko. Po kruvinosios nakties gynyba buvo planingai stiprinama barikadomis ir fortifikacijomis, o artėjant rugpjūčio Maskvos pučui ji buvo geriau organizuota.
 
 ## Laikotarpis ir datos
 

@@ -30,6 +30,11 @@ atnaujinta: ''
 amziai:
   - 'XII'
   - 'XX'
+description: 'Lietuva pristatoma per valstybingumą, miestų teises, baroko kultūrą, XX a. pripažinimą ir euroatlantinę kryptį bei LLKS atkūrimo viziją.'
+socialDescription: 'Lietuvos istorija čia atsiskleidžia per valstybės teises, miestų privilegijas, baroko paveldą, LLKS deklaraciją ir XX a. pripažinimą.'
+seo_atnaujinta: '2026-07-02T23:12:34.891076+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - vieta
 ---
@@ -37,7 +42,7 @@ tags:
 
 ## Santrauka
 
-Lietuva šiame šaltinyje aprašoma kaip atskira valstybė su savomis teisėmis, suvažiavimais, seimine praktika ir valstybine savivoka, išlaikyta ir po Liublino unijos.
+Lietuva aprašoma kaip istorinis valstybingumo, teisės ir politinės savivokos objektas: šaltiniuose minimos atskiros Lietuvos ir Lenkijos konstitucijos, Vilniaus miestiečių prekybos teisės ir Lietuvos žemės santykiai su Prūsijos kryžiuočiais. Santrauka jungia XIII a. miestų raidą, barokinį kraštovaizdį ir XX a. valstybės atkūrimo bei pripažinimo temas. XX a. akcentuojami 1991 m. tarptautinis pripažinimas, LLKS Vasario 16-osios deklaracijos valstybės atkūrimo vizija ir 1992 m. euroatlantinės krypties pasirinkimas.
 
 ## Pavadinimai šaltiniuose
 

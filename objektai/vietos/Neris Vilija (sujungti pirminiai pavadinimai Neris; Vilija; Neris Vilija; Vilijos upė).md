@@ -15,6 +15,11 @@ datos:
   - '1557 m.'
 date_start: '1390'
 date_end: '1557'
+description: 'Neries, dar vadintos Vilija, istorinių pavadinimų ir Vilniaus ryšių apžvalga: privilegijos, laivyba, tiltai ir pakrantės.'
+socialDescription: 'Neris arba Vilija istoriniuose šaltiniuose atsiskleidžia per Vilniaus privilegijas, laivybą iki Kauno, tiltų statybą ir pakrančių vietoves.'
+seo_atnaujinta: '2026-07-02T23:12:35.155453+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,7 +35,7 @@ amziai:
 
 ## Santrauka
 
-Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos surašytos klausantis jų skaldų, bei šiaurės kronikos byloja ne apie vie­ ną tokį žygį. 5 Žodį Vilija, jeigu jo kilmės imtume ieškoti lietuvių kalboje, galima tarti kilus nuo Wiloju [vilioju] - gundau, arba nuo Wilius [vylius] - klasta, tad tokiu atveju Vilija reikštų Vilioklė. Juk randama, kad Vilniaus kapitulai 1390 metais Vladislovo Jo­ gailos duotoje privilegijoje, kuria do­ vanojami Paneriai, Vilija yra pava­ dinta Vigilia: obstaculum in superiori parte nostri obstaculi, in fluvio Vigilia situati [aukštutinėje dalyje mūsų už­.
+Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto topografija, Vilnelės santaka, Paneriais, Lukiškėmis ir Antakalniu. 1390 m. Jogailos privilegijoje upė minima kaip Vigilia, o vėlesniuose XV-XVI a. dokumentuose ji svarbi laivybai, tiltams ir miesto prekybai. Šaltiniuose taip pat aiškinama, kad žemiau Vilniaus pakrančių gyventojai upę vadino Nerimi.
 
 ## Teiginiai
 

@@ -32,6 +32,11 @@ atnaujinta: ''
 amziai:
   - 'IX'
   - 'XXI'
+description: 'Žemaitija aprašoma kaip Lietuvos ir Ordinų konflikto centras, siejamas su Mindaugo, Kęstučio ir Vytauto kova bei derybomis.'
+socialDescription: 'Žemaitija šiame šaltinyje – Lietuvos laisvės kovų su Ordinais kraštas, svarbus Mindaugo, Kęstučio ir Vytauto politikoje.'
+seo_atnaujinta: '2026-07-02T23:12:34.987946+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - vieta
 ---
@@ -39,7 +44,7 @@ tags:
 
 ## Santrauka
 
-Žemaitija šiame šaltinyje vaizduojama kaip pagrindinis Lietuvos ginčo su Ordinu kraštas, kurio dėl Ordino pretenzijų vyko nuolatinės kovos, o vietos gyventojai ne kartą sukilo.
+Žemaitija šiame šaltinyje iškyla kaip Lietuvos kovų su Livonijos ir Vokiečių ordinais ašis. Dėl jos Ordinas siekė sujungti savo valdas, o Mindaugas ir Vytautas skirtingais laikotarpiais ją perleido ar gynė derybomis bei karu. Kraštas taip pat siejamas su Vytauto bažnyčių tinklu ir žemaičių parama Kęstučiui bei Vytautui.
 
 ## Pavadinimai šaltiniuose
 

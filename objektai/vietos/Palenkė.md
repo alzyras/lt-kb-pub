@@ -14,6 +14,11 @@ datos:
   - '2026 m.'
 date_start: '1345'
 date_end: '2026'
+description: 'Palenkė minima kaip svarbi LDK vakarinė sritis prie Gardino, susijusi su Kęstučiu, Vytautu, paliaubomis, pilimis ir Liublino unija.'
+socialDescription: 'Palenkė – LDK vakarinė sritis prie Gardino, minima Kęstučio, Vytauto, Trakų paliaubų, pilių statybos ir Liublino unijos kontekstuose.'
+seo_atnaujinta: '2026-07-02T23:12:35.279397+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti ordino žemių, esančių Palenkės pasieny. Pirmiausia tokie kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Palenkėje. Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos.
+Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybės dalies sritis, siejama su Gardinu, Trakų kunigaikštija ir Kęstučio valdomis. Trakų dešimties metų paliaubų sutartyje ordinas įsipareigojo nepulti Palenkės, o Lietuva – ordino žemių Palenkės pasienyje. Vytauto ir Kazimiero laikais Palenkė išryškėja kaip reikšminga LDK teritorija: joje statytos pilys, ji priklausė tankiau gyvenamoms sritims, o Liublino unijos kontekste buvo prijungta prie Lenkijos.
 
 ## Teiginiai
 

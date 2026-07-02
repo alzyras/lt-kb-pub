@@ -15,6 +15,11 @@ datos:
   - '2026 m.'
 date_start: '1263'
 date_end: '2026'
+description: 'Kuršiai – vakarinių baltų gentis, minima ankstyvuose šaltiniuose; vikingų epochoje kovojo su skandinavais, o XI a. rengė žygius.'
+socialDescription: 'Kuršiai minimi tarp atskiras kalbas turėjusių tautų, kovojo su skandinavais ir XI a. rengė žygius į Danijos bei Švedijos pakrantes.'
+seo_atnaujinta: '2026-07-02T23:12:35.347811+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,7 +33,7 @@ amziai:
 
 ## Santrauka
 
-Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių, gyveno kuršiai.
+Kuršiai buvo vakarinių baltų bendruomenė, minima tarp atskiras kalbas turėjusių duoklinių tautų. Vikingų epochoje pajūrio prūsams ir kuršiams teko atremti skandinavų plėšikavimą, o XI a. kuršiai patys rengė žygius į Danijos ir Švedijos pakrantes. XIII a. Livonijoje sukilę kuršiai, estai ir žiemgaliai mažino išorinį pavojų Lietuvai.
 
 ## Teiginiai
 

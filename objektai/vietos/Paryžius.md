@@ -17,6 +17,11 @@ datos:
   - '1920 m.'
 date_start: '1221'
 date_end: '1920'
+description: 'Paryžius žinių bazėje sieja Henriko artikulus, Paryžiaus taikos konferenciją, Lietuvos paramos paieškas ir Europos kronikų įvykius.'
+socialDescription: 'Paryžius Lietuvos istorijos kontekste: nuo Henriko artikulų iki Lietuvos delegacijos prie Paryžiaus taikos konferencijos.'
+seo_atnaujinta: '2026-07-02T23:12:35.318755+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo brolis Karolis IX stengėsi kai kuriuos punktus pakeisti, bet, delegacijoms nenusileidus, su viskuo sutiko ir prisiekė.
+Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės paramos vieta. Čia Henrikas ir Karolis IX mėgino keisti artikulų punktus, bet lenkų ir lietuvių delegacijoms nenusileidus sutiko ir prisiekė. 1919 m. prie Paryžiaus taikos konferencijos veikusi Lietuvos delegacija siekė nepriklausomybės pripažinimo, o Paryžiuje Lietuva gavo britų, JAV ir Prancūzijos paramą.
 
 ## Teiginiai
 

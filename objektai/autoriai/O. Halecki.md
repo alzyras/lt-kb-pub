@@ -7,6 +7,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+description: 'O. Halecki – autorius, kurio darbai apie Jogailaičių uniją, Vytautą, Krėvą ir Palangą cituojami Lietuvos istorijos temose.'
+socialDescription: 'O. Haleckio darbai padeda sekti Jogailaičių unijos, Vytauto politikos ir Lietuvos bei Lenkijos istorijos interpretacijas.'
+seo_atnaujinta: '2026-07-02T23:12:35.461416+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,7 +23,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo darbai apie Jogailaičių uniją, Krėvos aktą, Vytautą ir platesnę Lietuvos bei Lenkijos istoriją.
+O. Halecki – autorius, palikęs ryškų pėdsaką Lietuvos istorijos tyrimuose. Jo darbai siejami su Jogailaičių unija, Krėvos aktu, Vytautu ir Lietuvos bei Lenkijos istorijos temomis. Šaltiniuose minimi jo veikalai „Dzieje Unii Jagiellońskiej“, „Witold“ ir „From Florence to Brest“.
 
 ## Darbai
 

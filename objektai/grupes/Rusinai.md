@@ -5,12 +5,17 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+description: 'Rusinai Narbuto tekstuose siejami su lietuvių mitologijos pasakojimais, papročiais, prietarais ir kalbiniais aiškinimais.'
+socialDescription: 'Rusinai čia atsiskleidžia per Narbuto minimus Verpėjos, Zlydni, naminių žalčių, karvojaus ir krivių kilmės aiškinimus.'
+seo_atnaujinta: '2026-07-02T23:12:35.463011+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 ---
 # Rusinai
 
 ## Santrauka
 
-Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams, bet ir Lietuvos rusinams. Narbutas nurodė, kad vestuvių pyrago pavadinimas „karvojus“ lietuvių vartosenoje buvo perimtas iš rusinų. Narbutas rašė, kad Lietuvos rusinai baidykles Zlydni vaizdavosi keliamečių vaikų pavidalo ir tikėjo jas kenkiant namams.
+Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susijusi su pasakojimais, papročiais ir prietarais. Jiems priskiriamas Verpėjos pasakojimo žinojimas, Zlydni baidyklių vaizdiniai, prietarai apie naminius žalčius ir kai kurie kalbiniai aiškinimai. Narbutas taip pat siejo rusinus su vestuvių pyrago pavadinimu „karvojus“, Plikuoju kalnu ir skirtingais krivių kilmės aiškinimais.
 
 ## Teiginiai
 <a id="claim-t-189400"></a>

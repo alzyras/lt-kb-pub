@@ -17,6 +17,11 @@ atnaujinta: ''
 amziai:
   - 'XX'
   - 'XXI'
+description: 'Slavai Lietuvos istorijoje siejami su indoeuropiečių tautomis, baltų asimiliacija ir LDK vardo plitimu į rytų slavų žemes.'
+socialDescription: 'Kaip slavų ekspansija, rytinių baltų asimiliacija ir LDK plėtra pakeitė Lietuvos istorijos erdvę bei Lietuvos vardo reikšmę?'
+seo_atnaujinta: '2026-07-02T23:12:35.241293+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - grupe
   - tauta
@@ -25,7 +30,7 @@ tags:
 
 ## Santrauka
 
-Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pačios indoeuropiečių, arba arijų, tautų grupės. Todėl, kai Karolis pasiekė slavus, jo agentai sužinojo, kad už slavų gyvena dar lietuviai.
+Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, minima greta germanų, romanų ir aisčių. Lietuvos istorijos kontekste pabrėžiama slavų ekspansija, kuri artėjo prie Lietuvos žemių ir nulėmė rytinių baltų asimiliaciją. Įraše taip pat aiškinama, kaip LDK riboms plečiantis Lietuvos vardas išplito į plačias rytų slavų žemes, o Narbutas lygino slavų ir lietuvių mitologinius vaizdinius.
 
 ## Teiginiai
 <a id="claim-t-89225"></a>

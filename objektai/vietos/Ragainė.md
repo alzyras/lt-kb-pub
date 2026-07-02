@@ -18,6 +18,11 @@ datos:
   - '2026 m.'
 date_start: '1289'
 date_end: '2026'
+description: 'Ragainė – Nemuno pakrantės vieta, kur 1289 m. iškilo Ordino Landeshutės pilis, vėliau siejama su skalviais ir karo veiksmais.'
+socialDescription: 'Ragainė: nuo Landeshutės pilies Nemuno pakrantėje iki skalvių, Ordino administracijos, krikšto ir karo veiksmų pėdsakų šaltiniuose.'
+seo_atnaujinta: '2026-07-02T23:12:35.192173+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,7 +37,7 @@ amziai:
 
 ## Santrauka
 
-Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio taško vieta: čia po 1289 m. įsitvirtino Ordino pilis, vietovė dokumentuose perėjo nuo Landeshutės vardo prie Ragainės, o kronikoje ji minima ir kaip krikšto bei karo veiksmų vieta.
+Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordinas pastatė Landeshutės pilį, vėliau vadintą Ragaine. Ji minima kaip skalvių pilies aplinka, Ordino administracinis centras, krikšto vieta ir karo veiksmų taškas. Šaltiniuose Ragainė siejama su puolimais, belaisviais ir 1412 m. Lietuvos bajorų teiginiu, kad Ragainė bei Karaliaučius kitados priklausė Lietuvai.
 
 ## Teiginiai
 

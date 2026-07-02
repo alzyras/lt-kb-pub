@@ -19,6 +19,11 @@ datos:
   - '2026 m.'
 date_start: '1291'
 date_end: '2026'
+description: 'Prancūzija minima Lietuvos istorijos kontekstuose: nuo baroko kultūros ir 1791 m. konstitucijų iki Jono Žemaičio-Vytauto studijų.'
+socialDescription: 'Prancūzija Lietuvos istorijoje siejama su baroko kultūros sklaida, konstitucinėmis idėjomis, kryžiaus žygiais, partizanų vadovybe ir diplomatija.'
+seo_atnaujinta: '2026-07-02T23:12:35.372980+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,7 +38,7 @@ amziai:
 
 ## Santrauka
 
-Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją. Atvykęs ir vainikavęsis Krokuvoje, jis savo pažadų nepaisė, vedybas su Ona vis atidėliojo ir svajojo valdyti taip, kaip buvo valdoma Prancūzija, t.
+Prancūzija Lietuvos istorijos žinių bazėje minima kaip Vakarų Europos valstybė, susijusi su kultūros, politikos ir karo istorijos kontekstais. Ji siejama su baroko kultūros sklaida, Prancūzijos revoliucijos idėjų poveikiu Gegužės trečiosios konstitucijai ir LLV Konstitucijos palyginimu su 1791 m. Prancūzijos konstitucija. Prancūzija taip pat minima kryžiaus žygių, Tamplierių ordino, Jono Žemaičio-Vytauto studijų ir Lietuvos diplomatinės tarnybos veiklos kontekstuose.
 
 ## Teiginiai
 

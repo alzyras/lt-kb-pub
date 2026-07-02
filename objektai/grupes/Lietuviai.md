@@ -28,6 +28,11 @@ atnaujinta: ''
 amziai:
   - 'XI'
   - 'XVI'
+description: 'Lietuviai XI–XVI a. šaltiniuose: žygiai, kova su ordinais, bendro gynimosi idėjos, seimai, Prūsai ir valstybės vizija.'
+socialDescription: 'Lietuvių istorijos santrauka apie XI–XVI a. šaltinius, karinius žygius, santykius su ordinais, seimų idėjas ir valstybės viziją.'
+seo_atnaujinta: '2026-07-02T23:12:34.857384+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - grupe
   - tauta
@@ -36,7 +41,7 @@ tags:
 
 ## Santrauka
 
-Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateikiamas kaip anksti istoriniuose šaltiniuose paminėtas. Daukanto pasakojime lietuviai dar rodomi kaip sena tauta, prieš Kristaus gimimą gyvenusi prie Juodųjų pamarių, save vadinusi ir kalnėnais, aukštėjais bei žemaičiais pagal gyvenamą vietą, o Perūną garbinusi ugnia.
+Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų ir žygių iki politinių susitarimų dėl bendro gynimosi bei seimų. XIII–XIV a. pasakojimuose jie vaizduojami kaip pagonys, kariavę su ordino riteriais ir aukas deginę šventomis laikytose vietose. Vėlesniuose šaltiniuose lietuviai siejami su savitais Lietuvos urėdais, etnografinėmis ribomis grindžiama valstybe ir santykiu su Prūsais, Livonija bei Lenkija.
 
 ## Teiginiai
 <a id="claim-t-10785"></a>

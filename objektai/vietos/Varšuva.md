@@ -18,6 +18,11 @@ datos:
   - '1899 m.'
 date_start: '1377'
 date_end: '1899'
+description: 'Varšuva Lietuvos istorijoje siejama su 1570–1572 m. monetų keitimu, 1573 m. konfederacija, kultūra ir XX a. politika.'
+socialDescription: 'Varšuva jungia Lietuvos istorijos politinius, finansinius ir kultūrinius siužetus: nuo monetų keitimo ir 1573 m. konfederacijos iki „Varpo“, Čiurlionio studijų ir XX a. santykių su Lenkija.'
+seo_atnaujinta: '2026-07-02T23:12:35.151780+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,7 +38,7 @@ amziai:
 
 ## Santrauka
 
-Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki 1564 m. vasario 22 d. (lietuviams išvažiavus, lenkų seimas dar posėdžiavo iki kovo 23 d.). Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvaujant visiems abiejų valstybių bajorams. Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.
+Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių sprendimų, finansinių operacijų ir kultūrinių ryšių vieta. Čia 1570–1572 m. minima lietuviškų monetų keitimo į lenkiškus pinigus eiga, o 1573 m. Varšuvos konfederacijoje įformintas daugiakonfesiškumas Lenkijoje. Su Varšuva taip pat siejami Žygimanto Augusto 1571 m. valios pareiškimas ir testamentas, lietuvių studentų draugija „Lietuva“, „Varpas“ bei XX a. Lietuvos ir Lenkijos politiniai santykiai.
 
 ## Teiginiai
 

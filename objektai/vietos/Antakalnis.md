@@ -7,6 +7,11 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+description: 'Antakalnis siejamas su Šv. Petro ir Povilo bažnyčia, pagoniškos šventyklos padavimais ir lietuviška vietovardžio kilme.'
+socialDescription: 'Antakalnis pristatomas per Vilijos pakrantės priemiesčio užuomazgas, Šv. Petro ir Povilo bažnyčią, pagoniškos šventyklos tradiciją ir lietuvišką vietovardžio aiškinimą.'
+seo_atnaujinta: '2026-07-02T23:12:35.448062+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - vieta
 ---
@@ -14,7 +19,7 @@ tags:
 
 ## Santrauka
 
-Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pagonių šventyklos tradicija ir priemiesčio formavimosi užuomazgomis palei Viliją. Balińskio pasakojime Antakalnio vietovardis aiškinamas lietuviškais, ne lotyniškais, pagrindais.
+Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuomazgos siejamos su vienišomis trobomis palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos. Pasakojimuose minima dabartinės Šv. Petro ir Povilo bažnyčios vietoje stovėjusi pagoniška šventovė, o bažnyčios statyba siejama su Mykolu Pacu ir Goštauto padavimu. Balińskis Antakalnio pavadinimą aiškina lietuviška kilme, iš formų „ant to kalno“ arba „ant pakalnės“.
 
 ## Teiginiai
 <a id="claim-t-83136"></a>

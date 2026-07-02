@@ -8,6 +8,11 @@ datos:
   - '1325 m.'
 date_start: '1236'
 date_end: '1325'
+description: 'Loreta Uzdraitė minima kaip istorinių kartoschemų ir tekstų bendraautorė apie XIII-XIV a., partizanus ir 1991 m. gynybą.'
+socialDescription: 'Loreta Uzdraitė žinių bazėje siejama su kartoschemomis ir tekstais apie XIII-XIV a. Lietuvą, partizanus ir 1991 m. gynybą.'
+seo_atnaujinta: '2026-07-02T23:12:35.480328+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,7 +27,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir informacinių blokų bendraautorė. Jos bendraautorystė matoma tiek viduramžių, tiek partizaninio karo ir 1991 m. medžiagoje.
+Loreta Uzdraitė žinių bazėje pristatoma kaip istorinių kartoschemų ir tekstų bendraautorė. Jos vardas siejamas su darbais apie 1236 m. kryžininkų pajėgų telkimą prieš Lietuvą, Kalavijuočių ordino įsiveržimą į Šiaulių žemę ir Mindaugo valdomą Lietuvą iki 1263 m. Ji taip pat minima medžiagoje apie Algirdo žygius į Maskvą, Lietuvos partizanų apygardas, partizanų mūšius ir 1991 m. AT rūmų gynybos ruožus.
 
 ## Darbai
 

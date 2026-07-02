@@ -28,6 +28,11 @@ atnaujinta: ''
 amziai:
   - 'XII'
   - 'XX'
+description: 'Lenkai Lietuvos istorijoje: unijų ginčai, Vytauto politika, kariniai ryšiai, Vilnius ir Vilniaus krašto autonomijos planai.'
+socialDescription: 'Lenkai Lietuvos istorijos kontekste atsiskleidžia per unijų politiką, Vytauto laikų santykius, karinius ryšius, Vilnių ir Vilniaus krašto klausimą.'
+seo_atnaujinta: '2026-07-02T23:12:34.905619+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - grupe
   - tauta
@@ -37,7 +42,7 @@ tags:
 
 ## Santrauka
 
-Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiškai visuomenei. Lenkai yra Traidenio karo priešininkai.
+Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų raida, Vytauto politika ir kariniais santykiais. Šaltiniuose jie veikia kaip sąjungininkai, derybų partneriai ir politinė jėga, siekusi riboti Lietuvos savarankiškumą remiantis Krėvos unija ar vėlesniais aktais. Kontekstas apima Vilnių, Žalgirio mūšio kariuomenių išsidėstymą ir Nepriklausomybės pradžios Vilniaus krašto autonomijos planus.
 
 ## Teiginiai
 <a id="claim-t-179126"></a>

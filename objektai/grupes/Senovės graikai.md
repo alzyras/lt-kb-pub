@@ -11,12 +11,17 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIV'
+description: 'Senovės graikai Narbuto ir A. Brücknerio tekstuose: mitologijos kilmė, egiptiečių įtaka, Apolonas, Bakchas ir romantikų kritika.'
+socialDescription: 'Senovės graikai Lietuvos istorijos žinių bazėje siejami su Narbuto mitologinėmis interpretacijomis, egiptiečių įtaka ir A. Brücknerio kritika romantikų sukurtam lietuvių Olimpui.'
+seo_atnaujinta: '2026-07-02T23:12:35.293567+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 ---
 # Senovės graikai
 
 ## Santrauka
 
-A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima rasti tai, ką sukūrė Indija, Iranas, Graikija ir Roma. Narbutas graikų nepastovumą vertino kaip ydą, lėmusią pasaulietinių ir religinių piktnaudžiavimų. Narbutas rašė, kad graikai iš egiptiečių perėmė dalį dangaus kūnų ir Titanų giminės garbinimo ir išplėtojo savo daugiadievystę.
+Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. Brücknerio polemiką apie mitologijos kilmę bei romantikų interpretacijas. Narbutas graikus siejo su egiptiečių religinėmis tradicijomis, daugiadievystės plėtra, Apolono, Bakcho, lemties dievybių ir Kabirų garbinimo motyvais. A. Brückneris šias plačias sąsajas vertino skeptiškai, ironizuodamas dėl romantikų sukurto lietuvių Olimpo.
 
 ## Teiginiai
 <a id="claim-t-189381"></a>

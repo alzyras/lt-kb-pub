@@ -26,6 +26,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XXI'
+description: 'Voluinė pristatoma kaip su LDK susijusi Rusios žemė, dėl kurios ginčytasi su Lenkija ir kuri minima Mindaugo, Vytauto bei Švitrigailos laikais.'
+socialDescription: 'Voluinė Lietuvos istorijoje iškyla kaip Rusios žemė, susijusi su Mindaugu, Vytautu, Švitrigaila ir Lietuvos ginčais su Lenkija.'
+seo_atnaujinta: '2026-07-02T23:12:35.174907+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - karalius
   - privilegija
@@ -36,7 +41,7 @@ tags:
 
 ## Santrauka
 
-Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyta sritis, kaip Vladimiro vyskupijos vieta ir kaip viena tankiau apgyventų bei su Kijevo prekyba susietų žemių.
+Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse ir ankstyvaisiais Mindaugo laikų ryšiais: 1219 m. sutartyje minimi Voluinės ir Lietuvos kunigaikščiai, o vėliau Mindaugas kariavo su Voluine dėl Danieliaus užgrobtų žemių. Gedimino ar Algirdo laikais Voluinė buvo Lietuvos politinėje įtakoje, o Vytautas ją ėmė laikyti tėvonijos dalimi. XV a. ji tapo Lietuvos ir Lenkijos ginčo objektu, buvo valdoma Švitrigailos ir minima kaip viena tankiau gyvenamų sričių greta tikrosios Lietuvos, Palenkės ir…
 
 ## Teiginiai
 <a id="claim-t-112336"></a>

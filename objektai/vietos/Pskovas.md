@@ -22,6 +22,11 @@ datos:
   - '2026 m.'
 date_start: '1000'
 date_end: '2026'
+description: 'Pskovas Lietuvos istorijoje siejamas su ankstyvais lietuvių žygiais, Vytauto įtakos politika ir konfliktais su Maskva.'
+socialDescription: 'Pskovas buvo svarbus Lietuvos valdovų rytų politikos taškas: nuo 1183 m. žygio iki Vytauto bandymų įtvirtinti įtaką.'
+seo_atnaujinta: '2026-07-02T23:12:35.055706+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -37,7 +42,7 @@ amziai:
 
 ## Santrauka
 
-Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas. Nuo pat Melno taikos jis jau ėmė galvoti apie žygį į Pskovą, į kurį teišsiruošė vos 1426 m. Paties Pskovo jis nepaėmė, pasitenkindamas 1.000 rublių kontribucija (anais laikais tai buvo milžiniška suma).
+Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis centras, į kurį krypo Lietuvos valdovų dėmesys. 1183 m. lietuviai nusiaubė Pskovą per vieną ankstyvųjų žygių į Rusios žemes, o Gedimino ar Algirdo laikais miestas buvo siejamas su Lietuvos politine įtaka. Vytautas siekė stiprinti įtaką Pskove, tačiau karas baigėsi kontribucija, o vėliau Pskovo klausimas komplikavo santykius su Maskva.
 
 ## Teiginiai
 

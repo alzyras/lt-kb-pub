@@ -14,6 +14,11 @@ datos:
   - '2026 m.'
 date_start: '1245'
 date_end: '2026'
+description: 'Jotvingiai – XIII a. šaltiniuose minima baltų grupė, siejama su Jotvingija, karais, badmečiais ir Vokiečių ordino asimiliacija.'
+socialDescription: 'Kas buvo jotvingiai? Trumpa apžvalga apie jų žemes, ryšius su lietuviais, XIII a. karus, badmečius ir sunykimą.'
+seo_atnaujinta: '2026-07-02T23:12:35.313483+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių ir latvių tautos.
+Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino. Šaltiniuose minima, kad 1245 m. jie prisidėjo prie pamarėnų–prūsų sąjungos kartu su lietuviais, o 1282 m. drauge su lietuviais teriojo Liublino ir Sandomiero žemes. Jų sunykimas siejamas su Vokiečių ordino nukariavimu, asimiliacija, badmečiais, marais ir to meto karais.
 
 ## Teiginiai
 

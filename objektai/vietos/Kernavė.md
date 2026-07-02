@@ -19,6 +19,11 @@ atnaujinta: ''
 amziai:
   - 'XX'
   - 'XXI'
+description: 'Kernavė siejama su galima Mindaugo sostine, Ordino žygiais, Trakų pilies legenda ir Lietuvos vardo kilmės versija iš Lietaukos.'
+socialDescription: 'Kernavė Lietuvos istorijos šaltiniuose siejama su Mindaugo sostinės klausimu, kryžiuočių žygiais, Trakų pilimi ir Lietaukos vardu.'
+seo_atnaujinta: '2026-07-02T23:12:35.289835+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - mokslininkas
   - vieta
@@ -27,7 +32,7 @@ tags:
 
 ## Santrauka
 
-kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
+Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiewiczius ją laikė galima Mindaugo sostine, jei valdovas turėjo pastovią sostinę. Su Kernave siejami Ordino ir Vytauto pulkų žygiai, Trakų pilies įkūrimo vietos aprašymai Lietuvos metraštyje ir Lietuvos vardo kilmės versija iš Lietaukos upelio. Kiti liudijimai rodo Kernavės reikšmę Neries kelių, tiltų ir perkėlų reguliavime.
 
 ## Teiginiai
 <a id="claim-t-173444"></a>

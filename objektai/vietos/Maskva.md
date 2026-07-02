@@ -29,6 +29,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XVII'
+description: 'Maskva Lietuvos istorijoje siejama su Algirdo žygiais, Vytauto rytų politika, Metrikos likimu ir 1940 m. delegacijos veiksmu.'
+socialDescription: 'Maskva čia atsiskleidžia kaip Lietuvos rytų politikos centras: nuo Algirdo žygių ir Vytauto planų iki Metrikos likimo bei 1940 m. įvykių.'
+seo_atnaujinta: '2026-07-02T23:12:34.950776+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - vieta
 ---
@@ -36,7 +41,7 @@ tags:
 
 ## Santrauka
 
-Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas ir ilgainiui išaugęs pavojus, pagal kurį autorius siūlo matyti Lietuvos istorijos lūžius. Šiame šaltinyje Maskva taip pat rodoma kaip Vytauto dinastinių planų ir artimos giminystės su Sofija centras.
+Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir ilgainiui stiprėjanti grėsmė. Algirdo žygiai į Maskvą minimi Lietuvos metraščių epiniuose siužetuose, o Vytautas siekė ją paimti savo valdžion arba bent turėti didelę įtaką. Vėlesniuose kontekstuose Maskva siejama su Lietuvos Metrikos saugojimu, Basanavičiaus studijomis ir 1940 m. delegacijos prašymu įeiti į SSRS sudėtį.
 
 ## Teiginiai
 <a id="claim-t-177701"></a>

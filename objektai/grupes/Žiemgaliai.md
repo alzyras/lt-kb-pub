@@ -16,6 +16,11 @@ datos:
   - '2026 m.'
 date_start: '1220'
 date_end: '2026'
+description: 'Žiemgaliai – ankstyvųjų Viduramžių šaltiniuose minima tauta, kovojusi su Livonijos ordinu ir vėliau asimiliuota lietuvių bei latvių.'
+socialDescription: 'Žiemgaliai minimi kaip atskirą kalbą turėjusi duoklinė tauta, sukilusi prieš kryžiuočius ir įtraukta į kovas su Livonijos ordinu.'
+seo_atnaujinta: '2026-07-02T23:12:35.304275+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,7 +35,7 @@ amziai:
 
 ## Santrauka
 
-Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės mūšio žiemgaliai buvo atsimetę nuo ordino ir prisidėję prie Lietuvos.
+Žiemgaliai ankstyvaisiais Viduramžiais minėti Vakarų metraštininkų ir Nestoro „Povest“ kaip atskirą kalbą turėjusi duoklinė tauta. Jie sukilo prieš griežtą kryžiuočių valdžią, gynė Tervetės pilį, o po Dobės pilies pastatymo liko įtraukti į kovas su Livonijos ordinu. Traidenis 1269–1282 m. rėmė žiemgalius, o pietines jų žemių sritis vėliau asimiliavo lietuviai.
 
 ## Teiginiai
 

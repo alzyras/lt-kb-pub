@@ -16,6 +16,11 @@ datos:
   - '2026 m.'
 date_start: '1924'
 date_end: '2026'
+description: 'LKP istorija: nuo pogrindžio tarpukariu ir 1940 m. sovietizacijos iki 1989 m. atsiskyrimo nuo SSKP ir 1990 m. krizės.'
+socialDescription: 'Lietuvos komunistų partijos kelias nuo pogrindinės organizacijos iki sovietinės valdžios atramos, 1989 m. lūžio ir 1990 m. krizės.'
+seo_atnaujinta: '2026-07-02T23:12:35.315993+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +36,7 @@ amziai:
 
 ## Santrauka
 
-LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po dešimt dienų nuo perversmo pradžios sušaudyti – tai turėjo reikšti, kad tikrieji kaltininkai nubausti, nors opozicinės partijos komunizmo pavojaus nematė. Smetonai atrodė nepavojinga nusilpusių kairiųjų partijų veikla, ėjo jų laikraščiai, nekėlė grėsmės pogrindyje esanti negausi (apie 1 200 narių) Lietuvos komunistų partija, nors Maskva ir pumpavo valiutą į jos subliuškusius raumenis.
+Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai neatrodė kelianti didelę grėsmę, nors Maskva ją rėmė. 1940 m. maža LKP talkino Vladimirui Dekanozovui, o sovietizacijos metu komunistai užėmė svarbius postus, įteisino LKP ir apribojo politinį gyvenimą. Sovietmečiu partija kontroliavo kultūrą, administraciją ir rinkimus, o 1989 m. XX suvažiavimas bei atsiskyrimas nuo SSKP pakeitė jos kryptį. 1990 m. prosovietiška LKP dalis siejo veiklą su spaudimu Lietuvos nepriklausomybei ir mėginamu…
 
 ## Teiginiai
 

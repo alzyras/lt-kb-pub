@@ -13,6 +13,11 @@ datos:
   - '2026 m.'
 date_start: '1440'
 date_end: '2026'
+description: 'Melnikas – Palenkės vieta, minima LDK pilių, kovų su Mazovija ir Lietuvos metraščio pasakojimų kontekste iki 1501 m.'
+socialDescription: 'Melnikas siejamas su Palenke, LDK pilimis, Lietuvos metraščio pasakojimais ir Aleksandro kelione į Krokuvą 1501 m.'
+seo_atnaujinta: '2026-07-02T23:12:35.473082+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.
+Melnikas buvo Palenkės vieta, minima krikščioniškų Trakų kunigaikštijos žemių, LDK pilių statybos ir kovų su Mazovija kontekste. Lietuvos metraštyje jis pasirodo pasakojimuose apie nusiaubtus miestus, kunigaikščių kovas ir įgulas. 1501 m. Aleksandras iš Melniko išvyko į Krokuvą, kur buvo vainikuotas Lenkijos karaliumi.
 
 ## Teiginiai
 

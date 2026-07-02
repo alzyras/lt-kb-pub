@@ -30,6 +30,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XVII'
+description: 'Smolenskas – svarbi Dniepro aukštupio tvirtovė: ją valdė Vytautas, o 1514 m. po Maskvos apgulties miestas buvo paimtas.'
+socialDescription: 'Smolenskas Lietuvos istorijoje minimas kaip strateginė Dniepro aukštupio tvirtovė, dėl kurios varžėsi Lietuva ir Maskva.'
+seo_atnaujinta: '2026-07-02T23:12:35.101219+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - karalius
   - karas
@@ -40,7 +45,7 @@ tags:
 
 ## Santrauka
 
-Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos.
+Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiaurės rytų valdų atrama. Vytautas 1404 m. užvaldė miestą ir paskyrė jame savo vietininką, tačiau 1514 m. Smolenskas po Maskvos apgulties buvo paimtas. Vėliau Zigmanto Vazos laikais miestas buvo atgautas, bet Andrusavos sutartimi vėl atiduotas Maskvai.
 
 ## Teiginiai
 <a id="claim-t-180537"></a>

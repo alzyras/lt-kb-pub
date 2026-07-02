@@ -33,12 +33,17 @@ atnaujinta: ''
 amziai:
   - 'IX'
   - 'XIX'
+description: 'Prūsija Lietuvos istorijoje siejama su Kryžiuočių ordinu, karais, Vilniaus prekyba, Klaipėdos uostu ir Respublikos padalijimais.'
+socialDescription: 'Prūsijos įrašas apima Kryžiuočių ordino veiklą, Lietuvos kovas ir sutartis, Vilniaus prekybos ryšius bei vėlesnius Respublikos padalijimus.'
+seo_atnaujinta: '2026-07-02T23:12:34.942841+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 ---
 # Prūsija
 
 ## Santrauka
 
-Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklausomą Prūsiją. Prūsijoje (ji, kaip Lenkijos lenas, buvo valdoma Brandenburgo elektoriaus) 6 metams buvo palikti švedams kai kurie uostai, jų tarpe ir Klaipėda. To meto Lietuvos miestuose beveik visi pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas išbėgo į Prūsiją, ypač į Karaliaučių. Žemaičių kraštas tarp Išlos ir Nemuno buvo vadinamas Prūsais arba Parusais. Su šiuo kraštu siejama Rusnės salos vardo kilmė.
+Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veikla, karais ir Lietuvos valdovų pretenzijomis į žemes iki Deimės ir Alės upių. 1325 m. Vilniuje Gediminas ir Lokietka sudarė sutartį kovoti su Prūsijos ordinu, o Vytauto laikais Vilniaus prekyba siekė Prūsijos miestus. Vėlesniuose šaltiniuose Prūsija minima dėl švedams laikinai paliktų uostų, tarp jų Klaipėdos, ir dėl Abiejų Tautų Respublikos II padalijimo 1793 m.
 
 ## Pavadinimai šaltiniuose
 

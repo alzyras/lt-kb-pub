@@ -21,6 +21,11 @@ datos:
   - '2026 m.'
 date_start: '1307'
 date_end: '2026'
+description: 'Vitebskas siejamas su LDK rytinėmis sritimis, Dauguvos prekyba, Jogailos žygiu į Vilnių ir Vytauto bei Skirgailos veikimu.'
+socialDescription: 'Vitebskas – LDK rytinių žemių ir Dauguvos kelio mazgas, minimas Jogailos, Vytauto, Skirgailos ir Švitrigailos kovų kontekste.'
+seo_atnaujinta: '2026-07-02T23:12:35.074524+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -36,7 +41,7 @@ amziai:
 
 ## Santrauka
 
-Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio į Vilnių ir Kijevą mazgas bei kaip viena iš vėliau panaikintų didžiųjų kunigaikštijų.
+Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvos Didžiosios Kunigaikštystės sritis ir Dauguvos prekybos kelio dalis. Su juo siejamas 1382 m. Jogailos atvykimas į Vilnių, Hanulio perduoti pilies raktai ir vėlesnis Vytauto bei Skirgailos Vitebsko paėmimas 1392 m. Miestas taip pat minimas platesniame Polocko, Smolensko, Minsko ir kitų rytinių žemių politiniame bei kariniame kontekste.
 
 ## Teiginiai
 

@@ -22,6 +22,11 @@ atnaujinta: ''
 amziai:
   - 'XVIII'
   - 'XX'
+description: 'Peterburgas siejamas su LLV padalijimo konvencijomis, reformų opozicija, geležinkeliu Peterburgas–Varšuva ir lietuvių veikla.'
+socialDescription: 'Peterburgas Lietuvos istorijoje: nuo Targovicos konfederacijos ir LLV padalijimo konvencijų iki geležinkelio bei lietuvių centrų Pirmojo pasaulinio karo metais.'
+seo_atnaujinta: '2026-07-02T23:12:35.400867+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - miestas
   - reforma
@@ -32,7 +37,7 @@ tags:
 
 ## Santrauka
 
-Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius reformų priešininkus. Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo. 1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peterburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos valstybingumo likučius ir nubrėžė tikslias sienas.
+Peterburgas Lietuvos istorijoje minimas kaip vieta, kur telkėsi reformų opozicija ir buvo surašytas Targovicos konfederacijos aktas. 1795 m. spalio 24 d. čia Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo, o 1797 m. sausio 26 d. Peterburgo konvencija patvirtino padalijimą ir panaikino valstybingumo likučius. XIX a. Lietuvą kirto geležinkelis Peterburgas–Varšuva, o vėliau į Sankt Peterburgą perkelta Vilniaus Romos katalikų dvasinė akademija.
 
 ## Teiginiai
 <a id="claim-t-77132"></a>

@@ -14,6 +14,11 @@ datos:
   - '1274 m.'
 date_start: '1246'
 date_end: '1274'
+description: 'Bartai, arba bartėnai, gyveno Didžiojoje ir Mažojoje Bartoje, dalyvavo prūsų kovose ir 1274 m. vėl pasidavė tikėjimui.'
+socialDescription: 'Bartai buvo prūsų grupė iš Didžiosios ir Mažosios Bartos, siejama su Divano vadovaujamais žygiais ir 1274 m. pasidavimu.'
+seo_atnaujinta: '2026-07-02T23:12:35.274723+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai ir kt.
+Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a. šaltiniuose jie minimi tarp prūsų, kovojusių su broliais, o jų vadas Divanas, pravarde Klokinis, rengė žygius į Kulmo žemę, Kristburgo ir Marienburgo apylinkes bei apsiautė Senenzės pilį. Po Divano žūties ir vėlesnių įvykių 1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų.
 
 ## Teiginiai
 

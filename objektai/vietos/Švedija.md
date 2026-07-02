@@ -26,6 +26,11 @@ atnaujinta: ''
 amziai:
   - 'VII'
   - 'XXI'
+description: 'Švedija Lietuvos istorijoje siejama su ankstyva ekspansija prie Apuolės, Vazų karais, „tvanu“ ir kova dėl Baltijos.'
+socialDescription: 'Švedija Lietuvos istorijoje: nuo ankstyvos ekspansijos prie Apuolės iki Vazų laikų karų, Kėdainių sutarties ir „tvano“.'
+seo_atnaujinta: '2026-07-02T23:12:35.332366+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - karas
   - kunigaikštis
@@ -36,7 +41,7 @@ tags:
 
 ## Santrauka
 
-Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras. Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija. Tėvui mirus, 1593 m. jis nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei, Sudermanlandijos kunigaikščiui Karoliui.
+Švedija Lietuvos istorijoje iškyla nuo VII a. ekspansijos iš Gotlando ir vidurio Švedijos, kai švedai įsitvirtino Grobine ir užėmė Apuolės pilį. XVI a. ją su Lietuva siejo diplomatiniai ir dinastiniai ryšiai: 1581 m. iš Vilniaus siųsta pasiuntinybė į Švediją, o Suomijos kunigaikštis Jonas Vilniuje vedė Kotryną Jogailaitę. XVII a. ATR kariavo su Švedija 1600–1629 m. ir 1655–1660 m.; šie konfliktai siejosi su Švedijos siekiu viešpatauti Baltijos jūroje ir „tvano“ invazija.
 
 ## Teiginiai
 <a id="claim-t-122987"></a>

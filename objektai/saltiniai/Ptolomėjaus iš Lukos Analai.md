@@ -14,6 +14,11 @@ datos:
   - '1327 m.'
 date_start: '1112'
 date_end: '1327'
+description: 'Ptolomėjaus iš Lukos „Analai“ – bažnyčios istorijos šaltinis apie popiežius, imperatorius, ordinus, stebuklus ir XIII–XIV a. įvykius.'
+socialDescription: 'Ptolomėjaus iš Lukos „Analai“ pristato XIII–XIV a. bažnyčios istorijos epizodus: popiežius, ordinus, stebuklus ir politines nesantaikas.'
+seo_atnaujinta: '2026-07-02T23:12:35.467733+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a. Dusburgietis teigia, kad apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius Po to viešpatavo Inocentas III, popiežius, ir Otonas IV bei Fridrichas II, imperatoriai (Ptol. 21,1 ir 2; Mart. p. 385). Dusburgietis teigia, kad apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).
+Ptolomėjaus iš Lukos „Analai“ yra bažnyčios istorijos šaltinis, siejamas su Tomo Akviniečio mokiniu ir popiežiaus bibliotekininku Ptolomėjumi iš Lukos. Tekste minimi popiežių, imperatorių ir ordinų istorijos epizodai: Inocento III, Honorijaus III, Klemenso V laikai, Brolių pamokslininkų ordinas ir tamplierių pasmerkimas 1312 m. Šaltinyje taip pat pasakojama apie stebuklus, ženklus danguje ir Bonifaco bei Prancūzijos karaliaus Pilypo nesantarvę.
 
 ## Teiginiai
 

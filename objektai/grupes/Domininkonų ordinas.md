@@ -15,6 +15,11 @@ datos:
   - '2026 m.'
 date_start: '1216'
 date_end: '2026'
+description: 'Domininkonų ordinas siejamas su Gedimino laiškais, krikščionybės sklaida, kryžiaus karo telkimu ir Vilniaus ginčais dėl Vingrių šaltinių.'
+socialDescription: 'Domininkonai šaltiniuose matomi tarp Gedimino laiškų adresatų, evangelizacijos veikėjų, kryžiaus karo skelbėjų ir Vilniaus miestiečių ginčų dalyvių.'
+seo_atnaujinta: '2026-07-02T23:12:35.387563+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,7 +32,7 @@ amziai:
 
 ## Santrauka
 
-Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę. Šiame šaltinyje domininkonai papildomai rodomi kaip kryžiaus karo telkėjai, Gedimino laiškų adresatai ir Rygoje veikusios evangelizacinės aplinkos dalis.
+Domininkonų ordinas Lietuvos istorijos šaltiniuose iškyla kaip krikščionybės sklaidos, diplomatinių ryšių ir kryžiaus karo mobilizacijos dalyvis. 1323 m. gegužės 26 d. laiškai buvo siunčiami Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams. Šaltiniai taip pat mini domininkonams suteiktą laisvę krikštyti, pamokslauti ir atlikti apeigas, Bonifaco IX paskirtą Vladimiro vyskupą domininkoną Gregorijų ir Vilniaus ginčus dėl Vingrių šaltinių.
 
 ## Teiginiai
 

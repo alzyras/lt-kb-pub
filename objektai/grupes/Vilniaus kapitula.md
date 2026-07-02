@@ -14,6 +14,11 @@ datos:
   - '2026 m.'
 date_start: '1059'
 date_end: '2026'
+description: 'Vilniaus kapitula – katedros dvasininkų institucija, turėjusi valdų, pajamų ir jurisdikcijos teisių, veikusi miesto religiniame gyvenime.'
+socialDescription: 'Vilniaus kapitula: Panerių valdos, bažnytinė jurisdikcija, ginčai su miestu ir Radvilomis bei vaidmuo kviečiant jėzuitus į Vilnių.'
+seo_atnaujinta: '2026-07-02T23:12:35.157828+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su šventimais; be to, tik tas vienas tebuvo lietuvis, o visi kiti buvo lenkai.
+Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Panerius ir kitas Jogailos jai perduotas pajamas. Ji turėjo bažnytinės jurisdikcijos teises savo asmenų ir valdinių bylose, o miestas ginčijo, jo teigimu, naujai kapitulos pasisavintą jurisdikciją. XVI a. šaltiniuose kapitula minima nuomos, činšo ir teismo santykiuose su Radvilomis, taip pat kaip jėzuitų pakvietimą į Vilnių 1569 m. paskatinusi institucija.
 
 ## Teiginiai
 

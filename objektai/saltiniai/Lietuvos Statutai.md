@@ -14,6 +14,11 @@ datos:
   - '1992 m.'
 date_start: '1529'
 date_end: '1992'
+description: 'Lietuvos Statutai – trys LDK teisynai, priimti 1529, 1566 ir 1588 m., įtvirtinę bajorų teises ir LDK teisinę tradiciją.'
+socialDescription: 'Lietuvos Statutai apibrėžė LDK teisę, bajorų politines teises ir tapo svarbiu valstybės raštijos bei teisinės tradicijos paminklu.'
+seo_atnaujinta: '2026-07-02T23:12:35.455262+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.), savo ištakomis siekianti dabartinių ukrainiečių ir baltarusių protėvių kalbą, vadinta lieĮvadas • L I E T U VA – V I D U R I O E U R O P O S D A L I S 15 tuvių kalba. Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.
+Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais. Jie laikomi vienais reikšmingiausių to meto raštijos paminklų, kartu su Lietuvos Metrika ir Lietuvos metraščiais. Statutai įtvirtino bajoriškąją santvarką, LDK teisės tradiciją ir kai kurias krikščioniškų konfesijų teisių lygybės normas.
 
 ## Teiginiai
 

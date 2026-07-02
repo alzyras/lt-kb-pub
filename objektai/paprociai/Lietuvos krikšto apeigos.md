@@ -11,6 +11,11 @@ datos:
   - '1403 m.'
 date_start: '1387'
 date_end: '1403'
+description: '1387 m. Lietuvos krikšto apeigos Vilniuje: bajorų krikštas, būriais krikštijami gyventojai, balti rūbai ir bažnyčių steigimas.'
+socialDescription: 'Lietuvos krikšto apeigos 1387 m. Vilniuje jungė religinį mokymą, bajorų ir gyventojų krikštą būriais, pagoniškų šventviečių naikinimą ir naujų bažnyčių steigimą.'
+seo_atnaujinta: '2026-07-02T23:12:35.363028+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos krikštas buvo vykdomas kaip aiškiai suorganizuota apeiginė ir politinė praktika: pirmiausia krikštyti bajorai, naikintos pagoniškos šventvietės, gyventojai skirstyti į būrius, duoti nauji vardai ir balti rūbai. Krikšto teikimas neapsiribojo Vilniumi, bet buvo tęsiamas ir kitose vietose, steigiamose parapijose.
+1387 m. Lietuvos krikšto apeigos prasidėjo Vilniuje: pirmiausia krikštyti bajorai, o žmonės buvo mokomi tikėjimo tiesų ir krikštijami būriais. Jogailos įsakymu naikintos pagoniškos šventvietės, šventi medžiai, giraitės, aukų židiniai ir namuose gerbiami žalčiai. Pakrikštytiesiems buvo suteikiami vardai ir balti rūbai, o krikštas tęstas ir kitose Lietuvos vietose, kur pradėtos statyti bažnyčios.
 
 ## Laikotarpis ir datos
 

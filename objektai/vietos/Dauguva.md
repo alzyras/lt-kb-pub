@@ -17,6 +17,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XXI'
+description: 'Dauguva Lietuvos istorijoje minima kaip baltų žemių riba, kovų su ordinais, švedais ir bolševikais erdvė.'
+socialDescription: 'Dauguva siejama su baltų genčių arealais, XIII a. kovomis, Aizkraukle, Treniotos žygiais ir Lietuvos kariuomenės veiksmais fronte.'
+seo_atnaujinta: '2026-07-02T23:12:35.418913+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - karas
   - upė
@@ -26,7 +31,7 @@ tags:
 
 ## Santrauka
 
-Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją. Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją. Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.
+Dauguva Lietuvos istorijos šaltiniuose minima kaip svarbi geografinė riba ir karo veiksmų erdvė. Su ja siejami baltų genčių arealai, vokiečių ekspansijos nublokštis XIII a., Aizkrauklės kautynės, Treniotos ir žemaičių žygiai bei vėlesni Lietuvos kariuomenės veiksmai Dauguvos fronte.
 
 ## Teiginiai
 <a id="claim-t-182751"></a>

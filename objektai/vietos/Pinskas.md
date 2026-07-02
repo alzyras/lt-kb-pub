@@ -17,6 +17,11 @@ datos:
   - '2026 m.'
 date_start: '1345'
 date_end: '2026'
+description: 'Pinskas Lietuvos istorijos šaltiniuose siejamas su Narimantu, Vytauto bažnyčių fundacijomis, jėzuitų kolegija ir Polese.'
+socialDescription: 'Pinskas siejamas su Narimanto kunigaikštyste, Vytauto bažnyčiomis, jėzuitų kolegija ir Lietuvos Didžiosios Kunigaikštystės istorija.'
+seo_atnaujinta: '2026-07-02T23:12:35.460836+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,7 +37,7 @@ amziai:
 
 ## Santrauka
 
-Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske. Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny. Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr.
+Pinskas minimas kaip Narimanto, valdžiusio Turovą ir Pinską, kunigaikštystės centras. Su šia vieta siejami Jaunučio pabėgimas po 1345 m. Kęstučio puolimo, Narimanto žūtis 1348 m. Strėvos kautynėse ir vėlesnis atskirų kunigaikštysčių nykimas. Pinskas taip pat įvardijamas tarp vietų, kur Vytautas pastatė bažnyčias, ir kaip jėzuitų kolegijos, funduotos Alberto Stanislovo Radvilos, vieta.
 
 ## Teiginiai
 

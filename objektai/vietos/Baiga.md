@@ -11,6 +11,11 @@ datos:
   - '1327 m.'
 date_start: '1239'
 date_end: '1327'
+description: 'Baiga – Ordino pilis, minima prūsų kovų, antrojo sukilimo, sembų žvalgybos ir Baigos brolių vienuoliško gyvenimo kontekste.'
+socialDescription: 'Baiga minima kaip Ordino pilis, susijusi su prūsų kovomis, apgula, sembų žvalgyba, brolių vienuolišku gyvenimu ir karo veiksmais.'
+seo_atnaujinta: '2026-07-02T23:12:35.308805+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti saviškius (III, 26). Dusburgietis teigia, kad po to ima pasakoti apie atskirų pilių bei miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas, Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174). Dusburgietis teigia, kad minimi čia 7 Ragainės komtūrai (1289—1324 m. laikotarpiu; Bertoldas iš Austrijos, Ernekė, Konradas, Folčas, Verneris, Fridrichas iš Libencelės, Ditrichas bei 1 vicekomtūras (III, 235, 239, 251, 297, 317, 332, 351, 300), 4 Karaliaučiaus komtūrai (Albertas iš.
+Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir vieta, minima pasakojimuose apie prūsų kovas bei antrąjį prūsų sukilimą. Šaltiniuose ji siejama su Baigos pilies apgula, sembų žvalgyba, brolių vienuolišku gyvenimu ir karo veiksmais prie pilies. Kronikoje taip pat minimi Baigos komtūrai ir teigiama, kad du laivai padėjo pastatyti Elbingo bei Baigos pilis.
 
 ## Teiginiai
 

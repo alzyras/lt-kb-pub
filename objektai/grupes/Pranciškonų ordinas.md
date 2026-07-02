@@ -20,6 +20,11 @@ datos:
   - '2026 m.'
 date_start: '1059'
 date_end: '2026'
+description: 'Pranciškonų ordinas Lietuvos istorijoje siejamas su Gedimino laiškais, Vilniaus bažnyčia, dvaro aplinka ir vėlesnėmis legendomis.'
+socialDescription: 'Pranciškonai Lietuvos istorijoje pasirodo kaip Gedimino laiškų adresatai, Vilniaus katalikiškos aplinkos dalis ir vėlesnių legendų objektas.'
+seo_atnaujinta: '2026-07-02T23:12:35.065342+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,7 +37,7 @@ amziai:
 
 ## Santrauka
 
-Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę. Šiame šaltinyje pranciškonai papildomai rodomi kaip kryžiaus karo telkėjai, Gedimino laiškų adresatai, jo dvaro aplinkoje veikę vienuoliai ir vėlesnių Vilniaus legendų objektas.
+Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais katalikų ryšiais, Gedimino dvaru ir Vilniuje minima pranciškonų bažnyčia. 1323 m. Gediminas kreipėsi į Saksonijos pranciškonus, prašydamas atsiųsti brolių prie jo pastatytų bažnyčių Vilniuje ir Naugarduke. Pasakojimai apie dviejų pranciškonų nužudymą Vilniuje Gedimino valdymo pabaigoje vėliau tapo ilgaamžių Vilniaus legendų pagrindu.
 
 ## Teiginiai
 

@@ -26,6 +26,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+description: 'Gediminaičių dinastija formavo Lietuvos valdžią XIV a., patyrė Krėvės unijos įtampas ir baigėsi 1572 m. po Zigmanto Augusto.'
+socialDescription: 'Gediminaičių dinastijos istorija: Krėvės unijos įtampos, Vytauto pertvarkos ir 1572 m. pasibaigusi valdovų linija.'
+seo_atnaujinta: '2026-07-02T23:12:35.148609+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - dinastija
   - grupe
@@ -36,7 +41,7 @@ tags:
 
 ## Santrauka
 
-Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo). Tačiau, kai paskutinysis tos dinastijos valdovas, Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,.
+Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės valdžios atramų, tačiau jos nariai ne visada veikė vieningai. Krėvės unija sulaukė ne visų Gediminaičių pritarimo, o Vytauto valdymo pradžioje daugelis jų pasirodė nepaklusnūs. Vytautas panaikino didžiąsias Gediminaičių kunigaikštijas, o dinastijos išmirimas 1572 m. po Zigmanto Augusto mirties pakeitė abiejų tautų politinę raidą.
 
 ## Teiginiai
 <a id="claim-t-12359"></a>

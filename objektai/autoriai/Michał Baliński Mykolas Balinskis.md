@@ -6,6 +6,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+description: 'Mykolas Balinskis – Vilniaus istorijos autorius, 1836 m. išleidęs pirmąją veikalo dalį ir palikęs istorinių darbų bei apybraižų.'
+socialDescription: 'Mykolas Balinskis – „Vilniaus miesto istorijos“ autorius, Vilnių aprašęs kaip Lietuvos mokslo ir vyriausiosios valdžios centrą.'
+seo_atnaujinta: '2026-07-02T23:12:35.392888+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +25,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus. Balinskis pa­ liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­ čiuose. Balinskis prisipažįsta, kad Vilniaus miesto is­ torijos pirmąjį tomą baigė rašyti 1825 metų pradžioje.
+Mykolas Balinskis buvo Vilniaus kultūrinio gyvenimo dalyvis ir Vilniaus universiteto suklestėjimo bei žlugimo liudininkas. Jis parašė „Vilniaus miesto istoriją“: pirmoji dalis pasirodė 1836 m., o antras tomas apėmė 1430–1586 m. Vilniaus istoriją. Balinskis paliko nemažai istorinių darbų ir apybraižų, dalis jų liko rankraščiuose.
 
 ## Teiginiai
 

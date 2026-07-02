@@ -17,6 +17,11 @@ datos:
   - '2026 m.'
 date_start: '1251'
 date_end: '2026'
+description: 'Lvovas žinių bazėje siejamas su Jogailos, Vytauto ir Jadvygos politika, Žemaičių vyskupijos steigimu ir karo žygiais.'
+socialDescription: 'Lvovas Lietuvos istorijos kontekste iškyla per Jogailos, Vytauto, Jadvygos ir Kazimiero veiklą, Bažnyčios reikalus bei karinius įvykius.'
+seo_atnaujinta: '2026-07-02T23:12:35.459536+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,7 +35,7 @@ amziai:
 
 ## Santrauka
 
-Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.
+Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta, susijusi su Jogaila, Vytautu ir Jadvyga. 1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką. Miestas taip pat siejamas su Žemaičių vyskupijos steigimo reikalais, Kazimiero apsilankymais 1485 m. ir karo veiksmais nuo Kameneco iki Lvovo apylinkių.
 
 ## Teiginiai
 

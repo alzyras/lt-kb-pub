@@ -13,6 +13,11 @@ datos:
   - '2026 m.'
 date_start: '1881'
 date_end: '2026'
+description: 'Alytus žymi mezolito radinių ruožą, 1919 m. kovas su bolševikais prie Nemuno ir sovietmečio pramonės vietinių darbininkų mastą.'
+socialDescription: 'Alytus Lietuvos istorijos įrašuose siejamas su mezolito radiniais, 1919 m. kovomis su bolševikais ir vietos pramonės raida.'
+seo_atnaujinta: '2026-07-02T23:12:35.498304+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siekia mezolito radinių ruožas paežerėse. Senesniame įraše yra likęs ir lakoniškas paminėjimas apie kovas prie Alytaus.
+Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolito radinių ruožu nuo Lydos iki Alytaus ir palei Nemuną. 1919 m. prie Alytaus vyko kovos su bolševikais, kurių pajėgos planavo per Nemuną pulti Kauną iš pietų. Vėlesniuose įrašuose Alytus minimas ir sovietmečio pramonės kontekste, kai vietos gamyklose didelę darbininkų dalį sudarė miesto ar rajono gyventojai.
 
 ## Teiginiai
 

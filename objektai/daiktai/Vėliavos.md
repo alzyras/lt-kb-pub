@@ -18,6 +18,11 @@ aliases:
   - 'objektai/daiktai/Karinės vėliavos'
 variantai:
   - 'Karinės vėliavos'
+description: 'Vėliavos kaip karo ženklai, riterių būrių simboliai ir Žalgirio mūšio epizodų dalis Lietuvos istorijos šaltiniuose.'
+socialDescription: 'Kaip vėliavos veikė karo apeigose, kariuomenės rikiuotėje ir Žalgirio mūšio pasakojimuose.'
+seo_atnaujinta: '2026-07-02T23:12:35.197282+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +36,7 @@ amziai:
 
 ## Santrauka
 
-Vyriausioji Lenkijos vėliava pateko į priešų rankas. Lietuvos pulkai paskui save buvo patraukę eilę priešo vėliavų. Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis. Prie karūžojo buvo laikoma karės vėliava tos apykartos. Šiame šaltinyje papildomai matyti, kad Algirdas prie Maskvos pasirodė išskleidęs vėliavas, o Žalgirio mūšyje Smolensko vėliavos dengė lenkų kraštines pozicijas ir krito didžioji Krokuvos vėliava.
+Vėliavos Lietuvos istorijos šaltiniuose pasirodo kaip karo ženklai, laiminimo apeigų dalis ir kariniai telkimosi centrai. Jos minimos prie karūžojo, kariaunos rikiuotėje ir riterių būriuose, kurie patys galėjo būti vadinami vėliavomis. Šaltiniai sieja vėliavas su Algirdo žygiu prie Maskvos 1368 m. ir Žalgirio mūšio epizodais, įskaitant Smolensko, Krokuvos bei šv. Jurgio vėliavas.
 
 ## Pavadinimai šaltiniuose
 

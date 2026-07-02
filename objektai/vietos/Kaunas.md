@@ -29,6 +29,11 @@ atnaujinta: ''
 amziai:
   - 'XII'
   - 'XX'
+description: 'Kaunas žinių bazėje atsiskleidžia kaip svarbi pilis kovose su Ordinu, Vytauto fundacijų ir prekybos centras bei XX a. įvykių vieta.'
+socialDescription: 'Kaunas čia minimas nuo kovų su Ordinu ir Vytauto fundacijų iki 1919–1941 m. politinių, karinių ir visuomeninių įvykių.'
+seo_atnaujinta: '2026-07-02T23:12:34.926479+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - vieta
 ---
@@ -36,7 +41,7 @@ tags:
 
 ## Santrauka
 
-Kaunas šiame šaltinyje minimas kaip Ordino puolimų taikinys, žygio į Žemaitiją maršruto mazgas, Vytauto bažnytinių fundacijų vieta ir vienas iš pagrindinių jo laikų prekybos centrų.
+Kaunas žinių bazėje iškyla kaip stipri lietuvių pilis, svarbi kovose su Ordinu ir vėliau Vytauto atstatyta pasienio tvirtovė. Miestas minimas kaip Vytauto bažnytinių fundacijų vieta ir vienas iš dviejų didelių jo valdymo meto prekybos centrų Lietuvoje. XX a. kontekste Kaunas siejamas su 1919 m. puolimu Vilniaus link, 1920 m. maištu, 1935 m. Pasaulio lietuvių kongresu ir 1941 m. Holokausto nusikaltimų nurodymais.
 
 ## Pavadinimai šaltiniuose
 

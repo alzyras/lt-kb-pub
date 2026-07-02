@@ -11,6 +11,11 @@ datos:
   - '2026 m.'
 date_start: '1429'
 date_end: '2026'
+description: 'Šventaragio slėnis Vilniuje siejamas su Žemutine pilimi, Gabijos ugnimi, pagonių aukuru ir Gedimino medžioklės padavimais.'
+socialDescription: 'Šventaragio slėnis: Vilniaus vieta, kur padavimai jungia Žemutinę pilį, Gabijos ugnį, katedros aplinką ir Gedimino legendą.'
+seo_atnaujinta: '2026-07-02T23:12:35.376452+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­ jėgęs tik vyriausias žynys Lizdeika išaiškinti. 8) 374 Šventaragio slėnys 244 Šv.
+Šventaragio slėnis minimas kaip svarbi Žemutinės pilies dalis tarp Vilijos ir Vilnelės, prie pilies kalno. Šaltiniuose ir padavimuose jis siejamas su pagonių aukuru, mirusiųjų deginimo papročiais ir amžinąja ugnimi Gabija. Pasak Strijkovskio ir Kojelavičiaus, Gediminas čia medžiojo po Trakų pilies įkūrimo, o vėlesnė tradicija šią vietą siejo su katedros aplinka.
 
 ## Teiginiai
 

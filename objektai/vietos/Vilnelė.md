@@ -12,6 +12,11 @@ datos:
   - '1580 m.'
 date_start: '1515'
 date_end: '1580'
+description: 'Vilnelė Vilniaus istorijoje: nuo Gedimino tvirtovės ir Manvydo rūmų iki XVI a. malūnų, Markučių ir Kasparo Bekešo kapo.'
+socialDescription: 'Vilnelė sieja Gedimino tvirtovę, Šventaragio slėnį, Užupį, Markučius ir XVI a. Vilniaus malūnus bei Bekešo atminimą.'
+seo_atnaujinta: '2026-07-02T23:12:35.479885+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­ jėgęs tik vyriausias žynys Lizdeika išaiškinti. 73 Vilhelmas Habsburgas 281, 284- 286, 289 Vilhelmas Morenietis 166, 167, 180 Vilhelmas, Olandijos grafas 249 Vilija (Neris) 156 Vilikaila 162 Vilkaviškis 112 Vilkija 216 Vilkų Kampo kaimas 109 Vilnelė, upė 110, 244 Vilkolevičius, bajoras 368 Vilnius 5, 6.
+Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus vietovaizdžio ir miesto raidos ašis. Prie jos žiočių minima Gedimino pastatydinta mūro tvirtovė, netoliese stovėję Manvydo rūmai, Šventaragio slėnis ir kelias į Užupį. XVI a. šaltiniuose prie Vilnelės minimi malūnai, Markučiai ir 1580 m. Kasparo Bekešo kapą pažymėjęs apvalaus bokšto pavidalo paminklas.
 
 ## Teiginiai
 

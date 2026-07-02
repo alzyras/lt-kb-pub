@@ -18,6 +18,11 @@ atnaujinta: ''
 amziai:
   - 'XV'
   - 'XXI'
+description: 'Lietuvos bajorija kaip socialinė ir politinė jėga: nuo Vytauto laikų, 1401 m. susitarimų iki herbų ir politinių teisių.'
+socialDescription: 'Lietuvos bajorijos vaidmuo nuo Vytauto laikų iki vėlesnių politinių teisių, herbų ir LDK paveldo interpretacijų.'
+seo_atnaujinta: '2026-07-02T23:12:35.251934+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - bajorija
   - grupe
@@ -28,7 +33,7 @@ tags:
 
 ## Santrauka
 
-Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laikąs jį ir Lietuvos bajorus laisvais ar nelaisvais. Jo valdymo metu Lietuva jau tiek sutvirtėjo, jog apie jos priklausomybę Lenkijai nebegalėjo būti nė kalbos, ir Lietuvos bajorai tuojau po jo mirties, nieko nesiklausę, paskelbė savo valdovu Švitrigailą. Lietuvos bajorija pasistengė šituo momentu pasinaudoti.
+Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmusi Vytautą ir dalyvavusi 1401 m. susitarimų patvirtinime. Vytauto laikais bajorai įgijo herbų, o vėlesniuose šaltiniuose minima jų įtaka Lietuvos valdžiai, seimams ir politinių teisių gynimui. Įrašas taip pat sieja bajoriją su platesniu Lietuvos Didžiosios Kunigaikštystės politiniu ir kultūriniu paveldu.
 
 ## Teiginiai
 <a id="claim-t-187873"></a>

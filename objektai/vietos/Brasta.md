@@ -16,6 +16,11 @@ datos:
   - '2026 m.'
 date_start: '1379'
 date_end: '2026'
+description: 'Brasta – Kęstučio pasienio sritis ir Trakų kunigaikštijos vieta, svarbi 1379 m. paliauboms, 1544 m. seimui ir 1553 m. spaustuvei.'
+socialDescription: 'Brasta Lietuvos istorijoje siejama su Kęstučio valdomis, 1379 m. paliaubomis, 1544 m. seimu ir Radvilos Juodojo spaustuve.'
+seo_atnaujinta: '2026-07-02T23:12:35.169803+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +36,7 @@ amziai:
 
 ## Santrauka
 
-Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė Vytautą laikinai pasitenkinti pietinėmis Kęstučio srities žemėmis — Gardino ir Brastos sritimis. Radvila Juodasis įkūrė Brastoje spaustuvę, kur buvo spausdinamos lenkiškos protestantų knygos ir buvo lenkiškai išspausdinta Biblija. Ateinančiais 1596 m. Brastoje buvo sušauktas pravoslavų sinodas, kur unija turėjo būti viešai paskelbta.
+Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir viena krikščioniškų Trakų kunigaikštijos sričių, saugotų 1379 m. paliaubų su Ordinu. XVI a. Brasta išliko svarbi politinė ir kultūrinė vieta: 1544 m. Brastos seime Žygimantas perdavė Lietuvos valdžią Žygimantui Augustui, o 1553 m. Mikalojus Radvila Juodasis čia įkūrė spaustuvę. Mieste taip pat veikė protestantų mokykla ir jėzuitų kolegija, susijusi su Leono Kazimiero Sapiegos fundacija.
 
 ## Teiginiai
 

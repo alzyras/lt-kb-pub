@@ -14,6 +14,11 @@ datos:
   - '1545 m.'
 date_start: '1389'
 date_end: '1545'
+description: 'Vilniaus katedra minima kaip Šv. Stanislovo katedra, susijusi su Vytauto dovanojimu, Švitrigailos paskelbimu ir XVI a. koplyčiomis.'
+socialDescription: 'Vilniaus katedros istorijos įrašuose atsiskleidžia kapitulos teisės, valdovų dovanojimai, Švitrigailos paskelbimas ir XVI a. katedros pertvarkymai.'
+seo_atnaujinta: '2026-07-02T23:12:35.299543+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­ kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­ bių. Lietuvos istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­ nomas).
+Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su Lietuvos valdovų ir Vilniaus vyskupų veiksmais. 1396 m. Vytautas, Jogailai sutikus, dovanojo katedros kapitulai Cudzeniškių valdą, o vyskupas Mikalojus joje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu. XVI a. šaltiniai mini katedros perstatymo sutartį, Vyskupų koplyčią, Šventojo Kryžiaus altorių ir valdovių Elžbietos bei Barboros antkapius.
 
 ## Teiginiai
 

@@ -17,6 +17,11 @@ datos:
   - '1983 m.'
 date_start: '500'
 date_end: '1983'
+description: 'Torunės istorija nuo kryžiuočių pilies Kulmo žemėje iki 1576 m. Stepono Batoro dokumento ir vėlesnių miesto paminėjimų.'
+socialDescription: 'Torunė Lietuvos istorijos šaltiniuose siejama su kryžiuočių pilimi, Kulmo žeme, prūsų nukariavimu ir 1576 m. Stepono Batoro dokumentu.'
+seo_atnaujinta: '2026-07-02T23:12:35.314403+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,7 +37,7 @@ amziai:
 
 ## Santrauka
 
-Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos krante, persikėlė per upę į Kulmo žemę ir pastatė Torunės pilį, prasidėjo sisteminga agresija prieš prūsus.
+Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino magistras pastatė Torunės pilį, o 1236 m. miestas perkeltas į dabartinę vietą. Šaltiniai sieja Torunę su kryžiuočių pilių ir miestų plėtra Baltijos pakrantėse bei agresija prieš prūsus. Vėliau Torunė minima ir politiniuose dokumentuose, tarp jų Stepono Batoro 1576 m. gruodžio 20 d. laiške.
 
 ## Teiginiai
 

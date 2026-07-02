@@ -12,6 +12,11 @@ aliases:
   - 'objektai/autoriai/Vysk. Motiejus Valančius'
 variantai:
   - 'Vysk. Motiejus Valančius'
+description: 'Motiejus Valančius – Žemaičių vyskupas, blaivybės sąjūdžio, slaptųjų mokyklų ir lietuviškos spaudos rėmėjas XIX a.'
+socialDescription: 'Motiejus Valančius – Žemaičių vyskupas ir rašytojas, siejamas su blaivybe, slaptosiomis mokyklomis ir lietuviškos spaudos rėmimu.'
+seo_atnaujinta: '2026-07-02T23:12:35.428805+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio raštų autorius, bet ir kaip Žemaičių vyskupas, blaivybės skleidėjas bei lietuviškos spaudos ir slaptųjų mokyklų rėmėjas.
+Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuviškos kultūros rėmėjas. Jo veikla siejama su blaivybės brolijų platinimu, slaptųjų mokyklų skatinimu ir draudžiamos lietuviškos spaudos palaikymu. XIX a. Valančius darė didelę įtaką Lietuvos politiniams procesams ir religiniam bei švietimo gyvenimui.
 
 ## Darbai
 

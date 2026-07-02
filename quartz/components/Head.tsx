@@ -30,6 +30,8 @@ export default (() => {
     // Url of current page
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
+    const canonicalUrl =
+      fileData.slug === "404" ? undefined : fileData.slug === "index" ? url.toString() : socialUrl
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
@@ -83,6 +85,7 @@ export default (() => {
         )}
 
         <link rel="icon" href={iconPath} />
+        {canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 

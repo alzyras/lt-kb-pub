@@ -10,6 +10,11 @@ datos:
   - '1330 m.'
 date_start: '1242'
 date_end: '1330'
+description: 'Olivos kronika padeda tikslinti Dusburgiečio kronikos vietovardžius, Pamedės niokojimą ir 1326–1330 m. redakcijų klausimus.'
+socialDescription: 'Olivos kronika: šaltinis apie Pamedės niokojimą, vietovardžių formas ir Dusburgiečio kronikos redakcijų problemą.'
+seo_atnaujinta: '2026-07-02T23:12:35.465805+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgietis teigia, kad palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija, ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas: išpjovus jam iš pilvo bambą ir prikalus ją prie medžio, Pipinas, smarkiai mušamas, buvo verčiamas. Dusburgietis teigia, kad 167 D.— edificavit; Olivos kronika — tradidit illis (SRP, 1, p. 676) — jiems perdavė.
+Olivos kronika žinių bazėje pristatoma kaip šaltinis, padedantis tikslinti Dusburgiečio kronikos vietovardžius, Pamedės niokojimo aprašymą ir tekstų skirtumus. Ji siejama su 1243 (1242?) m. birželio 15 d. kautynėmis, Sventopelko paliaubomis su Ordinu ir tokiais vietovardžiais kaip Wonsdorff, Wansdorf, Kirsburg, Kirsberg, Kirske ir Kirsko. J. Venta, analizuodamas Olivos kronikos šaltinius, svarstė išlikusios Dusburgiečio kronikos 1326–1330 m. redakcijų klausimą.
 
 ## Teiginiai
 

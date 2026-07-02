@@ -15,6 +15,11 @@ datos:
   - '1325 m.'
 date_start: '1205'
 date_end: '1325'
+description: 'Volynė Lietuvos istorijoje siejama su 1219 m. sutartimi, Gedimino žygiais, Bresto žemės užėmimu ir vėlesnėmis kovomis dėl Rusios valdų.'
+socialDescription: 'Volynė Lietuvos istorijoje atsiskleidžia per 1219 m. sutartį, Gedimino žygius, Bresto žemės užėmimą ir vėlesnes kovas dėl Rusios valdų.'
+seo_atnaujinta: '2026-07-02T23:12:35.477847+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23, Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija) 1219 m. sudarė sutartį su Volyne24, nes kilo pavojus. Dusburgietis teigia, kad gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324 m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną).
+Volynė Lietuvos istorijos kontekste minima kaip svarbi Rusios žemė, su kuria priešmindauginė Lietuva 1219 m. sudarė sutartį kilus išorės pavojui. XIV a. pradžioje Gedimino Lietuva puolė Aukso ordai pavaldžią Volynę ir užėmė Bresto žemę, arba Palenkę. Vėliau Volynė siejama su Lietuvos valdų plėtra, Liubarto ir Narimantaičių valdomis, Vytauto laikų politika bei lenkų reikalavimais unijos derybose.
 
 ## Teiginiai
 

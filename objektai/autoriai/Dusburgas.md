@@ -10,6 +10,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+description: 'Kryžiuočių ordino kunigas Petras iš Dusburgo, 1326 m. užbaigęs „Prūsijos žemės kroniką“ apie Ordino karus ir Lietuvą.'
+socialDescription: 'Petras iš Dusburgo ir jo „Prūsijos žemės kronika“: Vytenio žygiai, Junigėdos bei Pagraudenės paminėjimai ir Ordino karų atmintis.'
+seo_atnaujinta: '2026-07-02T23:12:35.328782+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,7 +27,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikininkas. Šiame leidinyje jis papildomai tiesiogiai siejamas su „Prūsijos žemės kronika“, kurios ištraukos naudojamos aprašant Durbės mūšį ir Vytenio žygį į Ordino žemes.
+Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1326 m. užbaigęs „Prūsijos žemės kroniką“, vėliau pratęstą iki 1330 m. Jo kronika siejama su žiniomis apie prūsus, lietuvius ir Ordino karus, joje minimi Vytenio žygiai, Junigėda, Pagraudenė ir Gedimino diplomatijos epizodai. 1985 m. leidinyje ši kronika išskirta kaip svarbus XIII–XIV a. šaltinis.
 
 ## Darbai
 

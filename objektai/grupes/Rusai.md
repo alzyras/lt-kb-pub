@@ -14,6 +14,11 @@ datos:
   - '2026 m.'
 date_start: '1348'
 date_end: '2026'
+description: 'Rusai LDK šaltiniuose siejami su Strėvos mūšiu, Vytauto kariuomene, prievolių ginčais ir Stryjkovskio Kronikos vertimais.'
+socialDescription: 'Rusų pėdsakai Lietuvos istorijoje: nuo 1348 m. Strėvos mūšio ir Vytauto kariuomenės iki LDK prievolių ir Stryjkovskio Kronikos vertimų.'
+seo_atnaujinta: '2026-07-02T23:12:35.493675+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,7 +33,7 @@ amziai:
 
 ## Santrauka
 
-Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
+Rusai Lietuvos istorijos šaltiniuose minimi kaip LDK kariuomenės, visuomenės ir istoriografijos dalyviai. 1348 m. prie Strėvos į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko, o mūšio pradžioje jie šaudė iš lankų. Kituose liudijimuose rusai siejami su Vytauto internacionaline kariuomene, prievolių ginčais Didžiojoje Kunigaikštystėje ir XVII–XVIII a. Stryjkovskio Kronikos vertimais.
 
 ## Teiginiai
 

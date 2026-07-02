@@ -23,6 +23,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XXI'
+description: 'Ariogala minima nuo Mindaugo laikų iki kryžiuočių žygių ir 1950 m. partizanų kovų ties Daugėliškių mišku.'
+socialDescription: 'Ariogala: Mindaugo laikų Žemaičių žemė, kryžiuočių žygių erdvė ir 1950 m. partizanų kovų vietovė.'
+seo_atnaujinta: '2026-07-02T23:12:35.389873+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'true'
 tags:
   - vieta
 ---
@@ -30,7 +35,7 @@ tags:
 
 ## Santrauka
 
-Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas užrašė karūnavimo metais, ir kaip XIV amžiaus karo veiksmų erdvė. Ji minima kryžiuočių niokojamų sričių sąraše ir Ariogalos–Dubysos rajono žygių aprašuose.
+Ariogala žinių bazėje iškyla kaip Žemaičių žemė, kurios pusę Mindaugas karūnavimo metais užrašė ordinui. Vėlesniuose įrašuose ji siejama su kryžiuočių niokojimais Ariogalos-Dubysos rajone, 1352 m. Kniprodės žygiu ir apylinkių religine reikšme pagonims. XX a. kontekste minima 1950 m. Daugėliškių miško kautynių vieta ties Ariogalos ir Vilkijos rajonų riba.
 
 ## Teiginiai
 <a id="claim-t-179746"></a>

@@ -10,6 +10,11 @@ datos:
   - '1315 m.'
 date_start: '1291'
 date_end: '1315'
+description: 'Junigeda – su Veliuona siejama pilis ir valsčius, minimi 1291–1315 m. Vokiečių ordino žygiuose bei papilių sudeginimuose.'
+socialDescription: 'Junigeda – su Veliuona siejama lietuvių pilis ir valsčius, minimi 1291–1315 m. kovose su Vokiečių ordinu.'
+seo_atnaujinta: '2026-07-02T23:12:35.429369+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį. Dusburgietis teigia, kad apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą Tais pačiais metais per velykas lietuviai pastatė Junigedos valsčiuje pilį533, kurią 531 Žr. Dusburgietis teigia, kad 532 D.— territorium Junigede, Jer — genant zu Junigêdin; valsčius ir pilis (žr.
+Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. kovų su Vokiečių ordinu kontekste. 1291 m. Bertoldas Bruhavenas nusiaubė Junigedos valsčių, o 1293 m. magistras sudegino du pilies papilius. 1313 m. Ragainės komtūras Verneris bandė pulti Junigedos pilį laivais, o 1315 m. didysis magistras Karolis sudegino jos papilį ir paėmė 78 žmones į nelaisvę. Paaiškinimuose Junigeda siejama su Veliuona ir rytiniu Veliuonos piliakalniu, vadinamu Gedimino kapu.
 
 ## Teiginiai
 

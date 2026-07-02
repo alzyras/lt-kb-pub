@@ -22,6 +22,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XXI'
+description: 'Žydų istorija Lietuvoje nuo Vytauto privilegijų iki tarpukario bendruomenės, litvakų tradicijos ir pasipriešinimo getuose.'
+socialDescription: 'Žydai Lietuvoje: Vytauto laikų privilegijos, Trakų ir Lucko bendruomenės, tarpukario kultūrinis gyvenimas, litvakų tradicija ir pasipriešinimas getuose.'
+seo_atnaujinta: '2026-07-02T23:12:35.176668+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - bajorija
   - grupe
@@ -32,7 +37,7 @@ tags:
 
 ## Santrauka
 
-Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo atimamas. Bet Vytautas suprato, kad ekonomiškam Lietuvos kilimui reikalingi ir piniguočiai, kurie reikale teiktų kredito. Todėl atvykusių žydų jis ne tik nespaudė, bet dar jiems davė.
+Žydai Lietuvoje minimi nuo seno: jie galėjo atvykti per Lenkiją ar iš rytų, o Vytauto laikais dalis jų organizuotai persikėlė iš Lenkijos į Lietuvą. 1388 m. Trakų žydai gavo atskirą privilegiją, o 1408 m. Lucke Lietuvos žydams suteiktos platesnės laisvės. Tarpukario Lietuvoje žydai turėjo savitą švietimo, kultūros, partijų ir organizacijų tinklą, tačiau su lietuviais dažniausiai gyveno atskirus, darbo ryšiais susijusius gyvenimus. Litvakų įvaizdį stiprino Vilniaus Gaono autoritetas, o iš buvusios LDK ir ATR…
 
 ## Teiginiai
 <a id="claim-t-117381"></a>

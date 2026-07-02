@@ -25,6 +25,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XX'
+description: 'Žemaičiai – XIII–XX a. šaltiniuose minima lietuvių tautos atšaka, kovojusi su Ordinu ir gynusi savarankiškumą.'
+socialDescription: 'Žemaičiai Lietuvos istorijos šaltiniuose iškyla kaip savarankiška, karinga bendruomenė, svarbi kovose su Ordinu ir Žemaitijos politinėje istorijoje.'
+seo_atnaujinta: '2026-07-02T23:12:35.006680+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - grupe
   - sukilimas
@@ -33,7 +38,7 @@ tags:
 
 ## Santrauka
 
-Žemaičiai lokalizuojami Klaipėdos krašte ir Kuršių marių pakrantėse. Žemaičiai yra pagrindinis ordino karinis tikslas. Kituose šaltiniuose jie rodomi kaip savarankiškumą išlaikanti bendruomenė, anksti pradėjusi intensyvius karo žygius prieš vokiečius, taiką tvirtinusi delnų sudaužymu ir palaikiusi prekybinius ryšius su rygiečiais. Daukanto tekste jie dar aiškinami kaip pajūrių arba žemai gyvenantys žmonės, Perūną vadinę Kūrėju, žinyčiose nestatę savo dievų paveikslų ir motinų išlaikyta sena kalba besididžiuojanti bendruomenė.
+Žemaičiai šaltiniuose vaizduojami kaip viena pagrindinių lietuvių tautos atšakų, XIII a. aktyviai kovojusi su Vokiečių ir Livonijos ordinais. Jie siejami su Skuodo ir Durbės mūšių kontekstu, Mindaugo laikų politika, vėlesniais Jogailos ir Vytauto veiksmais dėl Žemaitijos. Tekstuose pabrėžiamas žemaičių savarankiškumas, priešiškumas Ordino prievartai ir sudėtingas krikščionybės priėmimas.
 
 ## Teiginiai
 <a id="claim-t-176115"></a>

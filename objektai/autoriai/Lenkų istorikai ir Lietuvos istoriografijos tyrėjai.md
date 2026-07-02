@@ -6,6 +6,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+description: 'Lenkų ir kitų Lietuvos istoriografijos tyrėjų apžvalga: nuo Zeillerio ir Latkowskio iki Haleckio, Balzerio, Ochmańskio bei Lossowskio.'
+socialDescription: 'Lenkų istorikų darbai apie Lietuvos praeitį: Mindaugo laikai, Gediminaičių epocha, unijos aktai, šaltinių leidyba ir pokario istoriografija.'
+seo_atnaujinta: '2026-07-02T23:12:35.326086+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +25,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus Mindaugo laikus^126. Lovmianskis, kuris iki šiol nepaliauja rašęs ir iš Lietuvos istorijos srities, prieš 4 dešimt­ mečius išgarsėjo savo 2-jų tomų veikalu apie Lietuvos visuo­ menės ir valstybės pradžią (LowStud). LIETUVOS ISTORIOGRAFIJA 83 dinastija, nuo Gardino kilęs J.
+Apžvalga pristato lenkų istorikus ir Lietuvos istoriografijos tyrėjus, kurių darbai svarbūs Lietuvos praeities tyrimams. Joje minimi M. Zeilleris, J. Latkowskis, O. Haleckis, O. Balzeris, A. Prochaska, St. Zajączkowskis, J. Ochmańskis ir P. Lossowskis. Dėmesys telkiamas į Gediminaičių epochą, Mindaugo laikus, Lenkijos ir Lietuvos unijos aktus, šaltinių leidybą ir po II pasaulinio karo objektyvesnį požiūrį į Lietuvos istoriją.
 
 ## Teiginiai
 

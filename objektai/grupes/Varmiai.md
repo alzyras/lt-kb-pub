@@ -12,6 +12,11 @@ datos:
   - '1277 m.'
 date_start: '1241'
 date_end: '1277'
+description: 'Varmiai – prūsų Varmės gyventojai, minimi 1260–1277 m. kovose, pasidavimuose Ordinui ir vadų Glapo bei Pijopo veikloje.'
+socialDescription: 'Varmiai XIII a. minimi kaip Varmės gyventojai, dalyvavę prūsų kovose, pasidavimuose Ordinui ir vadų Glapo bei Pijopo istorijose.'
+seo_atnaujinta: '2026-07-02T23:12:35.360440+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat kuršiai, estai ir kt.), iš.
+Varmiai buvo Varmės gyventojai, šaltiniuose minimi tarp prūsų žemių žmonių. XIII a. jie pasirodo Ordino karuose, pasidavimuose ir atkritimuose nuo tikėjimo, o po prūsų sukilimo jų vadu buvo išrinktas Glapas. Šaltiniai taip pat mini varmių vadą Pijopą, Baigos pilį ir 1274 m. grįžimą į Bažnyčios vienybę.
 
 ## Teiginiai
 

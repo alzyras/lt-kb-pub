@@ -11,6 +11,11 @@ datos:
   - '1322 m.'
 date_start: '1227'
 date_end: '1322'
+description: 'Kryžiaus žygių dalyviai, davę įžadus ir laikinai talkinę Ordinui Prūsijoje, Livonijoje bei žygiuose į Lietuvos žemes.'
+socialDescription: 'Kas buvo maldininkai ir ką reiškė maldininko įžadai? Įrašas aiškina jų vaidmenį kryžiaus žygiuose, Ordino karo veiksmuose ir Prūsijos bei Lietuvos pasienio konfliktuose.'
+seo_atnaujinta: '2026-07-02T23:12:35.443936+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -21,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Kryžiaus karo ir piligrimystės terminija, taikoma į Prūsiją ar į kryžiaus žygį atvykstantiems talkininkams. Šiame leidinyje maldininkai vaizduojami kaip laikini, įžadais apriboti, bet kariniu požiūriu svarbūs Ordino sąjungininkai.
+Maldininkai šiame žodyno įraše apibūdinami kaip kryžiaus žygių dalyviai, davę religinius įžadus ir laikinai įsitraukę į karo veiksmus. Dusburgiečio pasakojime jie veikia šalia Ordino brolių: atvyksta į Prūsiją, dalyvauja pilių statyboje, žygiuose į Medininkų, Raseinių ar Ariogalos valsčius ir Pieštvės puolime. Įraše pabrėžiama, kad „maldininko įžadai“ žymi ribotą, įžadais apibrėžtą tarnybos ar kelionės laiką.
 
 ## Žodis ir formos
 

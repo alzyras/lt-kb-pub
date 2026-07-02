@@ -17,6 +17,11 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+description: 'Petras Dusburgietis – „Prūsijos žemės kronikos“ autorius, 1326 m. užbaigęs veikalą apie Ordiną, prūsus ir lietuvius.'
+socialDescription: 'Susipažinkite su Petru Dusburgiečiu – Ordino kunigu, kurio „Prūsijos žemės kronika“ liudija XIII-XIV a. pradžios kovas.'
+seo_atnaujinta: '2026-07-02T23:12:35.172270+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - autorius
   - karalius
@@ -27,7 +32,7 @@ tags:
 
 ## Santrauka
 
-Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos“ autorius. Leidinio įvade jis apibūdinamas kaip Ordino brolis kunigas, 1326 m. užbaigęs kroniką ir įteikęs ją magistrui; kronika buvo pratęsta iki 1330 m., o jos tekstas rodo autoriaus teologinį išsilavinimą. To paties leidinio pratarmėje autorius pats išdėsto kronikos paskirtį, užbaigimo datą ir nurodo, kad remiasi savo matytais, dalyvių papasakotais bei iš patikimų šaltinių perimtais dalykais.
+Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos“ autorius. Kroniką jis užbaigė 1326 m., įteikė magistrui Verneriui iš Orzelno, o kūrinys buvo pratęstas iki 1330 m. Veikale pateikiama žinių apie Ordiną, prūsus, lietuvius ir XIII-XIV a. pradžios kovas.
 
 ## Teiginiai
 <a id="claim-t-181459"></a>

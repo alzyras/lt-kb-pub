@@ -19,6 +19,11 @@ datos:
   - '1905 m.'
 date_start: '1253'
 date_end: '1905'
+description: 'LDK istorija: XIII a. viduryje sukurta valstybė, Gedimino ir Algirdo plėtra, ryšiai su Lenkija ir 1840 m. Statuto panaikinimas.'
+socialDescription: 'Lietuvos Didžioji Kunigaikštija iškilo XIII a. viduryje, plėtėsi valdant Gediminui ir Algirdui, o vėliau jos valstybingumą veikė ryšiai su Lenkija ir Rusijos imperijos politika.'
+seo_atnaujinta: '2026-07-02T23:12:35.287062+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -34,7 +39,7 @@ amziai:
 
 ## Santrauka
 
-Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Kunigaikštija. Valstybė – Lietuvos Didžioji Kunigaikštija – buvo sukurta XIII a. Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.
+Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradimą spartino vokiečių riterių agresija prie Baltijos. Valdant Gediminui ir Algirdui valstybė išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga. Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, tačiau personalinė unija silpnino Lietuvos valstybingumą. 1840 m. panaikinus Lietuvos Statutą, buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.
 
 ## Teiginiai
 

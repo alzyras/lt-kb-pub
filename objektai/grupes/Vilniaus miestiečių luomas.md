@@ -15,6 +15,11 @@ datos:
   - '1569 m.'
 date_start: '1323'
 date_end: '1569'
+description: 'Vilniaus miestiečių luomas XIV-XVI a.: kilmė, prekybos privilegijos, Magdeburgo teisės, seimai ir miesto gynybos pareigos.'
+socialDescription: 'Vilniaus miestiečių luomo raida nuo XIV a.: svetimšaliai amatininkai, prekybos laisvės, Magdeburgo teisės ir sostinės gynyba.'
+seo_atnaujinta: '2026-07-02T23:12:35.129750+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -25,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Vilniaus miestiečių luomas aprašomas kaip vėlai, XIV a., susiformavusi nevienalytė miesto bendruomenė, kurią sudarė nelaisvieji, svetimšaliai amatininkai, pirkliai ir valdovui ar didikams priklausę žmonės. Jo padėtis kito per prekybos privilegijas, Magdeburgo teisės taikymą, dalyvavimą krašto reprezentacijose, miesto gynybos pareigas ir XVI a. privilegijas.
+Vilniaus miestiečių luomas, Balińskio vertinimu, susiformavo tik XIV a. iš nelaisvųjų, svetimšalių amatininkų ir valdovui ar bajorams priklaususių tarnų. Jo reikšmę stiprino prekybos privilegijos, Magdeburgo teisės, dalyvavimas Lietuvos suvažiavimuose ir pareigos miesto gynyboje. Luomo padėtį veikė karai, karinės valdžios kišimasis ir privilegijų skirtumai, ypač 1424 m. Vytauto suteiktos lengvatos Romos katalikams.
 
 ## Pavadinimai šaltiniuose
 

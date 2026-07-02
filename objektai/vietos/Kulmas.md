@@ -15,6 +15,11 @@ datos:
   - '2026 m.'
 date_start: '1222'
 date_end: '2026'
+description: 'Kulmas – Kulmo žemės vieta, 1235 m. tapusi viena pirmųjų Kryžiuočių ordino bazių ir minima prūsų bei lietuvių kovose.'
+socialDescription: 'Kulmas siejamas su Kryžiuočių ordino įsitvirtinimu Kulmo žemėje, vyskupu Kristijonu ir vėlesniais prūsų, lietuvių bei lenkų žygiais.'
+seo_atnaujinta: '2026-07-02T23:12:35.294894+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,7 +32,7 @@ amziai:
 
 ## Santrauka
 
-tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj.
+Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama Prūsijos paribyje. Šaltiniuose minima, kad Mozūrų kunigaikštis Konradas čia įkurdino vyskupą Kristijoną, o 1235 m. Kulmas tapo viena pirmųjų kryžiuočių bazių greta Torno. Vėliau Kulmo žemė minima lietuvių ir prūsų žygiuose bei 1330 m. Lokietkos puolime.
 
 ## Teiginiai
 

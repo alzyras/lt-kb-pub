@@ -11,6 +11,11 @@ datos:
   - '1387 m.'
 date_start: '1183'
 date_end: '1387'
+description: 'Kijevo Rusia siejama su Rusios žemėmis, lietuvių žygiais nuo 1183 m. ir Lietuvos valstybės plėtra į stačiatikiškas erdves.'
+socialDescription: 'Kijevo Rusia Lietuvos istorijoje minima kaip Rusios žemių erdvė, kur vyko ankstyvi lietuvių žygiai ir Lietuvos valstybės plėtra.'
+seo_atnaujinta: '2026-07-02T23:12:35.406878+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -21,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią užvaldė pagoniška Lietuvos valstybė tapdama regionine didvalstybe. Rusios žemės taip pat minimos kaip ankstyvų lietuvių karo žygių kryptis.
+Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII a. pabaigos darė įtaką Lietuvai, o vėliau tapo lietuvių karo žygių kryptimi. 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, nusiaubė Pskovą ir galbūt Polocką. Vėliau pagoniška Lietuvos valstybė užvaldė dideles buvusios Kijevo Rusios stačiatikiškų žemių erdves ir tapo regionine didvalstybe.
 
 ## Pavadinimai šaltiniuose
 

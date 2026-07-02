@@ -26,6 +26,11 @@ atnaujinta: ''
 amziai:
   - 'X'
   - 'XIV'
+description: 'Vilnius – Gedimino sostinė, valdžios ir pilies centras, minimas nuo 1322–1323 m. iki XX a. politinių įvykių.'
+socialDescription: 'Vilnius žinių bazėje atsiskleidžia kaip Lietuvos sostinės, Gedimino valdžios centro, vidaus kovų ir modernios istorijos įvykių vieta.'
+seo_atnaujinta: '2026-07-02T23:12:34.815531+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - vieta
 ---
@@ -33,7 +38,7 @@ tags:
 
 ## Santrauka
 
-Vilnius šiame šaltinyje rodomas kaip valdžios ir pilies centras, dėl kurio 1382 m. vyko kova, kaip svarbi Vytauto bažnytinės veiklos vieta ir kaip vienas iš miestų, kuriuose buvo sprendžiamas Lietuvos valdžios likimas.
+Vilnius šioje žinių bazėje pristatomas kaip Gedimino sostinė, valdžios centras ir svarbi Lietuvos politinių kovų vieta. Šaltiniuose minimi Gedimino laiškai, sostinės perkėlimas į Vilnių, 1382 m. pilies užėmimas, Vytauto laikų miesto augimas ir vėlesni miesto istorijos epizodai iki XX a. pabaigos.
 
 ## Pavadinimai šaltiniuose
 

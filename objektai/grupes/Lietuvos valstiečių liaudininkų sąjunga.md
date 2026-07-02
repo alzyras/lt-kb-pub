@@ -10,6 +10,11 @@ datos:
   - '1940 m.'
 date_start: '1920'
 date_end: '1940'
+description: 'Lietuvos valstiečių liaudininkų sąjunga: 1920 m. rinkimai, 1926 m. kairioji koalicija, Kazys Grinius ir opozicija Smetonai.'
+socialDescription: 'Lietuvos valstiečių liaudininkų sąjunga 1920 m. rinkimuose iškilo kaip kairysis valstiečių liaudininkų blokas, 1926 m. sudarė kairiąją koaliciją ir vėliau tapo svarbia opozicine jėga Antano Smetonos režimui.'
+seo_atnaujinta: '2026-07-02T23:12:35.484032+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo 29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP). Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė – valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tautinių mažumų atstovai Seime. Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino M.
+Lietuvos valstiečių liaudininkų sąjunga išaugo iš kairiojo valstiečių liaudininkų bloko, kuris 1920 m. rinkimuose gavo 29 vietas. 1926 m. birželį valstiečiai liaudininkai su socialdemokratais pirmą kartą sudarė kairiąją valdančiąją koaliciją, o prezidentu buvo išrinktas Kazys Grinius. Po 1926 m. perversmo Grinius, spaudžiamas perversmininkų ir gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino Mykolo Sleževičiaus vyriausybę. Vėliau liaudininkai veikė opozicijoje Antano Smetonos režimui ir 1938–1940 m.…
 
 ## Teiginiai
 

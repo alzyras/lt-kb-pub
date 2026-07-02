@@ -15,6 +15,11 @@ datos:
   - '2026 m.'
 date_start: '1222'
 date_end: '2026'
+description: 'Kulmo žemė prie Vyslos, nuo 1222 m. minima šaltiniuose, tapo Vokiečių ordino įsitvirtinimo Prūsijoje pagrindu.'
+socialDescription: 'Kulmo žemė – prie Vyslos buvusi XIII a. teritorija, kurioje Mazovijos kunigaikščio Konrado dovana įsitvirtino Vokiečių ordinas.'
+seo_atnaujinta: '2026-07-02T23:12:35.237280+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius). Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų kunigaikščių dovanota vokiečiams.
+Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos ir Drėvantos. Mazovijos kunigaikščio Konrado dovanotoje Kulmo žemėje įsikūręs Vokiečių ordinas pradėjo veiklą Prūsijoje. Šaltiniuose ji siejama su Ordino pakvietimu, Torunės pilies statyba, prūsų įsiveržimais ir ginčais dėl dovanojimo apimties.
 
 ## Teiginiai
 

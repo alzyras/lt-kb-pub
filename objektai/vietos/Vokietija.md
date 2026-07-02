@@ -21,6 +21,11 @@ datos:
   - '2026 m.'
 date_start: '1034'
 date_end: '2026'
+description: 'Vokietija Lietuvos istorijoje minima kaip studijų, protestantizmo sklaidos, karinės paramos ir XX a. geopolitinių susitarimų veikėja.'
+socialDescription: 'Vokietijos vaidmuo Lietuvos istorijoje: universitetai ir protestantizmo sklaida, kariniai ryšiai, 1918 m. pripažinimas ir 1939 m. susitarimai.'
+seo_atnaujinta: '2026-07-02T23:12:35.126652+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -36,7 +41,7 @@ amziai:
 
 ## Santrauka
 
-Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją. Be to, daug didikų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsdavo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia,. Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),.
+Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių idėjų sklaida, diplomatija ir karais. Vokietijos universitetuose mokęsi didikų vaikai į Lietuvą parsiveždavo protestantizmo idėjas, o 1579 m. žygiui buvo samdomi kariai Vengrijoje ir Vokietijoje. XX a. Vokietija veikė Lietuvos tarptautinę padėtį: 1918 m. Wilhelmas II pripažino Lietuvos nepriklausomybę, o 1939 m. Vokietijos ir SSRS susitarimai keitė Lietuvos priklausymą įtakos sferoms.
 
 ## Teiginiai
 

@@ -11,6 +11,11 @@ datos:
   - '2026 m.'
 date_start: '1398'
 date_end: '2026'
+description: 'Ponų taryba buvo įtakinga LDK institucija, patarusi didžiajam kunigaikščiui ir ribojusi jo veiksmus valstybės politikoje.'
+socialDescription: 'Ponų taryba LDK politikoje stiprino diduomenės įtaką ir vertė didįjį kunigaikštį tartis svarbiais valstybės klausimais.'
+seo_atnaujinta: '2026-07-02T23:12:35.354338+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžiojo kunigaikščio, arba ponų taryba atsirado ir Lietuvoje. Tai ir buvo vadinamoji didžiojo kunigaikščio taryba. Kazimiero viešpatavimo metu taryba taip sutvirtėjo, jog, išrinkusi Aleksandrą, pareikalavo, kad jis nustatytų jos kompetencijos ribas.
+Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi institucija, dariusi įtaką valstybės politikai ir ribojusi valdovo veiksmus. Ji liko patariamasis organas, tačiau didysis kunigaikštis pasižadėjo tartis dėl valstybinių vietų, išlaidų ir pasiuntinių siuntimo. Kazimiero viešpatavimo metu taryba sustiprėjo, o 1492 m. Aleksandro privilegija nustatė jos kompetencijos ribas.
 
 ## Teiginiai
 

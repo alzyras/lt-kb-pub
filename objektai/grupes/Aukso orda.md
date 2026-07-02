@@ -16,6 +16,11 @@ datos:
   - '2026 m.'
 date_start: '1325'
 date_end: '2026'
+description: 'Aukso ordos ryšiai su Lietuva: 1325 m. puolimas, Kijevo žemė, Vytauto planai dėl Tochtamišo ir 1501 m. sąjunga su LDK.'
+socialDescription: 'Aukso orda veikė Lietuvos santykius su Kijevo žeme, Maskva ir totorių chanatais: nuo 1325 m. puolimo iki Vytauto planų dėl Tochtamišo ir 1501 m. sąjungos su LDK.'
+seo_atnaujinta: '2026-07-02T23:12:35.434476+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,7 +33,7 @@ amziai:
 
 ## Santrauka
 
-Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė galinti sudrebinti Maskvos valstybę. Vytautas žadėjo Aukso ordos chaną Tochtamišą iškelti į visų totorių chanatų viršūnę. 1325 m. Aukso orda surengė puolimą prieš Lietuvą, veikiausiai atsakydama į Lietuvos veiksmus Kijevo žemėje.
+Aukso orda Lietuvos istorijoje minima kaip jėga, dariusi įtaką rusų kunigaikštijoms ir Kijevo žemei. 1325 m. ji puolė Lietuvą, veikiausiai atsakydama į Lietuvos veiksmus Kijevo žemėje, o nuo 1328 m. santykiai, tikėtina, tapo kompromisiniai. XIV a. pabaigoje Vytautas siekė pasitelkti Tochtamišą, tačiau žygis įtvirtinti jį Aukso Ordoje baigėsi nesėkme. 1501 m. Aukso orda sudarė sąjungą su LDK prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.
 
 ## Teiginiai
 

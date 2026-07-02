@@ -12,6 +12,11 @@ datos:
   - '1581 m.'
 date_start: '1345'
 date_end: '1581'
+description: 'Vilniaus pilys – valdovų buveinė ir sostinės gynybos centras, minimas Kęstučio 1345 m. puolime, 1440 m. kovose ir Aleksandro mirtyje.'
+socialDescription: 'Vilniaus pilys siejamos su valdovų rezidencija, Katedra, miesto gynyba, 1345 m. Kęstučio puolimu ir Aleksandro mirtimi 1506 m.'
+seo_atnaujinta: '2026-07-02T23:12:35.272457+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,7 +32,7 @@ amziai:
 
 ## Santrauka
 
-- • - 19 ## Puslapis 36 VILNIAUS MIESTO ISTORIJA / TOMAS užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­ tinto, Vilnelės bei. Pagaliau nemažai įvairių tenykš­ čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­ globsčio prie Vilniaus pilies. Kęstutis iš Trakų, savo valdos sostinės, turėjęs geriausių galimybių stebėti visus brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­ riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­ nigaikščio buveinę.
+Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių įvykių vieta. Šaltiniuose minimas 1345 m. lapkričio 22 d. Kęstučio puolimas prieš abi Vilniaus pilis, 1440 m. kovos dėl Žemutinės ir Aukštutinės pilių, taip pat Aleksandro mirtis Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. Pilyse saugotos Žygimanto knygos, veikė ginklų liejykla, buvo rūpinamasi pastatų remontu ir Katedros aplinka.
 
 ## Teiginiai
 

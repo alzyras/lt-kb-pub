@@ -28,6 +28,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XIX'
+description: 'Karaliaučius – Ordino atramos taškas, Prūsijos kultūros centras ir vieta, siejanti Lietuvos karus, Žemaitiją bei Mažvydo „Katekizmą“.'
+socialDescription: 'Karaliaučius Lietuvos istorijoje minimas kaip Ordino tvirtovė, kovų su lietuviais ir žemaičių diplomatijos vieta bei lietuviškos raštijos centras.'
+seo_atnaujinta: '2026-07-02T23:12:35.045223+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - vieta
 ---
@@ -35,7 +40,7 @@ tags:
 
 ## Santrauka
 
-Karaliaučius šiame šaltinyje minimas kaip Rytprūsių prekybos centras ir geografinis orientyras Lietuvos karo veiksmams Sambijoje bei keliui į Dancigą.
+Karaliaučius žinių bazėje atsiskleidžia kaip XIII a. iškilęs Ordino atramos taškas Prūsuose, susijęs su kovomis prieš lietuvius ir Sambijos karo veiksmais. Šaltiniuose jis minimas ir kaip politinių bei diplomatinių epizodų vieta: čia krikštytas Būtautas, lankėsi žemaičių kilmingieji, o žemaičiai sudarė sutartį su Ordinu. Karaliaučius taip pat svarbus Lietuvos kultūros istorijai, nes čia veikė Kulvietis ir Rapolionis, o 1547 m. išspausdintas Martyno Mažvydo „Katekizmas“.
 
 ## Pavadinimai šaltiniuose
 

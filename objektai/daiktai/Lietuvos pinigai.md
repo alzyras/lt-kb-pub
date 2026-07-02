@@ -14,6 +14,11 @@ datos:
   - '1922 m.'
 date_start: '1387'
 date_end: '1922'
+description: 'Lietuvos pinigų raida nuo sidabrinių kapų ir Vytauto pinigėlių iki Aleksandro, Zigmanto Augusto monetų bei auksinais pavadintų ostmarkių.'
+socialDescription: 'Nuo sidabrinių kapų iki Vytauto pinigėlių, čekų grašių ir auksinų: trumpa Lietuvos pinigų raidos apžvalga.'
+seo_atnaujinta: '2026-07-02T23:12:35.321375+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Šaltinio priedėlyje Lietuvos pinigai aprašomi nuo seniausių sidabrinių kapų iki Augusto II laikų monetų. Jame matyti monetų formų, nominalų, kalyklų, užrašų ir ženklų kaita, taip pat perėjimas nuo sidabrinių prie auksinių ir varinių pinigų.
+Lietuvos pinigų istorija čia atsiskleidžia nuo seniausių sidabrinių kapų, apie kurias sprendžiama daugiausia iš radinių, iki Vytauto laikų pinigėlių ir denariukų. Šaltinyje minimi kapų ženklai, įkirtimai, svorio skirtumai, taip pat Vytauto, Aleksandro ir Zigmanto Augusto laikų monetų nominalai bei vertės derinimo bandymai. Pasakojimas parodo, kaip Lietuvoje greta vietinių pinigų kursavo svetimi pinigai, čekų grašiai, rubliai ir vėliau auksinais pavadintos ostmarkės.
 
 ## Pavadinimai šaltiniuose
 

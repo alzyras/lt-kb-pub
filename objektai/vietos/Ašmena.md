@@ -17,6 +17,11 @@ datos:
   - '2026 m.'
 date_start: '1200'
 date_end: '2026'
+description: 'Ašmena minima kaip Jaunučio valdų pilies sritis, Jogailos krikšto kelionės vieta ir karinių žygių taškas prie Vilniaus.'
+socialDescription: 'Ašmena Lietuvos istorijoje siejama su Gediminaičių valdomis, Jogailos krikšto kelione, kryžiuočių žygiais, Švitrigaila ir 1655 m. kovomis prie Vilniaus.'
+seo_atnaujinta: '2026-07-02T23:12:35.305834+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,7 +34,7 @@ amziai:
 
 ## Santrauka
 
-Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis, ir kaip kryžiuočių žygių pasiektas taškas. Prie ankstesnių paminėjimų prisideda Jaunučio valdų aprašas bei 1385 m. vasaros ordino žygis iki Vilniaus ir Ašmenos.
+Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi Jaunučiui skirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja. XIV a. ji minima Jogailos krikšto kelionės, 1385 m. Kryžiuočių ordino žygio ir 1388 m. Lucko liudytojų kontekstuose. Vėliau Ašmena siejama su Švitrigailos dvaru ir 1655 m. rusų bei kazokų pergale prieš lietuvius, atvėrusia kelią Vilniaus link.
 
 ## Teiginiai
 

@@ -9,6 +9,11 @@ datos:
   - '1324 m.'
 date_start: '1302'
 date_end: '1324'
+description: 'Kristburgas – Ordino pilis Pamedėje, siejama su Kalėdų nakties žygiu, vėlesne statyba naujoje vietoje, apgultimis ir 1324 m. įvykiu.'
+socialDescription: 'Kristburgas šaltiniuose iškyla kaip Pamedės pilis, susijusi su Ordino žygiais, priešų apgultimis, tiekimo sunkumais ir 1324 m. kraujo lašais iš duonos.'
+seo_atnaujinta: '2026-07-02T23:12:35.481207+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patraukė į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms ilsintis, priartėjo prie pamedėnų pilies, stovėjusios tada toje vietoje, kuri dabar vadinama Senuoju Kristburgu, slapta įsibrovė į pilį. Dusburgietis teigia, kad pakeitę vietą, bet ne vardą, Jėzaus Kristaus garbei ir šlovei jie pastatė Kristburgo pilį toje vietoje, kur ji ir dabar tebėra304, sutvirtinę ją viskuo, kas reikalinga pilims ginti, ir palikę joje daug karių. Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuostabaus santūrumo bei kuo griežčiausios regulos prisilaikymo sekėjai, be to, tokie puikūs kariai karo metu, kad iš tiesų apie juos galima sakyti, kad namuose jie laikėsi kaip tikri vienuoliai, o kovos.
+Kristburgas buvo Ordino pilis Pamedėje, kurios pradžia siejama su magistro Henriko kariuomenės užimta pamedėnų pilimi Kristaus gimimo naktį. Vėliau broliai išlaikė Kristburgo vardą, bet pastatė pilį naujoje vietoje ir įkurdino joje daug karių. Šaltiniuose Kristburgas minimas kaip nuolatinių kovų, apgulties, tiekimo sunkumų ir 1324 m. stebuklingo įvykio vieta.
 
 ## Teiginiai
 

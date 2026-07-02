@@ -23,6 +23,11 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+description: 'Lietuvos Didžioji Kunigaikštystė: Livonijos protektoratas, karai su Maskva, Vytauto politika ir vėlesnis LDK palikimo nykimas.'
+socialDescription: 'LDK istorija nuo Vytauto rytų politikos ir kovų su Maskva iki Livonijos globos, švietimo reformų ir Lietuvos Statuto panaikinimo.'
+seo_atnaujinta: '2026-07-02T23:12:35.341861+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - bajorija
   - grupe
@@ -33,7 +38,7 @@ tags:
 
 ## Santrauka
 
-Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas. Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės. Už Lietuvos ribų Lietuvos bajorai laikyti tiesiog lenkais.
+Lietuvos Didžioji Kunigaikštystė čia atsiskleidžia per diplomatiją, karus ir valstybės valdymo pokyčius. Šaltiniai mini Vytauto rytų politiką, 1406–1408 m. veiksmus LDK pasienyje, 1559 m. Livonijos globą ir 1564 m. Maskvos kariuomenių įsiveržimą. Vėlesni įrašai rodo LDK institucinio palikimo kaitą: švietimo pertvarkas, pareigybių vardų ginčus ir 1840 m. Lietuvos Statuto panaikinimą.
 
 ## Teiginiai
 <a id="claim-t-169699"></a>

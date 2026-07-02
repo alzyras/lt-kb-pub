@@ -17,6 +17,11 @@ datos:
   - '1960 m.'
 date_start: '1432'
 date_end: '1960'
+description: 'Minskas minimas kaip svarbi Lietuvos žemės vieta: prekybos privilegijose, karo žygiuose, totorių ir Rusijos puolimų kontekste.'
+socialDescription: 'Minskas Lietuvos istorijos šaltiniuose siejamas su prekybos privilegijomis, rytinėmis pilimis ir kariniais žygiais Vilniaus kryptimi.'
+seo_atnaujinta: '2026-07-02T23:12:35.291023+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,7 +37,7 @@ amziai:
 
 ## Santrauka
 
-Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos. Minskas: smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos. Minskas: tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig- mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-.
+Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos teisėmis, rytinėmis pilimis ir karo žygiais. Šaltiniuose jis pasirodo XII a. Polocko kunigaikštijos irimo kontekste, 1432 m. Žygimanto privilegijoje Vilniaus miestiečiams ir vėlesniuose Maskvos, totorių bei Rusijos kariuomenių puolimuose. 1655 m. Rusijos kariuomenė užėmė Minską, o tai buvo platesnio veržimosi Vilniaus link dalis.
 
 ## Teiginiai
 

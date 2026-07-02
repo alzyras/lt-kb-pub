@@ -12,6 +12,11 @@ datos:
   - '1274 m.'
 date_start: '1237'
 date_end: '1274'
+description: 'Pagudėnai – Pagudės prūsų žemės gyventojai, XIII a. kovoję su broliais prie Elbingo, Kristburgo ir Heilsbergo, vėliau davę įkaitų.'
+socialDescription: 'Pagudėnai – Pagudės prūsų žemės gyventojai, XIII a. minimi kovose su broliais, Elbingo pilies statyba, Auktumo vadovavimu ir 1274 m. sugrįžimu į Bažnyčios visuotinybę.'
+seo_atnaujinta: '2026-07-02T23:12:35.266191+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Dusburgietis teigia, kad 193 D.— Pogesania, Jer.— Pogezênen. Lie. Pagudė įteisinta K. Būgos (3, p. 113— 114). Žemės vardas gretinamas su pr. gudde, ‘krūmai’. Prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekė dab. Elbingo apylinkes, o rytuose — Alnos upę. Dusburgietis teigia, kad apie karą su pagudėnais ir Elbingo pilies pastatymą Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra pagudėnus.
+Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į šiaurės rytus nuo Pamedės, tarp dabartinio Elbingo apylinkių ir Alnos upės. XIII a. šaltiniuose jie minimi kovose su broliais: 1237 m. į jų žemę atvykta kariauti ir pastatyta Elbingo pilis, vėliau vyko susirėmimai prie Kristburgo, Heilsbergo ir Elbingo. Prūsams vėl atkritus nuo tikėjimo, pagudėnai kariuomenės vadu išsirinko Auktumą, o 1274 m. kartu su kitomis prūsų grupėmis grįžo į Bažnyčios visuotinybę ir davė įkaitų.
 
 ## Teiginiai
 

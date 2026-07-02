@@ -18,6 +18,11 @@ sukurta: ''
 atnaujinta: ''
 amziai: []
 periodo_grupes: []
+description: 'J. Dlugošas – istorinio pasakojimo šaltinis apie Vorsklos mūšį, Vytauto kariuomenės rikiuotę ir Žalgirio aplinkybes.'
+socialDescription: 'J. Dlugošo raštai padeda atkurti Vorsklos, Žalgirio ir kitų Lietuvos istorijos epizodų pasakojimus.'
+seo_atnaujinta: '2026-07-02T23:12:35.335302+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - autorius
   - mūšis
@@ -26,7 +31,7 @@ tags:
 
 ## Santrauka
 
-J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje jis papildomai naudojamas kaip istorinio pasakojimo šaltinis apie Vorsklos mūšį, Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes; prieduose nurodoma ir jo raštų publikacija.
+J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šaltinis. Jo raštais remiamasi aiškinant Vorsklos mūšio vaizdinį, Vytauto liepos 5 d. kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes. Minimi ir kiti jo liudijimai apie Gedimino žūtį, Kęstučio veiksmus Vilniuje, Švitrigailos bei Livonijos ordino pajėgas ir Upytės krašto niokojimą.
 
 ## Teiginiai
 <a id="claim-t-172865"></a>

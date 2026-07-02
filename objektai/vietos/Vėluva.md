@@ -28,6 +28,11 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XXI'
+description: 'Vėluva – Ordino pasienio pilis ir miestas prie Priegliaus, minimas lietuvių, prūsų ir sūduvių žygių bei apgulčių kontekste.'
+socialDescription: 'Vėluva iškyla kaip XIII–XIV a. karo pasienio vieta: pilis prie Priegliaus, lietuvių žygių, miesto sudeginimo ir apgulties taikinys.'
+seo_atnaujinta: '2026-07-02T23:12:35.384474+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - miestas
   - pilis
@@ -37,7 +42,7 @@ tags:
 
 ## Santrauka
 
-Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m..
+Vėluva minima kaip pilis Priegliaus pakrantėje, kurią per Didįjį prūsų sukilimą apgulė jungtinė prūsų, sūduvių ir lietuvių kariuomenė. Šaltiniuose Vėluvos apylinkės siejamos su lietuvių žygiais: rugpjūtį sudeginti šeši kaimai, nužudytas Fridrichas fon Quitzas su 36 kariais, o 1347 m. spalio pradžioje sudegintas miestas. Vėluvos ir Angerburgo pilys taip pat nurodomos kaip įkurtos 1335 m.
 
 ## Teiginiai
 <a id="claim-t-99858"></a>
